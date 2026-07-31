@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>대한민국 정치·외교 실시간 브리핑</title>
+<style>
+:root{--bg:#f3f5f7;--surface:#fff;--text:#17202a;--muted:#667085;--line:#d7dde5;--dom:#243f66;--for:#176b73;--warn:#fff7dd;--bad:#9a3030}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:Arial,"Noto Sans KR",sans-serif;line-height:1.55}
+header{background:#fff;border-bottom:1px solid var(--line);padding:24px}.wrap,main{max-width:1240px;margin:auto}h1{margin:0;font-size:clamp(26px,4vw,38px)}.sub{color:var(--muted);margin-top:5px}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}button,input,select{padding:9px 12px;border:1px solid var(--line);background:#fff;border-radius:8px;font:inherit}button{cursor:pointer}.active{background:var(--dom);color:#fff}
+main{padding:24px}.notice{padding:14px;border-radius:10px;background:var(--warn);border:1px solid #e6d392;margin-bottom:16px}
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.stat,.issue,.diag{background:#fff;border:1px solid var(--line);border-radius:12px;padding:15px}.label{font-size:12px;color:var(--muted)}.value{font-size:21px;font-weight:700;margin-top:3px}
+.diag{margin-top:14px}.diag h2{margin:0 0 8px;font-size:18px}.diag-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}.diag-item{background:#f7f8fa;border-radius:8px;padding:10px}
+.section{display:flex;justify-content:space-between;align-items:end;margin:24px 0 10px}.issue{margin-bottom:11px;break-inside:avoid}.issue.dom{border-left:5px solid var(--dom)}.issue.for{border-left:5px solid var(--for)}
+.badges{display:flex;gap:5px;flex-wrap:wrap}.badge{font-size:12px;border-radius:999px;background:#edf1f5;padding:3px 8px}.issue h3{margin:9px 0 5px}.meta{font-size:13px;color:var(--muted)}details{border-top:1px solid var(--line);margin-top:10px;padding-top:8px}summary{cursor:pointer;font-weight:700}a{color:#15518a;word-break:break-all}
+.empty{padding:30px;background:#fff;border:1px dashed var(--line);border-radius:12px;text-align:center;color:var(--muted)}
+@media(max-width:850px){.stats,.diag-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){header,main{padding:15px}.stats,.diag-grid{grid-template-columns:1fr}button,input,select{width:100%}}
+@media print{body{background:#fff}.row,.notice,.diag{display:none!important}header{padding:0 0 15px}main{padding:0;max-width:none}.issue{page-break-inside:avoid}@page{size:A4 portrait;margin:15mm}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<h1>대한민국 정치·외교 실시간 브리핑</h1>
+<div class="sub">국내 정치와 외교·대외관계의 주요 진전 및 공식 발표</div>
+<div class="row">
+<button class="view active" data-view="realtime">실시간</button><button class="view" data-view="today">오늘</button><button class="view" data-view="yesterday">어제</button><button class="view" data-view="daily">일별</button><button class="view" data-view="monthly">월별</button>
+</div>
+<div class="row">
+<button class="cat active" data-cat="전체">전체</button><button class="cat" data-cat="국내 정치">국내 정치</button><button class="cat" data-cat="외교·대외관계">외교·대외관계</button>
+</div>
+<div class="row">
+<input type="date" id="date"><input type="month" id="month"><select id="subcat"><option value="">전체 세부 분야</option></select><select id="importance"><option value="">전체 중요도</option><option>핵심</option><option>주요</option><option>참고</option></select><select id="status"><option value="">전체 상태</option></select><select id="country"><option value="">전체 국가·지역</option></select><input type="search" id="q" placeholder="제목·본문 검색"><button id="reset">초기화</button><button onclick="window.print()">인쇄 / PDF</button>
+</div>
+</div></header>
+<main>
+<div id="notice" class="notice">데이터를 불러오는 중입니다.</div>
+<section id="stats" class="stats"></section>
+<section class="diag">
+<h2>최근 수집 진단</h2><div id="diag" class="diag-grid"></div><div id="reason" style="margin-top:10px;color:var(--muted)"></div>
+</section>
+<div class="section"><h2 id="title">실시간 주요 이슈</h2><span id="count"></span></div>
+<section id="issues"></section>
+</main>
+<script>
+'use strict';
+const S={data:{meta:{},issues:[]},view:'realtime',cat:'전체'};
+const $=id=>document.getElementById(id);
+const esc=v=>String(v??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'","&#039;");
+const fmt=v=>{if(!v)return'-';const d=new Date(v);return isNaN(d)?v:new Intl.DateTimeFormat('ko-KR',{dateStyle:'medium',timeStyle:'short',timeZone:'Asia/Seoul'}).format(d)};
+const kdate=(d=new Date())=>new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul'}).format(d);
+function yesterday(){const d=new Date();d.setDate(d.getDate()-1);return kdate(d)}
+async function load(){try{const r=await fetch('./data.json?ts='+Date.now(),{cache:'no-store'});if(!r.ok)throw Error('HTTP '+r.status);S.data=await r.json();fill();render()}catch(e){$('notice').textContent='데이터를 불러오지 못했습니다. data.json과 배포 상태를 확인해 주세요.';$('issues').innerHTML='<div class="empty">데이터 로딩 실패</div>'}}
+function fill(){const a=S.data.issues||[];const set=(id,vals,label)=>{$(id).innerHTML='<option value="">'+label+'</option>'+[...new Set(vals.filter(Boolean))].sort().map(v=>`<option>${esc(v)}</option>`).join('')};set('subcat',a.map(x=>x.subcategory),'전체 세부 분야');set('status',a.map(x=>x.status),'전체 상태');set('country',a.flatMap(x=>x.countries||[]),'전체 국가·지역')}
+function filtered(){const a=S.data.issues||[],d=$('date').value,m=$('month').value,q=$('q').value.trim().toLowerCase();return a.filter(x=>{const day=String(x.occurredAt||'').slice(0,10);if(S.cat!=='전체'&&x.primaryCategory!==S.cat&&x.relatedCategory!==S.cat)return false;if(S.view==='today'&&day!==kdate())return false;if(S.view==='yesterday'&&day!==yesterday())return false;if(S.view==='daily'&&d&&day!==d)return false;if(S.view==='monthly'&&m&&!day.startsWith(m))return false;if($('subcat').value&&x.subcategory!==$('subcat').value)return false;if($('importance').value&&x.importance!==$('importance').value)return false;if($('status').value&&x.status!==$('status').value)return false;if($('country').value&&!(x.countries||[]).includes($('country').value))return false;if(q&&!JSON.stringify(x).toLowerCase().includes(q))return false;return true}).sort((a,b)=>new Date(b.updatedAt)-new Date(a.updatedAt))}
+function render(){const a=filtered(),m=S.data.meta||{},r=m.lastRun||{};$('notice').innerHTML=`<b>${esc(m.collectionStatus||'상태 미확인')}</b><br>${esc(m.notice||'')}`;const stats=[['마지막 정상 업데이트',fmt(m.lastSuccessfulUpdate)],['다음 예정 실행',fmt(m.nextScheduledUpdate)],['실패 출처',String((m.failedSources||[]).length)],['전체 이슈',String((S.data.issues||[]).length)],['오늘 신규',String((S.data.issues||[]).filter(x=>String(x.occurredAt).slice(0,10)===kdate()).length)],['국내 정치',String(a.filter(x=>x.primaryCategory==='국내 정치').length)],['외교·대외관계',String(a.filter(x=>x.primaryCategory==='외교·대외관계').length)],['공식 확인',String(a.filter(x=>x.verificationLevel==='공식 자료 확인').length)]];$('stats').innerHTML=stats.map(([l,v])=>`<div class="stat"><div class="label">${esc(l)}</div><div class="value">${esc(v)}</div></div>`).join('');
+const diag=[['후보',r.fetchedCandidates??0],['승인',r.acceptedCandidates??0],['신규',r.newIssues??0],['중복',r.duplicates??0],['기간 제외',r.rejectedByDate??0],['관련성 제외',r.rejectedByRelevance??0],['공방·논평 제외',r.rejectedAsCommentary??0],['실패 출처',r.failedSourceCount??0]];$('diag').innerHTML=diag.map(([l,v])=>`<div class="diag-item"><div class="label">${esc(l)}</div><b>${esc(v)}</b></div>`).join('');
+$('reason').innerHTML=(r.newIssues===0)?`이번 실행에서는 신규 이슈가 추가되지 않았습니다. 중복 ${r.duplicates||0}건, 기간 제외 ${r.rejectedByDate||0}건, 관련성 부족 ${r.rejectedByRelevance||0}건, 공방·논평 ${r.rejectedAsCommentary||0}건.`:'';const titles={realtime:'실시간 주요 이슈',today:'오늘의 이슈',yesterday:'어제의 확정 브리핑',daily:'일별 브리핑',monthly:'월별 아카이브'};$('title').textContent=titles[S.view];$('count').textContent=a.length+'건';$('issues').innerHTML=a.length?a.map(card).join(''):'<div class="empty">선택한 조건에 맞는 이슈가 없습니다.</div>'}
+function card(x){const cls=x.primaryCategory==='국내 정치'?'dom':'for';const src=(x.sources||[]).map(s=>`<li><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.name)} — ${esc(s.title)} (${esc(s.date)})</a></li>`).join('');return `<article class="issue ${cls}"><div class="badges"><span class="badge">${esc(x.primaryCategory)}</span><span class="badge">${esc(x.subcategory)}</span><span class="badge">${esc(x.importance)}</span><span class="badge">${esc(x.status)}</span><span class="badge">${esc(x.verificationLevel)}</span></div><h3>${esc(x.title)}</h3><div class="meta">발생 ${esc(fmt(x.occurredAt))} · 업데이트 ${esc(fmt(x.updatedAt))} · 국가 ${esc((x.countries||[]).join(', ')||'해당 없음')}</div><p>${esc(x.summary)}</p><details><summary>세부 내용 및 출처</summary>${x.background?`<p><b>배경</b><br>${esc(x.background)}</p>`:''}${x.significance?`<p><b>주요 쟁점 및 의미</b><br>${esc(x.significance)}</p>`:''}${x.nextSchedule?`<p><b>향후 일정</b><br>${esc(x.nextSchedule)}</p>`:''}<p><b>출처</b></p><ul>${src||'<li>출처 없음</li>'}</ul></details></article>`}
+document.querySelectorAll('.view').forEach(b=>b.onclick=()=>{document.querySelectorAll('.view').forEach(x=>x.classList.remove('active'));b.classList.add('active');S.view=b.dataset.view;render()});document.querySelectorAll('.cat').forEach(b=>b.onclick=()=>{document.querySelectorAll('.cat').forEach(x=>x.classList.remove('active'));b.classList.add('active');S.cat=b.dataset.cat;render()});['date','month','subcat','importance','status','country'].forEach(id=>$(id).onchange=render);$('q').oninput=render;$('reset').onclick=()=>location.reload();load();setInterval(load,5*60*1000);
+</script>
+</body></html>
