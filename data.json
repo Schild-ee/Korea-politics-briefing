@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-07-31T16:19:11+09:00",
-    "nextScheduledUpdate": "2026-07-31T16:49:11+09:00",
+    "lastSuccessfulUpdate": "2026-07-31T22:20:08+09:00",
+    "nextScheduledUpdate": "2026-07-31T22:50:08+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-07-31T16:19:09+09:00",
-      "finishedAt": "2026-07-31T16:19:11+09:00",
+      "startedAt": "2026-07-31T22:20:06+09:00",
+      "finishedAt": "2026-07-31T22:20:08+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 43,
-      "duplicates": 3,
-      "rejected": 154,
-      "rejectedByDate": 153,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 45,
+      "duplicates": 38,
+      "rejected": 152,
+      "rejectedByDate": 150,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 43,
-      "updatedIssues": 0,
+      "newIssues": 9,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,419 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260731-FR-DC98CF25-021",
+      "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T14:08:19+09:00",
+      "publishedAt": "2026-07-31T14:08:19+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEpRSEZCaV9SN0NpcFhnRGZoMW82eHNDRy14SnBkcldENGNxWnNoRUVVZ0F0VU8wOXNYWVVrSEk1RklrbXZiQ08zWG1EUUk5ckp0a0Uwcl9zUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSGdmM1NrLWNZY0xmdVd1dzBVaEstUDZzZUdKRnVlRmVMSzMwazFoMEFROHVnbm1USHVFNHk3OWJNMzNkYVNVWkxGOFR0NmZXWUo5eF9OeW1IQUJvVTdmSnp5bXJhSDVtRDgyRkFqU1o?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-07-31T22:20:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dc98cf25a436c5e7829af350480474cf46a4cf1fa143199ed2bf45d6c19e56c3"
+    },
+    {
+      "id": "20260731-DP-54D940FC-044",
+      "title": "공고 게시판 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T17:13:11+09:00",
+      "publishedAt": "2026-07-31T17:13:11+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "공고 게시판 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "공고 게시판 - 대한민국 법원",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMTRrbU5lUXo3TmpYTEVMNzV6RXE2M2c0Z3RCc0FmU2xYZ3ZqQWVRSEtjSTRLYVIxbXNiLVljbUdRVW1CWXVMUlR1UE5Xd1ZDWHNfOHJtUzFxb0xBLUlrSG9EUHlmQ0tBd0t2ZndGTTh0XzFhRXZZTlhvbFhqemk1am5DaWZGejhzSXBlTTh6aUxNeUhyU08tZWJFSGlVc0Z6VzRWZWRPV1g0RG5qNUdqOTc1bDNaWi1Xdk4xVm5mTkhLZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "54d940fcc28740288dfb2dfc5940703d51c3cb3955aaee0fcf710e2602c8793b"
+    },
+    {
+      "id": "20260731-DP-5E900B31-045",
+      "title": "치매관리주치의 시범사업 확대…92개 시군구서 맞춤형 서비스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T15:54:06+09:00",
+      "publishedAt": "2026-07-31T15:54:06+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "치매관리주치의 시범사업 확대…92개 시군구서 맞춤형 서비스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "치매관리주치의 시범사업 확대…92개 시군구서 맞춤형 서비스 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1hjZDd2ZjhlMEE1T2NmOWZuellRb0VEczFMaHJoQ04takNEQmNXQzl1Wk1sMFFBNENhaW1aR1ppMTIxWm0yTGota2ZUS1EtN0EtcUdHVGlvN3NYX1hjYWRKVHZkcVFFcGE0OTZuNnJXclEyTUl0MF9EQjJma0VXT1kzbGxycHJfU0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5e900b313b5c2751d29810ab33372ab36134fbfd11a38d92bd99d4f5413d326d"
+    },
+    {
+      "id": "20260730-DP-6AC31E23-046",
+      "title": "한국 왔다간 마이클 가족, 여행 후 '이것' 때문에… - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T18:48:01+09:00",
+      "publishedAt": "2026-07-30T18:48:01+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "한국 왔다간 마이클 가족, 여행 후 '이것' 때문에… - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국 왔다간 마이클 가족, 여행 후 '이것' 때문에… - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iZEQxaTNWX2FYakxaVFNFdUl1XzlTSDZEaGNHX0Nvd1A4RERvMWN2U1UzQXRIS0NJNGFVSW55VnhqN1pDZkdxR1hqNkZPN2NTX2xVSUt2WFdjTzF3Q3h4MXpSMFRQSGtCeHZPcg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6ac31e237f7cb456207b0fa40d2a4ca99e4d6f5022fbad4f49495c8182fd21c8"
+    },
+    {
+      "id": "20260731-DP-553FA58E-047",
+      "title": "이재명 대통령, 「한-칠레 비즈니스 라운드테이블」 참석 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T10:34:21+09:00",
+      "publishedAt": "2026-07-31T10:34:21+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "이재명 대통령, 「한-칠레 비즈니스 라운드테이블」 참석 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 「한-칠레 비즈니스 라운드테이블」 참석 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uczVGNUZZcmp6bkJ4S0xjVU5XSElMb2NoZjhZSXNZek92U1dJRGtCZjFoUGM0SllsTHowZFJrRFNqeEhyOWFDcmN6U2xXTEZuSDlONWFuMWtlLU02RjlCSzdOblFZeWhBZy1yVzFMTzU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "553fa58e9a5d2ea555bfd074c3804e35d8da264c9291eb96d3efdbb2b7677d5e"
+    },
+    {
+      "id": "20260731-FR-3E24EC37-048",
+      "title": "알약 미리 까서 보관하지 마세요! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T16:59:56+09:00",
+      "publishedAt": "2026-07-31T16:59:56+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "알약 미리 까서 보관하지 마세요! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "알약 미리 까서 보관하지 마세요! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejk0UE9LRnhRR1ZnMWNMLW94c1hiTVVWWGZ4VndySkJuT0lXVEw3SENFQVpBNmhnNjFFX2ZJLWdlZ1VQUDc3N3BpS1pEN1lNek1oNFNfR2ZoNXczb3U2VUgtaFltRXU1ei1LaHV5cF9MSExmSGxtR3QtVVhUVnpQdFMzZ1NxMzFkR1BuZA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3e24ec37dfefce4cf644e7de42c7e318358d6e4fdbe00085008e1b656694aaf2"
+    },
+    {
+      "id": "20260731-FR-EE7F5564-049",
+      "title": "나를 안 보는 게 정답이야 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T11:54:34+09:00",
+      "publishedAt": "2026-07-31T11:54:34+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "나를 안 보는 게 정답이야 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "나를 안 보는 게 정답이야 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS3Nva2xUd2dUbmF0blRFeDBOZEFQQ09vNDJWNGlLbjY1RFRJemFUcUJJT0tpWDhYcTBQYmhDVWlNdEYtTER5bGMwY3d3SkpGdnMtTmNudWtIRV9sT29LTW5Wb21DT3RGSEFZck5MZGpQWk1iTXNYTktDT01HdTM3Sll4U0dma3RQZXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ee7f55645cc258c0e83ff98523aad365768586c1f24e30a985312f9685836a7d"
+    },
+    {
+      "id": "20260731-DP-36BBD5BD-050",
+      "title": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T06:34:21+09:00",
+      "publishedAt": "2026-07-31T06:34:21+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnV5VFBrT1VMRV9MWlNqVEQ2WXpCb3dSRW1nWk9mZjdJZkExS0k2MncyZ2gzTm5vN0pqazIzemtLWnhxNy1JN3RBZE5fN2RIeDVHR0NZaG42YTd3YnJkdDZuWlVSZzlBakVhQl8zVF94aXNYQnNENzlLRlpwSUtycTV4N0JtWTRWbUU5R1RB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "36bbd5bdd819365dc756e03ec492b8220a1f62901421cc1d7782716a051e7610"
+    },
+    {
+      "id": "20260729-FR-0E1443D9-051",
+      "title": "지구 반대편 브라질에서 대한민국 경제와 외교의 지평을 넓혀갑니다 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T01:38:43+09:00",
+      "publishedAt": "2026-07-29T01:38:43+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "지구 반대편 브라질에서 대한민국 경제와 외교의 지평을 넓혀갑니다 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "지구 반대편 브라질에서 대한민국 경제와 외교의 지평을 넓혀갑니다 - 대한민국 청와대",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjbjJYUlhPQ3lHNWF5bkctUGFsR3prd1g2YzkteWNFLXE4eDh3dF9FZGNVbEhLNDlaanJUNWlGcGN3Mkk1Y0dTX2NTLTI2QlUtMW14TmFiUjhhcmszUHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0e1443d974030c248666928ce16cd85c70e9ab808140885cb961580361d79dac"
+    },
+    {
+      "id": "20260730-FR-A508140A-052",
+      "title": "새만금, 문을 열다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T10:27:19+09:00",
+      "publishedAt": "2026-07-30T10:27:19+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-07-31T22:20:07+09:00",
+      "summary": "새만금, 문을 열다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "새만금, 문을 열다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhbG80Sk8yTGJSUlBydGxfdm8tRnh6NDM0TnBpMEIwV29PNVkxRXUwdW9jd244UVhwTWR2X1l4QWtoMjE4RFRtcVA4aTVQZjlHRUxFSXdWS3pBMldMdm9ucXE5TzdPNjktNU9meWZn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a508140a1995607390b929c9bb6656c0ff6feb76f9d646974fb42a83079b9ce5"
+    },
     {
       "id": "20260729-FR-526BADFD-043",
       "title": "미국 워싱턴에서 열린 한국전 정전 73주년 기념식… “정전협정은 한미동맹의 출발점” - 더퍼블릭",
@@ -906,46 +1319,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "38b6866149d091c2a052e7b08072d56d891becad2d9d58f7bd6f2449ef04559c"
-    },
-    {
-      "id": "20260731-FR-DC98CF25-021",
-      "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T14:08:19+09:00",
-      "publishedAt": "2026-07-31T14:08:19+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-07-31T16:19:10+09:00",
-      "summary": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEpRSEZCaV9SN0NpcFhnRGZoMW82eHNDRy14SnBkcldENGNxWnNoRUVVZ0F0VU8wOXNYWVVrSEk1RklrbXZiQ08zWG1EUUk5ckp0a0Uwcl9zUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "dc98cf25a436c5e7829af350480474cf46a4cf1fa143199ed2bf45d6c19e56c3"
     },
     {
       "id": "20260731-FR-77DE9854-022",
