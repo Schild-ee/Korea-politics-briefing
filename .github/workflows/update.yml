@@ -1,0 +1,77 @@
+name: Update political briefing
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: political-briefing-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Update briefing data
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+        run: python collector.py
+
+      - name: Validate and diagnose data
+        run: |
+          python -m json.tool data.json > /dev/null
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          data = json.loads(Path("data.json").read_text(encoding="utf-8"))
+          meta = data.get("meta", {})
+          issues = data.get("issues", [])
+
+          print("meta.mode:", meta.get("mode"))
+          print("meta.lastSuccessfulUpdate:", meta.get("lastSuccessfulUpdate"))
+          print("meta.collectionStatus:", meta.get("collectionStatus"))
+          print("meta.failedSources:", meta.get("failedSources"))
+          print("meta.lastRun:", json.dumps(meta.get("lastRun", {}), ensure_ascii=False))
+          print("total issues:", len(issues))
+          print("latest five titles:")
+
+          for issue in issues[:5]:
+              print("-", issue.get("title"))
+          PY
+
+      - name: Commit updated data
+        run: |
+          git config user.name "briefing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json
+
+          if git diff --cached --quiet; then
+            echo "No data.json changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update political briefing data"
+          git push
