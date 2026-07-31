@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "lastSuccessfulUpdate": "2026-07-31T14:30:00+09:00",
+    "nextScheduledUpdate": "2026-07-31T15:00:00+09:00",
+    "collectionStatus": "demo",
+    "notice": "현재는 데모 데이터입니다. 실제 자동 수집기를 연결하면 실시간 업데이트가 가능합니다."
+  },
+  "issues": [
+    {
+      "id": "2026-07-31-DP-001",
+      "title": "국회 상임위원회, 주요 법안 심사 일정 확정",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T10:00:00+09:00",
+      "publishedAt": "2026-07-31T10:20:00+09:00",
+      "firstCollectedAt": "2026-07-31T10:30:00+09:00",
+      "updatedAt": "2026-07-31T11:00:00+09:00",
+      "summary": "국회 상임위원회가 주요 법안의 심사 일정을 확정했다. 세부 일정은 관련 위원회 공식 자료를 기준으로 정리해야 한다.",
+      "background": "이 항목은 화면 기능 점검을 위한 예시 데이터다.",
+      "significance": "실제 운영 시 법안 처리 단계와 향후 표결 일정을 함께 추적할 수 있다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "후속 심사 일정 확인 필요",
+      "sources": [
+        {
+          "name": "대한민국 국회",
+          "title": "예시 공식 자료",
+          "date": "2026-07-31",
+          "url": "https://www.assembly.go.kr"
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false
+    },
+    {
+      "id": "2026-07-31-FR-001",
+      "title": "정부, 주요국과의 고위급 외교 일정 발표",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "정상외교",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 외교부"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T09:00:00+09:00",
+      "publishedAt": "2026-07-31T09:30:00+09:00",
+      "firstCollectedAt": "2026-07-31T09:40:00+09:00",
+      "updatedAt": "2026-07-31T10:10:00+09:00",
+      "summary": "정부가 주요국과의 고위급 외교 일정을 발표했다. 실제 운영 시 상대국 정부 발표와 교차 확인하도록 설계되어 있다.",
+      "background": "이 항목은 외교·대외관계 화면과 국가 필터를 점검하기 위한 예시 데이터다.",
+      "significance": "외교 일정과 후속 합의 여부를 시간순으로 추적할 수 있다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "공식 회담 결과 발표 시 업데이트",
+      "sources": [
+        {
+          "name": "대한민국 외교부",
+          "title": "예시 보도자료",
+          "date": "2026-07-31",
+          "url": "https://www.mofa.go.kr"
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false
+    },
+    {
+      "id": "2026-07-30-DP-001",
+      "title": "정부, 주요 정책 시행계획 확정",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "국무조정실"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "종결",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T14:00:00+09:00",
+      "publishedAt": "2026-07-30T15:00:00+09:00",
+      "firstCollectedAt": "2026-07-30T15:15:00+09:00",
+      "updatedAt": "2026-07-31T08:00:00+09:00",
+      "summary": "정부가 주요 정책의 시행계획을 확정했다.",
+      "background": "전날 확정 브리핑 예시다.",
+      "significance": "일일 확정본과 월별 아카이브 기능 점검에 사용된다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "국무조정실",
+          "title": "예시 보도자료",
+          "date": "2026-07-30",
+          "url": "https://www.opm.go.kr"
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "relatedIssueIds": [],
+      "includedInDailyBrief": true
+    }
+  ]
+}
