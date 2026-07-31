@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>대한민국 정치·외교 실시간 브리핑</title>
+  <style>
+    :root {
+      --bg: #f3f5f7;
+      --surface: #ffffff;
+      --text: #17202a;
+      --muted: #667085;
+      --line: #d8dee6;
+      --domestic: #243f66;
+      --foreign: #176b73;
+      --accent: #315f91;
+      --warning-bg: #fff8df;
+      --warning-line: #e7d59a;
+      --critical-bg: #fbe9e9;
+      --critical-text: #912c2c;
+      --success-bg: #e9f5eb;
+      --success-text: #2c6b3a;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: Arial, "Noto Sans KR", sans-serif;
+      line-height: 1.6;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--line);
+      padding: 24px;
+    }
+
+    .header-inner, main {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(25px, 4vw, 36px);
+      letter-spacing: -0.03em;
+    }
+
+    .subtitle {
+      margin-top: 6px;
+      color: var(--muted);
+    }
+
+    .nav, .filters, .print-tools {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 18px;
+    }
+
+    button, select, input {
+      min-height: 40px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--surface);
+      color: var(--text);
+      padding: 8px 12px;
+      font: inherit;
+    }
+
+    button { cursor: pointer; }
+    button:hover { border-color: var(--accent); }
+    .active {
+      background: var(--domestic);
+      color: #fff;
+      border-color: var(--domestic);
+    }
+
+    main { padding: 24px; }
+
+    .notice {
+      background: var(--warning-bg);
+      border: 1px solid var(--warning-line);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin-bottom: 18px;
+    }
+
+    .status-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 16px;
+    }
+
+    .stat-label {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .stat-value {
+      margin-top: 4px;
+      font-size: 24px;
+      font-weight: 700;
+    }
+
+    .section-heading {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 12px;
+      margin: 28px 0 12px;
+    }
+
+    .section-heading h2 { margin: 0; }
+    .result-count { color: var(--muted); }
+
+    .monthly-summary {
+      display: none;
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 18px;
+      margin-bottom: 16px;
+    }
+
+    .summary-columns {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .summary-box {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 14px;
+    }
+
+    .issue-card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 18px;
+      margin-bottom: 12px;
+      break-inside: avoid;
+    }
+
+    .issue-card.domestic { border-left: 5px solid var(--domestic); }
+    .issue-card.foreign { border-left: 5px solid var(--foreign); }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .badge {
+      border-radius: 999px;
+      background: #edf1f5;
+      padding: 3px 8px;
+      font-size: 12px;
+      font-weight: 600;
+    }
+
+    .badge.critical {
+      background: var(--critical-bg);
+      color: var(--critical-text);
+    }
+
+    .badge.verified {
+      background: var(--success-bg);
+      color: var(--success-text);
+    }
+
+    .issue-card h3 {
+      margin: 10px 0 6px;
+      font-size: 21px;
+      letter-spacing: -0.02em;
+    }
+
+    .meta {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    details {
+      border-top: 1px solid var(--line);
+      margin-top: 12px;
+      padding-top: 10px;
+    }
+
+    summary {
+      cursor: pointer;
+      font-weight: 700;
+    }
+
+    a {
+      color: #15518a;
+      word-break: break-all;
+    }
+
+    .empty, .error {
+      background: var(--surface);
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      padding: 32px;
+      text-align: center;
+      color: var(--muted);
+    }
+
+    .error {
+      color: #8f2d2d;
+      border-color: #d9a6a6;
+    }
+
+    @media (max-width: 850px) {
+      .status-grid { grid-template-columns: repeat(2, 1fr); }
+      .summary-columns { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 560px) {
+      header, main { padding: 16px; }
+      .status-grid { grid-template-columns: 1fr; }
+      button, select, input { width: 100%; }
+    }
+
+    @media print {
+      body { background: #fff; }
+      header {
+        border: 0;
+        padding: 0 0 16px;
+      }
+      main {
+        max-width: none;
+        padding: 0;
+      }
+      .nav, .filters, .print-tools, .notice {
+        display: none !important;
+      }
+      .issue-card, .stat, .monthly-summary, .summary-box {
+        box-shadow: none;
+        page-break-inside: avoid;
+      }
+      a { color: #000; text-decoration: none; }
+      @page {
+        size: A4 portrait;
+        margin: 15mm;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>대한민국 정치·외교 실시간 브리핑</h1>
+      <div class="subtitle">국내 정치와 외교·대외관계의 주요 진전 및 공식 발표</div>
+
+      <div class="nav" aria-label="조회 메뉴">
+        <button class="view-button active" data-view="realtime">실시간</button>
+        <button class="view-button" data-view="today">오늘</button>
+        <button class="view-button" data-view="yesterday">어제</button>
+        <button class="view-button" data-view="daily">일별</button>
+        <button class="view-button" data-view="monthly">월별</button>
+      </div>
+
+      <div class="nav" aria-label="분류 메뉴">
+        <button class="category-button active" data-category="전체">전체</button>
+        <button class="category-button" data-category="국내 정치">국내 정치</button>
+        <button class="category-button" data-category="외교·대외관계">외교·대외관계</button>
+      </div>
+
+      <div class="filters">
+        <input type="date" id="dateFilter" aria-label="날짜 선택">
+        <input type="month" id="monthFilter" aria-label="월 선택">
+
+        <select id="subcategoryFilter" aria-label="세부 분야">
+          <option value="">전체 세부 분야</option>
+        </select>
+
+        <select id="importanceFilter" aria-label="중요도">
+          <option value="">전체 중요도</option>
+          <option value="핵심">핵심</option>
+          <option value="주요">주요</option>
+          <option value="참고">참고</option>
+        </select>
+
+        <select id="statusFilter" aria-label="진행 상태">
+          <option value="">전체 진행 상태</option>
+        </select>
+
+        <select id="countryFilter" aria-label="국가 및 지역">
+          <option value="">전체 국가·지역</option>
+        </select>
+
+        <input type="search" id="searchInput" placeholder="제목·본문 키워드 검색">
+        <button id="resetButton">필터 초기화</button>
+      </div>
+
+      <div class="print-tools">
+        <button data-print-category="전체">현재 화면 인쇄 / PDF</button>
+        <button data-print-category="국내 정치">국내 정치만 인쇄 / PDF</button>
+        <button data-print-category="외교·대외관계">외교·대외관계만 인쇄 / PDF</button>
+        <button id="printDateButton">선택 날짜 인쇄 / PDF</button>
+        <button id="printMonthButton">선택 월 인쇄 / PDF</button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div id="notice" class="notice">데이터를 불러오는 중입니다.</div>
+    <section id="statusGrid" class="status-grid"></section>
+
+    <section id="monthlySummary" class="monthly-summary">
+      <h2>월간 요약</h2>
+      <div id="monthlySummaryContent" class="summary-columns"></div>
+    </section>
+
+    <div class="section-heading">
+      <h2 id="sectionTitle">실시간 주요 이슈</h2>
+      <span id="resultCount" class="result-count"></span>
+    </div>
+
+    <section id="issueList"></section>
+  </main>
+
+  <script>
+    'use strict';
+
+    const state = {
+      data: { meta: {}, issues: [] },
+      view: 'realtime',
+      category: '전체',
+      printCategory: null
+    };
+
+    const elements = {
+      notice: document.getElementById('notice'),
+      statusGrid: document.getElementById('statusGrid'),
+      issueList: document.getElementById('issueList'),
+      sectionTitle: document.getElementById('sectionTitle'),
+      resultCount: document.getElementById('resultCount'),
+      dateFilter: document.getElementById('dateFilter'),
+      monthFilter: document.getElementById('monthFilter'),
+      subcategoryFilter: document.getElementById('subcategoryFilter'),
+      importanceFilter: document.getElementById('importanceFilter'),
+      statusFilter: document.getElementById('statusFilter'),
+      countryFilter: document.getElementById('countryFilter'),
+      searchInput: document.getElementById('searchInput'),
+      monthlySummary: document.getElementById('monthlySummary'),
+      monthlySummaryContent: document.getElementById('monthlySummaryContent')
+    };
+
+    function formatDateTime(value) {
+      if (!value) return '-';
+      const date = new Date(value);
+      if (Number.isNaN(date.getTime())) return value;
+      return new Intl.DateTimeFormat('ko-KR', {
+        dateStyle: 'medium',
+        timeStyle: 'short',
+        timeZone: 'Asia/Seoul'
+      }).format(date);
+    }
+
+    function kstDateString(date = new Date()) {
+      return new Intl.DateTimeFormat('en-CA', {
+        timeZone: 'Asia/Seoul'
+      }).format(date);
+    }
+
+    function getYesterdayString() {
+      const date = new Date();
+      date.setDate(date.getDate() - 1);
+      return kstDateString(date);
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? '')
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+
+    async function loadData() {
+      try {
+        const response = await fetch('./data.json?ts=' + Date.now(), {
+          cache: 'no-store'
+        });
+
+        if (!response.ok) {
+          throw new Error('HTTP ' + response.status);
+        }
+
+        state.data = await response.json();
+        populateFilters();
+        render();
+      } catch (error) {
+        console.error(error);
+        elements.notice.className = 'error';
+        elements.notice.textContent =
+          '데이터를 불러오지 못했습니다. data.json 파일과 배포 상태를 확인해 주세요.';
+        elements.issueList.innerHTML =
+          '<div class="error">data.json 로딩에 실패했습니다.</div>';
+      }
+    }
+
+    function populateFilters() {
+      const issues = state.data.issues || [];
+      const subcategories = [...new Set(issues.map(issue => issue.subcategory).filter(Boolean))].sort();
+      const statuses = [...new Set(issues.map(issue => issue.status).filter(Boolean))].sort();
+      const countries = [...new Set(issues.flatMap(issue => issue.countries || []))].sort();
+
+      elements.subcategoryFilter.innerHTML =
+        '<option value="">전체 세부 분야</option>' +
+        subcategories.map(value => `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`).join('');
+
+      elements.statusFilter.innerHTML =
+        '<option value="">전체 진행 상태</option>' +
+        statuses.map(value => `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`).join('');
+
+      elements.countryFilter.innerHTML =
+        '<option value="">전체 국가·지역</option>' +
+        countries.map(value => `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`).join('');
+    }
+
+    function getFilteredIssues() {
+      const selectedDate = elements.dateFilter.value;
+      const selectedMonth = elements.monthFilter.value;
+      const subcategory = elements.subcategoryFilter.value;
+      const importance = elements.importanceFilter.value;
+      const status = elements.statusFilter.value;
+      const country = elements.countryFilter.value;
+      const keyword = elements.searchInput.value.trim().toLowerCase();
+      const today = kstDateString();
+      const yesterday = getYesterdayString();
+
+      return (state.data.issues || [])
+        .filter(issue => {
+          const issueDate = String(issue.occurredAt || '').slice(0, 10);
+          const categoryMatch =
+            state.category === '전체' ||
+            issue.primaryCategory === state.category ||
+            issue.relatedCategory === state.category;
+
+          if (!categoryMatch) return false;
+          if (state.view === 'today' && issueDate !== today) return false;
+          if (state.view === 'yesterday' && issueDate !== yesterday) return false;
+          if (state.view === 'daily' && selectedDate && issueDate !== selectedDate) return false;
+          if (state.view === 'monthly' && selectedMonth && !issueDate.startsWith(selectedMonth)) return false;
+          if (subcategory && issue.subcategory !== subcategory) return false;
+          if (importance && issue.importance !== importance) return false;
+          if (status && issue.status !== status) return false;
+          if (country && !(issue.countries || []).includes(country)) return false;
+
+          if (keyword) {
+            const searchable = JSON.stringify(issue).toLowerCase();
+            if (!searchable.includes(keyword)) return false;
+          }
+
+          if (state.printCategory && state.printCategory !== '전체') {
+            return issue.primaryCategory === state.printCategory ||
+                   issue.relatedCategory === state.printCategory;
+          }
+
+          return true;
+        })
+        .sort((a, b) => new Date(b.updatedAt) - new Date(a.updatedAt));
+    }
+
+    function renderStatus(items) {
+      const today = kstDateString();
+      const values = [
+        ['마지막 정상 업데이트', formatDateTime(state.data.meta.lastSuccessfulUpdate)],
+        ['다음 업데이트 예정', formatDateTime(state.data.meta.nextScheduledUpdate)],
+        ['오늘 신규 이슈', items.filter(issue => String(issue.occurredAt).slice(0, 10) === today).length],
+        ['국내 정치', items.filter(issue => issue.primaryCategory === '국내 정치').length],
+        ['외교·대외관계', items.filter(issue => issue.primaryCategory === '외교·대외관계').length],
+        ['확인 중', items.filter(issue => issue.status === '확인 중').length],
+        ['정정', items.filter(issue => issue.corrected).length]
+      ];
+
+      elements.statusGrid.innerHTML = values.map(([label, value]) => `
+        <article class="stat">
+          <div class="stat-label">${escapeHtml(label)}</div>
+          <div class="stat-value">${escapeHtml(value)}</div>
+        </article>
+      `).join('');
+    }
+
+    function renderMonthlySummary(items) {
+      if (state.view !== 'monthly') {
+        elements.monthlySummary.style.display = 'none';
+        return;
+      }
+
+      elements.monthlySummary.style.display = 'block';
+
+      const domestic = items.filter(issue => issue.primaryCategory === '국내 정치').length;
+      const foreign = items.filter(issue => issue.primaryCategory === '외교·대외관계').length;
+
+      const subcategoryCounts = {};
+      const countryCounts = {};
+
+      items.forEach(issue => {
+        if (issue.subcategory) {
+          subcategoryCounts[issue.subcategory] = (subcategoryCounts[issue.subcategory] || 0) + 1;
+        }
+        (issue.countries || []).forEach(country => {
+          countryCounts[country] = (countryCounts[country] || 0) + 1;
+        });
+      });
+
+      const topSubcategories = Object.entries(subcategoryCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5);
+
+      const topCountries = Object.entries(countryCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 5);
+
+      elements.monthlySummaryContent.innerHTML = `
+        <div class="summary-box">
+          <strong>월간 이슈 수</strong>
+          <p>전체 ${items.length}건<br>국내 정치 ${domestic}건<br>외교·대외관계 ${foreign}건</p>
+        </div>
+        <div class="summary-box">
+          <strong>주요 분야</strong>
+          <p>${topSubcategories.length
+            ? topSubcategories.map(([name, count]) => `${escapeHtml(name)} ${count}건`).join('<br>')
+            : '자료 없음'}</p>
+        </div>
+        <div class="summary-box">
+          <strong>주요 국가·지역</strong>
+          <p>${topCountries.length
+            ? topCountries.map(([name, count]) => `${escapeHtml(name)} ${count}건`).join('<br>')
+            : '자료 없음'}</p>
+        </div>
+      `;
+    }
+
+    function renderIssueCard(issue) {
+      const cardClass = issue.primaryCategory === '국내 정치' ? 'domestic' : 'foreign';
+      const countries = (issue.countries || []).join(', ') || '해당 없음';
+      const sources = (issue.sources || []).map(source => `
+        <li>
+          <a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">
+            ${escapeHtml(source.name)} — ${escapeHtml(source.title)} (${escapeHtml(source.date)})
+          </a>
+        </li>
+      `).join('');
+
+      const revisions = (issue.revisionHistory || []).length
+        ? `<ul>${issue.revisionHistory.map(item => `<li>${escapeHtml(JSON.stringify(item))}</li>`).join('')}</ul>`
+        : '<p>수정 이력 없음</p>';
+
+      return `
+        <article class="issue-card ${cardClass}">
+          <div class="badges">
+            <span class="badge">${escapeHtml(issue.primaryCategory)}</span>
+            <span class="badge">${escapeHtml(issue.subcategory)}</span>
+            <span class="badge ${issue.importance === '핵심' ? 'critical' : ''}">
+              ${escapeHtml(issue.importance)}
+            </span>
+            <span class="badge ${issue.status === '공식 발표 확인' ? 'verified' : ''}">
+              ${escapeHtml(issue.status)}
+            </span>
+            <span class="badge">${escapeHtml(issue.verificationLevel)}</span>
+          </div>
+
+          <h3>${escapeHtml(issue.title)}</h3>
+
+          <div class="meta">
+            발생: ${escapeHtml(formatDateTime(issue.occurredAt))}
+            · 마지막 업데이트: ${escapeHtml(formatDateTime(issue.updatedAt))}
+            · 관련 국가: ${escapeHtml(countries)}
+          </div>
+
+          <p>${escapeHtml(issue.summary)}</p>
+
+          <details>
+            <summary>세부 내용 및 출처</summary>
+            ${issue.background ? `<p><strong>배경</strong><br>${escapeHtml(issue.background)}</p>` : ''}
+            ${issue.significance ? `<p><strong>주요 쟁점 및 의미</strong><br>${escapeHtml(issue.significance)}</p>` : ''}
+            ${issue.nextSchedule ? `<p><strong>향후 일정</strong><br>${escapeHtml(issue.nextSchedule)}</p>` : ''}
+            <p><strong>공식 출처</strong></p>
+            <ul>${sources || '<li>등록된 출처 없음</li>'}</ul>
+            <p><strong>수정·정정 이력</strong></p>
+            ${revisions}
+          </details>
+        </article>
+      `;
+    }
+
+    function render() {
+      const items = getFilteredIssues();
+
+      elements.notice.className = 'notice';
+      elements.notice.innerHTML = `
+        <strong>${escapeHtml(state.data.meta.collectionStatus || '데이터 상태')}</strong><br>
+        ${escapeHtml(state.data.meta.notice || '')}
+      `;
+
+      const titles = {
+        realtime: '실시간 주요 이슈',
+        today: '오늘의 이슈',
+        yesterday: '어제의 확정 브리핑',
+        daily: '일별 브리핑',
+        monthly: '월별 아카이브'
+      };
+
+      elements.sectionTitle.textContent = titles[state.view] || '주요 이슈';
+      elements.resultCount.textContent = `${items.length}건`;
+
+      renderStatus(items);
+      renderMonthlySummary(items);
+
+      elements.issueList.innerHTML = items.length
+        ? items.map(renderIssueCard).join('')
+        : '<div class="empty">선택한 조건에 맞는 이슈가 없습니다.</div>';
+    }
+
+    document.querySelectorAll('.view-button').forEach(button => {
+      button.addEventListener('click', () => {
+        document.querySelectorAll('.view-button').forEach(item => item.classList.remove('active'));
+        button.classList.add('active');
+        state.view = button.dataset.view;
+        render();
+      });
+    });
+
+    document.querySelectorAll('.category-button').forEach(button => {
+      button.addEventListener('click', () => {
+        document.querySelectorAll('.category-button').forEach(item => item.classList.remove('active'));
+        button.classList.add('active');
+        state.category = button.dataset.category;
+        render();
+      });
+    });
+
+    [
+      elements.dateFilter,
+      elements.monthFilter,
+      elements.subcategoryFilter,
+      elements.importanceFilter,
+      elements.statusFilter,
+      elements.countryFilter
+    ].forEach(element => element.addEventListener('change', render));
+
+    elements.searchInput.addEventListener('input', render);
+
+    document.getElementById('resetButton').addEventListener('click', () => {
+      state.view = 'realtime';
+      state.category = '전체';
+      state.printCategory = null;
+
+      document.querySelectorAll('.view-button').forEach((button, index) => {
+        button.classList.toggle('active', index === 0);
+      });
+
+      document.querySelectorAll('.category-button').forEach((button, index) => {
+        button.classList.toggle('active', index === 0);
+      });
+
+      elements.dateFilter.value = '';
+      elements.monthFilter.value = '';
+      elements.subcategoryFilter.value = '';
+      elements.importanceFilter.value = '';
+      elements.statusFilter.value = '';
+      elements.countryFilter.value = '';
+      elements.searchInput.value = '';
+
+      render();
+    });
+
+    document.querySelectorAll('[data-print-category]').forEach(button => {
+      button.addEventListener('click', () => {
+        state.printCategory = button.dataset.printCategory;
+        render();
+        window.print();
+        state.printCategory = null;
+        render();
+      });
+    });
+
+    document.getElementById('printDateButton').addEventListener('click', () => {
+      state.view = 'daily';
+      if (!elements.dateFilter.value) {
+        elements.dateFilter.value = kstDateString();
+      }
+      render();
+      window.print();
+    });
+
+    document.getElementById('printMonthButton').addEventListener('click', () => {
+      state.view = 'monthly';
+      if (!elements.monthFilter.value) {
+        elements.monthFilter.value = kstDateString().slice(0, 7);
+      }
+      render();
+      window.print();
+    });
+
+    loadData();
+    setInterval(loadData, 5 * 60 * 1000);
+  </script>
+</body>
+</html>

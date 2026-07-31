@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "mode": "demo",
+    "lastSuccessfulUpdate": "2026-07-31T15:20:00+09:00",
+    "nextScheduledUpdate": "2026-07-31T15:50:00+09:00",
+    "collectionStatus": "데모 데이터",
+    "notice": "현재 화면은 기능 확인용 데모 데이터입니다. 실제 자동 수집기는 아직 연결되지 않았습니다."
+  },
+  "issues": [
+    {
+      "id": "2026-07-31-DP-001",
+      "title": "국회, 주요 법안 심사 일정 확정",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T10:00:00+09:00",
+      "updatedAt": "2026-07-31T11:00:00+09:00",
+      "summary": "국회가 주요 법안의 심사 일정을 확정했다. 이 내용은 대시보드 기능 확인을 위한 예시 데이터다.",
+      "background": "실제 운영 시 국회 의안정보시스템과 상임위원회 공식자료를 기준으로 갱신한다.",
+      "significance": "법안 발의, 심사, 의결, 공포 등 절차별 진행 상황을 연속적으로 추적할 수 있다.",
+      "nextSchedule": "후속 심사 일정 확인",
+      "sources": [
+        {
+          "name": "대한민국 국회",
+          "title": "예시 공식자료",
+          "date": "2026-07-31",
+          "url": "https://www.assembly.go.kr"
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false
+    },
+    {
+      "id": "2026-07-31-FR-001",
+      "title": "정부, 주요국과의 고위급 외교 일정 발표",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "정상외교",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 외교부"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T09:00:00+09:00",
+      "updatedAt": "2026-07-31T10:10:00+09:00",
+      "summary": "정부가 주요국과의 고위급 외교 일정을 발표했다. 이 내용은 외교 필터 기능 확인을 위한 예시 데이터다.",
+      "background": "실제 운영 시 대한민국 정부 자료와 상대국 정부 발표를 함께 확인한다.",
+      "significance": "회담 일정, 공동성명, 합의 및 후속 협상 여부를 시간순으로 관리할 수 있다.",
+      "nextSchedule": "회담 결과 발표 시 업데이트",
+      "sources": [
+        {
+          "name": "대한민국 외교부",
+          "title": "예시 보도자료",
+          "date": "2026-07-31",
+          "url": "https://www.mofa.go.kr"
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false
+    },
+    {
+      "id": "2026-07-30-DP-001",
+      "title": "정부, 주요 정책 시행계획 확정",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "국무조정실"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "종결",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T14:00:00+09:00",
+      "updatedAt": "2026-07-31T08:00:00+09:00",
+      "summary": "정부가 주요 정책의 시행계획을 확정했다.",
+      "background": "전날 일일 브리핑 화면을 확인하기 위한 예시 데이터다.",
+      "significance": "일일 확정본과 월별 아카이브 기능을 확인할 수 있다.",
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "국무조정실",
+          "title": "예시 보도자료",
+          "date": "2026-07-30",
+          "url": "https://www.opm.go.kr"
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false
+    }
+  ]
+}
