@@ -1,31 +1,1791 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "",
-    "nextScheduledUpdate": "",
-    "collectionStatus": "초기 실행 전",
-    "notice": "GitHub Actions에서 수집기를 한 번 실행하면 실제 데이터가 반영됩니다.",
+    "lastSuccessfulUpdate": "2026-07-31T16:19:11+09:00",
+    "nextScheduledUpdate": "2026-07-31T16:49:11+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
-    "sourceCount": 0,
+    "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "",
-      "finishedAt": "",
-      "activeSources": 0,
-      "fetchedCandidates": 0,
-      "acceptedCandidates": 0,
-      "duplicates": 0,
-      "rejected": 0,
-      "rejectedByDate": 0,
-      "rejectedByRelevance": 0,
+      "startedAt": "2026-07-31T16:19:09+09:00",
+      "finishedAt": "2026-07-31T16:19:11+09:00",
+      "activeSources": 4,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 43,
+      "duplicates": 3,
+      "rejected": 154,
+      "rejectedByDate": 153,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 43,
       "updatedIssues": 0,
       "failedSourceCount": 0,
-      "sourceResults": []
+      "sourceResults": [
+        {
+          "id": "official_domestic",
+          "name": "공식기관 국내정치 검색 피드",
+          "status": "success",
+          "count": 50,
+          "error": ""
+        },
+        {
+          "id": "official_foreign",
+          "name": "공식기관 외교안보 검색 피드",
+          "status": "success",
+          "count": 50,
+          "error": ""
+        },
+        {
+          "id": "reliable_domestic_news",
+          "name": "국내 정치 주요 보도 검색 피드",
+          "status": "success",
+          "count": 50,
+          "error": ""
+        },
+        {
+          "id": "reliable_foreign_news",
+          "name": "외교·안보 주요 보도 검색 피드",
+          "status": "success",
+          "count": 50,
+          "error": ""
+        },
+        {
+          "id": "naver_news",
+          "name": "네이버 뉴스 검색 API",
+          "status": "disabled",
+          "count": 0,
+          "error": "disabled: NAVER_CLIENT_ID/NAVER_CLIENT_SECRET not configured"
+        }
+      ]
     },
     "dailySummaries": {},
     "monthlySummaries": {}
   },
-  "issues": []
+  "issues": [
+    {
+      "id": "20260729-FR-526BADFD-043",
+      "title": "미국 워싱턴에서 열린 한국전 정전 73주년 기념식… “정전협정은 한미동맹의 출발점” - 더퍼블릭",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "더퍼블릭"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-07-29T07:43:17+09:00",
+      "publishedAt": "2026-07-29T07:43:17+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:11+09:00",
+      "updatedAt": "2026-07-31T16:19:11+09:00",
+      "summary": "미국 워싱턴에서 열린 한국전 정전 73주년 기념식… “정전협정은 한미동맹의 출발점” 더퍼블릭",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "더퍼블릭",
+          "title": "미국 워싱턴에서 열린 한국전 정전 73주년 기념식… “정전협정은 한미동맹의 출발점” - 더퍼블릭",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvZE92VHhtVi0xMzJCOTFKQ0tJTkhrSmE1c05Ma2lYdmJzb0lnOEgzYkY3VXg3eEJhRlJ1ZHhxTGJLUXdIaTNzUmhxX1RISWxsb24xNHVxRWVTTEVHX1pnOWUycjJHOU1PNzdz0gFvQVVfeXFMUC1TOW9VVk84THNXM0JLVWZPa3pnMWV1ZWxRUEpsakh0bjJKYUwwNmFQSFJyeVQtWkt1aVEzTHJMOW5MVGlEU1VmTll4UVd2WFhzMHcybmVxVGtzNko0SUF6YnJEd2hDS0RZQ0FsSmFn?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "526badfd717e7d3d86c40382718f0b04de42b6c45c1fe3de4a1a5fe45e67e02d"
+    },
+    {
+      "id": "20260729-DP-90BDBD99-001",
+      "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T21:03:27+09:00",
+      "publishedAt": "2026-07-29T21:03:27+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "제26차 방송미디어통신위원회 전체회의 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zc1N4bDhOeHZGR1pZSndaWlZJUXRJYTVQU0FSeEo4S05aYVZUcjUwTUdBYVk2R3QyMkUwX3E1bmtfTUQ2WFRnVHNncmlaT29tMlFPRzJWX3R0LTczUkJ4dzR4WXEzVjE3Q0RIc2JaTGc2THQwMTdN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "90bdbd993bd328457824b8231b14a2c3c02edecdf5de00555e7396af86ca6e8d"
+    },
+    {
+      "id": "20260728-DP-78910749-002",
+      "title": "도시민박·한옥체험업도 '바가지 요금' 1차 적발 시 영업정지 5일 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-28T21:08:05+09:00",
+      "publishedAt": "2026-07-28T21:08:05+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "도시민박·한옥체험업도 '바가지 요금' 1차 적발 시 영업정지 5일 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "도시민박·한옥체험업도 '바가지 요금' 1차 적발 시 영업정지 5일 - 대한민국 정책브리핑",
+          "date": "2026-07-28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uS2lWRUdONW5wcGY3Rnh1YjkwZno0UFJHSGh3NjlnRXRfbFNsaEtnblZyOHQ1dXBkdEs1UWwwck4zMTRlVE5yVF80ZU9HQ1FTc0dadFJaajVaRFRZbVdOSllBOWhLc1FQelV1UA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7891074909763b76ef5679c1cfb96cf2346cbe6f7bd4d0cc820b2b91a2e570e6"
+    },
+    {
+      "id": "20260729-DP-92A8E74C-003",
+      "title": "내년 기준 중위소득 역대 최대 6.7% 인상…'K자형 양극화' 대응 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T03:50:10+09:00",
+      "publishedAt": "2026-07-29T03:50:10+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "내년 기준 중위소득 역대 최대 6.7% 인상…'K자형 양극화' 대응 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년 기준 중위소득 역대 최대 6.7% 인상…'K자형 양극화' 대응 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWhVNHNIMkJla2dyeW1zazdQa0dRUnJPZk5aU3Awd3JUZmt4Mk5NeDFoRlhfOG5RNTd5WUdoVmhZZF93NHB6MlBjWXM3Mm8zUlBtR1ZEeHZrb21EZGQzbFZMejBMUWdMWnl6dTZiNjM5ODJVMXV6RDhCY1lHU1RvY3RxdllrZXFJWExUYQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "92a8e74c874a64b21cefb333d5eb7f87dc31bd5b8c4041b6fdef8e81f66115c8"
+    },
+    {
+      "id": "20260730-DP-999C60C5-004",
+      "title": "대한민국 관광지형, 지방으로 넓힌다…'5대 관광권' 선정 착수 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T13:39:21+09:00",
+      "publishedAt": "2026-07-30T13:39:21+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "대한민국 관광지형, 지방으로 넓힌다…'5대 관광권' 선정 착수 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대한민국 관광지형, 지방으로 넓힌다…'5대 관광권' 선정 착수 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQWUzSjU2dGNsc3JrMkd3X19hZnZkSjlwNy1PUWYwRFFLZFN0VlJQbjdhcmF3MEE5ZGJMOUNTYkVtUmxXaG0xSWltcVA3V3lId09yV0dJT1NsTGk4YzF0TXVkVHJYeVJja3BLSEN6eHB2X1Y3OTE4enFPanBzOVNsbkQyVkVwbDhTY1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "999c60c5d6c3bdce89e1ebd427a5d8dd4eb0f1e164cc2229ab22a49a32d9cb34"
+    },
+    {
+      "id": "20260730-DP-D483162B-005",
+      "title": "내 리뷰가 삭제됐다면? 이제 이의 제기할 수 있습니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T12:38:15+09:00",
+      "publishedAt": "2026-07-30T12:38:15+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "이제 이의 제기할 수 있습니다! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내 리뷰가 삭제됐다면? 이제 이의 제기할 수 있습니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TmdYMmF3MXdrQ1MzeVJNZWw2ZktzaVNEWE1kdm1SMW81bHc3SzlHSUlJb0NBYlpseDFKUVh6ZWhPMEk4M2JPYnJpd29VWVNuQlZsRmExR2pwN2RwbGhaWmJVUEs4ZFFOeVN1Ynpn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d483162b0f9b9a1804df8c283731e15ccae4353d8169360f36ca2428692fb343"
+    },
+    {
+      "id": "20260730-DP-B5CF45D5-006",
+      "title": "[정책상식] Q&A로 알아보는 개정 정보통신망법 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T13:39:21+09:00",
+      "publishedAt": "2026-07-30T13:39:21+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "[정책상식] Q&A로 알아보는 개정 정보통신망법 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[정책상식] Q&A로 알아보는 개정 정보통신망법 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MQldVTUd6eERld1hsdVhHT1ZNd19qbkhtWFdzOV9mTk1YX3BHTGlRYy1BdGdBOVpFWXNSc1l2NEx6LU9ZZEdKWkZWOEd2OURWVWtUelVjZU5vcWFXSkdTTmhfN3lEcnROdTRfLQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b5cf45d5819874024c24049c1b79e47d25b4dec9a1061cc1f8dd84f35564ac2b"
+    },
+    {
+      "id": "20260729-DP-F0E647D1-007",
+      "title": "검색 - 후보자 정보 - 중앙선거관리위원회 - 후보자 정보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "선거",
+      "countries": [],
+      "institutions": [
+        "중앙선거관리위원회",
+        "후보자 정보"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T16:08:19+09:00",
+      "publishedAt": "2026-07-29T16:08:19+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "검색 - 후보자 정보 - 중앙선거관리위원회 후보자 정보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "후보자 정보",
+          "title": "검색 - 후보자 정보 - 중앙선거관리위원회 - 후보자 정보",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSMFR1ajUtMjBxMjNyRnlBZkJKV3RDaXNxdHRnR0ZFQ29fOXptTzJMMy1NSm42UFAwN2lRblVWaEFNWThsVEhjRFVITF9nRVRGeDg4dHdB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f0e647d1e610eead8d876fa7f855d8becbf5dc6c78f088b12fa8c9f18ce49492"
+    },
+    {
+      "id": "20260729-DP-6A7F8908-008",
+      "title": "가축분뇨 고체연료 기준이 달라집니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T11:15:03+09:00",
+      "publishedAt": "2026-07-29T11:15:03+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "가축분뇨 고체연료 기준이 달라집니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가축분뇨 고체연료 기준이 달라집니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVDlmN0J2YndMdmY1NWF4bGNwT0VweEhMSXhyRjNTeXJuQW5GYXFqSjRkM0NadWdwUGNwZWxJRmF2alVnYW9uaUJ4VmtCVlFHLW9sTU1ha0hYOEhZdW9PRkk3OERsWjNraERqMG5MVFN0MnFaTkZCaWhsRlRwYU9IdmVnNVJCaXNvTmFPNGV3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6a7f89085336a7a959b7d7f14293ba6d46281f0d95f331de8db3d97ddbda5ef1"
+    },
+    {
+      "id": "20260730-DP-9B5D9D16-009",
+      "title": "수술 어려운 중증 심장판막 시술도 급여 적용…의료비 부담 ↓ - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T21:29:12+09:00",
+      "publishedAt": "2026-07-30T21:29:12+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "수술 어려운 중증 심장판막 시술도 급여 적용…의료비 부담 ↓ 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "수술 어려운 중증 심장판막 시술도 급여 적용…의료비 부담 ↓ - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lUzVHMTJUS2MybjNXSGZtWlBtOWtTeXVPRjdMOVp3dzBwck5mZGxISFhidTBoazkyM2FfZUM0ajc5MFJ5SGRrQ1RCSV9CcFEyUzRFaFBQbXNiM3NyS3dGblVYZzBoTGpmYXRfMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9b5d9d16626511f888452a8e47f9a0e9ceb372268eef50a9ff8e93f6398ed7cc"
+    },
+    {
+      "id": "20260730-DP-89DC6819-010",
+      "title": "불법 스팸, 최대 6% 과징금 부과합니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T18:50:53+09:00",
+      "publishedAt": "2026-07-30T18:50:53+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "불법 스팸, 최대 6% 과징금 부과합니다! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불법 스팸, 최대 6% 과징금 부과합니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLZXhuNDFWekl3WERMM0hUc0ZlSV9HblJWT3c1WXA4N2pmZUNRTW5nMFdQQndxUlVHSEFWOFdOcnRuTUJLblI5bEFWY0gwVEJPWU5zZ1dFYkpMYzdVU0tsblZpeVZyUVZ0ampuaFFB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "89dc68191d664484c981cc50c9c81d801858c0cc2c4de8e64edd347cdb752078"
+    },
+    {
+      "id": "20260730-DP-F2D3464F-011",
+      "title": "한국 처음 온 안젤라, 쇼크받은 이유 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T20:54:49+09:00",
+      "publishedAt": "2026-07-30T20:54:49+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한국 처음 온 안젤라, 쇼크받은 이유 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국 처음 온 안젤라, 쇼크받은 이유 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2hlWndLX1lIZDZncHVqd0FsbzFVY0phQ3ZVMURLa0JmRTktWE8tZzZnc0hnZVRoNC0tS3dsWmFQMGR1Y3VMMUJtOUF4MjJCMkpLU1cwdTd3dW42RlZyLXg2VjVlakhsUVVWMjFIdlZEdlg0dzhtbHhyVV9Ub1V0U04yMzdEM05RekE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f2d3464fc97376a1d255ea77078e6531a528067ffb41db67debd1207341518d8"
+    },
+    {
+      "id": "20260730-DP-F3E27FA8-012",
+      "title": "\"보험료가 정말 0원?\"…우체국 '대한민국 엄마보험' 직접 신청! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T12:47:42+09:00",
+      "publishedAt": "2026-07-30T12:47:42+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "\"보험료가 정말 0원?\"…우체국 '대한민국 엄마보험' 직접 신청!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"보험료가 정말 0원?\"…우체국 '대한민국 엄마보험' 직접 신청! - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbHZ4ZVpkemRZZzVNX2MwejN1SjFZMVk5OUNHX1JfZGJKSEpsUU5ZaDBIYkxBTDFFMHl1YlN3cXJGXzdUVmRjRDNGRlNFQUFkVW81N1M1ZUZBQmlUZnQxTlZIRDJXejcxd3pMRXprS3RYc0RQaU9iRTA3ZE9UdWxxcWdseGVleUU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f3e27fa84d73a5007856b51bc52fa2fd0fc863640da7c1d3e80ffc5fe785b8c2"
+    },
+    {
+      "id": "20260729-DP-3DB74EAA-013",
+      "title": "금융위원장 \"레버리지 진정 안되면 추가 조치…투자한도 제한 등\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T03:50:10+09:00",
+      "publishedAt": "2026-07-29T03:50:10+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "금융위원장 \"레버리지 진정 안되면 추가 조치…투자한도 제한 등\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위원장 \"레버리지 진정 안되면 추가 조치…투자한도 제한 등\" - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM1BvcXc3YnBKOXl3bnUxMVhFQ0xxclRlV3JYNHc2dkN3MzRMV3dhb1YxdjFnUWFNU2hkN2tXTjIxOXB5SVNRc0VHOU9IaW5NbFJ5VEM5RlZ6S3N2Y2ZjVWNFa0c2N1BEUUItY0w5aWhjZ3N0dDlGTzF0aGpWWTFCWHUtSVNYemhMdFY4dg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3db74eaa3116a05e92b51d026c96772415f4b2144c48f5c103eebf789f105cba"
+    },
+    {
+      "id": "20260729-DP-11811A32-014",
+      "title": "잇단 폭염에 전국 화재위험경보 '경계' 단계 발령 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T16:58:30+09:00",
+      "publishedAt": "2026-07-29T16:58:30+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "잇단 폭염에 전국 화재위험경보 '경계' 단계 발령 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "잇단 폭염에 전국 화재위험경보 '경계' 단계 발령 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WVTd1V3RNcGhkbElpR1JLdkQwRDN4UUt2Vk1CRUVaZE41YTdkeUVTem51RXZZTDg4V181WDM0WkUxRFJHYUtUNm9hemNIVDgxSlFFQ21JQlpVS29wRm0xM0FXQXl2UkJiS2ozXw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "11811a3200a980332978a4f3218adfc340373bc38f5a948008c906dd2e0afb39"
+    },
+    {
+      "id": "20260730-DP-C7B94680-015",
+      "title": "정부, 단일종목 레버리지 개인별 투자한도 설정 즉시 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T22:23:58+09:00",
+      "publishedAt": "2026-07-30T22:23:58+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "정부, 단일종목 레버리지 개인별 투자한도 설정 즉시 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 단일종목 레버리지 개인별 투자한도 설정 즉시 추진 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aMGQwWS1NdEdyUDAzZW5CODQ2WEg3QWlETUV2RWFxeDBGUmJ0a3ZVOUQyUU96SlEtR2p3WkUyRVlfUm9SaUdMbWFOb2M0bUVRdUpTNlhJdWNqaVl1bjE4TGFXVHFHUU0zenYwVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c7b94680ba126f84bb29c3dd06d8af7cb930cf497805ef6b66d7c3aea864be85"
+    },
+    {
+      "id": "20260729-DP-00D92E62-016",
+      "title": "2027년 기준 중위소득, 이렇게 달라집니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T10:01:51+09:00",
+      "publishedAt": "2026-07-29T10:01:51+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "2027년 기준 중위소득, 이렇게 달라집니다! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2027년 기준 중위소득, 이렇게 달라집니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWtIak0yVndtQkwtcnJyN1RDam8tM1JHeEV0X3Q5WjQ0ZFhPUGswR2JNNTJwNVNjbTRsUnNhSjFVNlIxYWlmZ21iM0dYTHJVTEtNcWZmSjNmRGpGZ1hQODBKTEl1bkhtZXdHVURlLUhLcEJrbEJRdHJFa3hmWXB6YWpYOENkWElCZzFZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "00d92e6206c1b04f29faa70e84aabea121e21d792ecc2d7785448eb380daee7f"
+    },
+    {
+      "id": "20260730-DP-4A9C1073-017",
+      "title": "제4회 재난안전데이터 활용 창업경진대회 수상작 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T12:00:00+09:00",
+      "publishedAt": "2026-07-30T12:00:00+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "제4회 재난안전데이터 활용 창업경진대회 수상작 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제4회 재난안전데이터 활용 창업경진대회 수상작 발표 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BeXZGbW9Bb2xOV1RuRno3bXhGOTE3WlAwdDI2ZXJQdEIxODl0ZFRCdkFiY2g2Y291QWhMYmdDT3Zqejd2N0RPOHJYLWNuU2JUak9raFU1Wjg0bkN5d0JlSFBSMmFRbnBkUS1QNzR2dU9iUDhQQXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4a9c107311a780808656e67fdff6c124ceb3d7a39f58d052083973ec934e138e"
+    },
+    {
+      "id": "20260728-DP-6B0E1E6D-018",
+      "title": "자살 고위험군 긴급대응 강화…예방부터 일상 복귀까지 국가 지원 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-28T17:28:08+09:00",
+      "publishedAt": "2026-07-28T17:28:08+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "자살 고위험군 긴급대응 강화…예방부터 일상 복귀까지 국가 지원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "자살 고위험군 긴급대응 강화…예방부터 일상 복귀까지 국가 지원 - 대한민국 정책브리핑",
+          "date": "2026-07-28",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWG1kQUcxaHp2dTZrY01RblBOeFZZYXdOT05DSllleVNxRm0xSFhsOEFVZmczRGY3bWhiTVN5aEc2UGROdGhyejVnVVdwdFpuSFVvNE1Bal9NbTAtMkZBWDlfem1VbUQ2eU9fRXB4WlA4cmR2N3gwdFNuYm5fQnBOM190N0Y1Uy16OUx0UA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6b0e1e6d73a70ccdc8c2e8935ddfa1804a1f5ae5e414738c722e333ddaf4874e"
+    },
+    {
+      "id": "20260731-FR-5B63EBA8-019",
+      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T13:25:12+09:00",
+      "publishedAt": "2026-07-31T13:25:12+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNpZWhNM0dDaHE1N3hPY3NqMUtsNWZQS3JRQ3JTQlBSLUZFRDQza2lOWFVaRnQ1cUZCVU0ySmt3VDdWU3hRcUc5aWEyaUpVelJWdjVaZ3lTejc1b2N0RHFBclYtZ2pZUllXSkNJUkFXbGhhSGVxN3JndzFOWXhkbmpLMEZUYUJLd2tr?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
+    },
+    {
+      "id": "20260730-FR-38B68661-020",
+      "title": "미래 신안보 혁신기업 육성 실행에 속도를 냅니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T11:32:06+09:00",
+      "publishedAt": "2026-07-30T11:32:06+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "미래 신안보 혁신기업 육성 실행에 속도를 냅니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미래 신안보 혁신기업 육성 실행에 속도를 냅니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MkstNl9IUzBxVGdiZS0zQnZOaVVXREVqNTNLcDdLLUN6ZVJBOXZaYkptQmlRQVQwZi1ycFBKdXhUVFIzSjNiT0lGeHEzaWlPWEcyaFVZQVBpWnk0cV9Ra2pKc1RLbWljS1RtMjZn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "38b6866149d091c2a052e7b08072d56d891becad2d9d58f7bd6f2449ef04559c"
+    },
+    {
+      "id": "20260731-FR-DC98CF25-021",
+      "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T14:08:19+09:00",
+      "publishedAt": "2026-07-31T14:08:19+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEpRSEZCaV9SN0NpcFhnRGZoMW82eHNDRy14SnBkcldENGNxWnNoRUVVZ0F0VU8wOXNYWVVrSEk1RklrbXZiQ08zWG1EUUk5ckp0a0Uwcl9zUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dc98cf25a436c5e7829af350480474cf46a4cf1fa143199ed2bf45d6c19e56c3"
+    },
+    {
+      "id": "20260731-FR-77DE9854-022",
+      "title": "칠레 재외동포 여러분께 인사드렸습니다 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T01:33:19+09:00",
+      "publishedAt": "2026-07-31T01:33:19+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "칠레 재외동포 여러분께 인사드렸습니다 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "칠레 재외동포 여러분께 인사드렸습니다 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1keTQwRTZBdWg5bXVzRkxhaXVQbVFrOFpsd00ySzZENlR5Y3NiX2xsRExJV1JtTDE4Z1Y1SUlxOEQ2ci1EU1dHRWhUREV4cFpYMEJhVnZTYVh6ZkdmQlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "77de9854aace391a48a1ffcdfcc4b2ca2586dc009f56b92093d8e6c1d16a403f"
+    },
+    {
+      "id": "20260731-FR-CD8C7B20-023",
+      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 | 카드뉴스 | 뉴스룸 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T09:14:37+09:00",
+      "publishedAt": "2026-07-31T09:14:37+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 | 카드뉴스 | 뉴스룸 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 | 카드뉴스 | 뉴스룸 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OTk42c3Y3TW9oNTVUcEF1SDZkU3lESUJ4WjN0RDMtQTFlT3RJeEpPSUlRUExISldXMGpwZUxBUFBVcnExd0RRYTNqMEIyamp4NFFLSFNkTGtKUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cd8c7b206fdfd576a2e2b940e86dcc61a51740f6ee677427a5766c1f8a069565"
+    },
+    {
+      "id": "20260729-FR-741F3B91-024",
+      "title": "핵심전략광물에 관한 공동성명 체결 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T06:49:21+09:00",
+      "publishedAt": "2026-07-29T06:49:21+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "핵심전략광물에 관한 공동성명 체결 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "핵심전략광물에 관한 공동성명 체결 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MWG1LZnlZbUlGYmFTS0Y1LWEzWW1lWHQ0MXc2bllmYjM3MzJsOFZlOGlUMnp5NWlrYVdoUmlwamI0bEIxQmotNVdwODZla0FuQTRqN1FHbjZNQWp6d0t4QzZhejcxVjZFS0x2dWpNMTY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "741f3b915dc1ca13e46fc5925de28a386d37414a1cd9e68096d5625ae9bd06fc"
+    },
+    {
+      "id": "20260729-FR-8C17B18B-025",
+      "title": "한-메르코수르 무역협정 조속 체결 추진…글로벌 공급망 돌파구 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T17:03:10+09:00",
+      "publishedAt": "2026-07-29T17:03:10+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-메르코수르 무역협정 조속 체결 추진…글로벌 공급망 돌파구 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-메르코수르 무역협정 조속 체결 추진…글로벌 공급망 돌파구 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1idzc4ZU9Ic3J4RkJSRFBRd2hoT0ZaeDd1RVRqZGFtdUw2YWRIMGl6ckNJbW1ObERlSVlHUW14NmZBeWEtbmg4cFJlQV9RQ2FlUlRaa2RyamZmY0NuQVprU0FQakVzSkFxUDExZQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8c17b18b63dee1a8ca82e11bf6fcadbf7c8196e11ca3ccb4fa265dafdcc7e591"
+    },
+    {
+      "id": "20260729-FR-AE2EF178-026",
+      "title": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T17:27:22+09:00",
+      "publishedAt": "2026-07-29T17:27:22+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TejFsaUVEM1BScTcwSTdoM3k0RXBSbXA4TTZ0cWxtd1dWeGJrX21teUxhM3FpWjBlcmYwb05MTWlRVHA3cXRJZjBBV3YxVENnZFN5WVlWN3dodjRyNzM3WXlGRHhaZzdxcUo3RGVB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae2ef178a9de431d81d224a275a20a0f02c0d567a026e82ddbd10444a63d227f"
+    },
+    {
+      "id": "20260729-FR-10D6C30F-027",
+      "title": "7/28(화) 한-브라질 정상 공동성명 | 자료실 | 뉴스룸 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T19:10:23+09:00",
+      "publishedAt": "2026-07-29T19:10:23+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "7/28(화) 한-브라질 정상 공동성명 | 자료실 | 뉴스룸 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "7/28(화) 한-브라질 정상 공동성명 | 자료실 | 뉴스룸 - 대한민국 청와대",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUX0NvTGVDMEJnY0tsZ2pGQi1VZklRVEpfOWxXU1RISnU0ZnZoMDJWcUh0Rk81NkVnVFI2UVJCTXdMZW1qTlpCU3Z0VE5UVHZZUUkzSlVGMlJMUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "10d6c30f73cdeae498943de5a748dfe51ea6f5fc1a8301fc4d80f449da036d70"
+    },
+    {
+      "id": "20260729-FR-0E9F1821-028",
+      "title": "한·브라질 공동성명 채택…중남미-아시아 잇는 전략적 파트너 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T08:16:45+09:00",
+      "publishedAt": "2026-07-29T08:16:45+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한·브라질 공동성명 채택…중남미-아시아 잇는 전략적 파트너 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·브라질 공동성명 채택…중남미-아시아 잇는 전략적 파트너 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYWh2U2JhQ1o4M0ZsWjVJdlJNRHlBNU80OHNYWmZLWmJFdlBIVzhFdU9HTFdzYjdacVlRRUdWY0pwc2x4bUNjUlIxQ3IwNTNwbGJCNEpqazVJVnEtaWx0V3lqcGVseWNpUTJBZ3gyREtPNnhVcE5hQUtXeDl6TlhsaHVoVlVRN05MZ1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0e9f1821ab24befbe7db4d220857dab42cc9e2a0a334685de9ce91e2147b46cc"
+    },
+    {
+      "id": "20260729-DP-1F23C1B7-029",
+      "title": "이 대통령 \"한-브라질 동반자 관계 도약 원년…경제협력 기반 강화\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T04:51:36+09:00",
+      "publishedAt": "2026-07-29T04:51:36+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "이 대통령 \"한-브라질 동반자 관계 도약 원년…경제협력 기반 강화\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"한-브라질 동반자 관계 도약 원년…경제협력 기반 강화\" - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdlI4NmUwc2hHYnAxX0x6ekdWd3V3MGFLb3R0NXM3bEVCOXpkX2I4OVRMTDRtSmVlaUpvTC10bWl4OWpOY2dUX1FyOTQtRktCNXZvUXB2ZldqUnhTb0UydHFjd2pkNTU0THJFcFFpY1NwVUJadkc5QlMzTU5XcVVrUmsxX2twRnhGYVc4VA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1f23c1b70b9a2c5789d8bf1cb999343ccf9a1f5689727ccf483b5a55c43453fb"
+    },
+    {
+      "id": "20260729-FR-F5A19E62-030",
+      "title": "한·브라질, 교육분야 MOC 체결…한국어교육·AI교육 등 협력 본격화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T03:50:10+09:00",
+      "publishedAt": "2026-07-29T03:50:10+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한·브라질, 교육분야 MOC 체결…한국어교육·AI교육 등 협력 본격화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·브라질, 교육분야 MOC 체결…한국어교육·AI교육 등 협력 본격화 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVVpHSzVDSlczZ185THRSdWc0b0h1WlZsbjNZS3NCVklObjh2a2tyZnJ3c3hTLWdEcTdZREVyRGZ0QXNDNTZYblZQdVI0dFkwN2FIVzM3RGFycjFsZVc1dGVxUWdWOTJoUTFTOVRtVVBvdnh6b3lDc2MyVHAtWU1LOFVPRFZlWGx3MmxoTw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f5a19e62dd66a5db27a51421d07de168eb458aafaf63e198ce0244b37a4dd3ce"
+    },
+    {
+      "id": "20260729-DP-5E6C4737-031",
+      "title": "이 대통령 \"동포 여러분이 쌓은 신뢰로 한-브라질 관계 더 깊어져\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T16:58:30+09:00",
+      "publishedAt": "2026-07-29T16:58:30+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "이 대통령 \"동포 여러분이 쌓은 신뢰로 한-브라질 관계 더 깊어져\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"동포 여러분이 쌓은 신뢰로 한-브라질 관계 더 깊어져\" - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4eGJJUkxwY3JaWGQ4MzBXLTdFM2R0ektmQ2tUOV91bURTNjByV0hxM2t4VXMwVGRmZXR2X3oyZS1YbEhiRHRpSjU0ZHg3dVl0WXBlNDRMcGxDTm5tUGtUemIyLVRmY3pQOE9ZbQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5e6c4737d12cb321c224aa343040f17d3ae82ad81d8e7d87038de066cfb512dd"
+    },
+    {
+      "id": "20260730-FR-5561C616-032",
+      "title": "한국-브라질, 글로벌 공급망 돌파구 함께 연다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T21:18:30+09:00",
+      "publishedAt": "2026-07-30T21:18:30+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한국-브라질, 글로벌 공급망 돌파구 함께 연다! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국-브라질, 글로벌 공급망 돌파구 함께 연다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sQ0RRVVdYRUVXM01TVzZxMFVraTQtaUJyaWRnZGh0Z0dzRkYyV1I2ZnZDTU1QVlBGTVRxa0JBbWhpUGkxQ01DTlVHWldremFIMkpnc0RabFN2TmhuUm5KX043ZUNrNS02R1dqbnhR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5561c616e0db8c4c0d77b5915b8b94e9957821b2392c8bd432f80608745631eb"
+    },
+    {
+      "id": "20260731-FR-C26D818D-033",
+      "title": "이 대통령 \"한-칠레 FTA 개선…핵심광물 공급망 협력 더욱 강화\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T13:42:42+09:00",
+      "publishedAt": "2026-07-31T13:42:42+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "이 대통령 \"한-칠레 FTA 개선…핵심광물 공급망 협력 더욱 강화\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"한-칠레 FTA 개선…핵심광물 공급망 협력 더욱 강화\" - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONUZPZFJvWnJOdl9sOUotYmtFelhCX2x2WFEyMUFtVkhhdkxmdWUzRTc3Wk42LTItdWtzVFBlRVpMbXVEQnpZdV9Cb2xtY2g1TnR2VjdyMHlnQnpXTjFuOExYTDJOVlFiUXRaVGd4RGN4S2pvZURwS3VGcnVDamw0LWlyN2xYb2dmSUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c26d818ddfc9ffc0e3b6debbe36202682bb71a8a7334fbffc2a51bc1b5cbd43c"
+    },
+    {
+      "id": "20260731-FR-00780E81-034",
+      "title": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T07:30:36+09:00",
+      "publishedAt": "2026-07-31T07:30:36+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZW5jaWpxa05CdFJ4cmxEdzRFczB0MDllRTUxaEFIMkV0UnkwWEJ0MFBhb0JSZWhjbU5XTjNQU2FxYzl4VUtaQ0E3cVYwWmswalVXVTlCYkxsdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "00780e81e76995de827d52853de4117a5c1189749fa8f4f64a8be96f2f5d1ea2"
+    },
+    {
+      "id": "20260729-FR-7AC7D8ED-035",
+      "title": "한-브라질 공급망 등 MOU 7건 체결…첨단전략산업 기술 협력 촉진 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T01:20:46+09:00",
+      "publishedAt": "2026-07-29T01:20:46+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-브라질 공급망 등 MOU 7건 체결…첨단전략산업 기술 협력 촉진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-브라질 공급망 등 MOU 7건 체결…첨단전략산업 기술 협력 촉진 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwRVVlV3lsX1FDM1J6QWtTWTl0RHdncFlNbkc3azJmYTEyZ0hqVUVodUR2dTFhRjM3bnJweG9mYXNzSlQ0b3BiSGREcXc4RW9TbjVTRjh6WEQzZElqd05LanZGOUhrLXVGaVdTRw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7ac7d8ed7b097c8f34dd7034d8db4499b2f2651469bb07e060aaedf07bc35cd1"
+    },
+    {
+      "id": "20260731-FR-D4FE0A0D-036",
+      "title": "한-칠레 핵심광물·투자·방산 공조…\"미래산업 기반 확대\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T15:04:15+09:00",
+      "publishedAt": "2026-07-31T15:04:15+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-칠레 핵심광물·투자·방산 공조…\"미래산업 기반 확대\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 핵심광물·투자·방산 공조…\"미래산업 기반 확대\" - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SLURUNWJscG1aeTVjWm0tWUROMDdjb0ttM2R2bXNKd3hqZDBTRTFoOTYwNm40Q1F4NzQ1NDhkQ25Hcm84Y3hFTk5iRXFUOHRZNndIbEJuS0c4cDNOQldqM0FuWHM5THNYQ0ptUw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d4fe0a0d31f13a452ea8bc4491f437871c446e28fe766af679407b54030efb16"
+    },
+    {
+      "id": "20260731-DP-39EF2CCB-037",
+      "title": "이 대통령 칠레 공식방문…\"핵심광물·청정에너지·AI 등 협력 넓어져\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T05:31:26+09:00",
+      "publishedAt": "2026-07-31T05:31:26+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "이 대통령 칠레 공식방문…\"핵심광물·청정에너지·AI 등 협력 넓어져\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 칠레 공식방문…\"핵심광물·청정에너지·AI 등 협력 넓어져\" - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xRVJNWEwyUVA0UEJGc2hoZGN4WTY4R1Jwc2JWNXZ6aF9MQVFiTjZ3dGMzT2FIZ29BT2RxX0o3bDgtN2E2N2VTOVZqcEgzazJjRU8yTlZJbWE3QndMR09Ea0tHUmNsbGlkNnhaNw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "39ef2ccb556c494153866d5a4185d356ad14301c26814eab6964486bb9692699"
+    },
+    {
+      "id": "20260729-DP-D29B5C01-038",
+      "title": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T06:49:19+09:00",
+      "publishedAt": "2026-07-29T06:49:19+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kYWRfN1dhMENjVVlNbkpMeHJyU1hUbHQzbElneElCYkU3Xzd6cE1FNVlWQmM3ZFJZNlhoNUNpRHZLSWJab0NmOUsyQjUzSHI1ZFBVd2pNZUQzYURHd3FFV3VvVlVpTmpseFAxSUhmQ0Q?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d29b5c01e424c6b3af8b2cc34299a3997aa42a83874b51cb8bc3bc9ff7584b5c"
+    },
+    {
+      "id": "20260731-FR-B27C7501-039",
+      "title": "2030년까지 더 빠르고 더 편리한 BRT 구축 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T13:53:27+09:00",
+      "publishedAt": "2026-07-31T13:53:27+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "2030년까지 더 빠르고 더 편리한 BRT 구축 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2030년까지 더 빠르고 더 편리한 BRT 구축 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWtoMk5EdjVvc2FDMXFWaG1sTkFyR1JTV2lkQ3hMOXl1Q3pyMGxsdzg5Skx4RXJfZmJxWmFiVWpMSjRHY1owR3V6ckhWTUt6cnluZGxZTTkzZy1senFIQzVIeHJTeDdPaF95WWZkQWttTEZvb0RvQktfSDA3MjFYdFBwNGh1czF6TTY0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b27c75019cabec1ecefd2cbb4040fa3d377bc9b76f4b322fc465e9ffc5283d18"
+    },
+    {
+      "id": "20260731-FR-B809FC04-040",
+      "title": "7/30(목) 한-칠레 공동언론발표문 | 연설문 | 대통령 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T08:54:52+09:00",
+      "publishedAt": "2026-07-31T08:54:52+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "7/30(목) 한-칠레 공동언론발표문 | 연설문 | 대통령 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "7/30(목) 한-칠레 공동언론발표문 | 연설문 | 대통령 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5VUV8wSDFjVHVpMzcweWNCTmpnTmpBemlvb1FYbU50cEZWTGZIdlhnVlgyVktCRmxFRzhFdFNpazdvX1F1NWpXZnNDeXkxSDhxZTNLa3VVeVc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b809fc040cd318aa3f3154d2dedf3c09f3bb94300339238873bbdfa4b2bbf3a3"
+    },
+    {
+      "id": "20260729-FR-8AC94863-041",
+      "title": "한-브라질 비즈니스 라운드테이블 결과 관련 김용범 정책실장 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T11:49:23+09:00",
+      "publishedAt": "2026-07-29T11:49:23+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-브라질 비즈니스 라운드테이블 결과 관련 김용범 정책실장 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-브라질 비즈니스 라운드테이블 결과 관련 김용범 정책실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4bS1mSS1OcU4zZF9lSXJxZExVVHdkcHFTM2RObmxmaW1CSENlTVF4VFlJS1ZDWVg3emlBUnllRzRoRWNnTkhQMkZ3RmRnN2JwaUVRVXI2S3dicmhmUzgzUVhBRm1XOTBYa2Y4Q2ZaUUY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8ac94863cb4d5910b7715281a39ecefd05c311aba9fd842edfa6317a98510fe0"
+    },
+    {
+      "id": "20260730-FR-80713A12-042",
+      "title": "한-브라질 힘 모아 최적 파트너로 도약 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-30T11:59:48+09:00",
+      "publishedAt": "2026-07-30T11:59:48+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-07-31T16:19:10+09:00",
+      "summary": "한-브라질 힘 모아 최적 파트너로 도약 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-브라질 힘 모아 최적 파트너로 도약 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-30",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIXy1pUl82UFJNSWhvcmdaQmdHSlhyQko4TG5VeXB1aW5pOE9SbUNDalVGZmQ3Z3BjQmNCa0Raa3dyLVBoTUI3enVMYTdvSFhyZjZjOFM1MkRoWHYteFVpRjVzR1owX2JfS0JZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "80713a121341271aea7b30ad1cb3da908d42b4b5dfb2797c2abd5ba0f0082b0c"
+    }
+  ]
 }
