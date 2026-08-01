@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-01T16:42:13+09:00",
-    "nextScheduledUpdate": "2026-08-01T17:12:13+09:00",
+    "lastSuccessfulUpdate": "2026-08-01T20:49:09+09:00",
+    "nextScheduledUpdate": "2026-08-01T21:19:09+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-01T16:42:10+09:00",
-      "finishedAt": "2026-08-01T16:42:13+09:00",
+      "startedAt": "2026-08-01T20:49:06+09:00",
+      "finishedAt": "2026-08-01T20:49:09+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 33,
-      "duplicates": 25,
-      "rejected": 163,
-      "rejectedByDate": 160,
-      "rejectedByRelevance": 3,
+      "acceptedCandidates": 34,
+      "duplicates": 29,
+      "rejected": 165,
+      "rejectedByDate": 163,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 8,
+      "newIssues": 2,
       "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,300 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260801-DP-8C0AEEAB-063",
+      "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T15:40:25+09:00",
+      "publishedAt": "2026-08-01T15:40:25+09:00",
+      "firstCollectedAt": "2026-08-01T16:42:12+09:00",
+      "updatedAt": "2026-08-01T20:49:07+09:00",
+      "summary": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDNwLUNrTmk5NmU0V3ZMTll0cm1lWHVsMTlpdlBKOVlNMTN4bVl3RDRYdEZjSDNoLUlvNGpHdjlJRHd2SWdSSDFKdW1uQjllLTV2aVRiaVlmTWpJNGZZTG9EM0ctbW5pZDdRLWhrbjAwU19NRzF0Mk9tNlRGS0ZuU2ZLQ0UxbzVNQ21fVA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2d6dl9QdUs2R3g3OENVbUFwSnNJSDI0bzNrWVJ0bzdCSFl5QmtiMlBmV19zNllCbGdsN0FKQXVtcW5STUhaRTZCV2NFUXhoeGxWaVhLTnVQTk4xdHhmR0ZXQ3FtSUtHSXgwZXd1R1Jna21ZZXVyZEExWTdWSWhTNGxGd0V5RzBURUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-01T20:49:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8c0aeeab63ba5a5e4de4caf5eb44b1b80b15b8b831b3638f925f1d7624ff0e8a"
+    },
+    {
+      "id": "20260801-FR-EF6A94CA-065",
+      "title": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T13:40:38+09:00",
+      "publishedAt": "2026-08-01T13:40:38+09:00",
+      "firstCollectedAt": "2026-08-01T16:42:12+09:00",
+      "updatedAt": "2026-08-01T20:49:07+09:00",
+      "summary": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDVHR2pOdXJ2ZkRtLVlfelhaVWdJRjVSNUQ0VDNFSDA0MXlMdTNFWV9mNVZ4akY0Vmd2bC1pUGhuV1MycFBJbVlCQ09tS2Z3aHZLZm9IeXBac3N4bW9WVE41NlRqTkZXbW1wMk93Z19Xck1KOGRfTWdJa2dIM3RvQnUyYjVCTkhGU2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU0p6UzlaUkRmM3V0b19vcFAwRUN1TXU3cmJRbDVJRlhDbzVfNzdVdzZSWWwxTElERDJrbWVVbWxVZ0tXc3UyV3UzaUNOdFR2U2ItT3BWc2RRTzdiX1pFWmVUWXdrZjExOHhURkt6eTlIMnk1bFZRN2xJUWRHSHh1WGwyNEhMVjg3RXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-01T20:49:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ef6a94ca62f265e2630add24e8698d6041da09e6b25b911409150ee743200e70"
+    },
+    {
+      "id": "20260731-FR-5B63EBA8-019",
+      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T13:25:12+09:00",
+      "publishedAt": "2026-07-31T13:25:12+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-08-01T20:49:07+09:00",
+      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNpZWhNM0dDaHE1N3hPY3NqMUtsNWZQS3JRQ3JTQlBSLUZFRDQza2lOWFVaRnQ1cUZCVU0ySmt3VDdWU3hRcUc5aWEyaUpVelJWdjVaZ3lTejc1b2N0RHFBclYtZ2pZUllXSkNJUkFXbGhhSGVxN3JndzFOWXhkbmpLMEZUYUJLd2tr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 카드뉴스 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWThvV1NRRDU4anN1b096SE0wdVJ5Z2xNVG50MFM1NjBRSGdmLV9rZ1k4cmJNQkhwUjZZQUUzU2xkdDR3TThlS0EzQ1FiQVRoYVROcUUydEZoMUlGX3htQkhZUHdDZHlieGl2QlFwMUpJQ3JONTlTNEpVZUljZlJxcHo1ZmVVRERBbUZGRDc5YVJYdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-01T20:49:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
+    },
+    {
+      "id": "20260731-FR-00780E81-034",
+      "title": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T07:30:36+09:00",
+      "publishedAt": "2026-07-31T07:30:36+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-08-01T20:49:07+09:00",
+      "summary": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZW5jaWpxa05CdFJ4cmxEdzRFczB0MDllRTUxaEFIMkV0UnkwWEJ0MFBhb0JSZWhjbU5XTjNQU2FxYzl4VUtaQ0E3cVYwWmswalVXVTlCYkxsdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAta2M0d04wZ0pSX0VmSGZCbzVWd3JZNVpxWlRpNVlLRWJ6dW9SeldtUUNMR1k5eGpZcGJXa1BrYV95NUZjN1duZWdMc2U1d2Y4QksxMWw5RDlyeGVqX1dGaVFJbWJLNTFmUzdJakZpaTY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-01T20:49:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "00780e81e76995de827d52853de4117a5c1189749fa8f4f64a8be96f2f5d1ea2"
+    },
+    {
+      "id": "20260731-DP-C110969A-069",
+      "title": "정부, 공장·창고 화재위험 막는다…19만여 동 종합 실태조사 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T15:56:43+09:00",
+      "publishedAt": "2026-07-31T15:56:43+09:00",
+      "firstCollectedAt": "2026-08-01T20:49:07+09:00",
+      "updatedAt": "2026-08-01T20:49:07+09:00",
+      "summary": "정부, 공장·창고 화재위험 막는다…19만여 동 종합 실태조사 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 공장·창고 화재위험 막는다…19만여 동 종합 실태조사 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JTFU0eXFVSnR0ZTNneHg5em4xX0s2N3BvQkVmVXgzdjNnMjRZc3JnTjU0RWg5Rjc0VFk1akM1Um1Ed1pOV3ZLUnFod3lTTVcwMHdNYjloUW0zbkdZR0szWnpjSTh1bDl6S0pJaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c110969ae2c8a8486e10f9a25c19bf44e12af0b230cdd5bba1116042a3c0fab7"
+    },
+    {
+      "id": "20260801-FR-9B0A483E-070",
+      "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - president.go.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "president.go.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T08:36:04+09:00",
+      "publishedAt": "2026-08-01T08:36:04+09:00",
+      "firstCollectedAt": "2026-08-01T20:49:07+09:00",
+      "updatedAt": "2026-08-01T20:49:07+09:00",
+      "summary": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 president.go.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "president.go.kr",
+          "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - president.go.kr",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xeEFwcnNJQnhCb3MtYVZIWjJiVy1senZuLVFKT2xmTmZZWTI3U2xEdC03d2lPWDYyTy1aTnhYRkV6ZTJNOXp5TURxbmFUWVR4QVl0dlNhQTlvQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9b0a483e1f10679c7ba91b1fa41b513ca304cb5c590e89cdf9e5b3357a380e93"
+    },
     {
       "id": "20260731-DP-553FA58E-047",
       "title": "이재명 대통령, 「한-칠레 비즈니스 라운드테이블」 참석 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
@@ -213,46 +507,6 @@
       "contentHash": "ce8d352000b420694daedb4a9c7a685660b59767b107dac3adcfc4f21e897231"
     },
     {
-      "id": "20260801-DP-8C0AEEAB-063",
-      "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-01T15:40:25+09:00",
-      "publishedAt": "2026-08-01T15:40:25+09:00",
-      "firstCollectedAt": "2026-08-01T16:42:12+09:00",
-      "updatedAt": "2026-08-01T16:42:12+09:00",
-      "summary": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaDNwLUNrTmk5NmU0V3ZMTll0cm1lWHVsMTlpdlBKOVlNMTN4bVl3RDRYdEZjSDNoLUlvNGpHdjlJRHd2SWdSSDFKdW1uQjllLTV2aVRiaVlmTWpJNGZZTG9EM0ctbW5pZDdRLWhrbjAwU19NRzF0Mk9tNlRGS0ZuU2ZLQ0UxbzVNQ21fVA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "8c0aeeab63ba5a5e4de4caf5eb44b1b80b15b8b831b3638f925f1d7624ff0e8a"
-    },
-    {
       "id": "20260801-FR-677C5470-064",
       "title": "내년부터 아르헨산 원유 수입…핵심광물 공급망 협력 체계 마련 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -291,46 +545,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "677c5470034bd60f6ed9ee2f092b964c6296d3cfb5608b34375e9cc6f1e1e6ab"
-    },
-    {
-      "id": "20260801-FR-EF6A94CA-065",
-      "title": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "경제안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-01T13:40:38+09:00",
-      "publishedAt": "2026-08-01T13:40:38+09:00",
-      "firstCollectedAt": "2026-08-01T16:42:12+09:00",
-      "updatedAt": "2026-08-01T16:42:12+09:00",
-      "summary": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 - 대한민국 정책브리핑",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORDVHR2pOdXJ2ZkRtLVlfelhaVWdJRjVSNUQ0VDNFSDA0MXlMdTNFWV9mNVZ4akY0Vmd2bC1pUGhuV1MycFBJbVlCQ09tS2Z3aHZLZm9IeXBac3N4bW9WVE41NlRqTkZXbW1wMk93Z19Xck1KOGRfTWdJa2dIM3RvQnUyYjVCTkhGU2c?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ef6a94ca62f265e2630add24e8698d6041da09e6b25b911409150ee743200e70"
     },
     {
       "id": "20260801-FR-0A084636-066",
@@ -2068,46 +2282,6 @@
       "contentHash": "6b0e1e6d73a70ccdc8c2e8935ddfa1804a1f5ae5e414738c722e333ddaf4874e"
     },
     {
-      "id": "20260731-FR-5B63EBA8-019",
-      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T13:25:12+09:00",
-      "publishedAt": "2026-07-31T13:25:12+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-07-31T16:19:10+09:00",
-      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNpZWhNM0dDaHE1N3hPY3NqMUtsNWZQS3JRQ3JTQlBSLUZFRDQza2lOWFVaRnQ1cUZCVU0ySmt3VDdWU3hRcUc5aWEyaUpVelJWdjVaZ3lTejc1b2N0RHFBclYtZ2pZUllXSkNJUkFXbGhhSGVxN3JndzFOWXhkbmpLMEZUYUJLd2tr?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
-    },
-    {
       "id": "20260730-FR-38B68661-020",
       "title": "미래 신안보 혁신기업 육성 실행에 속도를 냅니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -2586,46 +2760,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "5561c616e0db8c4c0d77b5915b8b94e9957821b2392c8bd432f80608745631eb"
-    },
-    {
-      "id": "20260731-FR-00780E81-034",
-      "title": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T07:30:36+09:00",
-      "publishedAt": "2026-07-31T07:30:36+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-07-31T16:19:10+09:00",
-      "summary": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "이재명 대통령 아르헨티나 방문 관련, 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZW5jaWpxa05CdFJ4cmxEdzRFczB0MDllRTUxaEFIMkV0UnkwWEJ0MFBhb0JSZWhjbU5XTjNQU2FxYzl4VUtaQ0E3cVYwWmswalVXVTlCYkxsdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "00780e81e76995de827d52853de4117a5c1189749fa8f4f64a8be96f2f5d1ea2"
     },
     {
       "id": "20260729-FR-7AC7D8ED-035",
