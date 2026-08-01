@@ -1,22 +1,22 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-01T20:49:09+09:00",
-    "nextScheduledUpdate": "2026-08-01T21:19:09+09:00",
+    "lastSuccessfulUpdate": "2026-08-02T00:43:14+09:00",
+    "nextScheduledUpdate": "2026-08-02T01:13:14+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-01T20:49:06+09:00",
-      "finishedAt": "2026-08-01T20:49:09+09:00",
+      "startedAt": "2026-08-02T00:43:12+09:00",
+      "finishedAt": "2026-08-02T00:43:14+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 34,
-      "duplicates": 29,
-      "rejected": 165,
-      "rejectedByDate": 163,
+      "acceptedCandidates": 35,
+      "duplicates": 34,
+      "rejected": 160,
+      "rejectedByDate": 158,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
       "newIssues": 2,
@@ -81,7 +81,7 @@
       "occurredAt": "2026-08-01T15:40:25+09:00",
       "publishedAt": "2026-08-01T15:40:25+09:00",
       "firstCollectedAt": "2026-08-01T16:42:12+09:00",
-      "updatedAt": "2026-08-01T20:49:07+09:00",
+      "updatedAt": "2026-08-02T00:43:13+09:00",
       "summary": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -102,11 +102,76 @@
           "date": "2026-08-01",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2d6dl9QdUs2R3g3OENVbUFwSnNJSDI0bzNrWVJ0bzdCSFl5QmtiMlBmV19zNllCbGdsN0FKQXVtcW5STUhaRTZCV2NFUXhoeGxWaVhLTnVQTk4xdHhmR0ZXQ3FtSUtHSXgwZXd1R1Jna21ZZXVyZEExWTdWSWhTNGxGd0V5RzBURUE?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청와대 \"대통령, 국제사회에 '글로벌 AI 중심 국가' 비전 제시\" - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HMXFuV1B1R3d3RDlwTGFEM05sTUswdzZ6UVd4cVJqM1VMVjVGMWRKRExOOTNyMXJfSVI1WkF0Vkt1MEYxRDVobWVjcU9jOEpFaGYyb2w4dHRyZFBRRnlOalpKSTAzWWQyVTVTag?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
         {
           "updatedAt": "2026-08-01T20:49:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-02T00:43:13+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8c0aeeab63ba5a5e4de4caf5eb44b1b80b15b8b831b3638f925f1d7624ff0e8a"
+    },
+    {
+      "id": "20260801-DP-1E9A0285-053",
+      "title": "기초연금 수급희망 이력관리 신청간주 제도 시행(7/30~) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T01:04:48+09:00",
+      "publishedAt": "2026-08-01T01:04:48+09:00",
+      "firstCollectedAt": "2026-08-01T03:49:29+09:00",
+      "updatedAt": "2026-08-02T00:43:13+09:00",
+      "summary": "기초연금 수급희망 이력관리 신청간주 제도 시행(7/30~) - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기초연금 수급희망 이력관리 신청간주 제도 시행(7/30~) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVJkM180d05RdHNtUUIyeUc1Vl81bV9qU3FMSVM5bzFuenpmbFBFb1VzNllydDJXUWo1LU1oNVJhek5kaHhEVGY5ZTZLLTM0a29vVS1wRDMwTXJrLUJaTldYbVhqdFh6aXJETFVQVlpzNDQwdzRJWHFxUUxMSV9HbkhEdlYxV3hEREQw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기초연금 수급희망 이력관리 신청간주 제도 시행(7/30~) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VSmxTVUNkZC1rOXpybS1NRzdqSnl5RVJRSlRoWjVENWE5WDhJREhsNklzWm5MVDlOVWFBY0w3RWxmLUwxNFB2X3gySTRPU1daNTYzdXVweERkZnR2RUdSRWoyMXgtZGRndmVkMmtn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-02T00:43:13+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
         }
@@ -115,7 +180,205 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "8c0aeeab63ba5a5e4de4caf5eb44b1b80b15b8b831b3638f925f1d7624ff0e8a"
+      "contentHash": "1e9a02858415d4d4dd7db148d0aebd111069d3ce6148be74ec15f6478cb505c3"
+    },
+    {
+      "id": "20260731-FR-DC98CF25-021",
+      "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T14:08:19+09:00",
+      "publishedAt": "2026-07-31T14:08:19+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-08-02T00:43:13+09:00",
+      "summary": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEpRSEZCaV9SN0NpcFhnRGZoMW82eHNDRy14SnBkcldENGNxWnNoRUVVZ0F0VU8wOXNYWVVrSEk1RklrbXZiQ08zWG1EUUk5ckp0a0Uwcl9zUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSGdmM1NrLWNZY0xmdVd1dzBVaEstUDZzZUdKRnVlRmVMSzMwazFoMEFROHVnbm1USHVFNHk3OWJNMzNkYVNVWkxGOFR0NmZXWUo5eF9OeW1IQUJvVTdmSnp5bXJhSDVtRDgyRkFqU1o?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMTBYSlpLcjVwSFZuMlFHVE8zN2RSaFJ1eVhkWk1zWER0aFVhUUEzOGdMdzJVRElLMlhmRmk4ZVFPSzg3c1dSRUZxQkIzZnl3U1F3Q2tBYl9VbVpyYmlab3J3Um9UV2Q5SzVZZ3ZuNWYtMGtKVzJrYjhHNlJBWnBmSDJfTXJKeVc0eUQtMWg0WFJsc1ZSLVZWSjdhaHlReTNuWFRSS0JmT2l2Ny1EQXNxLTRxaVVsTElSa2hiVXdHakhpUDA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-07-31T22:20:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-02T00:43:13+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dc98cf25a436c5e7829af350480474cf46a4cf1fa143199ed2bf45d6c19e56c3"
+    },
+    {
+      "id": "20260731-DP-36BBD5BD-050",
+      "title": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T06:34:21+09:00",
+      "publishedAt": "2026-07-31T06:34:21+09:00",
+      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
+      "updatedAt": "2026-08-02T00:43:13+09:00",
+      "summary": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnV5VFBrT1VMRV9MWlNqVEQ2WXpCb3dSRW1nWk9mZjdJZkExS0k2MncyZ2gzTm5vN0pqazIzemtLWnhxNy1JN3RBZE5fN2RIeDVHR0NZaG42YTd3YnJkdDZuWlVSZzlBakVhQl8zVF94aXNYQnNENzlLRlpwSUtycTV4N0JtWTRWbUU5R1RB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYlByR3Z3bXBCUkNDbVM3RlkzLWVVN1NXcWJPdDE0RUV6ZzBWaGRDZkFBTDZfZ3lWV0RrVU9PMzdZdWFIckJ2ZHUyUkpQN1RjV2hraGNaUTVKSF9XeS1FcmlRYzlNcDlyVlYtUTVPZXY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-02T00:43:13+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "36bbd5bdd819365dc756e03ec492b8220a1f62901421cc1d7782716a051e7610"
+    },
+    {
+      "id": "20260731-DP-C3CBEE85-071",
+      "title": "문신, 뭐가 맞는 말일까? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T13:08:05+09:00",
+      "publishedAt": "2026-07-31T13:08:05+09:00",
+      "firstCollectedAt": "2026-08-02T00:43:13+09:00",
+      "updatedAt": "2026-08-02T00:43:13+09:00",
+      "summary": "- 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "문신, 뭐가 맞는 말일까? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqblJoRnA1RzRsNnNVUlZxT1kxSU5FRC0xTXpPY3diQmpMcmxxMzZmX1pwcTNqbVNia3JlMkNrUG0zbFFzVENjNnh6c0lTZkVaNk1fSWJjOWVkM0lZTFJJZUxoTGdxWktGMDZiT3F3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c3cbee8538f0a14df76cc946cc941f0496e12250f92a285a529108c002639beb"
+    },
+    {
+      "id": "20260731-DP-4B2A36EE-072",
+      "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T18:59:29+09:00",
+      "publishedAt": "2026-07-31T18:59:29+09:00",
+      "firstCollectedAt": "2026-08-02T00:43:13+09:00",
+      "updatedAt": "2026-08-02T00:43:13+09:00",
+      "summary": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeWZBNThCU0xVbHhkYmZ1dmd0ZXNUNndxSTBXdkV0YWl6Z0o5S21CNjR3OG5wMjRMZ1FsYWQyTmgwZGlDNVUwT2o1LW81VDNqa2l5SFFNQXNfT3RiQXNlV0NNdzJHX1dGMVRKYWRlWl9SN0dDTE55elluR2VkTnhRU3cyemJMdk0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4b2a36ee8bcf42248441cc1a6b1ae2d7470a10e8a632871bf2e18eb66dfaaedb"
     },
     {
       "id": "20260801-FR-EF6A94CA-065",
@@ -1225,46 +1488,6 @@
       "contentHash": "6a7f89085336a7a959b7d7f14293ba6d46281f0d95f331de8db3d97ddbda5ef1"
     },
     {
-      "id": "20260801-DP-1E9A0285-053",
-      "title": "기초연금 수급희망 이력관리 신청간주 제도 시행(7/30~) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-01T01:04:48+09:00",
-      "publishedAt": "2026-08-01T01:04:48+09:00",
-      "firstCollectedAt": "2026-08-01T03:49:29+09:00",
-      "updatedAt": "2026-08-01T03:49:29+09:00",
-      "summary": "기초연금 수급희망 이력관리 신청간주 제도 시행(7/30~) - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "기초연금 수급희망 이력관리 신청간주 제도 시행(7/30~) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVJkM180d05RdHNtUUIyeUc1Vl81bV9qU3FMSVM5bzFuenpmbFBFb1VzNllydDJXUWo1LU1oNVJhek5kaHhEVGY5ZTZLLTM0a29vVS1wRDMwTXJrLUJaTldYbVhqdFh6aXJETFVQVlpzNDQwdzRJWHFxUUxMSV9HbkhEdlYxV3hEREQw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1e9a02858415d4d4dd7db148d0aebd111069d3ce6148be74ec15f6478cb505c3"
-    },
-    {
       "id": "20260731-DP-E6DC234D-054",
       "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -1304,59 +1527,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e6dc234d468154baa36d87349dd876210f9e1c8160440d47a01c6448ff032f2d"
-    },
-    {
-      "id": "20260731-FR-DC98CF25-021",
-      "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T14:08:19+09:00",
-      "publishedAt": "2026-07-31T14:08:19+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-07-31T22:20:07+09:00",
-      "summary": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52cEpRSEZCaV9SN0NpcFhnRGZoMW82eHNDRy14SnBkcldENGNxWnNoRUVVZ0F0VU8wOXNYWVVrSEk1RklrbXZiQ08zWG1EUUk5ckp0a0Uwcl9zUQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-칠레 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pSGdmM1NrLWNZY0xmdVd1dzBVaEstUDZzZUdKRnVlRmVMSzMwazFoMEFROHVnbm1USHVFNHk3OWJNMzNkYVNVWkxGOFR0NmZXWUo5eF9OeW1IQUJvVTdmSnp5bXJhSDVtRDgyRkFqU1o?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-07-31T22:20:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "dc98cf25a436c5e7829af350480474cf46a4cf1fa143199ed2bf45d6c19e56c3"
     },
     {
       "id": "20260731-DP-54D940FC-044",
@@ -1517,46 +1687,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ee7f55645cc258c0e83ff98523aad365768586c1f24e30a985312f9685836a7d"
-    },
-    {
-      "id": "20260731-DP-36BBD5BD-050",
-      "title": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T06:34:21+09:00",
-      "publishedAt": "2026-07-31T06:34:21+09:00",
-      "firstCollectedAt": "2026-07-31T22:20:07+09:00",
-      "updatedAt": "2026-07-31T22:20:07+09:00",
-      "summary": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령 부부, 칠레 산티아고 '한국의 거리' 방문 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSnV5VFBrT1VMRV9MWlNqVEQ2WXpCb3dSRW1nWk9mZjdJZkExS0k2MncyZ2gzTm5vN0pqazIzemtLWnhxNy1JN3RBZE5fN2RIeDVHR0NZaG42YTd3YnJkdDZuWlVSZzlBakVhQl8zVF94aXNYQnNENzlLRlpwSUtycTV4N0JtWTRWbUU5R1RB?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "36bbd5bdd819365dc756e03ec492b8220a1f62901421cc1d7782716a051e7610"
     },
     {
       "id": "20260729-FR-0E1443D9-051",
