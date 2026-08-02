@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-02T16:56:21+09:00",
-    "nextScheduledUpdate": "2026-08-02T17:26:21+09:00",
+    "lastSuccessfulUpdate": "2026-08-02T20:46:46+09:00",
+    "nextScheduledUpdate": "2026-08-02T21:16:46+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-02T16:56:19+09:00",
-      "finishedAt": "2026-08-02T16:56:21+09:00",
+      "startedAt": "2026-08-02T20:46:43+09:00",
+      "finishedAt": "2026-08-02T20:46:46+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 39,
-      "duplicates": 35,
-      "rejected": 157,
+      "duplicates": 41,
+      "rejected": 158,
       "rejectedByDate": 154,
-      "rejectedByRelevance": 3,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
-      "updatedIssues": 4,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260729-DP-D29B5C01-038",
+      "title": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T06:49:19+09:00",
+      "publishedAt": "2026-07-29T06:49:19+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-08-02T20:46:44+09:00",
+      "summary": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kYWRfN1dhMENjVVlNbkpMeHJyU1hUbHQzbElneElCYkU3Xzd6cE1FNVlWQmM3ZFJZNlhoNUNpRHZLSWJab0NmOUsyQjUzSHI1ZFBVd2pNZUQzYURHd3FFV3VvVlVpTmpseFAxSUhmQ0Q?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 아르헨티나 동포 간담회 개최 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYMUtmNmFMOFhMSFRvNHgwR2lpdUVVVVQyZXpCT2RNM01QU0pDNEZwWHhmamhkSVkyd0NlcVctemlYX0pMdDZMamg2VFdfOVBPaHVKVExHUXdOS0ExZGNtcmhJVlM2ZjVaVUQ0ZE5CZWU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-02T20:46:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d29b5c01e424c6b3af8b2cc34299a3997aa42a83874b51cb8bc3bc9ff7584b5c"
+    },
     {
       "id": "20260731-DP-553FA58E-047",
       "title": "이재명 대통령, 「한-칠레 비즈니스 라운드테이블」 참석 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
@@ -3459,46 +3512,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "39ef2ccb556c494153866d5a4185d356ad14301c26814eab6964486bb9692699"
-    },
-    {
-      "id": "20260729-DP-D29B5C01-038",
-      "title": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-29T06:49:19+09:00",
-      "publishedAt": "2026-07-29T06:49:19+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-07-31T16:19:10+09:00",
-      "summary": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령, 브라질 동포간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
-          "date": "2026-07-29",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kYWRfN1dhMENjVVlNbkpMeHJyU1hUbHQzbElneElCYkU3Xzd6cE1FNVlWQmM3ZFJZNlhoNUNpRHZLSWJab0NmOUsyQjUzSHI1ZFBVd2pNZUQzYURHd3FFV3VvVlVpTmpseFAxSUhmQ0Q?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d29b5c01e424c6b3af8b2cc34299a3997aa42a83874b51cb8bc3bc9ff7584b5c"
     },
     {
       "id": "20260731-FR-B27C7501-039",
