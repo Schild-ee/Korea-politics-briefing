@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-03T08:45:36+09:00",
-    "nextScheduledUpdate": "2026-08-03T09:15:36+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-03T21:41:21+09:00",
+    "nextScheduledUpdate": "2026-08-03T22:11:21+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-03T08:45:34+09:00",
-      "finishedAt": "2026-08-03T08:45:36+09:00",
+      "startedAt": "2026-08-03T21:41:19+09:00",
+      "finishedAt": "2026-08-03T21:41:21+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 30,
-      "duplicates": 33,
-      "rejected": 167,
-      "rejectedByDate": 163,
-      "rejectedByRelevance": 4,
+      "acceptedCandidates": 23,
+      "duplicates": 12,
+      "rejected": 173,
+      "rejectedByDate": 170,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 12,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,671 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260801-FR-CE8D3520-062",
+      "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T08:19:21+09:00",
+      "publishedAt": "2026-08-01T08:19:21+09:00",
+      "firstCollectedAt": "2026-08-01T16:42:12+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2QnFrcDlMZF9MSGl6R0VzYjd4bTdqcnBmcHRzS3Q2eHdRUkw5ZGZ5X1U1dlhlTDF0Sm5qeHVHa05Fd2FneG5JMGdkQ1VTemJOSmQyNFFMel9vX3NEVXJVeG9VM0dLcWRpWTRkcUFDdjc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2w5LUNOUkw5LVlRV1RxeXg4MjUxaERZdUpGTEVNdWdWU0R5d3dKSzh6UTRYTUlFUGh4Rm9Sc0gwWjMyVVJ0QkVzUUp1TnY3ZXV4a2J0SGlUSE1IdlBDaVFabjhxTGVDN001NHBKb3QtZ1RBVXo1d3R4S2JVUFBRSUYtZmRPNWc3dUMwVUVn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHg1N0Yxa3JiV0FhM2toY1IwWEZUanJiOUE5WG5OZWFVUjRraFpMcWswQkxBRGhRbzBZOFJ5VlFnUHNJYVBkSmZSNWRkSEZ4ajJNdnBNbkVfX0hNS3lZSm5iQlc2Umlpb2wybXd0a0lyYmcteGxWejF5VFo5TDlNQml6TkxNSXlfQ0k4Q19R?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-02T16:56:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-03T21:41:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ce8d352000b420694daedb4a9c7a685660b59767b107dac3adcfc4f21e897231"
+    },
+    {
+      "id": "20260731-FR-5B63EBA8-019",
+      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T13:25:12+09:00",
+      "publishedAt": "2026-07-31T13:25:12+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNpZWhNM0dDaHE1N3hPY3NqMUtsNWZQS3JRQ3JTQlBSLUZFRDQza2lOWFVaRnQ1cUZCVU0ySmt3VDdWU3hRcUc5aWEyaUpVelJWdjVaZ3lTejc1b2N0RHFBclYtZ2pZUllXSkNJUkFXbGhhSGVxN3JndzFOWXhkbmpLMEZUYUJLd2tr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 카드뉴스 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWThvV1NRRDU4anN1b096SE0wdVJ5Z2xNVG50MFM1NjBRSGdmLV9rZ1k4cmJNQkhwUjZZQUUzU2xkdDR3TThlS0EzQ1FiQVRoYVROcUUydEZoMUlGX3htQkhZUHdDZHlieGl2QlFwMUpJQ3JONTlTNEpVZUljZlJxcHo1ZmVVRERBbUZGRDc5YVJYdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-아르헨티나 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzk4QU81eUdXdWtqMkM1TWpObmlsYlExMWVKdFZoenI4SU5MalZleTdvX19manp3Snc4MkQ2TWdCTFlicTdCaGZOY3ZHdmpDdzFESUNuUUphRVZtUEVydWZuYW9WU3VDTFY5QkRaNXlHYl9uY0ppMWI5YjBYdG1MRWlTYmY3b0FkbS1F?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-01T20:49:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-03T21:41:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
+    },
+    {
+      "id": "20260729-FR-AE2EF178-026",
+      "title": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T17:27:22+09:00",
+      "publishedAt": "2026-07-29T17:27:22+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TejFsaUVEM1BScTcwSTdoM3k0RXBSbXA4TTZ0cWxtd1dWeGJrX21teUxhM3FpWjBlcmYwb05MTWlRVHA3cXRJZjBBV3YxVENnZFN5WVlWN3dodjRyNzM3WXlGRHhaZzdxcUo3RGVB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담(2026.7.30.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcXlMYnAzTzJyamcwTllWV2U4ZnZBQllNNWZQamhHYndsS1VqNVkyVlBUMk5ZekFJVE9MZ1htREl2RVg3NEhpREVqNFRiaGtfcFBiMTVRQjR0T3dCQzZfam1jVzVBaHJTY3Vadk42dGltRzVLb1BqbUk2TUlSc2lSbDJpX05OZmNZSGVZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-03T21:41:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae2ef178a9de431d81d224a275a20a0f02c0d567a026e82ddbd10444a63d227f"
+    },
+    {
+      "id": "20260803-DP-E7CAFE0C-085",
+      "title": "8월 주요 시행법령 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T13:08:20+09:00",
+      "publishedAt": "2026-08-03T13:08:20+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "8월 주요 시행법령 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "8월 주요 시행법령 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xNVdCTGY1NjhpQm5MZktMQ0hPbWFhbFFtUXhMUUYtbUN5bXc5cVoyOGxEdFNkTl9UZHU3Nm9zMmgycElJeG5KelhIVmg2a1A4STVVNGszdEpjZC02NUNhZVZPY3pEV3ZodWMxRHRwczJfa1dJeGZF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e7cafe0c85fbb3d5f84070dc77ed00b4c156092e3cbb1de03157aad4468d1af1"
+    },
+    {
+      "id": "20260803-DP-A6A89323-086",
+      "title": "(설명자료)가칭「메가특구특별법」의 구체적 내용은 확정된 바 없습니다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T14:18:00+09:00",
+      "publishedAt": "2026-08-03T14:18:00+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "(설명자료)가칭「메가특구특별법」의 구체적 내용은 확정된 바 없습니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명자료)가칭「메가특구특별법」의 구체적 내용은 확정된 바 없습니다 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjBlaGFYSE5MZllmNkJDTUYxc3Q3MzdBVl95Z3ZCbFJkbHRZODEtNVhjQlZNQ2RHYmVoa2NNUHhrVUdNWmNQdFo5OFRLUk9Xd28ya2JBWXVXVHpQR3h2MU1HRWZGdWstZkZyaWFXRFNpcmR0ZUptcmFwWFAtRWY3c2dkTWw0aTZKd2h3WTJuMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a6a89323697e176aefeb1b66198eb01ee4c08a23fa92af76ac3bb1237f9354a6"
+    },
+    {
+      "id": "20260803-DP-EE39582B-087",
+      "title": "법원 소개 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T11:29:31+09:00",
+      "publishedAt": "2026-08-03T11:29:31+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "법원 소개 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "법원 소개 - 대한민국 법원",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVVWOXJ0YVdWU3pqdWNEdjk4SVIxMlJDSmxXYVlUak1rT1RxcDVRSU9SOUxBV0ZZZGNDbDQwYlZLUkswSE9hMmhKWjdJdzM3bVdhQW5heUotbm9wTi12OUlpYUhLdEtRNUlHYW9jWEt3dmU0RHNJLTJkdHNMeUlmZkhKVXZmaFRUd0kxdWlB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ee39582b80b5b1379d2d4b92be14fc78893e402400a171b2ac296cd6e524619d"
+    },
+    {
+      "id": "20260803-DP-15E61BBE-088",
+      "title": "폭염 중대본 2단계 격상…취약계층 폭염 대응 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T14:45:02+09:00",
+      "publishedAt": "2026-08-03T14:45:02+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "폭염 중대본 2단계 격상…취약계층 폭염 대응 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "폭염 중대본 2단계 격상…취약계층 폭염 대응 강화 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSDdqWlZnRzlHRmxqVHZISE5qeGY5RHppbk54bWtNRkp4a3h6WF9jTlBlbDc5RGZFTTRVSUp4dDlFS2syS1d0MHJmd2V3OWxnRjFlbUtoem1MNWUybUlITTZrUEdpQUl2MlBMdEQ4OVJJNVFxRllGVkR5emJQRlZOTFJJSGhpVk5JS3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "15e61bbe1d926e6cf7edd6e5de351193bd0079fed2e7a5e506eb6028845209b3"
+    },
+    {
+      "id": "20260803-DP-0F7905C4-089",
+      "title": "서울가정법원 공고 제 2026 18 호 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T17:45:52+09:00",
+      "publishedAt": "2026-08-03T17:45:52+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "서울가정법원 공고 제 2026 18 호 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "서울가정법원 공고 제 2026 18 호 - 대한민국 법원",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFA5X3ZyQ2x0eXVBZWtyTGRTV3hIazVaYmVjLUphV2Y1MEM5bEdHS2tIRHpZeE5CeEFoYU52ZWd2NTdEQ245RHhLV0haVnF1TVZCSlFTd3dHOThfSlo3YjJIWWxnSnNMMWZQRFhyYlVhRUhDd2N0Mjg1RklHOXhNMWJ0UnRYaGlOX2FjV293?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f7905c44320ad58aba9cb33de9b283ec40f5e16db07d346ae29c9894f242dd3"
+    },
+    {
+      "id": "20260803-DP-772E57D5-090",
+      "title": "폭염중대경보 발령 시, 모든 야외활동을 즉시 중단하세요 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T14:21:46+09:00",
+      "publishedAt": "2026-08-03T14:21:46+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "폭염중대경보 발령 시, 모든 야외활동을 즉시 중단하세요 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "폭염중대경보 발령 시, 모든 야외활동을 즉시 중단하세요 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaWIyNC1fRHB4dmI3V2ZPRF96dm9qb0FBYTlQVHEtX1FCczF6Q0JCZE8tNFdpaDNjYVlIT3dNWVNCd2F2SmV0ZXo4SFpGQkpPby1tR25LaWhDUzZPdF9PNnRPaUw1YVFUcXFUT3o2ZDd3alZXeF83a2U4RFpfWjlYUmtLZFEzYWw1VWNB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "772e57d5a73381d1d20785d24176922bd305789e5a7b53d21b6da6e8707db13a"
+    },
+    {
+      "id": "20260803-DP-8970BBE8-091",
+      "title": "무더위 잊는 궁궐 피서, 창덕궁 약방에서 달이는 '조선 왕실 보양 비법' - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T11:31:28+09:00",
+      "publishedAt": "2026-08-03T11:31:28+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "무더위 잊는 궁궐 피서, 창덕궁 약방에서 달이는 '조선 왕실 보양 비법' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "무더위 잊는 궁궐 피서, 창덕궁 약방에서 달이는 '조선 왕실 보양 비법' - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY1JfTHM1LUExVGl4clg2MW1YR2VabHVsX2ZsREpCUlVlMzc4d3AzalB3dllqSVJ0eGM2SU44QmVnOUpCTDhJWDBzUFJzeUU5a1pHUWlxRnlEWjJnSk91SXo0bmpGYi1BNng2THZnX0dDWG5abTBPeDA3cFRBRHFnSXN5VTdoQXBJSGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8970bbe83e817e9c1126e25ea179f2804085611f309d0dcbfae22ca315dea7d8"
+    },
+    {
+      "id": "20260803-DP-40AF0102-092",
+      "title": "국민주권정부 1년 '정책으로 달라진 일상' 수상작 공개 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T13:53:38+09:00",
+      "publishedAt": "2026-08-03T13:53:38+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "국민주권정부 1년 '정책으로 달라진 일상' 수상작 공개 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민주권정부 1년 '정책으로 달라진 일상' 수상작 공개 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORjZaNG9Ha1liRFFFY1lvQUN4VWN6WlBsS0hTLWdpOEd6TmJtR3lJUjRJZnNKYVRaTG9sd1BTcDJMbWpqMXJ6dnZpYXhuZjlXWnViaHVTOVJ4LWI4RUljbThxUjFjd0c1eEEtNWgtRUxVRzNyWVdTeWZWWjBVa2NpX1dFQjdGdkF4VXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "40af01026b566e1d9fbe60f99df0d764e580692b99abdb2f0bfba775d0ca0d7c"
+    },
+    {
+      "id": "20260803-DP-B04105AE-093",
+      "title": "프랑크푸르트 동포 간담회 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T09:27:15+09:00",
+      "publishedAt": "2026-08-03T09:27:15+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "프랑크푸르트 동포 간담회 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "프랑크푸르트 동포 간담회 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFRJblJ6RUNtQVVkWlJpZDJjSTBEcWtGMksyNHlRanA1Y0FCY3l2TS1admllcHJfZHFiSlVvbl9CRXAtZUlrNEpsdmdxaXFub01selVfQUNZLVNmOHJXSjRGZ25kU2RkcXQ0TmczaW5OMnBheGMwQ2ExUUtUTzVlYVJmUmEtWDQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b04105ae86b0fde84731ad4dd007ba3a59ce8647381083d616896a1218a69fcd"
+    },
+    {
+      "id": "20260802-DP-211C9098-094",
+      "title": "이재명 대통령, 독일 프랑크푸르트 동포 간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-02T22:34:16+09:00",
+      "publishedAt": "2026-08-02T22:34:16+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "이재명 대통령, 독일 프랑크푸르트 동포 간담회 개최 관련 강유정 수석대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 독일 프랑크푸르트 동포 간담회 개최 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54blBPbF9iSWJQZVJNQ0xwQjR3ZWNNMDlDZVplWnNSa0NkNXk1ZW5WdnJGYlFNNDBJX0oyNUpYdWlzS09NNlBwOXZMU3hkRlNaMGhYeTJrMkM1Zm5LLUVzeGtET25OTkF3SThZRmRGSzk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "211c9098176f4561d266f198730f3ded242d1cd5ae31a4627d80654ae768f628"
+    },
+    {
+      "id": "20260803-FR-264788FD-095",
+      "title": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T15:47:47+09:00",
+      "publishedAt": "2026-08-03T15:47:47+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRndGNWhlY1lTVGFHTzBzaVMwMEcyMVBYTjFZcGpicDdQd1MyVDhlUm1qUVVuSW9vZ2EwSmdJcWNtUlFaY2N5ejl6VWg5TV9mV2JVNTB6ZzMxYXUzM2cySnVXTFFRN3lKS3ZzRg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "264788fd9929ffb07294be1bfa8f9357bdbebc7e634250135a92819e76619fc4"
+    },
+    {
+      "id": "20260801-FR-6218108B-096",
+      "title": "한-아르헨티나 정상회담 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T19:13:41+09:00",
+      "publishedAt": "2026-08-01T19:13:41+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-03T21:41:20+09:00",
+      "summary": "한-아르헨티나 정상회담 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-아르헨티나 정상회담 - 대한민국 청와대",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRVHVqOUFiNjVKVjZxazBFREdPTGY5QTdQMEVmTFVvM0pNczU3NjlRX0E4RkttVEU4Q2hnSk45czc3SzFpRW5YR2NQWktsTjd4el9Ob3dhSXpZOFhwRHNDMnREaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6218108b2a5296ed33167a61e31b7fea3ca569fe2c466ab7df1e92fa3daafa73"
+    },
     {
       "id": "20260801-FR-EF6A94CA-065",
       "title": "한-아르헨, 핵심광물 협력 MOU 체결…중남미 공급망 협력 본격화 - 대한민국 정책브리핑",
@@ -444,61 +1109,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "553fa58e9a5d2ea555bfd074c3804e35d8da264c9291eb96d3efdbb2b7677d5e"
-    },
-    {
-      "id": "20260801-FR-CE8D3520-062",
-      "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-01T08:19:21+09:00",
-      "publishedAt": "2026-08-01T08:19:21+09:00",
-      "firstCollectedAt": "2026-08-01T16:42:12+09:00",
-      "updatedAt": "2026-08-02T16:56:20+09:00",
-      "summary": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2QnFrcDlMZF9MSGl6R0VzYjd4bTdqcnBmcHRzS3Q2eHdRUkw5ZGZ5X1U1dlhlTDF0Sm5qeHVHa05Fd2FneG5JMGdkQ1VTemJOSmQyNFFMel9vX3NEVXJVeG9VM0dLcWRpWTRkcUFDdjc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "미국 샌프란시스코 및 남미 3개국 순방 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2w5LUNOUkw5LVlRV1RxeXg4MjUxaERZdUpGTEVNdWdWU0R5d3dKSzh6UTRYTUlFUGh4Rm9Sc0gwWjMyVVJ0QkVzUUp1TnY3ZXV4a2J0SGlUSE1IdlBDaVFabjhxTGVDN001NHBKb3QtZ1RBVXo1d3R4S2JVUFBRSUYtZmRPNWc3dUMwVUVn?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-02T16:56:20+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ce8d352000b420694daedb4a9c7a685660b59767b107dac3adcfc4f21e897231"
     },
     {
       "id": "20260801-FR-52CD645C-081",
@@ -1399,59 +2009,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "c3cbee8538f0a14df76cc946cc941f0496e12250f92a285a529108c002639beb"
-    },
-    {
-      "id": "20260731-FR-5B63EBA8-019",
-      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T13:25:12+09:00",
-      "publishedAt": "2026-07-31T13:25:12+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-08-01T20:49:07+09:00",
-      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNpZWhNM0dDaHE1N3hPY3NqMUtsNWZQS3JRQ3JTQlBSLUZFRDQza2lOWFVaRnQ1cUZCVU0ySmt3VDdWU3hRcUc5aWEyaUpVelJWdjVaZ3lTejc1b2N0RHFBclYtZ2pZUllXSkNJUkFXbGhhSGVxN3JndzFOWXhkbmpLMEZUYUJLd2tr?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 카드뉴스 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWThvV1NRRDU4anN1b096SE0wdVJ5Z2xNVG50MFM1NjBRSGdmLV9rZ1k4cmJNQkhwUjZZQUUzU2xkdDR3TThlS0EzQ1FiQVRoYVROcUUydEZoMUlGX3htQkhZUHdDZHlieGl2QlFwMUpJQ3JONTlTNEpVZUljZlJxcHo1ZmVVRERBbUZGRDc5YVJYdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-01T20:49:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
     },
     {
       "id": "20260731-FR-00780E81-034",
@@ -3309,46 +3866,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "8c17b18b63dee1a8ca82e11bf6fcadbf7c8196e11ca3ccb4fa265dafdcc7e591"
-    },
-    {
-      "id": "20260729-FR-AE2EF178-026",
-      "title": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-29T17:27:22+09:00",
-      "publishedAt": "2026-07-29T17:27:22+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-07-31T16:19:10+09:00",
-      "summary": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-브라질 정상회담(2026.7.27.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-07-29",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TejFsaUVEM1BScTcwSTdoM3k0RXBSbXA4TTZ0cWxtd1dWeGJrX21teUxhM3FpWjBlcmYwb05MTWlRVHA3cXRJZjBBV3YxVENnZFN5WVlWN3dodjRyNzM3WXlGRHhaZzdxcUo3RGVB?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ae2ef178a9de431d81d224a275a20a0f02c0d567a026e82ddbd10444a63d227f"
     },
     {
       "id": "20260729-FR-10D6C30F-027",
