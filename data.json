@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-05T01:25:23+09:00",
-    "nextScheduledUpdate": "2026-08-05T01:55:23+09:00",
+    "lastSuccessfulUpdate": "2026-08-05T05:58:42+09:00",
+    "nextScheduledUpdate": "2026-08-05T06:28:42+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-05T01:25:20+09:00",
-      "finishedAt": "2026-08-05T01:25:23+09:00",
+      "startedAt": "2026-08-05T05:58:39+09:00",
+      "finishedAt": "2026-08-05T05:58:42+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 31,
-      "duplicates": 16,
-      "rejected": 168,
-      "rejectedByDate": 166,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 27,
+      "duplicates": 25,
+      "rejected": 172,
+      "rejectedByDate": 171,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 15,
-      "updatedIssues": 1,
+      "newIssues": 1,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,152 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260804-DP-22615945-107",
+      "title": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T17:37:39+09:00",
+      "publishedAt": "2026-08-04T17:37:39+09:00",
+      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
+      "updatedAt": "2026-08-05T05:58:40+09:00",
+      "summary": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다. - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tNVBWZ1QtNzZSZFN0RU5zSHViVk9pRkYyRjVUcGdZRDBmVlp4N1RtUmp3WWEtd3o0WDVSNnZtYmphQWtyTUxnUGRKelprdHRtYkFvY2dtMGxuNjhpbDVMQmdaTlJwM3NjTW9TNFhndw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다. - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3ZhVnVsQlhYVzhqQzlTelRPRDVHcHVoTzBnX051V3ZweVFYZGFQR0tyVVZLakxnZXplU3hYMEZNam13VmMyWkxlNS1KQVFJd0JITW9jUGlhbGNXNFRJVy1LWEYwRkNQMXZSSnF0UUdNOWRjcDc1V18yYkJ6Vm0yZjhvdUdLRnJva0xTbEV6MA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-05T05:58:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "22615945d54fa029adaf62744e9fac7389a6a253772ccda28a87dd4e94440367"
+    },
+    {
+      "id": "20260804-DP-7EECB9E5-116",
+      "title": "(설명) 국민일보, \"정년연장 연내 입법… 자진퇴사 청년에 1회 실업급여\" 기사관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T22:23:03+09:00",
+      "publishedAt": "2026-08-04T22:23:03+09:00",
+      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
+      "updatedAt": "2026-08-05T05:58:40+09:00",
+      "summary": "(설명) 국민일보, \"정년연장 연내 입법… 자진퇴사 청년에 1회 실업급여\" 기사관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 국민일보, \"정년연장 연내 입법… 자진퇴사 청년에 1회 실업급여\" 기사관련 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkJnODdmYVB6UXpuSFhiV3FDUS0yZ0RjRGhhek1FU0lCV19Bb19WUDF4azA4cDNFWXlZS1VFdm9LNk9XSFBJazZ6NUlUbll1aEhJZXdPaW5icWY3ZHAwdUlNTHdwbGdlaEpLSXBZRE5LMThwRWpXczB5al9rY3JvZExlVWdrdWZUSEpPMQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 국민일보, \"정년연장 연내 입법… 자진퇴사 청년에 1회 실업급여\" 기사관련 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCU3dNNHF6a1FmUjN3eW1abWFTYXNDNlhSNDZfb1BGQV9XdE1ET0E0SFJNY0xLazNGSTRmc245RXJXZ2ZWLUpmX0RES0dfZ0pLVWJhMjRoS2ZIQ0NYUVdFMVJ5QVVCZ21WUUU1NnVSMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-05T05:58:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7eecb9e5b034e9a1d603f22fb7f85ee7e1f511561e0a50e5b013963217d1ec3c"
+    },
+    {
+      "id": "20260804-DP-4B2D29DF-121",
+      "title": "교통사고 경증환자 8주 초과 치료 땐 전문의료인 검토 거쳐야 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T14:46:27+09:00",
+      "publishedAt": "2026-08-04T14:46:27+09:00",
+      "firstCollectedAt": "2026-08-05T05:58:40+09:00",
+      "updatedAt": "2026-08-05T05:58:40+09:00",
+      "summary": "교통사고 경증환자 8주 초과 치료 땐 전문의료인 검토 거쳐야 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "교통사고 경증환자 8주 초과 치료 땐 전문의료인 검토 거쳐야 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kcy1JS0E1UkFVVVcwV2ZSVi1LME5XMGdHeUNXM0tMdDJHX0hlRi1GcXZ6VDRGSnc1a3hkbWlDNFNHWnZ5d3JyYVo2M29XUFdhWk9ZUmZvdHJKYWoxRzJQX09meG1PUzI0cFpjYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4b2d29df209f718834cf0c8ae288f2aa58989d1a429cc45bd9fbe6895286f528"
+    },
     {
       "id": "20260804-FR-9745C95F-117",
       "title": "3대 메가프로젝트 신속 추진…수출 5강·1조 달러 기반 구축 - 대한민국 정책브리핑",
@@ -317,46 +463,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "247560a708c583cb8befaa157a3d96ecfdcb4411a783b97e3bd84ab9754fcabe"
-    },
-    {
-      "id": "20260804-DP-22615945-107",
-      "title": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T17:37:39+09:00",
-      "publishedAt": "2026-08-04T17:37:39+09:00",
-      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
-      "updatedAt": "2026-08-05T01:25:21+09:00",
-      "summary": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다. - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tNVBWZ1QtNzZSZFN0RU5zSHViVk9pRkYyRjVUcGdZRDBmVlp4N1RtUmp3WWEtd3o0WDVSNnZtYmphQWtyTUxnUGRKelprdHRtYkFvY2dtMGxuNjhpbDVMQmdaTlJwM3NjTW9TNFhndw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "22615945d54fa029adaf62744e9fac7389a6a253772ccda28a87dd4e94440367"
     },
     {
       "id": "20260804-DP-F605F57F-108",
@@ -677,46 +783,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ee2a7595a273de39ed4af26148af4065970556fbf952dd5012bc063cc43b781d"
-    },
-    {
-      "id": "20260804-DP-7EECB9E5-116",
-      "title": "(설명) 국민일보, \"정년연장 연내 입법… 자진퇴사 청년에 1회 실업급여\" 기사관련 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T22:23:03+09:00",
-      "publishedAt": "2026-08-04T22:23:03+09:00",
-      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
-      "updatedAt": "2026-08-05T01:25:21+09:00",
-      "summary": "(설명) 국민일보, \"정년연장 연내 입법… 자진퇴사 청년에 1회 실업급여\" 기사관련 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(설명) 국민일보, \"정년연장 연내 입법… 자진퇴사 청년에 1회 실업급여\" 기사관련 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVkJnODdmYVB6UXpuSFhiV3FDUS0yZ0RjRGhhek1FU0lCV19Bb19WUDF4azA4cDNFWXlZS1VFdm9LNk9XSFBJazZ6NUlUbll1aEhJZXdPaW5icWY3ZHAwdUlNTHdwbGdlaEpLSXBZRE5LMThwRWpXczB5al9rY3JvZExlVWdrdWZUSEpPMQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "7eecb9e5b034e9a1d603f22fb7f85ee7e1f511561e0a50e5b013963217d1ec3c"
     },
     {
       "id": "20260803-FR-264788FD-095",
