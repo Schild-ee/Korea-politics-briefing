@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-04T07:38:22+09:00",
-    "nextScheduledUpdate": "2026-08-04T08:08:22+09:00",
+    "lastSuccessfulUpdate": "2026-08-04T17:10:47+09:00",
+    "nextScheduledUpdate": "2026-08-04T17:40:47+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-04T07:38:20+09:00",
-      "finishedAt": "2026-08-04T07:38:22+09:00",
+      "startedAt": "2026-08-04T17:10:45+09:00",
+      "finishedAt": "2026-08-04T17:10:47+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 21,
-      "duplicates": 21,
-      "rejected": 178,
-      "rejectedByDate": 173,
-      "rejectedByRelevance": 5,
+      "acceptedCandidates": 24,
+      "duplicates": 16,
+      "rejected": 174,
+      "rejectedByDate": 172,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 9,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,419 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260803-FR-264788FD-095",
+      "title": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T15:47:47+09:00",
+      "publishedAt": "2026-08-03T15:47:47+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-04T17:10:46+09:00",
+      "summary": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRndGNWhlY1lTVGFHTzBzaVMwMEcyMVBYTjFZcGpicDdQd1MyVDhlUm1qUVVuSW9vZ2EwSmdJcWNtUlFaY2N5ejl6VWg5TV9mV2JVNTB6ZzMxYXUzM2cySnVXTFFRN3lKS3ZzRg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1lUUDJtdEs3STlUWE1OVUxRX3ZRZjN1TjRKMkptZUJ3RUNZdk1XdnhfRnpWYkJiUmFrZFprYmdHREpxNTA4cVJQZ2VDMGxhWHdRbThCcl9iVE9XaS1yd2s5N3U5RmZTR1JjSzBTeU8wcTE0ZmVjY1UyX1VFSmpsUEhpdlJGY1U?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-04T17:10:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "264788fd9929ffb07294be1bfa8f9357bdbebc7e634250135a92819e76619fc4"
+    },
+    {
+      "id": "20260804-FR-C44E7E52-102",
+      "title": "7월 30일~8월 3일 아르헨티나&독일 재명로그 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T05:22:52+09:00",
+      "publishedAt": "2026-08-04T05:22:52+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:46+09:00",
+      "updatedAt": "2026-08-04T17:10:46+09:00",
+      "summary": "7월 30일~8월 3일 아르헨티나&독일 재명로그 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "7월 30일~8월 3일 아르헨티나&독일 재명로그 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdDM4M2h4dGVUVHU4YjNwS2JHZlFGc0VqcHFybVVxcjRpc3lGUjZkQndvQzE4UGVPUEtSZmUyTmpRbHhUMWtkdjF4cGpqamxITjhBb2taWHQ0ZXltQ2FnZjE0VU5VYTRGQ2NKaGRGSkhmMldSN2lnUDRtRkVVVTB3ZGUxMHhJLUtPa2RTZA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c44e7e52d2f2b91e9975c5c46112e88e4229485ff46f58d2aa68f0758d2125f1"
+    },
+    {
+      "id": "20260802-FR-8FB568CC-103",
+      "title": "2026 통일걷기 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-02T00:00:00+09:00",
+      "publishedAt": "2026-08-02T00:00:00+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:46+09:00",
+      "updatedAt": "2026-08-04T17:10:46+09:00",
+      "summary": "2026 통일걷기 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 통일걷기 - 대한민국 정책브리핑",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVlAxRlY1dEIwaXJIam1YUF92c01JR29QT1BleEpDRDdWODlvSUF2VlFrUUh4VUh5NGExQnUydDV0OS1xUTR6VktVQUZBZ1dtZl81VEsxQnJDSjdHNlIteTJPUWwyZXZXa1pYeENLaTd3NTJhVm80TmdZLUl5VUFkcDRuZ1lWSXR5SUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8fb568cc251ec4709fe764bdaebde6d9649afb4e6649bec377164eba469a99d1"
+    },
+    {
+      "id": "20260802-DP-D96A3467-104",
+      "title": "이재명 대통령 부부, 아르헨티나 국민들에게 인사 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-02T06:19:28+09:00",
+      "publishedAt": "2026-08-02T06:19:28+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:46+09:00",
+      "updatedAt": "2026-08-04T17:10:46+09:00",
+      "summary": "이재명 대통령 부부, 아르헨티나 국민들에게 인사 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령 부부, 아르헨티나 국민들에게 인사 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-02",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OUnRJUWtlWWRtUVpJWFhKb25SWEczZllPSm1yNlNyOVRMSzhlYTh1bkUwUWZ3cFJ3UHVWZndjcnRqODEzLXFBX3ExOHhENWRDVXU0ZnFkb0lSZ09zV1hsQVhOZHphWkZNbUVNaEZQanA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d96a3467c0800d571a648015ed2d281864c7276771054f03fe9d2955134dc4b1"
+    },
+    {
+      "id": "20260803-FR-5BB3BCAD-105",
+      "title": "햇빛소득마을 86곳 첫 선정…태양광 설치비 최대 85% 지원 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T16:18:23+09:00",
+      "publishedAt": "2026-08-03T16:18:23+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:46+09:00",
+      "updatedAt": "2026-08-04T17:10:46+09:00",
+      "summary": "햇빛소득마을 86곳 첫 선정…태양광 설치비 최대 85% 지원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "햇빛소득마을 86곳 첫 선정…태양광 설치비 최대 85% 지원 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMk5CNzFkbkRWZFFaUV9jUmRyM042WXhERm82a3RmeTYwWjNhSkV6emFhWlpPdE5NY0haOW9Gd3BtWjBNNEVudW16YjdJUTdaeEY2VzQ2MzNXME5OYnBqdTJyTTNsMHdwejV5YmhFaUtqUGo0enYzemZoVkN6SElxYzRROThOeFUtZV8tdg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5bb3bcad91ae133e06f0407fba09a83e78ef03c4c5deb433c9c2ce153dfc6917"
+    },
+    {
+      "id": "20260804-DP-4E5A01A6-097",
+      "title": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T13:36:24+09:00",
+      "publishedAt": "2026-08-04T13:36:24+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
+      "updatedAt": "2026-08-04T17:10:45+09:00",
+      "summary": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXBKZmJBUXdGTE1pbWFFUTRkSnNudVNTeVlMaWlyRHdCeHZvWnZ0eHZWT3pjbkIwbG5HZG0xcTZNSF9KOEdJOVdrNWJWcXB6Qkg1NWdQbDdkbmVtQV84Z3ZxZ2hrTU1qS2FzSmxsTlRwM0lvRnRPQW5mbjRWWTZHbGpOTDl1a0F4Znc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4e5a01a69679d1f6aff1cc61a579026bfde6fac13d3b4665e9634caa831425a3"
+    },
+    {
+      "id": "20260804-DP-C64A39B4-098",
+      "title": "국민을 위한 방미통위, 얼마나 좋아~~!!!!!!!!!!! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:38:12+09:00",
+      "publishedAt": "2026-08-04T16:38:12+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
+      "updatedAt": "2026-08-04T17:10:45+09:00",
+      "summary": "국민을 위한 방미통위, 얼마나 좋아~~!!!!!!!!!!! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민을 위한 방미통위, 얼마나 좋아~~!!!!!!!!!!! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQam0xVkVKdlE1Z2JRbGNXMmhZemVuRXVjVHYwRlozeXZEak9SY0R2UlIwWXBQVGJPZmIxRXhEZlZMWTRPXzdjY2xXOEY5eTduaXY5UlZ3NTNMMWhzaWtWNFpVak8zcGRNWVJKN1AzYVpMbEJGODlnOTJPQndjcTRENVBwU1RqLThfekE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c64a39b48009202dafb37dfe2a4bb0a09b8e8f868e920b4bf8a4a1900203c1bf"
+    },
+    {
+      "id": "20260804-DP-68B92DB7-099",
+      "title": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:38:12+09:00",
+      "publishedAt": "2026-08-04T16:38:12+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
+      "updatedAt": "2026-08-04T17:10:45+09:00",
+      "summary": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45dU0xVi04emR1WTdBM1hOTlFHMkMxTzI2TGVIOWNSZ3JMM0hCcnBIcUxZcDdUcm5jX0hXQ1B0U0NYczdjWGVqM2EyOV81OTZlMnZmM29KdnhYUWhQZ3A3ZmdZS3lhVkg4Y2pHYzI0SQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "68b92db7ce77680ed81c962a757a878a95754be9884d327e2a9b97a575a96504"
+    },
+    {
+      "id": "20260804-DP-82E42244-100",
+      "title": "\"무려 7번\" 옷까지 버린 수거책 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:40:31+09:00",
+      "publishedAt": "2026-08-04T16:40:31+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
+      "updatedAt": "2026-08-04T17:10:45+09:00",
+      "summary": "\"무려 7번\" 옷까지 버린 수거책 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"무려 7번\" 옷까지 버린 수거책 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0tBRXpsSi14NkpjMkZVRU5GdWh0RGhzNkRSajZiMHRHQUFtMl9mM09YNGlNNW5FUFYxcTZXbXZWMU1rdHpNTHR6VTN4TTY1T3FFV0tma0VqRUVPdE1yOE8yb1FZVFNIb1lidkNmQ29SQ0dBS0NVZ1RCc3AweUlQWEhIbUNmRlFKNkE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "82e4224459df7566b1e7bd55cb36c23f315d7c8ce99a38c50f9036b39cec32c5"
+    },
+    {
+      "id": "20260804-DP-BA848421-101",
+      "title": "(설명) 서울신문, \"40도 폭염을 팝니다, 월세 25만원에\" 기사 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:16:16+09:00",
+      "publishedAt": "2026-08-04T16:16:16+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
+      "updatedAt": "2026-08-04T17:10:45+09:00",
+      "summary": "(설명) 서울신문, \"40도 폭염을 팝니다, 월세 25만원에\" 기사 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 서울신문, \"40도 폭염을 팝니다, 월세 25만원에\" 기사 관련 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaWxoNGpDS2R3d25WYkx6MFhRRm5lVGJUZFFad0ZUc1ZvWFdHX3dncUhnb3JTd0RzLUgzWExDako2TmxKTVdpcjRNZ3NfenB3U2hETkM0RkNaNWFtazYzZkgyaVU5M0d6TW5VZGU3MzZKZnZvTFFfOW5JS0RHMWwxTjVDUEJ4MWpxMkZpUXRIMjZxUTZkR2lRNktXenVOOWxfQ05ueGlqd01zbFlLaFZiUmtUbzJxblltY0YtZ3JfdFd6Z2c1X3lCdHZlSzFQcFlqRDZpaEFiU2Nud0JTN1RCamxZRmtKZUhhSm1heU1xbmU1MWRybzdoVDluN09qNV9OMlhRR0tPVlp4bllF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ba8484212c38acf32a5ff7c98be5b925863ca5a140e5fafb46961cb480f9122b"
+    },
     {
       "id": "20260803-DP-772E57D5-090",
       "title": "폭염중대경보 발령 시, 모든 야외활동을 즉시 중단하세요 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -661,46 +1074,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "211c9098176f4561d266f198730f3ded242d1cd5ae31a4627d80654ae768f628"
-    },
-    {
-      "id": "20260803-FR-264788FD-095",
-      "title": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-03T15:47:47+09:00",
-      "publishedAt": "2026-08-03T15:47:47+09:00",
-      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
-      "updatedAt": "2026-08-03T21:41:20+09:00",
-      "summary": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "군 방첩정보 전문조직 '국방방첩본부' 창설…안보위협 선제 대응 - 대한민국 정책브리핑",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zRndGNWhlY1lTVGFHTzBzaVMwMEcyMVBYTjFZcGpicDdQd1MyVDhlUm1qUVVuSW9vZ2EwSmdJcWNtUlFaY2N5ejl6VWg5TV9mV2JVNTB6ZzMxYXUzM2cySnVXTFFRN3lKS3ZzRg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "264788fd9929ffb07294be1bfa8f9357bdbebc7e634250135a92819e76619fc4"
     },
     {
       "id": "20260801-FR-6218108B-096",
