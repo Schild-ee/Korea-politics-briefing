@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-05T22:07:09+09:00",
-    "nextScheduledUpdate": "2026-08-05T22:37:09+09:00",
+    "lastSuccessfulUpdate": "2026-08-06T03:13:03+09:00",
+    "nextScheduledUpdate": "2026-08-06T03:43:03+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-05T22:07:07+09:00",
-      "finishedAt": "2026-08-05T22:07:09+09:00",
+      "startedAt": "2026-08-06T03:13:01+09:00",
+      "finishedAt": "2026-08-06T03:13:03+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 44,
-      "duplicates": 25,
-      "rejected": 153,
-      "rejectedByDate": 151,
+      "duplicates": 33,
+      "rejected": 154,
+      "rejectedByDate": 152,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 19,
-      "updatedIssues": 3,
+      "newIssues": 9,
+      "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,578 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260805-FR-52D69130-133",
+      "title": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T18:43:04+09:00",
+      "publishedAt": "2026-08-05T18:43:04+09:00",
+      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRloxRDNMdzhiQnI5cU5ha3NZS01KekVpajRNZkZIVmtZblR3anZ6c0x2MTRXWmlEeGhhZHRKM2FlNzVmZmkzN0MyeEZ2dG9wS3VMQVhRNm96MS0xMldNM0hma1NWRmxKeU1jX1BYeGx3ZTZ3TmU0SUlvRUdHdjI5SnpaT0hJYVpfbGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNblZhSXphTkFRSlBRZUtYeTRfLXBQamJEVF96cFhfLXlLSVQ4R3Y1SjBQa2FINU1SUEdrNWc2UWZwTWhVY3ZLNXJqV2c4U1hRaE5ja0t3Z0pvZzJNV1JFcFJ6R2NLbmJnRi0zSVh4SFJtUURsWVR6Vl9MMXh4LUJaV0RFUUx1X2RZOHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-06T03:13:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "52d691300429c71cba35d031f4ffb5d9f3923aac53cf581ac2ee37ed5c1e603a"
+    },
+    {
+      "id": "20260805-FR-45D9FBE2-136",
+      "title": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T20:04:14+09:00",
+      "publishedAt": "2026-08-05T20:04:14+09:00",
+      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmMwSkZ2UUFsU3BzUi13S0Z5TUo4SGlDNHhhS0IyZVZNZ0NjeVhYak5hNUEtQVMwbFM1SGFtQ2xOVFcyNXhQY1ZHVVNqU1dPTEZJYUhjMzJFYXZ0dExzVVBYU2JlWVAybXAyWnRNRW5ESHFFMjdxcFh3SnBLQXhJbG03VHdMSU9LSnc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE13Skx6Mm5xYzVhNUI4MHB6djAtbDZxd2FXY2djazMzZ1pORHUzWk9KSXZKUE1xUWpsNXp2d0M2dkdFS25QZWlhWnM2NlVrUTg3Mi00allmNFExSTk2dE16WWM4dGtPNjR6czRpM2YxMUpLd1liNndidk1jMk1kV2cwZlBFaFBHQ0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-06T03:13:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "45d9fbe2916a3842874f4d8551d6b057d393a5a9acfe3493307e5efb3274751c"
+    },
+    {
+      "id": "20260805-FR-893FFEFE-138",
+      "title": "초(超)성장 신(新)공간, 대체불가 대한민국 산업강국 도약 전략 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T20:20:16+09:00",
+      "publishedAt": "2026-08-05T20:20:16+09:00",
+      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "초(超)성장 신(新)공간, 대체불가 대한민국 산업강국 도약 전략 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "초(超)성장 신(新)공간, 대체불가 대한민국 산업강국 도약 전략 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVHFyTnA1b2gteUo2Y0xFOWl4aHFrbHdqNWM1Nl9VVXFxa3RndGl4bnV1N0ZLTUo3TERES21VUFBBWlBKUWg4bUZZQlg2Z0h4LUs1OHNhd194QTl6c2RnZWdDejc5UV9qR2pHRy1CZHkydTdkbUF3cHBjcFFpU3gtc1ZBRnRfb1Q0YUE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "초(超)성장 신(新)공간, 대체불가 대한민국 산업강국 도약 전략 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGJ5OHcteDJKT3VTdkdzVE1mek14TjFpWS1nOFY1QmJpeHNab2RSZEFvaUxSN3d5NHVpaHZkN18zbGQwZzFNNjkxMkNPUmItbFdrNE9aYzFfT2dCWjg0TW9YczJvVFgwd2ZOZk1qX3V5QmFXWVpFVm1HNWlEcWFLcUNqQzlmUDQ4WWVJZ0FjTG5ycklGZzJmWGduWGtjX2JLcHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-06T03:13:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "893ffefee096a3f4b21bd9e587b23d311291bf913e1d9982204ca68fe627bb1d"
+    },
+    {
+      "id": "20260805-FR-0801CF15-152",
+      "title": "초성장 + 신공간, 대체불가 산업강국 실현! - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T09:45:26+09:00",
+      "publishedAt": "2026-08-05T09:45:26+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:02+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "초성장 + 신공간, 대체불가 산업강국 실현!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "초성장 + 신공간, 대체불가 산업강국 실현! - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQlZ6dmZQampodUNPckpNdG5qaDFnMEtDaXZGMV8yem90VEFSZ0VZVWlLa1kxTEVfWW5GV3k1X09lRGNUMFlYS3NIdXJFV3U4c2hxd2l3OElzOTV4YjBmcVBEam1fLUh6N0d2VUMzY3p4WWd5MGM3aGNEMkFFSi1PUHo2bVc5Vko4ZllwaktpQnhvaFdaWjdiLVdhZHlrTzdJR2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0801cf1532228d51d9c6afd102103fbffcb2f2dbe564a3c26e608a08038848f6"
+    },
+    {
+      "id": "20260805-FR-A977A7E4-153",
+      "title": "'서울대 10개 만들기' 본격화…거점 국립대 3곳 신속 선정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T17:10:31+09:00",
+      "publishedAt": "2026-08-05T17:10:31+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:02+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "'서울대 10개 만들기' 본격화…거점 국립대 3곳 신속 선정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'서울대 10개 만들기' 본격화…거점 국립대 3곳 신속 선정 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01cUN3YlBSaGduQ3BqT3ZCSVM0Mi1rNm5tZmtReTlQWmQtWlBrU1Fkeklpc2d6Q2dhTkQwT3pNcDVyemc3SlJsSEdwTmQ1WDhaQUVHQ3dEcWF2X1hvakJJSHBzVk1SWnFlUkxDYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a977a7e4d3a7321296e36694ec355cb8c53b458032a264c08637f1d13825475e"
+    },
+    {
+      "id": "20260805-FR-1C94F358-154",
+      "title": "대체불가 대한민국 세계가 찾는 외교강국 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T17:54:46+09:00",
+      "publishedAt": "2026-08-05T17:54:46+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:02+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "대체불가 대한민국 세계가 찾는 외교강국 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대체불가 대한민국 세계가 찾는 외교강국 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzBtNGpGcE5WODhySnk2cFRWN0ZmeUJRaUhmM2NYUEJLM2JOWUloMkM2aXhmRndqU0drbHdoTTQ0WWtyeTBNUFVCZnpCRUNFTzcxb2tyMXFMV1ZrMXJXRUgtaG1BYm02VnZRTHZaZkF5WEpKMHNFNHRUM3R2RnAyMkM4My1IQ2FHQ3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1c94f3582d61bb308c70c40d8f8c0cfbba557c1b2ae5cb8c3a23d39fec1f3765"
+    },
+    {
+      "id": "20260805-FR-8E9A49E8-155",
+      "title": "중앙부처 사무관이 폭염에 남산으로 간 까닭 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T17:01:25+09:00",
+      "publishedAt": "2026-08-05T17:01:25+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:02+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "중앙부처 사무관이 폭염에 남산으로 간 까닭 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중앙부처 사무관이 폭염에 남산으로 간 까닭 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXlfemIwMzhWWjNFRm44Ym8xN2gwZ0cwQVFlVU9mRzh0dmdMY0NRRjF5SUhDOWVKUGE2RkhNOGQ5V1FRV1JPTVQxRUl3QkhYcG14NF8xd0ZJUHliVHUzb0hfcnk3WTl3Y0pUaHVqQUtzNGVnVk1GUVd4WHY2OTI2OTlvWG1CeGNtY2ZCS2FyeVpMUkZIMFVnQi1UbVRUeXgxdFE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8e9a49e8bb95ed069df5272836dee4ab772e94a4626432ffcada07e3df72d406"
+    },
+    {
+      "id": "20260805-FR-4FD276F2-156",
+      "title": "한반도 평화공존 만들기는 계속됩니다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T16:17:23+09:00",
+      "publishedAt": "2026-08-05T16:17:23+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:02+09:00",
+      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "summary": "한반도 평화공존 만들기는 계속됩니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한반도 평화공존 만들기는 계속됩니다 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXYycFRWS0FMSmltRUthMjluQU1FVU82TGViVmduZ2twa3RQYkRGTURzei1Ea2J5bW9tcndtY2VLTU1iektFa0RBQlVFWC1POWlhRUpNd2trMXFIbks3TUlLNXJnYk5NNHNJTFI4cS1JWkVmaTZhcGJ1S1RERGdDbE5xUWNYbXJKdUd5Ukt1OXdoT1BEcURQTEVpYXVRbnIyZEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4fd276f2e7a0c231c0eb5c1e4b189c73fbe7baab7e3cadfd1d5b9f455a54f8b0"
+    },
+    {
+      "id": "20260804-DP-AD75B4B1-111",
+      "title": "중수청, 본청·6개 지방청 체제로 10월 2일 출범 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T22:41:15+09:00",
+      "publishedAt": "2026-08-04T22:41:15+09:00",
+      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
+      "updatedAt": "2026-08-06T03:13:01+09:00",
+      "summary": "중수청, 본청·6개 지방청 체제로 10월 2일 출범 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중수청, 본청·6개 지방청 체제로 10월 2일 출범 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zOVJyZlFpY0x5MG5KaElETUQ3Zk0tcHYycllXQWhvV3RhelZ0NmRMdXdNMUVCTUxHM3Zfd1NtclIxc1FrU2JjQ2MzY0szQUQxS3JDQVJSekJBZ3lnaDF2RWRnZFlOdFhGU0RvdQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중수청, 본청·6개 지방청 체제로 10월 2일 출범 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlItR3NDMTFUWDlDOUJPaWJlNXQ5YWJZZ2JrYkNOWEtnRnF1MnM5QzE4RlBJbFVJWi1WTWNadXRvd3BEU2FGTWpKZTFYSTV2cUVXSFVXWXpVbEUyUmZ6ZnN1M3h2ZE9xRVRiVUl0a2ZxRGRBMzNmZ25oWGdyemxIMVAtb25UaWpGTk5yZy1nNzNwUlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-06T03:13:01+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ad75b4b1225d2528f9016ea5e07d4ccf24976f40cdf36c63e190ba24e4eeb96b"
+    },
+    {
+      "id": "20260805-DP-0ACBC813-148",
+      "title": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T22:37:24+09:00",
+      "publishedAt": "2026-08-05T22:37:24+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:01+09:00",
+      "updatedAt": "2026-08-06T03:13:01+09:00",
+      "summary": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82V2lsRXh6OE1xSDFRMWJuU19RX1lpdEpqSE1JZjBkSnJ4QUxSejNvMHdEeEJmVG56dndGM3lxZjUxNS1EVmptX2lSeUE1WkpldFdMWDBOU0RCR2ducUdEakpYdFU5bUN0ZWFWN08zdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0acbc8138939c05a14f3033a7584fbcee65dc6d811e6cb69c3716adba2cf1142"
+    },
+    {
+      "id": "20260805-DP-EEF49168-149",
+      "title": "[정책 바로보기] 산업부 \"최고가격제 이후 폐업주유소 증가? 사실 아냐\" - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T16:22:44+09:00",
+      "publishedAt": "2026-08-05T16:22:44+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:01+09:00",
+      "updatedAt": "2026-08-06T03:13:01+09:00",
+      "summary": "[정책 바로보기] 산업부 \"최고가격제 이후 폐업주유소 증가? 사실 아냐\" - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[정책 바로보기] 산업부 \"최고가격제 이후 폐업주유소 증가? 사실 아냐\" - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1dkYzFYNEJUT1lVZHhoVVJkdGt3cGplUnFNYkhVWVN0YkhGeWNCdHdJdTJ5NE94aktBX05kUWRaQVRJMzlydW5sSEJhdHBFZkdsZmhjNjVPSnBOVloxanVsTWJ4Zk9PWEhiU25ZdDV3YU0zTk9PVGZEZUpzRjQ2dm1Od0pTY05ZckE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eef491689a9137baf0e353990ead92f1a45cf2fdd1c6af73ae2897c40f1a3f7d"
+    },
+    {
+      "id": "20260805-DP-CFC364F9-150",
+      "title": "(보도설명) 금번 가업상속공제 제도 개편은 가업의 원활한 승계를 지원하되 과도한 지원은 적정화하려는 것입니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T22:37:24+09:00",
+      "publishedAt": "2026-08-05T22:37:24+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:01+09:00",
+      "updatedAt": "2026-08-06T03:13:01+09:00",
+      "summary": "(보도설명) 금번 가업상속공제 제도 개편은 가업의 원활한 승계를 지원하되 과도한 지원은 적정화하려는 것입니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 금번 가업상속공제 제도 개편은 가업의 원활한 승계를 지원하되 과도한 지원은 적정화하려는 것입니다. - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaVpMRE1lSjdDd18ydy1xd3AtQUFBTXZPU3Nsc1Jwcm84bE13b0ZkM2pSb2U2MjA4aExBV01rLW9HSnFhbEFOWnBVNzRlbW5FRUJmRXRUZkRGenlMUW9hM0xmX1FtMXBidWZzSno5WV90OEs2OFJONzlJRTJXbkRNeVJDaE1IczRYcVRRXw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cfc364f9f792edc33c22386e6f0611977593eddab2b9414be676626af8e903b1"
+    },
+    {
+      "id": "20260805-DP-B755DDB4-151",
+      "title": "[보도설명자료][8.5.수 서울신문] 태어나면 3560만원... '아동기본소득' 추진 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T23:23:05+09:00",
+      "publishedAt": "2026-08-05T23:23:05+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:01+09:00",
+      "updatedAt": "2026-08-06T03:13:01+09:00",
+      "summary": "[보도설명자료][8.5.수 서울신문] 태어나면 3560만원... '아동기본소득' 추진 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료][8.5.수 서울신문] 태어나면 3560만원... '아동기본소득' 추진 관련 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS09HNExnZURXWTVBTGlERjR2M2NEOTJ4MnpQS2lTN3JvMXFRNGpRcGJFZ3k0THdROG9OZC1wMVUyeGhPdFlocFZoelZza3hSMXVVemEtaUhfb2NUS2M1bzZPajVMeTBwMnZDUm1QeFBaNkhhMTVsd2dqVGhwZUFBV2Rkd2RWQlR2R1pYSQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b755ddb4e70f805a136699bd0f469844ebc03884bc8781777f2a7f1ec9548808"
+    },
     {
       "id": "20260804-FR-9745C95F-117",
       "title": "3대 메가프로젝트 신속 추진…수출 5강·1조 달러 기반 구축 - 대한민국 정책브리핑",
@@ -116,46 +688,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9745c95ff72eaf98cfa82c399b182bbbdf6920cfcabb7067bd2e05a5ec05c9d1"
-    },
-    {
-      "id": "20260805-FR-52D69130-133",
-      "title": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-05T18:43:04+09:00",
-      "publishedAt": "2026-08-05T18:43:04+09:00",
-      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
-      "updatedAt": "2026-08-05T22:07:08+09:00",
-      "summary": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 - 대한민국 정책브리핑",
-          "date": "2026-08-05",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRloxRDNMdzhiQnI5cU5ha3NZS01KekVpajRNZkZIVmtZblR3anZ6c0x2MTRXWmlEeGhhZHRKM2FlNzVmZmkzN0MyeEZ2dG9wS3VMQVhRNm96MS0xMldNM0hma1NWRmxKeU1jX1BYeGx3ZTZ3TmU0SUlvRUdHdjI5SnpaT0hJYVpfbGc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "52d691300429c71cba35d031f4ffb5d9f3923aac53cf581ac2ee37ed5c1e603a"
     },
     {
       "id": "20260805-FR-6FD52217-134",
@@ -238,46 +770,6 @@
       "contentHash": "70af5922c9836517ba8f29b5ef5132149428ff66f4862236b2c39066b7dbe750"
     },
     {
-      "id": "20260805-FR-45D9FBE2-136",
-      "title": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-05T20:04:14+09:00",
-      "publishedAt": "2026-08-05T20:04:14+09:00",
-      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
-      "updatedAt": "2026-08-05T22:07:08+09:00",
-      "summary": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 - 대한민국 정책브리핑",
-          "date": "2026-08-05",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMmMwSkZ2UUFsU3BzUi13S0Z5TUo4SGlDNHhhS0IyZVZNZ0NjeVhYak5hNUEtQVMwbFM1SGFtQ2xOVFcyNXhQY1ZHVVNqU1dPTEZJYUhjMzJFYXZ0dExzVVBYU2JlWVAybXAyWnRNRW5ESHFFMjdxcFh3SnBLQXhJbG03VHdMSU9LSnc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "45d9fbe2916a3842874f4d8551d6b057d393a5a9acfe3493307e5efb3274751c"
-    },
-    {
       "id": "20260805-FR-967BB853-137",
       "title": "초성장 + 신공간, 대체불가 산업강국 실현! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -316,46 +808,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "967bb853fa009cc237e285603abf2c93d0042361c8f21754e558974febd22489"
-    },
-    {
-      "id": "20260805-FR-893FFEFE-138",
-      "title": "초(超)성장 신(新)공간, 대체불가 대한민국 산업강국 도약 전략 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-05T20:20:16+09:00",
-      "publishedAt": "2026-08-05T20:20:16+09:00",
-      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
-      "updatedAt": "2026-08-05T22:07:08+09:00",
-      "summary": "초(超)성장 신(新)공간, 대체불가 대한민국 산업강국 도약 전략 - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "초(超)성장 신(新)공간, 대체불가 대한민국 산업강국 도약 전략 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-05",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVHFyTnA1b2gteUo2Y0xFOWl4aHFrbHdqNWM1Nl9VVXFxa3RndGl4bnV1N0ZLTUo3TERES21VUFBBWlBKUWg4bUZZQlg2Z0h4LUs1OHNhd194QTl6c2RnZWdDejc5UV9qR2pHRy1CZHkydTdkbUF3cHBjcFFpU3gtc1ZBRnRfb1Q0YUE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "893ffefee096a3f4b21bd9e587b23d311291bf913e1d9982204ca68fe627bb1d"
     },
     {
       "id": "20260805-FR-0CBC2EA9-139",
@@ -1823,46 +2275,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "f4b6e86cff34501714d3161a01ebb516499ab32104368ddef58321fd1a62c39e"
-    },
-    {
-      "id": "20260804-DP-AD75B4B1-111",
-      "title": "중수청, 본청·6개 지방청 체제로 10월 2일 출범 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T22:41:15+09:00",
-      "publishedAt": "2026-08-04T22:41:15+09:00",
-      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
-      "updatedAt": "2026-08-05T01:25:21+09:00",
-      "summary": "중수청, 본청·6개 지방청 체제로 10월 2일 출범 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "중수청, 본청·6개 지방청 체제로 10월 2일 출범 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zOVJyZlFpY0x5MG5KaElETUQ3Zk0tcHYycllXQWhvV3RhelZ0NmRMdXdNMUVCTUxHM3Zfd1NtclIxc1FrU2JjQ2MzY0szQUQxS3JDQVJSekJBZ3lnaDF2RWRnZFlOdFhGU0RvdQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ad75b4b1225d2528f9016ea5e07d4ccf24976f40cdf36c63e190ba24e4eeb96b"
     },
     {
       "id": "20260802-DP-3F8B81CD-112",
