@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-06T03:13:03+09:00",
-    "nextScheduledUpdate": "2026-08-06T03:43:03+09:00",
+    "lastSuccessfulUpdate": "2026-08-06T07:34:45+09:00",
+    "nextScheduledUpdate": "2026-08-06T08:04:45+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-06T03:13:01+09:00",
-      "finishedAt": "2026-08-06T03:13:03+09:00",
+      "startedAt": "2026-08-06T07:34:42+09:00",
+      "finishedAt": "2026-08-06T07:34:45+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 44,
-      "duplicates": 33,
-      "rejected": 154,
-      "rejectedByDate": 152,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 42,
+      "duplicates": 38,
+      "rejected": 153,
+      "rejectedByDate": 150,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 9,
-      "updatedIssues": 4,
+      "newIssues": 4,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-08-05T18:43:04+09:00",
       "publishedAt": "2026-08-05T18:43:04+09:00",
       "firstCollectedAt": "2026-08-05T22:07:08+09:00",
-      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
       "summary": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -102,6 +102,13 @@
           "date": "2026-08-05",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNblZhSXphTkFRSlBRZUtYeTRfLXBQamJEVF96cFhfLXlLSVQ4R3Y1SjBQa2FINU1SUEdrNWc2UWZwTWhVY3ZLNXJqV2c4U1hRaE5ja0t3Z0pvZzJNV1JFcFJ6R2NLbmJnRi0zSVh4SFJtUURsWVR6Vl9MMXh4LUJaV0RFUUx1X2RZOHc?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정상외교로 국익 넓히고 재외국민 더 촘촘히 지킨다 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUnY3QnlEbVI4eVBTWWUwbGlrNVVzc2twNWZ6RFpNdU41eFR0S0hXcy1NZDR5bkdQU3ZnaVpBWVY5OFZUaWdKWlVpdURtMms4Y3g0dHlaOEdKU0JYOHpfWUd2Rjd1U3FwMDRtSHRObHNteDdSNzA4aEpTaERqY3BlcE1kN2NYdFR6NGc?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -109,6 +116,11 @@
           "updatedAt": "2026-08-06T03:13:02+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-06T07:34:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
         }
       ],
       "corrected": false,
@@ -134,7 +146,7 @@
       "occurredAt": "2026-08-05T20:04:14+09:00",
       "publishedAt": "2026-08-05T20:04:14+09:00",
       "firstCollectedAt": "2026-08-05T22:07:08+09:00",
-      "updatedAt": "2026-08-06T03:13:02+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
       "summary": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -155,11 +167,76 @@
           "date": "2026-08-05",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE13Skx6Mm5xYzVhNUI4MHB6djAtbDZxd2FXY2djazMzZ1pORHUzWk9KSXZKUE1xUWpsNXp2d0M2dkdFS25QZWlhWnM2NlVrUTg3Mi00allmNFExSTk2dE16WWM4dGtPNjR6czRpM2YxMUpLd1liNndidk1jMk1kV2cwZlBFaFBHQ0E?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'한반도 평화공존 발전구상' 마련…차이 인정·갈등 평화적 해결 - 대한민국 정책브리핑",
+          "date": "2026-08-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pWERONnUzalY2N0dpSURRTmtyZGV2d3BlbGxWUWlQRWY3SW9lbGpLUXQwbG9qOXJBXzRBeUlHNTRJQnlhYXd3ZF9FRW9xWjZ5dmV0LUdCOV9SOElGOGN4OWdpRmZ6c19sd3RYTA?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
         {
           "updatedAt": "2026-08-06T03:13:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-06T07:34:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "45d9fbe2916a3842874f4d8551d6b057d393a5a9acfe3493307e5efb3274751c"
+    },
+    {
+      "id": "20260805-DP-0ACBC813-148",
+      "title": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T22:37:24+09:00",
+      "publishedAt": "2026-08-05T22:37:24+09:00",
+      "firstCollectedAt": "2026-08-06T03:13:01+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
+      "summary": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82V2lsRXh6OE1xSDFRMWJuU19RX1lpdEpqSE1JZjBkSnJ4QUxSejNvMHdEeEJmVG56dndGM3lxZjUxNS1EVmptX2lSeUE1WkpldFdMWDBOU0RCR2ducUdEakpYdFU5bUN0ZWFWN08zdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcFBUNzdQVmVxazdXNGVER0IyWFdSdXlXc3FuY1MxVUJkRnlOUWtuSDFPdHlGMTFZX1ZPNHhFa1hPa3ctMUVfS0FMekc2UnZwcy1ERUZWQVhyT1V2aHVqSFFNTzFMNWo4LWxuNnRMMXZkUExLeFY2bW83cllvUGJ2WFJqdkcwd2J4ZVVfTw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-06T07:34:43+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
         }
@@ -168,7 +245,273 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "45d9fbe2916a3842874f4d8551d6b057d393a5a9acfe3493307e5efb3274751c"
+      "contentHash": "0acbc8138939c05a14f3033a7584fbcee65dc6d811e6cb69c3716adba2cf1142"
+    },
+    {
+      "id": "20260805-FR-6FD52217-134",
+      "title": "\"가장 중요한 안보 문제 잊어버리는 경우가 많아\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T17:57:15+09:00",
+      "publishedAt": "2026-08-05T17:57:15+09:00",
+      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
+      "summary": "\"가장 중요한 안보 문제 잊어버리는 경우가 많아\" - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"가장 중요한 안보 문제 잊어버리는 경우가 많아\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0lkQjRndzhiLWUyeTJwWko4Qmszaks2ejBwbFg1OUJ4U08wcmRiN0lXdGVxdnVPQWl3R045eVByYUJlQzA0UUpfTzZ5Q2NfdzdacW02UlRtZW5SdWsxYXc5S09zSURTRl9kTHFoVmhCa0hvSU8tay1nVWpCdW80Qk51SDRrUDdGNURZ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"가장 중요한 안보 문제 잊어버리는 경우가 많아\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWUhUMUVQNTVmeWZGbzNPSnJDODNRSlRWZlpzdmxBWWFRUkc1cWxpVXR6eDVEU2ZzZ2NSUTdDS3B5RzNpNmR5Y0xUa2xyQ2pGeXpqMVhIc2pFRG1KNGlIZUJucUZySVRpYVRLLXdqcDJ5N0Ywam1UNVRiU3NyWXhuRFVYV2hyTVBWdVh3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-06T07:34:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6fd5221700ffd3aa8d2a2821e0db5d1ef35ec10ce6d74bdbab13b77606429539"
+    },
+    {
+      "id": "20260805-DP-9EAA5BDD-130",
+      "title": "행정안전부 업무보고 사전 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T17:53:04+09:00",
+      "publishedAt": "2026-08-05T17:53:04+09:00",
+      "firstCollectedAt": "2026-08-05T22:07:07+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
+      "summary": "행정안전부 업무보고 사전 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "행정안전부 업무보고 사전 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqVjVDLUhCeW9lWnowRk9qTVg4MnljSXlBRmFfOTIxc1hLQ2ZqV3A2LXJ3dEhwVC1PS1JidlVLcEFWM2tuWnlUWmwtTFRpVUo4WkVEWTh5RW1VR3J6aWtlVWs5cXlMbEx3WWtZY0VHVXZLWkhoWElB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "행정안전부 업무보고 사전 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNU5idnRkcS1mYUFkd2F6cWNlNllJRDk5VVpJZlE2VXFmdG9KOVhlT0NteEtMam5XZkpQNlR3NW5KT2lSb1VHenliU1RiNnZHSWVKYVFzb2RqZzVyMGRQdElkRGZpUldJbkk3dmUtSzlJSGRVcHJPRzhINDd4cDh1a296dmxqRkgyWGpaY1JIdHUxN3VTcVdB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-06T07:34:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9eaa5bdd1a91f6e07d45b731cddad4bec6e7a42b9837eb3194274093de4b6c9d"
+    },
+    {
+      "id": "20260806-DP-3795FF94-157",
+      "title": "범죄피해자 보호 강화·지역 인력난 해소…국민 체감 법무행정 혁신 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-06T02:20:00+09:00",
+      "publishedAt": "2026-08-06T02:20:00+09:00",
+      "firstCollectedAt": "2026-08-06T07:34:43+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
+      "summary": "범죄피해자 보호 강화·지역 인력난 해소…국민 체감 법무행정 혁신 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "범죄피해자 보호 강화·지역 인력난 해소…국민 체감 법무행정 혁신 - 대한민국 정책브리핑",
+          "date": "2026-08-06",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMjlZbWNIS0J1dlByVGlvTzN3aWJpejNidkIydzZyU1hfNjB6UEtXSnBZVUlXaXJmTjM0Q0lMbGxtZFNxUU5BOXNZeHBzcTVlUi00Z2VzWGFQMkpjVzdGanpUcG5fclNYZFdKUFFPY0k1TkUtZHpEOGlfNmJuQVhTaFZiM0tpRlg5QVZZVg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3795ff945b97bf9ee925139c33d203111c28e116b2d5bee07c9800a02ad1c29f"
+    },
+    {
+      "id": "20260806-DP-13A6CB9E-158",
+      "title": "이 대통령 \"대한민국 대도약 위해 한반도 평화와 안정 가장 중요\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-06T02:31:03+09:00",
+      "publishedAt": "2026-08-06T02:31:03+09:00",
+      "firstCollectedAt": "2026-08-06T07:34:43+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
+      "summary": "이 대통령 \"대한민국 대도약 위해 한반도 평화와 안정 가장 중요\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"대한민국 대도약 위해 한반도 평화와 안정 가장 중요\" - 대한민국 정책브리핑",
+          "date": "2026-08-06",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRjNTZEZIMnQ0Qmx3eE9zbDNJSXRNYWdTRUVyUXRzdmw2Sy1NSzhpVWRXNno2WWlzOElheWpiSjNLYVlnYzZRWDJRQkRIcE9xLVNtcERCbmJKQWhlZmstNXZKcWNHWTFYaGVaUnJCZklKT3VqOHVSWV9qXzJjQnFnRDMtZHdjRmJqZThkVWFsVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "13a6cb9ebf437ff59e0411ae856d8d14729aff26c5e828e735ff165f60863d0f"
+    },
+    {
+      "id": "20260806-FR-412A40DB-159",
+      "title": "올해 '전작권 회복 원년'…로드맵 완성·회복시기 결정 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-06T03:12:34+09:00",
+      "publishedAt": "2026-08-06T03:12:34+09:00",
+      "firstCollectedAt": "2026-08-06T07:34:43+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
+      "summary": "올해 '전작권 회복 원년'…로드맵 완성·회복시기 결정 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "올해 '전작권 회복 원년'…로드맵 완성·회복시기 결정 추진 - 대한민국 정책브리핑",
+          "date": "2026-08-06",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VS2IyUDBVVWJsUTFIWEpyRUNQek9Kel9vck9xOU8tSndKNVVwOWVtMUtib0Q4cGRIdTBNU2dUYkRYSk5aM3I0MFR4QmRTVTB5ZGF0VzRWSlV3My1SYVpRRHVnUWJCaXpuUFJKLV96MGx1aUZ2RmVhV1hTczQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "412a40db098f29c7c32b25136cde303f8b6dcf6ebaeeb7097c1769e76e8e9361"
+    },
+    {
+      "id": "20260805-FR-6D9343E4-160",
+      "title": "중앙부처 사무관이 폭염에 남산으로 간 까닭 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T17:42:54+09:00",
+      "publishedAt": "2026-08-05T17:42:54+09:00",
+      "firstCollectedAt": "2026-08-06T07:34:43+09:00",
+      "updatedAt": "2026-08-06T07:34:43+09:00",
+      "summary": "중앙부처 사무관이 폭염에 남산으로 간 까닭 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중앙부처 사무관이 폭염에 남산으로 간 까닭 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlNOSHl6Z1NSWXZhMFVUY2J5SEtQRGVsU19UbjNoQkdpZjZqTGJvMUQ4ZUdQOHhWd01uY2x0OTF3YnppbXRDR3U0RkZwV2VERjd0R2wxYzV0SS1qSnhXSldjT0w1aHczaUI5NkZEREpfV3FmSVBvWHFkUjhxT3RWbUhlWnROaHo2eEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6d9343e454cd4481534329dad463b9e2f9e758063774e5c791c236590126bcfb"
     },
     {
       "id": "20260805-FR-893FFEFE-138",
@@ -477,46 +820,6 @@
       "contentHash": "ad75b4b1225d2528f9016ea5e07d4ccf24976f40cdf36c63e190ba24e4eeb96b"
     },
     {
-      "id": "20260805-DP-0ACBC813-148",
-      "title": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-05T22:37:24+09:00",
-      "publishedAt": "2026-08-05T22:37:24+09:00",
-      "firstCollectedAt": "2026-08-06T03:13:01+09:00",
-      "updatedAt": "2026-08-06T03:13:01+09:00",
-      "summary": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(보도설명) 출산·양육 급여 통합 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-05",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82V2lsRXh6OE1xSDFRMWJuU19RX1lpdEpqSE1JZjBkSnJ4QUxSejNvMHdEeEJmVG56dndGM3lxZjUxNS1EVmptX2lSeUE1WkpldFdMWDBOU0RCR2ducUdEakpYdFU5bUN0ZWFWN08zdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0acbc8138939c05a14f3033a7584fbcee65dc6d811e6cb69c3716adba2cf1142"
-    },
-    {
       "id": "20260805-DP-EEF49168-149",
       "title": "[정책 바로보기] 산업부 \"최고가격제 이후 폐업주유소 증가? 사실 아냐\" - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -688,46 +991,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9745c95ff72eaf98cfa82c399b182bbbdf6920cfcabb7067bd2e05a5ec05c9d1"
-    },
-    {
-      "id": "20260805-FR-6FD52217-134",
-      "title": "\"가장 중요한 안보 문제 잊어버리는 경우가 많아\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-05T17:57:15+09:00",
-      "publishedAt": "2026-08-05T17:57:15+09:00",
-      "firstCollectedAt": "2026-08-05T22:07:08+09:00",
-      "updatedAt": "2026-08-05T22:07:08+09:00",
-      "summary": "\"가장 중요한 안보 문제 잊어버리는 경우가 많아\" - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"가장 중요한 안보 문제 잊어버리는 경우가 많아\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-05",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOS0lkQjRndzhiLWUyeTJwWko4Qmszaks2ejBwbFg1OUJ4U08wcmRiN0lXdGVxdnVPQWl3R045eVByYUJlQzA0UUpfTzZ5Q2NfdzdacW02UlRtZW5SdWsxYXc5S09zSURTRl9kTHFoVmhCa0hvSU8tay1nVWpCdW80Qk51SDRrUDdGNURZ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6fd5221700ffd3aa8d2a2821e0db5d1ef35ec10ce6d74bdbab13b77606429539"
     },
     {
       "id": "20260805-FR-70AF5922-135",
@@ -1329,46 +1592,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4ea38083c117b99353fc0205b7572219f5638316127aa4cbaed2300597f53114"
-    },
-    {
-      "id": "20260805-DP-9EAA5BDD-130",
-      "title": "행정안전부 업무보고 사전 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-05T17:53:04+09:00",
-      "publishedAt": "2026-08-05T17:53:04+09:00",
-      "firstCollectedAt": "2026-08-05T22:07:07+09:00",
-      "updatedAt": "2026-08-05T22:07:07+09:00",
-      "summary": "행정안전부 업무보고 사전 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "행정안전부 업무보고 사전 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-05",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqVjVDLUhCeW9lWnowRk9qTVg4MnljSXlBRmFfOTIxc1hLQ2ZqV3A2LXJ3dEhwVC1PS1JidlVLcEFWM2tuWnlUWmwtTFRpVUo4WkVEWTh5RW1VR3J6aWtlVWs5cXlMbEx3WWtZY0VHVXZLWkhoWElB?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9eaa5bdd1a91f6e07d45b731cddad4bec6e7a42b9837eb3194274093de4b6c9d"
     },
     {
       "id": "20260805-DP-71A6A160-131",
