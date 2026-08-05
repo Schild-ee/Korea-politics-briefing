@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-05T05:58:42+09:00",
-    "nextScheduledUpdate": "2026-08-05T06:28:42+09:00",
+    "lastSuccessfulUpdate": "2026-08-05T15:14:56+09:00",
+    "nextScheduledUpdate": "2026-08-05T15:44:56+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-05T05:58:39+09:00",
-      "finishedAt": "2026-08-05T05:58:42+09:00",
+      "startedAt": "2026-08-05T15:14:54+09:00",
+      "finishedAt": "2026-08-05T15:14:56+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 27,
-      "duplicates": 25,
-      "rejected": 172,
-      "rejectedByDate": 171,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 31,
+      "duplicates": 24,
+      "rejected": 166,
+      "rejectedByDate": 164,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 2,
+      "newIssues": 7,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,445 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260804-DP-F605F57F-108",
+      "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T19:48:09+09:00",
+      "publishedAt": "2026-08-04T19:48:09+09:00",
+      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qY2xSMlI2TnM2YnJ2aW9USHg3UlpLVmZFUkdhWE5YMURhQXB6cHBpb1lLOXVkd3BUTDlZSkRCNU1IUE13Z0YwWnNJdG8xd3NJOUdPN1NvX0hMT2NxbUIyQnludTdlYTBlbkVLUg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkp6Rk5JX3RONFZ5dnlKQ05ZaTAtMTBwZVlTOUhpWXl3eTBjNXFvMU9aTkFBcThxRUtPSk5FV2ZjbXQ3U3FKSlE0Z1M3RS1TSHhvdF94cVJ6c29IaGtrSDVFamFqc1FyUkFKYTBULVJ4cko1S1RPay0tR01zOHBUdHVNelhNQXVzZHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-05T15:14:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f605f57f0a29755bfd9a0626802a2a5f379e04e543befae1b8098436298ad7cf"
+    },
+    {
+      "id": "20260804-DP-4E5A01A6-097",
+      "title": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T13:36:24+09:00",
+      "publishedAt": "2026-08-04T13:36:24+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXBKZmJBUXdGTE1pbWFFUTRkSnNudVNTeVlMaWlyRHdCeHZvWnZ0eHZWT3pjbkIwbG5HZG0xcTZNSF9KOEdJOVdrNWJWcXB6Qkg1NWdQbDdkbmVtQV84Z3ZxZ2hrTU1qS2FzSmxsTlRwM0lvRnRPQW5mbjRWWTZHbGpOTDl1a0F4Znc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYm9fZHFWRzRPNGF1Unl5MmdOeGpwZmlFOWFGQkVUNjAyRDJMa1FyUkxzWW5XRUdTWTRxWHNMMC1GVi1sSW1yb1d2cVJXaDE5RXRtcklYR2JodDRQdHlmZ3lNdUtkTjIxeVZiOUxZcVhQR2lWSmlBUElJV0JJSHplSHVPSFdFeU0zbWJNaA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-05T15:14:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4e5a01a69679d1f6aff1cc61a579026bfde6fac13d3b4665e9634caa831425a3"
+    },
+    {
+      "id": "20260804-DP-68B92DB7-099",
+      "title": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:38:12+09:00",
+      "publishedAt": "2026-08-04T16:38:12+09:00",
+      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45dU0xVi04emR1WTdBM1hOTlFHMkMxTzI2TGVIOWNSZ3JMM0hCcnBIcUxZcDdUcm5jX0hXQ1B0U0NYczdjWGVqM2EyOV81OTZlMnZmM29KdnhYUWhQZ3A3ZmdZS3lhVkg4Y2pHYzI0SQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV0xId2lHZVNGcUd6SXZkODlQM0JLZXlvelJmSzRUaE5VbFlLUjlaY1RaTHpKcXVJa1N2NnFMdE4tNVhaS0xZRzdnSXpldjhSSzRHRGVsMmNuUS1nUXowMU41QnpMMlNhVXd1NnJScGJ0V1c5N29tOG42c3YweUdTb3ZxY00zckJvZUFVTVlfYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-05T15:14:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "68b92db7ce77680ed81c962a757a878a95754be9884d327e2a9b97a575a96504"
+    },
+    {
+      "id": "20260805-DP-B5F8E9F9-122",
+      "title": "[해명] 주택 공급대책에 대해서는 확정된 바 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T09:30:44+09:00",
+      "publishedAt": "2026-08-05T09:30:44+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "[해명] 주택 공급대책에 대해서는 확정된 바 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] 주택 공급대책에 대해서는 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSTkhrX3REeUdPcHJobkVIYUtHU0pMa3Q4YWcwamZZRzNmaWszYU9hR3ZCYlVOU2g2U0tWNk82N0VmLUpXdTdMb1hoM0xNNGg3elhCZGo3ZUJWT2Nhc2V1WnBoN19QdkxrX19ta3JlUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b5f8e9f9c43ee566b90a76bb011139b9c8bed9c3c3a4887d5982b8525d2a5aed"
+    },
+    {
+      "id": "20260805-DP-06A8EBB5-123",
+      "title": "사립대학 구조개선, 무엇이 달라지나요? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T11:11:35+09:00",
+      "publishedAt": "2026-08-05T11:11:35+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "사립대학 구조개선, 무엇이 달라지나요? - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "사립대학 구조개선, 무엇이 달라지나요? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjJKT1I3Z1NzVl9RUUF0TXhtM3FTM1I3STQ1cm1VNTRiRmJZb09RTmVTTzJzNEpVSXRYX25Xd1RTaTBwSUtyT0UxZ3gyaUtWWDNidGxVZkhpV3ZxQUtxZEZ6SHFWazMxa0k2UHh2ZVU1aTRvS0ZjZzRtc0FxQlh2Y3pWYXlGaldrNGU2dXRB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "06a8ebb520d28b24c4e0e2edddc44016d741c2b5b0718dfcf08a8f7c3f13cef3"
+    },
+    {
+      "id": "20260804-DP-27838018-124",
+      "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:24:00+09:00",
+      "publishedAt": "2026-08-04T16:24:00+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "제34회 국무회의 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNW5ad1Z1eHYybDdUbmpmeGZvV0Z1ejM1R21yc2ZvazF1aGdRdFlvVEdudWJiM0ZSSWFQYXdHVGRIRFBwdi1vS1pwU3ZHTDlSU3BQd1ZiT2pkVDgtTWUtcUV4aHYybkY4ZlNaUlBoc0hGcDdh?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "278380188e956ca19c9675fbd90abad5f4a73d87a05b18743c51f4a09875eb7e"
+    },
+    {
+      "id": "20260805-DP-6196ECB4-125",
+      "title": "금융위 \"'흑자 코스닥 기업, 시총 200억 미달해도 상폐 제외' 보도 사실 아냐\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T09:30:44+09:00",
+      "publishedAt": "2026-08-05T09:30:44+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "금융위 \"'흑자 코스닥 기업, 시총 200억 미달해도 상폐 제외' 보도 사실 아냐\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위 \"'흑자 코스닥 기업, 시총 200억 미달해도 상폐 제외' 보도 사실 아냐\" - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRVzMyTUtEVWtnLWY0VnNwNjdsdUhHSUFfQzQtVDBsdEtKS1dqZ05XRHU0R0tOOF9iV2x1VDRkYkJKV1pjVHV4RE91ZktPaWd6LW8tSlp2QUNpOUtOTnhFQnZUVjI5N0hFUDZhRGViSQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6196ecb47a6836706cbd97d80dd92313ccb737c45361a8efcdb8cc8c40e8f41b"
+    },
+    {
+      "id": "20260805-DP-430FCBEB-126",
+      "title": "업무보고 사전브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T13:31:25+09:00",
+      "publishedAt": "2026-08-05T13:31:25+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "업무보고 사전브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "업무보고 사전브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Md0ZTSE5hWldnc0o1b282Nnl5RUlRMGV5UXVfX3h0R2l0MGdiNjNMQ1RTeDRfZkU3WWtYMEw5UVp1bEtFMjIzSk9NX0hsYW52M2V5aGs2TmxQYTFYWVFjTGtxblFwQzhvdHMybWdlSmdxZ0o5WEYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "430fcbeb874c5560f6e109dd0cc662f3f482338dda77cec7939eb71ea1b22f4b"
+    },
+    {
+      "id": "20260805-DP-E24E93C3-127",
+      "title": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T11:12:16+09:00",
+      "publishedAt": "2026-08-05T11:12:16+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"지식재산으로 경제성장의 판을 바꾸겠습니다!\" - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVGpZRFl1TVY1d2lLcGxfUmM0MnBtNDNkYkFlTnQ3c1hqX1dMYXFqQm9wM0lNRGpFNFo3RHh3S2h2LTlpb01zVGI1RkR0OV9FUXVGbEJnV0RGa09yZzdDeUxZY2tBbjVHWkVzaFVQb1NBYTAxbWxwRFRHVl8zdFNkQWxwaGNLT1F1M3ZzVWRobFlETU52SFdxTk5LU3VURnlYV3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e24e93c331460a268d61e71eb38878c3518a0bdc1d83ea56a0750626dab0888c"
+    },
+    {
+      "id": "20260803-FR-5CD1E7F5-128",
+      "title": "K-뷰티, 브라질 시장을 사로잡다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T14:18:03+09:00",
+      "publishedAt": "2026-08-03T14:18:03+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-08-05T15:14:55+09:00",
+      "summary": "K-뷰티, 브라질 시장을 사로잡다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "K-뷰티, 브라질 시장을 사로잡다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2VoU2dVWUROMlJudUJMQnZUdWRaQldhQzJhRF9iN1FRclNrSFRMc2RZUzd0WXJvbUVOakZNNW5IVlpXSHdTeFMwZlk2bFJvVGpqVWZPaGVldlNnaWZGTE9lajVsWEtXTGcwU2NfWks1THpDb2VBREZUX1BId3MyN2c1WWFMc0VzQWFZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5cd1e7f54a0020d41fe87299f1c0e15d4548add908e40bbb14eee9fc1640b12d"
+    },
     {
       "id": "20260804-DP-22615945-107",
       "title": "(보도설명) 금번 부동산 세제 개편안의 다주택자 양도세 중과 한시 완화는 종전 시행되던 중과 유예와는 다릅니다. - 대한민국 정책브리핑",
@@ -463,46 +902,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "247560a708c583cb8befaa157a3d96ecfdcb4411a783b97e3bd84ab9754fcabe"
-    },
-    {
-      "id": "20260804-DP-F605F57F-108",
-      "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T19:48:09+09:00",
-      "publishedAt": "2026-08-04T19:48:09+09:00",
-      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
-      "updatedAt": "2026-08-05T01:25:21+09:00",
-      "summary": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qY2xSMlI2TnM2YnJ2aW9USHg3UlpLVmZFUkdhWE5YMURhQXB6cHBpb1lLOXVkd3BUTDlZSkRCNU1IUE13Z0YwWnNJdG8xd3NJOUdPN1NvX0hMT2NxbUIyQnludTdlYTBlbkVLUg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f605f57f0a29755bfd9a0626802a2a5f379e04e543befae1b8098436298ad7cf"
     },
     {
       "id": "20260804-DP-604DB28B-109",
@@ -996,86 +1395,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "5bb3bcad91ae133e06f0407fba09a83e78ef03c4c5deb433c9c2ce153dfc6917"
-    },
-    {
-      "id": "20260804-DP-4E5A01A6-097",
-      "title": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T13:36:24+09:00",
-      "publishedAt": "2026-08-04T13:36:24+09:00",
-      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
-      "updatedAt": "2026-08-04T17:10:45+09:00",
-      "summary": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[달달정책] 휴대폰 미니멀리즘의 실현…KTX·SRT 예매 한 번에 끝! - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXBKZmJBUXdGTE1pbWFFUTRkSnNudVNTeVlMaWlyRHdCeHZvWnZ0eHZWT3pjbkIwbG5HZG0xcTZNSF9KOEdJOVdrNWJWcXB6Qkg1NWdQbDdkbmVtQV84Z3ZxZ2hrTU1qS2FzSmxsTlRwM0lvRnRPQW5mbjRWWTZHbGpOTDl1a0F4Znc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4e5a01a69679d1f6aff1cc61a579026bfde6fac13d3b4665e9634caa831425a3"
-    },
-    {
-      "id": "20260804-DP-68B92DB7-099",
-      "title": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T16:38:12+09:00",
-      "publishedAt": "2026-08-04T16:38:12+09:00",
-      "firstCollectedAt": "2026-08-04T17:10:45+09:00",
-      "updatedAt": "2026-08-04T17:10:45+09:00",
-      "summary": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(설명) 동아일보, \"\"노란봉투법 불복해 찾아간 중노위, 76%가 노조 손들어줘\" 기사관련 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45dU0xVi04emR1WTdBM1hOTlFHMkMxTzI2TGVIOWNSZ3JMM0hCcnBIcUxZcDdUcm5jX0hXQ1B0U0NYczdjWGVqM2EyOV81OTZlMnZmM29KdnhYUWhQZ3A3ZmdZS3lhVkg4Y2pHYzI0SQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "68b92db7ce77680ed81c962a757a878a95754be9884d327e2a9b97a575a96504"
     },
     {
       "id": "20260804-DP-82E42244-100",
