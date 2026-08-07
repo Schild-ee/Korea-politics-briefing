@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-07T15:13:43+09:00",
-    "nextScheduledUpdate": "2026-08-07T15:43:43+09:00",
+    "lastSuccessfulUpdate": "2026-08-07T18:45:28+09:00",
+    "nextScheduledUpdate": "2026-08-07T19:15:28+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-07T15:13:40+09:00",
-      "finishedAt": "2026-08-07T15:13:43+09:00",
+      "startedAt": "2026-08-07T18:45:25+09:00",
+      "finishedAt": "2026-08-07T18:45:28+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 45,
-      "duplicates": 40,
-      "rejected": 150,
+      "acceptedCandidates": 11,
+      "duplicates": 11,
+      "rejected": 187,
       "rejectedByDate": 146,
-      "rejectedByRelevance": 4,
+      "rejectedByRelevance": 41,
       "rejectedAsCommentary": 0,
-      "newIssues": 7,
-      "updatedIssues": 3,
+      "newIssues": 2,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260807-FR-5EA06A4C-186",
+      "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T17:28:12+09:00",
+      "publishedAt": "2026-08-07T17:28:12+09:00",
+      "firstCollectedAt": "2026-08-07T18:45:26+09:00",
+      "updatedAt": "2026-08-07T18:45:26+09:00",
+      "summary": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - korea.kr",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdIdUZFQ0prTUxaVXRVcDJMV1lHLTdOWVphckpudDg1RmZ3R25xbXZuc21HNkx1em9GcXdzR1RVOTlQZllnOG9jQkZXNUtRNHVYVC1VbnFmY3VXRkdndlpTblRQQ0F1RWc3N3VZMkVBYXpTSGFlcjVDTUJOZEhYUlVhMVBiNjAxVUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5ea06a4cf5294c6bfbf9dd5cecca09ff284979ad06213d43323c05910f7ae62d"
+    },
+    {
+      "id": "20260807-FR-742B8BFB-187",
+      "title": "인사 관련 강유정 수석 대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T16:11:55+09:00",
+      "publishedAt": "2026-08-07T16:11:55+09:00",
+      "firstCollectedAt": "2026-08-07T18:45:26+09:00",
+      "updatedAt": "2026-08-07T18:45:26+09:00",
+      "summary": "인사 관련 강유정 수석 대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "인사 관련 강유정 수석 대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hNGlMMjdyd0phcWVMR25nNDZNRDZpR042dzEwLXJ2R1ZxN0xEUTU4anJDUFF2WmRUV21WV1JWWFNSaE93LXo2YjJHRk9ZU1lBWWVnWkNDU2psQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "742b8bfbc8b5552d596f381afb3f01b288994b9948549daf499d02ee690f0f46"
+    },
     {
       "id": "20260807-DP-293AA810-172",
       "title": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
