@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-07T21:30:50+09:00",
-    "nextScheduledUpdate": "2026-08-07T22:00:50+09:00",
+    "lastSuccessfulUpdate": "2026-08-08T00:39:00+09:00",
+    "nextScheduledUpdate": "2026-08-08T01:09:00+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-07T21:30:47+09:00",
-      "finishedAt": "2026-08-07T21:30:50+09:00",
+      "startedAt": "2026-08-08T00:38:57+09:00",
+      "finishedAt": "2026-08-08T00:39:00+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 47,
-      "duplicates": 39,
-      "rejected": 148,
-      "rejectedByDate": 144,
+      "acceptedCandidates": 38,
+      "duplicates": 41,
+      "rejected": 156,
+      "rejectedByDate": 152,
       "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 9,
-      "updatedIssues": 4,
+      "newIssues": 3,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,126 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260807-DP-DE75415A-197",
+      "title": "정부, 소부장 협력모델 5건 승인…5년간 R&D 910억 원 지원 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T16:56:41+09:00",
+      "publishedAt": "2026-08-07T16:56:41+09:00",
+      "firstCollectedAt": "2026-08-08T00:38:58+09:00",
+      "updatedAt": "2026-08-08T00:38:58+09:00",
+      "summary": "정부, 소부장 협력모델 5건 승인…5년간 R&D 910억 원 지원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 소부장 협력모델 5건 승인…5년간 R&D 910억 원 지원 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpSGd6Q2tWY1h0aG96bkRxdGp4SWpRdUJFdDdhTGJqSndtLXkwejVUQzR5WTNNeUJqbmNNWmttdEVxMVlDbmVsZkc2MjNaNmNBNTYxc3RxZFZTdTItZ0pGQ1JaZlBvRFZtTEZXSQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "de75415a997562bed74aa95e62ff9d62422d35aeb430626b7652b184c7a6b6d3"
+    },
+    {
+      "id": "20260807-FR-D7263891-198",
+      "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T17:28:12+09:00",
+      "publishedAt": "2026-08-07T17:28:12+09:00",
+      "firstCollectedAt": "2026-08-08T00:38:58+09:00",
+      "updatedAt": "2026-08-08T00:38:58+09:00",
+      "summary": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kc1FoMm1xT3JLU3pxNWRiYTNKQ3RRY2xENU1ZNUdfX3Q0WVJXUEw5WHRubXRvak5FOUFncUNZS19JRU5YcnFETXBfdXVsSnJqWmFxTzJXX1Z0cEoycDJULVRJUmdKM09SdUFCOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d7263891ad774e7e1beef50c3b5d720564217194030b2738452c0b7df2e2b2fa"
+    },
+    {
+      "id": "20260807-DP-4120173B-199",
+      "title": "인사 관련 강유정 수석 대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T15:34:22+09:00",
+      "publishedAt": "2026-08-07T15:34:22+09:00",
+      "firstCollectedAt": "2026-08-08T00:38:58+09:00",
+      "updatedAt": "2026-08-08T00:38:58+09:00",
+      "summary": "인사 관련 강유정 수석 대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "인사 관련 강유정 수석 대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVJoZVp3NWNBcUVXQVZwWXVfUFM2dXNzZGRSTncySktOOVJxbGs1WWNSWjNyYTN2MGdBWTd6RnhsZy1IVGl4RzBNX0ZPZkhUaXFMbTh5OG9DeEFpWTMtcHdlVE9CSURESDQzeXlobndOcWhYRVg1aEhBelRWVmdnczlrZ09jblVwQkVRTVVn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4120173b4b4ee15638ee846940fcc239c9a24eea9c9f260c9251bf8ab97d861c"
+    },
     {
       "id": "20260806-FR-412A40DB-159",
       "title": "올해 '전작권 회복 원년'…로드맵 완성·회복시기 결정 추진 - 대한민국 정책브리핑",
