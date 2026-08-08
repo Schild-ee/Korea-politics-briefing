@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-08T13:18:58+09:00",
-    "nextScheduledUpdate": "2026-08-08T13:48:58+09:00",
+    "lastSuccessfulUpdate": "2026-08-08T15:26:49+09:00",
+    "nextScheduledUpdate": "2026-08-08T15:56:49+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-08T13:18:55+09:00",
-      "finishedAt": "2026-08-08T13:18:58+09:00",
+      "startedAt": "2026-08-08T15:26:47+09:00",
+      "finishedAt": "2026-08-08T15:26:49+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 40,
-      "duplicates": 43,
+      "acceptedCandidates": 41,
+      "duplicates": 45,
       "rejected": 153,
       "rejectedByDate": 151,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
       "newIssues": 2,
-      "updatedIssues": 2,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260807-DP-2B986695-206",
+      "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T16:52:09+09:00",
+      "publishedAt": "2026-08-07T16:52:09+09:00",
+      "firstCollectedAt": "2026-08-08T15:26:48+09:00",
+      "updatedAt": "2026-08-08T15:26:48+09:00",
+      "summary": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXE0UzV4ZjI0bE5Rbmo0SUxiZlZkR3U3SVU5REpZSHd5Y0pJOFJXb3JUd19qRFpxWnp0Q3N0UVlTR05YdFBOSXV5VXJWZVpzOEJBMjlyS0s4dml3N3cxblp2cDQ2R1BPNFNXMURKX2RaWXdRSGZfbVpQcTJIQU5haWYyVFBEZmtseDNnRQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2b986695af6960ad6e7b9a70f2b2ad1bff15dde72a1248dd34e3103dad197693"
+    },
+    {
+      "id": "20260805-DP-82F289E9-205",
+      "title": "집에서 떠난 땅속 탐험, 토양·지하수 어린이 여름캠프 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-05T16:08:10+09:00",
+      "publishedAt": "2026-08-05T16:08:10+09:00",
+      "firstCollectedAt": "2026-08-08T15:26:47+09:00",
+      "updatedAt": "2026-08-08T15:26:47+09:00",
+      "summary": "집에서 떠난 땅속 탐험, 토양·지하수 어린이 여름캠프 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "집에서 떠난 땅속 탐험, 토양·지하수 어린이 여름캠프 - 대한민국 정책브리핑",
+          "date": "2026-08-05",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NjdhaDNRNnk1clZZa1B4M1QyMThoajBjaGxRZzQ0ZUVDZzBHekZ4ZDFXbi10bGxVVjB5NVBHeGN5RHU4TkV5T25OaVpvbTNad1o1SjNabHFyeFM5bl8zeTA1V0lBMVZpV3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "82f289e92a0cc9f7c70eff277ddfbf6931bdd424a03a716a485a2247c0b99393"
+    },
     {
       "id": "20260807-DP-4120173B-199",
       "title": "인사 관련 강유정 수석 대변인 서면 브리핑 - 대한민국 정책브리핑",
