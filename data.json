@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-08T15:26:49+09:00",
-    "nextScheduledUpdate": "2026-08-08T15:56:49+09:00",
+    "lastSuccessfulUpdate": "2026-08-08T17:22:54+09:00",
+    "nextScheduledUpdate": "2026-08-08T17:52:54+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-08T15:26:47+09:00",
-      "finishedAt": "2026-08-08T15:26:49+09:00",
+      "startedAt": "2026-08-08T17:22:51+09:00",
+      "finishedAt": "2026-08-08T17:22:54+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 41,
-      "duplicates": 45,
-      "rejected": 153,
-      "rejectedByDate": 151,
+      "acceptedCandidates": 36,
+      "duplicates": 37,
+      "rejected": 158,
+      "rejectedByDate": 156,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
       "newIssues": 2,
-      "updatedIssues": 0,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,247 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260807-DP-973DC93F-188",
+      "title": "\"수익 때문에?\" 공포 마케팅으로 번진 가짜 날씨 정보의 실체 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T18:26:13+09:00",
+      "publishedAt": "2026-08-07T18:26:13+09:00",
+      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
+      "updatedAt": "2026-08-08T17:22:52+09:00",
+      "summary": "\"수익 때문에?\" 공포 마케팅으로 번진 가짜 날씨 정보의 실체 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"수익 때문에?\" 공포 마케팅으로 번진 가짜 날씨 정보의 실체 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS01ZE1CRWY2NFdHM04yeDRDcjJ0R2tQZ1JqTDdrREdVUmozdU1Wak01Y1N4R1NYcXFPMUowQ1pDUDltRUFmbVVhNS1EREdrMUJtRVJxRkp4X28zYnlNTF9oRHFJbDFyUUFrSDF1SlctTjFBYTFFRWx4M1JqcFl4SDVUbDdTamNQMXc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"수익 때문에?\" 공포 마케팅으로 번진 가짜 날씨 정보의 실체 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RSW5tVUVkNGVyam5VUGJBYVBfNlQzWFVvMDdGYlM2aXFKWk1kalc2Y1VGZUszcGR5S0daMmI1ZFlDSFJyZEp4WlIwaThlaTI4enRxR1VFdTM1OVR1bllWWngyaTVRRjRjc3lHSQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-08T17:22:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "973dc93fd09a820104f6f9be8a82931306cfef016b7bf3c7bfbf887319994d0a"
+    },
+    {
+      "id": "20260807-DP-E05C99F4-190",
+      "title": "법제로 완성하는 국가대전환 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T14:19:52+09:00",
+      "publishedAt": "2026-08-07T14:19:52+09:00",
+      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
+      "updatedAt": "2026-08-08T17:22:52+09:00",
+      "summary": "법제로 완성하는 국가대전환 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "법제로 완성하는 국가대전환 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSXQtdUhJN2M5c21JTXR5VFZtTW5fNk1ELWEwZXRYZkNRcS1ub1FUU2ZqMkhrX2RodUl4NUpwejJEaUUzMU40VmFoRXpjUTBKZGE5Nm1BUE5NVHJKcU1LSEozY2gwb3Z6QVBHTlFHejJVTGpNaHZjOWhrUWJNa3hZOEMtbWJ1b0xxVFhn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "법제로 완성하는 국가대전환 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1J4NEsxb1gwM2EtR3o3M3UzWHJnMWtWeENLLTB6X0VESmNMV1k0V0dXNnQ0RUdLTEVDNHBLbG8talQ5dmJ3QU8yRlJFbGExcUhsRDNteHBWa3M0WjJ4ZWExS0IwWTBzTHFuMGZLaDYycTliRjROajdSalRiM191MENSbmNYRXpBSG1scGtB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-08T17:22:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e05c99f44fd26aec37de59eb58e26de00ef2d47fd4980430c4b504f3ffe4b656"
+    },
+    {
+      "id": "20260807-DP-C86A57DD-191",
+      "title": "동네 보건소도 대학병원급 AI 진료…AI진료지원 도구 전국 보급 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T17:28:12+09:00",
+      "publishedAt": "2026-08-07T17:28:12+09:00",
+      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
+      "updatedAt": "2026-08-08T17:22:52+09:00",
+      "summary": "동네 보건소도 대학병원급 AI 진료…AI진료지원 도구 전국 보급 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "동네 보건소도 대학병원급 AI 진료…AI진료지원 도구 전국 보급 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTRTFYTmNaeUhBMU1KaUY5NC1xV1Z6eVJKSVJ0SncxT1Q3ZzRLS2x5VE9IQjR1SzJBeTZ0bXYyTE03UE5BSmM5NUVOQWhabnlCRzN5clpTZFZacm1JNmFMVHRzUlhobUdKaWFERA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "동네 보건소도 대학병원급 AI 진료…AI진료지원 도구 전국 보급 - 대한민국 정책브리핑",
+          "date": "2026-08-08",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY01FWGQwM05qR21pQVY3TnBVdlR3WTNQc3FlUVVrMmRBajNkcXFVeTRtWEFiSjBmQ1ZqVWxGS0t2Q0JqazlMNnU2eHJpSk9tdU14NFBfdjlFSTU0ZjlQUlNYZnp0SUJYN3ptV0JPQlJUR2V6T3hYYVZLVk5SMksxODdCaFVBQ0FGZkE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-08T17:22:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c86a57dd1b6740ecc86e21aff2dfc5f56c4b996ee7ca9e7dfd794683ea2906e5"
+    },
+    {
+      "id": "20260806-FR-B070C4CE-207",
+      "title": "\"우편투표 도입 및 투표소 확대 추진하겠다\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-06T10:26:45+09:00",
+      "publishedAt": "2026-08-06T10:26:45+09:00",
+      "firstCollectedAt": "2026-08-08T17:22:52+09:00",
+      "updatedAt": "2026-08-08T17:22:52+09:00",
+      "summary": "\"우편투표 도입 및 투표소 확대 추진하겠다\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"우편투표 도입 및 투표소 확대 추진하겠다\" - 대한민국 정책브리핑",
+          "date": "2026-08-06",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXBwaVNxY05sVXJaZnQzUjdES3RjRnN5VC1rX3FNd2QwMW9qNkFnU3d2eWNQclM5LU9UaHM4dFZsTmZvMlBOeHFpQXRIbWh3djdlNUZyQklZV2czdXlGUVFvcjJPWlBHOTRiX3NlUnhYSndYNHJmcFpvdlREdFpldC0xU2NlbWtVdGt2YzA5NUVhQ29pYlBkNDdWeWZvdEhPdFE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b070c4ceee986a506243eeb4bf35eac2810e4c722e09e62aad88706e95448873"
+    },
+    {
+      "id": "20260808-FR-F7BFBEDE-208",
+      "title": "6·25전쟁 미수습 미군 '끝까지 찾는다'…한미 유가족 지원 협력 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-08T15:12:25+09:00",
+      "publishedAt": "2026-08-08T15:12:25+09:00",
+      "firstCollectedAt": "2026-08-08T17:22:52+09:00",
+      "updatedAt": "2026-08-08T17:22:52+09:00",
+      "summary": "6·25전쟁 미수습 미군 '끝까지 찾는다'…한미 유가족 지원 협력 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "6·25전쟁 미수습 미군 '끝까지 찾는다'…한미 유가족 지원 협력 - 대한민국 정책브리핑",
+          "date": "2026-08-08",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Od08zdTdLb2ZTYW5QNDE5bTZzQWFZRzhWTS1zdkthOU5NSFltdWlZWHNheU1ZemV6ZFd5Z3UtcGxRa2xBT1E3SFpFUWxJOFFKVXpIWmZjSG5zTDJnSXdVdjhleER4LWtCR3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f7bfbedec514094e16f84a94d5cdbe0ebae56a71f6fb5db8aa5a678fc2ba2b59"
+    },
     {
       "id": "20260807-DP-2B986695-206",
       "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
@@ -940,46 +1181,6 @@
       "contentHash": "bd3ef2f51ffc8cbeff77e3425dc9ea73fd62f64c6929bbac98a3d17c766ed47a"
     },
     {
-      "id": "20260807-DP-973DC93F-188",
-      "title": "\"수익 때문에?\" 공포 마케팅으로 번진 가짜 날씨 정보의 실체 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T18:26:13+09:00",
-      "publishedAt": "2026-08-07T18:26:13+09:00",
-      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
-      "updatedAt": "2026-08-07T21:30:48+09:00",
-      "summary": "\"수익 때문에?\" 공포 마케팅으로 번진 가짜 날씨 정보의 실체 - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"수익 때문에?\" 공포 마케팅으로 번진 가짜 날씨 정보의 실체 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdS01ZE1CRWY2NFdHM04yeDRDcjJ0R2tQZ1JqTDdrREdVUmozdU1Wak01Y1N4R1NYcXFPMUowQ1pDUDltRUFmbVVhNS1EREdrMUJtRVJxRkp4X28zYnlNTF9oRHFJbDFyUUFrSDF1SlctTjFBYTFFRWx4M1JqcFl4SDVUbDdTamNQMXc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "973dc93fd09a820104f6f9be8a82931306cfef016b7bf3c7bfbf887319994d0a"
-    },
-    {
       "id": "20260807-DP-87A4998B-189",
       "title": "우리법원 주요판결 - 서울행정법원",
       "primaryCategory": "국내 정치",
@@ -1018,86 +1219,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "87a4998beacb9a13d1b3eee5de96fe1e44460113483580b1f3d10134921fdf34"
-    },
-    {
-      "id": "20260807-DP-E05C99F4-190",
-      "title": "법제로 완성하는 국가대전환 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T14:19:52+09:00",
-      "publishedAt": "2026-08-07T14:19:52+09:00",
-      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
-      "updatedAt": "2026-08-07T21:30:48+09:00",
-      "summary": "법제로 완성하는 국가대전환 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "법제로 완성하는 국가대전환 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSXQtdUhJN2M5c21JTXR5VFZtTW5fNk1ELWEwZXRYZkNRcS1ub1FUU2ZqMkhrX2RodUl4NUpwejJEaUUzMU40VmFoRXpjUTBKZGE5Nm1BUE5NVHJKcU1LSEozY2gwb3Z6QVBHTlFHejJVTGpNaHZjOWhrUWJNa3hZOEMtbWJ1b0xxVFhn?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e05c99f44fd26aec37de59eb58e26de00ef2d47fd4980430c4b504f3ffe4b656"
-    },
-    {
-      "id": "20260807-DP-C86A57DD-191",
-      "title": "동네 보건소도 대학병원급 AI 진료…AI진료지원 도구 전국 보급 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T17:28:12+09:00",
-      "publishedAt": "2026-08-07T17:28:12+09:00",
-      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
-      "updatedAt": "2026-08-07T21:30:48+09:00",
-      "summary": "동네 보건소도 대학병원급 AI 진료…AI진료지원 도구 전국 보급 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "동네 보건소도 대학병원급 AI 진료…AI진료지원 도구 전국 보급 - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTRTFYTmNaeUhBMU1KaUY5NC1xV1Z6eVJKSVJ0SncxT1Q3ZzRLS2x5VE9IQjR1SzJBeTZ0bXYyTE03UE5BSmM5NUVOQWhabnlCRzN5clpTZFZacm1JNmFMVHRzUlhobUdKaWFERA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "c86a57dd1b6740ecc86e21aff2dfc5f56c4b996ee7ca9e7dfd794683ea2906e5"
     },
     {
       "id": "20260807-DP-D9912ED7-192",
