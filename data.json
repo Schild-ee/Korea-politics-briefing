@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-08T22:59:28+09:00",
-    "nextScheduledUpdate": "2026-08-08T23:29:28+09:00",
+    "lastSuccessfulUpdate": "2026-08-09T01:01:30+09:00",
+    "nextScheduledUpdate": "2026-08-09T01:31:30+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-08T22:59:25+09:00",
-      "finishedAt": "2026-08-08T22:59:28+09:00",
+      "startedAt": "2026-08-09T01:01:28+09:00",
+      "finishedAt": "2026-08-09T01:01:30+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 29,
-      "duplicates": 34,
-      "rejected": 165,
+      "acceptedCandidates": 30,
+      "duplicates": 35,
+      "rejected": 164,
       "rejectedByDate": 163,
-      "rejectedByRelevance": 2,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260807-FR-D7263891-198",
+      "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T17:28:12+09:00",
+      "publishedAt": "2026-08-07T17:28:12+09:00",
+      "firstCollectedAt": "2026-08-08T00:38:58+09:00",
+      "updatedAt": "2026-08-09T01:01:29+09:00",
+      "summary": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kc1FoMm1xT3JLU3pxNWRiYTNKQ3RRY2xENU1ZNUdfX3Q0WVJXUEw5WHRubXRvak5FOUFncUNZS19JRU5YcnFETXBfdXVsSnJqWmFxTzJXX1Z0cEoycDJULVRJUmdKM09SdUFCOA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdIdUZFQ0prTUxaVXRVcDJMV1lHLTdOWVphckpudDg1RmZ3R25xbXZuc21HNkx1em9GcXdzR1RVOTlQZllnOG9jQkZXNUtRNHVYVC1VbnFmY3VXRkdndlpTblRQQ0F1RWc3N3VZMkVBYXpTSGFlcjVDTUJOZEhYUlVhMVBiNjAxVUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-09T01:01:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d7263891ad774e7e1beef50c3b5d720564217194030b2738452c0b7df2e2b2fa"
+    },
     {
       "id": "20260806-DP-E12AB700-209",
       "title": "이 대통령 \"국가적 기후 재난 상황…정책 대응 최대치로 올려야\" - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
@@ -835,46 +888,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "de75415a997562bed74aa95e62ff9d62422d35aeb430626b7652b184c7a6b6d3"
-    },
-    {
-      "id": "20260807-FR-D7263891-198",
-      "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T17:28:12+09:00",
-      "publishedAt": "2026-08-07T17:28:12+09:00",
-      "firstCollectedAt": "2026-08-08T00:38:58+09:00",
-      "updatedAt": "2026-08-08T00:38:58+09:00",
-      "summary": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "지난해 부정수급 환수·제재부가금 1796억 원 '역대 최대' - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kc1FoMm1xT3JLU3pxNWRiYTNKQ3RRY2xENU1ZNUdfX3Q0WVJXUEw5WHRubXRvak5FOUFncUNZS19JRU5YcnFETXBfdXVsSnJqWmFxTzJXX1Z0cEoycDJULVRJUmdKM09SdUFCOA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d7263891ad774e7e1beef50c3b5d720564217194030b2738452c0b7df2e2b2fa"
     },
     {
       "id": "20260806-FR-412A40DB-159",
