@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-09T13:47:34+09:00",
-    "nextScheduledUpdate": "2026-08-09T14:17:34+09:00",
+    "lastSuccessfulUpdate": "2026-08-09T16:58:44+09:00",
+    "nextScheduledUpdate": "2026-08-09T17:28:44+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-09T13:47:32+09:00",
-      "finishedAt": "2026-08-09T13:47:34+09:00",
+      "startedAt": "2026-08-09T16:58:42+09:00",
+      "finishedAt": "2026-08-09T16:58:44+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 30,
-      "duplicates": 30,
-      "rejected": 165,
-      "rejectedByDate": 163,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 28,
+      "duplicates": 27,
+      "rejected": 167,
+      "rejectedByDate": 166,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
+      "newIssues": 3,
       "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -81,7 +81,7 @@
       "occurredAt": "2026-08-07T16:52:09+09:00",
       "publishedAt": "2026-08-07T16:52:09+09:00",
       "firstCollectedAt": "2026-08-08T15:26:48+09:00",
-      "updatedAt": "2026-08-09T13:47:33+09:00",
+      "updatedAt": "2026-08-09T16:58:43+09:00",
       "summary": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -102,11 +102,76 @@
           "date": "2026-08-07",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmw1NXYtcE5qMDhaS3VTR3I1NlprUVZXN1MyRXhPaUNqV0M1cW5OY1lGSUhIZl95TUhKU25VMkxXeHlNd3J3QzdvM0ZBQ0lnYnA5RDQ5M2duNDNNOWpxaDFlN0c5Y25vYnlLYUpfYzUxb0RqSndNbFZ3LS1HZ3ZFU015a2tYdmxlNEE?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHMEFiSEpnbS1JOTJyNDZzUG92Mm9rQUwxZEpDZndfR2pDVkdOUnFBU0h0Y0NfOGl3RngycExib0VGZzF5Z2ozdm0wQ05GWVJ4bndaU2FBLXFfM2MwZ1pLNllkeUJuV3F2NldKMg?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
         {
           "updatedAt": "2026-08-09T13:47:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-09T16:58:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2b986695af6960ad6e7b9a70f2b2ad1bff15dde72a1248dd34e3103dad197693"
+    },
+    {
+      "id": "20260807-FR-74BE9BF9-203",
+      "title": "국내산업 공급망 확충한다…'국내생산세액공제' 신설 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T16:52:09+09:00",
+      "publishedAt": "2026-08-07T16:52:09+09:00",
+      "firstCollectedAt": "2026-08-08T13:18:56+09:00",
+      "updatedAt": "2026-08-09T16:58:43+09:00",
+      "summary": "국내산업 공급망 확충한다…'국내생산세액공제' 신설 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국내산업 공급망 확충한다…'국내생산세액공제' 신설 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXRycFpXZmxrN2dLdjV3VmNnYWVIeC1nRXJjempxV1k0b20xVHNKeHFrT0xHOVYyZm45cEVxMlhzdmtMVktUNjczcThhRnE2T1NJaFFBZ2ZuZmJaU0dSTVM0bWRtUkVsMHdJa1dmY3B0SndhY2dBaVVuTlloRlhnMmZBdU0xY19Tak1FZQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국내산업 공급망 확충한다…'국내생산세액공제' 신설 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6b2RFQmNXOFBWamV0bVV1X25RNVBVTy1SeHBPZzdER192VUZaTy1zQ2hLNUFyUGRPTHUyMGVoaGNUdHJ3dE1QbTBINDZHUEZXZFBmMmN5QUt6ekRpR0FDM1ljendoUDczX3F6TA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-09T16:58:43+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
         }
@@ -115,7 +180,180 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "2b986695af6960ad6e7b9a70f2b2ad1bff15dde72a1248dd34e3103dad197693"
+      "contentHash": "74be9bf96b7c1ccc7359e56915a562ccc42ad53eec26795c2baef403eb7fc0c0"
+    },
+    {
+      "id": "20260807-FR-298CC557-195",
+      "title": "기후·에너지 분야 세제 지원 확대! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T14:31:10+09:00",
+      "publishedAt": "2026-08-07T14:31:10+09:00",
+      "firstCollectedAt": "2026-08-07T21:30:49+09:00",
+      "updatedAt": "2026-08-09T16:58:43+09:00",
+      "summary": "기후·에너지 분야 세제 지원 확대! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후·에너지 분야 세제 지원 확대! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUEzY0FwUHBjdnA1Q0lqWVFFeWtYTDE4MVJHWFZlZW9Ma3ZnaWJnVzB2U0Mta0s5WW9XNmd2SU9idUNuaUh1aTFqa2VQTlJKanlXUUpFa2NyVzVnSXhPUEhfemtYd2NSYnU0NGRXeE9oZEtOU2VLRUV0RGs4UGs2ajlXM2FQZm9fc04tR2R3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후·에너지 분야 세제 지원 확대! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zTF95T1RJUjF0UVJmWWNwU09xLTNiRFhZeWV0SDJyRjZJUlY3Z3daY2o1TlkwckoycG1HUjlhY3pyQjkyMDNIc0dKWXc5WmVzQl9qYmxuQjZSRllCTWFsWGVwT21HOUJINlVuNURn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-09T16:58:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "298cc55746dae429c39d35b91198031d76789038fef5127841ed01044c3eda0b"
+    },
+    {
+      "id": "20260807-DP-37A941A7-212",
+      "title": "떡국떡·떡볶이떡 '생계형 적합업종' 재지정…2031년까지 보호 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T20:48:45+09:00",
+      "publishedAt": "2026-08-07T20:48:45+09:00",
+      "firstCollectedAt": "2026-08-09T16:58:42+09:00",
+      "updatedAt": "2026-08-09T16:58:42+09:00",
+      "summary": "떡국떡·떡볶이떡 '생계형 적합업종' 재지정…2031년까지 보호 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "떡국떡·떡볶이떡 '생계형 적합업종' 재지정…2031년까지 보호 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSZzR6SkdYQzdtRW0zVEpzbTFON2U5QjFtZWQxcGhYT1U1RXBBWVZQR09Pby14NVhyaXE1VjlWbFA1Q0xFMFpBak9YdXlObG02bGZibE43enp5dlRMbnBHSzkyY2swT0pRYmZVNw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "37a941a7f6ef238086bbdad90001133d5f1ed1a946934f5aa9a323389ad7a75e"
+    },
+    {
+      "id": "20260807-DP-B43B5C17-213",
+      "title": "벤처투자·창업·사업승계 이렇게 달라집니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T14:15:19+09:00",
+      "publishedAt": "2026-08-07T14:15:19+09:00",
+      "firstCollectedAt": "2026-08-09T16:58:42+09:00",
+      "updatedAt": "2026-08-09T16:58:42+09:00",
+      "summary": "벤처투자·창업·사업승계 이렇게 달라집니다! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "벤처투자·창업·사업승계 이렇게 달라집니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQkxKaUJVTWJHMkkyYkRpaEppd0dtOThNWE1WbmE5UWIwX0tlZkcwSzhyX0RJc09vbDN4Ukt1MkNWWEE0ZG12dktodV9qb09qTnhqMktjUktpS3BTdWR6clpfWWhuSHdhemVIZUh2bTVBemZKODVnQnoyTnN2UlJkQVVWalRsZkZSRG1UQ1VB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b43b5c17ec748964d53aa3578b5e4afec73d08fc3492839bdf30cb219bbd4c51"
+    },
+    {
+      "id": "20260808-DP-9EFC79BA-214",
+      "title": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-08T14:50:56+09:00",
+      "publishedAt": "2026-08-08T14:50:56+09:00",
+      "firstCollectedAt": "2026-08-09T16:58:42+09:00",
+      "updatedAt": "2026-08-09T16:58:42+09:00",
+      "summary": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요! - 대한민국 정책브리핑",
+          "date": "2026-08-08",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CY3JwbkkzQmh4MVBzYkE3c21hVUpVQW5LOW5wVExHWmlScFFHU3dmWmZnRm80U1VBclZhZEZJTnBBOHpDa0lTQXRrdjUzSDUycmFDaTdKWGgtUlZaQzE1dzFpLThMY3Q1dVE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9efc79ba3c2b2a1708025044feac818f71ca50bac8345d91b86d96db67da3bdc"
     },
     {
       "id": "20260807-DP-87A4998B-189",
@@ -915,46 +1153,6 @@
       "contentHash": "bfeac7ccca7e92e7ed5caf2c6971f9625300acdb5f74483b24faa7266958b04f"
     },
     {
-      "id": "20260807-FR-74BE9BF9-203",
-      "title": "국내산업 공급망 확충한다…'국내생산세액공제' 신설 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "경제안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T16:52:09+09:00",
-      "publishedAt": "2026-08-07T16:52:09+09:00",
-      "firstCollectedAt": "2026-08-08T13:18:56+09:00",
-      "updatedAt": "2026-08-08T13:18:56+09:00",
-      "summary": "국내산업 공급망 확충한다…'국내생산세액공제' 신설 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국내산업 공급망 확충한다…'국내생산세액공제' 신설 - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLXRycFpXZmxrN2dLdjV3VmNnYWVIeC1nRXJjempxV1k0b20xVHNKeHFrT0xHOVYyZm45cEVxMlhzdmtMVktUNjczcThhRnE2T1NJaFFBZ2ZuZmJaU0dSTVM0bWRtUkVsMHdJa1dmY3B0SndhY2dBaVVuTlloRlhnMmZBdU0xY19Tak1FZQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "74be9bf96b7c1ccc7359e56915a562ccc42ad53eec26795c2baef403eb7fc0c0"
-    },
-    {
       "id": "20260807-FR-25F74D39-204",
       "title": "하늘을 선택한 사람들? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -1377,46 +1575,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ff82fa7795528bd260f8deeb8d47d3a2f46a51f9c4c65d888d8ccf3b4aa15986"
-    },
-    {
-      "id": "20260807-FR-298CC557-195",
-      "title": "기후·에너지 분야 세제 지원 확대! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T14:31:10+09:00",
-      "publishedAt": "2026-08-07T14:31:10+09:00",
-      "firstCollectedAt": "2026-08-07T21:30:49+09:00",
-      "updatedAt": "2026-08-07T21:30:49+09:00",
-      "summary": "기후·에너지 분야 세제 지원 확대! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "기후·에너지 분야 세제 지원 확대! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUEzY0FwUHBjdnA1Q0lqWVFFeWtYTDE4MVJHWFZlZW9Ma3ZnaWJnVzB2U0Mta0s5WW9XNmd2SU9idUNuaUh1aTFqa2VQTlJKanlXUUpFa2NyVzVnSXhPUEhfemtYd2NSYnU0NGRXeE9oZEtOU2VLRUV0RGs4UGs2ajlXM2FQZm9fc04tR2R3?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "298cc55746dae429c39d35b91198031d76789038fef5127841ed01044c3eda0b"
     },
     {
       "id": "20260807-FR-991368AE-196",
