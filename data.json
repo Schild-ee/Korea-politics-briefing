@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-09T16:58:44+09:00",
-    "nextScheduledUpdate": "2026-08-09T17:28:44+09:00",
+    "lastSuccessfulUpdate": "2026-08-09T19:04:56+09:00",
+    "nextScheduledUpdate": "2026-08-09T19:34:56+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-09T16:58:42+09:00",
-      "finishedAt": "2026-08-09T16:58:44+09:00",
+      "startedAt": "2026-08-09T19:04:54+09:00",
+      "finishedAt": "2026-08-09T19:04:56+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 28,
-      "duplicates": 27,
+      "duplicates": 31,
       "rejected": 167,
-      "rejectedByDate": 166,
-      "rejectedByRelevance": 1,
+      "rejectedByDate": 167,
+      "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
-      "updatedIssues": 3,
+      "newIssues": 2,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260807-DP-41111F55-215",
+      "title": "이재명 대통령, 호우 피해 특별재난지역 선포 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T18:49:26+09:00",
+      "publishedAt": "2026-08-07T18:49:26+09:00",
+      "firstCollectedAt": "2026-08-09T19:04:55+09:00",
+      "updatedAt": "2026-08-09T19:04:55+09:00",
+      "summary": "이재명 대통령, 호우 피해 특별재난지역 선포 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 호우 피해 특별재난지역 선포 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNmhLbklMVExka042T1drSEEyeFhfZmVwd3dxRXJnSTVZbXY1bTMwUU5ybzhRMzM3QmxHQl84QzMwdXFZRWVjd3Vmc0NKeWRSVklqU2hTUGg5RmdtaFF5ZDJHTm9Zejg0S3hBLU1jQXU1UENJaHBzclFFNUJYQU40bmpLaTBFWEZPTzdKVHpn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "41111f559cbe90c81763a52a6ebba1ce26b5f7668c5e72dee8d61e59d51594f5"
+    },
+    {
+      "id": "20260807-FR-D599D4B3-216",
+      "title": "기후부, 여름철 전력수급 점검…역대 최대전력수요 가능성 대비 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T16:00:00+09:00",
+      "publishedAt": "2026-08-07T16:00:00+09:00",
+      "firstCollectedAt": "2026-08-09T19:04:55+09:00",
+      "updatedAt": "2026-08-09T19:04:55+09:00",
+      "summary": "기후부, 여름철 전력수급 점검…역대 최대전력수요 가능성 대비 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후부, 여름철 전력수급 점검…역대 최대전력수요 가능성 대비 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3F3ZmFqVHlOdjR6Vlg3ZEp4cWlGUmtpZUE1SDVfQzcxeFVMM2hLT1VoV0FZZU9ELUNPajF5V0NPS216VkN0ZmRIZURHVUFkVnJTRWpWSnRtcHVsM0JFcE1GTHRJVW9pR2RqaHd6YUFERkx0Z2k5NWxSR3lDRnJFQ2lKVHRtOGVtVHp6Ng?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d599d4b311e9449af8c4425079d126dd4761be9ab83ed33bb2b4d23dc6e797cb"
+    },
     {
       "id": "20260807-DP-2B986695-206",
       "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
