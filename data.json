@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-10T06:05:28+09:00",
-    "nextScheduledUpdate": "2026-08-10T06:35:28+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-10T07:04:07+09:00",
+    "nextScheduledUpdate": "2026-08-10T07:34:07+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-10T06:05:25+09:00",
-      "finishedAt": "2026-08-10T06:05:28+09:00",
+      "startedAt": "2026-08-10T07:04:05+09:00",
+      "finishedAt": "2026-08-10T07:04:07+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 23,
-      "duplicates": 31,
-      "rejected": 169,
-      "rejectedByDate": 168,
+      "acceptedCandidates": 24,
+      "duplicates": 32,
+      "rejected": 167,
+      "rejectedByDate": 166,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260808-FR-5BAAD950-218",
+      "title": "진실화해위 3기 출범 계기 국가폭력 피해자 위로오찬 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-08T09:54:17+09:00",
+      "publishedAt": "2026-08-08T09:54:17+09:00",
+      "firstCollectedAt": "2026-08-10T07:04:06+09:00",
+      "updatedAt": "2026-08-10T07:04:06+09:00",
+      "summary": "진실화해위 3기 출범 계기 국가폭력 피해자 위로오찬 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "진실화해위 3기 출범 계기 국가폭력 피해자 위로오찬 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-08",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0SHlfN2dqSm9oS3hYdjdIa2stdE5kb1ljWEhyZ3VjbW5ZRGNROTlvY050QXY2Y2FnSXFIcW1VMVlGMmZFZGdoU2hPRWxSeE5uYmZLWmdOaFhmc1E2OU5mWFFNYkxNQ0hWUnc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5baad9506ef020cb3ccb8b960b7f283197d26daf09a80a48f6ac2c07d7e4b130"
+    },
     {
       "id": "20260809-FR-0E10E1B5-217",
       "title": "[잼플릭스] 몰아보기 추천 시리즈 | 국민과 함께 만든 업무보고 시즌2 | 영상으로 만나는 대통령 | 미디어 - president.go.kr",
