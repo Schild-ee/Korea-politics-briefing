@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-09T09:01:25+09:00",
-    "nextScheduledUpdate": "2026-08-09T09:31:25+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-09T13:47:34+09:00",
+    "nextScheduledUpdate": "2026-08-09T14:17:34+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-09T09:01:23+09:00",
-      "finishedAt": "2026-08-09T09:01:25+09:00",
+      "startedAt": "2026-08-09T13:47:32+09:00",
+      "finishedAt": "2026-08-09T13:47:34+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 32,
-      "duplicates": 38,
-      "rejected": 162,
-      "rejectedByDate": 161,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 30,
+      "duplicates": 30,
+      "rejected": 165,
+      "rejectedByDate": 163,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 2,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,257 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260807-DP-2B986695-206",
+      "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T16:52:09+09:00",
+      "publishedAt": "2026-08-07T16:52:09+09:00",
+      "firstCollectedAt": "2026-08-08T15:26:48+09:00",
+      "updatedAt": "2026-08-09T13:47:33+09:00",
+      "summary": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXE0UzV4ZjI0bE5Rbmo0SUxiZlZkR3U3SVU5REpZSHd5Y0pJOFJXb3JUd19qRFpxWnp0Q3N0UVlTR05YdFBOSXV5VXJWZVpzOEJBMjlyS0s4dml3N3cxblp2cDQ2R1BPNFNXMURKX2RaWXdRSGZfbVpQcTJIQU5haWYyVFBEZmtseDNnRQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmw1NXYtcE5qMDhaS3VTR3I1NlprUVZXN1MyRXhPaUNqV0M1cW5OY1lGSUhIZl95TUhKU25VMkxXeHlNd3J3QzdvM0ZBQ0lnYnA5RDQ5M2duNDNNOWpxaDFlN0c5Y25vYnlLYUpfYzUxb0RqSndNbFZ3LS1HZ3ZFU015a2tYdmxlNEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-09T13:47:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2b986695af6960ad6e7b9a70f2b2ad1bff15dde72a1248dd34e3103dad197693"
+    },
+    {
+      "id": "20260807-DP-87A4998B-189",
+      "title": "우리법원 주요판결 - 서울행정법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "서울행정법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T19:24:32+09:00",
+      "publishedAt": "2026-08-07T19:24:32+09:00",
+      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
+      "updatedAt": "2026-08-09T13:47:32+09:00",
+      "summary": "우리법원 주요판결 서울행정법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "서울행정법원",
+          "title": "우리법원 주요판결 - 서울행정법원",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVHpFenltVTR2bE16VnZBZGNmcGlXRUVLLXJ4aTMyNTdJcVBIRHZpZUZmTDA2OTRieUJnMXpiNUM0MHJjdXhpeEFfTVFWd0c1dFBlT1VySHMwcUhSUktZQWZkMDE1V3FtM3hMSWNVYmxPTG9pdy1fVl9ZX0Q2amdDOVFUamRKQ2RfWkg1MlZlOEdoS2VVZVhocUlPbFRBajY3SWx0OUNBUEhTb2FtMW5LcHJSc1FvNkNIbmI5N01acGZ3OFFwdlBIc05kUXVMcm14Q0RnV0Rnd2t4Q3lHa1I0YkRmSzhwakxfODM3MnMwcWJDeENxZXRYZjJna2I4VFEwYTZhOEkwUmdBNVU0MjlaeUR3?oc=5",
+          "official": true
+        },
+        {
+          "name": "서울행정법원",
+          "title": "우리법원 주요판결 - 서울행정법원",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPd0ZzTW94MlpMMjg0LXVuWnBrOTRWUWFOS3lEaVluNk9EdnBTWkFxMlIxbEZFMnBtdnRtX2FLQzBzaG10Rkl6dS16dVpZdGhaZThPeWZiWUdmQmRPQlFrSXJ4SDgtWnpaU2lWeWRGemRKUkJrNHBIelRMXzc4RnhPVXB1enNmdkNJTVlNWWgyS1FYV05EQnE2R09XMmpVLTJ2dkJ6NkNvbHM3R0gxcTg0RndHTGlPV183WTVPT3ZackN5WDh6QU9XZkk2bWFOTm5sdjJIQzA3b1hZTlBmb2twMFk0eHdQcDJTNVBDb1c2Wjd3YW43RkYwMWF2MVQwdWdOTkVXMTZYV3hmMlJLUVh1T2lR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-09T13:47:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "87a4998beacb9a13d1b3eee5de96fe1e44460113483580b1f3d10134921fdf34"
+    },
+    {
+      "id": "20260807-DP-293AA810-172",
+      "title": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T08:45:01+09:00",
+      "publishedAt": "2026-08-07T08:45:01+09:00",
+      "firstCollectedAt": "2026-08-07T10:44:57+09:00",
+      "updatedAt": "2026-08-09T13:47:32+09:00",
+      "summary": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1JxVEEzU0tGaDBMZjhHaFVHcFc0YzVaUDROamp3SjBxY0VBN0tkWWJjVktJaTNIdFBQcm5MQ3hVRjdNUExQdWE0amp6bXctcUw1RVV2VVZhVUVVNWtzaXd0V2s5ZEhGcnMzZ1ltMG1hZXhfNy1BdHJrQWZJX0djQUFJOGNNWHowYVNudw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01ZndUbWswRzlVaThtWm42cms0Sk9PN3VNWEMyaWppd20tUG1HR25NdUMzcGdfWGdXRktGWE1PX2p1YUF0M2JjalNYR083X1RtRWxxenZnNjMxZlN3TTByY1hFaXZnSWtuNjhaZVFOdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 국가R&D성과 기술 해외 특허 지원 등에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZmhQRzBMMHlCSUpDTUZzWjZOWnhBZi1kN1VMQmg0clJWck1oWmFfUWFKb0tlUFZGVjM5NnFMcUhDZHJVZDA2eDZjU1VfNWZIRjZINlc3Vl9IRmpnY1RmQTlvdHVwUUQtUFFxZ19BM2xFSGlfN0QxYWwyVDFEYnh5MXVoM3Vkd1NtYV9WTV9DOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-07T15:13:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-09T13:47:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "293aa810a2d68f983ba91bcafa89d484c46a3b31b48a913fcda163b9528dfcd5"
+    },
+    {
+      "id": "20260807-DP-5F5512E2-210",
+      "title": "폭염·가뭄 장기화 총력 대응…드론 예찰·쿨링조끼 3만 벌 공급 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T13:33:10+09:00",
+      "publishedAt": "2026-08-07T13:33:10+09:00",
+      "firstCollectedAt": "2026-08-09T13:47:32+09:00",
+      "updatedAt": "2026-08-09T13:47:32+09:00",
+      "summary": "폭염·가뭄 장기화 총력 대응…드론 예찰·쿨링조끼 3만 벌 공급 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "폭염·가뭄 장기화 총력 대응…드론 예찰·쿨링조끼 3만 벌 공급 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHFtdWxoLUVIZmJOT1FSOG12Nzh1ZDR1QndNU1hZNnlVZXU4Z09jbnB2TGJhY080UDdWcUhiNXhTbkFvYUVfeWJqVW4zY0F1WjRNMng5VTc3NzV5T0VRNnNTaDhmMDMySU5NRENHZmR1Vkp5bzFXLTNwcWo5aHp0TXlYNktlWkgya1JnNQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5f5512e2b25dcbf0c240d1850a40c293602465108eed6c441bd5713a60fac305"
+    },
+    {
+      "id": "20260807-DP-0315A98E-211",
+      "title": "전세사기 피해주택 매입 1만호 넘어…피해자 지원도 7만 건 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T22:52:48+09:00",
+      "publishedAt": "2026-08-07T22:52:48+09:00",
+      "firstCollectedAt": "2026-08-09T13:47:32+09:00",
+      "updatedAt": "2026-08-09T13:47:32+09:00",
+      "summary": "전세사기 피해주택 매입 1만호 넘어…피해자 지원도 7만 건 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전세사기 피해주택 매입 1만호 넘어…피해자 지원도 7만 건 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwak1iYzZ2WEN0enhSQXBnMkw0LThXRXpsX0R3eS16MlFPMEdTSGNSOFY5R0RNU1phV0VacHF2TV9jVlNmQVdkejM5WmRhamlrX1hrb240Zzg3aTFjMkdCQmd2clpUMU5tWnJpUA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0315a98ed1857bdc65fef11e7431bc9df921726714acb281527f68c380394dd8"
+    },
     {
       "id": "20260731-DP-E6DC234D-054",
       "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
@@ -504,46 +755,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "f7bfbedec514094e16f84a94d5cdbe0ebae56a71f6fb5db8aa5a678fc2ba2b59"
-    },
-    {
-      "id": "20260807-DP-2B986695-206",
-      "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T16:52:09+09:00",
-      "publishedAt": "2026-08-07T16:52:09+09:00",
-      "firstCollectedAt": "2026-08-08T15:26:48+09:00",
-      "updatedAt": "2026-08-08T15:26:48+09:00",
-      "summary": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "정부, 부처 간 칸막이 허물고 '사용후 배터리' 관리 일원화 - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaXE0UzV4ZjI0bE5Rbmo0SUxiZlZkR3U3SVU5REpZSHd5Y0pJOFJXb3JUd19qRFpxWnp0Q3N0UVlTR05YdFBOSXV5VXJWZVpzOEJBMjlyS0s4dml3N3cxblp2cDQ2R1BPNFNXMURKX2RaWXdRSGZfbVpQcTJIQU5haWYyVFBEZmtseDNnRQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2b986695af6960ad6e7b9a70f2b2ad1bff15dde72a1248dd34e3103dad197693"
     },
     {
       "id": "20260805-DP-82F289E9-205",
@@ -1301,46 +1512,6 @@
       "contentHash": "bd3ef2f51ffc8cbeff77e3425dc9ea73fd62f64c6929bbac98a3d17c766ed47a"
     },
     {
-      "id": "20260807-DP-87A4998B-189",
-      "title": "우리법원 주요판결 - 서울행정법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "서울행정법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T19:24:32+09:00",
-      "publishedAt": "2026-08-07T19:24:32+09:00",
-      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
-      "updatedAt": "2026-08-07T21:30:48+09:00",
-      "summary": "우리법원 주요판결 서울행정법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "서울행정법원",
-          "title": "우리법원 주요판결 - 서울행정법원",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVHpFenltVTR2bE16VnZBZGNmcGlXRUVLLXJ4aTMyNTdJcVBIRHZpZUZmTDA2OTRieUJnMXpiNUM0MHJjdXhpeEFfTVFWd0c1dFBlT1VySHMwcUhSUktZQWZkMDE1V3FtM3hMSWNVYmxPTG9pdy1fVl9ZX0Q2amdDOVFUamRKQ2RfWkg1MlZlOEdoS2VVZVhocUlPbFRBajY3SWx0OUNBUEhTb2FtMW5LcHJSc1FvNkNIbmI5N01acGZ3OFFwdlBIc05kUXVMcm14Q0RnV0Rnd2t4Q3lHa1I0YkRmSzhwakxfODM3MnMwcWJDeENxZXRYZjJna2I4VFEwYTZhOEkwUmdBNVU0MjlaeUR3?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "87a4998beacb9a13d1b3eee5de96fe1e44460113483580b1f3d10134921fdf34"
-    },
-    {
       "id": "20260807-DP-D9912ED7-192",
       "title": "페이커가 말했습니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -1499,59 +1670,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "742b8bfbc8b5552d596f381afb3f01b288994b9948549daf499d02ee690f0f46"
-    },
-    {
-      "id": "20260807-DP-293AA810-172",
-      "title": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T08:45:01+09:00",
-      "publishedAt": "2026-08-07T08:45:01+09:00",
-      "firstCollectedAt": "2026-08-07T10:44:57+09:00",
-      "updatedAt": "2026-08-07T15:13:41+09:00",
-      "summary": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1JxVEEzU0tGaDBMZjhHaFVHcFc0YzVaUDROamp3SjBxY0VBN0tkWWJjVktJaTNIdFBQcm5MQ3hVRjdNUExQdWE0amp6bXctcUw1RVV2VVZhVUVVNWtzaXd0V2s5ZEhGcnMzZ1ltMG1hZXhfNy1BdHJrQWZJX0djQUFJOGNNWHowYVNudw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(설명자료) 국가R&D 성과 기술 해외 특허 지원에 관한 구체적인 내용은 확정되지 않았습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01ZndUbWswRzlVaThtWm42cms0Sk9PN3VNWEMyaWppd20tUG1HR25NdUMzcGdfWGdXRktGWE1PX2p1YUF0M2JjalNYR083X1RtRWxxenZnNjMxZlN3TTByY1hFaXZnSWtuNjhaZVFOdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-07T15:13:41+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "293aa810a2d68f983ba91bcafa89d484c46a3b31b48a913fcda163b9528dfcd5"
     },
     {
       "id": "20260805-FR-1C94F358-154",
