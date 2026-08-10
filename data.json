@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-10T14:08:59+09:00",
-    "nextScheduledUpdate": "2026-08-10T14:38:59+09:00",
+    "lastSuccessfulUpdate": "2026-08-10T19:04:34+09:00",
+    "nextScheduledUpdate": "2026-08-10T19:34:34+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-10T14:08:57+09:00",
-      "finishedAt": "2026-08-10T14:08:59+09:00",
+      "startedAt": "2026-08-10T19:04:31+09:00",
+      "finishedAt": "2026-08-10T19:04:34+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 24,
-      "duplicates": 21,
-      "rejected": 173,
-      "rejectedByDate": 172,
+      "acceptedCandidates": 20,
+      "duplicates": 10,
+      "rejected": 178,
+      "rejectedByDate": 177,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
-      "updatedIssues": 1,
+      "newIssues": 10,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-08-10T11:57:07+09:00",
       "publishedAt": "2026-08-10T11:57:07+09:00",
       "firstCollectedAt": "2026-08-10T14:08:58+09:00",
-      "updatedAt": "2026-08-10T14:08:58+09:00",
+      "updatedAt": "2026-08-10T19:04:33+09:00",
       "summary": "창업부터 재도전까지 성장사다리를 이어갑니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -95,6 +95,59 @@
           "date": "2026-08-10",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUhIdFhLT3FtZDBEV0lCZDZHeTI1UlRZMkZiZlN5aFZUcG8zdG9MN180WmROeGdPaUtxUk1scjRkVUpuempjckNLM2x3eW5Cc25RN3o2QkxtMkxWZmtjeWk1M0lsU1k5c19PQmFONGZDUEV2MVAzTVZFRDBVRFhMcWw0ekRTcTItMTlpQWhB?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "창업부터 재도전까지 성장사다리를 이어갑니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDRU9nTXdNMXFtWVc2S1Ftb3Y1eTg2YkNNNFQ1RXBVM0ZTXzlUTExNWUhwTHFMTW5DYWRaVHR5MDh0YU4yeUZjbXdudDN3dE16UWFiTkZwdWRFSUE1Mll4SlBwTnpycV8xQ1BfcXhn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-10T19:04:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "338869d8e9aa33577df32b61922645e09cd4d6258a1b2685c2f31d4652523faa"
+    },
+    {
+      "id": "20260810-FR-3B6125EA-230",
+      "title": "과기정통부 정례브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T16:22:04+09:00",
+      "publishedAt": "2026-08-10T16:22:04+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:33+09:00",
+      "updatedAt": "2026-08-10T19:04:33+09:00",
+      "summary": "과기정통부 정례브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "과기정통부 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWDNEYkxabk5rTkZXc0JkVVhhRnQteFlEWmpXeU9Yd1hTNUxsQlJBVGdJYndsSktXU3RSN1RkMzJFMEkwdlZsbDNYNGVIS3hQTktJSkZoSmYzMUhuQjBnWWNsNmJqeUxvU3g4Zno4Z01iNXZZSkZZ?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [],
@@ -102,7 +155,420 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "338869d8e9aa33577df32b61922645e09cd4d6258a1b2685c2f31d4652523faa"
+      "contentHash": "3b6125eae7058423befcb72f40cbb19e493d438b0dea494662161be076655c4b"
+    },
+    {
+      "id": "20260810-FR-9CD0B2A9-231",
+      "title": "태극기 들고 마주한 독도와 백령도…대한민국 주권과 호국보훈의 가치 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T14:35:48+09:00",
+      "publishedAt": "2026-08-10T14:35:48+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:33+09:00",
+      "updatedAt": "2026-08-10T19:04:33+09:00",
+      "summary": "태극기 들고 마주한 독도와 백령도…대한민국 주권과 호국보훈의 가치 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "태극기 들고 마주한 독도와 백령도…대한민국 주권과 호국보훈의 가치 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLVpQR3RqMmxwODBKT2otOHM3cHlRTTlzWHZ6OUVVNFdNTGVHVGFQZDNpNXdsbS0tN00yY1o2b3VXUnFJd3JHY0xLZzl2d194N1RDQUVLNXQtMU0wUjNrRWlXZVNDSXV6Zzl4bEtfci1XQzdFSTF5LXQ0eVZsdGQ5dGkxV01TejA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9cd0b2a93b19dd96cc19e1dbf936462ce8553c36296f8e0735a79986678bfb0f"
+    },
+    {
+      "id": "20260810-FR-86AC6E5B-232",
+      "title": "농촌 정상화 과제 7건 '가시적 성과'…친환경 쌀 복지시설 공급 등 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T17:09:18+09:00",
+      "publishedAt": "2026-08-10T17:09:18+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:33+09:00",
+      "updatedAt": "2026-08-10T19:04:33+09:00",
+      "summary": "농촌 정상화 과제 7건 '가시적 성과'…친환경 쌀 복지시설 공급 등 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농촌 정상화 과제 7건 '가시적 성과'…친환경 쌀 복지시설 공급 등 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSUlSS2k0Q1Z3TzliQ3BrMjJaRzc2OWlvR3BQMFd3V3JHOHdMSE9CTjdQVHpnTEZXc0RtMFVfU0x0ZlJQeWdQYk1pUF9VX3RMb3lTNVFWbG9GV1o4dllWeWNfNmFZMjltTllFQVlySUVEV1gxZG80V0pOVUZZZ3JyYWVaY2hKMjJSQmdOdA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "86ac6e5b4853fb6b57548fdaacceae3a08e433133023869ffc440f0c5b02fa72"
+    },
+    {
+      "id": "20260807-FR-E5C18622-233",
+      "title": "지방 신산업 창업 소득·법인세 최대 100% 감면…성장 지원 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T19:33:12+09:00",
+      "publishedAt": "2026-08-07T19:33:12+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:33+09:00",
+      "updatedAt": "2026-08-10T19:04:33+09:00",
+      "summary": "지방 신산업 창업 소득·법인세 최대 100% 감면…성장 지원 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방 신산업 창업 소득·법인세 최대 100% 감면…성장 지원 강화 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYS1peERpMVozd3ZmMThmZUQxU2xCOXpyQWF4dzVoRzJiRWlfeG9GYmxwSDlqcF9QYXRoZTU1RG1SQWJ6WWtnNElOZGpEWmtKZzJIYTgtZjkxbDg3TXg2bGV4dWU3RURfSXQzYlFrYnJ0Vm9IVHd5VWpvVzJuX0hQQ29Td2tFNTVsX0VfUA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e5c186222aaef2a8b05604e99e8a97cc696eb6cc233423839431a9d67dd21a2b"
+    },
+    {
+      "id": "20260810-FR-F23CAD85-234",
+      "title": "의료기관 '태움' 집중신고기간 운영…내달 9일까지, 비밀 보장 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T18:07:31+09:00",
+      "publishedAt": "2026-08-10T18:07:31+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:33+09:00",
+      "updatedAt": "2026-08-10T19:04:33+09:00",
+      "summary": "의료기관 '태움' 집중신고기간 운영…내달 9일까지, 비밀 보장 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "의료기관 '태움' 집중신고기간 운영…내달 9일까지, 비밀 보장 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN2FlSDUtdjRJYlRzdnhQdC1BTmhrODVBeDVrcG5WZmxiQ05wN25mdGFkQUxGQ01PRW1FZ25zQ3BXWHBUdWJ6aThBSGF4U0daNkItT2lqM0NGWVdSMUJINXhneWY1TWRnZ2pUZmI0QkozR29DQ1BxY1JoMFFJU0NWTkp4OUNvbzctaXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f23cad85e3d54d045b89626a5a6465b49ae9bb0025b5b953276b8faec0ad91fc"
+    },
+    {
+      "id": "20260810-DP-268E68BB-220",
+      "title": "[해명] 수도권 개발제한구역(그린벨트) 해제를 통한 주택공급 방안은 확정된 바 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T12:13:26+09:00",
+      "publishedAt": "2026-08-10T12:13:26+09:00",
+      "firstCollectedAt": "2026-08-10T14:08:57+09:00",
+      "updatedAt": "2026-08-10T19:04:32+09:00",
+      "summary": "[해명] 수도권 개발제한구역(그린벨트) 해제를 통한 주택공급 방안은 확정된 바 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] 수도권 개발제한구역(그린벨트) 해제를 통한 주택공급 방안은 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMmxsUWhWelN3WmVlODR0bk1iU0VWU0dvTTBNOGJrZjNrTW5hTXZqYW55dENiSzZBRW9GVVRLVzhJXzU5QmxfU0dsQkV6XzV1V2w4MmdnNjdfOWx5WVFsei1jTG1OSVVJT2dod01Ddw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] 수도권 개발제한구역(그린벨트) 해제를 통한 주택공급 방안은 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGp6TzEtUmdhNDdpQVYtRk5kUDk5VklWZnhYV0p5R3l4Wkg3ekRsYURqQWhTdGtlNFRMc1ZLLUE2ZFlnN1dzRVBTMFYxVk5jMjJaaGZPeEwyWTZsdElZVkg3ek5Pc1pHQVhwdngwWVdNVjd2ZXZuU05QTmZDSGNKaFdnUlZqWjlQSXQyczg4aw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-10T19:04:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "268e68bbfad30387ab12d33b8f873edb42617a19773467ab9e379cc874a4242f"
+    },
+    {
+      "id": "20260810-DP-56AB35E4-225",
+      "title": "전국법원 주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T14:37:13+09:00",
+      "publishedAt": "2026-08-10T14:37:13+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-08-10T19:04:32+09:00",
+      "summary": "전국법원 주요판결 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOQUJKSC05TzBvSm5XT2JjWDdUU2l6QWdhdm1fbjgyYVljMmFYS0pIcXpVRm52SF9BenkxMGF5UEpaaTZiaXVBc1A3WW5BY2gwRVB0YXdGeEEzY3YtRWNXV25Seng5WW4zcWFrSkVYak1pRWtMck5GWEVEM3lzM2JHdjBHTFNJUmM0QTgtTXpLQmswbVF3b2NVNlZ5ZmQ2WWllcVh4T0Z5UXR6X2VRVUI1VFRzODZBamlCV3R6dGc4OEIyX3NkZUxIQk5YaTdXZ2piSTFTRHBCb2puYnRsNzRaYl9oblpDU0JwLU5BMWZmQm9GaEVlVmJSWENTbkNYVTNhVGZXR1ZtVFV0bDlOQmQ3MHdSbUg5SG9NV1k0MlJ3UlJZTXJyOEVSd2RfUVdvS2hQU0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
+    },
+    {
+      "id": "20260810-DP-2B4454A5-226",
+      "title": "(보도설명) 2027년 난방 전기화 사업의 예산 규모 및 지원대상은 확정된 바 없음 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T15:26:23+09:00",
+      "publishedAt": "2026-08-10T15:26:23+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-08-10T19:04:32+09:00",
+      "summary": "(보도설명) 2027년 난방 전기화 사업의 예산 규모 및 지원대상은 확정된 바 없음 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 2027년 난방 전기화 사업의 예산 규모 및 지원대상은 확정된 바 없음 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUW8tWnJNNENfRl8zbldGaWlnTm1hcGlNb1FBb1BKdmNZc09pd3dDX1NvOEFoZ05ncTNENUlnRndTelQybmMwblhQWGg5eGZtLVYyanR4T0ZUOXdoVGZBVXpsUzNOQWJrVHpaUGNYSzNvYVhxckJ6eHNPRnkxdi14NlRuZEhRQ25CYVU5cQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2b4454a5f1b94cbce133d0bd33ea1bfb753a143b7e19adbf2416a3a322f5f387"
+    },
+    {
+      "id": "20260810-DP-78068D42-227",
+      "title": "제2기 노후계획도시정비특별위원회 출범…대전 기본계획안 심의 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T17:09:18+09:00",
+      "publishedAt": "2026-08-10T17:09:18+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-08-10T19:04:32+09:00",
+      "summary": "제2기 노후계획도시정비특별위원회 출범…대전 기본계획안 심의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제2기 노후계획도시정비특별위원회 출범…대전 기본계획안 심의 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnJJZVNRTmtOQ1ZRd0NSSWNmWUJKQ21NRENCekViX2Y0NFU4YWtDejVXTGMxUG51b08xQTF4WVo5aHhHWkROeTdVZmw1Skt2bzlzN0FBRWtGWEgyTl93RTRTcmxpeVAyMlJ4RGV2cVd5VWJKaTJDczFDOHJqa21aOXlWTzVoZHFTQ3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "78068d42ea2ac5ebadcfa52de405b11ee2574ed6ce98be0611a85f40c44016f2"
+    },
+    {
+      "id": "20260810-DP-1AB148D7-228",
+      "title": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T18:31:51+09:00",
+      "publishedAt": "2026-08-10T18:31:51+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-08-10T19:04:32+09:00",
+      "summary": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnFCT3JjN1NJZFJhRFEtTVRqQ0xaOFV0eTdFdVcyOFp0aEZZQkdWc3hsb3YwVHJPaDNySkctbTN4d2pXWlA2WWRVdi1vMksxUVJWalg3bUZoaTlLamx3cHZOM2NRSFRKUG5CZmtyRGlqUlYzLVpjNTJzd1hzRU1GU09rS29pRVF3Y0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1ab148d777ef307795bf5a40d04d888933c54c99c79fb4265e585a99b3d02e6c"
+    },
+    {
+      "id": "20260810-DP-AB14EDE1-229",
+      "title": "금융위 \"단일종목 레버리지 상품 보완방안 신속 추진\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T17:19:47+09:00",
+      "publishedAt": "2026-08-10T17:19:47+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-08-10T19:04:32+09:00",
+      "summary": "금융위 \"단일종목 레버리지 상품 보완방안 신속 추진\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위 \"단일종목 레버리지 상품 보완방안 신속 추진\" - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNUEtMGlMZTJDTjdOTFZzQU90bXRDdGo0Z1VmQ1loNms0MWZDQllMbUFRclpwVlVPQnRoTUdoMjZvOVBOZDRnWEMwOWFsWGU5N1RieEJqVF9LZmo4VWpDWGdVY09XMlNCekwxY2htVWxHa0dFNnplRmtYeVdwWUpBcTR5d3FibHpkSk9HWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ab14ede1dc8ef64044097ef0668763e2dbcfabfb6e75926a594f4e3386a5638d"
     },
     {
       "id": "20260810-FR-5874D405-223",
@@ -260,46 +726,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "293aa810a2d68f983ba91bcafa89d484c46a3b31b48a913fcda163b9528dfcd5"
-    },
-    {
-      "id": "20260810-DP-268E68BB-220",
-      "title": "[해명] 수도권 개발제한구역(그린벨트) 해제를 통한 주택공급 방안은 확정된 바 없습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-10T12:13:26+09:00",
-      "publishedAt": "2026-08-10T12:13:26+09:00",
-      "firstCollectedAt": "2026-08-10T14:08:57+09:00",
-      "updatedAt": "2026-08-10T14:08:57+09:00",
-      "summary": "[해명] 수도권 개발제한구역(그린벨트) 해제를 통한 주택공급 방안은 확정된 바 없습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[해명] 수도권 개발제한구역(그린벨트) 해제를 통한 주택공급 방안은 확정된 바 없습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVMmxsUWhWelN3WmVlODR0bk1iU0VWU0dvTTBNOGJrZjNrTW5hTXZqYW55dENiSzZBRW9GVVRLVzhJXzU5QmxfU0dsQkV6XzV1V2w4MmdnNjdfOWx5WVFsei1jTG1OSVVJT2dod01Ddw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "268e68bbfad30387ab12d33b8f873edb42617a19773467ab9e379cc874a4242f"
     },
     {
       "id": "20260810-DP-6957D66B-221",
