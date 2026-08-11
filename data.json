@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-11T17:15:21+09:00",
-    "nextScheduledUpdate": "2026-08-11T17:45:21+09:00",
+    "lastSuccessfulUpdate": "2026-08-11T20:13:04+09:00",
+    "nextScheduledUpdate": "2026-08-11T20:43:04+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-11T17:15:19+09:00",
-      "finishedAt": "2026-08-11T17:15:21+09:00",
+      "startedAt": "2026-08-11T20:13:01+09:00",
+      "finishedAt": "2026-08-11T20:13:04+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 22,
-      "duplicates": 17,
-      "rejected": 174,
-      "rejectedByDate": 173,
+      "acceptedCandidates": 27,
+      "duplicates": 25,
+      "rejected": 169,
+      "rejectedByDate": 168,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 7,
-      "updatedIssues": 2,
+      "newIssues": 5,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,283 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260811-FR-9D2ADFEF-252",
+      "title": "지속된 폭염 '비상대응' - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T17:57:20+09:00",
+      "publishedAt": "2026-08-11T17:57:20+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:02+09:00",
+      "updatedAt": "2026-08-11T20:13:02+09:00",
+      "summary": "지속된 폭염 '비상대응' - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지속된 폭염 '비상대응' - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xd0VONG9XbzNVS1hPV3A0R3ROazNObzRxMzJOTGxxN3BucEozZlBCc1lKVnZEME1QbE1Ga180OGdyTGViS1M1bkNETGFkd0FBU0JjZG5MdE02ckh5bks1Vkl2aHdOcm8?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9d2adfefa342566fda6e96a74290afbfc5584f106266fce53238078329fc3926"
+    },
+    {
+      "id": "20260807-DP-87A4998B-189",
+      "title": "우리법원 주요판결 - 서울행정법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "서울행정법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-07T19:24:32+09:00",
+      "publishedAt": "2026-08-07T19:24:32+09:00",
+      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
+      "updatedAt": "2026-08-11T20:13:01+09:00",
+      "summary": "우리법원 주요판결 서울행정법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "서울행정법원",
+          "title": "우리법원 주요판결 - 서울행정법원",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVHpFenltVTR2bE16VnZBZGNmcGlXRUVLLXJ4aTMyNTdJcVBIRHZpZUZmTDA2OTRieUJnMXpiNUM0MHJjdXhpeEFfTVFWd0c1dFBlT1VySHMwcUhSUktZQWZkMDE1V3FtM3hMSWNVYmxPTG9pdy1fVl9ZX0Q2amdDOVFUamRKQ2RfWkg1MlZlOEdoS2VVZVhocUlPbFRBajY3SWx0OUNBUEhTb2FtMW5LcHJSc1FvNkNIbmI5N01acGZ3OFFwdlBIc05kUXVMcm14Q0RnV0Rnd2t4Q3lHa1I0YkRmSzhwakxfODM3MnMwcWJDeENxZXRYZjJna2I4VFEwYTZhOEkwUmdBNVU0MjlaeUR3?oc=5",
+          "official": true
+        },
+        {
+          "name": "서울행정법원",
+          "title": "우리법원 주요판결 - 서울행정법원",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPd0ZzTW94MlpMMjg0LXVuWnBrOTRWUWFOS3lEaVluNk9EdnBTWkFxMlIxbEZFMnBtdnRtX2FLQzBzaG10Rkl6dS16dVpZdGhaZThPeWZiWUdmQmRPQlFrSXJ4SDgtWnpaU2lWeWRGemRKUkJrNHBIelRMXzc4RnhPVXB1enNmdkNJTVlNWWgyS1FYV05EQnE2R09XMmpVLTJ2dkJ6NkNvbHM3R0gxcTg0RndHTGlPV183WTVPT3ZackN5WDh6QU9XZkk2bWFOTm5sdjJIQzA3b1hZTlBmb2twMFk0eHdQcDJTNVBDb1c2Wjd3YW43RkYwMWF2MVQwdWdOTkVXMTZYV3hmMlJLUVh1T2lR?oc=5",
+          "official": true
+        },
+        {
+          "name": "서울행정법원",
+          "title": "우리법원 주요판결 - 서울행정법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVklJY3FMQ3Jqck15Q2Nud3VvcmNRNmFyVXJ2Wjk0X3BTSWxzYll3d0g1cDUySWtFMDBMb0EydUNSWHloOXE2VlVQNDBfVVpZNzEwQjNuUGk0aHV6alpJOVZJLXBKdWE1NnluQTl2Z3pyQXd2ME9mS0ZTSFVWSWhfRFBPUldiNXRUNVJhLXN2Mmx3ZURhUUhTWnpWVXlTeHNjd3Nfa0xuWGJ1bk5ydFdvZW1mRmxXR3RHYUg3QlhjMlg5VzY1WmlhaUFWUTNsd2J4NFcxYURKLWtiVmU2SVFxRkFxVFZfOUF4amF4ZWtyNUZ6MVdNMmJrVnRmX3VOQ2RfczZ6QmVlWEVsa3hUVFNFMGpB?oc=5",
+          "official": true
+        },
+        {
+          "name": "서울행정법원",
+          "title": "우리법원 주요판결 - 서울행정법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOFI0Ul9Ja2x6MHNtSkdVVmIzUll2MDMxU3ZScHd2OG5ySEJiRFlOcjhfVXFKYTFPMU5Na0ZaUjJQTlB6WDJ4ekFpTVRLSVFxSHRlQVZsZ2RINWp6QlNOUUg2amhiYkl2VWxtSUVhcE5HRW9meTIyVGJSVC1VUG93UzRFV3F6bkZIVklydEd6OFN3bDhiamtvcTJaaUlzcERMUi1WY1ZlOEh1UTlvNDF5bmNzdmZZdnQ0ZlFZeDUzM3hPSDZuMjFwWjJaNmdYUU1yZFBvTnNKTFBaS0pTU0RwbmQ0RUJGbk9xZ3FoUWMzcDRzVlU5R0hsRmtRMGc3Vi1sMGxLZTY1NWxmSzIyTS04T093?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-09T13:47:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-11T13:08:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-11T20:13:01+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "87a4998beacb9a13d1b3eee5de96fe1e44460113483580b1f3d10134921fdf34"
+    },
+    {
+      "id": "20260811-DP-85966D62-248",
+      "title": "소규모 주택 공동관리비 중개 설명 의무화…28일부터 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T17:27:44+09:00",
+      "publishedAt": "2026-08-11T17:27:44+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-11T20:13:01+09:00",
+      "summary": "소규모 주택 공동관리비 중개 설명 의무화…28일부터 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소규모 주택 공동관리비 중개 설명 의무화…28일부터 시행 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LQWl2b0E0dkxidHFfU0RYbzcybUQyRERLQ2VGeGY1WHRObWdsWE1ybDF0ZzlqeE1MSU95eUVIUnFOZk52U09mU083cHJXZjhMcTEwRlhZMDJQSGRZV2lhb2RScnJFWC0td2FNZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "85966d62c507dc492146ad89d01ba39e2747aa9b2636bcf90a93d5090c1095e7"
+    },
+    {
+      "id": "20260811-DP-4AD5D827-249",
+      "title": "새소식 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T15:51:29+09:00",
+      "publishedAt": "2026-08-11T15:51:29+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-11T20:13:01+09:00",
+      "summary": "새소식 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ1WXB1eGc1RHo2b2ZzMnpvdjhSR0VWNjFTb1ptMDVLU09uclBpcUFtTkpzZGd1Y291WUU1T1dsazMyYnJTdGI3ZFNxQVVJUURTelR6XzhSQ1dVUDZKYU8xRjlDdkNMdU52NV9YbVRIN29IdnZJalk4VnU5amdLcjN4U0hkNF9yVEhN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
+    },
+    {
+      "id": "20260811-DP-00E6F19F-250",
+      "title": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T18:17:23+09:00",
+      "publishedAt": "2026-08-11T18:17:23+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-11T20:13:01+09:00",
+      "summary": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3E2X3k1YWItT0FYWEE5VFZUMnpPbVpPbjhoajU0TzR4eTFHYTVhYjFHX2ZpX0o5QTNSNTZheTRCM1BDVExMZWN2b2pfNS0zbXlnSXhkVDJkZjVFdm5xSDhXdTVMMTB5MFl1ZUtaTVREX2p4bmpxdjJ1YU9LcjQ0TjlRS0I5T3Z3TGFRNg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "00e6f19f59a63bf7b37b8929e0671ecfdd78c8b6d3f7710e3fc47e29563448eb"
+    },
+    {
+      "id": "20260811-DP-5C03C616-251",
+      "title": "제35회 국무회의 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T18:04:24+09:00",
+      "publishedAt": "2026-08-11T18:04:24+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-11T20:13:01+09:00",
+      "summary": "제35회 국무회의 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제35회 국무회의 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTRWaklXSGYxeW9PVFBlZnMyRm5vT0Fpd09zY0tWS2FLcmNhMEExVmZzTmdKa2xUMFRmWno5R181anUzZzhmeXdCUzlrMlZXU1pzM3otWHlud0djRkVNbWJkS2JEd25BOEdkSUJfdVRzcnc3bFJ3cURTVU1VNGVaTmFiU01EU1NRb19JLWRB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5c03c616f59b649b33e2030da4144bd5aa9850911c7533be4a8dceac63ca95a0"
+    },
     {
       "id": "20260810-FR-9CD0B2A9-231",
       "title": "태극기 들고 마주한 독도와 백령도…대한민국 주권과 호국보훈의 가치 - 대한민국 정책브리핑",
@@ -585,71 +862,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
-    },
-    {
-      "id": "20260807-DP-87A4998B-189",
-      "title": "우리법원 주요판결 - 서울행정법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "서울행정법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-07T19:24:32+09:00",
-      "publishedAt": "2026-08-07T19:24:32+09:00",
-      "firstCollectedAt": "2026-08-07T21:30:48+09:00",
-      "updatedAt": "2026-08-11T13:08:03+09:00",
-      "summary": "우리법원 주요판결 서울행정법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "서울행정법원",
-          "title": "우리법원 주요판결 - 서울행정법원",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVHpFenltVTR2bE16VnZBZGNmcGlXRUVLLXJ4aTMyNTdJcVBIRHZpZUZmTDA2OTRieUJnMXpiNUM0MHJjdXhpeEFfTVFWd0c1dFBlT1VySHMwcUhSUktZQWZkMDE1V3FtM3hMSWNVYmxPTG9pdy1fVl9ZX0Q2amdDOVFUamRKQ2RfWkg1MlZlOEdoS2VVZVhocUlPbFRBajY3SWx0OUNBUEhTb2FtMW5LcHJSc1FvNkNIbmI5N01acGZ3OFFwdlBIc05kUXVMcm14Q0RnV0Rnd2t4Q3lHa1I0YkRmSzhwakxfODM3MnMwcWJDeENxZXRYZjJna2I4VFEwYTZhOEkwUmdBNVU0MjlaeUR3?oc=5",
-          "official": true
-        },
-        {
-          "name": "서울행정법원",
-          "title": "우리법원 주요판결 - 서울행정법원",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPd0ZzTW94MlpMMjg0LXVuWnBrOTRWUWFOS3lEaVluNk9EdnBTWkFxMlIxbEZFMnBtdnRtX2FLQzBzaG10Rkl6dS16dVpZdGhaZThPeWZiWUdmQmRPQlFrSXJ4SDgtWnpaU2lWeWRGemRKUkJrNHBIelRMXzc4RnhPVXB1enNmdkNJTVlNWWgyS1FYV05EQnE2R09XMmpVLTJ2dkJ6NkNvbHM3R0gxcTg0RndHTGlPV183WTVPT3ZackN5WDh6QU9XZkk2bWFOTm5sdjJIQzA3b1hZTlBmb2twMFk0eHdQcDJTNVBDb1c2Wjd3YW43RkYwMWF2MVQwdWdOTkVXMTZYV3hmMlJLUVh1T2lR?oc=5",
-          "official": true
-        },
-        {
-          "name": "서울행정법원",
-          "title": "우리법원 주요판결 - 서울행정법원",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVklJY3FMQ3Jqck15Q2Nud3VvcmNRNmFyVXJ2Wjk0X3BTSWxzYll3d0g1cDUySWtFMDBMb0EydUNSWHloOXE2VlVQNDBfVVpZNzEwQjNuUGk0aHV6alpJOVZJLXBKdWE1NnluQTl2Z3pyQXd2ME9mS0ZTSFVWSWhfRFBPUldiNXRUNVJhLXN2Mmx3ZURhUUhTWnpWVXlTeHNjd3Nfa0xuWGJ1bk5ydFdvZW1mRmxXR3RHYUg3QlhjMlg5VzY1WmlhaUFWUTNsd2J4NFcxYURKLWtiVmU2SVFxRkFxVFZfOUF4amF4ZWtyNUZ6MVdNMmJrVnRmX3VOQ2RfczZ6QmVlWEVsa3hUVFNFMGpB?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-09T13:47:32+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-11T13:08:03+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "87a4998beacb9a13d1b3eee5de96fe1e44460113483580b1f3d10134921fdf34"
     },
     {
       "id": "20260811-DP-9CD3E490-237",
