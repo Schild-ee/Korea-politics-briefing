@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-11T23:47:30+09:00",
-    "nextScheduledUpdate": "2026-08-12T00:17:30+09:00",
+    "lastSuccessfulUpdate": "2026-08-12T03:08:42+09:00",
+    "nextScheduledUpdate": "2026-08-12T03:38:42+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-11T23:47:28+09:00",
-      "finishedAt": "2026-08-11T23:47:30+09:00",
+      "startedAt": "2026-08-12T03:08:40+09:00",
+      "finishedAt": "2026-08-12T03:08:42+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 27,
-      "duplicates": 27,
-      "rejected": 169,
-      "rejectedByDate": 168,
+      "acceptedCandidates": 28,
+      "duplicates": 31,
+      "rejected": 168,
+      "rejectedByDate": 167,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
+      "newIssues": 0,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260811-DP-00E6F19F-250",
+      "title": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T18:17:23+09:00",
+      "publishedAt": "2026-08-11T18:17:23+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-12T03:08:41+09:00",
+      "summary": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3E2X3k1YWItT0FYWEE5VFZUMnpPbVpPbjhoajU0TzR4eTFHYTVhYjFHX2ZpX0o5QTNSNTZheTRCM1BDVExMZWN2b2pfNS0zbXlnSXhkVDJkZjVFdm5xSDhXdTVMMTB5MFl1ZUtaTVREX2p4bmpxdjJ1YU9LcjQ0TjlRS0I5T3Z3TGFRNg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95TWhaZkhsaG4tN1Z0bms2b3R6NzJjQm9wSllMb2E5XzQyUjBjWGU0a3lPX1JtNDlIejF1VUhqVVQ2V1VWaVRFV2dSVmhLT2xBbERKM2dnOC1MazR4Y3RvQ040YU1kRGdtcTRIaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-12T03:08:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "00e6f19f59a63bf7b37b8929e0671ecfdd78c8b6d3f7710e3fc47e29563448eb"
+    },
     {
       "id": "20260810-FR-86AC6E5B-232",
       "title": "농촌 정상화 과제 7건 '가시적 성과'…친환경 쌀 복지시설 공급 등 - 대한민국 정책브리핑",
@@ -434,46 +487,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
-    },
-    {
-      "id": "20260811-DP-00E6F19F-250",
-      "title": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T18:17:23+09:00",
-      "publishedAt": "2026-08-11T18:17:23+09:00",
-      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
-      "updatedAt": "2026-08-11T20:13:01+09:00",
-      "summary": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "재생에너지 이격거리 규제 상한 도입…태양광 200m, 풍력 1500m - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3E2X3k1YWItT0FYWEE5VFZUMnpPbVpPbjhoajU0TzR4eTFHYTVhYjFHX2ZpX0o5QTNSNTZheTRCM1BDVExMZWN2b2pfNS0zbXlnSXhkVDJkZjVFdm5xSDhXdTVMMTB5MFl1ZUtaTVREX2p4bmpxdjJ1YU9LcjQ0TjlRS0I5T3Z3TGFRNg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "00e6f19f59a63bf7b37b8929e0671ecfdd78c8b6d3f7710e3fc47e29563448eb"
     },
     {
       "id": "20260811-DP-5C03C616-251",
