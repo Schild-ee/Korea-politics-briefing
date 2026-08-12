@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-12T21:35:34+09:00",
-    "nextScheduledUpdate": "2026-08-12T22:05:34+09:00",
+    "lastSuccessfulUpdate": "2026-08-13T00:44:05+09:00",
+    "nextScheduledUpdate": "2026-08-13T01:14:05+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-12T21:35:31+09:00",
-      "finishedAt": "2026-08-12T21:35:34+09:00",
+      "startedAt": "2026-08-13T00:44:02+09:00",
+      "finishedAt": "2026-08-13T00:44:05+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 47,
+      "acceptedCandidates": 48,
       "duplicates": 44,
-      "rejected": 151,
-      "rejectedByDate": 150,
-      "rejectedByRelevance": 1,
+      "rejected": 149,
+      "rejectedByDate": 147,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
-      "updatedIssues": 0,
+      "newIssues": 2,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,6 +65,351 @@
   },
   "issues": [
     {
+      "id": "20260812-DP-FFD1078B-282",
+      "title": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T20:37:30+09:00",
+      "publishedAt": "2026-08-12T20:37:30+09:00",
+      "firstCollectedAt": "2026-08-12T21:35:33+09:00",
+      "updatedAt": "2026-08-13T00:44:04+09:00",
+      "summary": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXlOR0NjMW41MDVJaVpqWlpRZ2ljYUVvVlZaaWV6eEd2djRoLWpjOExibS11QUNQTDFVTkV2bllrblp6UDUxUVlyRDItR2xoYzlISWM1ekpzbVJQR0R0Q25iQVdtNjdjQlluZ0VaUGU5ZUg3Z01qWVdlS2FFSjJ0QUEwejRmLUl4bmc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQam42d1JRZVFYeElHVUcwQXE4ajNZdF91dnFkZ3ZfM2ktU1AwZWJsb1BRVVNmUUJzdkZneDBLeWxURmkxYmpDTUpfVW5nLVcyYzVOV2U0TUJ0TjN6VWFYOG9COC1kWlVqd3lSR2NUem9oUDRjSGNxYW9Hd1l1djhyLWM3eHZVblBpekE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T00:44:04+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ffd1078b5a9380b1c57998dcd090ff22f19be9d403effc04d92bfc953d58f5f8"
+    },
+    {
+      "id": "20260812-DP-EBE2AA79-265",
+      "title": "마을기업 새로운 도약을 시작합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T15:46:59+09:00",
+      "publishedAt": "2026-08-12T15:46:59+09:00",
+      "firstCollectedAt": "2026-08-12T18:43:50+09:00",
+      "updatedAt": "2026-08-13T00:44:03+09:00",
+      "summary": "마을기업 새로운 도약을 시작합니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "마을기업 새로운 도약을 시작합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanVsQzNvdWhYQmdsTjRhU25IMmNGaE15TlIyNDg4dllDWjloQjYxUU9pWjYwSThEci1jazhGNU1nQnY3MjJCdTh6bFZMZjk1blo3a1RDTTljQ2FwU2hTeDNMT3JqazIxQ19jc3dTd2pwYWZ5Nkl6XzhJSTIwTU9uOGdWUmxPdlhjcndj?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "마을기업 새로운 도약을 시작합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWtrdVlvR3JNQnlRODR1NnpHUWFiX3Vnd2p0R1dqSGxvb1hRUHh1VXNxd2gzSHFWZXVORHp0V1Q1dlFpSm90b2EzRVBsMUdnMXRoRS1zTXpDbGZ4cDVRWWhLU1JFNmlVVF9vVUQ0M0NhWVQycVc3b1FXbklzZXVGTENUWkhPV19oSW1J?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T00:44:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ebe2aa797eb9dfc6d435e9ae7255b31afc66806d3cb131e7d34222714b39c7b7"
+    },
+    {
+      "id": "20260812-DP-25410A1B-268",
+      "title": "오직 이곳에서만 가능한 특별한 경험? 국립목포해양대학교의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T17:32:03+09:00",
+      "publishedAt": "2026-08-12T17:32:03+09:00",
+      "firstCollectedAt": "2026-08-12T18:43:50+09:00",
+      "updatedAt": "2026-08-13T00:44:03+09:00",
+      "summary": "오직 이곳에서만 가능한 특별한 경험? 국립목포해양대학교의 모든 것 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "오직 이곳에서만 가능한 특별한 경험? 국립목포해양대학교의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWhzMUItazBXU3BCOXBhbUtFM0VEcEhud21SNC1sbUY1UlMxdXBrYnFkNHBfUk8xWWpTT3plaHZac1JpSldEVEZQTGRuWjBkTDFXME1kM3hEZGVvOG0ycUNrOVdJWVhPZXRDTDN6el9PZmF3TnFhTG9iam80UVAtNDZicUY?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "오직 이곳에서만 가능한 특별한 경험? 국립목포해양대학교의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUm55RVByMnhKakZkaXJZMzNfTDB5MHJkVWc0ZWs0VVVvZHFNUzlSdUF1VzRFQWJ5Wnc1a193cmdMclBWUXp4WWdxamFCQjJHT3MwcDJ1YVkyUTZsMnNjMUdZdnVWejlwdGp3Y3U0UFJoQURvNFZ3LWdKMHdyUlRKa0w5LXJJdnY5SHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T00:44:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "25410a1b47b05789e465edc561d4bb3073202675f8fc064a6e195346e14cf725"
+    },
+    {
+      "id": "20260804-DP-604DB28B-109",
+      "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T17:15:44+09:00",
+      "publishedAt": "2026-08-04T17:15:44+09:00",
+      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
+      "updatedAt": "2026-08-13T00:44:03+09:00",
+      "summary": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91NmR3SUNoUE1HQnlqVUNKcEJRU3hoMFpKM3JzOVZJdy1rbFY0alJ5SVFTbnRUcjJIdGZZM0F2VjZ1QmhsdzlRU2tMMXZtV2FJWEItM1pNaEtxdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 청와대",
+          "title": "제35회 국무회의 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRkl2Y1hsMk5USVpVazVLR21vZi1yeTJtbElwc2wyUlZfQjBQQnNoeHhrcXpqT3MwZ0w0cE9LTmRZbXhuemctS2hWcGpMOFJMdERKS3hqVnhFZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T00:44:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "604db28b7235537b0d90017851acd28ef98c976b3a3df2b7d62da6fc5ed704ef"
+    },
+    {
+      "id": "20260729-DP-90BDBD99-001",
+      "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T21:03:27+09:00",
+      "publishedAt": "2026-07-29T21:03:27+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-08-13T00:44:03+09:00",
+      "summary": "제26차 방송미디어통신위원회 전체회의 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zc1N4bDhOeHZGR1pZSndaWlZJUXRJYTVQU0FSeEo4S05aYVZUcjUwTUdBYVk2R3QyMkUwX3E1bmtfTUQ2WFRnVHNncmlaT29tMlFPRzJWX3R0LTczUkJ4dzR4WXEzVjE3Q0RIc2JaTGc2THQwMTdN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제27차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2gycWZBaGdoV3FhUzNqbndrVTlid29uSEF2c2lsTklMMV93UTR4REotU2cwaldOQ3o2Z1hPTHZWd1dzZjY0UXdUcWtkSE45SHZ0M0lqcnBqQTRLOFgwTEpVOGZ1Q004cEhjRDNUdFBTVWV0Vk10aFB3WG1nel9DaTc1dmxtWWdoNkhmVzNoQ1NwU3hD?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T00:44:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "90bdbd993bd328457824b8231b14a2c3c02edecdf5de00555e7396af86ca6e8d"
+    },
+    {
+      "id": "20260812-DP-5F1CB7CB-284",
+      "title": "금융위 \"금융행정 쇄신방안 확정된 바 없어\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T22:37:45+09:00",
+      "publishedAt": "2026-08-12T22:37:45+09:00",
+      "firstCollectedAt": "2026-08-13T00:44:03+09:00",
+      "updatedAt": "2026-08-13T00:44:03+09:00",
+      "summary": "금융위 \"금융행정 쇄신방안 확정된 바 없어\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위 \"금융행정 쇄신방안 확정된 바 없어\" - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCQlVJUnhzVzZkVHVMRERKQVJVdUw0WGx4UlZaaGp2WnVZWU9FaWlnNV9SVUJMZ00wQ1AzQmVYUm42bmRleUg1SmVLMUJlSzlVVi1zVGcwc0xKVVl1V2V0SUxQLUlMNTZ0ZFJmQ3V2Yw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5f1cb7cb732d4ffb16bc679ed9711333b362225f08766a6e36c144296628b364"
+    },
+    {
+      "id": "20260812-DP-D38FDC40-285",
+      "title": "내항선사와 장기계약하면 세액공제 혜택이 생깁니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T15:45:26+09:00",
+      "publishedAt": "2026-08-12T15:45:26+09:00",
+      "firstCollectedAt": "2026-08-13T00:44:03+09:00",
+      "updatedAt": "2026-08-13T00:44:03+09:00",
+      "summary": "내항선사와 장기계약하면 세액공제 혜택이 생깁니다! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내항선사와 장기계약하면 세액공제 혜택이 생깁니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOazNJOFNCallDQjFIOEdtVjN5M2xfbkRsY3RLVXEyWkhxXzRhX1hnTDJUS2tDcm1zTzE2dXprYkdjakhPLW1tZmoxX0RtNTlzcS0zSmNqdFlWWC01TmJPMW1qUmxOeE5mUWlMck9qQUR6c1Q0M1NsVm8ydzFiX1JGR1g1Uzg3V3ZRT1Iw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d38fdc40e51b60342b1032243bd166dfe73b8c04c7c86c482f854df8a796a170"
+    },
+    {
       "id": "20260811-FR-70C9D860-281",
       "title": "가뭄·폭염 관련 현장 점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -103,46 +448,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "70c9d8602a9b8b999f940564d2b2cc051b25338c682c3e64aea074fe901126c1"
-    },
-    {
-      "id": "20260812-DP-FFD1078B-282",
-      "title": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-12T20:37:30+09:00",
-      "publishedAt": "2026-08-12T20:37:30+09:00",
-      "firstCollectedAt": "2026-08-12T21:35:33+09:00",
-      "updatedAt": "2026-08-12T21:35:33+09:00",
-      "summary": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" - 대한민국 정책브리핑",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWXlOR0NjMW41MDVJaVpqWlpRZ2ljYUVvVlZaaWV6eEd2djRoLWpjOExibS11QUNQTDFVTkV2bllrblp6UDUxUVlyRDItR2xoYzlISWM1ekpzbVJQR0R0Q25iQVdtNjdjQlluZ0VaUGU5ZUg3Z01qWVdlS2FFSjJ0QUEwejRmLUl4bmc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ffd1078b5a9380b1c57998dcd090ff22f19be9d403effc04d92bfc953d58f5f8"
     },
     {
       "id": "20260812-DP-AAF88BB6-283",
@@ -743,46 +1048,6 @@
       "contentHash": "33841bef471c4c228e0298eeef6dafe319e4bcffd6bb304dd323640fe76b3c30"
     },
     {
-      "id": "20260812-DP-EBE2AA79-265",
-      "title": "마을기업 새로운 도약을 시작합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-12T15:46:59+09:00",
-      "publishedAt": "2026-08-12T15:46:59+09:00",
-      "firstCollectedAt": "2026-08-12T18:43:50+09:00",
-      "updatedAt": "2026-08-12T18:43:50+09:00",
-      "summary": "마을기업 새로운 도약을 시작합니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "마을기업 새로운 도약을 시작합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanVsQzNvdWhYQmdsTjRhU25IMmNGaE15TlIyNDg4dllDWjloQjYxUU9pWjYwSThEci1jazhGNU1nQnY3MjJCdTh6bFZMZjk1blo3a1RDTTljQ2FwU2hTeDNMT3JqazIxQ19jc3dTd2pwYWZ5Nkl6XzhJSTIwTU9uOGdWUmxPdlhjcndj?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ebe2aa797eb9dfc6d435e9ae7255b31afc66806d3cb131e7d34222714b39c7b7"
-    },
-    {
       "id": "20260812-DP-D036D0A7-266",
       "title": "주차장·도시공간 등 일상 속 로봇 운행 허용…'특별법' 제정 속도 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -861,46 +1126,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "c26db3b1c0626582597cc66b60f0cdd014b25c5db7f68e41ff85b2f79ffb8f29"
-    },
-    {
-      "id": "20260812-DP-25410A1B-268",
-      "title": "오직 이곳에서만 가능한 특별한 경험? 국립목포해양대학교의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-12T17:32:03+09:00",
-      "publishedAt": "2026-08-12T17:32:03+09:00",
-      "firstCollectedAt": "2026-08-12T18:43:50+09:00",
-      "updatedAt": "2026-08-12T18:43:50+09:00",
-      "summary": "오직 이곳에서만 가능한 특별한 경험? 국립목포해양대학교의 모든 것 - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "오직 이곳에서만 가능한 특별한 경험? 국립목포해양대학교의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWhzMUItazBXU3BCOXBhbUtFM0VEcEhud21SNC1sbUY1UlMxdXBrYnFkNHBfUk8xWWpTT3plaHZac1JpSldEVEZQTGRuWjBkTDFXME1kM3hEZGVvOG0ycUNrOVdJWVhPZXRDTDN6el9PZmF3TnFhTG9iam80UVAtNDZicUY?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "25410a1b47b05789e465edc561d4bb3073202675f8fc064a6e195346e14cf725"
     },
     {
       "id": "20260812-DP-B8B6279C-269",
@@ -7901,46 +8126,6 @@
       "contentHash": "247560a708c583cb8befaa157a3d96ecfdcb4411a783b97e3bd84ab9754fcabe"
     },
     {
-      "id": "20260804-DP-604DB28B-109",
-      "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T17:15:44+09:00",
-      "publishedAt": "2026-08-04T17:15:44+09:00",
-      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
-      "updatedAt": "2026-08-05T01:25:21+09:00",
-      "summary": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91NmR3SUNoUE1HQnlqVUNKcEJRU3hoMFpKM3JzOVZJdy1rbFY0alJ5SVFTbnRUcjJIdGZZM0F2VjZ1QmhsdzlRU2tMMXZtV2FJWEItM1pNaEtxdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "604db28b7235537b0d90017851acd28ef98c976b3a3df2b7d62da6fc5ed704ef"
-    },
-    {
       "id": "20260805-DP-F4B6E86C-110",
       "title": "중대범죄수사청 개청 진행상황 관련 브리핑 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -11406,46 +11591,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "526badfd717e7d3d86c40382718f0b04de42b6c45c1fe3de4a1a5fe45e67e02d"
-    },
-    {
-      "id": "20260729-DP-90BDBD99-001",
-      "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-29T21:03:27+09:00",
-      "publishedAt": "2026-07-29T21:03:27+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-07-31T16:19:10+09:00",
-      "summary": "제26차 방송미디어통신위원회 전체회의 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-07-29",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zc1N4bDhOeHZGR1pZSndaWlZJUXRJYTVQU0FSeEo4S05aYVZUcjUwTUdBYVk2R3QyMkUwX3E1bmtfTUQ2WFRnVHNncmlaT29tMlFPRzJWX3R0LTczUkJ4dzR4WXEzVjE3Q0RIc2JaTGc2THQwMTdN?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "90bdbd993bd328457824b8231b14a2c3c02edecdf5de00555e7396af86ca6e8d"
     },
     {
       "id": "20260728-DP-78910749-002",
