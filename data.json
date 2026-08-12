@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-13T00:44:05+09:00",
-    "nextScheduledUpdate": "2026-08-13T01:14:05+09:00",
+    "lastSuccessfulUpdate": "2026-08-13T04:51:29+09:00",
+    "nextScheduledUpdate": "2026-08-13T05:21:29+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-13T00:44:02+09:00",
-      "finishedAt": "2026-08-13T00:44:05+09:00",
+      "startedAt": "2026-08-13T04:51:26+09:00",
+      "finishedAt": "2026-08-13T04:51:29+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 48,
-      "duplicates": 44,
-      "rejected": 149,
-      "rejectedByDate": 147,
+      "acceptedCandidates": 47,
+      "duplicates": 43,
+      "rejected": 150,
+      "rejectedByDate": 148,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 5,
+      "newIssues": 4,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,328 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260811-DP-EFF0D25F-253",
+      "title": "이 대통령 \"세종·충청이 새 균형발전 시대의 중심…범정부적 최선\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T23:15:00+09:00",
+      "publishedAt": "2026-08-11T23:15:00+09:00",
+      "firstCollectedAt": "2026-08-11T23:47:28+09:00",
+      "updatedAt": "2026-08-13T04:51:27+09:00",
+      "summary": "이 대통령 \"세종·충청이 새 균형발전 시대의 중심…범정부적 최선\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"세종·충청이 새 균형발전 시대의 중심…범정부적 최선\" - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFVLSVVDTmpKdkc4aTJxaFVIejl4aXhoS3ZVRTlfZ1M4TzFhZTlZaG5UM2FiX0gxQ0NYaGhUaVFkcTd0U01YczRkSV83bTBjR1RFdFN6Y1FsamlCNHIxSFNQbkM0aHl0YVhZZnVWbC1oR0VST3pzYkJFRXlLMG5Ha1FBS3hpbm45cmc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"세종·충청이 새 균형발전 시대의 중심…범정부적 최선\" - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUFFQUm5UclZMbVRPOXdheHdPLUhXbmR0a2MzbkhSS2tmcElpNzIxUE1GLXU0OENMZ1NOd2xGS241OERCQW41VmFMdi0tWVVoN3R1X3RudzJRMWZQQkJZeUk3UXJuWGhZOElsWHRvNWxpVUROUURpUkpXalJfMEdVejZnTVVuZ0QxcEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T04:51:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eff0d25f6d7956f110552b67818159c19139a28ae14502d7b40c096fd5fd31f0"
+    },
+    {
+      "id": "20260811-DP-B5450F95-241",
+      "title": "국방부 \"한미 연합 야외기동훈련 연중 균형되게 시행 중\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "국방부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T15:00:11+09:00",
+      "publishedAt": "2026-08-11T15:00:11+09:00",
+      "firstCollectedAt": "2026-08-11T17:15:19+09:00",
+      "updatedAt": "2026-08-13T04:51:27+09:00",
+      "summary": "국방부 \"한미 연합 야외기동훈련 연중 균형되게 시행 중\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 \"한미 연합 야외기동훈련 연중 균형되게 시행 중\" - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0VYendMajIyOTZ5V2c1eW9LQUFTZlJfMGsyT29Fb0tYTGpUTVJfZ05ab0tZT2dJRE9LemxvVUhXa1FKWkR5eWE4bWdHUk9sSXV3SUpObVhyc1otODRVQ2o0RXF3UHExZUR6eDZsWDhIak1Vck0tdE5FVnlmdkpRSWtqcFFiSGhWbExfeg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 \"한미 연합 야외기동훈련 연중 균형되게 시행 중\" - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90WDEzbVdIX2RtWHlCdlRpbV9NMTgxckxaS3MtNjh5ZnJpNktMR2xZX1NZYnRmYjF6a3hSV1hoZ0x5WUhVVUgzS1FFclV5ZnE4QWliNVY0Z0IycjBsN3VHNTg2Q1RGajJ1d1ZzcDRLYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T04:51:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b5450f9541ab9b5e997ebaa113f413ac42d1e438600fb6153eca31fd597a4627"
+    },
+    {
+      "id": "20260810-DP-1AB148D7-228",
+      "title": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T18:31:51+09:00",
+      "publishedAt": "2026-08-10T18:31:51+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-08-13T04:51:27+09:00",
+      "summary": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnFCT3JjN1NJZFJhRFEtTVRqQ0xaOFV0eTdFdVcyOFp0aEZZQkdWc3hsb3YwVHJPaDNySkctbTN4d2pXWlA2WWRVdi1vMksxUVJWalg3bUZoaTlLamx3cHZOM2NRSFRKUG5CZmtyRGlqUlYzLVpjNTJzd1hzRU1GU09rS29pRVF3Y0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pNnhHRFBjWHF6SlM1bmFzUnFMOG1NYy1lSkhDRlVqOUdMbVI0dFRLVUYzSy1fd21MUWtOandDUnRSZkRCSnAzMGR5cVB4Ml9QT3hZTFhfdHhpa00xWnBfdXBId1BMbzJyNFE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T04:51:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1ab148d777ef307795bf5a40d04d888933c54c99c79fb4265e585a99b3d02e6c"
+    },
+    {
+      "id": "20260812-DP-2C5CB050-286",
+      "title": "내년도 최저임금 '1만 700원'…올해보다 3.7%↑ - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T18:10:55+09:00",
+      "publishedAt": "2026-08-12T18:10:55+09:00",
+      "firstCollectedAt": "2026-08-13T04:51:27+09:00",
+      "updatedAt": "2026-08-13T04:51:27+09:00",
+      "summary": "내년도 최저임금 '1만 700원'…올해보다 3.7%↑ 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년도 최저임금 '1만 700원'…올해보다 3.7%↑ - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYjZSZEZRMENNd25kVEdmVlZ4VmZJQlNJS1pwNFFlTTJzdXIySFJhUW4zb19OckIyQkp0V196Y1pjVTBvbWlVY2owakc2cEUxM084UERQcVk1Z1RYeWFFbmJGWEEzdGlFS1hRdDJsLWdhMXF1elhEVUNBdkN5NEdobkkyakhSMTF1T1VTOFAzNVVabDZnVFJiRXZB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2c5cb050d884d5d2801636adaa93e69b3bf180f6877c40ddf11044a3ba98f7d5"
+    },
+    {
+      "id": "20260811-DP-1993FFC3-287",
+      "title": "미래 자동차 공장은 어떻게 변할까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T18:03:00+09:00",
+      "publishedAt": "2026-08-11T18:03:00+09:00",
+      "firstCollectedAt": "2026-08-13T04:51:27+09:00",
+      "updatedAt": "2026-08-13T04:51:27+09:00",
+      "summary": "미래 자동차 공장은 어떻게 변할까? - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미래 자동차 공장은 어떻게 변할까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGJXX0NnMGg0WFN6clc1STd6cVE3czlzNTgxLTlBRFZrdW8ydWN6UEh0cmxBOXFrRHl4Y3RrMU5OS3Q5Ti12QTVPU1YwUGhpOTRMQUdxVmFIeTBtOWIyNkVXNFRDOXdCMzUxeDhHVFZmcDRSSGk2VVJmWTdydEFFSmdQQ1MtNFFOeEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1993ffc3382b4df3251025a04ccf6a0d1cc68c7b2b3708945368229c4ff0597f"
+    },
+    {
+      "id": "20260812-FR-505D66EA-288",
+      "title": "국민이 안전한 나라, 인권의 가치를 존중하는 혁신 법무행정 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T19:01:24+09:00",
+      "publishedAt": "2026-08-12T19:01:24+09:00",
+      "firstCollectedAt": "2026-08-13T04:51:27+09:00",
+      "updatedAt": "2026-08-13T04:51:27+09:00",
+      "summary": "국민이 안전한 나라, 인권의 가치를 존중하는 혁신 법무행정 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민이 안전한 나라, 인권의 가치를 존중하는 혁신 법무행정 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeGJLNFNVUG82NmJ4WUpWZElxNU5wZzdGa2NHbk5sSk9IakM1azFjRlJjTlpuTmRFUWxDRVBPSGFmSFBuZUIyWFR0N1RMbm9NcmRvS0ZaN0EwalJwVTdUd0lTMHdZdTJvblpoNVZ4NVQwcE56RXItV3FueVV1bnUzTmREUXBoWjYxa0Rv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "505d66ea131fe0a127921b3915bedcc09ccb54382c35fc626d8a933c76c7faa5"
+    },
+    {
+      "id": "20260812-FR-B394D4AD-289",
+      "title": "국민이 안전한 나라, 인권의 가치를 존중하는 혁신 법무행정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T13:39:22+09:00",
+      "publishedAt": "2026-08-12T13:39:22+09:00",
+      "firstCollectedAt": "2026-08-13T04:51:27+09:00",
+      "updatedAt": "2026-08-13T04:51:27+09:00",
+      "summary": "국민이 안전한 나라, 인권의 가치를 존중하는 혁신 법무행정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민이 안전한 나라, 인권의 가치를 존중하는 혁신 법무행정 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0Y1TnBfTV9STVlmeHpNR0ZhWmhpZmpxV01JWl8yQkN5UHFrTzN6OWZ1bVZxMl9RZ1RTQkFEcnhyOXZSS0QzN3BPZ1V2T180OFRtczFTX3BOSXd5YnJqYWI1LUdGb2ZFT2pEWUx4dUpIck00V2dSQU95ZzZZd3lFakdIb0xfQ0w1cDhWTi03dWZGZExXY0RCbU9hcmNzUERLeVE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b394d4adbe1cfb70ea578cb21410e180db75de405b91aa50859e72a3e845020a"
+    },
     {
       "id": "20260812-DP-FFD1078B-282",
       "title": "이 대통령 \"SMR·양자 등 7대 첨단기술, 차세대 성장엔진 될 것\" - 대한민국 정책브리핑",
@@ -1768,46 +2090,6 @@
       "contentHash": "e787409d867203bbdc977c2bf6ffe492f02a5af9dddf363c2aec2f9f86f6f07d"
     },
     {
-      "id": "20260811-DP-EFF0D25F-253",
-      "title": "이 대통령 \"세종·충청이 새 균형발전 시대의 중심…범정부적 최선\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T23:15:00+09:00",
-      "publishedAt": "2026-08-11T23:15:00+09:00",
-      "firstCollectedAt": "2026-08-11T23:47:28+09:00",
-      "updatedAt": "2026-08-11T23:47:28+09:00",
-      "summary": "이 대통령 \"세종·충청이 새 균형발전 시대의 중심…범정부적 최선\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령 \"세종·충청이 새 균형발전 시대의 중심…범정부적 최선\" - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdFVLSVVDTmpKdkc4aTJxaFVIejl4aXhoS3ZVRTlfZ1M4TzFhZTlZaG5UM2FiX0gxQ0NYaGhUaVFkcTd0U01YczRkSV83bTBjR1RFdFN6Y1FsamlCNHIxSFNQbkM0aHl0YVhZZnVWbC1oR0VST3pzYkJFRXlLMG5Ha1FBS3hpbm45cmc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "eff0d25f6d7956f110552b67818159c19139a28ae14502d7b40c096fd5fd31f0"
-    },
-    {
       "id": "20260811-FR-9D2ADFEF-252",
       "title": "지속된 폭염 '비상대응' - 포토 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -2189,49 +2471,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "278380188e956ca19c9675fbd90abad5f4a73d87a05b18743c51f4a09875eb7e"
-    },
-    {
-      "id": "20260811-DP-B5450F95-241",
-      "title": "국방부 \"한미 연합 야외기동훈련 연중 균형되게 시행 중\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "국방부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T15:00:11+09:00",
-      "publishedAt": "2026-08-11T15:00:11+09:00",
-      "firstCollectedAt": "2026-08-11T17:15:19+09:00",
-      "updatedAt": "2026-08-11T17:15:19+09:00",
-      "summary": "국방부 \"한미 연합 야외기동훈련 연중 균형되게 시행 중\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국방부 \"한미 연합 야외기동훈련 연중 균형되게 시행 중\" - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT0VYendMajIyOTZ5V2c1eW9LQUFTZlJfMGsyT29Fb0tYTGpUTVJfZ05ab0tZT2dJRE9LemxvVUhXa1FKWkR5eWE4bWdHUk9sSXV3SUpObVhyc1otODRVQ2o0RXF3UHExZUR6eDZsWDhIak1Vck0tdE5FVnlmdkpRSWtqcFFiSGhWbExfeg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b5450f9541ab9b5e997ebaa113f413ac42d1e438600fb6153eca31fd597a4627"
     },
     {
       "id": "20260811-DP-094BEC44-242",
@@ -2900,46 +3139,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "78068d42ea2ac5ebadcfa52de405b11ee2574ed6ce98be0611a85f40c44016f2"
-    },
-    {
-      "id": "20260810-DP-1AB148D7-228",
-      "title": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-10T18:31:51+09:00",
-      "publishedAt": "2026-08-10T18:31:51+09:00",
-      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
-      "updatedAt": "2026-08-10T19:04:32+09:00",
-      "summary": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"새벽 3시 수출 대금 환전도 실시간\" 24시간 외환시장 개막 - 대한민국 정책브리핑",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRnFCT3JjN1NJZFJhRFEtTVRqQ0xaOFV0eTdFdVcyOFp0aEZZQkdWc3hsb3YwVHJPaDNySkctbTN4d2pXWlA2WWRVdi1vMksxUVJWalg3bUZoaTlLamx3cHZOM2NRSFRKUG5CZmtyRGlqUlYzLVpjNTJzd1hzRU1GU09rS29pRVF3Y0E?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1ab148d777ef307795bf5a40d04d888933c54c99c79fb4265e585a99b3d02e6c"
     },
     {
       "id": "20260810-DP-AB14EDE1-229",
