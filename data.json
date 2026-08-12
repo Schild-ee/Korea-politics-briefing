@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-12T08:25:36+09:00",
-    "nextScheduledUpdate": "2026-08-12T08:55:36+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-12T14:18:57+09:00",
+    "nextScheduledUpdate": "2026-08-12T14:48:57+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-12T08:25:34+09:00",
-      "finishedAt": "2026-08-12T08:25:36+09:00",
+      "startedAt": "2026-08-12T14:18:55+09:00",
+      "finishedAt": "2026-08-12T14:18:57+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 29,
-      "duplicates": 33,
-      "rejected": 167,
-      "rejectedByDate": 166,
+      "acceptedCandidates": 33,
+      "duplicates": 27,
+      "rejected": 165,
+      "rejectedByDate": 164,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 7,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,339 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260812-DP-529EBC56-260",
+      "title": "(보도설명) 전체 자영업자의 대부분은 신용카드 부가가치세 세액공제 한도 조정에 영향을 받지 않으며, 정부는 자영업자를 위한 다양한 지원제도를 지속할 계획입니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T09:11:07+09:00",
+      "publishedAt": "2026-08-12T09:11:07+09:00",
+      "firstCollectedAt": "2026-08-12T14:18:56+09:00",
+      "updatedAt": "2026-08-12T14:18:56+09:00",
+      "summary": "(보도설명) 전체 자영업자의 대부분은 신용카드 부가가치세 세액공제 한도 조정에 영향을 받지 않으며, 정부는 자영업자를 위한 다양한 지원제도를 지속할 계획입니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 전체 자영업자의 대부분은 신용카드 부가가치세 세액공제 한도 조정에 영향을 받지 않으며, 정부는 자영업자를 위한 다양한 지원제도를 지속할 계획입니다. - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRW1Kc3MxVTIyS2hxSGktYXdBQ2JRNnRXZm9wWW42d19sQ3pERjM5UElMdTMtdl94M1ZpcWpuOXVYZFRhcnZjUmdwT0cxTVJGU1dlQTlTTjd3d0xvLTh3QXFqSWdCWXpVSHJ4Z3VRTjNocUFZbk13ZHduUTEwNEpMN2twZjBTazZsbnVNYlM1VQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "529ebc568021fc459fe87f8cd7962a13dd59bf4a84e2de6612ab78dda28668c2"
+    },
+    {
+      "id": "20260812-FR-0B4890EF-261",
+      "title": "체계적으로 법령을 바로 세우는 정비 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T10:42:45+09:00",
+      "publishedAt": "2026-08-12T10:42:45+09:00",
+      "firstCollectedAt": "2026-08-12T14:18:56+09:00",
+      "updatedAt": "2026-08-12T14:18:56+09:00",
+      "summary": "체계적으로 법령을 바로 세우는 정비 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "체계적으로 법령을 바로 세우는 정비 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0x2dUQtblBmdHVncW8yZ1ljYzlieXBKX21FRGh2SndYOWJqTW9RTG50RzVwSXIwVGJZaTNWYUFyWk83SEh6ZWtaLWNCUHJwbGhyMUVnYm5aZExmUjhjVnhRZ0V1U2djMURobnI4QUphZV9KTHdMUV93dFVMUWxqSG9zRV9HX01rOTExZnlLTnFwYkhfWktfNUZ2VGNRMVpyYXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0b4890ef1d56bd3dfbf726c84011a8cf49129da7d2a93c570525b46edb170cd4"
+    },
+    {
+      "id": "20260810-DP-2CD2C46E-262",
+      "title": "(보도설명) 정부는 조속한 시일 내 「청년일자리 회복방안」을 발표할 예정입니다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T16:00:00+09:00",
+      "publishedAt": "2026-08-10T16:00:00+09:00",
+      "firstCollectedAt": "2026-08-12T14:18:56+09:00",
+      "updatedAt": "2026-08-12T14:18:56+09:00",
+      "summary": "(보도설명) 정부는 조속한 시일 내 「청년일자리 회복방안」을 발표할 예정입니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 정부는 조속한 시일 내 「청년일자리 회복방안」을 발표할 예정입니다 - 대한민국 정책브리핑",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Jbzd4WFljemJzLW5La2lnZkh6Xy1FQkY5RFJYbldFZ2NuelJrUUgzZlNqLXpmUnRyajNCeWVGTmhVN21LMHVmaEFGNzB5Y012SmMwTzZGNDJOLUlUV2UxY29KbXVzNFpXRlh2RFYxWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2cd2c46e40163cdfbf099c608a6c58db19303111e7de0b0f59c638ec4d2bebe9"
+    },
+    {
+      "id": "20260812-FR-B56424BF-263",
+      "title": "(설명) 한겨레,「'체납관리단' 본뜬 새 청년 공공일자리, 내년 2만개 창출 추진」기사 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T06:12:36+09:00",
+      "publishedAt": "2026-08-12T06:12:36+09:00",
+      "firstCollectedAt": "2026-08-12T14:18:56+09:00",
+      "updatedAt": "2026-08-12T14:18:56+09:00",
+      "summary": "(설명) 한겨레,「'체납관리단' 본뜬 새 청년 공공일자리, 내년 2만개 창출 추진」기사 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 한겨레,「'체납관리단' 본뜬 새 청년 공공일자리, 내년 2만개 창출 추진」기사 관련 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NNEJTR3ByV1A1emRuaE9iZTJLMDFFbHBsNFNrU2dua2RvazV1ekdUOU5GcjZyYmZLaG5IbFV3X2FRaXdEeGZKWmh4RkV4blVaTWtZdzBTS244cFNZOUdnZU51eFdxNlZhMTl1b2hIZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b56424bfc4cfbebe915d565079dc7792ba50c6073635ec967d304d424d94e5b8"
+    },
+    {
+      "id": "20260811-DP-A1B722E2-245",
+      "title": "이달부터 분만 중 중증장애 입은 산모, 국가가 최대 3억 원 보상 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T16:30:00+09:00",
+      "publishedAt": "2026-08-11T16:30:00+09:00",
+      "firstCollectedAt": "2026-08-11T17:15:19+09:00",
+      "updatedAt": "2026-08-12T14:18:55+09:00",
+      "summary": "이달부터 분만 중 중증장애 입은 산모, 국가가 최대 3억 원 보상 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이달부터 분만 중 중증장애 입은 산모, 국가가 최대 3억 원 보상 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHB6OVlxMGV1OTN3aWhrLXZZdXNxWkh3ZEVJOWJaS182eER4ZzFENVRtNUo2Y2VkdzRUYUk4ZDJSaWR5dWpVTGxsa3Z0SE5wRWNPSi1FYnRSYzlxdEdCT1RtMTJLaDVxRkdoaEdHZ1B2SEdxV1d2OWN4U1U3RTJsQlV3WDhWTXhwMFE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이달부터 분만 중 중증장애 입은 산모, 국가가 최대 3억 원 보상 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTk1jMGdZSEctQmM1TEIzTEtEVURHU1BmSnhVYjVRUlkxajBNU1BaVm9scjU4UFpYVXFqQ2F2aVg0LTh5LV9JcVVTbzBwUjhjejhIam5ObHo4SExQTTBQeHR3aUkyZDFvOTBVUl9JU2ZpS0lyaURIT3duWE4tdFhEZUk1c0tHUmhZZzFqOQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-12T14:18:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a1b722e28885ca6382af4bd88a3e62d7412aebe419ac94b8bf5e13aa9398136e"
+    },
+    {
+      "id": "20260812-DP-03379BEC-257",
+      "title": "2026년 법정수어통역 전문교육 실시 계획 공고 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T14:00:22+09:00",
+      "publishedAt": "2026-08-12T14:00:22+09:00",
+      "firstCollectedAt": "2026-08-12T14:18:55+09:00",
+      "updatedAt": "2026-08-12T14:18:55+09:00",
+      "summary": "2026년 법정수어통역 전문교육 실시 계획 공고 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "2026년 법정수어통역 전문교육 실시 계획 공고 - 대한민국 법원",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNTTFtVjBSRjM1T0VrSWd0R055NUMxMDJJT3k0Y2dTZFNsSG1pMGVUVk96UzYzOTIxVklNS3duZWYtZFNRS0Voa19SMVI3aXlYeEdWSmNNZHg2TGtnd2tvcTgxTDc0aW9PeTRUaVJPZ1F4NDJYU1pQNmc4d3hxdkFLcWpEWEVNWW04d2lQN3VWWUdJajFQQ0hKRzZtME9vbDBPQzB5aElmWVpFTmZWXzZxbm52QThkN0JNVGhLVTJRYi1hOEFwTlhtZGltVTJSY3R1NHZ6NzgyR0FhZk0yQS02dHFQSmx1WjlKMVJWWmJESTVqXzhzLVRqLTE0SFM3ZmgwV05JQ0p6ZHUya2szbmVhbFdlbTRqUmkwR0RHckEzZU1oMzZxSmN2NWoyZG92dmthZFBzMGwzNjI?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "03379becd2970ed034d3fce9b8736e3066c508b206e680108e4fcd412c417083"
+    },
+    {
+      "id": "20260812-DP-491CDA65-258",
+      "title": "지방으로 이사 가시나요? 양도세 부담을 덜어드려요! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T11:20:29+09:00",
+      "publishedAt": "2026-08-12T11:20:29+09:00",
+      "firstCollectedAt": "2026-08-12T14:18:55+09:00",
+      "updatedAt": "2026-08-12T14:18:55+09:00",
+      "summary": "- 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방으로 이사 가시나요? 양도세 부담을 덜어드려요! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVlJVl9YQ0dGUjh2a3ZpcDdjSWxlZXR5LTBpbkZFRWpwRVlsQlBOekc4c3ppZ0VfLXhVZ0hqeVRaY0lRYXUtOVBWd1dGMEJvS2o2OFQtTnlneUxvMTRkVkxQM3BhQkt3OEIxT3F3M1VjZGNBQUV1UVV6ak9ETFZlYzFRcDJNWktNVVc4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "491cda6532b41128e01937de952062e85e0fe8527e78fe5538315c3a24549ce8"
+    },
+    {
+      "id": "20260812-DP-94CFFD22-259",
+      "title": "100% 신종피싱, 사기입니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T11:15:48+09:00",
+      "publishedAt": "2026-08-12T11:15:48+09:00",
+      "firstCollectedAt": "2026-08-12T14:18:55+09:00",
+      "updatedAt": "2026-08-12T14:18:55+09:00",
+      "summary": "100% 신종피싱, 사기입니다! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "100% 신종피싱, 사기입니다! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMk1MdXhkM3pSck1oT3pIN0ZaYzdUdkUySFRHaExBVGtqR2NtZjRsN3F4V2E0WjU0b1BfVUxYRXFjQTZRZXhoYmc1Q3AzT3RHdFdtWnhYRzJDc1J0ZnBvQVp6TlVLU1VPWExhcW9td2JGMDNHNEl4SUdSZERnQUdKSUFsaE1mVFJXZFk4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "94cffd226692b0a5145d6f9cdf38156a248dd32637c99cf66eb9a26910a51e51"
+    },
     {
       "id": "20260811-DP-47C17515-256",
       "title": "이안류에 휩쓸렸을 땐? 당황하지 말고 안전수칙부터! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -876,46 +1209,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "8f1591d7d385a04022fa6b86e1b558a0e869eeed9361fa2ec1ce240c945fc827"
-    },
-    {
-      "id": "20260811-DP-A1B722E2-245",
-      "title": "이달부터 분만 중 중증장애 입은 산모, 국가가 최대 3억 원 보상 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T16:30:00+09:00",
-      "publishedAt": "2026-08-11T16:30:00+09:00",
-      "firstCollectedAt": "2026-08-11T17:15:19+09:00",
-      "updatedAt": "2026-08-11T17:15:19+09:00",
-      "summary": "이달부터 분만 중 중증장애 입은 산모, 국가가 최대 3억 원 보상 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이달부터 분만 중 중증장애 입은 산모, 국가가 최대 3억 원 보상 - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHB6OVlxMGV1OTN3aWhrLXZZdXNxWkh3ZEVJOWJaS182eER4ZzFENVRtNUo2Y2VkdzRUYUk4ZDJSaWR5dWpVTGxsa3Z0SE5wRWNPSi1FYnRSYzlxdEdCT1RtMTJLaDVxRkdoaEdHZ1B2SEdxV1d2OWN4U1U3RTJsQlV3WDhWTXhwMFE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "a1b722e28885ca6382af4bd88a3e62d7412aebe419ac94b8bf5e13aa9398136e"
     },
     {
       "id": "20260811-DP-F670EEFD-246",
