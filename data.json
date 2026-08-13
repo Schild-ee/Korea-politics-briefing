@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-13T18:43:54+09:00",
-    "nextScheduledUpdate": "2026-08-13T19:13:54+09:00",
+    "lastSuccessfulUpdate": "2026-08-13T21:36:31+09:00",
+    "nextScheduledUpdate": "2026-08-13T22:06:31+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-13T18:43:51+09:00",
-      "finishedAt": "2026-08-13T18:43:54+09:00",
+      "startedAt": "2026-08-13T21:36:28+09:00",
+      "finishedAt": "2026-08-13T21:36:31+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 41,
-      "duplicates": 39,
-      "rejected": 152,
-      "rejectedByDate": 148,
+      "acceptedCandidates": 51,
+      "duplicates": 41,
+      "rejected": 144,
+      "rejectedByDate": 140,
       "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 8,
-      "updatedIssues": 1,
+      "newIssues": 13,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,634 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260813-FR-192500B5-312",
+      "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "국방부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T19:50:57+09:00",
+      "publishedAt": "2026-08-13T19:50:57+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-13T21:36:29+09:00",
+      "summary": "국방부 일일 정례 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wZXZTVFJUSkV2ejZUM0l3WkVxUi1YbWFPMmEyM3lYVWJOaDNxbXdEcjlDbk9Qa0ZJdTBtQUFDOElrVHJHWGVna1I4MFh4Z2RtakxMcVMzZmpCMGJYTURTb1ZhSXpmMDlIM1AxRWhjaWpMXzQwMEpF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "192500b5b439afd9e838b7e9a63ce1ab769d6be86f69d665f5fab8f81058711f"
+    },
+    {
+      "id": "20260813-DP-E35BAE8B-313",
+      "title": "이 대통령 \"희생과 헌신으로 이룩한 대한민국 도약에 있는 힘 다할 것\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T19:15:58+09:00",
+      "publishedAt": "2026-08-13T19:15:58+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-13T21:36:29+09:00",
+      "summary": "이 대통령 \"희생과 헌신으로 이룩한 대한민국 도약에 있는 힘 다할 것\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"희생과 헌신으로 이룩한 대한민국 도약에 있는 힘 다할 것\" - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZnFCbTU4QUFoSVpQYVE2ZENYOTI2UHZmOUpFdGhyRjhfajRyWGNmTUNnbjBZSkFiT1RJUGNRSmU3N3JuVkRZR1lyWlJUZEpkb1JyM1ZZcFZHS1RtSEk0NDhVQnU3dFRNOFJHN3FXNFBPYm1BTlMtMHJxcXFCNzQ4dThTRlVINUpnVHlEYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e35bae8b390990e09ead60466bfcef9c9185b039b732bab1a93d33e34ac458d7"
+    },
+    {
+      "id": "20260813-DP-0EA5EE57-314",
+      "title": "이재명 대통령 부부, 국가유공자 및 보훈 가족 초청 오찬 행사 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T14:49:10+09:00",
+      "publishedAt": "2026-08-13T14:49:10+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-13T21:36:29+09:00",
+      "summary": "이재명 대통령 부부, 국가유공자 및 보훈 가족 초청 오찬 행사 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령 부부, 국가유공자 및 보훈 가족 초청 오찬 행사 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pZ0l5RlVXaWVOdjBDSzZCVFAwcFAybUE2clEzdE5kSlVoamRUM2F2cVZmcXhVdjYwWU4tZFhSWHpoaGxmemNHZ2x0Z1dURkw2YTFQRDJkbGtUQmlkZ2V0elZNRHFZSDFJQVlydVhveVI?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0ea5ee570a66adb5680233bb7d8c6bfb05fbf1509fdb8fcf033e531d85448a4f"
+    },
+    {
+      "id": "20260813-FR-30A805D2-315",
+      "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T10:44:37+09:00",
+      "publishedAt": "2026-08-13T10:44:37+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-13T21:36:29+09:00",
+      "summary": "- 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2J1akF3bTZrWGxRWWtzN3FYOHBvUFVxRFZRNFFhaFFCeUh1M2lsUzVlLTQyTEtpVGc4MVpxRmdfeENGb2dicE9qY1FQU1BBYVlwNG5NU0FzMl9FTzJYY0tQaXNpOEszckktYVRVZUpKVkNpMHY4aVVpdnlzOV9JeGw3S002cm1HM1RCbA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "30a805d2dc388d13df44c699460268be184c7ee47190298cc2753802869fec6f"
+    },
+    {
+      "id": "20260813-FR-960A9756-316",
+      "title": "촬영 전 18만 원짜리 머리를 한 공무원?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T17:31:00+09:00",
+      "publishedAt": "2026-08-13T17:31:00+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-13T21:36:29+09:00",
+      "summary": "촬영 전 18만 원짜리 머리를 한 공무원?! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "촬영 전 18만 원짜리 머리를 한 공무원?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNVQ5NGdtcUlGYVppR0RFNFNocTNkdHVTa0REY0tjazBVSDdTaHdCQk5kUGtOTC0zZHlqUUduRF8xS1hDODhfVVpmRmFocXBnSGJmWXRpNklNSFZrRWsyZFBNanJ3T0huR0xXTkhJLS1ncGd0MG4yNmd4YW1IQzJ3MlI3S1ktMjZMZ1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "960a9756ca0d8f65151c15ab581f2b050ea0e88324e8941fc720d19645630020"
+    },
+    {
+      "id": "20260813-FR-25FEA709-317",
+      "title": "갯벌과 에메랄드 해변이 함께! 서해의 몰디브 민어도에 왔습니다! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T17:01:40+09:00",
+      "publishedAt": "2026-08-13T17:01:40+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-13T21:36:29+09:00",
+      "summary": "갯벌과 에메랄드 해변이 함께! 서해의 몰디브 민어도에 왔습니다!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "갯벌과 에메랄드 해변이 함께! 서해의 몰디브 민어도에 왔습니다! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVNieVZVaXdhV1Q0OWpMRTBZWk5oNVN4ckpGVVIzcjZSdldZSldXYV9LYnRFZDNNc1o3UTdlUmhhVHFXODJqTWFVMHFzTVZPQUxadFZsdU8xQXF2RXJXM3JyTmZ4dHpXZjU1YWtKSXBHNE1iallOMWRORWlFU2FrWkNTNUhVaFB1aHdxeg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "25fea70964fec7081b607b21ffce9b9e6d4f28dfb452c3c92f9be58d7ea3b857"
+    },
+    {
+      "id": "20260812-FR-F5A6AE21-318",
+      "title": "이 대통령, 주한대사 신임장 제정식 개최 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T15:19:22+09:00",
+      "publishedAt": "2026-08-12T15:19:22+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-13T21:36:29+09:00",
+      "summary": "이 대통령, 주한대사 신임장 제정식 개최 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, 주한대사 신임장 제정식 개최 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeVBxaU5Yem9lemNBdzhadUNrRVd1ZmZYajlLUHFnLWxkdGtFb0lGMl9yNXg1QUd1T2QtY2VHdEV3YUtnb2JQSjBaZUJ1emVrWkV2bmdZY2lIeUl1S21id2M4RlY0RFl2VUNyd2gxZW5aNGt0eEE2NXpmQWRoVG1FVzlrYUJoM0gzRlZMd3Vn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f5a6ae21bc2966e2e9de4e5365231b7e8d10e42a56d977695d50154e3ce06e9f"
+    },
+    {
+      "id": "20260813-DP-FBD2A78E-298",
+      "title": "'마을기업법' 15일 본격 시행…사회연대경제 핵심 주체 도약 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T17:55:15+09:00",
+      "publishedAt": "2026-08-13T17:55:15+09:00",
+      "firstCollectedAt": "2026-08-13T18:43:52+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "'마을기업법' 15일 본격 시행…사회연대경제 핵심 주체 도약 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'마을기업법' 15일 본격 시행…사회연대경제 핵심 주체 도약 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFpJM0loSVRuSHBtbmpTcEVKQWhEdWxYaXllMXJIOE1VYkNLV1ByelJvTkx1anJHcUZ0LVAxQjhqZnZrX19HMFlfZjllMGx3TnVNUWprQVpFajJqcEdzbnBlQUZZQUd3Q2hEZnVLUVVFbjNDeHQ4eDFsSEVlRV9tZWM1VVN2TFdYSUE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'마을기업법' 15일 본격 시행…사회연대경제 핵심 주체 도약 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaOXZreV94VGlSWFAwRTdvUEdWNGg1clJheWNmV3RxZ25WWmZMQlY2VHVkeFVSWVBKbzN2OUQ1aktXYkZ0a1M2djY1QWUzRGp2ejgyaTJfWjNVeUtEWGJBeGF1SlAzQVB1cGZuOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T21:36:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fbd2a78eb3e60f7fb1cd2f7e8bcd32b4fe492f220df783d352d2b508b182b1aa"
+    },
+    {
+      "id": "20260813-DP-B275CAAC-301",
+      "title": "금융위 \"혁신금융서비스는 혁신금융심사위원회 심사 및 금융위 의결 통해 지정\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T13:55:14+09:00",
+      "publishedAt": "2026-08-13T13:55:14+09:00",
+      "firstCollectedAt": "2026-08-13T18:43:52+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "금융위 \"혁신금융서비스는 혁신금융심사위원회 심사 및 금융위 의결 통해 지정\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위 \"혁신금융서비스는 혁신금융심사위원회 심사 및 금융위 의결 통해 지정\" - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0dNLWwtZmw1QVg2M3BuOGV1di1WNkk2NEpOSzZOeDhRMnU1QS1rR0hudWNkd0FhN0VUMllkQTU5VHBkaW1rNEZxaEpCeHRYbW5tNjk4Nl9nR0lieEJHZ0tmOUtkeHY3N2h4WTJtd0tXdG5RcEliZ2RyNUVJWWx1NGZrQldNY3lNSHBLMzI2dw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위 \"혁신금융서비스는 혁신금융심사위원회 심사 및 금융위 의결 통해 지정\" - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9IUFRfcGJkOEdLMkF3b0l2QVBuR1M0dkUxZUxkTlNoaVlUempDdXAyenhkSTd1MUpMcF9HQ1d5YnpkRGZkQ1hYYTVsaGpCd3VhelhNRm9aNVRNZXhVdnFkdkFYOHJULVkxMWZLZlNiOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T21:36:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b275caac77265113ff76038c3bcb4cec3f1c8f47f27602ae8a98c7ac1ffbe223"
+    },
+    {
+      "id": "20260813-DP-1961032D-306",
+      "title": "대법원 2026. 8. 12. 자 중요결정 요지 - 판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T21:05:45+09:00",
+      "publishedAt": "2026-08-13T21:05:45+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:28+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "자 중요결정 요지 - 판례속보 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "대법원 2026. 8. 12. 자 중요결정 요지 - 판례속보 - 대한민국 법원",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOc3NWVjlYZWNjN3haR2xKLUdrV3BiZUFSN1BiV2d6NEVBYm5oRjhWOFVpN21GQ0hVVWpJNExvcmNnNXlSY3hVM0publE5Tm05NGpzNEVzak81RFVCZ3Nxck1WSDFJWWFtYWR2aUNKMThiN0NNTmQ2bGpXaXNMaUVMSWViNWZMVHNET1pHWFNFRGU5aFkwcUk4cmluU0Q3VG9mYUsxZkdPalRTaUxPWmIwX0x2N0FhSWtGZWdoTWY2bmNRcDJFWUNlbGV2bUltWmszTFkza19tOGkwUzJMekphR2hTaURBRzRlRlhEM1RpZVJVUkRiaUdLMHBvOHRHNGo1ZWpvYWJHR094MWtfQ1U0X3pNQlJ4Q0w5bXlDV3NBZFNjR3owT0dMNDN5Z1ZYN0h2S1Eyc2JWWG1lRWN3eXBFSnc2UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1961032dfa4cff39e3ae42027064c53cfa3031d475cc497f321f8d052c2232a1"
+    },
+    {
+      "id": "20260813-DP-5B3C0088-307",
+      "title": "(보도설명)2027년 청년월세 소득요건 및 지원금액은 확정된 바 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T20:46:22+09:00",
+      "publishedAt": "2026-08-13T20:46:22+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:28+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "(보도설명)2027년 청년월세 소득요건 및 지원금액은 확정된 바 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명)2027년 청년월세 소득요건 및 지원금액은 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96cGF5aFdRa2lpT3o1WXNWZWlkZUVCYlhPSUZPOGhHalBGYWQxdm1zYmw2ZkpzbnFiUGczcHJkcnZDUEUyQXhHWUtqQkVLTGtjTWRwaXpmSHA4MlQ1bkl0S2twTWExaFNDMmIxcVdCZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b3c00884f370b13297262368c0d584a2b6dc8a2a5062087856534b563a62259"
+    },
+    {
+      "id": "20260813-DP-89043944-308",
+      "title": "부동산 시장 안정을 위한 금융 종합대책 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T13:32:08+09:00",
+      "publishedAt": "2026-08-13T13:32:08+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:28+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "부동산 시장 안정을 위한 금융 종합대책 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "부동산 시장 안정을 위한 금융 종합대책 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZSFkyd1U4RlNzZEloVHRxeVZwMHVhRmFnVkNfakxUQlpCdUl4QjN0VXN2T0hldUJ3R0ZvLXRBX3VBTW01WXFrWWJ3TjFkZUZ1bjIyQXRTZ2VoMTl1dlB4YWZyX2w3OWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "89043944bbcf31730e1d7c6fb6e0b2678b3706c9e04e340bc2ce70b1ff36a0fc"
+    },
+    {
+      "id": "20260813-DP-D64BCE8E-309",
+      "title": "여름 휴가철 수산물…'원산지 표시 제도'가 준 '신뢰' - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T19:51:37+09:00",
+      "publishedAt": "2026-08-13T19:51:37+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:28+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "여름 휴가철 수산물…'원산지 표시 제도'가 준 '신뢰' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "여름 휴가철 수산물…'원산지 표시 제도'가 준 '신뢰' - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ERXNkVzhfQkl3MlNPRnlGTzFVdUFuYVk1d3pZclh6WjhrV1hWVkYwTENYOXp2aU5RME5yVjctVl9ycWt4eUtnSWRzRlRNM0hrSWJ6NmNfVnRqR0dqbzlncFJRTFljbjhpU2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d64bce8ecfa2fedec75801b17d1cdfde304c901a868dfe3119bb53ffcdfb6319"
+    },
+    {
+      "id": "20260813-DP-8DED1BEE-310",
+      "title": "당신이 지켜낸 대한, 우리가 꽃피울 민국 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T18:47:30+09:00",
+      "publishedAt": "2026-08-13T18:47:30+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:28+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "당신이 지켜낸 대한, 우리가 꽃피울 민국 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "당신이 지켜낸 대한, 우리가 꽃피울 민국 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQM3lZX3ppeDBSVnlWV2NidnE1cnBlaHZaa194ZU82MG9NeVdELWFQWWJVMUp4YTdleEFBSmVRUjlhUVNpUVljNkk4c2lUcmhVTnFHckxrR1BjWHRLYkt1ak11ZXBCOGhhSzZlOEZod1Y2Vk1KT0tIOUVKRGl5RkNzQm56UlQyRVUxSWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8ded1bee18380d97ee8b68bfacb0e8a36dcb68ce4674573eaf42d8275edc6baf"
+    },
+    {
+      "id": "20260813-DP-11F0803B-311",
+      "title": "청년내일저축계좌 가입자 월소득, 3년 새 50만 원 이상 증가 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T18:59:34+09:00",
+      "publishedAt": "2026-08-13T18:59:34+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:28+09:00",
+      "updatedAt": "2026-08-13T21:36:28+09:00",
+      "summary": "청년내일저축계좌 가입자 월소득, 3년 새 50만 원 이상 증가 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청년내일저축계좌 가입자 월소득, 3년 새 50만 원 이상 증가 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPODVJN3pMUG9DdUI5RmcyRDZ3MWdiWE44MEp5bFlGcnp6NHk1a3M2bDA3eVFaY1IzZDA3THVpOEZPYjFVZWNheXczaWZCMHB4bFdoXzdYZjhhczJZTjJfMXVIYmN6bm1yVXlxc1VWZWt6elFuNTFBeFQ5UHk2R1NTSWozY2pwRFRwb1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "11f0803be00f0d80e7f12ba61d42e80ade71f6e2bd39b5a6a38e4d90f2298c39"
+    },
     {
       "id": "20260803-DP-EE39582B-087",
       "title": "법원 소개 - 대한민국 법원",
@@ -116,46 +744,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ee39582b80b5b1379d2d4b92be14fc78893e402400a171b2ac296cd6e524619d"
-    },
-    {
-      "id": "20260813-DP-FBD2A78E-298",
-      "title": "'마을기업법' 15일 본격 시행…사회연대경제 핵심 주체 도약 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-13T17:55:15+09:00",
-      "publishedAt": "2026-08-13T17:55:15+09:00",
-      "firstCollectedAt": "2026-08-13T18:43:52+09:00",
-      "updatedAt": "2026-08-13T18:43:52+09:00",
-      "summary": "'마을기업법' 15일 본격 시행…사회연대경제 핵심 주체 도약 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "'마을기업법' 15일 본격 시행…사회연대경제 핵심 주체 도약 - 대한민국 정책브리핑",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUFpJM0loSVRuSHBtbmpTcEVKQWhEdWxYaXllMXJIOE1VYkNLV1ByelJvTkx1anJHcUZ0LVAxQjhqZnZrX19HMFlfZjllMGx3TnVNUWprQVpFajJqcEdzbnBlQUZZQUd3Q2hEZnVLUVVFbjNDeHQ4eDFsSEVlRV9tZWM1VVN2TFdYSUE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "fbd2a78eb3e60f7fb1cd2f7e8bcd32b4fe492f220df783d352d2b508b182b1aa"
     },
     {
       "id": "20260813-DP-D3670C8E-299",
@@ -236,46 +824,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e931d17d43aa0028edcdbedc96e0bd92d7aea230eb608f76ba733dcf9e1ebe1e"
-    },
-    {
-      "id": "20260813-DP-B275CAAC-301",
-      "title": "금융위 \"혁신금융서비스는 혁신금융심사위원회 심사 및 금융위 의결 통해 지정\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-13T13:55:14+09:00",
-      "publishedAt": "2026-08-13T13:55:14+09:00",
-      "firstCollectedAt": "2026-08-13T18:43:52+09:00",
-      "updatedAt": "2026-08-13T18:43:52+09:00",
-      "summary": "금융위 \"혁신금융서비스는 혁신금융심사위원회 심사 및 금융위 의결 통해 지정\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "금융위 \"혁신금융서비스는 혁신금융심사위원회 심사 및 금융위 의결 통해 지정\" - 대한민국 정책브리핑",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU0dNLWwtZmw1QVg2M3BuOGV1di1WNkk2NEpOSzZOeDhRMnU1QS1rR0hudWNkd0FhN0VUMllkQTU5VHBkaW1rNEZxaEpCeHRYbW5tNjk4Nl9nR0lieEJHZ0tmOUtkeHY3N2h4WTJtd0tXdG5RcEliZ2RyNUVJWWx1NGZrQldNY3lNSHBLMzI2dw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b275caac77265113ff76038c3bcb4cec3f1c8f47f27602ae8a98c7ac1ffbe223"
     },
     {
       "id": "20260813-FR-71395358-302",
