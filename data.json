@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-14T07:24:08+09:00",
-    "nextScheduledUpdate": "2026-08-14T07:54:08+09:00",
+    "lastSuccessfulUpdate": "2026-08-14T14:14:41+09:00",
+    "nextScheduledUpdate": "2026-08-14T14:44:41+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-14T07:24:05+09:00",
-      "finishedAt": "2026-08-14T07:24:08+09:00",
+      "startedAt": "2026-08-14T14:14:38+09:00",
+      "finishedAt": "2026-08-14T14:14:41+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 52,
-      "duplicates": 51,
-      "rejected": 143,
-      "rejectedByDate": 138,
-      "rejectedByRelevance": 5,
+      "acceptedCandidates": 48,
+      "duplicates": 46,
+      "rejected": 145,
+      "rejectedByDate": 142,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 4,
+      "newIssues": 4,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,455 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260813-FR-30A805D2-315",
+      "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T10:44:37+09:00",
+      "publishedAt": "2026-08-13T10:44:37+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "- 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2J1akF3bTZrWGxRWWtzN3FYOHBvUFVxRFZRNFFhaFFCeUh1M2lsUzVlLTQyTEtpVGc4MVpxRmdfeENGb2dicE9qY1FQU1BBYVlwNG5NU0FzMl9FTzJYY0tQaXNpOEszckktYVRVZUpKVkNpMHY4aVVpdnlzOV9JeGw3S002cm1HM1RCbA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTV9tbTVteG9nd29xS3dIY2cwRE1UWkkwdW5pejdWNnY2QlJVcXVJeV8yZnAzdG5sRE9KX0tKTlNkNWNqZk45aEhjSkVnWVZmNUdYdFBGSHpPNWtad0RfM3VxTExRTjRfenVxUjVmQktxRThoVktPSGJwMHpScVAwS2VJTkp4NFctS1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "30a805d2dc388d13df44c699460268be184c7ee47190298cc2753802869fec6f"
+    },
+    {
+      "id": "20260812-DP-AAF88BB6-283",
+      "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-12T19:41:15+09:00",
+      "publishedAt": "2026-08-12T19:41:15+09:00",
+      "firstCollectedAt": "2026-08-12T21:35:33+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTN1bEh6Ukl0ek80Z0EtNDNTS3VwQm5WNkdPOGRBX0UxeVVEX3UxZ3ZxUTlhc0I2dUhRSExjc1FwV2RfblNuLWIwd0Z6UEhnUW8wUUZfbTlRb200MnA0a2ZnMWhJRkFuOW1XV3hrV2kwUHZqRzRtUy1JXzR5V0Fac3FTZU9GNnNYU0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlNjcllLQTBOZmZBWno5SVNSd1RLZ2w3dU1IZXlGX0hkdWFOLTVJQ01iQ1BDeHdoQ3AtbHhvQV9lYUFaMS1HOWZtY1RqbWs2SUt1V3Y3TnduX3hmMHJ0QlJpZnpVa2NERHoxRmtDWGpsczRKaV9mX3h5T1hzX2RTRm8wb2s4WmdaSXc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWFzX3o1SnliakdBMEFKT1Y3TmZzNEh0eWJzTGNiNjhTSGNtTFpuS3VMMXlyMllDX0Z0Nl90aUp3MUVrMk5sQ19DdWtKaVIzZzNWMm4xLU42R3d5b2Y4SjBtbjFaWmVBSWZvZzQ1Wm9aQ3E2dTV5R3NHV08zYUpHeDZfT3JiR2lmTndxYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T14:19:49+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "aaf88bb6a06afadfe5fe06cf889cc3efac96b4ab06c997485bc01e8b7b3366b3"
+    },
+    {
+      "id": "20260811-DP-4AD5D827-249",
+      "title": "새소식 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T15:51:29+09:00",
+      "publishedAt": "2026-08-11T15:51:29+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "새소식 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ1WXB1eGc1RHo2b2ZzMnpvdjhSR0VWNjFTb1ptMDVLU09uclBpcUFtTkpzZGd1Y291WUU1T1dsazMyYnJTdGI3ZFNxQVVJUURTelR6XzhSQ1dVUDZKYU8xRjlDdkNMdU52NV9YbVRIN29IdnZJalk4VnU5amdLcjN4U0hkNF9yVEhN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0xOeGtjeHh1aUxNU2stQWVUVmlXRm5wcDV0d0dLaFhyZ25UZXRtX0xaWjg5QXlnTmRKN1VWVkZWdTc5WGNodE1BbzFMbk5iQmg3VU1GTzcyZ1RwWUxlRjY3aGFPeHktbS16YWFXbTNXUnEzbnVEZWJsU1lOS1YySDBPZ09KWG1NOVk0?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFdDOHQ1QVIyOUxIMFZ6NmJoUk1YME0tSWRvNjJCdW53YWs2MWpPdTJYZGIzSWlSeG9SOGdqeDYzSDVkbXNobFJjcEFTYTR2V0FFRTg1TVozQnRlMC1LcHFZeldoN3VGY05FQUVsZnphM2laTk5fZkpoaVoybDRseEk5ZG1wWlBFR21J?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T14:19:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
+    },
+    {
+      "id": "20260808-DP-9EFC79BA-214",
+      "title": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-08T14:50:56+09:00",
+      "publishedAt": "2026-08-08T14:50:56+09:00",
+      "firstCollectedAt": "2026-08-09T16:58:42+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요! - 대한민국 정책브리핑",
+          "date": "2026-08-08",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CY3JwbkkzQmh4MVBzYkE3c21hVUpVQW5LOW5wVExHWmlScFFHU3dmWmZnRm80U1VBclZhZEZJTnBBOHpDa0lTQXRrdjUzSDUycmFDaTdKWGgtUlZaQzE1dzFpLThMY3Q1dVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요! - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRHE1VEdOT3dKcmVGdE1jZ1lTeFJjTXNhcnBJcE16X2dDazR5dmEwbFBOcTJmZ2NlX19Md1BpU05pbzFEMVVUcThvZjNPWmxZa1ZMWGVYU2l3M2tzb0xKLWFrNkVwdzlZcTZ2ZkdsYlFRVUd4TlRWWVFjQ19KSHAzSTVFVFNfNXhhTlRmbTFqeHd5QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9efc79ba3c2b2a1708025044feac818f71ca50bac8345d91b86d96db67da3bdc"
+    },
+    {
+      "id": "20260803-DP-0F7905C4-089",
+      "title": "서울가정법원 공고 제 2026 18 호 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-03T17:45:52+09:00",
+      "publishedAt": "2026-08-03T17:45:52+09:00",
+      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "서울가정법원 공고 제 2026 18 호 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "서울가정법원 공고 제 2026 18 호 - 대한민국 법원",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFA5X3ZyQ2x0eXVBZWtyTGRTV3hIazVaYmVjLUphV2Y1MEM5bEdHS2tIRHpZeE5CeEFoYU52ZWd2NTdEQ245RHhLV0haVnF1TVZCSlFTd3dHOThfSlo3YjJIWWxnSnNMMWZQRFhyYlVhRUhDd2N0Mjg1RklHOXhNMWJ0UnRYaGlOX2FjV293?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "서울가정법원 공고 제 2026 20 호 - 대한민국 법원",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDl3MnNtNlV0VkZGLVh3eTF4Vk5vVko1QnFyc1Z6LVNYWG9LN05kb0s2U0dCeEk3Q2t6aHprOWhiRFpscGliTTZPSTU4LWppVC1NeVlNZGxtOUd6WTVRbjFQd1pseHdQR3kxSzN4aTZHNzhmTjFvN1JvN1poZW5fOElOX1pTZl9iZ1c4eTlR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f7905c44320ad58aba9cb33de9b283ec40f5e16db07d346ae29c9894f242dd3"
+    },
+    {
+      "id": "20260814-DP-C0422A10-327",
+      "title": "2027년부터 시행되는 '민생지원·세정합리화' 세제개편 핵심 요약! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T11:10:11+09:00",
+      "publishedAt": "2026-08-14T11:10:11+09:00",
+      "firstCollectedAt": "2026-08-14T14:14:39+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "2027년부터 시행되는 '민생지원·세정합리화' 세제개편 핵심 요약! - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2027년부터 시행되는 '민생지원·세정합리화' 세제개편 핵심 요약! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNkk5Mnp3UGoxM0IzLU0wNzVKQXBBZTM2OEtTTk1FcXktY3g5bnluUk5HUDRJX2lkeEZvb3lFYzktQTJma3BTR1NUNVYxSENsYk1UdTVmd2lDUVFjZUdiNkczZTZOaDFOcTZFNkN2SVBUNDBrR2JMVHJFOVlRdDVUZEhHTGcxTDh2bEpV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c0422a10589e0b5ef51997723c6b7f9ae0b75f8bb7e88b2300d20cccabf1546b"
+    },
+    {
+      "id": "20260814-DP-26147D3A-328",
+      "title": "수도권 13만 호 신속 공급! 달라지는 8.13 부동산 대책 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T11:24:40+09:00",
+      "publishedAt": "2026-08-14T11:24:40+09:00",
+      "firstCollectedAt": "2026-08-14T14:14:39+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "수도권 13만 호 신속 공급! 달라지는 8.13 부동산 대책 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "수도권 13만 호 신속 공급! 달라지는 8.13 부동산 대책 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSW1ucGVKNC1iSFdndUpjZFZfN0NhaUpRcC13OEZINkJiMm1pbm9JbFJkSUdQdUNwVk8tOTVVSVRrRHNJaVlseXVDZ25pUE1ROUtvTHBKb1M5dlhZc3pSaGJualpHUTliVVZKS2RnclBoSUU5WWlOanlSN0o4WTZVODJOT2JMRWJTWFM0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "26147d3a231e70197ead6259218db335443f5674de59c9e2d7de6af29e206d08"
+    },
+    {
+      "id": "20260814-FR-ADE1FEB3-329",
+      "title": "[모두의 토론회] 에스컬레이터, 어떻게 타야 안전할까요? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T08:24:26+09:00",
+      "publishedAt": "2026-08-14T08:24:26+09:00",
+      "firstCollectedAt": "2026-08-14T14:14:39+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "[모두의 토론회] 에스컬레이터, 어떻게 타야 안전할까요? - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[모두의 토론회] 에스컬레이터, 어떻게 타야 안전할까요? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSHNGMzJrdEZHUEpnNWUtQmVhM3p5dENDWjVBeUl2V2xxVWdjUWZrWWxyVFFGQmxkZmt3LUlqXzFhQmVTa1JGRzA2NTF2SmVKZ0RUVHJMUWpzLWxNUUtINVRwQXJHaDgzWnB5YmJ5RTlYTXRWeWFMVGNscngxeDAzeWNfd0RWLWQ3cDFZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ade1feb3476a6517096b9a025a6c5f69e96756e6214c6d4c338d59a0befa6e58"
+    },
+    {
+      "id": "20260813-FR-E6AAF446-330",
+      "title": "우리 가족을 위한 혜택 '안' 궁금해요? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T01:39:27+09:00",
+      "publishedAt": "2026-08-13T01:39:27+09:00",
+      "firstCollectedAt": "2026-08-14T14:14:39+09:00",
+      "updatedAt": "2026-08-14T14:14:39+09:00",
+      "summary": "우리 가족을 위한 혜택 '안' 궁금해요? - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "우리 가족을 위한 혜택 '안' 궁금해요? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wclNHcWZIc1Y2bHdsaVNyZ1lpX2tkZThqMGt4bUl6QWFzenR5QU5ZalAyTVFFV2lHWmJvMXotOV9UaW1kTVpodmdzTllLb2dja1czODJVc0p6VzZZWUIxTzZTMy1EM0JCRmVrdHRR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e6aaf446d96be167e4640f65d7ff77a4f6a243c5d37f5c80e4e2be9f929a33f8"
+    },
     {
       "id": "20260813-FR-5357A700-305",
       "title": "안중근 의사 유묵 '만국공법불여대포', 일본서 환수 후 첫 공개 - 대한민국 정책브리핑",
@@ -904,46 +1353,6 @@
       "contentHash": "0ea5ee570a66adb5680233bb7d8c6bfb05fbf1509fdb8fcf033e531d85448a4f"
     },
     {
-      "id": "20260813-FR-30A805D2-315",
-      "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-13T10:44:37+09:00",
-      "publishedAt": "2026-08-13T10:44:37+09:00",
-      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
-      "updatedAt": "2026-08-13T21:36:29+09:00",
-      "summary": "- 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2J1akF3bTZrWGxRWWtzN3FYOHBvUFVxRFZRNFFhaFFCeUh1M2lsUzVlLTQyTEtpVGc4MVpxRmdfeENGb2dicE9qY1FQU1BBYVlwNG5NU0FzMl9FTzJYY0tQaXNpOEszckktYVRVZUpKVkNpMHY4aVVpdnlzOV9JeGw3S002cm1HM1RCbA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "30a805d2dc388d13df44c699460268be184c7ee47190298cc2753802869fec6f"
-    },
-    {
       "id": "20260813-FR-960A9756-316",
       "title": "촬영 전 18만 원짜리 머리를 한 공무원?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -1729,59 +2138,6 @@
       "contentHash": "ffd1078b5a9380b1c57998dcd090ff22f19be9d403effc04d92bfc953d58f5f8"
     },
     {
-      "id": "20260812-DP-AAF88BB6-283",
-      "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-12T19:41:15+09:00",
-      "publishedAt": "2026-08-12T19:41:15+09:00",
-      "firstCollectedAt": "2026-08-12T21:35:33+09:00",
-      "updatedAt": "2026-08-13T14:19:49+09:00",
-      "summary": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTN1bEh6Ukl0ek80Z0EtNDNTS3VwQm5WNkdPOGRBX0UxeVVEX3UxZ3ZxUTlhc0I2dUhRSExjc1FwV2RfblNuLWIwd0Z6UEhnUW8wUUZfbTlRb200MnA0a2ZnMWhJRkFuOW1XV3hrV2kwUHZqRzRtUy1JXzR5V0Fac3FTZU9GNnNYU0E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "정부, '7대 SEED' 추진 방안 발표…SMR·양자·우주 등 미래 먹거리로 - 대한민국 정책브리핑",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSlNjcllLQTBOZmZBWno5SVNSd1RLZ2w3dU1IZXlGX0hkdWFOLTVJQ01iQ1BDeHdoQ3AtbHhvQV9lYUFaMS1HOWZtY1RqbWs2SUt1V3Y3TnduX3hmMHJ0QlJpZnpVa2NERHoxRmtDWGpsczRKaV9mX3h5T1hzX2RTRm8wb2s4WmdaSXc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-13T14:19:49+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "aaf88bb6a06afadfe5fe06cf889cc3efac96b4ab06c997485bc01e8b7b3366b3"
-    },
-    {
       "id": "20260812-FR-344E4A78-293",
       "title": "세계가 인정한 서산 갯벌, 직접 거닐어본 가로림만 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -1980,59 +2336,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "48ae48ccd0e1bd3050ffc695342614d9307b6c323d791e57a486b7bf438d9196"
-    },
-    {
-      "id": "20260811-DP-4AD5D827-249",
-      "title": "새소식 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T15:51:29+09:00",
-      "publishedAt": "2026-08-11T15:51:29+09:00",
-      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
-      "updatedAt": "2026-08-13T14:19:48+09:00",
-      "summary": "새소식 - 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ1WXB1eGc1RHo2b2ZzMnpvdjhSR0VWNjFTb1ptMDVLU09uclBpcUFtTkpzZGd1Y291WUU1T1dsazMyYnJTdGI3ZFNxQVVJUURTelR6XzhSQ1dVUDZKYU8xRjlDdkNMdU52NV9YbVRIN29IdnZJalk4VnU5amdLcjN4U0hkNF9yVEhN?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0xOeGtjeHh1aUxNU2stQWVUVmlXRm5wcDV0d0dLaFhyZ25UZXRtX0xaWjg5QXlnTmRKN1VWVkZWdTc5WGNodE1BbzFMbk5iQmg3VU1GTzcyZ1RwWUxlRjY3aGFPeHktbS16YWFXbTNXUnEzbnVEZWJsU1lOS1YySDBPZ09KWG1NOVk0?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-13T14:19:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
     },
     {
       "id": "20260812-DP-689AE925-290",
@@ -5541,46 +5844,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b43b5c17ec748964d53aa3578b5e4afec73d08fc3492839bdf30cb219bbd4c51"
-    },
-    {
-      "id": "20260808-DP-9EFC79BA-214",
-      "title": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요! - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-08T14:50:56+09:00",
-      "publishedAt": "2026-08-08T14:50:56+09:00",
-      "firstCollectedAt": "2026-08-09T16:58:42+09:00",
-      "updatedAt": "2026-08-09T16:58:42+09:00",
-      "summary": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요!",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "'2026 주민등록 비대면 사실조사' 기간이 돌아왔어요! - 대한민국 정책브리핑",
-          "date": "2026-08-08",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CY3JwbkkzQmh4MVBzYkE3c21hVUpVQW5LOW5wVExHWmlScFFHU3dmWmZnRm80U1VBclZhZEZJTnBBOHpDa0lTQXRrdjUzSDUycmFDaTdKWGgtUlZaQzE1dzFpLThMY3Q1dVE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9efc79ba3c2b2a1708025044feac818f71ca50bac8345d91b86d96db67da3bdc"
     },
     {
       "id": "20260807-DP-5F5512E2-210",
@@ -10836,46 +11099,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "a6a89323697e176aefeb1b66198eb01ee4c08a23fa92af76ac3bb1237f9354a6"
-    },
-    {
-      "id": "20260803-DP-0F7905C4-089",
-      "title": "서울가정법원 공고 제 2026 18 호 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-03T17:45:52+09:00",
-      "publishedAt": "2026-08-03T17:45:52+09:00",
-      "firstCollectedAt": "2026-08-03T21:41:20+09:00",
-      "updatedAt": "2026-08-03T21:41:20+09:00",
-      "summary": "서울가정법원 공고 제 2026 18 호 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "서울가정법원 공고 제 2026 18 호 - 대한민국 법원",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFA5X3ZyQ2x0eXVBZWtyTGRTV3hIazVaYmVjLUphV2Y1MEM5bEdHS2tIRHpZeE5CeEFoYU52ZWd2NTdEQ245RHhLV0haVnF1TVZCSlFTd3dHOThfSlo3YjJIWWxnSnNMMWZQRFhyYlVhRUhDd2N0Mjg1RklHOXhNMWJ0UnRYaGlOX2FjV293?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0f7905c44320ad58aba9cb33de9b283ec40f5e16db07d346ae29c9894f242dd3"
     },
     {
       "id": "20260803-DP-8970BBE8-091",
