@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-15T03:30:56+09:00",
-    "nextScheduledUpdate": "2026-08-15T04:00:56+09:00",
+    "lastSuccessfulUpdate": "2026-08-15T05:07:12+09:00",
+    "nextScheduledUpdate": "2026-08-15T05:37:12+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-15T03:30:54+09:00",
-      "finishedAt": "2026-08-15T03:30:56+09:00",
+      "startedAt": "2026-08-15T05:07:09+09:00",
+      "finishedAt": "2026-08-15T05:07:12+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 48,
-      "duplicates": 51,
+      "acceptedCandidates": 46,
+      "duplicates": 49,
       "rejected": 147,
-      "rejectedByDate": 144,
-      "rejectedByRelevance": 2,
+      "rejectedByDate": 145,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 1,
-      "newIssues": 1,
+      "newIssues": 3,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,179 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260814-FR-DE4C75D6-343",
+      "title": "하고 싶은 게 많은 청소년을 위한 체험 활동비 지원 소식! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T10:49:36+09:00",
+      "publishedAt": "2026-08-14T10:49:36+09:00",
+      "firstCollectedAt": "2026-08-15T00:08:28+09:00",
+      "updatedAt": "2026-08-15T05:07:10+09:00",
+      "summary": "하고 싶은 게 많은 청소년을 위한 체험 활동비 지원 소식! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "하고 싶은 게 많은 청소년을 위한 체험 활동비 지원 소식! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkJpRGtBTkxKUGtEVHNQcnJjRnpSR2h1WWtPZXJlSWZCR1o2c0xsd3lrUlg0SzRkekpGdm1XOWs5QXRzTDlVOG05QS0wM1k5cDBzZlRzN1BxdHB5OUpfQUdxZEtOQ3JGcGZxR2ltUE9ZQXktN09WVDJyaEVfamFqeXIzQTg5dnk5ZjBDeg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "하고 싶은 게 많은 청소년을 위한 체험 활동비 지원 소식! - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qdXJNdGVmaTUtWVgtSTBhUl95ZnZlQVF3dlpBZm8yR2FueTB5OE83Z3diNWt5RHVLMVYyTnk2dDdVaDBlcldIYnNlQ0FkU0Z4UEhScTdFWDktdUdaYWhFTjktZXAtaDJiZ0JlTg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-15T05:07:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "de4c75d6a640d5a63fa6d8e8b627e6b40d01607bd751b0e97a318592e2f5298b"
+    },
+    {
+      "id": "20260814-DP-334A911A-349",
+      "title": "복권 1등 당첨되면 세금은 얼마? - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T11:10:06+09:00",
+      "publishedAt": "2026-08-14T11:10:06+09:00",
+      "firstCollectedAt": "2026-08-15T05:07:10+09:00",
+      "updatedAt": "2026-08-15T05:07:10+09:00",
+      "summary": "복권 1등 당첨되면 세금은 얼마?",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "복권 1등 당첨되면 세금은 얼마? - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IOUlFZGJCdUdsM1c1VmRzaFBHeFRER3VMc1hRb3o4cmVYUmh3LWQwMkpwdDVwNHhwZTRucjRMRTRMcE53WHBxTjhWeDRuY2hNQmt3RDFzakNDV0dyZDRsbmJ2UFpnVGNtOXF2ZA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "334a911ab6b6a517b0806982c7e3011e7f5ced945115cd3bf3d28bbe3018fc02"
+    },
+    {
+      "id": "20260814-DP-643A0648-350",
+      "title": "진짜 반달가슴곰 만나러 출동! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T17:29:37+09:00",
+      "publishedAt": "2026-08-14T17:29:37+09:00",
+      "firstCollectedAt": "2026-08-15T05:07:10+09:00",
+      "updatedAt": "2026-08-15T05:07:10+09:00",
+      "summary": "진짜 반달가슴곰 만나러 출동!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "진짜 반달가슴곰 만나러 출동! - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JUW54azlUV2psMzVyT1hCdlNsNVNkY3ZvY0pPUHI3MTVFcHY0elNRTHZYeEUyYU9PNlFSaXU0cXM2R1htVjNtM25ROVZnUzJsdW92VnBHaFZGQ2JPc0V1VG91Yks2WjktMkNVTg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "643a06482a136bcef18fc1c5e2e36e067f0f9eab8a9b1177b2fee9b5e5ef8a2c"
+    },
+    {
+      "id": "20260815-DP-E353D65F-351",
+      "title": "휴머노이드 로봇이 내 일자리를 뺏을까? 피지컬 AI가 바꿀 제조업의 미래 (ft. 에이로봇 엄윤설 대표) - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T04:39:42+09:00",
+      "publishedAt": "2026-08-15T04:39:42+09:00",
+      "firstCollectedAt": "2026-08-15T05:07:10+09:00",
+      "updatedAt": "2026-08-15T05:07:10+09:00",
+      "summary": "휴머노이드 로봇이 내 일자리를 뺏을까? 피지컬 AI가 바꿀 제조업의 미래 (ft.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "휴머노이드 로봇이 내 일자리를 뺏을까? 피지컬 AI가 바꿀 제조업의 미래 (ft. 에이로봇 엄윤설 대표) - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WVlh5dXpRV0ZJYVk5Z3lpWnp3bDdhYXl1eVY2bVZ0N2hBWjJSWnh5TS1fQ000ZHBSX2NmdFdJU0M0OHphRTZqWVZ5Mnh1SzlmYXBCX0piRVVUUy1FZjM1Uk9xenJ2Z05PNTlQbQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e353d65f3a412986747f2b53f184fb36e9ac6efc8380823caa74a0c385371db8"
+    },
     {
       "id": "20260814-FR-47CC6FA4-345",
       "title": "경남 지역 폭염·가뭄 피해가 수급에 미치는 영향 제한적··· 추석 과일값 안정세 이어갈 것 - 대한민국 정책브리핑",
@@ -342,46 +515,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4750332e334d13c6499a0505739b7ac64f58c7a45bf185a486d09e59104c38c5"
-    },
-    {
-      "id": "20260814-FR-DE4C75D6-343",
-      "title": "하고 싶은 게 많은 청소년을 위한 체험 활동비 지원 소식! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-14T10:49:36+09:00",
-      "publishedAt": "2026-08-14T10:49:36+09:00",
-      "firstCollectedAt": "2026-08-15T00:08:28+09:00",
-      "updatedAt": "2026-08-15T00:08:28+09:00",
-      "summary": "하고 싶은 게 많은 청소년을 위한 체험 활동비 지원 소식! - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "하고 싶은 게 많은 청소년을 위한 체험 활동비 지원 소식! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkJpRGtBTkxKUGtEVHNQcnJjRnpSR2h1WWtPZXJlSWZCR1o2c0xsd3lrUlg0SzRkekpGdm1XOWs5QXRzTDlVOG05QS0wM1k5cDBzZlRzN1BxdHB5OUpfQUdxZEtOQ3JGcGZxR2ltUE9ZQXktN09WVDJyaEVfamFqeXIzQTg5dnk5ZjBDeg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "de4c75d6a640d5a63fa6d8e8b627e6b40d01607bd751b0e97a318592e2f5298b"
     },
     {
       "id": "20260814-FR-7B599045-344",
