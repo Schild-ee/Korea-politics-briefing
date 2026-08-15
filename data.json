@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-15T19:52:25+09:00",
-    "nextScheduledUpdate": "2026-08-15T20:22:25+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-15T20:45:17+09:00",
+    "nextScheduledUpdate": "2026-08-15T21:15:17+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-15T19:52:23+09:00",
-      "finishedAt": "2026-08-15T19:52:25+09:00",
+      "startedAt": "2026-08-15T20:45:15+09:00",
+      "finishedAt": "2026-08-15T20:45:17+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 41,
-      "duplicates": 46,
+      "duplicates": 45,
       "rejected": 154,
       "rejectedByDate": 154,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260813-DP-2F9E7C33-364",
+      "title": "판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T16:00:00+09:00",
+      "publishedAt": "2026-08-13T16:00:00+09:00",
+      "firstCollectedAt": "2026-08-15T20:45:15+09:00",
+      "updatedAt": "2026-08-15T20:45:15+09:00",
+      "summary": "판례속보 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "판례속보 - 대한민국 법원",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNSmh6NVdqdUJ6amVtZVphc0JmZXQwRGllbUhQRUZkdFFmNjFBRlkxcXVqRk80VXZTWFE0X0RhaUZBUmVjT2ZBb1FpdkRpLTNWLUVfQU84QW8tZ05EejBFMGloTEpoMDNiQmNHWDkzOGQwcVlNUEJOV1FvQjEtUmh5UmRhX3BncllKRzNNdlN2THhBSmF5WGVpWmtPa2VvUU5SbU00cndTSGZpOFZ4RUlyTTJIWEUzZ2xCbHo0MjNSWHJFb19kVWo2djBES3ctRlZLV1d5WVdQRnNyaVVxZDFwdHNoemRDWFQtd01QVlBzTlppTnQ2ZEtTQkdhRzZvdFB0Q19mbWwzejdxVVhVcVh1VnN2SGthWFViS1lkVnZ3QXpYSEF4SjhQYTNZTkVUdUJPUWhxbnNGN09QVXhDa1pmZVFYUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2f9e7c33b1ef45f2dfb20295609263f29d261882ae0b633e698e6b237f191f4e"
+    },
     {
       "id": "20260815-DP-FC1BB80F-361",
       "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 - 대한민국 정책브리핑",
