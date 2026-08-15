@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-15T20:45:17+09:00",
-    "nextScheduledUpdate": "2026-08-15T21:15:17+09:00",
+    "lastSuccessfulUpdate": "2026-08-15T22:43:10+09:00",
+    "nextScheduledUpdate": "2026-08-15T23:13:10+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-15T20:45:15+09:00",
-      "finishedAt": "2026-08-15T20:45:17+09:00",
+      "startedAt": "2026-08-15T22:43:08+09:00",
+      "finishedAt": "2026-08-15T22:43:10+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 41,
-      "duplicates": 45,
-      "rejected": 154,
-      "rejectedByDate": 154,
+      "acceptedCandidates": 40,
+      "duplicates": 43,
+      "rejected": 156,
+      "rejectedByDate": 156,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260815-DP-E58F5980-360",
+      "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T14:46:37+09:00",
+      "publishedAt": "2026-08-15T14:46:37+09:00",
+      "firstCollectedAt": "2026-08-15T16:43:31+09:00",
+      "updatedAt": "2026-08-15T22:43:09+09:00",
+      "summary": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY25QdFI4ZDBLbVNHc1R2ODA2ZThXT0pmbnZGVWxFblhrT2hMd015bUpHc3BVMUxVZDF6cWdMUnJmN1U3eUlYLW90V1pIVWlDTTgxZEZpTEtjZ1RSQlhIWjJ1YmV5SzlnUE9meDhVUEhSSmhFY2hiVUtWeXZIUUlwUXVGQko?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00MzBJS05kRm9faS1XbEhvbjZZWUlzbGllM0ZaZFcxc1BMOEN2ZWFKSzZTa1poQkNqWFlwNnk5cjdnODlpYVNvRU9CeEFRLVRMRE93OEtTV3FRZHExNFBJWkhNbFFYbnhNeTNIbA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-15T22:43:09+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e58f59803d2717ac12db4185c8441bda6167ddead31016ecd37a6bcd242377c2"
+    },
     {
       "id": "20260813-DP-2F9E7C33-364",
       "title": "판례속보 - 대한민국 법원",
@@ -263,46 +316,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4a1a054a1d2512f26727d3a4e3ff49ac7780890dbfbfd4fb4e97b6fae9489ce7"
-    },
-    {
-      "id": "20260815-DP-E58F5980-360",
-      "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-15T14:46:37+09:00",
-      "publishedAt": "2026-08-15T14:46:37+09:00",
-      "firstCollectedAt": "2026-08-15T16:43:31+09:00",
-      "updatedAt": "2026-08-15T16:43:31+09:00",
-      "summary": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
-          "date": "2026-08-15",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY25QdFI4ZDBLbVNHc1R2ODA2ZThXT0pmbnZGVWxFblhrT2hMd015bUpHc3BVMUxVZDF6cWdMUnJmN1U3eUlYLW90V1pIVWlDTTgxZEZpTEtjZ1RSQlhIWjJ1YmV5SzlnUE9meDhVUEhSSmhFY2hiVUtWeXZIUUlwUXVGQko?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e58f59803d2717ac12db4185c8441bda6167ddead31016ecd37a6bcd242377c2"
     },
     {
       "id": "20260814-FR-2B2E0845-338",
