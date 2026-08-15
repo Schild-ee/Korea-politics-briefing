@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-15T12:05:10+09:00",
-    "nextScheduledUpdate": "2026-08-15T12:35:10+09:00",
+    "lastSuccessfulUpdate": "2026-08-15T13:16:16+09:00",
+    "nextScheduledUpdate": "2026-08-15T13:46:16+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-15T12:05:07+09:00",
-      "finishedAt": "2026-08-15T12:05:10+09:00",
+      "startedAt": "2026-08-15T13:16:13+09:00",
+      "finishedAt": "2026-08-15T13:16:16+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 44,
-      "duplicates": 49,
+      "duplicates": 47,
       "rejected": 149,
-      "rejectedByDate": 147,
+      "rejectedByDate": 148,
       "rejectedByRelevance": 1,
-      "rejectedAsCommentary": 1,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "rejectedAsCommentary": 0,
+      "newIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,179 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260814-FR-2B2E0845-338",
+      "title": "\"내 집 세금 오를까, 내릴까?\" 김광석 교수가 직접 풀어주는 부동산 세제개편안 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T08:54:08+09:00",
+      "publishedAt": "2026-08-14T08:54:08+09:00",
+      "firstCollectedAt": "2026-08-14T21:00:38+09:00",
+      "updatedAt": "2026-08-15T13:16:14+09:00",
+      "summary": "\"내 집 세금 오를까, 내릴까?\" 김광석 교수가 직접 풀어주는 부동산 세제개편안 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"내 집 세금 오를까, 내릴까?\" 김광석 교수가 직접 풀어주는 부동산 세제개편안 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0h0X2Iwam1ibGpDTWZnUXlLMkNaNXJPT2xQbzNaQ0EtOVFhalZJd0lJUExOU09IWE9wSUdWWmJtNXp0YUpwVmRqZERfYUtZRDQxX0hRTDc0dDgxMDVBd00zTGVJRW1SWFNtMDZrRG93Z2ctTXJYQWRtRGR4R2JUQkk3Z2s?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"내 집 세금 오를까, 내릴까?\" 김광석 교수가 직접 풀어주는 부동산 세제개편안 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMktTVEJCMVRwVFE1VVhfelpnaGE4d09wWVZ4cGwyeFVkLVE2cmdWZW1HX3F4MTQwbHlTcWs2d2FiSHlWUF9RRDd1MVdrSjdfdjNLMmhQMXVVLUMzOXNXVU80VTFXTm81WUVLZA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-15T13:16:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2b2e084568f6a727bb5c0fc8629d5fae5048a40cb4bd17946adbb30730bad98a"
+    },
+    {
+      "id": "20260815-DP-C752A9B6-356",
+      "title": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T13:07:30+09:00",
+      "publishedAt": "2026-08-15T13:07:30+09:00",
+      "firstCollectedAt": "2026-08-15T13:16:14+09:00",
+      "updatedAt": "2026-08-15T13:16:14+09:00",
+      "summary": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcThFS1RHRklHY1VsQTc4VWwyZkd4OERWWm1NbW13TVFUYU5HbS1pM1A0LTBIQmItWTNFOXU3SW1pVGd2dkNxOEVhR2J3cE5iZ1hVTHl0eUVCRjBnQXVJeVZOSHpjV1E5em1fcVVDVkZoNDc0Rmg0X25wYUo4VzhrU0ZEYzBIOV9xcHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c752a9b6a34acc729f8b30fd917d6eb2673f9dd926aab4f8651985d30da35d07"
+    },
+    {
+      "id": "20260814-FR-56844CFB-357",
+      "title": "'불닭'에서 시작된 K-푸드 관광의 '매운 맛' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T13:54:43+09:00",
+      "publishedAt": "2026-08-14T13:54:43+09:00",
+      "firstCollectedAt": "2026-08-15T13:16:14+09:00",
+      "updatedAt": "2026-08-15T13:16:14+09:00",
+      "summary": "'불닭'에서 시작된 K-푸드 관광의 '매운 맛' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'불닭'에서 시작된 K-푸드 관광의 '매운 맛' - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSSlhMN2lOOWZ1SDh5VWI5RVdyVWQzdDN3TUo3LVFHVk1YQWptT3E0WVMweTJLYmJMWnNUZ0xKZ25nRWJPS1dNS3RfTHFaT283WE1qckJMM0lndllzOGdFU0ZEUTc3X2FXTlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "56844cfb36bcfa37d589512f6f75a8cba8db21bda6919e8c11aa841aaa525820"
+    },
+    {
+      "id": "20260815-FR-63A821F7-358",
+      "title": "'디지털관광주민증' 들고 보령으로!…지역 살리는 축제 현장 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T06:03:49+09:00",
+      "publishedAt": "2026-08-15T06:03:49+09:00",
+      "firstCollectedAt": "2026-08-15T13:16:14+09:00",
+      "updatedAt": "2026-08-15T13:16:14+09:00",
+      "summary": "'디지털관광주민증' 들고 보령으로!…지역 살리는 축제 현장 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'디지털관광주민증' 들고 보령으로!…지역 살리는 축제 현장 - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4telI4VkI3TWI0VUtldHJidWtyTlB5aGw5Nk9rMkh5bmJEbzdKTVcwQWw4a1pQWkRZNDlYN2FCamRBR3NjU1ZBVDB6NnZ6aG0zUXUwVzVuczQ5T29RSkx6aEJtUGVHdC0tRnc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "63a821f71e03e70269f3308fa8cea03c98fda87e5151517e4572aba06ea0af03"
+    },
     {
       "id": "20260814-DP-CEBEC5BC-354",
       "title": "김정관 장관, 빌 게이츠 테라파워 의장 면담…SMR 협력방안 논의 - 대한민국 정책브리핑",
@@ -1046,46 +1219,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "a9642d73fc182687902f2190d05b13531ef7b3165dc055568a33ca1d0bd720c6"
-    },
-    {
-      "id": "20260814-FR-2B2E0845-338",
-      "title": "\"내 집 세금 오를까, 내릴까?\" 김광석 교수가 직접 풀어주는 부동산 세제개편안 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-14T08:54:08+09:00",
-      "publishedAt": "2026-08-14T08:54:08+09:00",
-      "firstCollectedAt": "2026-08-14T21:00:38+09:00",
-      "updatedAt": "2026-08-14T21:00:38+09:00",
-      "summary": "\"내 집 세금 오를까, 내릴까?\" 김광석 교수가 직접 풀어주는 부동산 세제개편안 - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"내 집 세금 오를까, 내릴까?\" 김광석 교수가 직접 풀어주는 부동산 세제개편안 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa0h0X2Iwam1ibGpDTWZnUXlLMkNaNXJPT2xQbzNaQ0EtOVFhalZJd0lJUExOU09IWE9wSUdWWmJtNXp0YUpwVmRqZERfYUtZRDQxX0hRTDc0dDgxMDVBd00zTGVJRW1SWFNtMDZrRG93Z2ctTXJYQWRtRGR4R2JUQkk3Z2s?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2b2e084568f6a727bb5c0fc8629d5fae5048a40cb4bd17946adbb30730bad98a"
     },
     {
       "id": "20260814-DP-337704B2-336",
