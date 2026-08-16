@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-16T16:45:45+09:00",
-    "nextScheduledUpdate": "2026-08-16T17:15:45+09:00",
+    "lastSuccessfulUpdate": "2026-08-16T18:02:30+09:00",
+    "nextScheduledUpdate": "2026-08-16T18:32:30+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-16T16:45:43+09:00",
-      "finishedAt": "2026-08-16T16:45:45+09:00",
+      "startedAt": "2026-08-16T18:02:27+09:00",
+      "finishedAt": "2026-08-16T18:02:30+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 32,
-      "duplicates": 33,
+      "acceptedCandidates": 31,
+      "duplicates": 35,
       "rejected": 164,
       "rejectedByDate": 162,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260815-FR-C7E4E636-373",
+      "title": "여행 전 안전 준비! 편리한 출국 위해 '체크!' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T09:11:15+09:00",
+      "publishedAt": "2026-08-15T09:11:15+09:00",
+      "firstCollectedAt": "2026-08-16T18:02:28+09:00",
+      "updatedAt": "2026-08-16T18:02:28+09:00",
+      "summary": "편리한 출국 위해 '체크!' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "여행 전 안전 준비! 편리한 출국 위해 '체크!' - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IMjJOR1A0S2FzbHQzSkp3NW1sVk81Q0s1M193NkFLWnBHRWpERmJxNnNxNTFwY0IyWDYycWdRbFYzQS10VDJiVDJ2S3hTM01OTm42OHZ2aFJaVU5IbHVlNDk4NDF4OUdVdEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c7e4e636323fbfb9d9c554f33e6fe59c5103ad14e4f87e81c79eb8b03c619c77"
+    },
     {
       "id": "20260813-DP-2DE6FC4C-370",
       "title": "아이돌봄 실태조사 주요내용 브리핑 - 대한민국 정책브리핑",
