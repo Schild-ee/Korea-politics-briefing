@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-16T19:53:24+09:00",
-    "nextScheduledUpdate": "2026-08-16T20:23:24+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-16T20:47:19+09:00",
+    "nextScheduledUpdate": "2026-08-16T21:17:19+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-16T19:53:22+09:00",
-      "finishedAt": "2026-08-16T19:53:24+09:00",
+      "startedAt": "2026-08-16T20:47:17+09:00",
+      "finishedAt": "2026-08-16T20:47:19+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 26,
-      "duplicates": 32,
-      "rejected": 168,
-      "rejectedByDate": 166,
+      "acceptedCandidates": 28,
+      "duplicates": 33,
+      "rejected": 166,
+      "rejectedByDate": 164,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260814-FR-40142D5F-374",
+      "title": "청년, 신혼부부 주택 실수요자 지원 더 세심하게 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T07:50:32+09:00",
+      "publishedAt": "2026-08-14T07:50:32+09:00",
+      "firstCollectedAt": "2026-08-16T20:47:18+09:00",
+      "updatedAt": "2026-08-16T20:47:18+09:00",
+      "summary": "청년, 신혼부부 주택 실수요자 지원 더 세심하게 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청년, 신혼부부 주택 실수요자 지원 더 세심하게 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbGVPcnZFQkMtVnJrSEFxR1JNZlFuWmw2ZVItSHlBNVFQZjdEaG8zeERISWNkVjRtMXdFWUlBUzlWOE1iVFhaRko5aXpKcE9fbFVyZmloY2FScjJiVFhvTExVZGpRX1ZZdDBWc1ZOYUYxT0F1YUx1bllVdVZuS1U2cGpfN25rdVgtRDA0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "40142d5f9c33153f483de4ad10fc35ff19eec7d5b5a94a409ca8cb2cdd600850"
+    },
     {
       "id": "20260815-FR-C7E4E636-373",
       "title": "여행 전 안전 준비! 편리한 출국 위해 '체크!' - 대한민국 정책브리핑",
