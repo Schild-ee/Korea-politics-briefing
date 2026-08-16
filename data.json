@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-16T23:54:52+09:00",
-    "nextScheduledUpdate": "2026-08-17T00:24:52+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-17T00:49:24+09:00",
+    "nextScheduledUpdate": "2026-08-17T01:19:24+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-16T23:54:49+09:00",
-      "finishedAt": "2026-08-16T23:54:52+09:00",
+      "startedAt": "2026-08-17T00:49:21+09:00",
+      "finishedAt": "2026-08-17T00:49:24+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 28,
-      "duplicates": 31,
+      "duplicates": 30,
       "rejected": 169,
       "rejectedByDate": 166,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 1,
       "newIssues": 0,
-      "updatedIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,71 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260814-FR-0E4CF1D9-332",
+      "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T16:53:50+09:00",
+      "publishedAt": "2026-08-14T16:53:50+09:00",
+      "firstCollectedAt": "2026-08-14T18:35:56+09:00",
+      "updatedAt": "2026-08-17T00:49:23+09:00",
+      "summary": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVmJLTlFTdGpMUHhoOXlVTzBDbDRIems2MUFBakZWVjNHcFpvdWxnS1g3YXNLd29pbW96U3BrTEE4UnJ5Sy1BYmQ1NERsQzR6NjE0aHl0MXR4eDROYXA1dEZCdXpXTWhHSFg4anJ1OXJHa0dfMUpVUWVkS19DSmRxNDRKTWpET1owb3c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3Jra3piY3F2LTlGY2JhcjVmdUVvaW1HeGJacW13VjJfcmN4OUJBaS0xaVVLWXFGS29UUkpNYUhLR1lXVlpzUDdULVBzVy1XZkRBbERPWjVoeHlZTEhMSU56d0VNbUg2Yi1XZ3NvMWtJNUpvRUpJd25vWTJoRDNvdkdZbTItczJ5OUE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRHpwM19VblhGOGdSNmJuMjkwRnA5VFRudjRyYUhuaTc1MnRzVkhmbE5fZUNDOG1iX2ctLTlrdHU3SHhrVFVVVzR0T0h5aFNyZEoxRFFjeG5INDJWbTctejMtZktleml3bjdnZEg1NWY4Yl81ZlhEdm9EekdkYWlhMFNqWXE4bllIeVFiZ1ZNLXI?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-16T05:53:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-17T00:49:23+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0e4cf1d94a54f844fad2eede297a7671668bc31e05d43a3f0bbdbdefb4466385"
+    },
     {
       "id": "20260816-FR-F60C8D28-375",
       "title": "(설명) 「화재시 장애인 재난대응 안내서」를 현실에 맞게 개선·보완하겠습니다.(연합뉴스 등) - 대한민국 정책브리핑",
@@ -623,59 +688,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9abf58cd0a696967abe0bd22f4ac3d313e0620c2e35e63cc5c8953f44d68c1da"
-    },
-    {
-      "id": "20260814-FR-0E4CF1D9-332",
-      "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-14T16:53:50+09:00",
-      "publishedAt": "2026-08-14T16:53:50+09:00",
-      "firstCollectedAt": "2026-08-14T18:35:56+09:00",
-      "updatedAt": "2026-08-16T05:53:42+09:00",
-      "summary": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVmJLTlFTdGpMUHhoOXlVTzBDbDRIems2MUFBakZWVjNHcFpvdWxnS1g3YXNLd29pbW96U3BrTEE4UnJ5Sy1BYmQ1NERsQzR6NjE0aHl0MXR4eDROYXA1dEZCdXpXTWhHSFg4anJ1OXJHa0dfMUpVUWVkS19DSmRxNDRKTWpET1owb3c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3Jra3piY3F2LTlGY2JhcjVmdUVvaW1HeGJacW13VjJfcmN4OUJBaS0xaVVLWXFGS29UUkpNYUhLR1lXVlpzUDdULVBzVy1XZkRBbERPWjVoeHlZTEhMSU56d0VNbUg2Yi1XZ3NvMWtJNUpvRUpJd25vWTJoRDNvdkdZbTItczJ5OUE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-16T05:53:42+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0e4cf1d94a54f844fad2eede297a7671668bc31e05d43a3f0bbdbdefb4466385"
     },
     {
       "id": "20260813-DP-FBD2A78E-298",
