@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-17T04:00:42+09:00",
-    "nextScheduledUpdate": "2026-08-17T04:30:42+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-17T04:42:48+09:00",
+    "nextScheduledUpdate": "2026-08-17T05:12:48+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-17T04:00:40+09:00",
-      "finishedAt": "2026-08-17T04:00:42+09:00",
+      "startedAt": "2026-08-17T04:42:46+09:00",
+      "finishedAt": "2026-08-17T04:42:48+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 28,
-      "duplicates": 31,
+      "acceptedCandidates": 27,
+      "duplicates": 30,
       "rejected": 169,
       "rejectedByDate": 165,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 2,
-      "newIssues": 0,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260814-FR-0783799C-377",
+      "title": "청년내일저축계좌, 3년 후 어떤 변화가 생겼을까요? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T16:00:00+09:00",
+      "publishedAt": "2026-08-14T16:00:00+09:00",
+      "firstCollectedAt": "2026-08-17T04:42:47+09:00",
+      "updatedAt": "2026-08-17T04:42:47+09:00",
+      "summary": "청년내일저축계좌, 3년 후 어떤 변화가 생겼을까요? - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청년내일저축계좌, 3년 후 어떤 변화가 생겼을까요? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSW1tZGR1aDFaWms4OU5LLUJZVzVKYlpJQml4YlRMbkJoUkl6V0RBLTJ3QTZMRFk4cWJOa1hhR1VURS1lNERidzhsZzA3VnE3LVBEQlB4MXBXQjEzQWZkbWY4bHZNclA5TGREZ1d5QnhrNnZlTGdtS0ctZkhlbFBWaWl4WDhTNG9lNnRsY3pB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0783799c623ed8a8d446342056f84b498b3b8aa692139d51f83389dad2fb6c6b"
+    },
     {
       "id": "20260814-FR-0E4CF1D9-332",
       "title": "경상·전남 가뭄 피해 지원에 군 급수지원 차량 115대 투입 - 대한민국 정책브리핑",
