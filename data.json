@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-16T08:44:07+09:00",
-    "nextScheduledUpdate": "2026-08-16T09:14:07+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-16T12:27:49+09:00",
+    "nextScheduledUpdate": "2026-08-16T12:57:49+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-16T08:44:04+09:00",
-      "finishedAt": "2026-08-16T08:44:07+09:00",
+      "startedAt": "2026-08-16T12:27:47+09:00",
+      "finishedAt": "2026-08-16T12:27:49+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 36,
-      "duplicates": 38,
-      "rejected": 162,
-      "rejectedByDate": 160,
-      "rejectedByRelevance": 1,
-      "rejectedAsCommentary": 1,
-      "newIssues": 0,
+      "acceptedCandidates": 9,
+      "duplicates": 8,
+      "rejected": 191,
+      "rejectedByDate": 159,
+      "rejectedByRelevance": 32,
+      "rejectedAsCommentary": 0,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260815-FR-B215A714-368",
+      "title": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T16:17:55+09:00",
+      "publishedAt": "2026-08-15T16:17:55+09:00",
+      "firstCollectedAt": "2026-08-16T12:27:48+09:00",
+      "updatedAt": "2026-08-16T12:27:48+09:00",
+      "summary": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" - korea.kr",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQVNaaWd6RHVBNjVYVUh5ZnBMdUstV294ZXJsSS1YVElfU0VRb054WFJ2SW9IWi1USFNMSlFSb0psYktma0xKeU96ZFl4THNGa3FRb3pVSlNwbUtsQi03OVFGZno3S2lSTFVhN0ZsUjNSWUpoVUpXb2NNTGpBR0ZXRXBSS1dmOVNV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b215a714f5b1d32137016b2a83e967c3cfec4960a5d764ee8f8f9db125238be0"
+    },
     {
       "id": "20260814-DP-9E2ED6A9-367",
       "title": "새만금 '그린에너지 복합단지' 조성…새만금청·남동발전 MOU - 대한민국 정책브리핑",
