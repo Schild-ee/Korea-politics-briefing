@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-16T12:27:49+09:00",
-    "nextScheduledUpdate": "2026-08-16T12:57:49+09:00",
+    "lastSuccessfulUpdate": "2026-08-16T14:03:19+09:00",
+    "nextScheduledUpdate": "2026-08-16T14:33:19+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-16T12:27:47+09:00",
-      "finishedAt": "2026-08-16T12:27:49+09:00",
+      "startedAt": "2026-08-16T14:03:16+09:00",
+      "finishedAt": "2026-08-16T14:03:19+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 9,
-      "duplicates": 8,
-      "rejected": 191,
+      "acceptedCandidates": 34,
+      "duplicates": 35,
+      "rejected": 162,
       "rejectedByDate": 159,
-      "rejectedByRelevance": 32,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
-      "updatedIssues": 0,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,166 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260815-DP-E58F5980-360",
+      "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T14:46:37+09:00",
+      "publishedAt": "2026-08-15T14:46:37+09:00",
+      "firstCollectedAt": "2026-08-15T16:43:31+09:00",
+      "updatedAt": "2026-08-16T14:03:17+09:00",
+      "summary": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY25QdFI4ZDBLbVNHc1R2ODA2ZThXT0pmbnZGVWxFblhrT2hMd015bUpHc3BVMUxVZDF6cWdMUnJmN1U3eUlYLW90V1pIVWlDTTgxZEZpTEtjZ1RSQlhIWjJ1YmV5SzlnUE9meDhVUEhSSmhFY2hiVUtWeXZIUUlwUXVGQko?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00MzBJS05kRm9faS1XbEhvbjZZWUlzbGllM0ZaZFcxc1BMOEN2ZWFKSzZTa1poQkNqWFlwNnk5cjdnODlpYVNvRU9CeEFRLVRMRE93OEtTV3FRZHExNFBJWkhNbFFYbnhNeTNIbA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUU5tR3BXSnoyVzlSZ1hoaThRN0NOT3JUZlRCaEZTQTJzUV8tR1F6RzJqSTVhYnBJeGxGODl4U0ZNMmRSRzkzZmstcTZRbm4xbXNwdm11cEV4RGhCY0Z1NEZBV2tUWXVJQS1wYjQ0ejNUczVLUWxMNHFLdENsRXZzNk9KQmNfYXhLU0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-15T22:43:09+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-16T14:03:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e58f59803d2717ac12db4185c8441bda6167ddead31016ecd37a6bcd242377c2"
+    },
+    {
+      "id": "20260815-DP-FC1BB80F-361",
+      "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T16:36:15+09:00",
+      "publishedAt": "2026-08-15T16:36:15+09:00",
+      "firstCollectedAt": "2026-08-15T18:53:23+09:00",
+      "updatedAt": "2026-08-16T14:03:17+09:00",
+      "summary": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmZjVzl0SjNfUENBLXRxcjh5aVk4bUstX2sxczdPOXpoYVJqLW94UEMyNXZlbzNXYXFlclRrbk1nSDlRU2QxOHBvSFpSVHNsYXFXZGRxWjhhOWl0blZfOFU3Y3RSUWV4TGJUdEE1UXhMVm5ORG1uVTBidnRubGx1R2d3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVNkNUU5YUZvVkVhdkhjbzN2bTlTUW9wNzhTZnJnNVFndUNVNGVmUEJTMXhNcDlvU1ZDYjBlQzZ2OFdfTU5xMzljUjhXeHdDNmxONWxrejU2MkhxTWVmWWlPcDRnOS1WR01NYmtFZWV6SVFXWDQ3aTNBbkpmX3RHdE94SmF0WTFO?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-16T14:03:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fc1bb80f8a7f53239abeaec94f680776f5502c75de12a5be33da290f1946ae5a"
+    },
+    {
+      "id": "20260815-FR-7801AECA-369",
+      "title": "지리산·북한산 등 국립공원 내 독립운동 역사문화자원 재조명 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T01:52:30+09:00",
+      "publishedAt": "2026-08-15T01:52:30+09:00",
+      "firstCollectedAt": "2026-08-16T14:03:17+09:00",
+      "updatedAt": "2026-08-16T14:03:17+09:00",
+      "summary": "지리산·북한산 등 국립공원 내 독립운동 역사문화자원 재조명 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지리산·북한산 등 국립공원 내 독립운동 역사문화자원 재조명 - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdlhtSExiUGQ5YnV5a2hvODNxN1RuQzNEcTVpN0otSGZhTDlreUZUbGxxMUZxc0VhdFpNQkRIUVo4WWtldXlOY2JnRzVzRnd6RnFNY2NlUmVqZE9CWEhiYVBDN3AtVXo3RVdfaXo2R3dBbGxSNTFYVl93MlNXczhqQTZHdGdKSzJmVXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7801aecaa3b6b5b17886b1f9d1bddb173014bf1caaba49062769d5e78d885ec1"
+    },
     {
       "id": "20260815-FR-B215A714-368",
       "title": "한 총리 \"주택공급상황, 총리 최우선 과제로 관리…매주 현장 점검\" - korea.kr",
@@ -355,59 +515,6 @@
       "contentHash": "957b643ca26fc54107aa2c5de4586d25f0e14fa0d9be4dd8d86ce0b5d25f01fe"
     },
     {
-      "id": "20260815-DP-E58F5980-360",
-      "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-15T14:46:37+09:00",
-      "publishedAt": "2026-08-15T14:46:37+09:00",
-      "firstCollectedAt": "2026-08-15T16:43:31+09:00",
-      "updatedAt": "2026-08-15T22:43:09+09:00",
-      "summary": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
-          "date": "2026-08-15",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY25QdFI4ZDBLbVNHc1R2ODA2ZThXT0pmbnZGVWxFblhrT2hMd015bUpHc3BVMUxVZDF6cWdMUnJmN1U3eUlYLW90V1pIVWlDTTgxZEZpTEtjZ1RSQlhIWjJ1YmV5SzlnUE9meDhVUEhSSmhFY2hiVUtWeXZIUUlwUXVGQko?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령 \"새로운 광복 필요…대체불가 대한민국 향해 나아가야\" - 대한민국 정책브리핑",
-          "date": "2026-08-15",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00MzBJS05kRm9faS1XbEhvbjZZWUlzbGllM0ZaZFcxc1BMOEN2ZWFKSzZTa1poQkNqWFlwNnk5cjdnODlpYVNvRU9CeEFRLVRMRE93OEtTV3FRZHExNFBJWkhNbFFYbnhNeTNIbA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-15T22:43:09+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e58f59803d2717ac12db4185c8441bda6167ddead31016ecd37a6bcd242377c2"
-    },
-    {
       "id": "20260813-DP-2F9E7C33-364",
       "title": "판례속보 - 대한민국 법원",
       "primaryCategory": "국내 정치",
@@ -446,46 +553,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2f9e7c33b1ef45f2dfb20295609263f29d261882ae0b633e698e6b237f191f4e"
-    },
-    {
-      "id": "20260815-DP-FC1BB80F-361",
-      "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-15T16:36:15+09:00",
-      "publishedAt": "2026-08-15T16:36:15+09:00",
-      "firstCollectedAt": "2026-08-15T18:53:23+09:00",
-      "updatedAt": "2026-08-15T18:53:23+09:00",
-      "summary": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"이름 없는 독립운동가의 재조명\"…'국립공원'으로 거듭날 효창공원 - 대한민국 정책브리핑",
-          "date": "2026-08-15",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYmZjVzl0SjNfUENBLXRxcjh5aVk4bUstX2sxczdPOXpoYVJqLW94UEMyNXZlbzNXYXFlclRrbk1nSDlRU2QxOHBvSFpSVHNsYXFXZGRxWjhhOWl0blZfOFU3Y3RSUWV4TGJUdEE1UXhMVm5ORG1uVTBidnRubGx1R2d3?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "fc1bb80f8a7f53239abeaec94f680776f5502c75de12a5be33da290f1946ae5a"
     },
     {
       "id": "20260814-DP-665F9187-362",
