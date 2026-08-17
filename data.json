@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-17T17:04:35+09:00",
-    "nextScheduledUpdate": "2026-08-17T17:34:35+09:00",
+    "lastSuccessfulUpdate": "2026-08-17T19:05:41+09:00",
+    "nextScheduledUpdate": "2026-08-17T19:35:41+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-17T17:04:33+09:00",
-      "finishedAt": "2026-08-17T17:04:35+09:00",
+      "startedAt": "2026-08-17T19:05:39+09:00",
+      "finishedAt": "2026-08-17T19:05:41+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 17,
-      "duplicates": 18,
+      "acceptedCandidates": 16,
+      "duplicates": 19,
       "rejected": 180,
       "rejectedByDate": 179,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260814-DP-945DA5CE-384",
+      "title": "이 대통령, 청년정책 대전환을 위한 전문가 간담회 주재 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-14T19:36:54+09:00",
+      "publishedAt": "2026-08-14T19:36:54+09:00",
+      "firstCollectedAt": "2026-08-17T19:05:40+09:00",
+      "updatedAt": "2026-08-17T19:05:40+09:00",
+      "summary": "이 대통령, 청년정책 대전환을 위한 전문가 간담회 주재 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, 청년정책 대전환을 위한 전문가 간담회 주재 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcXYzWTlYaUhGMm5vX2pSODJzRUpwRzVpSmNDMmlvVmxjUlBOR1RSc2g3dkUyTU0zbUdEWkwzVXhaWnNONUlfeEhLd3A4ZXB6WUVuNEkzWlJ3c1g3VHpDVUtUMkpFZ2lyam0zcjJ5MHJiVFAtbFR1N1JQcnBBUDFDdkZ3dFRCQ0NyOVE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "945da5ce3c0898270b4c96fc3cb775fe551fec5b4fdcba3d673daaae0c4421ca"
+    },
     {
       "id": "20260817-DP-0AF2E6DA-382",
       "title": "[설명자료] 교육부는 합리적인 교부금 개편을 위해 기획예산처와 긴밀히 협력하고 있습니다 - 대한민국 정책브리핑",
