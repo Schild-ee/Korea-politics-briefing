@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-18T06:55:25+09:00",
-    "nextScheduledUpdate": "2026-08-18T07:25:25+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-18T07:55:44+09:00",
+    "nextScheduledUpdate": "2026-08-18T08:25:44+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-18T06:55:23+09:00",
-      "finishedAt": "2026-08-18T06:55:25+09:00",
+      "startedAt": "2026-08-18T07:55:41+09:00",
+      "finishedAt": "2026-08-18T07:55:44+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 9,
+      "acceptedCandidates": 11,
       "duplicates": 11,
-      "rejected": 189,
-      "rejectedByDate": 188,
+      "rejected": 187,
+      "rejectedByDate": 186,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 2,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-FR-93F54E10-389",
+      "title": "모두의 창업 2차 모집 시작(8/20~) - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T07:44:36+09:00",
+      "publishedAt": "2026-08-18T07:44:36+09:00",
+      "firstCollectedAt": "2026-08-18T07:55:43+09:00",
+      "updatedAt": "2026-08-18T07:55:43+09:00",
+      "summary": "모두의 창업 2차 모집 시작(8/20~) - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "모두의 창업 2차 모집 시작(8/20~) - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT0k0MmVYN1dfTGEtVVl4ZWYycVg2eWFBR01WMUphd1AxV3hCcm44ZHhQdjVGZFExSExOaE5tdmw3bTR3MWtQWmxfRFFQQzFQV0pSZUQwS29Bb09iOS01d1VfMi1TVTRzQUxhREFmcnk1UzJrcXQwUGRsWFZUdnY0MTk2SEFaajU2OEJqNGNR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "93f54e10306a0a89b004b1cc506dd7b3996f17b83d8b8441682e0749e7269dd8"
+    },
+    {
+      "id": "20260815-FR-1CEF3EC3-390",
+      "title": "선열께서 물려주신 빛으로, 새로운 광복의 꿈을 향해 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T16:00:00+09:00",
+      "publishedAt": "2026-08-15T16:00:00+09:00",
+      "firstCollectedAt": "2026-08-18T07:55:43+09:00",
+      "updatedAt": "2026-08-18T07:55:43+09:00",
+      "summary": "선열께서 물려주신 빛으로, 새로운 광복의 꿈을 향해 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "선열께서 물려주신 빛으로, 새로운 광복의 꿈을 향해 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHRPMmU3M2FGdy1ISzA5ellkOFc4ZWMxWGt6RW5rSXBMckVrMVBSekRVOElBQWJWbFh1VHZpeFZfRWQ1NTFiSGpZQXlBMlVfa2tsTWJJTUZua3Z5djJ0WkpzWVVsWWpsdnlNVk1PRklFWHJDV2FPYklELVp0VDU0dEFGN1FkS3BVcm9PbU1B?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1cef3ec3b49da0c5009434842d84cdae9e6d7364edda0788be02ccd64c51939e"
+    },
     {
       "id": "20260817-DP-B612AC7D-387",
       "title": "(보도설명) 정부는 토론회 및 온라인 의견을 수렴하여 부동산 세제 개편안을 마련하였으며, 설문 결과를 선택적으로 활용했다는 것은 전혀 사실이 아닙니다. - 대한민국 정책브리핑",
