@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-17T20:55:04+09:00",
-    "nextScheduledUpdate": "2026-08-17T21:25:04+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-17T22:57:19+09:00",
+    "nextScheduledUpdate": "2026-08-17T23:27:19+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-17T20:55:02+09:00",
-      "finishedAt": "2026-08-17T20:55:04+09:00",
+      "startedAt": "2026-08-17T22:57:16+09:00",
+      "finishedAt": "2026-08-17T22:57:19+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 12,
-      "duplicates": 15,
-      "rejected": 185,
-      "rejectedByDate": 184,
+      "acceptedCandidates": 14,
+      "duplicates": 12,
+      "rejected": 183,
+      "rejectedByDate": 182,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,232 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260817-DP-78768D06-380",
+      "title": "(보도설명) 기획예산처는 합리적인 교육교부금 개편을 위해 교육부와 긴밀히 협력하고 있습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-17T12:49:39+09:00",
+      "publishedAt": "2026-08-17T12:49:39+09:00",
+      "firstCollectedAt": "2026-08-17T14:22:27+09:00",
+      "updatedAt": "2026-08-17T22:57:18+09:00",
+      "summary": "(보도설명) 기획예산처는 합리적인 교육교부금 개편을 위해 교육부와 긴밀히 협력하고 있습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 기획예산처는 합리적인 교육교부금 개편을 위해 교육부와 긴밀히 협력하고 있습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM1VmalJfOVZocHpFWXJPTnRZb2lQRlZ0aWQtZWtSbldrM0p5VW9BZUpjMWlEeW5ndmRJdGxORlg3bnFzLUlGVjVna1lpRHBZMlVINXo0NGRFZFVQcEZFZFhyN0EwcTQzV1ZjdjJiaTZmc0lQMlllVmpYU0w0eDRxWnlDY2xsMFB3dkdGd1Jwbw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 기획예산처는 합리적인 교육교부금 개편을 위해 교육부와 긴밀히 협력하고 있습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVSlpILTVkbnFSVFBLRHpSdkhWb0I2V0JFWm9CUFFyNDJXc1BuMzBqUnI5dnMyZkFiM2ZqNml6Q3otUVlHR3NNUy1JTFlNV2FibXppMWVLM25TdGRibnJ5ci1mSUs1a1RBWTJjeU82UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-17T22:57:18+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "78768d06d299c2d0b31460e51a8e6fff421abee8ad702c6fb0e0b36f38d5a9c0"
+    },
+    {
+      "id": "20260815-FR-1C46D204-355",
+      "title": "[해명] \"용산공원 전체 주택공급 검토\"는 부지 전체에 주택을 건설한다는 취지가 아닙니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T10:07:30+09:00",
+      "publishedAt": "2026-08-15T10:07:30+09:00",
+      "firstCollectedAt": "2026-08-15T12:05:08+09:00",
+      "updatedAt": "2026-08-17T22:57:18+09:00",
+      "summary": "[해명] \"용산공원 전체 주택공급 검토\"는 부지 전체에 주택을 건설한다는 취지가 아닙니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] \"용산공원 전체 주택공급 검토\"는 부지 전체에 주택을 건설한다는 취지가 아닙니다. - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnhBSTJuaVViUFJTNjVBaFZNa05mUWpWX2RmbmprUTlrM01YWHFVT0V5ZEtpQWM4bXI4eFRDdGMxS1hISDdmWTUxTGJUMTJtOEJiN211RmtUOFNTN3lJN1hGU015YUpxVUNNMnVYRFV6WnZmbkdfaTY1RllqaldDRTAxbU4yYTRtbTMyQw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] \"용산공원 전체 주택공급 검토\"는 부지 전체에 주택을 건설한다는 취지가 아닙니다. - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkxhcUxOSVNCSE9ERWQ0ak03Um96YXZlVlV0RjlzQXo2VlV3N2g2M2NtdXpBSkZUNWZ1RkFObW9BcXlxRF9JYjVhbUhFeFFSNGZ2blVXZHc5UE9iU1NGRElrV09VdHNObmhBdWhDYzRFc2EtOTE0cDQ3eGhqZnpKNXNXVUthRWFNZzR5c0Jscw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-17T22:57:18+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1c46d204c06a8eaff7532dbab407c75d9e14754bc2be0038a25e271d4e8dc348"
+    },
+    {
+      "id": "20260817-DP-0C7CA3B4-386",
+      "title": "(보도설명) 정부는 납세자의 개별 주거 상황을 고려하여 면밀하게 개편안을 설계하였으며, 특정 선택을 강요한다는 주장은 전혀 사실이 아닙니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-17T22:45:50+09:00",
+      "publishedAt": "2026-08-17T22:45:50+09:00",
+      "firstCollectedAt": "2026-08-17T22:57:18+09:00",
+      "updatedAt": "2026-08-17T22:57:18+09:00",
+      "summary": "(보도설명) 정부는 납세자의 개별 주거 상황을 고려하여 면밀하게 개편안을 설계하였으며, 특정 선택을 강요한다는 주장은 전혀 사실이 아닙니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 정부는 납세자의 개별 주거 상황을 고려하여 면밀하게 개편안을 설계하였으며, 특정 선택을 강요한다는 주장은 전혀 사실이 아닙니다. - 대한민국 정책브리핑",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52TlFLeHJJOHRsVjhoME1nY1B4Xzd3eGY5a25kb29lQloyWkpvVkd1YWlDOUYtWHktc0pjTlJoQTYxVkFYVGxpRFpmVVQ0NWozek1KNVpCMzA4U0ZWRWwtbElkWWRUZEt1UGxFMFJYOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0c7ca3b45829b791095513871480f14b13d90bbd3113dc86a2d604649135af57"
+    },
+    {
+      "id": "20260817-DP-B612AC7D-387",
+      "title": "(보도설명) 정부는 토론회 및 온라인 의견을 수렴하여 부동산 세제 개편안을 마련하였으며, 설문 결과를 선택적으로 활용했다는 것은 전혀 사실이 아닙니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-17T22:46:05+09:00",
+      "publishedAt": "2026-08-17T22:46:05+09:00",
+      "firstCollectedAt": "2026-08-17T22:57:18+09:00",
+      "updatedAt": "2026-08-17T22:57:18+09:00",
+      "summary": "(보도설명) 정부는 토론회 및 온라인 의견을 수렴하여 부동산 세제 개편안을 마련하였으며, 설문 결과를 선택적으로 활용했다는 것은 전혀 사실이 아닙니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 정부는 토론회 및 온라인 의견을 수렴하여 부동산 세제 개편안을 마련하였으며, 설문 결과를 선택적으로 활용했다는 것은 전혀 사실이 아닙니다. - 대한민국 정책브리핑",
+          "date": "2026-08-17",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1Zxc243U2pPWmxrRWxJd0J3NGNxRi12ODFRUnFSbFlzSVRSamFCckdFQ1FHeU1aYjdqbkMySjd0UHdwanBaeFk3aVRIaHJLVk1yc2kweWlIYnVyRkRPZkthNnNmMTY4S1d5cFVqZG9yUEVlZVRyY0ptdV92bDY3cjFXU3c3TjA5STltX3NHWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b612ac7dba6486f5fe131cefd9b006d4545e21796fff224ccb6cd4fac067b2d2"
+    },
+    {
+      "id": "20260815-DP-C00BDE5F-385",
+      "title": "일관된 수요 관리기조, 청년 등 실수요자 금융지원 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T16:42:44+09:00",
+      "publishedAt": "2026-08-15T16:42:44+09:00",
+      "firstCollectedAt": "2026-08-17T22:57:17+09:00",
+      "updatedAt": "2026-08-17T22:57:17+09:00",
+      "summary": "일관된 수요 관리기조, 청년 등 실수요자 금융지원 강화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "일관된 수요 관리기조, 청년 등 실수요자 금융지원 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3ZlpsYjFxeEZpRmZqOUVlUGpNZUdkVVVXcmUyTUUyVVpRSDFQdW1wM3BFa2UwRFg0Y1Z3YmQ2MDlkZkUxWDNDanl0ZVVyN1BDRjYtczlMS29VOVdMRmJMLUFET3pWQ2xOZXU4VVZ3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c00bde5f6c6abd5a227d3274acac26b149522e157e00eed38f1298078295ced8"
+    },
     {
       "id": "20260814-DP-945DA5CE-384",
       "title": "이 대통령, 청년정책 대전환을 위한 전문가 간담회 주재 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
@@ -236,46 +462,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "97dacb135e67d34796fc79efd3926b8178c6a4ed3e00ec66d037a5782ed0ce42"
-    },
-    {
-      "id": "20260817-DP-78768D06-380",
-      "title": "(보도설명) 기획예산처는 합리적인 교육교부금 개편을 위해 교육부와 긴밀히 협력하고 있습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-17T12:49:39+09:00",
-      "publishedAt": "2026-08-17T12:49:39+09:00",
-      "firstCollectedAt": "2026-08-17T14:22:27+09:00",
-      "updatedAt": "2026-08-17T14:22:27+09:00",
-      "summary": "(보도설명) 기획예산처는 합리적인 교육교부금 개편을 위해 교육부와 긴밀히 협력하고 있습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(보도설명) 기획예산처는 합리적인 교육교부금 개편을 위해 교육부와 긴밀히 협력하고 있습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-17",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM1VmalJfOVZocHpFWXJPTnRZb2lQRlZ0aWQtZWtSbldrM0p5VW9BZUpjMWlEeW5ndmRJdGxORlg3bnFzLUlGVjVna1lpRHBZMlVINXo0NGRFZFVQcEZFZFhyN0EwcTQzV1ZjdjJiaTZmc0lQMlllVmpYU0w0eDRxWnlDY2xsMFB3dkdGd1Jwbw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "78768d06d299c2d0b31460e51a8e6fff421abee8ad702c6fb0e0b36f38d5a9c0"
     },
     {
       "id": "20260814-FR-C9106410-381",
@@ -1524,46 +1710,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "cebec5bc99b768d0417cca5fa2ea3f8b7fbfbd4d87dc861c2510f683a7db1552"
-    },
-    {
-      "id": "20260815-FR-1C46D204-355",
-      "title": "[해명] \"용산공원 전체 주택공급 검토\"는 부지 전체에 주택을 건설한다는 취지가 아닙니다. - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-15T10:07:30+09:00",
-      "publishedAt": "2026-08-15T10:07:30+09:00",
-      "firstCollectedAt": "2026-08-15T12:05:08+09:00",
-      "updatedAt": "2026-08-15T12:05:08+09:00",
-      "summary": "[해명] \"용산공원 전체 주택공급 검토\"는 부지 전체에 주택을 건설한다는 취지가 아닙니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[해명] \"용산공원 전체 주택공급 검토\"는 부지 전체에 주택을 건설한다는 취지가 아닙니다. - 대한민국 정책브리핑",
-          "date": "2026-08-15",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQnhBSTJuaVViUFJTNjVBaFZNa05mUWpWX2RmbmprUTlrM01YWHFVT0V5ZEtpQWM4bXI4eFRDdGMxS1hISDdmWTUxTGJUMTJtOEJiN211RmtUOFNTN3lJN1hGU015YUpxVUNNMnVYRFV6WnZmbkdfaTY1RllqaldDRTAxbU4yYTRtbTMyQw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1c46d204c06a8eaff7532dbab407c75d9e14754bc2be0038a25e271d4e8dc348"
     },
     {
       "id": "20260814-FR-47CC6FA4-345",
