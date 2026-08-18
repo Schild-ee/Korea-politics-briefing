@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-18T08:50:06+09:00",
-    "nextScheduledUpdate": "2026-08-18T09:20:06+09:00",
+    "lastSuccessfulUpdate": "2026-08-18T12:11:50+09:00",
+    "nextScheduledUpdate": "2026-08-18T12:41:50+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-18T08:50:03+09:00",
-      "finishedAt": "2026-08-18T08:50:06+09:00",
+      "startedAt": "2026-08-18T12:11:48+09:00",
+      "finishedAt": "2026-08-18T12:11:50+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 15,
-      "duplicates": 13,
-      "rejected": 183,
-      "rejectedByDate": 182,
+      "acceptedCandidates": 22,
+      "duplicates": 16,
+      "rejected": 175,
+      "rejectedByDate": 174,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
+      "newIssues": 9,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,366 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-FR-A72529E1-397",
+      "title": "이재명 대통령 주재 을지 국가안전보장회의 전체회의 개최 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T10:33:59+09:00",
+      "publishedAt": "2026-08-18T10:33:59+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:49+09:00",
+      "updatedAt": "2026-08-18T12:11:49+09:00",
+      "summary": "이재명 대통령 주재 을지 국가안전보장회의 전체회의 개최 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령 주재 을지 국가안전보장회의 전체회의 개최 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fa29xZUs2dm9GTDcxTl9zZmh5VGtBQ3k1YnhFa1JYZE00cWJTaDZXeUpqaVkxTVN4YUM2WGRRRDlRRHkyMzhZcl84SVpHYmdXc21xLWhfZXFsUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a72529e140933a7d7609be98204372a5c7e5a532263e3fcb5b865d47f6bcab44"
+    },
+    {
+      "id": "20260818-FR-CF3E4566-398",
+      "title": "에이즈, A부터 Z까지 알면 ZERO가 된다! 'AIDS to Zero' - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T09:44:40+09:00",
+      "publishedAt": "2026-08-18T09:44:40+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:49+09:00",
+      "updatedAt": "2026-08-18T12:11:49+09:00",
+      "summary": "에이즈, A부터 Z까지 알면 ZERO가 된다! 'AIDS to Zero' - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "에이즈, A부터 Z까지 알면 ZERO가 된다! 'AIDS to Zero' - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40dDBKU3VMNHZFRmstSm1PVmU2aGw5eTZBY1M1S2dWYzg2TUpGQnliSGJZNnB3OVpUQ0ktWVJmd2pyV3NkczNrYUhDMHNLM2xJOVNhUnVGU1VYQnhhcDNBb3FrZDhGWHN6WEVSbg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cf3e4566c951a30a509b94ffbeb6c1d7e5c195c637fa152e715ab2f6977bb770"
+    },
+    {
+      "id": "20260818-FR-2DECBA5E-399",
+      "title": "미소곡간에서 누가 돌아왔게~ - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T10:34:11+09:00",
+      "publishedAt": "2026-08-18T10:34:11+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:49+09:00",
+      "updatedAt": "2026-08-18T12:11:49+09:00",
+      "summary": "미소곡간에서 누가 돌아왔게~ - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "미소곡간에서 누가 돌아왔게~ - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd0oxUVlvaldPZTMtSnNKdXZoeHZvdU00TmV0ZXRaMWNUUjlLRng1Mk1kX0dlX2UtQXJpRF80eTR4NFZuU1hyRHFZVWVRUU5iNjFyb01Fd21zc1RXODdFTDJ0R3hqQjZIR25CeDh2U3lpQ0t6eGFnQ2FoaktmVlh4UWZuSjl4cGI2VkRTQw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2decba5e58c706d348bda0f6da651ac9c6403f3b83782fe90cb96f490ed36859"
+    },
+    {
+      "id": "20260818-FR-96C5FD4A-400",
+      "title": "성공 가능성에 투자, 벤처캐피탈(VC)의 모든 것! - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T09:56:20+09:00",
+      "publishedAt": "2026-08-18T09:56:20+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:49+09:00",
+      "updatedAt": "2026-08-18T12:11:49+09:00",
+      "summary": "성공 가능성에 투자, 벤처캐피탈(VC)의 모든 것! - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "성공 가능성에 투자, 벤처캐피탈(VC)의 모든 것! - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ZEV1M3RGNkxrSC1uOVFlUll1YWo0dU05SzBxcGhkYVVpeWhPQUVfVWc4SGFZN3EtSDNWY181RG85Ym0wNkFwQU53RHFQczVZRUxVUGJJbkJGZlkxVndMMlYtdjROU3lFai00Zg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "96c5fd4a7e7ac665aaa2294ca2541fd80d2ec17dc625bedc63f94b0ca9c723ce"
+    },
+    {
+      "id": "20260818-FR-7EB70B80-401",
+      "title": "\"그 따위 말을…!\" 상담왕 장훈이와 장애인 편견 시원하게 뽀개기 - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T09:56:12+09:00",
+      "publishedAt": "2026-08-18T09:56:12+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:49+09:00",
+      "updatedAt": "2026-08-18T12:11:49+09:00",
+      "summary": "\"그 따위 말을…!\" 상담왕 장훈이와 장애인 편견 시원하게 뽀개기 - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "\"그 따위 말을…!\" 상담왕 장훈이와 장애인 편견 시원하게 뽀개기 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jb0NjX2pfQ2dWQUxwUEpGZXFkY3RfUlh4SkxOMlF3U3VnRG54d2tVNU9YWFg0d1hidjBBbVZZTm1wZjZ6VXdQbDZtcG1uVFJLMmRMTVJNNkF0SU1Palh1Zy1xeWltLWozdVJlTA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7eb70b803ac58f54261eafbe00b185df07fb67b9920bd8f051f26e9f94137f9b"
+    },
+    {
+      "id": "20260815-FR-01ECAA31-402",
+      "title": "외국인 독립유공자 후손 찾기 관련 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-15T16:00:00+09:00",
+      "publishedAt": "2026-08-15T16:00:00+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:49+09:00",
+      "updatedAt": "2026-08-18T12:11:49+09:00",
+      "summary": "외국인 독립유공자 후손 찾기 관련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "외국인 독립유공자 후손 찾기 관련 - 정책브리핑",
+          "date": "2026-08-15",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wY29TWTliVmFTbnRkSk9sMkZUaERKZEpkTklpR3BkVXRTV1VmUlRJWWRPSWxwa2cwem9mSHh6MC04ci13OVhtaFBoemNsejJ4bGRUbUJ4ZkMyMVFheWo3VVptVTBMMjdMbnRfMVo1TQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "01ecaa312e5415e775656d5fb7233f8700571563eef34ac8015e6d83af749d1b"
+    },
+    {
+      "id": "20260818-FR-3C341EAB-403",
+      "title": "명품 쇼핑 기대했는데 현실은 창고행 - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T09:23:37+09:00",
+      "publishedAt": "2026-08-18T09:23:37+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:49+09:00",
+      "updatedAt": "2026-08-18T12:11:49+09:00",
+      "summary": "명품 쇼핑 기대했는데 현실은 창고행 - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "명품 쇼핑 기대했는데 현실은 창고행 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbFFhb3NzRU4tX1hScXRYOGpnRXNqbWFmM1JRNEU2a0p6SC1GOFFlMGtjQk9TU0JPRE54TnJ2eEJ2MXlZRW4xaWlzalpzTXpYcUxmLWtoM1l4MjZOZl82UGxtWkdLemZkeWE5NFJnYmh6OVpfY05sWEhCSWE4VGNwd1pZSkM4cW9QU1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3c341eab93374430ae82960471f3184f71c5d2e4619ddd23c068b16b64ffb189"
+    },
+    {
+      "id": "20260818-DP-5B73457B-395",
+      "title": "단일종목 레버리지(ETF·ETN) 괴리율 관리 강화·모의거래 의무화 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T11:30:13+09:00",
+      "publishedAt": "2026-08-18T11:30:13+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:48+09:00",
+      "updatedAt": "2026-08-18T12:11:48+09:00",
+      "summary": "단일종목 레버리지(ETF·ETN) 괴리율 관리 강화·모의거래 의무화 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "단일종목 레버리지(ETF·ETN) 괴리율 관리 강화·모의거래 의무화 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXQ3YlBnQXk0R2JtZGFRX1ZTaDBiYTMwWExScVJxZlVIWjlDVDVDLXZCd3B1RktuTUptbno0SkN2akVCTVptamhOMmR4UUtqTU81NTNCbkhvT2VQRUNFTlNkOGVtS2tVbWFPeUdVdWQwbDExaGJtakV5Ni13WWRrNTNZZkZpWGxhekFF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b73457b6f048f7562b25da9b96da9291a1763ff49e3347cf907fb942361ddea"
+    },
+    {
+      "id": "20260818-DP-BD688643-396",
+      "title": "예고 없이 찾아온 침수 상황에서 살아남기 - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T09:39:37+09:00",
+      "publishedAt": "2026-08-18T09:39:37+09:00",
+      "firstCollectedAt": "2026-08-18T12:11:48+09:00",
+      "updatedAt": "2026-08-18T12:11:48+09:00",
+      "summary": "예고 없이 찾아온 침수 상황에서 살아남기 - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "예고 없이 찾아온 침수 상황에서 살아남기 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1BZ0Q0d1U4X0kweGR3djNkR29XR2pvN0JhU1dMWHJkbmw2c3JTZXduWjMzVnJjakVYRWxWTWtJS1hPSFpuNUJpTExZcng2di13RDR2ZDRCVWNvRmpXRmxtby03N2RrUENRUnNTRw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bd6886438b0f0b2d03180a350cc39a2c343a331e62718f1f74386969bcf82390"
+    },
     {
       "id": "20260818-FR-E13A32E9-391",
       "title": "제81주년 광복절 경축식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
