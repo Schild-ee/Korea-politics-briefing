@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-18T15:00:34+09:00",
-    "nextScheduledUpdate": "2026-08-18T15:30:34+09:00",
+    "lastSuccessfulUpdate": "2026-08-18T16:59:04+09:00",
+    "nextScheduledUpdate": "2026-08-18T17:29:04+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-18T15:00:32+09:00",
-      "finishedAt": "2026-08-18T15:00:34+09:00",
+      "startedAt": "2026-08-18T16:59:01+09:00",
+      "finishedAt": "2026-08-18T16:59:04+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 25,
-      "duplicates": 31,
-      "rejected": 168,
-      "rejectedByDate": 167,
+      "acceptedCandidates": 26,
+      "duplicates": 26,
+      "rejected": 166,
+      "rejectedByDate": 165,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 1,
+      "newIssues": 6,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,388 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-FR-F1380FB2-406",
+      "title": "이 대통령 \"'전작권 임기 내 환수' 차질 없이 추진…국방력 더 굳건히\" - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T16:07:30+09:00",
+      "publishedAt": "2026-08-18T16:07:30+09:00",
+      "firstCollectedAt": "2026-08-18T16:59:03+09:00",
+      "updatedAt": "2026-08-18T16:59:03+09:00",
+      "summary": "이 대통령 \"'전작권 임기 내 환수' 차질 없이 추진…국방력 더 굳건히\" 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "이 대통령 \"'전작권 임기 내 환수' 차질 없이 추진…국방력 더 굳건히\" - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPXzNKOGliZV85a0xUbHdFZGZVT2lJSmFoNmpPM1lLQjN3enJPc2E4cjFoUDlNd0dWMVRDMU1NbGFuWHlMUXdKdTc4bWlhazNvNFcwem1qSDNvdWVWSjlKdEh2cVRSRG5hRC1XNE1fSFFxWWZ6OVk2bTBpcWZ1b1I5X1NtVlIxSk9aX1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f1380fb2fc463c4619f027e88e6907d144158d7136e332c89111844c7214058f"
+    },
+    {
+      "id": "20260818-DP-3CF843AE-407",
+      "title": "이재명 대통령 주재 을지 국가안전보장회의 전체회의 개최 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T10:34:21+09:00",
+      "publishedAt": "2026-08-18T10:34:21+09:00",
+      "firstCollectedAt": "2026-08-18T16:59:03+09:00",
+      "updatedAt": "2026-08-18T16:59:03+09:00",
+      "summary": "이재명 대통령 주재 을지 국가안전보장회의 전체회의 개최 관련 강유정 수석대변인 서면 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "이재명 대통령 주재 을지 국가안전보장회의 전체회의 개최 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00TV9OMnFRRTdJcXBVbERsU2xvbmc2eXQ2V2w0VEhMWlZpUnRDSXExQW5xRThaNllVZGc3TmNJWjhqVkNwc2MyTkUtV3hEalpNdnJjdno4c1RvMGw3MU81dHhEa1UzbXM3aEw3NHVvNHM?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3cf843aeabd76f5b51e2f2fd7a2872336e6b678c07d4cd4fd1c77f63f853f2b6"
+    },
+    {
+      "id": "20260818-FR-267EC164-408",
+      "title": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T16:18:25+09:00",
+      "publishedAt": "2026-08-18T16:18:25+09:00",
+      "firstCollectedAt": "2026-08-18T16:59:03+09:00",
+      "updatedAt": "2026-08-18T16:59:03+09:00",
+      "summary": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGlVRHdoTDlhWmxFNXNDX3Z0MjlydHg0emdRQ29WNGtPT2xDeFBiRDJZN2RHT3EyRVUySnVxQ0YyUXBWMlVPYUdseVB2STYwTVpKaHVXbjhxdWtzb01yZWI0UVFTcElBeWNWSi1oaUZsU1ltMXZaTkptSnB3R3Y3b29PZEJXMGN2dGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "267ec16437739c5884a5b04a028571a54297da934a1e1d79672b85a739a6e9a2"
+    },
+    {
+      "id": "20260818-FR-C184D379-409",
+      "title": "가상자산 과세 관련, 국세청 사칭 해킹메일에 주의하세요! - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T15:38:39+09:00",
+      "publishedAt": "2026-08-18T15:38:39+09:00",
+      "firstCollectedAt": "2026-08-18T16:59:03+09:00",
+      "updatedAt": "2026-08-18T16:59:03+09:00",
+      "summary": "가상자산 과세 관련, 국세청 사칭 해킹메일에 주의하세요! - 전체 | 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "가상자산 과세 관련, 국세청 사칭 해킹메일에 주의하세요! - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeVhVTGNDcDJJQnZMN2h6TVdhN1BIbDNGNEVMTzExVGlTQjl4Q3pIM01PZ0JSZUxiUnZZVzBrZ3M2WndzWnM3VzFTNDFkWWVmcWFBN1hNR0RYbzFxOEFqVlhiaFJBMlhxb3dlcnQwTG9uZ3JaN0JvQ2dKWEhRWkZudU5zdUVLMm0yWW9V?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c184d379077b9d6b62695cfeede2971b1cbcea9cc5a6b1916c3163ad8b892904"
+    },
+    {
+      "id": "20260818-FR-B3F48A10-410",
+      "title": "국민이 뽑은 '정책소통 혁신사례'에 노동부·식약처 콘텐츠 선정 - 정책뉴스 | 뉴스 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T15:01:14+09:00",
+      "publishedAt": "2026-08-18T15:01:14+09:00",
+      "firstCollectedAt": "2026-08-18T16:59:03+09:00",
+      "updatedAt": "2026-08-18T16:59:03+09:00",
+      "summary": "국민이 뽑은 '정책소통 혁신사례'에 노동부·식약처 콘텐츠 선정 - 정책뉴스 | 뉴스 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "국민이 뽑은 '정책소통 혁신사례'에 노동부·식약처 콘텐츠 선정 - 정책뉴스 | 뉴스 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZFJYSGNoZVlWUk80ZlNVNmlZUTJPUFhXNnYzR0poTEFSNF96dGtvYTVNODVLV0cxYkJ4MjU1MkNBQXk5anNoenBrYVNDRkhjWElYX1ZXbW5SaVdORkljaGd6amZqMXZGWjBJMnB5Wl91MmdrS2h1UENrSW9UUmtoY3Buc0FRVjEtWGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b3f48a103d164194651a2c406a4dc407ab96de9935106ca491b2943e31468274"
+    },
+    {
+      "id": "20260811-DP-4AD5D827-249",
+      "title": "새소식 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T15:51:29+09:00",
+      "publishedAt": "2026-08-11T15:51:29+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-18T16:59:02+09:00",
+      "summary": "새소식 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ1WXB1eGc1RHo2b2ZzMnpvdjhSR0VWNjFTb1ptMDVLU09uclBpcUFtTkpzZGd1Y291WUU1T1dsazMyYnJTdGI3ZFNxQVVJUURTelR6XzhSQ1dVUDZKYU8xRjlDdkNMdU52NV9YbVRIN29IdnZJalk4VnU5amdLcjN4U0hkNF9yVEhN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0xOeGtjeHh1aUxNU2stQWVUVmlXRm5wcDV0d0dLaFhyZ25UZXRtX0xaWjg5QXlnTmRKN1VWVkZWdTc5WGNodE1BbzFMbk5iQmg3VU1GTzcyZ1RwWUxlRjY3aGFPeHktbS16YWFXbTNXUnEzbnVEZWJsU1lOS1YySDBPZ09KWG1NOVk0?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFdDOHQ1QVIyOUxIMFZ6NmJoUk1YME0tSWRvNjJCdW53YWs2MWpPdTJYZGIzSWlSeG9SOGdqeDYzSDVkbXNobFJjcEFTYTR2V0FFRTg1TVozQnRlMC1LcHFZeldoN3VGY05FQUVsZnphM2laTk5fZkpoaVoybDRseEk5ZG1wWlBFR21J?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1B6M1lnMWxLcXNWMXM0a1ZLaVJaZTNVY1FvYmJRaWd0RGVyZXRwYjJxWHRxdnBuQXJuNFpCSXB0SmxaanFoREZwRFBIV1lJWG93OG12MTVSWjNJejFhYnF0RWttY0lmS0lTSHNGNHRUZzE4b3V1QTYzOHI0RVBxamt1eEVjcHU1WnVJ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T14:19:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-18T16:59:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
+    },
+    {
+      "id": "20260804-DP-F605F57F-108",
+      "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T19:48:09+09:00",
+      "publishedAt": "2026-08-04T19:48:09+09:00",
+      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
+      "updatedAt": "2026-08-18T16:59:02+09:00",
+      "summary": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qY2xSMlI2TnM2YnJ2aW9USHg3UlpLVmZFUkdhWE5YMURhQXB6cHBpb1lLOXVkd3BUTDlZSkRCNU1IUE13Z0YwWnNJdG8xd3NJOUdPN1NvX0hMT2NxbUIyQnludTdlYTBlbkVLUg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkp6Rk5JX3RONFZ5dnlKQ05ZaTAtMTBwZVlTOUhpWXl3eTBjNXFvMU9aTkFBcThxRUtPSk5FV2ZjbXQ3U3FKSlE0Z1M3RS1TSHhvdF94cVJ6c29IaGtrSDVFamFqc1FyUkFKYTBULVJ4cko1S1RPay0tR01zOHBUdHVNelhNQXVzZHc?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZDZ4ZjI1VVJCemtsV1kxQXNVYXhUaUZLRzlIbVV4cWc4UG5FMTVtTnJ6MG5XdHhyR3h6aXdjXzB2ZDN6SFliT0FIejZuZ3JkS3Znd05Ic0RoRkRtZGRZekpZeXkyZ3NHRzhxbjZjOE5OLWx0bFRaRG1LMUtFeDNBZFNZQlpOVHdCRUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-05T15:14:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-18T16:59:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f605f57f0a29755bfd9a0626802a2a5f379e04e543befae1b8098436298ad7cf"
+    },
+    {
+      "id": "20260818-DP-BD35046D-405",
+      "title": "수색-광명 고속 전용선 건설 본격화…서울-광명 KTX 9분 단축 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T16:49:21+09:00",
+      "publishedAt": "2026-08-18T16:49:21+09:00",
+      "firstCollectedAt": "2026-08-18T16:59:02+09:00",
+      "updatedAt": "2026-08-18T16:59:02+09:00",
+      "summary": "수색-광명 고속 전용선 건설 본격화…서울-광명 KTX 9분 단축 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "수색-광명 고속 전용선 건설 본격화…서울-광명 KTX 9분 단축 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUHllV2RVNS02Q0VwemVuYl9MVGZNQ1RuVHk3ZGw1QU5wQ1BZc1pBdVNicVFmWmNJcEUyT0ZOb2FNNExiWXhKWkM5Qlhycm9IemJJZkxEUndVWmlRVTlVbzBCZTFSeldQQXIybTRjN21QWkViTTlxVVZWNHFIZjB3TnBDbHpLZjZ4Q2ozXw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bd35046ded7113db540e567402a1d70a1d3122befdd1d7a392477dd8f3dd801c"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -3855,71 +4237,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "aaf88bb6a06afadfe5fe06cf889cc3efac96b4ab06c997485bc01e8b7b3366b3"
-    },
-    {
-      "id": "20260811-DP-4AD5D827-249",
-      "title": "새소식 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T15:51:29+09:00",
-      "publishedAt": "2026-08-11T15:51:29+09:00",
-      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
-      "updatedAt": "2026-08-14T14:14:39+09:00",
-      "summary": "새소식 - 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ1WXB1eGc1RHo2b2ZzMnpvdjhSR0VWNjFTb1ptMDVLU09uclBpcUFtTkpzZGd1Y291WUU1T1dsazMyYnJTdGI3ZFNxQVVJUURTelR6XzhSQ1dVUDZKYU8xRjlDdkNMdU52NV9YbVRIN29IdnZJalk4VnU5amdLcjN4U0hkNF9yVEhN?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0xOeGtjeHh1aUxNU2stQWVUVmlXRm5wcDV0d0dLaFhyZ25UZXRtX0xaWjg5QXlnTmRKN1VWVkZWdTc5WGNodE1BbzFMbk5iQmg3VU1GTzcyZ1RwWUxlRjY3aGFPeHktbS16YWFXbTNXUnEzbnVEZWJsU1lOS1YySDBPZ09KWG1NOVk0?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFdDOHQ1QVIyOUxIMFZ6NmJoUk1YME0tSWRvNjJCdW53YWs2MWpPdTJYZGIzSWlSeG9SOGdqeDYzSDVkbXNobFJjcEFTYTR2V0FFRTg1TVozQnRlMC1LcHFZeldoN3VGY05FQUVsZnphM2laTk5fZkpoaVoybDRseEk5ZG1wWlBFR21J?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-13T14:19:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-14T14:14:39+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
     },
     {
       "id": "20260808-DP-9EFC79BA-214",
@@ -12847,59 +13164,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b9a1a95bf792ae9f140d63259460cc304556f448a1b0a809e7bb29ea586b2cc5"
-    },
-    {
-      "id": "20260804-DP-F605F57F-108",
-      "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T19:48:09+09:00",
-      "publishedAt": "2026-08-04T19:48:09+09:00",
-      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
-      "updatedAt": "2026-08-05T15:14:55+09:00",
-      "summary": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qY2xSMlI2TnM2YnJ2aW9USHg3UlpLVmZFUkdhWE5YMURhQXB6cHBpb1lLOXVkd3BUTDlZSkRCNU1IUE13Z0YwWnNJdG8xd3NJOUdPN1NvX0hMT2NxbUIyQnludTdlYTBlbkVLUg?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "구조개선 이행 사립대, 보유자산 처분·적립금 사용 제한 등 완화 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVkp6Rk5JX3RONFZ5dnlKQ05ZaTAtMTBwZVlTOUhpWXl3eTBjNXFvMU9aTkFBcThxRUtPSk5FV2ZjbXQ3U3FKSlE0Z1M3RS1TSHhvdF94cVJ6c29IaGtrSDVFamFqc1FyUkFKYTBULVJ4cko1S1RPay0tR01zOHBUdHVNelhNQXVzZHc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-05T15:14:55+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f605f57f0a29755bfd9a0626802a2a5f379e04e543befae1b8098436298ad7cf"
     },
     {
       "id": "20260804-DP-68B92DB7-099",
