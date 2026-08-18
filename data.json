@@ -1,16 +1,16 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-18T20:00:57+09:00",
-    "nextScheduledUpdate": "2026-08-18T20:30:57+09:00",
+    "lastSuccessfulUpdate": "2026-08-18T20:56:50+09:00",
+    "nextScheduledUpdate": "2026-08-18T21:26:50+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-18T20:00:55+09:00",
-      "finishedAt": "2026-08-18T20:00:57+09:00",
+      "startedAt": "2026-08-18T20:56:47+09:00",
+      "finishedAt": "2026-08-18T20:56:50+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 29,
@@ -19,8 +19,8 @@
       "rejectedByDate": 161,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-FR-267EC164-408",
+      "title": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T16:18:25+09:00",
+      "publishedAt": "2026-08-18T16:18:25+09:00",
+      "firstCollectedAt": "2026-08-18T16:59:03+09:00",
+      "updatedAt": "2026-08-18T20:56:48+09:00",
+      "summary": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGlVRHdoTDlhWmxFNXNDX3Z0MjlydHg0emdRQ29WNGtPT2xDeFBiRDJZN2RHT3EyRVUySnVxQ0YyUXBWMlVPYUdseVB2STYwTVpKaHVXbjhxdWtzb01yZWI0UVFTcElBeWNWSi1oaUZsU1ltMXZaTkptSnB3R3Y3b29PZEJXMGN2dGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNUNxZGJOWHNOcl9oelF5TUp5UWItb0l1R1F2ZVJ1eUVTNG5KLTZjX0l3NXRTc1JQSWtmVEh5cFJJbEpvY0FKeUVNN25xdWZmMk14TTg1S0RsUXpkVVN4c0Uxb0l5Nk9rdmszOHg4WExLWlBEb3F1bHd1WUl2S3FBTG9Ka1lBbGhsRi0tZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-18T20:56:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "267ec16437739c5884a5b04a028571a54297da934a1e1d79672b85a739a6e9a2"
+    },
     {
       "id": "20260818-DP-71A8DF89-417",
       "title": "중수청 하위법령 마련…국민 권리보호·수사체계 구체화 - 정책브리핑",
@@ -423,46 +476,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3cf843aeabd76f5b51e2f2fd7a2872336e6b678c07d4cd4fd1c77f63f853f2b6"
-    },
-    {
-      "id": "20260818-FR-267EC164-408",
-      "title": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-18T16:18:25+09:00",
-      "publishedAt": "2026-08-18T16:18:25+09:00",
-      "firstCollectedAt": "2026-08-18T16:59:03+09:00",
-      "updatedAt": "2026-08-18T16:59:03+09:00",
-      "summary": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "화재대피 안내 '119안심콜 '…개학 맞아 학생들에 가입 집중 안내 - 정책브리핑",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcGlVRHdoTDlhWmxFNXNDX3Z0MjlydHg0emdRQ29WNGtPT2xDeFBiRDJZN2RHT3EyRVUySnVxQ0YyUXBWMlVPYUdseVB2STYwTVpKaHVXbjhxdWtzb01yZWI0UVFTcElBeWNWSi1oaUZsU1ltMXZaTkptSnB3R3Y3b29PZEJXMGN2dGc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "267ec16437739c5884a5b04a028571a54297da934a1e1d79672b85a739a6e9a2"
     },
     {
       "id": "20260818-FR-C184D379-409",
