@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-18T18:52:31+09:00",
-    "nextScheduledUpdate": "2026-08-18T19:22:31+09:00",
+    "lastSuccessfulUpdate": "2026-08-18T20:00:57+09:00",
+    "nextScheduledUpdate": "2026-08-18T20:30:57+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-18T18:52:28+09:00",
-      "finishedAt": "2026-08-18T18:52:31+09:00",
+      "startedAt": "2026-08-18T20:00:55+09:00",
+      "finishedAt": "2026-08-18T20:00:57+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 30,
-      "duplicates": 32,
+      "acceptedCandidates": 29,
+      "duplicates": 37,
       "rejected": 162,
       "rejectedByDate": 161,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 6,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-DP-71A8DF89-417",
+      "title": "중수청 하위법령 마련…국민 권리보호·수사체계 구체화 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T15:06:54+09:00",
+      "publishedAt": "2026-08-18T15:06:54+09:00",
+      "firstCollectedAt": "2026-08-18T20:00:55+09:00",
+      "updatedAt": "2026-08-18T20:00:55+09:00",
+      "summary": "중수청 하위법령 마련…국민 권리보호·수사체계 구체화 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "중수청 하위법령 마련…국민 권리보호·수사체계 구체화 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMXpvTmpsQ3p5ZmJGVExiV2VLQWNZNXFkLWY1WGUxb2VkN01YcGF6bF85WTBQNWRRcmtEVHV2dkF5blh6UHRkUnYwalpVVU92a3RmWmJXenFnZG96aEZ1RVh5aVZydlQ4LU93RWJOLUwzdEQ3d0g4NndFOHVUNGdRZmxfYjNtNGwyNHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "71a8df89227b5603af26f9bd82b43af15c9194d0edba5250d384fcf6c560f483"
+    },
     {
       "id": "20260818-FR-1E2C601F-414",
       "title": "제1회 을지국무회의 및 제36회 국무회의 관련 강유정 수석대변인 브리핑 - 대한민국 청와대",
