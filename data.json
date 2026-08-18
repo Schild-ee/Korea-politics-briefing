@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-18T16:59:04+09:00",
-    "nextScheduledUpdate": "2026-08-18T17:29:04+09:00",
+    "lastSuccessfulUpdate": "2026-08-18T18:52:31+09:00",
+    "nextScheduledUpdate": "2026-08-18T19:22:31+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-18T16:59:01+09:00",
-      "finishedAt": "2026-08-18T16:59:04+09:00",
+      "startedAt": "2026-08-18T18:52:28+09:00",
+      "finishedAt": "2026-08-18T18:52:31+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 26,
-      "duplicates": 26,
-      "rejected": 166,
-      "rejectedByDate": 165,
+      "acceptedCandidates": 30,
+      "duplicates": 32,
+      "rejected": 162,
+      "rejectedByDate": 161,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 6,
-      "updatedIssues": 2,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,246 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-FR-1E2C601F-414",
+      "title": "제1회 을지국무회의 및 제36회 국무회의 관련 강유정 수석대변인 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T17:36:09+09:00",
+      "publishedAt": "2026-08-18T17:36:09+09:00",
+      "firstCollectedAt": "2026-08-18T18:52:30+09:00",
+      "updatedAt": "2026-08-18T18:52:30+09:00",
+      "summary": "제1회 을지국무회의 및 제36회 국무회의 관련 강유정 수석대변인 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "제1회 을지국무회의 및 제36회 국무회의 관련 강유정 수석대변인 브리핑 - 대한민국 청와대",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zR1ptTnhTU2FRUzVwUncxWExpTlhQM0ttQmJRUkdsVnprN3pfcVJhQ1NwRHhKTXJHVlNlbDloQ1RqdUFJZVFfSXlIMUY1ZUZqak1hYWlqNUpWUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1e2c601f2e37fb5991a85b0ab7ba574af95d653c369680364d04303ccaf54887"
+    },
+    {
+      "id": "20260818-FR-30A37154-415",
+      "title": "정책대출 결혼페널티 해소 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T11:19:59+09:00",
+      "publishedAt": "2026-08-18T11:19:59+09:00",
+      "firstCollectedAt": "2026-08-18T18:52:30+09:00",
+      "updatedAt": "2026-08-18T18:52:30+09:00",
+      "summary": "정책대출 결혼페널티 해소 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "정책대출 결혼페널티 해소 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYzcxWXQ3LUVDT1d3WTBJUkdBdng3YThybUgtYTlQTTdQRk1IRDU3bDVzanpTdzB3cF92MkV2dGlMbHUteVpOUFlrQTctR0FmckJHeU90aDliZy1CNVN2WHpqVWQ4WTJfZ28xZnAzUnVydFNucmo1aGlZMFV2M0NxUHQyTG9aX3prSENZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "30a37154294c29f1044caf783628432e8ce94c96ee75e77ea36bd541ccd954d1"
+    },
+    {
+      "id": "20260818-DP-802C25E4-416",
+      "title": "정부는 외식물가 안정을 위해 업계와 소통·협력하고 다양한 지원을 추진하겠습니다. - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T17:39:49+09:00",
+      "publishedAt": "2026-08-18T17:39:49+09:00",
+      "firstCollectedAt": "2026-08-18T18:52:30+09:00",
+      "updatedAt": "2026-08-18T18:52:30+09:00",
+      "summary": "정부는 외식물가 안정을 위해 업계와 소통·협력하고 다양한 지원을 추진하겠습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "정부는 외식물가 안정을 위해 업계와 소통·협력하고 다양한 지원을 추진하겠습니다. - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkRnMmVNRFVqaEdLVEtFaEUyblY2SzlFa3Zvb1RodHJFR1lhbkV2ck15ZGRsdU5vemF0S2hMWXBrVVEwT2J3VTRXUkNuQ2JyNDQ5M3JrQVNzM2o1STRHYUh4emc1SFNyLU9XTktQVHpGR3oyZWdxQk1qRGViYUVueWRZakRSLU5xMHRaQTFtMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "802c25e4edeaa40e16e08f29e27711f7e6e7c45f19782dc3a19307c321cd6034"
+    },
+    {
+      "id": "20260818-DP-D9E2417F-411",
+      "title": "대법관 임명제청 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "인사",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T17:04:39+09:00",
+      "publishedAt": "2026-08-18T17:04:39+09:00",
+      "firstCollectedAt": "2026-08-18T18:52:29+09:00",
+      "updatedAt": "2026-08-18T18:52:29+09:00",
+      "summary": "대법관 임명제청 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "대법관 임명제청 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPU2RTNnFfcE9aMWtwQ1pCRWp2U2NlWE9ydzE1am5KSXcyaDAxemlLWkI3TFI5QzlTNEpqZ25ub2pVQlc0ZGV5NzNsX3VOV3AzeXItU212dnhTSlhjcVdNbS0tX09oQVhxZWVRRXZGRnhSS2JZU3I0cjl1UVRiQUM0MFlIRzg4VExESkN0ZTdFNU00aVExQ0NlOHR5ZjhDZjZaci1LTVZzRkZwUGNMS3hBSEF4VllUbWVjS2pHRnpyOG02RE9KWXpMem1SQ0ZhR3VWT2hwOXY4c2FUUDVjaERUemlDUzdQSlZnRlprYnV1ZUtLSW0xT0h6VFAwN0RocmFlU2lXVU1wR2RJLV9LNExSbDk3bzNhWG5aMTNyYTlhVWNVUmhDVlZEb2stLThMb3VPcDNYeUxjQms?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d9e2417fa783dc176d0e820081e364993ba905366e10a6fd487dc8d7f2a5ad51"
+    },
+    {
+      "id": "20260818-DP-D085956A-412",
+      "title": "제36회 국무회의 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T16:52:00+09:00",
+      "publishedAt": "2026-08-18T16:52:00+09:00",
+      "firstCollectedAt": "2026-08-18T18:52:29+09:00",
+      "updatedAt": "2026-08-18T18:52:29+09:00",
+      "summary": "제36회 국무회의 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제36회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEx0c2pyRFdiV1g0VXMxUmh1XzRlZVZqbTNEbUw4Y1ZHZlpkckRidVJ2eHNMczBWNm9WbGNyS1dfcGg0LUR1VzZTckpWb0FrUV9hejZid2N4c3lOWnA2bDhoWG4tOWNDMWJLZkhibm5FVzI0YXAxWWNfWHY2bzRod3hIWk80UVh3VDVURUZuTkRwQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d085956a1e826c3d2285777a339ef3cd9867017bcd6a9b1c13a952b68ac24076"
+    },
+    {
+      "id": "20260818-DP-D0FB1CBD-413",
+      "title": "제1회 을지국무회의 및 제36회 국무회의 관련 강유정 수석대변인 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T17:34:23+09:00",
+      "publishedAt": "2026-08-18T17:34:23+09:00",
+      "firstCollectedAt": "2026-08-18T18:52:29+09:00",
+      "updatedAt": "2026-08-18T18:52:29+09:00",
+      "summary": "제1회 을지국무회의 및 제36회 국무회의 관련 강유정 수석대변인 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제1회 을지국무회의 및 제36회 국무회의 관련 강유정 수석대변인 브리핑 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSlB4MDRLMVVFaC1JMDF2NWVFUmx1WW1EQTRCakxhektvVE1nQk1jZ0l0aTExUGlIcktlbm1YUE9NTDByUUNuY2wxTUxFdV9ReWlGMDdZZkV4bFRmODhFTWxsQWRFUVRETGMzamhsM1BmdjEzX0dRMFk2Rkx4NHVNZ3ZNV2JEX282VlNycnIwZXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d0fb1cbd4edc68d07183ce781f294893ca39deb0728f52c961271362ba29a1c3"
+    },
     {
       "id": "20260818-FR-F1380FB2-406",
       "title": "이 대통령 \"'전작권 임기 내 환수' 차질 없이 추진…국방력 더 굳건히\" - 정책브리핑",
