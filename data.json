@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-19T02:59:36+09:00",
-    "nextScheduledUpdate": "2026-08-19T03:29:36+09:00",
+    "lastSuccessfulUpdate": "2026-08-19T04:35:45+09:00",
+    "nextScheduledUpdate": "2026-08-19T05:05:45+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-19T02:59:34+09:00",
-      "finishedAt": "2026-08-19T02:59:36+09:00",
+      "startedAt": "2026-08-19T04:35:43+09:00",
+      "finishedAt": "2026-08-19T04:35:45+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 34,
-      "duplicates": 42,
+      "duplicates": 43,
       "rejected": 156,
       "rejectedByDate": 155,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
+      "newIssues": 0,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-FR-2263810B-426",
+      "title": "[보도설명자료] 「'김용범 방탄' 나섰나…국조실, 전 부처 국감 상황반 지시」(8.18., MTN 뉴스) 보도 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T21:07:20+09:00",
+      "publishedAt": "2026-08-18T21:07:20+09:00",
+      "firstCollectedAt": "2026-08-19T02:59:35+09:00",
+      "updatedAt": "2026-08-19T04:35:44+09:00",
+      "summary": "[보도설명자료] 「'김용범 방탄' 나섰나…국조실, 전 부처 국감 상황반 지시」(8.18., MTN 뉴스) 보도 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료] 「'김용범 방탄' 나섰나…국조실, 전 부처 국감 상황반 지시」(8.18., MTN 뉴스) 보도 관련 - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vVF9oVHhRelg1b0RaZTRhTTFfbWpEZVJlUUxDTmNsT3ZUdWlVdHR1TXY4X3RLSlhFTDRhcUVHLWM0c2VYNEQxTHFuTWFDRWppX2lnb0g4aGtob2Jxa1JEOExVOS1nZ0NEVTZkMHVBQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료] 「'김용범 방탄' 나섰나…국조실, 전 부처 국감 상황반 지시」(8.18., MTN 뉴스) 보도 관련 - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeDNlREN4WHFVbnVINURJSXZ5a1lEcXJrV1NVSWw1RXdDWi1hdWpFdGVUbldpWDQtM0QzeVg5NUQ4M0FrY3Z5ZVZjZm54U1JnQ29kdDE0OWJ1YWd0bWRyOXBnUlFMcUxoS1ZiUkRIVEozeHZ6UnI0TnlyM3lCWUl2LXhkdDJzZ2NIYjdPZQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-19T04:35:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2263810bdbfca628343baf35f7cf1183b675fb61a295dbfef571ccc2135c5fd7"
+    },
     {
       "id": "20260818-DP-C0D3CB0F-418",
       "title": "복권기금 35% 의무 배분 20년 만에 개편…성과에 따라 배분 - 정책브리핑",
@@ -116,46 +169,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "c0d3cb0f2127455df4d343dee7541e0d747a7d0d38dad7667f71c132dc5089ea"
-    },
-    {
-      "id": "20260818-FR-2263810B-426",
-      "title": "[보도설명자료] 「'김용범 방탄' 나섰나…국조실, 전 부처 국감 상황반 지시」(8.18., MTN 뉴스) 보도 관련 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-18T21:07:20+09:00",
-      "publishedAt": "2026-08-18T21:07:20+09:00",
-      "firstCollectedAt": "2026-08-19T02:59:35+09:00",
-      "updatedAt": "2026-08-19T02:59:35+09:00",
-      "summary": "[보도설명자료] 「'김용범 방탄' 나섰나…국조실, 전 부처 국감 상황반 지시」(8.18., MTN 뉴스) 보도 관련 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[보도설명자료] 「'김용범 방탄' 나섰나…국조실, 전 부처 국감 상황반 지시」(8.18., MTN 뉴스) 보도 관련 - 대한민국 정책브리핑",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9vVF9oVHhRelg1b0RaZTRhTTFfbWpEZVJlUUxDTmNsT3ZUdWlVdHR1TXY4X3RLSlhFTDRhcUVHLWM0c2VYNEQxTHFuTWFDRWppX2lnb0g4aGtob2Jxa1JEOExVOS1nZ0NEVTZkMHVBQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2263810bdbfca628343baf35f7cf1183b675fb61a295dbfef571ccc2135c5fd7"
     },
     {
       "id": "20260818-DP-D0FB1CBD-413",
