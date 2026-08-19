@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-20T04:12:40+09:00",
-    "nextScheduledUpdate": "2026-08-20T04:42:40+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-20T05:52:48+09:00",
+    "nextScheduledUpdate": "2026-08-20T06:22:48+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-20T04:12:37+09:00",
-      "finishedAt": "2026-08-20T04:12:40+09:00",
+      "startedAt": "2026-08-20T05:52:44+09:00",
+      "finishedAt": "2026-08-20T05:52:48+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 17,
-      "duplicates": 19,
-      "rejected": 181,
-      "rejectedByDate": 147,
-      "rejectedByRelevance": 34,
-      "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "acceptedCandidates": 43,
+      "duplicates": 45,
+      "rejected": 152,
+      "rejectedByDate": 149,
+      "rejectedByRelevance": 1,
+      "rejectedAsCommentary": 2,
+      "newIssues": 2,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,139 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260818-FR-18A51555-421",
+      "title": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T21:00:00+09:00",
+      "publishedAt": "2026-08-18T21:00:00+09:00",
+      "firstCollectedAt": "2026-08-18T23:07:10+09:00",
+      "updatedAt": "2026-08-20T05:52:46+09:00",
+      "summary": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 - 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW9fdmZRMjdSR1VfVmxoUzZySE1wY25CM1FVeTEwQkdFSDNyZlgyX1pTS1RIcHAxaW05Uk5wRGtBcGVpTmN4bVh2eE1kTWhYblNGQkNTOVRzVENVX1NDUlVUM0g5YkRSSEs3UjhIeFNfZUhfdnNuZVFpU3JnQ05XOUdPMlI2LWR3V1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QNFcxT19HZmNFVnJoZWhuZEVheWhIYm5qWndxQk9pM2tUTEFrcWN4WUlmS1ZPOEdyN0plaFRjYXoxb0pYaXNTS2lTdml6Vl9vS3FycjZEWEtqMDRMeEVRQzJQeFJQWTJkdXprZA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-20T05:52:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "18a515550f154e01ea8bda8ad74b35c3bb1c5e325f44eca1e489514e4f5177a6"
+    },
+    {
+      "id": "20260819-FR-F9B1390C-476",
+      "title": "농식품부, 농축산물 수급 안정을 위해 수요·공급 양 측면의 지원 정책을 지속하겠습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T18:39:48+09:00",
+      "publishedAt": "2026-08-19T18:39:48+09:00",
+      "firstCollectedAt": "2026-08-20T05:52:46+09:00",
+      "updatedAt": "2026-08-20T05:52:46+09:00",
+      "summary": "농식품부, 농축산물 수급 안정을 위해 수요·공급 양 측면의 지원 정책을 지속하겠습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농식품부, 농축산물 수급 안정을 위해 수요·공급 양 측면의 지원 정책을 지속하겠습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XbHhhbDI0bG5OY0pRc2swSmJRUnIwQjZBVFVwb01kUVVkTkFCSEgzTzlBZHVrSFAzNVh0clBXSWJnR05uUV9ZMXZwMThrSDBSTnBfb1EwM0NiemoxQ1ZGdXFmOFZYVUx5cl8yQTBJbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f9b1390c48ba697d1dc020d94bc569a494eb7f98f767531e30285603ecbb3dc3"
+    },
+    {
+      "id": "20260819-FR-E79AB83A-477",
+      "title": "(설명자료)대미 전략투자 1호로 메모리를 논의중이라는 것은 사실이 아님 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T13:12:23+09:00",
+      "publishedAt": "2026-08-19T13:12:23+09:00",
+      "firstCollectedAt": "2026-08-20T05:52:46+09:00",
+      "updatedAt": "2026-08-20T05:52:46+09:00",
+      "summary": "(설명자료)대미 전략투자 1호로 메모리를 논의중이라는 것은 사실이 아님 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명자료)대미 전략투자 1호로 메모리를 논의중이라는 것은 사실이 아님 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xS3dKT0xYZ0FodGdtWnVOcWlSeERyelJFVWJnTW1McExvbjlNT2tNMDB5Q1lyTHdVT0FMTHlWUEhjY1FZLTB5NG0tQkFhSngwbkEwdjhNU2tqanp0NUdFbmZaMlJQUVdJMGNtUEI4VQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e79ab83ab8c4ca4194bc27bbc916f083fad815bca99132b5f8d789865fa2bac0"
+    },
     {
       "id": "20260819-DP-35CAA7DE-448",
       "title": "7월 호우 피해액 309억 원 확정…정부, 복구비 713억 원 투입 - 대한민국 정책브리핑",
@@ -2874,46 +3007,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3b3ae6bf61167e43e2c6bf57229a0cf005b5598146810e3f2f8e72c1236bc032"
-    },
-    {
-      "id": "20260818-FR-18A51555-421",
-      "title": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-18T21:00:00+09:00",
-      "publishedAt": "2026-08-18T21:00:00+09:00",
-      "firstCollectedAt": "2026-08-18T23:07:10+09:00",
-      "updatedAt": "2026-08-18T23:07:10+09:00",
-      "summary": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 - 정책브리핑",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW9fdmZRMjdSR1VfVmxoUzZySE1wY25CM1FVeTEwQkdFSDNyZlgyX1pTS1RIcHAxaW05Uk5wRGtBcGVpTmN4bVh2eE1kTWhYblNGQkNTOVRzVENVX1NDUlVUM0g5YkRSSEs3UjhIeFNfZUhfdnNuZVFpU3JnQ05XOUdPMlI2LWR3V1E?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "18a515550f154e01ea8bda8ad74b35c3bb1c5e325f44eca1e489514e4f5177a6"
     },
     {
       "id": "20260818-FR-B6C840ED-422",
