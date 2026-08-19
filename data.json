@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-20T06:56:11+09:00",
-    "nextScheduledUpdate": "2026-08-20T07:26:11+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-20T07:56:46+09:00",
+    "nextScheduledUpdate": "2026-08-20T08:26:46+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-20T06:56:08+09:00",
-      "finishedAt": "2026-08-20T06:56:11+09:00",
+      "startedAt": "2026-08-20T07:56:44+09:00",
+      "finishedAt": "2026-08-20T07:56:46+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 44,
-      "duplicates": 48,
-      "rejected": 152,
-      "rejectedByDate": 149,
+      "acceptedCandidates": 48,
+      "duplicates": 50,
+      "rejected": 146,
+      "rejectedByDate": 143,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 2,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,191 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260820-FR-EBA10C17-480",
+      "title": "김정은과 정상회담 쇼 위해… 한국 안보 3축 흔드는 트럼프 - 조선일보",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "조선일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-08-20T00:54:00+09:00",
+      "publishedAt": "2026-08-20T00:54:00+09:00",
+      "firstCollectedAt": "2026-08-20T07:56:46+09:00",
+      "updatedAt": "2026-08-20T07:56:46+09:00",
+      "summary": "김정은과 정상회담 쇼 위해… 한국 안보 3축 흔드는 트럼프 조선일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "조선일보",
+          "title": "김정은과 정상회담 쇼 위해… 한국 안보 3축 흔드는 트럼프 - 조선일보",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR2lNQ2hLNnBHRVhUMkhUcm43YkVKZHUzRWI1U0JPRTNQMW5UR19HT2Y5aGhnYkI1TlZDcFlXYTdLcVVzd3ZKdkJDLUdPUzY5X2ZRemVlLWRXOGRvYmtldmxqTlRqbDdyRklqdHF5SkNMZ3FtTFF4RXppZ0FieTQxUU9LZ2VrWW5fWFJ6VVVueUNRdw?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eba10c17ccb0801156bdb615d8f8a5ac0f56239c68f4c9e4b16aedcc5e37d0ab"
+    },
+    {
+      "id": "20260819-FR-D7690633-447",
+      "title": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T16:31:55+09:00",
+      "publishedAt": "2026-08-19T16:31:55+09:00",
+      "firstCollectedAt": "2026-08-19T16:58:30+09:00",
+      "updatedAt": "2026-08-20T07:56:45+09:00",
+      "summary": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mNDNXQVJrY2RTVEhfQlg5bEt6d1llYmZSME5rN3ZtSnFEek1EX1R0cUlxWGFZcWVUWDFCdE5yUE1sREd4aDl5R0lWV25RNlVlSDhWdVpDbnd2cWszRjh4MHc4ZWNOVERfUEstQg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzE4RklHdnhrQ21uN2VQSXVZY2lOOGdhbzlSbnZOY3gtNXRGVDh3cUp0MlFFMnMwdHJmSW9LTkotaUdTU2gzcmJSVVNPQ0o3OXlZRV9UZjF2VnluSWxObmt1M1J2VjNvOEt5MGEzZDV5UnQ0Z19wcDlneFlUOGlobnlzVGtYcTZfM3c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2dVNXcteTN5TnE4aFQ2U0REMnJETjdJUTFiRTdLVG9mRFdvNXozRzVsdFYzdjBXTmxQWE9pNGNITTBtSTRST2ZuLWhkMlNYUnJZT3BUZXI5d29LTUZyMDNzbm5vSmd6ck91d1Y1cnRfcWFZcFZOWnlzaGhXWERsQXhzQ0haeXdBQWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-20T02:01:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-20T07:56:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d76906335560cc44f4693db6a01aeafbc7605549c8669844f009f4bbfa36318d"
+    },
+    {
+      "id": "20260820-FR-74881E9C-478",
+      "title": "81년 전 그날의 빛…'편의점'에서 만난 '특별한 광복' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T01:57:05+09:00",
+      "publishedAt": "2026-08-20T01:57:05+09:00",
+      "firstCollectedAt": "2026-08-20T07:56:45+09:00",
+      "updatedAt": "2026-08-20T07:56:45+09:00",
+      "summary": "81년 전 그날의 빛…'편의점'에서 만난 '특별한 광복' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "81년 전 그날의 빛…'편의점'에서 만난 '특별한 광복' - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pWGZLWmFkTHRyaldYSVZXNVdHajJJVkY2Nnh5WGt0YVdKa2pBMHR5dHVtTl9GbjF2dEdidm5IYzZfTHQyc1dIdXlSeE1LaWp4Z2R3cU51S0JrTTFmbHlnRDZvSUhzdW5OaXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "74881e9cdd51a014332cf11d8e4c630ae5f7db866e9f0690cabbd6d0d9167b27"
+    },
+    {
+      "id": "20260819-FR-747950F8-479",
+      "title": "비서실장 주재 수석·보좌관 회의 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T17:34:21+09:00",
+      "publishedAt": "2026-08-19T17:34:21+09:00",
+      "firstCollectedAt": "2026-08-20T07:56:45+09:00",
+      "updatedAt": "2026-08-20T07:56:45+09:00",
+      "summary": "비서실장 주재 수석·보좌관 회의 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "비서실장 주재 수석·보좌관 회의 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uOUlpZG92anVnbF9lX3d0VFFkR3M4UkFXOERWZzFmRHdEbWRNMS11ZUczRlN0TWpGVDBpSkIxbDhVUnZhZUlGWnN1dDR1Sm0wS0kxcXo3ZFQ4M1pFQlFxck9vem1mZElwc09ENktxTzg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "747950f86d4757414a792a95542c6f0baf40729de2480a174cd7f584b5fe0a41"
+    },
     {
       "id": "20260818-FR-18A51555-421",
       "title": "한국 대표 '독파모', 업스테이지·SK·LG 3파전…세계 수준 입증 - 정책브리핑",
@@ -496,59 +681,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "be536710bcea4913ec425cb1931f0ece14b47e2826e58c916a32b8c70a743c1a"
-    },
-    {
-      "id": "20260819-FR-D7690633-447",
-      "title": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-19T16:31:55+09:00",
-      "publishedAt": "2026-08-19T16:31:55+09:00",
-      "firstCollectedAt": "2026-08-19T16:58:30+09:00",
-      "updatedAt": "2026-08-20T02:01:28+09:00",
-      "summary": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 - 대한민국 정책브리핑",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mNDNXQVJrY2RTVEhfQlg5bEt6d1llYmZSME5rN3ZtSnFEek1EX1R0cUlxWGFZcWVUWDFCdE5yUE1sREd4aDl5R0lWV25RNlVlSDhWdVpDbnd2cWszRjh4MHc4ZWNOVERfUEstQg?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국민 4만 명이 만든 대한민국 여행지도…'100x100' 명소 공개 - 대한민국 정책브리핑",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYzE4RklHdnhrQ21uN2VQSXVZY2lOOGdhbzlSbnZOY3gtNXRGVDh3cUp0MlFFMnMwdHJmSW9LTkotaUdTU2gzcmJSVVNPQ0o3OXlZRV9UZjF2VnluSWxObmt1M1J2VjNvOEt5MGEzZDV5UnQ0Z19wcDlneFlUOGlobnlzVGtYcTZfM3c?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-20T02:01:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d76906335560cc44f4693db6a01aeafbc7605549c8669844f009f4bbfa36318d"
     },
     {
       "id": "20260819-FR-BCEEB083-473",
