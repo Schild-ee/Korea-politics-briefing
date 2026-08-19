@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-19T23:07:14+09:00",
-    "nextScheduledUpdate": "2026-08-19T23:37:14+09:00",
+    "lastSuccessfulUpdate": "2026-08-20T00:48:54+09:00",
+    "nextScheduledUpdate": "2026-08-20T01:18:54+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-19T23:07:11+09:00",
-      "finishedAt": "2026-08-19T23:07:14+09:00",
+      "startedAt": "2026-08-20T00:48:50+09:00",
+      "finishedAt": "2026-08-20T00:48:54+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 44,
-      "duplicates": 40,
-      "rejected": 148,
-      "rejectedByDate": 147,
+      "acceptedCandidates": 48,
+      "duplicates": 41,
+      "rejected": 147,
+      "rejectedByDate": 145,
       "rejectedByRelevance": 1,
-      "rejectedAsCommentary": 0,
-      "newIssues": 7,
-      "updatedIssues": 5,
+      "rejectedAsCommentary": 1,
+      "newIssues": 10,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,526 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260819-FR-83EBC591-452",
+      "title": "국세청, 호우 피해 중소기업에 법인세 납부 2개월 연장 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T17:20:08+09:00",
+      "publishedAt": "2026-08-19T17:20:08+09:00",
+      "firstCollectedAt": "2026-08-19T18:52:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "국세청, 호우 피해 중소기업에 법인세 납부 2개월 연장 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국세청, 호우 피해 중소기업에 법인세 납부 2개월 연장 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWW1zSWpmUWJleHgyaTNKUWcwVEswTWRNbVZZdXVPRnJJal9wQWtVa1BVMk1QRG1nQnJYRDY3TjcxendZZTZSVWNCOUxrYmhlMm1JdkFCTzhRb0FqZEs1MlNoZ1lFSGJiU0xZV0JPSmpxZ18yTVZpUXNIMkdaVzdDaDIzbzBpN0p3VXc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국세청, 호우 피해 중소기업에 법인세 납부 2개월 연장 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ReEVxdGhCaS1JSDNhVE10cTlqeW9FRmxOOWpsSDA5Qlo3SzJkRDV1S0pRSzdBalFSazhrbEN3YUpQa215M21nSlJ0MHFTVmZTcWhZM0FIVDAzRWV3MUc4ak1FTWwwemN5QXlPMQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-20T00:48:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "83ebc5914f52ad8b58ea39eb0f4230e56b21a71159df9b8b43fd93c03fcb26d9"
+    },
+    {
+      "id": "20260819-FR-EFB9B9A2-464",
+      "title": "한미동맹의 또 하나의 핵심축 '방위산업' - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T10:07:58+09:00",
+      "publishedAt": "2026-08-19T10:07:58+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "한미동맹의 또 하나의 핵심축 '방위산업' - 오피니언 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미동맹의 또 하나의 핵심축 '방위산업' - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FUl90R05iLWJyUXpFbnVLNy1mSHFwdnNqdlpwTFJ2elNjdnZJSnR3ZHppT1JOTDlRYm5QdG5uNmlmZTJ3NE9oUThocXgyNFZ1Q1JaOF9Wem9CU0p4SnZxTTB0Zmk5SGVhODhfRHU3T2I?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "efb9b9a27a79bdfca70f7b7e7c3d15538e1048e045431e5d84e32b7a5a0b70e1"
+    },
+    {
+      "id": "20260819-DP-F1467698-465",
+      "title": "(보도설명) 2027년 예산안 및 국세수입 규모는 결정된 바 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T22:44:42+09:00",
+      "publishedAt": "2026-08-19T22:44:42+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "(보도설명) 2027년 예산안 및 국세수입 규모는 결정된 바 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 2027년 예산안 및 국세수입 규모는 결정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXMXJ0MjlkRkhUdTRxLUtNeGhiZHBfWDRZX2hPSkNnd1FpQzdmSlFwWmJpRVhVU3JhQWVMT2txZllDT1ZSZkhVVVpiLXBtbk53Vnk1TDJhWi1Fckx1WFl5dG5KakRyeHYwNFN1UHlCZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f1467698fa417005b56b7d334e69130d5f8d25666dd07fe8688e90c3cf03630b"
+    },
+    {
+      "id": "20260820-FR-931290C8-466",
+      "title": "창업 생태계 강화를 위한 대토론회 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T00:38:25+09:00",
+      "publishedAt": "2026-08-20T00:38:25+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "창업 생태계 강화를 위한 대토론회 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "창업 생태계 강화를 위한 대토론회 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OSUZ6emVWTjlEVTk4OVBuMHJqeDV1Q1VuempWRGQ1aDBkU2tEa0F6TnB3WC11NEpjRnFwZ25sS1NGM0xXS0lWckJkMWo2dGhHZ3lKb18yMFFJWlNlWTVoWThpZ25kN0REdzVTX0hqVWQ1VE13cnhfVV9R?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "931290c8745d16884c8b568dd1e4d5147f8a38e5408bef702dfeb832d1d47da0"
+    },
+    {
+      "id": "20260820-FR-03EC1E92-467",
+      "title": "3기 신도시 인천계양지구 주택공급 현장점검 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T00:38:25+09:00",
+      "publishedAt": "2026-08-20T00:38:25+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "3기 신도시 인천계양지구 주택공급 현장점검 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "3기 신도시 인천계양지구 주택공급 현장점검 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41SnNqQ0hmZ3I3cW5DTEgxeEpNNk9nMTlTVG5hcmVkcV9OUHg4eTRUNERfeHFtMVRzQkFHbkFlN0xuSVB1X3JkbFZ0aVNmT21GbkEyVU9fMjA5aFByNDkzeEVPNnRGUUM2LWJyYUdSSVVCdUkwdDNtaFZR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "03ec1e921f4d022addba8f9bfea608e5ddf38ccb76dd064f52a2416d308b92fa"
+    },
+    {
+      "id": "20260820-DP-63343753-468",
+      "title": "2026 전국 지방정부 일자리대상 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T00:39:06+09:00",
+      "publishedAt": "2026-08-20T00:39:06+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "2026 전국 지방정부 일자리대상 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 전국 지방정부 일자리대상 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04cVUwNlVVVDJrc0xtNlBtSHdWUG9aN21wNXhCSFBwY09MeWx5QkJfdW5ROXpyUGwzRThBMURST181dEIzam9pZE1IQm9UQnlEUmtmVHJNdEhQdkNtNmx1SkdmbnctUDRtUi1CZDQ1WVY5TDBKMC1NcXp3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "63343753480563620a8e59dac2b16d9feefc8a1fa1577295fda15cdb046422c3"
+    },
+    {
+      "id": "20260819-FR-C4A2D978-469",
+      "title": "더불어민주당 당대표·후보자 만찬 간담회 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T22:34:25+09:00",
+      "publishedAt": "2026-08-19T22:34:25+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "더불어민주당 당대표·후보자 만찬 간담회 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "더불어민주당 당대표·후보자 만찬 간담회 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UeXdyeGd4a0JkSmZxeHFGNkNRQjZycEt2Vm05QTllZU1hMlVRc3VtR1I1dnJMMkRuT0Fyd2tSOVNIS0tIYWZkWU5ZSTlFRnBlWDlFc2Nvd1Jma3RHSnhqbEdIdEZ3R1ZMaC1mR1VMYks?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c4a2d978c494482a3579cc3460e6092a1484cebc231f732fb8bc47eda1e8a69b"
+    },
+    {
+      "id": "20260819-FR-0E43A40B-470",
+      "title": "공공택지 최단기 착공모델 구축 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T11:58:31+09:00",
+      "publishedAt": "2026-08-19T11:58:31+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "공공택지 최단기 착공모델 구축 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공공택지 최단기 착공모델 구축 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YdzB6T0pENzIxU0h1XzhFRGlBSWNrM05zc29ad3ltZUk0QkEydWtoeDVVTEZGVEVqaFhfU2s0SlE0ZXYxc2lQeG9kZjNhSE1YWF95MGxIS2RuMG4yaGtDQU5pcENMTkFwOFVqYXNB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0e43a40ba98732f31b488924b7c52a558a69f83f41ef0a8cc117d85659d6d3e0"
+    },
+    {
+      "id": "20260819-FR-284EFE54-471",
+      "title": "도심 속 주택공급 활성화를 위해 주상복합 기준완화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T20:52:18+09:00",
+      "publishedAt": "2026-08-19T20:52:18+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "도심 속 주택공급 활성화를 위해 주상복합 기준완화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "도심 속 주택공급 활성화를 위해 주상복합 기준완화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DY29jNVE3WWY2QmZfbjVlRFV4TEswUTlfWTNxeWJ2TzJWNEZ3ZGpTcFlScXVRaDJjd1AweFNTTmNaNWcyT2Y5Q25lT0l1c24zaXJ3bjV6YVNNYWdLcGZqTml6UnEzZEpGUmJvaEpB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "284efe545b5d79e799b196ea79bc018057882dc79b47718e7fcf7df8782e3476"
+    },
+    {
+      "id": "20260820-FR-0E28B294-472",
+      "title": "청년 주거 지원 3종 세트 출시! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T00:33:45+09:00",
+      "publishedAt": "2026-08-20T00:33:45+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:52+09:00",
+      "updatedAt": "2026-08-20T00:48:52+09:00",
+      "summary": "청년 주거 지원 3종 세트 출시! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청년 주거 지원 3종 세트 출시! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fRXBqVEZEX29lREVhYjZUWFFBV2JZeHJmY2xEZ1Z1NVZfdW0yOThPaktqWE1iYzJxREl0RGtBZUZpTVA0aWtVNnNGUUwwbXJjNHQ2a04wRmZsZ2hXVUJlZEwwY1YzcFNLaVRpZzRn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0e28b29411699eedf6e8795bb8dde195aa688a96843bd7dfe3928110ff6a06d3"
+    },
+    {
+      "id": "20260819-DP-45885C0A-449",
+      "title": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T18:10:11+09:00",
+      "publishedAt": "2026-08-19T18:10:11+09:00",
+      "firstCollectedAt": "2026-08-19T18:52:52+09:00",
+      "updatedAt": "2026-08-20T00:48:51+09:00",
+      "summary": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0JSbHB2d1BNMzEwZV9fX1Q1UHBNRy1JdWhvZGRDZURLaXVSTGtmOVRrM0ZBeFZyNFdfcnRKYmRTQlFWWW9aYXJyUXJYeVdIZF94LVgzeEhFMFROZDd5anRUVDNVYS1TTDhMS1ZwcUlnU1B1R3dETHF1Z2d6d1VpRVpLX0diMmNrWUE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKclhMbDdfWVdWX1FXWVBUOENmRnprazRUZE5Rckl4NmpHYUI2eHBqV0ZGeDgwN2NuQ2ZMR2ItSDFDOWZ4RFRFZE9TRHdCTEJCSXdJYU1SclNPVzZYa19lMEVrTUhEN3hIOWYyWEtjWTZmUlcyMFdwMnB4OS1ybE1HVDhlSENyNkE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaUFSUTJPS2w2eE82U0xYRFczSmlTR1d2TERNVkJaYl9CLVdvRmZ2Q0xEU1JvSlVCY01GVW83MFpPc1Z3ZUJpWDhPMHhKX0FlbGZDbmpQVk5ndG1IQ2FTcFI3VnhUY2xFcnowRFUtTEdoWWpfOFNueUk4UHc0UUJ4aGhVN1RPa0IzSGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-19T19:59:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-20T00:48:51+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "45885c0a21394d568ea13e12637ad21477784db8e7d9c4161bb2f736629052e3"
+    },
+    {
+      "id": "20260819-DP-6AB96985-463",
+      "title": "\"땀 흘려 번 포인트, 골목상권에 풉니다\"…'튼튼머니' 상생 열풍 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T11:39:46+09:00",
+      "publishedAt": "2026-08-19T11:39:46+09:00",
+      "firstCollectedAt": "2026-08-20T00:48:51+09:00",
+      "updatedAt": "2026-08-20T00:48:51+09:00",
+      "summary": "\"땀 흘려 번 포인트, 골목상권에 풉니다\"…'튼튼머니' 상생 열풍 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"땀 흘려 번 포인트, 골목상권에 풉니다\"…'튼튼머니' 상생 열풍 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU2dFWUxCbHZiM08wanpXaXRwY2Vydm5fU1dac3Zud29aREl0WFJxX19QMDBNaXkwaVBLWnJNa2Z2aG9IYXotdUpnZjFZcmY5YVdILW05WWZzV0IyNVhhTnZOaDVMbHBsZXhEQTI3V0ZjWjZVZC1lRnJ0cS1oY2JyM05XSWNjRW8?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6ab969858f15f16f226b40fc1e760cd32941086f7c289b052348bc61dd6f42bd"
+    },
     {
       "id": "20260819-DP-35CAA7DE-448",
       "title": "7월 호우 피해액 309억 원 확정…정부, 복구비 713억 원 투입 - 대한민국 정책브리핑",
@@ -610,59 +1130,6 @@
       "contentHash": "c84e6040c77e83cf10a739162403cd499dbf76cc085a66f994c94889a7c3131b"
     },
     {
-      "id": "20260819-DP-45885C0A-449",
-      "title": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-19T18:10:11+09:00",
-      "publishedAt": "2026-08-19T18:10:11+09:00",
-      "firstCollectedAt": "2026-08-19T18:52:52+09:00",
-      "updatedAt": "2026-08-19T19:59:44+09:00",
-      "summary": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 - 대한민국 정책브리핑",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd0JSbHB2d1BNMzEwZV9fX1Q1UHBNRy1JdWhvZGRDZURLaXVSTGtmOVRrM0ZBeFZyNFdfcnRKYmRTQlFWWW9aYXJyUXJYeVdIZF94LVgzeEhFMFROZDd5anRUVDNVYS1TTDhMS1ZwcUlnU1B1R3dETHF1Z2d6d1VpRVpLX0diMmNrWUE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "도산사업장 임금 체불 노동자 보호 강화…대지급금 범위·상한액 확대 - 대한민국 정책브리핑",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdklKclhMbDdfWVdWX1FXWVBUOENmRnprazRUZE5Rckl4NmpHYUI2eHBqV0ZGeDgwN2NuQ2ZMR2ItSDFDOWZ4RFRFZE9TRHdCTEJCSXdJYU1SclNPVzZYa19lMEVrTUhEN3hIOWYyWEtjWTZmUlcyMFdwMnB4OS1ybE1HVDhlSENyNkE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-19T19:59:44+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "45885c0a21394d568ea13e12637ad21477784db8e7d9c4161bb2f736629052e3"
-    },
-    {
       "id": "20260819-FR-F19A36E9-451",
       "title": "마을에 지뢰가 남아 있다고? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -701,46 +1168,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "f19a36e91ac041a000e90b4e834bfd2528a71c24aa80d3b044c9b089b874be27"
-    },
-    {
-      "id": "20260819-FR-83EBC591-452",
-      "title": "국세청, 호우 피해 중소기업에 법인세 납부 2개월 연장 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-19T17:20:08+09:00",
-      "publishedAt": "2026-08-19T17:20:08+09:00",
-      "firstCollectedAt": "2026-08-19T18:52:52+09:00",
-      "updatedAt": "2026-08-19T18:52:52+09:00",
-      "summary": "국세청, 호우 피해 중소기업에 법인세 납부 2개월 연장 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국세청, 호우 피해 중소기업에 법인세 납부 2개월 연장 - 대한민국 정책브리핑",
-          "date": "2026-08-19",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWW1zSWpmUWJleHgyaTNKUWcwVEswTWRNbVZZdXVPRnJJal9wQWtVa1BVMk1QRG1nQnJYRDY3TjcxendZZTZSVWNCOUxrYmhlMm1JdkFCTzhRb0FqZEs1MlNoZ1lFSGJiU0xZV0JPSmpxZ18yTVZpUXNIMkdaVzdDaDIzbzBpN0p3VXc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "83ebc5914f52ad8b58ea39eb0f4230e56b21a71159df9b8b43fd93c03fcb26d9"
     },
     {
       "id": "20260819-DP-80DF14A9-453",
