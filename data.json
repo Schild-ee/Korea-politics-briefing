@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-19T08:50:34+09:00",
-    "nextScheduledUpdate": "2026-08-19T09:20:34+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-19T12:14:47+09:00",
+    "nextScheduledUpdate": "2026-08-19T12:44:47+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-19T08:50:31+09:00",
-      "finishedAt": "2026-08-19T08:50:34+09:00",
+      "startedAt": "2026-08-19T12:14:44+09:00",
+      "finishedAt": "2026-08-19T12:14:47+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 36,
-      "duplicates": 45,
-      "rejected": 155,
-      "rejectedByDate": 154,
+      "acceptedCandidates": 38,
+      "duplicates": 38,
+      "rejected": 151,
+      "rejectedByDate": 150,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 10,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,473 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260813-FR-30A805D2-315",
+      "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T10:44:37+09:00",
+      "publishedAt": "2026-08-13T10:44:37+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "- 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2J1akF3bTZrWGxRWWtzN3FYOHBvUFVxRFZRNFFhaFFCeUh1M2lsUzVlLTQyTEtpVGc4MVpxRmdfeENGb2dicE9qY1FQU1BBYVlwNG5NU0FzMl9FTzJYY0tQaXNpOEszckktYVRVZUpKVkNpMHY4aVVpdnlzOV9JeGw3S002cm1HM1RCbA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTV9tbTVteG9nd29xS3dIY2cwRE1UWkkwdW5pejdWNnY2QlJVcXVJeV8yZnAzdG5sRE9KX0tKTlNkNWNqZk45aEhjSkVnWVZmNUdYdFBGSHpPNWtad0RfM3VxTExRTjRfenVxUjVmQktxRThoVktPSGJwMHpScVAwS2VJTkp4NFctS1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "사치품에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEYxNUNKVG9sOUxuZVgzcU1BSlItVi1PekNJVVVvenNMYmVMMUVBbGk2OWp1cWEwb3ZNUVo2X0h5VlBzeS1jQXgxeVA2UzdRd1Yzd1JDYmg1NUFSa3ZZTWxKTnB0bkdLYTRUQzZjN0JIajVNMS16UE1yWlBhRndmNzBxVGZ3V3pFT0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-19T12:14:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "30a805d2dc388d13df44c699460268be184c7ee47190298cc2753802869fec6f"
+    },
+    {
+      "id": "20260819-DP-5B51A80C-428",
+      "title": "보양식 문화의 변화, 내년 2월 '개식용종식법' 전면 시행! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T11:24:26+09:00",
+      "publishedAt": "2026-08-19T11:24:26+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "보양식 문화의 변화, 내년 2월 '개식용종식법' 전면 시행!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "보양식 문화의 변화, 내년 2월 '개식용종식법' 전면 시행! - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY0V2dk8xOEYwdTctMXlHWnZZZjhGVVhIaEtpY3F1c1A1OHMyQ05RZ25oY0RTZ2FnSDV0TkxDVDhaN0hycVY0cmtMZ2FRaWljNjdFOUVwMEFsTVBSd3JJNVNVZnlNcVRseUY2U0lKWWl0QlJXNm9nVUJrcklOWHlKVmRhTzNTUlNrLWJV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b51a80c19d282ef30d7d329fd14ccb28f7a196507ee3e6eb5a06f1249faee5e"
+    },
+    {
+      "id": "20260819-DP-5FC77B7A-429",
+      "title": "(설명) 2027년 전기차 보급사업 예산 규모 및 구체적인 지원수준은 확정된 바 없음 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T09:05:38+09:00",
+      "publishedAt": "2026-08-19T09:05:38+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "(설명) 2027년 전기차 보급사업 예산 규모 및 구체적인 지원수준은 확정된 바 없음 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 2027년 전기차 보급사업 예산 규모 및 구체적인 지원수준은 확정된 바 없음 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GVzN5RktXR2sySHlHYzJlU2Q2aXB6NXBNNGxXd3lvc2ItWWxUR0dncXRyWjRwUXZQMktFQ1Z5T1dld0otWkFpUUFfTEp3MHdTMDJXdWJja3g4OVZ4SDJVUG93TUlrVFhsWmNsUkJMWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5fc77b7a48945447dadc2c48662ed63ac91c4f63ddf9f4272fb9056321849bde"
+    },
+    {
+      "id": "20260819-DP-FF78F4BF-430",
+      "title": "정책브리핑 상세보기 - 문화체육관광부 e-브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "문화체육관광부 e-브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T11:13:05+09:00",
+      "publishedAt": "2026-08-19T11:13:05+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "정책브리핑 상세보기 문화체육관광부 e-브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "문화체육관광부 e-브리핑",
+          "title": "정책브리핑 상세보기 - 문화체육관광부 e-브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FMzhBRWVISWQtZUlFNm95a1dUbzdiVFBQckpmUEliTXJ6LTkxUVpIZng1bEV5S2k3X3FvRkZPS3lGcGxTZFFLT1NmUVdEQ28?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ff78f4bfacc59dbc15c28dff4ccfd9b90e64caddb231744b56b1641a41cd64ca"
+    },
+    {
+      "id": "20260819-DP-0F773D26-431",
+      "title": "120년 광장시장 물들인 한복, 힙(HIP)한 일상복으로의 전환 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T11:19:51+09:00",
+      "publishedAt": "2026-08-19T11:19:51+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "120년 광장시장 물들인 한복, 힙(HIP)한 일상복으로의 전환 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "120년 광장시장 물들인 한복, 힙(HIP)한 일상복으로의 전환 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM09SWWNRY3RCYmZZV2VrVThOS0ZyWHNZbGFHRkFWNV9oc3ZQb1pkS1NYZk52SnctcGxDTzZJZ09qb0kxTF9UdmpDcDFXVUxxLVd1OXUtZTZlaTdvZDJOQWptaWgyNWYtbWJ3ZTF4blJvTmk0VVdhY3RoMXJPdFdrWjA4TFBNZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f773d26e327e2f87442757862c4b9c45989830853c51e0776458624c7ea853f"
+    },
+    {
+      "id": "20260818-FR-C9D79EE8-432",
+      "title": "대통령의 나토정상회의 참석, 'G7형 외교' 가시화 기회 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T20:07:31+09:00",
+      "publishedAt": "2026-08-18T20:07:31+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "대통령의 나토정상회의 참석, 'G7형 외교' 가시화 기회 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대통령의 나토정상회의 참석, 'G7형 외교' 가시화 기회 - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZcXk1UkszX2RWb0VTd0lwWVlmOVEzVVpibXk5UDBmc0pIZ2thbHNtRWppejlROWZWaGNTNGlaSnU0NDNGaWNEVWJaTUFZR1ZkeDdWWFZZdkI4ZHlSVnNFUlFzT2d1SWxaR2FHcmZoREVfdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c9d79ee801b2c8de2dbde1edb834e6243590ebf9e79dd4567128c2bf80267756"
+    },
+    {
+      "id": "20260819-FR-171230D9-433",
+      "title": "한미동맹의 또 하나의 핵심축 '방위산업' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T09:39:45+09:00",
+      "publishedAt": "2026-08-19T09:39:45+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "한미동맹의 또 하나의 핵심축 '방위산업' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미동맹의 또 하나의 핵심축 '방위산업' - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTkVJcm5TSGZwMkE5UkhVbXIwYjlHV2JhMkV3R0g0SzNKampXSVpsbUplVFB1Mm5HSTZOWHdFWGM0Z2ZDNjZDbGY1U0RWOEdzZHBPblBxeXhSc1hTMnlzNF96ZGFxanBJdFNuQTJIcUFrNjI5TXY4Q3pnU0ZaZUIzZmRrdEd6UHhMX3BiSzJR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "171230d9ab84b0977ec93780c3e9a10aabd497edc45964c8563c04f4437f8381"
+    },
+    {
+      "id": "20260819-FR-9EEECF25-434",
+      "title": "독자 AI 파운데이션모델 프로젝트 2차 단계평가 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T09:45:30+09:00",
+      "publishedAt": "2026-08-19T09:45:30+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "독자 AI 파운데이션모델 프로젝트 2차 단계평가 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "독자 AI 파운데이션모델 프로젝트 2차 단계평가 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZYk5qQ2RJQVhkR2tpbzI5emVJTm5EQ1ROYjBpYTNHcmFyU1hsX3V2X1RYYWk3WTdGb1Q4ektJRFgxQjZ0b2UtSnNTMEwtNUFmNHRKZ3I2SnVGTUVldkpkLS1PbGhPZnZTN3p0cFlpNTNVWE50czN3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9eeecf25bdfad61c33228f2dd87540952a2643cd60481c1996629cc664ac8596"
+    },
+    {
+      "id": "20260819-DP-891F0331-435",
+      "title": "친환경차 개별소비세 감면 제도, 출산 및 혼인세액공제는 종료되는 것이 아니라 재정(예산) 지원으로 지원방식이 변경됩니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T11:26:52+09:00",
+      "publishedAt": "2026-08-19T11:26:52+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "친환경차 개별소비세 감면 제도, 출산 및 혼인세액공제는 종료되는 것이 아니라 재정(예산) 지원으로 지원방식이 변경됩니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "친환경차 개별소비세 감면 제도, 출산 및 혼인세액공제는 종료되는 것이 아니라 재정(예산) 지원으로 지원방식이 변경됩니다. - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMWg3dUZZbmRVb09TSEpybUxyX3FaZ2tIek5uTFFQN3V0TC1EVHZDdzhfTTROSkwySlM1cnlTWEozdDJHZmpqeERJZm9GelV4ZkszZEx3alFSaW43TktubDBPQ1R5VEd3VG84NEllMXRuZG5qdmVXT2JlVWJrMmw3SFEzeGJwUXAt?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "891f03317dd376c2df02e13a3fa59f9350331a47e19118a2fe50725ce7f7871b"
+    },
+    {
+      "id": "20260818-FR-396C8343-436",
+      "title": "우리 회사 CCTV, 감시용으로 써도 되나요? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T17:14:58+09:00",
+      "publishedAt": "2026-08-18T17:14:58+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "우리 회사 CCTV, 감시용으로 써도 되나요? - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "우리 회사 CCTV, 감시용으로 써도 되나요? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUEyT0ZhVDJicEc1dnVZLUd2MlJNSm5QUy1LXzVTSkVvQ0RqMUdXRGk4WnZmV1I2QXNHVFhRb19MUVAyU2JqNWVWZU04emxQZzRkM3ItZWxNLVdsdm53cElsaFlrR0MyX1dCTmdqWTdrc1lPbUYyTG5vR2QxZmh4VnN3U2JORl9MNlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "396c8343226f7e63a1232d2643517f50e535a76561d3c677561ad2cc0e6208da"
+    },
+    {
+      "id": "20260819-FR-B83EA11B-437",
+      "title": "공공택지 최단기 착공모델 구축 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-19T10:54:34+09:00",
+      "publishedAt": "2026-08-19T10:54:34+09:00",
+      "firstCollectedAt": "2026-08-19T12:14:45+09:00",
+      "updatedAt": "2026-08-19T12:14:45+09:00",
+      "summary": "공공택지 최단기 착공모델 구축 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공공택지 최단기 착공모델 구축 - 대한민국 정책브리핑",
+          "date": "2026-08-19",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNX2ppaHVDZFhyR3BzUW93Z2tXSTNFblJHVWRGaDZsYU81aGNiRnNaNVh2VGVaMnhoUnhVSGlWLXMtMUtuRjVtU1NEekkxSldsLWd1d1VwVUlBaVpnM05vNVlYSFdYYjRiR3o5TE42dUZDOGJ1V2pKb2ZRbkI3N1F5N2h3c1ZFNmJIdDd0UzVCcDZfRW1LME4tV05qcDFpbHJ4TnBtSFZMMXNfOGdIUnNsRlpGcXZKWlZleXhROHBIc3hWMHlIdVFwYzAybHFaT0RUcWpNRkEyMWJxVmpXbWlCVER2WmhWWThjejl3NnExOG1vRG16NTdpVUliaFZYdVNGYjFYVndjY3VfZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b83ea11b4d28f9771636ac0d646dce3ad756b3d8b24cb26f8b4933466173b0fd"
+    },
     {
       "id": "20260818-FR-B3F48A10-410",
       "title": "국민이 뽑은 '정책소통 혁신사례'에 노동부·식약처 콘텐츠 선정 - 정책뉴스 | 뉴스 - 정책브리핑",
@@ -4889,59 +5356,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "d036d0a7fb6204fe01bbf1c9d5a97df2607594d33523ffd778ce30ea3d6a3a32"
-    },
-    {
-      "id": "20260813-FR-30A805D2-315",
-      "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-13T10:44:37+09:00",
-      "publishedAt": "2026-08-13T10:44:37+09:00",
-      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
-      "updatedAt": "2026-08-14T14:14:39+09:00",
-      "summary": "- 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN2J1akF3bTZrWGxRWWtzN3FYOHBvUFVxRFZRNFFhaFFCeUh1M2lsUzVlLTQyTEtpVGc4MVpxRmdfeENGb2dicE9qY1FQU1BBYVlwNG5NU0FzMl9FTzJYY0tQaXNpOEszckktYVRVZUpKVkNpMHY4aVVpdnlzOV9JeGw3S002cm1HM1RCbA?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "술에 세금이 이만큼이나? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTV9tbTVteG9nd29xS3dIY2cwRE1UWkkwdW5pejdWNnY2QlJVcXVJeV8yZnAzdG5sRE9KX0tKTlNkNWNqZk45aEhjSkVnWVZmNUdYdFBGSHpPNWtad0RfM3VxTExRTjRfenVxUjVmQktxRThoVktPSGJwMHpScVAwS2VJTkp4NFctS1E?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-14T14:14:39+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "30a805d2dc388d13df44c699460268be184c7ee47190298cc2753802869fec6f"
     },
     {
       "id": "20260812-DP-AAF88BB6-283",
