@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-21T04:19:37+09:00",
-    "nextScheduledUpdate": "2026-08-21T04:49:37+09:00",
+    "lastSuccessfulUpdate": "2026-08-21T05:57:26+09:00",
+    "nextScheduledUpdate": "2026-08-21T06:27:26+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-21T04:19:34+09:00",
-      "finishedAt": "2026-08-21T04:19:37+09:00",
+      "startedAt": "2026-08-21T05:57:23+09:00",
+      "finishedAt": "2026-08-21T05:57:26+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 58,
-      "duplicates": 66,
-      "rejected": 132,
-      "rejectedByDate": 129,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 55,
+      "duplicates": 64,
+      "rejected": 135,
+      "rejectedByDate": 131,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 2,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260820-FR-F6CC376A-511",
+      "title": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T16:50:06+09:00",
+      "publishedAt": "2026-08-20T16:50:06+09:00",
+      "firstCollectedAt": "2026-08-20T23:10:09+09:00",
+      "updatedAt": "2026-08-21T05:57:24+09:00",
+      "summary": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1RBQVl3QjRxVVJWVHJEUzBDQzd4NXR0b05nMkUtV2s1Qjl0VkVxMV9MTFZ4YUlXMVdRWUlvS0JIZHgyWFRPb3Bpb2VmblhKdmdrekdWQzh2VkVJQWZnM0lFc3RVek5BREVRSXUzaWdIZ05uQ2ZJY19LS2dlaWdDZ0pUYXRoTW5PX3c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbHJMT3o3dWZQUmJhZFdycVlvWWRyNDFZaTdqbENpWlhIbGp2ZFFaYWdQR2UyVFFhMFB4d2dJbFF0NHJ1WmNaYy1kQlhKSmstRzVjdWp2cE14dkRpMVU2bS1BTzQxdTFqWnFWdHBlT2s0UHpkRUQxcjMtczNEQXdNdVdEOS1VMGVBOThEaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-21T05:57:24+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f6cc376afcfbc6e8db2a56b545a0bd592975b1cc004aed54f7e5156de7a22466"
+    },
     {
       "id": "20260820-DP-116B8BB2-518",
       "title": "산림청 \"산불재난 특수진화대 증원 및 예산 규모 결정된 바 없어\" - 대한민국 정책브리핑",
@@ -459,46 +512,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "7224eb23283281a984c5859af259b04d9f9fc2a49e0f207a12c4288b117afdbf"
-    },
-    {
-      "id": "20260820-FR-F6CC376A-511",
-      "title": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-20T16:50:06+09:00",
-      "publishedAt": "2026-08-20T16:50:06+09:00",
-      "firstCollectedAt": "2026-08-20T23:10:09+09:00",
-      "updatedAt": "2026-08-20T23:10:09+09:00",
-      "summary": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' - 대한민국 정책브리핑",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1RBQVl3QjRxVVJWVHJEUzBDQzd4NXR0b05nMkUtV2s1Qjl0VkVxMV9MTFZ4YUlXMVdRWUlvS0JIZHgyWFRPb3Bpb2VmblhKdmdrekdWQzh2VkVJQWZnM0lFc3RVek5BREVRSXUzaWdIZ05uQ2ZJY19LS2dlaWdDZ0pUYXRoTW5PX3c?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f6cc376afcfbc6e8db2a56b545a0bd592975b1cc004aed54f7e5156de7a22466"
     },
     {
       "id": "20260820-FR-7AFB5D00-512",
