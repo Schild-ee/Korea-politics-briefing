@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-20T08:52:16+09:00",
-    "nextScheduledUpdate": "2026-08-20T09:22:16+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-20T12:13:21+09:00",
+    "nextScheduledUpdate": "2026-08-20T12:43:21+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-20T08:52:13+09:00",
-      "finishedAt": "2026-08-20T08:52:16+09:00",
+      "startedAt": "2026-08-20T12:13:18+09:00",
+      "finishedAt": "2026-08-20T12:13:21+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 48,
-      "duplicates": 53,
-      "rejected": 147,
-      "rejectedByDate": 144,
-      "rejectedByRelevance": 1,
+      "duplicates": 45,
+      "rejected": 146,
+      "rejectedByDate": 140,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 2,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 8,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,416 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260811-DP-4AD5D827-249",
+      "title": "새소식 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T15:51:29+09:00",
+      "publishedAt": "2026-08-11T15:51:29+09:00",
+      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "새소식 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ1WXB1eGc1RHo2b2ZzMnpvdjhSR0VWNjFTb1ptMDVLU09uclBpcUFtTkpzZGd1Y291WUU1T1dsazMyYnJTdGI3ZFNxQVVJUURTelR6XzhSQ1dVUDZKYU8xRjlDdkNMdU52NV9YbVRIN29IdnZJalk4VnU5amdLcjN4U0hkNF9yVEhN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0xOeGtjeHh1aUxNU2stQWVUVmlXRm5wcDV0d0dLaFhyZ25UZXRtX0xaWjg5QXlnTmRKN1VWVkZWdTc5WGNodE1BbzFMbk5iQmg3VU1GTzcyZ1RwWUxlRjY3aGFPeHktbS16YWFXbTNXUnEzbnVEZWJsU1lOS1YySDBPZ09KWG1NOVk0?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFdDOHQ1QVIyOUxIMFZ6NmJoUk1YME0tSWRvNjJCdW53YWs2MWpPdTJYZGIzSWlSeG9SOGdqeDYzSDVkbXNobFJjcEFTYTR2V0FFRTg1TVozQnRlMC1LcHFZeldoN3VGY05FQUVsZnphM2laTk5fZkpoaVoybDRseEk5ZG1wWlBFR21J?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1B6M1lnMWxLcXNWMXM0a1ZLaVJaZTNVY1FvYmJRaWd0RGVyZXRwYjJxWHRxdnBuQXJuNFpCSXB0SmxaanFoREZwRFBIV1lJWG93OG12MTVSWjNJejFhYnF0RWttY0lmS0lTSHNGNHRUZzE4b3V1QTYzOHI0RVBxamt1eEVjcHU1WnVJ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdkpmVWRoZ2xXTVhiWFlkY1VPellLNG9BSXlQdmFfQWQ3eUJ6bDRSekcteDg3RmxfVnVBX2pmQmJTQVE0eXNTWHBDanFNbF9BYUgwcXE1UU1tZzkxVXdKd3NZMk9aWWx3SU9TZ0YtSk9nRS1EVU5yQnZvREZ5THJKanhDN0NyelZ4V1dzWg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T14:19:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-14T14:14:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-18T16:59:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-08-20T12:13:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
+    },
+    {
+      "id": "20260820-DP-44D45057-481",
+      "title": "우리법원 주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T11:18:31+09:00",
+      "publishedAt": "2026-08-20T11:18:31+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "우리법원 주요판결 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNblJFZXlLbEJmNlBpdi1qVjhYX1YyWTNLd3MtbU83YjNEcHFhMnRjYTd1ZGZ5VkUteFJrYWVsUjZRdVZjZ2dGR292a01OTUR1ZUlYcVBNZEMxbDRqS2ZOeWxBbHByeU5lYVdudjNHQkRJUGw0MkQtdHFsOHRvYkowelNEUjFndlZPUWdhMlFsc1N6bXhYSVZ1VEQwa2pwM1lnX3JzOFhEam9rYU4zbUZPd1dLWTZFUE0xYk1JMURabXAwejdZUWZqeHdxWENUMktVeGRKOG9GSVdTMnYyWEQ2YldIUkZMaWx6QmZxYXFvNmFJSHhNTGNKT29rcTVYMWdnX3J3d1Z3NGNPVWJlYy1MMU9Qbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "44d450578e14261071708d8626772c62ea0b6b3df4694d4946134d067180240d"
+    },
+    {
+      "id": "20260820-DP-46865BB4-482",
+      "title": "전국법원 주요판결 - scourt.go.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "scourt.go.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T09:42:34+09:00",
+      "publishedAt": "2026-08-20T09:42:34+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "전국법원 주요판결 scourt.go.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "scourt.go.kr",
+          "title": "전국법원 주요판결 - scourt.go.kr",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRWlVNmhaVm9XZmNDNEdscmZoTEtOa1RlWmZhbmczc0dKSmtFTlltSS1DdkxzWEZoRFhveEx0X3R0SkpMTEl3TXhLTk1XODJaYmgwbXA0QVB4Qi1URXdTVDFlSTg1S1NnVkNQemp6SUlFbHptbERyZDlCV3NxVlo5OWVDRS05UU1zRzBRUUtCbklrUFViTUlWV2NBLUt0dVhIbkg1a0NrNktnOG95YUtqekNQRWpfQ1BZMzVPbjd4X3Z3UFE0OHlXaEJKOHh4Wjk4MXdjN1hiOGY3SVdPZTVNRktOdjFjZThLQkxBSWVpS05fa0FmOU1PZEVBekhaZnJMNnh4SlpCQ0FPZHhJZFYtYjJTVkNucG55RXZqM2Y3UUNKQkJOLXJVVXAwMVg4S0piamc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "46865bb481973ee05d371de07433bd6368bf231b28dde3cf5b4652417833e57f"
+    },
+    {
+      "id": "20260820-DP-8A19DB6F-483",
+      "title": "대법원 재판연구관(일반임기제공무원) 경력경쟁채용시험 시행계획 공고 - scourt.go.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "scourt.go.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T09:42:37+09:00",
+      "publishedAt": "2026-08-20T09:42:37+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "대법원 재판연구관(일반임기제공무원) 경력경쟁채용시험 시행계획 공고 scourt.go.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "scourt.go.kr",
+          "title": "대법원 재판연구관(일반임기제공무원) 경력경쟁채용시험 시행계획 공고 - scourt.go.kr",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOekI0NzVWYzE2Vk1sM3RrZk9qcHhiYm9ENVRRTTNCTTFfMktfTTQ0UUxacy1OSWVYdEdabDRGT0FUQTRDdlpYdXMwQ2RkeGFnUmpUZTRfb3EwRkktTUd0LVdvNXBBbnlscnBGQWFQSXFxem1jZVZ3NkxhaXJCeVNLa3ROWXNmTU93U19hUFViQ2ZDUFAyMWE4bmpXR2ZRUTl2RGJlV0pLYVoxUTdzQ0Jka1JuaV9yTG1HTGE2TzM2WDZwbmR5cTFCNEVPYzdKa3VKVzVpV0dUVzZtSGhQT1Q3Z1ZXUXFGVFFFY3p1YUVYMkxSYlJxVUNZRHMyTEhXZk05UWlIOXE5dHRXOTViT0llUE9hSV9MYjRvd3dLLWlXMTlYajZLX3NXX2d2R0FHTW8zOGZ6clR5TEw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8a19db6f3bc1b0bab6b205d2b6f008320bc79a591d617b61c6806b655be705eb"
+    },
+    {
+      "id": "20260818-DP-FE4EA221-484",
+      "title": "반려견 기질평가 알아보기 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T13:51:57+09:00",
+      "publishedAt": "2026-08-18T13:51:57+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "반려견 기질평가 알아보기 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "반려견 기질평가 알아보기 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY2FpcWhjd0JsSC00aHNTNm5aRFpKSk5xT3RWM3VqR3lzM01IbjJyMHJ5MS0yaGVoa3R0NldSODJGWVZvYlVhNWpPelN0MzNGaEd4SFFSajlIQ2xmVmcxbWVjOTZVckFnSDRMc2lrb1NoUldfVWhGTUV3a3g0OVJmZnR4M1NhbEE0clBN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fe4ea2218d2e1cf2952397a593026fd7f3d3cef453666d2ea457d9d9e66e15cf"
+    },
+    {
+      "id": "20260820-FR-ACBD4CE6-485",
+      "title": "20일 오후 2시 전국 민방위 훈련…공습경보 땐 가까운 대피소로 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T09:27:31+09:00",
+      "publishedAt": "2026-08-20T09:27:31+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "20일 오후 2시 전국 민방위 훈련…공습경보 땐 가까운 대피소로 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "20일 오후 2시 전국 민방위 훈련…공습경보 땐 가까운 대피소로 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hRl96RkNCd2JueGwzeXR4cF9IaWUzaHMtcllYc1ptQ2lRajAwZ3gyVHpnTGRyYWtLSTV4QWpYZUZRN180Q2oxcWUwUWdDcVlXWWQzM1lHZGVwMURDeWN1SklOY0VzT3dqUE1OYQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "acbd4ce6d24faca0368ea74a5043a448aa78ebabb8bff2713ce2cbaec3e5922e"
+    },
+    {
+      "id": "20260820-FR-3D25C140-486",
+      "title": "주식 가격은 왜 매일 오르락내리락할까? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T10:27:27+09:00",
+      "publishedAt": "2026-08-20T10:27:27+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "주식 가격은 왜 매일 오르락내리락할까? - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "주식 가격은 왜 매일 오르락내리락할까? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnRUbnFoaHEzbktwcUc2akc4cWpKWHNQOTQwRDdRWUxHaFRtYThOTVlEWS1EY2Z3TnlGR295dzEybWJoOXRjU1JwM2RpdWp3RG93WVNWNDNlSDRCY2VmSVZMbnRYcWFpZUZOUy1XTWVqdFRGTk4wbGRJOEJCMTcwWnFQdmhzY0VyTU44?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3d25c140e6ce9bc6db2ddd608b5666cc65c5b13862b76b6f6490b9903de90952"
+    },
+    {
+      "id": "20260820-FR-28C6E5FB-487",
+      "title": "[정책동화 작은변화] AI가 바꾼 청년의 내일 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T11:48:45+09:00",
+      "publishedAt": "2026-08-20T11:48:45+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "[정책동화 작은변화] AI가 바꾼 청년의 내일 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[정책동화 작은변화] AI가 바꾼 청년의 내일 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNc05VUFV3RkNCR3hwdlM2cHkyaW9DWWl4TEh6VDJ1QVgxYVo4SXo1TW1fd3BOa1dieUtHNUlVQ01JMWw0YVUtMG8xZDBvYkxrTFBfVUxRcWdZUVVfR1hYYWRKc3RCb3o2SnlFanFBdE9EQ2RuUndVYjFQckhlRjZ5bDI2cGJodU15Qmpz?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "28c6e5fbbbd685f20453d0c9694c71eacba196ade2538cbf548465703eb12a93"
+    },
+    {
+      "id": "20260820-FR-4A86EE69-488",
+      "title": "새만금 이름은 왜 새만금일까? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T11:48:45+09:00",
+      "publishedAt": "2026-08-20T11:48:45+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-20T12:13:19+09:00",
+      "summary": "새만금 이름은 왜 새만금일까? - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "새만금 이름은 왜 새만금일까? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUUpkTVpDaG10NTFVbWVKdC14SzBZSk9VMDAzSmw3UHBHSkZFQjFXSXp4ZlJDWDA5MmM3MkFlRndsOFJHM0R5d3dLN3R2ZElMcWZtNHo1NlN3dzA4dnV2TTdRbWxXcUJHSmo3dWNRUU9idUxIX3cwNUJEeGN1THdzOWgtNjdCYV9taFNJ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4a86ee692b2aa84f0c3194be6a214834b418c2d91e995c9acef9348f5089abac"
+    },
     {
       "id": "20260820-FR-EBA10C17-480",
       "title": "김정은과 정상회담 쇼 위해… 한국 안보 3축 흔드는 트럼프 - 조선일보",
@@ -3733,83 +4143,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "c184d379077b9d6b62695cfeede2971b1cbcea9cc5a6b1916c3163ad8b892904"
-    },
-    {
-      "id": "20260811-DP-4AD5D827-249",
-      "title": "새소식 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T15:51:29+09:00",
-      "publishedAt": "2026-08-11T15:51:29+09:00",
-      "firstCollectedAt": "2026-08-11T20:13:01+09:00",
-      "updatedAt": "2026-08-18T16:59:02+09:00",
-      "summary": "새소식 - 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUlJ1WXB1eGc1RHo2b2ZzMnpvdjhSR0VWNjFTb1ptMDVLU09uclBpcUFtTkpzZGd1Y291WUU1T1dsazMyYnJTdGI3ZFNxQVVJUURTelR6XzhSQ1dVUDZKYU8xRjlDdkNMdU52NV9YbVRIN29IdnZJalk4VnU5amdLcjN4U0hkNF9yVEhN?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS0xOeGtjeHh1aUxNU2stQWVUVmlXRm5wcDV0d0dLaFhyZ25UZXRtX0xaWjg5QXlnTmRKN1VWVkZWdTc5WGNodE1BbzFMbk5iQmg3VU1GTzcyZ1RwWUxlRjY3aGFPeHktbS16YWFXbTNXUnEzbnVEZWJsU1lOS1YySDBPZ09KWG1NOVk0?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFdDOHQ1QVIyOUxIMFZ6NmJoUk1YME0tSWRvNjJCdW53YWs2MWpPdTJYZGIzSWlSeG9SOGdqeDYzSDVkbXNobFJjcEFTYTR2V0FFRTg1TVozQnRlMC1LcHFZeldoN3VGY05FQUVsZnphM2laTk5fZkpoaVoybDRseEk5ZG1wWlBFR21J?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 대한민국 법원",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1B6M1lnMWxLcXNWMXM0a1ZLaVJaZTNVY1FvYmJRaWd0RGVyZXRwYjJxWHRxdnBuQXJuNFpCSXB0SmxaanFoREZwRFBIV1lJWG93OG12MTVSWjNJejFhYnF0RWttY0lmS0lTSHNGNHRUZzE4b3V1QTYzOHI0RVBxamt1eEVjcHU1WnVJ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-13T14:19:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-14T14:14:39+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-18T16:59:02+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
     },
     {
       "id": "20260804-DP-F605F57F-108",
