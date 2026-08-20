@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-20T18:53:45+09:00",
-    "nextScheduledUpdate": "2026-08-20T19:23:45+09:00",
+    "lastSuccessfulUpdate": "2026-08-20T20:03:18+09:00",
+    "nextScheduledUpdate": "2026-08-20T20:33:18+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-20T18:53:43+09:00",
-      "finishedAt": "2026-08-20T18:53:45+09:00",
+      "startedAt": "2026-08-20T20:03:15+09:00",
+      "finishedAt": "2026-08-20T20:03:18+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 56,
-      "duplicates": 62,
+      "acceptedCandidates": 55,
+      "duplicates": 63,
       "rejected": 136,
       "rejectedByDate": 134,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 1,
-      "newIssues": 2,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260820-DP-2D2070B7-508",
+      "title": "부산고등법원 공고 제 2026 - 27 호 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T19:33:17+09:00",
+      "publishedAt": "2026-08-20T19:33:17+09:00",
+      "firstCollectedAt": "2026-08-20T20:03:16+09:00",
+      "updatedAt": "2026-08-20T20:03:16+09:00",
+      "summary": "부산고등법원 공고 제 2026 - 27 호 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "부산고등법원 공고 제 2026 - 27 호 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnRGX0c0Ymo4VlBnMVNSVmo2NGZqTlRxQWRQbE1qUUxGM3M4UFZrNmJCWE1IQll0SmluNTFEeTZWdnhOanlFWFlkN2QyVC1qcU91Q2pnZ0hXcFBCbVdTcUpWdnhkYTNFYmNyWm95bE5OcVVXdmVkR2dDMXFiRElkY2NscXcwOWoxRG82V3Nn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2d2070b706e49bd023b8da0b9cf4602a15fc7abc6de1632fabf25ae8cbef43e2"
+    },
     {
       "id": "20260820-DP-5D7FD3BF-506",
       "title": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" - 대한민국 정책브리핑",
