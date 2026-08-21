@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-21T08:54:56+09:00",
-    "nextScheduledUpdate": "2026-08-21T09:24:56+09:00",
+    "lastSuccessfulUpdate": "2026-08-21T14:08:20+09:00",
+    "nextScheduledUpdate": "2026-08-21T14:38:20+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-21T08:54:53+09:00",
-      "finishedAt": "2026-08-21T08:54:56+09:00",
+      "startedAt": "2026-08-21T14:08:16+09:00",
+      "finishedAt": "2026-08-21T14:08:20+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 51,
-      "duplicates": 61,
-      "rejected": 138,
-      "rejectedByDate": 133,
-      "rejectedByRelevance": 3,
+      "acceptedCandidates": 52,
+      "duplicates": 55,
+      "rejected": 137,
+      "rejectedByDate": 134,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 2,
-      "newIssues": 0,
-      "updatedIssues": 1,
+      "newIssues": 5,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,379 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260820-DP-5D7FD3BF-506",
+      "title": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T17:09:21+09:00",
+      "publishedAt": "2026-08-20T17:09:21+09:00",
+      "firstCollectedAt": "2026-08-20T18:53:44+09:00",
+      "updatedAt": "2026-08-21T14:08:18+09:00",
+      "summary": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSERHcnlNSE5OSXNubmJsMFhhbFlGYmZ6ZGZ3Q3dldnhJd2ZucjNRcWNTM2NrWnUyaUFjd25Pc3VQTlFVTkRZVVZOQ0Zpc0NSWGVFR05ZQm1lRGsycUxvTWFUQlJOMTMzcTk2UDJZY0syVTFfeUJGNk0wTEtCMUxRWjdkUC14QzY4YWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" - 대한민국 정책브리핑",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sMWZLdW82UTQ0VEJyaHMtTUw3STg3ODVleFlQUFZqS2dZVnJlUTQ2a1FLY1FtNU0xdERnQk5YbHYtX3d3MHdNWS1Hc1g4aEx3SHRMRGlSQ3JvRHdmWEV1T1JZTEFFbUtvY29zOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-21T14:08:18+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5d7fd3bf49666fc31768ab1d5708c4da960e9071ebe34aab66d1b4f88097b529"
+    },
+    {
+      "id": "20260818-FR-72E5650A-524",
+      "title": "[해명] 용산공원 조성 특별법 개정안은 용산공원 본체부지 주택 건설과는 관련이 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-18T19:04:52+09:00",
+      "publishedAt": "2026-08-18T19:04:52+09:00",
+      "firstCollectedAt": "2026-08-21T14:08:18+09:00",
+      "updatedAt": "2026-08-21T14:08:18+09:00",
+      "summary": "[해명] 용산공원 조성 특별법 개정안은 용산공원 본체부지 주택 건설과는 관련이 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] 용산공원 조성 특별법 개정안은 용산공원 본체부지 주택 건설과는 관련이 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5amxvQlNfQ2tObkpyM3BlQVhGeE04THJqWjRvSW1kSVRfUTZfREJPNUJqT3ZTLU1JbDBpcmpoZ2hYUHpqd1ZoREk4SUlnQWFPNjhxekc4SzR3S3pudU1ZM294eFZUU0J0Ynp3T0pTOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "72e5650a09e1ed52c88a2e229807f1b580acbae92a7759600050fba9b2c42480"
+    },
+    {
+      "id": "20260820-DP-899B7472-495",
+      "title": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T15:35:25+09:00",
+      "publishedAt": "2026-08-20T15:35:25+09:00",
+      "firstCollectedAt": "2026-08-20T16:58:21+09:00",
+      "updatedAt": "2026-08-21T14:08:17+09:00",
+      "summary": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1BsZDZxMTRqbFh2Rk45RERqZU1Nb0szOHpXRzAtR1ZRVXl6QXVkeVM2Zkw1TUptdkxVVk5Xb0F6dlB5SEtyOTBtQ25wVk5DQjd6Qno5Q2JJX2MwYWNueWx1emE0eXJvd2tlZ2cwSU1CcXhOalQ2SG9oQW9MMjhUNm81YzhWX0huR0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DeE1YY2dRZDF2V2VheFZCM0F0RlJydHpZV1VaaW43SHhZUGFQX3FobGNic09aN0thYkowSWhKMXRxRjJRNUNxWWNuRUdHMDFIb0ZaWWZTU2h1QXVHcVBnSEVaNnhraGMtQm9iWQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3pabGpmX194YThuWWFjc2dnb0JMS0c1aHd5dzBqUVBRcTlPMy1BTnRiNE5TOFZJUi1GdkJOclpQUjB3Q2tYVXAtLVJGVnNuNENubDZFa1p6Q0U5SzBtNDUxMy1KWlgtZ01nOWlPVUlhVFJGdlFfV05EVHdrTlpDMkRmR25TcXVpZXRhbQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-20T23:10:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-21T14:08:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "899b7472297e26340b945b95d937f081dff1ef286f8e176dd8ce8ae95c476ebd"
+    },
+    {
+      "id": "20260820-DP-44D45057-481",
+      "title": "우리법원 주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T11:18:31+09:00",
+      "publishedAt": "2026-08-20T11:18:31+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-08-21T14:08:17+09:00",
+      "summary": "우리법원 주요판결 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNblJFZXlLbEJmNlBpdi1qVjhYX1YyWTNLd3MtbU83YjNEcHFhMnRjYTd1ZGZ5VkUteFJrYWVsUjZRdVZjZ2dGR292a01OTUR1ZUlYcVBNZEMxbDRqS2ZOeWxBbHByeU5lYVdudjNHQkRJUGw0MkQtdHFsOHRvYkowelNEUjFndlZPUWdhMlFsc1N6bXhYSVZ1VEQwa2pwM1lnX3JzOFhEam9rYU4zbUZPd1dLWTZFUE0xYk1JMURabXAwejdZUWZqeHdxWENUMktVeGRKOG9GSVdTMnYyWEQ2YldIUkZMaWx6QmZxYXFvNmFJSHhNTGNKT29rcTVYMWdnX3J3d1Z3NGNPVWJlYy1MMU9Qbw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRF9COV9vS19kLVh4YUxmbmNwRFdPMUtDVllrVC1WZ1cwcWEwd3F0TnFXSWJ1WDhYd3RvU2ZqUWE0V2FLVE8xNWI2YUFoSVV3bzUxc2pyNEE2SVJxaEdselg0c3VWbW1OUkFiWXkzOWtTVmVEYXhocC1lLWNxMEdLOExYcEl1LVNWdUJtajh0ZFprai1zZU1FSWRObi1XZnJmNF84ZTA5cWRzemlQQ0Z0SHFVZ1p1OUdteTVkVlBzaGxkNGdCbDRXRTJ2U3pNOUIybWgzTm5LaDcwT0t3dGZQUTZhVjh6NVpNZGxNOGVOc3ppN2FWd3lYbGtYNUJBSjROU0V0NzZqZ2l3c21yU09LQ1Nn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-21T14:08:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "44d450578e14261071708d8626772c62ea0b6b3df4694d4946134d067180240d"
+    },
+    {
+      "id": "20260821-DP-EEC4256B-520",
+      "title": "13개 지상파·공동체라디오 재허가 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-21T10:30:00+09:00",
+      "publishedAt": "2026-08-21T10:30:00+09:00",
+      "firstCollectedAt": "2026-08-21T14:08:17+09:00",
+      "updatedAt": "2026-08-21T14:08:17+09:00",
+      "summary": "13개 지상파·공동체라디오 재허가 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "13개 지상파·공동체라디오 재허가 의결 - 대한민국 정책브리핑",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkFPVWZQREpFemRrQXJQekk1cndSQWNrSFUwZC1wekJOM3hyYjBFeUZmYlR1RGNCeFVmazU3UHA0YTdPbTdVLVRqdGM3Y3JOdENNNmJVRWI4Y2JHdUREMXpmQ3FiTEUzcGtRUi00QjVjZWZ6Mlp3X1JwdXZtQ3BBM0R3UWw1Sy05T1ZtbTBGNDdHZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eec4256be302d9c940586d661a10af8bb2fcad9ee37598f8b5434a7fce2503fb"
+    },
+    {
+      "id": "20260820-DP-D4E3E8E9-521",
+      "title": "[참고] 주택공급 확대방안 9.7대책 관련 법률 제·개정안 6건 국회 본회의 통과 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T19:46:00+09:00",
+      "publishedAt": "2026-08-20T19:46:00+09:00",
+      "firstCollectedAt": "2026-08-21T14:08:17+09:00",
+      "updatedAt": "2026-08-21T14:08:17+09:00",
+      "summary": "[참고] 주택공급 확대방안 9.7대책 관련 법률 제·개정안 6건 국회 본회의 통과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[참고] 주택공급 확대방안 9.7대책 관련 법률 제·개정안 6건 국회 본회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UV2FaRkN2U1ZzU2xmbU5CaEZhSXZlcWdzdE5ONUttTDlhdU5hMjVvMXBJcUpqRjcwelF4Um5TTk9hUDgwV0JMU3ZoM0pkaHRQS0ljdnNsV1dRY2xpVnp2cTRIUFVELTNzNjdpc0V4UmtacFBo?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d4e3e8e9c9b8c930c5d2a06bed90c632f2cee726975786640a067bebac253eaa"
+    },
+    {
+      "id": "20260821-DP-C9F7CC3B-522",
+      "title": "재항고인이 형사소송법 제59조의2 제6항에 따라 검사의 형사재판확정기록 열람ㆍ등사에 관한 처분의 취소를 구하는 사건[대법원 2026. 8. 12.자 중요결정] - 판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-21T09:40:13+09:00",
+      "publishedAt": "2026-08-21T09:40:13+09:00",
+      "firstCollectedAt": "2026-08-21T14:08:17+09:00",
+      "updatedAt": "2026-08-21T14:08:17+09:00",
+      "summary": "재항고인이 형사소송법 제59조의2 제6항에 따라 검사의 형사재판확정기록 열람ㆍ등사에 관한 처분의 취소를 구하는 사건[대법원 2026. 12.자 중요결정] - 판례속보 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "재항고인이 형사소송법 제59조의2 제6항에 따라 검사의 형사재판확정기록 열람ㆍ등사에 관한 처분의 취소를 구하는 사건[대법원 2026. 8. 12.자 중요결정] - 판례속보 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOUk80Q2dqZlZ0MXgwc0gxaWVHRURFLUI1QjFoRkhoRGlGNzVZR2hhdjdkcmpuVUFEbHpWNXBsNkZ3cXNBeElTOEtyYmpWc0l6cDJ3ZGpSbUZqcFhrRXJJbU5sUjhqQmwyTkVBMGQtNTVuSks2MTJJd2kzQnhRXzNSNjdQZ3hqck1WakJ2Z1llcW5HYk9mdnp2NEt2bmhscnNfYUdGeVpwVTV2RDNQb1NzaHhIVG1yVkdmaTkxRkhxZmE0VnhKRXFmV25GYWRoSGp2THR5TVFVbURadFNjaGpXVnpHZ1B1ZzNaS1dkQmNGclF4bnp0Y2FocjhjWW4yVGxseGRrZzVsQWFLSmt0aUpfYkw2MmJGeWI0NHAzRlhXeFlxZFJWM0YwQWlvMTlLVV95NTRuMTQtMjZJMlM1OUZEMVBYaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c9f7cc3b63d18d3d4ba591d041478da7252e4740230d9a062d5974c1ffb6da55"
+    },
+    {
+      "id": "20260821-DP-94C3FAA0-523",
+      "title": "채권압류 및 추심명령의 집행채권(채무자 회사로부터 지급받지 못한 미사용 연차수당, 퇴직금에 대한 약정금의 원금채권 및 지연손해금채권)이 회생채권인지, 공익채권인지 여부가 문제 된 사건[2026. 8. 12.자 중요결정] - 판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-21T09:40:13+09:00",
+      "publishedAt": "2026-08-21T09:40:13+09:00",
+      "firstCollectedAt": "2026-08-21T14:08:17+09:00",
+      "updatedAt": "2026-08-21T14:08:17+09:00",
+      "summary": "채권압류 및 추심명령의 집행채권(채무자 회사로부터 지급받지 못한 미사용 연차수당, 퇴직금에 대한 약정금의 원금채권 및 지연손해금채권)이 회생채권인지, 공익채권인지 여부가 문제 된 사건[2026. 12.자 중요결정] - 판례속보 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "채권압류 및 추심명령의 집행채권(채무자 회사로부터 지급받지 못한 미사용 연차수당, 퇴직금에 대한 약정금의 원금채권 및 지연손해금채권)이 회생채권인지, 공익채권인지 여부가 문제 된 사건[2026. 8. 12.자 중요결정] - 판례속보 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQY1pwT3A4U016Z0lmN1c2QjhXUHhSWERxQ2RGTE9RcFoxZnBOQzhhdkgwNGR1c0tHVlhYSHJyUDhkQ21tck9IZlNiVmNsWGFWNHhyZHJkZ1Yxc3dsbmF1VWs2YVVJNkVxZ3M0Z2F5bEw1RGRSYkJCSFNkclJpaHhZbW5HNlVLVjNjc0xYWjVQMnVZM1FTVG5IUnc0THNKdS0wMGhmWlhHWmtZQmlnSkw3cGdvVWdhOEhLa1g0bVo5Q2NLX05lNXEyaWhXYW1BZEJCbS1NSEhvdDZZVVhRdkZ5YnM4YVVtWlFlMGtNSnZhSDlULUM1UXBkRTg3LU5nZGN1eFEtVy15XzB4V2ZQWU9RcFNQaVRFOVRVbWkySWZSZENwbGZnVkVBMUdHekJsdjVSVHNlS3pHTGRFeGpJQzZkVlpXaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "94c3faa04c1be441cdcbcca1b45a631a6a1b112a6c232b711ea966674c65baf0"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -591,59 +964,6 @@
       "contentHash": "7afb5d001150badba29b8bf74ac97d9a7497b6e4f9486e4c6d35cc8625b66d4f"
     },
     {
-      "id": "20260820-DP-899B7472-495",
-      "title": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-20T15:35:25+09:00",
-      "publishedAt": "2026-08-20T15:35:25+09:00",
-      "firstCollectedAt": "2026-08-20T16:58:21+09:00",
-      "updatedAt": "2026-08-20T23:10:08+09:00",
-      "summary": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 - 대한민국 정책브리핑",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1BsZDZxMTRqbFh2Rk45RERqZU1Nb0szOHpXRzAtR1ZRVXl6QXVkeVM2Zkw1TUptdkxVVk5Xb0F6dlB5SEtyOTBtQ25wVk5DQjd6Qno5Q2JJX2MwYWNueWx1emE0eXJvd2tlZ2cwSU1CcXhOalQ2SG9oQW9MMjhUNm81YzhWX0huR0E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한우산업법 21일 시행…경쟁력 강화·경영안정 지원 - 대한민국 정책브리핑",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DeE1YY2dRZDF2V2VheFZCM0F0RlJydHpZV1VaaW43SHhZUGFQX3FobGNic09aN0thYkowSWhKMXRxRjJRNUNxWWNuRUdHMDFIb0ZaWWZTU2h1QXVHcVBnSEVaNnhraGMtQm9iWQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-20T23:10:08+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "899b7472297e26340b945b95d937f081dff1ef286f8e176dd8ce8ae95c476ebd"
-    },
-    {
       "id": "20260820-DP-081E03C5-510",
       "title": "(설명) 계통소득 제도는 제도 도입 관련 연구용역이 진행 중인 사안으로, 구체적인 추진방안은 확정된 바 없음 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -762,46 +1082,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2d2070b706e49bd023b8da0b9cf4602a15fc7abc6de1632fabf25ae8cbef43e2"
-    },
-    {
-      "id": "20260820-DP-5D7FD3BF-506",
-      "title": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-20T17:09:21+09:00",
-      "publishedAt": "2026-08-20T17:09:21+09:00",
-      "firstCollectedAt": "2026-08-20T18:53:44+09:00",
-      "updatedAt": "2026-08-20T18:53:44+09:00",
-      "summary": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "조현 장관 \"한반도 비핵화·평화 실현\"…왕이 \"건설적 역할할 것\" - 대한민국 정책브리핑",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSERHcnlNSE5OSXNubmJsMFhhbFlGYmZ6ZGZ3Q3dldnhJd2ZucjNRcWNTM2NrWnUyaUFjd25Pc3VQTlFVTkRZVVZOQ0Zpc0NSWGVFR05ZQm1lRGsycUxvTWFUQlJOMTMzcTk2UDJZY0syVTFfeUJGNk0wTEtCMUxRWjdkUC14QzY4YWc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "5d7fd3bf49666fc31768ab1d5708c4da960e9071ebe34aab66d1b4f88097b529"
     },
     {
       "id": "20260820-FR-2F17F0EC-507",
@@ -1677,46 +1957,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4ad5d827cde7457a876b719ea4d8e8936c4e501ce57f58dc1141a7936b1268b6"
-    },
-    {
-      "id": "20260820-DP-44D45057-481",
-      "title": "우리법원 주요판결 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-20T11:18:31+09:00",
-      "publishedAt": "2026-08-20T11:18:31+09:00",
-      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
-      "updatedAt": "2026-08-20T12:13:19+09:00",
-      "summary": "우리법원 주요판결 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNblJFZXlLbEJmNlBpdi1qVjhYX1YyWTNLd3MtbU83YjNEcHFhMnRjYTd1ZGZ5VkUteFJrYWVsUjZRdVZjZ2dGR292a01OTUR1ZUlYcVBNZEMxbDRqS2ZOeWxBbHByeU5lYVdudjNHQkRJUGw0MkQtdHFsOHRvYkowelNEUjFndlZPUWdhMlFsc1N6bXhYSVZ1VEQwa2pwM1lnX3JzOFhEam9rYU4zbUZPd1dLWTZFUE0xYk1JMURabXAwejdZUWZqeHdxWENUMktVeGRKOG9GSVdTMnYyWEQ2YldIUkZMaWx6QmZxYXFvNmFJSHhNTGNKT29rcTVYMWdnX3J3d1Z3NGNPVWJlYy1MMU9Qbw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "44d450578e14261071708d8626772c62ea0b6b3df4694d4946134d067180240d"
     },
     {
       "id": "20260820-DP-46865BB4-482",
