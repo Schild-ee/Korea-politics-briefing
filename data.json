@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-22T00:52:34+09:00",
-    "nextScheduledUpdate": "2026-08-22T01:22:34+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-22T02:15:35+09:00",
+    "nextScheduledUpdate": "2026-08-22T02:45:35+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-22T00:52:31+09:00",
-      "finishedAt": "2026-08-22T00:52:34+09:00",
+      "startedAt": "2026-08-22T02:15:32+09:00",
+      "finishedAt": "2026-08-22T02:15:35+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 55,
-      "duplicates": 63,
+      "duplicates": 62,
       "rejected": 137,
       "rejectedByDate": 133,
       "rejectedByRelevance": 3,
       "rejectedAsCommentary": 1,
       "newIssues": 0,
-      "updatedIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260801-DP-9A43D474-079",
+      "title": "주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T23:23:03+09:00",
+      "publishedAt": "2026-08-01T23:23:03+09:00",
+      "firstCollectedAt": "2026-08-02T16:56:19+09:00",
+      "updatedAt": "2026-08-22T02:15:33+09:00",
+      "summary": "주요판결 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDU1THBPS2hwV18wVXRkNGlTTzZRSU1UdW81cnhva0NvMndsSEVicFJseVlQSWIxS0lHcmo1SHBWM0RDVlpuQWFHcUNfRGNNbkhxSGJrdHZvc29UT0VLZEJCcjVPTE1OOFRCeEUycUxVaUpKb3B4dGk1aHZPUWlvUW5XMk9HSzhfYVphM2wyU0hYeTVCeURXSTdsemM0MU5CTHpneFk1TEM?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INGdvcWhkUU9ONnRwcnNYOWZic281QWt2b0M1TWFnM3hZem1QRG9RZmhCR2FtWkZTREFCbWprTDBVVXAweDZHY3AxNWFuUjlLZmVVQm1VWjZqdkJJaGRyTDdXT2UtakRwRS1ka1F0RWZBbWlyZ2QwQTlLc2FIVWs?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-22T02:15:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9a43d4745f655805d5837f00b7461f386b80a9919d0f100fbb7cd2ca355cc95f"
+    },
     {
       "id": "20260820-FR-F6CC376A-511",
       "title": "불법촬영물 유통 뿌리 뽑는다…사이트 개설만 해도 '강력 처벌' - 대한민국 정책브리핑",
@@ -21605,46 +21658,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "999c60c5d6c3bdce89e1ebd427a5d8dd4eb0f1e164cc2229ab22a49a32d9cb34"
-    },
-    {
-      "id": "20260801-DP-9A43D474-079",
-      "title": "주요판결 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-01T23:23:03+09:00",
-      "publishedAt": "2026-08-01T23:23:03+09:00",
-      "firstCollectedAt": "2026-08-02T16:56:19+09:00",
-      "updatedAt": "2026-08-02T16:56:19+09:00",
-      "summary": "주요판결 - 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDU1THBPS2hwV18wVXRkNGlTTzZRSU1UdW81cnhva0NvMndsSEVicFJseVlQSWIxS0lHcmo1SHBWM0RDVlpuQWFHcUNfRGNNbkhxSGJrdHZvc29UT0VLZEJCcjVPTE1OOFRCeEUycUxVaUpKb3B4dGk1aHZPUWlvUW5XMk9HSzhfYVphM2wyU0hYeTVCeURXSTdsemM0MU5CTHpneFk1TEM?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9a43d4745f655805d5837f00b7461f386b80a9919d0f100fbb7cd2ca355cc95f"
     },
     {
       "id": "20260801-DP-5D3A32E4-080",
