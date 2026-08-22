@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-23T00:49:39+09:00",
-    "nextScheduledUpdate": "2026-08-23T01:19:39+09:00",
+    "lastSuccessfulUpdate": "2026-08-23T01:56:18+09:00",
+    "nextScheduledUpdate": "2026-08-23T02:26:18+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-23T00:49:36+09:00",
-      "finishedAt": "2026-08-23T00:49:39+09:00",
+      "startedAt": "2026-08-23T01:56:14+09:00",
+      "finishedAt": "2026-08-23T01:56:18+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 49,
       "duplicates": 52,
       "rejected": 146,
-      "rejectedByDate": 143,
-      "rejectedByRelevance": 3,
+      "rejectedByDate": 145,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 1,
+      "newIssues": 2,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260822-FR-DEE6BE85-569",
+      "title": "대한민국, APEC 보건실무그룹 의장경제로서 아태지역 보건협력 결실 이끈다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-22T10:15:01+09:00",
+      "publishedAt": "2026-08-22T10:15:01+09:00",
+      "firstCollectedAt": "2026-08-23T01:56:16+09:00",
+      "updatedAt": "2026-08-23T01:56:16+09:00",
+      "summary": "대한민국, APEC 보건실무그룹 의장경제로서 아태지역 보건협력 결실 이끈다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대한민국, APEC 보건실무그룹 의장경제로서 아태지역 보건협력 결실 이끈다 - 대한민국 정책브리핑",
+          "date": "2026-08-22",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkh5cHN6dkk2WnJXbVR0MVI5MDJMRjB1dEI3ckd1WlVxdF9qcW1tSjhmMWVvaGVFY1dEbzJzWm5TOExMX1k0VWs0ZGwyV2Z3VTVpLUppVUhTd1paRXg5S202eTZrVnlSOHZfMmw3Q0NlYUJ1ZXVPUWJ2bjMtLXJXeFhXb3ZTRHBKdFFhYVlrZDhMRzZB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dee6be85be56942f5a9a2079fa5334f0f189b9691f08336128cb9e4dbf8b685f"
+    },
+    {
+      "id": "20260820-FR-03A8A4EF-570",
+      "title": "(보도설명) 장기주택저당차입금 이자상환액 소득공제에 실거주 요건을 신설하되, 취학, 근무 등 부득이한 경우에는 예외를 적용할 계획입니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T19:31:39+09:00",
+      "publishedAt": "2026-08-20T19:31:39+09:00",
+      "firstCollectedAt": "2026-08-23T01:56:16+09:00",
+      "updatedAt": "2026-08-23T01:56:16+09:00",
+      "summary": "(보도설명) 장기주택저당차입금 이자상환액 소득공제에 실거주 요건을 신설하되, 취학, 근무 등 부득이한 경우에는 예외를 적용할 계획입니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 장기주택저당차입금 이자상환액 소득공제에 실거주 요건을 신설하되, 취학, 근무 등 부득이한 경우에는 예외를 적용할 계획입니다. - 대한민국 정책브리핑",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sLW5JdWE3bWxUZmZmQ1dmaTdFRWVaZE1TUy15VnRZOHhabzNCR05HaTNtVFpjbFhUdEVvb0MtOGhuUmZyV2RZNjdJRkkzYmFobTl5a2NxNlJyNVo0ODdibUtabGNKVWMwQk5nRkNsUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "03a8a4ef1d43ae9247d3285e6f6832536c4a1f42af65b72dd278e1a0d6775ccc"
+    },
     {
       "id": "20260821-FR-0B4380C5-547",
       "title": "8.15.~18. 호우 피해 특별재난지역 우선 선포 - 대한민국 정책브리핑",
