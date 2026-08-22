@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-22T20:48:44+09:00",
-    "nextScheduledUpdate": "2026-08-22T21:18:44+09:00",
+    "lastSuccessfulUpdate": "2026-08-22T22:44:24+09:00",
+    "nextScheduledUpdate": "2026-08-22T23:14:24+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-22T20:48:41+09:00",
-      "finishedAt": "2026-08-22T20:48:44+09:00",
+      "startedAt": "2026-08-22T22:44:21+09:00",
+      "finishedAt": "2026-08-22T22:44:24+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 51,
-      "duplicates": 52,
+      "duplicates": 53,
       "rejected": 145,
       "rejectedByDate": 142,
       "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
-      "updatedIssues": 0,
+      "newIssues": 1,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,111 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260801-DP-9A43D474-079",
+      "title": "주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T23:23:03+09:00",
+      "publishedAt": "2026-08-01T23:23:03+09:00",
+      "firstCollectedAt": "2026-08-02T16:56:19+09:00",
+      "updatedAt": "2026-08-22T22:44:22+09:00",
+      "summary": "주요판결 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDU1THBPS2hwV18wVXRkNGlTTzZRSU1UdW81cnhva0NvMndsSEVicFJseVlQSWIxS0lHcmo1SHBWM0RDVlpuQWFHcUNfRGNNbkhxSGJrdHZvc29UT0VLZEJCcjVPTE1OOFRCeEUycUxVaUpKb3B4dGk1aHZPUWlvUW5XMk9HSzhfYVphM2wyU0hYeTVCeURXSTdsemM0MU5CTHpneFk1TEM?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INGdvcWhkUU9ONnRwcnNYOWZic281QWt2b0M1TWFnM3hZem1QRG9RZmhCR2FtWkZTREFCbWprTDBVVXAweDZHY3AxNWFuUjlLZmVVQm1VWjZqdkJJaGRyTDdXT2UtakRwRS1ka1F0RWZBbWlyZ2QwQTlLc2FIVWs?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-22",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXl4V1lSaGIzLTd3Q0pSVHU3cThqamxEcWdoUG5IQXJFZ0s1UVJKOERxOFZTT0hsOWotbVNpQzMzbUFUTGF4SWxXSkNPSkVVRl9Nak9rd2hDWUItMlFUS09TYlFTUS1BYkFXTUhMRkFYRE5IdDZxcGdxWVEzeVp2X3JrSDFGbDlVUmdDSENCMTBfOWRaZ0M1eHluMk1WZmZVNW5xZTFHYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-22T02:15:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-22T22:44:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9a43d4745f655805d5837f00b7461f386b80a9919d0f100fbb7cd2ca355cc95f"
+    },
+    {
+      "id": "20260821-FR-AE7F0707-567",
+      "title": "식약처, 규제외교를 통해 한·중 식품안전 협력 결실 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-21T14:43:55+09:00",
+      "publishedAt": "2026-08-21T14:43:55+09:00",
+      "firstCollectedAt": "2026-08-22T22:44:22+09:00",
+      "updatedAt": "2026-08-22T22:44:22+09:00",
+      "summary": "식약처, 규제외교를 통해 한·중 식품안전 협력 결실 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "식약처, 규제외교를 통해 한·중 식품안전 협력 결실 - 대한민국 정책브리핑",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SjNSdncycFdTNE9xMEtwOWhnejROM1dnUlFzUEFwQmZ1RWRxNzRXWmRBNkg3RDJXSi1TVjdBVmMydVI0OFZFdHY2Nm1TNjZkUG9lYnNmQzRvT1VOTzFGUndVYk9IaEpYQTBEMG1R?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae7f07076a9407840ecfda3288412609f0575bb6ea66e29c4744fbc532a4141c"
+    },
     {
       "id": "20260821-DP-7F6159D8-564",
       "title": "개인정보 전송요구권 확대 시행 - 대한민국 정책브리핑",
@@ -1132,59 +1237,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "d10ac80ce6a45adb704efcd7f61d0397d9897305d4cf3e672d7d44b818df17c9"
-    },
-    {
-      "id": "20260801-DP-9A43D474-079",
-      "title": "주요판결 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-01T23:23:03+09:00",
-      "publishedAt": "2026-08-01T23:23:03+09:00",
-      "firstCollectedAt": "2026-08-02T16:56:19+09:00",
-      "updatedAt": "2026-08-22T02:15:33+09:00",
-      "summary": "주요판결 - 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDU1THBPS2hwV18wVXRkNGlTTzZRSU1UdW81cnhva0NvMndsSEVicFJseVlQSWIxS0lHcmo1SHBWM0RDVlpuQWFHcUNfRGNNbkhxSGJrdHZvc29UT0VLZEJCcjVPTE1OOFRCeEUycUxVaUpKb3B4dGk1aHZPUWlvUW5XMk9HSzhfYVphM2wyU0hYeTVCeURXSTdsemM0MU5CTHpneFk1TEM?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INGdvcWhkUU9ONnRwcnNYOWZic281QWt2b0M1TWFnM3hZem1QRG9RZmhCR2FtWkZTREFCbWprTDBVVXAweDZHY3AxNWFuUjlLZmVVQm1VWjZqdkJJaGRyTDdXT2UtakRwRS1ka1F0RWZBbWlyZ2QwQTlLc2FIVWs?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-22T02:15:33+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9a43d4745f655805d5837f00b7461f386b80a9919d0f100fbb7cd2ca355cc95f"
     },
     {
       "id": "20260820-FR-2F17F0EC-507",
