@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-23T23:56:19+09:00",
-    "nextScheduledUpdate": "2026-08-24T00:26:19+09:00",
+    "lastSuccessfulUpdate": "2026-08-24T00:51:39+09:00",
+    "nextScheduledUpdate": "2026-08-24T01:21:39+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-23T23:56:16+09:00",
-      "finishedAt": "2026-08-23T23:56:19+09:00",
+      "startedAt": "2026-08-24T00:51:37+09:00",
+      "finishedAt": "2026-08-24T00:51:39+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 36,
-      "duplicates": 37,
-      "rejected": 160,
+      "acceptedCandidates": 37,
+      "duplicates": 40,
+      "rejected": 159,
       "rejectedByDate": 158,
-      "rejectedByRelevance": 2,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
-      "updatedIssues": 2,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260823-DP-1D57997F-581",
+      "title": "통합허가 대상 넓히고 우수·중소기업 부담은 줄인다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-23T12:00:00+09:00",
+      "publishedAt": "2026-08-23T12:00:00+09:00",
+      "firstCollectedAt": "2026-08-24T00:51:37+09:00",
+      "updatedAt": "2026-08-24T00:51:37+09:00",
+      "summary": "통합허가 대상 넓히고 우수·중소기업 부담은 줄인다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "통합허가 대상 넓히고 우수·중소기업 부담은 줄인다 - 대한민국 정책브리핑",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2lmVHhuemNWU3lneWVMRDlUSHdMeHRQUFZNSUZtRHd1NmpXTjBqeFJ3aXRvdk9JU1F3VVNRZE9NWTl2cjNEbmZTZ3NLYXRzeDVpS2hDYTBNWVlUOFNVRi1kYUM4VkVacDdWR3BHSzY1dzAyQmZFTmZFdzMwbFpCNmlXcV9uSGl1V3R0T2M0cl82UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1d57997fefd6bc8cb07097ca511f3158cc288a3216884f9e1c994c5595b424fe"
+    },
     {
       "id": "20260823-DP-0B8ADE15-579",
       "title": "(보도설명) 도시철도 건설에 대한 조세지출을 재정지원으로 전환하는 제도 개편은 재정경제부와 기획예산처 등 부처 간 사전 합의를 거쳐 추진하는 사항입니다. - 대한민국 정책브리핑",
