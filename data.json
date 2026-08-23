@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-23T14:04:58+09:00",
-    "nextScheduledUpdate": "2026-08-23T14:34:58+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-23T15:00:55+09:00",
+    "nextScheduledUpdate": "2026-08-23T15:30:55+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-23T14:04:56+09:00",
-      "finishedAt": "2026-08-23T14:04:58+09:00",
+      "startedAt": "2026-08-23T15:00:52+09:00",
+      "finishedAt": "2026-08-23T15:00:55+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 35,
+      "acceptedCandidates": 37,
       "duplicates": 38,
-      "rejected": 162,
-      "rejectedByDate": 160,
+      "rejected": 160,
+      "rejectedByDate": 158,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 2,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260823-FR-5B1E8DBC-572",
+      "title": "데이터로 읽는 우리 교육 제12호 발간 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-23T09:10:00+09:00",
+      "publishedAt": "2026-08-23T09:10:00+09:00",
+      "firstCollectedAt": "2026-08-23T15:00:53+09:00",
+      "updatedAt": "2026-08-23T15:00:53+09:00",
+      "summary": "데이터로 읽는 우리 교육 제12호 발간 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "데이터로 읽는 우리 교육 제12호 발간 - 대한민국 정책브리핑",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2stY0FEMmRtYU81Q0FMZVBEMi1EbGpDcVBiNVdDbmJvX1ZYVHc2SXBHa0M3Y0txNVFNNnREcWVOTXhaOWRSXzBTOU5fY0ZrUEJ4ZklCVXUtNm5wNW1hMThXZkhPd1htRmY0eHo1VlpUc3ljVGtfNkI1TEk5QmRaRFN6anQ5NTVMbmJxV1N5TXliUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b1e8dbc3bcfbc42316111dbd968b1613322848ca7c7a7c8551124e4ca4cc8aa"
+    },
+    {
+      "id": "20260821-FR-24946B8A-573",
+      "title": "'여성폭력 2차 피해' 예방을 위한 직급별 TO DO LIST - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-21T20:23:38+09:00",
+      "publishedAt": "2026-08-21T20:23:38+09:00",
+      "firstCollectedAt": "2026-08-23T15:00:53+09:00",
+      "updatedAt": "2026-08-23T15:00:53+09:00",
+      "summary": "'여성폭력 2차 피해' 예방을 위한 직급별 TO DO LIST 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'여성폭력 2차 피해' 예방을 위한 직급별 TO DO LIST - 대한민국 정책브리핑",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZekF5U0U0eGVITXpHWnU2Um5CczFVd2FIU0Fnd1JtSl9lemlKVDdLLUxIdkc5eGRNX0dlQXhLTkpfMWxJQzVBa1BCVmRYaDc0SXZIRmNPVHRxdmxzTlJDN2Q1YmxrMTdsUGxVN0N3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "24946b8ad80f6f817f7e89b6a29e450632b3dcbb6c6ac3b28c8f62e2553dc121"
+    },
     {
       "id": "20260820-DP-5D3A46FE-571",
       "title": "공정거래법·하도급법 개정안 국회 본회의 통과 - 대한민국 정책브리핑",
