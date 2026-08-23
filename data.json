@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-24T05:54:29+09:00",
-    "nextScheduledUpdate": "2026-08-24T06:24:29+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-24T06:48:55+09:00",
+    "nextScheduledUpdate": "2026-08-24T07:18:55+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-24T05:54:27+09:00",
-      "finishedAt": "2026-08-24T05:54:29+09:00",
+      "startedAt": "2026-08-24T06:48:52+09:00",
+      "finishedAt": "2026-08-24T06:48:55+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 33,
-      "duplicates": 37,
+      "duplicates": 36,
       "rejected": 163,
       "rejectedByDate": 161,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260823-DP-9E1BBEBF-584",
+      "title": "대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI·디지털 기술교육기관 건립(1.7억불) 승인 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-23T18:27:03+09:00",
+      "publishedAt": "2026-08-23T18:27:03+09:00",
+      "firstCollectedAt": "2026-08-24T06:48:53+09:00",
+      "updatedAt": "2026-08-24T06:48:53+09:00",
+      "summary": "대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI·디지털 기술교육기관 건립(1.7억불) 승인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI·디지털 기술교육기관 건립(1.7억불) 승인 - 대한민국 정책브리핑",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1BoYmszX2VhbThiQzh3b2E1Wkk0QUdDbWJQMFhCZ08yNE5oS2hURHB5a0ZmQTlsRXN1ZVhSaUtrX3NGZkphWDhzZnJRbWdKZktVeVNwamJlSUMwYzNLVjZTSUdnUEQ4dVNvWjV6aG9UUlRjUHAwTU8xVnVPOHc2Vy03UWJQcEc5Y0JRRXZiX2c1UmNJ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9e1bbebfd67c4794cb3ed773341324c1bdcdb7cf72eda2d83764eaedb5d93e3a"
+    },
     {
       "id": "20260824-FR-DC113858-583",
       "title": "[이벤트] 제81주년 광복절, 감사의 마음을 남겨주세요 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
