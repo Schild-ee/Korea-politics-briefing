@@ -1,22 +1,22 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-24T07:52:45+09:00",
-    "nextScheduledUpdate": "2026-08-24T08:22:45+09:00",
+    "lastSuccessfulUpdate": "2026-08-24T08:49:06+09:00",
+    "nextScheduledUpdate": "2026-08-24T09:19:06+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-24T07:52:43+09:00",
-      "finishedAt": "2026-08-24T07:52:45+09:00",
+      "startedAt": "2026-08-24T08:49:04+09:00",
+      "finishedAt": "2026-08-24T08:49:06+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 32,
-      "duplicates": 36,
-      "rejected": 163,
-      "rejectedByDate": 162,
+      "acceptedCandidates": 30,
+      "duplicates": 34,
+      "rejected": 165,
+      "rejectedByDate": 164,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260824-FR-E160D828-586",
+      "title": "국민이 만들고, 국민이 뽑은 '우리동네 프로젝트' 브랜드 이미지, 일상 속 문화의 얼굴로 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T08:05:38+09:00",
+      "publishedAt": "2026-08-24T08:05:38+09:00",
+      "firstCollectedAt": "2026-08-24T08:49:05+09:00",
+      "updatedAt": "2026-08-24T08:49:05+09:00",
+      "summary": "국민이 만들고, 국민이 뽑은 '우리동네 프로젝트' 브랜드 이미지, 일상 속 문화의 얼굴로 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민이 만들고, 국민이 뽑은 '우리동네 프로젝트' 브랜드 이미지, 일상 속 문화의 얼굴로 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZVdwVlRKU00xTGIwUmJaRVpiZmpqcGxMUC1MNzlGZXlCQUxubHBaYmRseWdvU3ZLNDh0YmdlWmEzM29vdkY2Q3FRODZmOUwtRlFXczdoY1BRMm9vX2hERVhNbW00aGVXMk9NYmNpSzVHamNTR0tnS3JfMU9UY1d3cE5jUlhXTzk4MS1jRmo2SU1jdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e160d828b96335a89ff2ebb04846dbb4b15e92c96523984c457a60ce6ec22f17"
+    },
     {
       "id": "20260824-DP-E0E903D2-585",
       "title": "(보도설명)'25년 상호출자제한기업에 대한 조세지출 귀착 증가는 기업실적 회복에 따라 총부담세액과 함께 예년 수준을 회복한 것입니다 - 대한민국 정책브리핑",
