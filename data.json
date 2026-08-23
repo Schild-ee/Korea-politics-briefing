@@ -1,23 +1,23 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-24T06:48:55+09:00",
-    "nextScheduledUpdate": "2026-08-24T07:18:55+09:00",
+    "lastSuccessfulUpdate": "2026-08-24T07:52:45+09:00",
+    "nextScheduledUpdate": "2026-08-24T08:22:45+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-24T06:48:52+09:00",
-      "finishedAt": "2026-08-24T06:48:55+09:00",
+      "startedAt": "2026-08-24T07:52:43+09:00",
+      "finishedAt": "2026-08-24T07:52:45+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 33,
+      "acceptedCandidates": 32,
       "duplicates": 36,
       "rejected": 163,
-      "rejectedByDate": 161,
-      "rejectedByRelevance": 2,
+      "rejectedByDate": 162,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
       "updatedIssues": 0,
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260824-DP-E0E903D2-585",
+      "title": "(보도설명)'25년 상호출자제한기업에 대한 조세지출 귀착 증가는 기업실적 회복에 따라 총부담세액과 함께 예년 수준을 회복한 것입니다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T06:06:10+09:00",
+      "publishedAt": "2026-08-24T06:06:10+09:00",
+      "firstCollectedAt": "2026-08-24T07:52:43+09:00",
+      "updatedAt": "2026-08-24T07:52:43+09:00",
+      "summary": "(보도설명)'25년 상호출자제한기업에 대한 조세지출 귀착 증가는 기업실적 회복에 따라 총부담세액과 함께 예년 수준을 회복한 것입니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명)'25년 상호출자제한기업에 대한 조세지출 귀착 증가는 기업실적 회복에 따라 총부담세액과 함께 예년 수준을 회복한 것입니다 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcGdNZWhCSHFhWjFWWFNYMzlFczdTcGhQTW10ZUc2LVBnUHQ1N21hX25QOFpCRS1XSXVJcDRXN1Z0emlxazNmWEhfd3NyT0RZWEFzcFozWlVBVjREd0UtbUV6MWVnS284c0dmMWZTcFFKekNFT0dneHpPVUtRLXVEQ0FyZnVRWTU2bFF6ZlJaYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e0e903d2aa71c428aeafb44c0fe14bdea490d681860c2d70097ba009aa06df9d"
+    },
     {
       "id": "20260823-DP-9E1BBEBF-584",
       "title": "대외경제협력기금, 첫번째 AI 사업으로 탄자니아 AI·디지털 기술교육기관 건립(1.7억불) 승인 - 대한민국 정책브리핑",
