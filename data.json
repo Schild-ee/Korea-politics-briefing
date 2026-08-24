@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-24T17:09:25+09:00",
-    "nextScheduledUpdate": "2026-08-24T17:39:25+09:00",
+    "lastSuccessfulUpdate": "2026-08-24T19:23:30+09:00",
+    "nextScheduledUpdate": "2026-08-24T19:53:30+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-24T17:09:22+09:00",
-      "finishedAt": "2026-08-24T17:09:25+09:00",
+      "startedAt": "2026-08-24T19:23:27+09:00",
+      "finishedAt": "2026-08-24T19:23:30+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 40,
-      "duplicates": 33,
-      "rejected": 154,
+      "acceptedCandidates": 39,
+      "duplicates": 35,
+      "rejected": 155,
       "rejectedByDate": 152,
-      "rejectedByRelevance": 2,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 10,
-      "updatedIssues": 3,
+      "newIssues": 8,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,457 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260823-DP-801723FA-574",
+      "title": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-23T15:39:34+09:00",
+      "publishedAt": "2026-08-23T15:39:34+09:00",
+      "firstCollectedAt": "2026-08-23T16:49:38+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고 - 대한민국 정책브리핑",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSVZkRFljYW1hRXh5cjJrWl95LXhEeEFEd2sxOFZacVhHeDhlSjFfdnZVaEFDZ29fc2hSMGRTYmpFaU1MNjB5UDV5OGpuczJ5NmhaRlM0bFI5ejdLZkRwOUktdVhrcks1d2JyUnlVckRuZ1Z0TkN5Y3BfQkFac3oxcTNOWW1fR2xNNkFEMWd6Ny1ydw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고 - 대한민국 정책브리핑",
+          "date": "2026-08-23",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZbkYtRUxrMXMwQnIxR1VwOUh4RjNCdFA4UUFtbDNKOE9URDNCZmg5SEVRUDFpZWxlYjhadXFiNHZtRVVnb0dtUENKWVN2MFFhWmFkUmtYVHdkU2VvTGIzeVoxTXVyTm4tZXlfZzlnQzhVM2xf?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-24T19:23:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "801723fac197b7bbb054857be76052222c701ece0241a301c8a251a1dcdf3ac5"
+    },
+    {
+      "id": "20260731-DP-E6DC234D-054",
+      "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "통일부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T12:17:48+09:00",
+      "publishedAt": "2026-07-31T12:17:48+09:00",
+      "firstCollectedAt": "2026-08-01T03:49:29+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "통일부 정례 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aUUJqU0pnbnFleThyM1o3S1hiUXdEVEVSaFFselpxTEcwdWtZLUFkVGZEZE1WbUY3MFB2Z2VjZ25vVzBtcUYwTklVNTN5V2FCYUdyX1NVa01OWTJCZkN6T1VZVlVwUVZnUlY1d0lFbTJZS29oNFdz?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-07",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RXZKY3pkdlUtQU52MjREQnE3aGxJZVQ0ZnoxS2NsdEFmU0xqUVp6ZWt0UUpUbi1vdXo4Mll2d3YtZVN4bUhrZVYtMTJhdFJ4RHNWeE1TUTBQVUtJeWVjRDNtLXZoTGhEd0Z0a0tCcGR6UTlYWUJ3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtWF9qdVZiLUlTWThodHRuVG9Na2RjWDhkM1V0bGtnTks4aUNOZkxpSjg2dEotRkZZd2hudUdMMHBrWGYxWTJ5MjVxdHFVa2tRdVduUWRGQnhoSEhoUG5IeFZnOWxjQ0k1YjlxTFNQc1ZVdm1fR21V?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PVE1JUzNGT2JSUnZBdEVWeTRkMUNRTlFvMExxZ0xTd1d4a1JCbXh3WU4tdndUc1kxNjdZcVo3OTBLZVcxWkNpV2xNWUhqeEhJZkpjN2gxT2pHUzd4RXgweW1mQk03T1hhNGFzdUhMSmdPMlVaN0Vv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-09T08:04:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-15T00:08:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-24T19:23:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e6dc234d468154baa36d87349dd876210f9e1c8160440d47a01c6448ff032f2d"
+    },
+    {
+      "id": "20260824-FR-81515FA1-620",
+      "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T17:31:14+09:00",
+      "publishedAt": "2026-08-24T17:31:14+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "한멕 외교장관 회담 및 오찬 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzZXcXd5aklGODdhd2pEWlc5WE5aRmRhWTcwbExvOXZWeEtNRERNWFFxX3JOeXZRQWlOTUMtaWpmcS02RWp1cDVCN0pCcGhoVEdFb3pfdG5tWUk3R2pRbU9DZUZ0WmdVbHJpOU0zdFFJUG1PVGJfSnd5ckpYOHh4UkVoNDl4ZlRCTE5ZSHFmNVJMZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "81515fa16dfe9d33a6a98b33b9f316c5661e677826e3c0229d246331b746030c"
+    },
+    {
+      "id": "20260824-FR-D6701AD4-621",
+      "title": "동포청년 한국 정착 돕는다…'한국어교육-직업훈련' 지원 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T17:50:03+09:00",
+      "publishedAt": "2026-08-24T17:50:03+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "동포청년 한국 정착 돕는다…'한국어교육-직업훈련' 지원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "동포청년 한국 정착 돕는다…'한국어교육-직업훈련' 지원 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kNWQ0cE13X3h6NnJLVU5IRHI1MnJxbUd2cmlUNDZRLXpmQmEtOElidXExT3VDM0V6SE0xOW16VnhvSWxlVU51ekE5bW15cU1Sb0pCNUlZZHY0Um9jTkVLaW5lMVRiVzFYb1RxMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d6701ad4df6f8606b7e652d49b0d7563262c247de46f81337603d55fe9247d23"
+    },
+    {
+      "id": "20260824-FR-102EDF20-622",
+      "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T18:00:00+09:00",
+      "publishedAt": "2026-08-24T18:00:00+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "2026년 제30차 위원회 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTBsSzlhY3VmUkk4eWJMcnFsR3NPOVVXTV9fN1RvdC1rSldsNXVrZTFEaWFKcWc3azR0SDN5Q1hadExZQjJCZXp2WmZWT1FlckhpUkw3YmVuZE04R3VCRXJPUUltam9qSVBhME1JWVE0bjBNOXA1UlktdFY0S01Vd3M0SDh5d0ZwT3A0Z2FBQk1jNjZDdzJfSVNqRmUyX3FkRkpZZHp2bkJORXhYZGpUQjNpb09sdUd3d0FNdDgzNjA0LVV3R2VISHZIamZWNU43Y0ZfakwxbkNkdUdnazVzRUZpM3JLRVd0MmhBUzFTWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "102edf20f2687a855812157ff88c286870d657f86fa931993c96868131ec1ee9"
+    },
+    {
+      "id": "20260824-FR-F02AD6BF-623",
+      "title": "더 안전하게 지키고, 더 편하게 누리는 국민 맞춤형 통관의 시작 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T16:37:52+09:00",
+      "publishedAt": "2026-08-24T16:37:52+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "더 안전하게 지키고, 더 편하게 누리는 국민 맞춤형 통관의 시작 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "더 안전하게 지키고, 더 편하게 누리는 국민 맞춤형 통관의 시작 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWG9KMHNwYjMzSG5QVWdJbDYzbXZDYlBXRGFTQVM0M2RDLUdnLUNYNnZNUGY5Tlhja2g0cWVfYjdwLU1DejB0eENIelBuQTVQLUVodHdBY3llc21yMVhlZDRWbFhIV3ZDcjRDYlFMSWFXSHZfN3FFQTkzMUpabDJ2MFk3c3hJTldWUjQyTmZGNDRqdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f02ad6bfa576c4779110e2dd6f3fc9e704f0354486856900244d64a4ea1d624b"
+    },
+    {
+      "id": "20260824-FR-784D8A7E-624",
+      "title": "온누리상품권 들고 떠나는 전통시장 알뜰 먹거리 탐방 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T19:07:30+09:00",
+      "publishedAt": "2026-08-24T19:07:30+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "온누리상품권 들고 떠나는 전통시장 알뜰 먹거리 탐방 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "온누리상품권 들고 떠나는 전통시장 알뜰 먹거리 탐방 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaU91S1BIWFZlUFY4Q25CdjE1bV9OLWN2SVdFQllZYnpiOTJDVmVEbEJlLVhhYnBfaVo5bUFMVFZ2eTFVVjFZcWJLX3ZFN1lfajJrX1NPbWt4dnBoZHJlcTRZYkdfekNoeGthVVkxQnBzODdTMzBGX3FFU2J5cktOSzhsM2p4S3M?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "784d8a7e6d51c7946f1720bfe930d38f6084f1c9064b2e8391dee12747664959"
+    },
+    {
+      "id": "20260824-FR-EE7783CA-625",
+      "title": "\"심야를 깨우는 생명의 소리\"…109전화와 생명의전화가 만든 24시간 연결고리 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T18:11:13+09:00",
+      "publishedAt": "2026-08-24T18:11:13+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "\"심야를 깨우는 생명의 소리\"…109전화와 생명의전화가 만든 24시간 연결고리 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"심야를 깨우는 생명의 소리\"…109전화와 생명의전화가 만든 24시간 연결고리 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHFQT0NrajZPa3d4RXhNZldnMW9Oa1VLUVZYUkNDenQ1M1hBTEw1WklpS2FxdjJLZzRVaW1aQklJUHQ2QTVpWHJfc2QwMDFsbThpS1Bqa0ZDMHBRZUNjeE9lQXlIUUlPeWhxbWNCXzlkS21lOWZhVVVjckFuZmZkck9SbXp3dllpcjYyUTlfZnlwdHAwalJVR3J3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ee7783cad8b31f8eece2288fb621c464d00e01b9349874c68d9f0f2e7d6973fa"
+    },
+    {
+      "id": "20260824-FR-F825AFFE-626",
+      "title": "개학 맞아 전국 초등교 주변 5대 분야 위해요소 집중 점검 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T17:00:46+09:00",
+      "publishedAt": "2026-08-24T17:00:46+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "개학 맞아 전국 초등교 주변 5대 분야 위해요소 집중 점검 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개학 맞아 전국 초등교 주변 5대 분야 위해요소 집중 점검 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNR3JHcXFSQlpQSkgxaHRfVnBoRHM3YzFrNVJKRDJMbmFvWWJhckluM1dKN3JEaXdVUFprcnNzanNXU2xvM3RhNFJRQ09Zclg2dGhXcjFvN1ZvYmtNd0ViYmlMMTdqSjhHZUUzU3BnVlhIM28yazZ2ZElTVVhMdmxxVG92RFdHRkhqckE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f825affe79eaf73053387c095792a368de95da5ed9184171ebc45350b4a880d3"
+    },
+    {
+      "id": "20260824-FR-F3E6279D-627",
+      "title": "산림청 \"'거제 아파트 사면 붕괴 위험 알고도 방치' 지적 사실과 달라\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T17:40:35+09:00",
+      "publishedAt": "2026-08-24T17:40:35+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-24T19:23:28+09:00",
+      "summary": "산림청 \"'거제 아파트 사면 붕괴 위험 알고도 방치' 지적 사실과 달라\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "산림청 \"'거제 아파트 사면 붕괴 위험 알고도 방치' 지적 사실과 달라\" - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QbklUZVZOSlVRWGg5a0dYdDFvRE4zZkc5TTF0UHRTSzc2YXc5YW8zNDdGQmlsa2c3TlhLakxJNmJXV1hvOW1uX29WSk5xU080TnlUYUNVU2tnT3JwNzMwOXctalV2NW4xNzE2bEdsMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f3e6279d87de39de90145be86879476ef5838d8fffda3d8232f8bf4654c0a1f8"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -1988,46 +2439,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "29bc344d787467fedaf38f4555abab58139e29a1f6f395d0d8d3abe2f9e10201"
-    },
-    {
-      "id": "20260823-DP-801723FA-574",
-      "title": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-23T15:39:34+09:00",
-      "publishedAt": "2026-08-23T15:39:34+09:00",
-      "firstCollectedAt": "2026-08-23T16:49:38+09:00",
-      "updatedAt": "2026-08-23T16:49:38+09:00",
-      "summary": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "개정 형사소송법 시행 대비...노동부, 노동감독관 수사역량 획기적 제고 - 대한민국 정책브리핑",
-          "date": "2026-08-23",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSVZkRFljYW1hRXh5cjJrWl95LXhEeEFEd2sxOFZacVhHeDhlSjFfdnZVaEFDZ29fc2hSMGRTYmpFaU1MNjB5UDV5OGpuczJ5NmhaRlM0bFI5ejdLZkRwOUktdVhrcks1d2JyUnlVckRuZ1Z0TkN5Y3BfQkFac3oxcTNOWW1fR2xNNkFEMWd6Ny1ydw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "801723fac197b7bbb054857be76052222c701ece0241a301c8a251a1dcdf3ac5"
     },
     {
       "id": "20260821-DP-65AE3014-575",
@@ -12892,72 +13303,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "d902f472daf7ed6fec1f40ec7b61cb7fae268839e665e831a8861b9db76b3cea"
-    },
-    {
-      "id": "20260731-DP-E6DC234D-054",
-      "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "통일부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T12:17:48+09:00",
-      "publishedAt": "2026-07-31T12:17:48+09:00",
-      "firstCollectedAt": "2026-08-01T03:49:29+09:00",
-      "updatedAt": "2026-08-15T00:08:28+09:00",
-      "summary": "통일부 정례 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aUUJqU0pnbnFleThyM1o3S1hiUXdEVEVSaFFselpxTEcwdWtZLUFkVGZEZE1WbUY3MFB2Z2VjZ25vVzBtcUYwTklVNTN5V2FCYUdyX1NVa01OWTJCZkN6T1VZVlVwUVZnUlY1d0lFbTJZS29oNFdz?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-07",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3RXZKY3pkdlUtQU52MjREQnE3aGxJZVQ0ZnoxS2NsdEFmU0xqUVp6ZWt0UUpUbi1vdXo4Mll2d3YtZVN4bUhrZVYtMTJhdFJ4RHNWeE1TUTBQVUtJeWVjRDNtLXZoTGhEd0Z0a0tCcGR6UTlYWUJ3?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "통일부 정례 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtWF9qdVZiLUlTWThodHRuVG9Na2RjWDhkM1V0bGtnTks4aUNOZkxpSjg2dEotRkZZd2hudUdMMHBrWGYxWTJ5MjVxdHFVa2tRdVduUWRGQnhoSEhoUG5IeFZnOWxjQ0k1YjlxTFNQc1ZVdm1fR21V?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-09T08:04:02+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-15T00:08:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e6dc234d468154baa36d87349dd876210f9e1c8160440d47a01c6448ff032f2d"
     },
     {
       "id": "20260814-FR-25F3F724-340",
