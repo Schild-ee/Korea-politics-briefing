@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-24T12:33:37+09:00",
-    "nextScheduledUpdate": "2026-08-24T13:03:37+09:00",
+    "lastSuccessfulUpdate": "2026-08-24T14:26:19+09:00",
+    "nextScheduledUpdate": "2026-08-24T14:56:19+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-24T12:33:33+09:00",
-      "finishedAt": "2026-08-24T12:33:37+09:00",
+      "startedAt": "2026-08-24T14:26:17+09:00",
+      "finishedAt": "2026-08-24T14:26:19+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 39,
-      "duplicates": 23,
-      "rejected": 156,
-      "rejectedByDate": 154,
-      "rejectedByRelevance": 2,
+      "fetchedCandidates": 179,
+      "acceptedCandidates": 40,
+      "duplicates": 42,
+      "rejected": 134,
+      "rejectedByDate": 130,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 20,
-      "updatedIssues": 1,
+      "newIssues": 3,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 29,
           "error": ""
         },
         {
@@ -64,6 +64,126 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260824-DP-0370E456-607",
+      "title": "[보도참고 ] 정부, ｢대한민국 인공지능 윤리원칙｣ 제정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T12:00:00+09:00",
+      "publishedAt": "2026-08-24T12:00:00+09:00",
+      "firstCollectedAt": "2026-08-24T14:26:18+09:00",
+      "updatedAt": "2026-08-24T14:26:18+09:00",
+      "summary": "[보도참고 ] 정부, ｢대한민국 인공지능 윤리원칙｣ 제정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도참고 ] 정부, ｢대한민국 인공지능 윤리원칙｣ 제정 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTXhWLU5Ua0VhckFrTHFmMnJnRzllTzJrSVlnWThuMWdVcjRoN3FjVGFlVmxndWhWSTFSUzBNeHFoa2pTRU95MEFvbDdSMmc3dG1FbThVaEZvR3hfakdVbE5DbDZSeE9GeXJ3WWlYaDVHOGwySjV0bnhVUEtnbExzNlNnYTgzTEhEZkpTOHNMX1ZTMzdo?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0370e456a19d087b27b53cb64cf61ceba718470a1c14dfadbc0b1051901b6ae0"
+    },
+    {
+      "id": "20260824-FR-35C4F08D-608",
+      "title": "세계박람회 열린 여수에서 세계 첫 섬 박람회 개최(9.5.~11.4.) - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T13:42:09+09:00",
+      "publishedAt": "2026-08-24T13:42:09+09:00",
+      "firstCollectedAt": "2026-08-24T14:26:18+09:00",
+      "updatedAt": "2026-08-24T14:26:18+09:00",
+      "summary": "세계박람회 열린 여수에서 세계 첫 섬 박람회 개최(9.5.~11.4.) - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "세계박람회 열린 여수에서 세계 첫 섬 박람회 개최(9.5.~11.4.) - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmpHaklXUWlfa25MbGE1ajV4NVNlMldua0FhODdSNW9QYjFHSm9SVHRkNHRoTHROVUNYRXBvdXA5WWRLazNyODRrdkI4YWVHMzFqODVYbWFlRzZuOW1HVzl2WUoweTBXc01lcGZLREhLMmxWZ0tsaWpiVFRGMVozX0JneDBiel9oNkZhMjRR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "35c4f08d0b486faaf0141959c3b1df33c5a44a3ced9d620bb70526550e3eca40"
+    },
+    {
+      "id": "20260824-DP-3ED9849A-609",
+      "title": "이준석 \"李대통령, 윤석열 닮아가... 최민희 '방통위원' 임명 거부 엄청 뭐라 하더니\" - YTN",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "YTN"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-08-24T07:43:00+09:00",
+      "publishedAt": "2026-08-24T07:43:00+09:00",
+      "firstCollectedAt": "2026-08-24T14:26:18+09:00",
+      "updatedAt": "2026-08-24T14:26:18+09:00",
+      "summary": "이준석 \"李대통령, 윤석열 닮아가... 최민희 '방통위원' 임명 거부 엄청 뭐라 하더니\" YTN",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "YTN",
+          "title": "이준석 \"李대통령, 윤석열 닮아가... 최민희 '방통위원' 임명 거부 엄청 뭐라 하더니\" - YTN",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tWEFLSEFQVUFRVkhoZ3RXQ1p1Nnp1N0VYZGstQXBjeUdKcFIwY2t6YXQ3b2t1a2lHd2d3c2JKd1BDREc4dFpPTGlpSDFKZzJnUmoySmkxZmJaOW1ibHc?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3ed9849aac1e3a3c75d48d70bddef2a913fc3c1d9c503f535373ada4a5b611ac"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
