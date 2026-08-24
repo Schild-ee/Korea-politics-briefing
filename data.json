@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-25T03:01:00+09:00",
-    "nextScheduledUpdate": "2026-08-25T03:31:00+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-25T04:44:45+09:00",
+    "nextScheduledUpdate": "2026-08-25T05:14:45+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-25T03:00:58+09:00",
-      "finishedAt": "2026-08-25T03:01:00+09:00",
+      "startedAt": "2026-08-25T04:44:43+09:00",
+      "finishedAt": "2026-08-25T04:44:45+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 37,
-      "duplicates": 45,
+      "duplicates": 42,
       "rejected": 155,
-      "rejectedByDate": 152,
-      "rejectedByRelevance": 3,
+      "rejectedByDate": 151,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 1,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,154 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260824-FR-81515FA1-620",
+      "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T17:31:14+09:00",
+      "publishedAt": "2026-08-24T17:31:14+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-08-25T04:44:44+09:00",
+      "summary": "한멕 외교장관 회담 및 오찬 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzZXcXd5aklGODdhd2pEWlc5WE5aRmRhWTcwbExvOXZWeEtNRERNWFFxX3JOeXZRQWlOTUMtaWpmcS02RWp1cDVCN0pCcGhoVEdFb3pfdG5tWUk3R2pRbU9DZUZ0WmdVbHJpOU0zdFFJUG1PVGJfSnd5ckpYOHh4UkVoNDl4ZlRCTE5ZSHFmNVJMZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDc2NnpKUE44UlVSVTdFTGRnUUxtWmJadEtrQm9Ga0haTHVxaHhobmI5MDlRQ3Y2ZXJlLVI2Y1pZY05Qb0RlWnFqYzFEQnBpZ0JNUWlGNFN0Yy10WnpoQXV2X0x6NnBKdFZ0VHdVSWtISm1wV0MzTW1kbnlTVENvM3FTTjd2R0tRSDU0dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-25T04:44:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "81515fa16dfe9d33a6a98b33b9f316c5661e677826e3c0229d246331b746030c"
+    },
+    {
+      "id": "20260822-FR-9BDEE2FB-563",
+      "title": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-22T19:34:39+09:00",
+      "publishedAt": "2026-08-22T19:34:39+09:00",
+      "firstCollectedAt": "2026-08-22T19:54:20+09:00",
+      "updatedAt": "2026-08-25T04:44:44+09:00",
+      "summary": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnJGVExhUWtTTWR0YzBtWVAxZGJVYS0tc1ZidHJJMFA2MG1QNzZDbE1kOXJEX3lnMDYxRXhZd29TS29lV3F2d18tSGNvMU05UmVrRndSeG5heFU0QURqNWNsNktMcUUzWGFmWVJVczAwSXZJcmNrN1pRUjVVaVBGck9yajJRdzFiLUNRRXAyQVdNQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-22",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBPUXJpSDlGZUN0YV9kMDI5VWtXQzVfam1TblJfME9NaXpyYm1JeGFIVFQ3LUpBN0dYU1NGVUIwazZQeVdvTVIwM0NIb2o3WHFzZXFQZ2ZuUHVIYnk1dmxTYlgwY1lFUU1ZV3gyeFdRR1l3WV9a?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-25T04:44:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9bdee2fbb26258f27f52d657a3f1834730aba106b46408032e9b2a4206d7dd3b"
+    },
+    {
+      "id": "20260824-FR-C7B11909-633",
+      "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T23:52:49+09:00",
+      "publishedAt": "2026-08-24T23:52:49+09:00",
+      "firstCollectedAt": "2026-08-25T04:44:44+09:00",
+      "updatedAt": "2026-08-25T04:44:44+09:00",
+      "summary": "한미 외교장관 통화(8.24.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZ6cTVNcDUtXzdBOGh0ZXI4bS1rX0Jvck50RzN5OVV0MjFMa052YWd0V0dxSEhVc1JnV2pwNkVWVnFVczdrSUF2VGthRXJSTVZmTHdfNHo2TmUweG9TR1prREZ2VTJBMTJlSGNaNkp3WXNHNTJNa1N0bkRWZ1VsNFdod0Nvc3ozSkx3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c7b11909d52a3f3457f4938fb4beca778e7e0b664130601eabb9bedb9d1813d8"
+    },
     {
       "id": "20260824-DP-50A3336C-631",
       "title": "특별감찰관 지명 관련 강유정 수석대변인 브리핑 - 대한민국 정책브리핑",
@@ -394,46 +542,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e6dc234d468154baa36d87349dd876210f9e1c8160440d47a01c6448ff032f2d"
-    },
-    {
-      "id": "20260824-FR-81515FA1-620",
-      "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-24T17:31:14+09:00",
-      "publishedAt": "2026-08-24T17:31:14+09:00",
-      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
-      "updatedAt": "2026-08-24T19:23:28+09:00",
-      "summary": "한멕 외교장관 회담 및 오찬 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzZXcXd5aklGODdhd2pEWlc5WE5aRmRhWTcwbExvOXZWeEtNRERNWFFxX3JOeXZRQWlOTUMtaWpmcS02RWp1cDVCN0pCcGhoVEdFb3pfdG5tWUk3R2pRbU9DZUZ0WmdVbHJpOU0zdFFJUG1PVGJfSnd5ckpYOHh4UkVoNDl4ZlRCTE5ZSHFmNVJMZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "81515fa16dfe9d33a6a98b33b9f316c5661e677826e3c0229d246331b746030c"
     },
     {
       "id": "20260824-FR-D6701AD4-621",
@@ -3331,46 +3439,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "f2a042512b0f23c7202f71eecd444cd492f0e5df9caa74f14ef90c9140ad648e"
-    },
-    {
-      "id": "20260822-FR-9BDEE2FB-563",
-      "title": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-22T19:34:39+09:00",
-      "publishedAt": "2026-08-22T19:34:39+09:00",
-      "firstCollectedAt": "2026-08-22T19:54:20+09:00",
-      "updatedAt": "2026-08-22T19:54:20+09:00",
-      "summary": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[보도설명자료] 재외동포협력센터 통합은 관련 규정과 절차에 따라 공정하게 진행되고 있습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-22",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdnJGVExhUWtTTWR0YzBtWVAxZGJVYS0tc1ZidHJJMFA2MG1QNzZDbE1kOXJEX3lnMDYxRXhZd29TS29lV3F2d18tSGNvMU05UmVrRndSeG5heFU0QURqNWNsNktMcUUzWGFmWVJVczAwSXZJcmNrN1pRUjVVaVBGck9yajJRdzFiLUNRRXAyQVdNQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9bdee2fbb26258f27f52d657a3f1834730aba106b46408032e9b2a4206d7dd3b"
     },
     {
       "id": "20260821-DP-8FBFF177-561",
