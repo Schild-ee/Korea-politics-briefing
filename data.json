@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-25T08:50:42+09:00",
-    "nextScheduledUpdate": "2026-08-25T09:20:42+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-25T12:16:01+09:00",
+    "nextScheduledUpdate": "2026-08-25T12:46:01+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-25T08:50:40+09:00",
-      "finishedAt": "2026-08-25T08:50:42+09:00",
+      "startedAt": "2026-08-25T12:15:58+09:00",
+      "finishedAt": "2026-08-25T12:16:01+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 44,
-      "duplicates": 51,
-      "rejected": 149,
-      "rejectedByDate": 147,
-      "rejectedByRelevance": 2,
+      "duplicates": 37,
+      "rejected": 150,
+      "rejectedByDate": 146,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 12,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,544 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260825-FR-1BA43AB7-644",
+      "title": "관계부처가 힘을 합쳐, 튼튼한 산업·기술안보망 구축 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T11:12:54+09:00",
+      "publishedAt": "2026-08-25T11:12:54+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "관계부처가 힘을 합쳐, 튼튼한 산업·기술안보망 구축 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "관계부처가 힘을 합쳐, 튼튼한 산업·기술안보망 구축 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSVYyYXN1MkU4eFZ4aVA3b2JVOG9oRW5FdGVkOTUyMFgzNEExZFZlR3N6SkcwLWcwbDlfZUFZR29UM3hFZDB2b3hickJ6aV9GN1dsN1J5bjJvYlZ2OURIekdjYTVQUWRWNFdjVFZiaXBldGdDNjlsaUQ1cFE1U19LbDJrVUdxQWJiQWpXTldIWi1JQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1ba43ab7771fc0e70488ed080eb6d27d67a00e6e682b71f7f854be3f35c73e83"
+    },
+    {
+      "id": "20260825-FR-745F441E-645",
+      "title": "한미 외교장관, 한반도 평화·북핵 문제 해결에 긴밀히 소통·공조 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "북핵",
+      "countries": [
+        "미국",
+        "북한"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T11:30:36+09:00",
+      "publishedAt": "2026-08-25T11:30:36+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "한미 외교장관, 한반도 평화·북핵 문제 해결에 긴밀히 소통·공조 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관, 한반도 평화·북핵 문제 해결에 긴밀히 소통·공조 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQUFLQ3FzMTZLSVd6dmFIS0RxVEtITC1Ia0QwTWdUUUJVWHU4bDRxMUh0bUhNaW1lR2pGUVoyRVpwd3pEdFJaT0h5X3RydmFySzg1dmZJTURYYnM2ZXFsMmU5YWVzQzMzNm1kUVhrclVTc2VSRFFzWURHemVFMFkwUlZRaXRPMFJlRGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "745f441ebf1b7860c8b73507c519953cf51e98db103c4a80efe10281bfcdad22"
+    },
+    {
+      "id": "20260825-FR-7D1A6BEB-646",
+      "title": "전 세계 70개국서 4,307편...재외동포 문학상 역대 최다 응모 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T09:55:54+09:00",
+      "publishedAt": "2026-08-25T09:55:54+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "전 세계 70개국서 4,307편...재외동포 문학상 역대 최다 응모 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전 세계 70개국서 4,307편...재외동포 문학상 역대 최다 응모 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXJJaTM4ZnppUG1xQ292YVg0dE1UeWhSUUlGNFFJdUhXb1R4U0hyY1NhZFBoMGVHZ2VXUUdXQ3R2UTMzeVdEOURxYXdrcjV0LUFteXR3QWpVY3AwdHdTZ0tjSHpNNGtVTXhIXzY3MXM2aWE1WHNMNWVYcXFWT0RTRUhBSFU2QkNFdVhBU1pVUzBodHZV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7d1a6beb4db9b236430d8cc7ea6fe3027999c816fdef5fffcc3ea50f473bb36a"
+    },
+    {
+      "id": "20260825-FR-57C279BE-647",
+      "title": "병원기반 인간 마이크로바이옴 연구개발 사업 운영 가이드라인 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T11:02:31+09:00",
+      "publishedAt": "2026-08-25T11:02:31+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "병원기반 인간 마이크로바이옴 연구개발 사업 운영 가이드라인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "병원기반 인간 마이크로바이옴 연구개발 사업 운영 가이드라인 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81VlhyQlczNVZ5N3hZMXpneHp0ckpMYVVEZVVqWm5qWXpyUXdEcE5jTjVybnNxc2V4ZnRCcjJqV0RzLURRNTc2QjN2dzNnUmpSR285MlVDb1JTYk0zZ3cydlppSjVtYmc4azg1YWEydw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "57c279bec4e9e46812105d6568906d514e71ad3d33b7a6c8ba165d28c1607d29"
+    },
+    {
+      "id": "20260825-FR-55F43848-648",
+      "title": "9월 7일은 푸른 하늘의 날 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T11:48:45+09:00",
+      "publishedAt": "2026-08-25T11:48:45+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "9월 7일은 푸른 하늘의 날 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "9월 7일은 푸른 하늘의 날 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaDU0V3FlZGtiODlBOHJ3dThndXNTVzBCbWFkdHJvaTRzQ2U3RGZxR0xJMmMyajVrYmNucVFEMWV4bk9pOGRCU2JSSjNCeHViOFJUcl9mTy01NnZQNzVVVWFOUVp0RjhYcHdNOEsxMGYyOEx0b2RLcEdUVHpYYjFNanoxRTZORmpuNWF3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "55f4384850f2e2e4a8a49c0ff2cb43d81988458ed60535c80cb71fa0a822da2b"
+    },
+    {
+      "id": "20260825-FR-0ACF79FF-649",
+      "title": "기후위기 속 우리 숲 지킨다…국립산림과학원, 산림 기후적응 기술 공개 - 2026 하계 한국산림과학회 특별세션서 아고산 침엽수 보전·임가 피해 절감 기술 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T09:27:09+09:00",
+      "publishedAt": "2026-08-25T09:27:09+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "기후위기 속 우리 숲 지킨다…국립산림과학원, 산림 기후적응 기술 공개 - 2026 하계 한국산림과학회 특별세션서 아고산 침엽수 보전·임가 피해 절감 기술 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후위기 속 우리 숲 지킨다…국립산림과학원, 산림 기후적응 기술 공개 - 2026 하계 한국산림과학회 특별세션서 아고산 침엽수 보전·임가 피해 절감 기술 발표 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR296YUl5bjFxMnFlS2xHVnpWeTdOOU5aNThnREFYZzNVMnV3b3B5QlI1M2NHbVZ4ZTZfSWtlVGtRMWJ1N0x0VlkxZVJuaURxQjFSRElDckItS2QybUxhUlU0cGk4OUJHTktya29xVlk4dFlHNkV5UkxKQUc0LXVvWTRnM09SZURSMVhIYmNYZE1NZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0acf79ff602bb58aaa8a7e4474e12225e92044c95063d3f2420c8ed2656c31e1"
+    },
+    {
+      "id": "20260825-FR-41DF5E6C-650",
+      "title": "2차 피해의 정의부터 예방까지 배우 박호산이 알려드립니다! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T12:10:29+09:00",
+      "publishedAt": "2026-08-25T12:10:29+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "2차 피해의 정의부터 예방까지 배우 박호산이 알려드립니다! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2차 피해의 정의부터 예방까지 배우 박호산이 알려드립니다! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTTJnekVhWV81YjNaWk1qRnFsOHhKVkpQcEhmUUpKOXJVSzN2czhRYU9UdzB2LURVUW9qdGxocXNtU19mX2dPeG1CWHdRUWxyYkZtM0htOW9aVi1QajZrb05HR0xuQXhyczdDRVVnQWFVU0RtWnlvRUxmUV9HM0xXbktZQ3JBdlc1aWg1RA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "41df5e6c9a79553226c00487079aa31d0e6204d6f93abbf3d3fa611bad28e571"
+    },
+    {
+      "id": "20260825-FR-47488F39-651",
+      "title": "한미일 사무국 운영이사회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T10:45:52+09:00",
+      "publishedAt": "2026-08-25T10:45:52+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "한미일 사무국 운영이사회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미일 사무국 운영이사회 개최 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMjd3NUhaRGF6Mm1mVXA5V29zTEZnZXlHSWZtSmhDSnc0anlVOEw0U0JveC16N0w1MUxtX1pMb3NVaHJvYlBPVTZqU1pDbS0xdnJNclR6OVVzaDR1akI2MkktVXJuMWpFNU9XXzJuMk9GRHlOR29pQlNELVUtSkRGRXZFLThUT3o0WEFkRkIwdVJVSHp5?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "47488f3902fa604fb1956037bce586ac3bba2e4df427065d1f01f20b716c64a8"
+    },
+    {
+      "id": "20260824-FR-FC94D14E-652",
+      "title": "거제시 산사태 피해지 현장 점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T20:55:55+09:00",
+      "publishedAt": "2026-08-24T20:55:55+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "거제시 산사태 피해지 현장 점검 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "거제시 산사태 피해지 현장 점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GYjV5bDZtTS1RSzVQdy16Zng0U2lFc1lzcE5ETVVubUdyZ0p6T185VEtJZkxtNFFqQm5EeWM0U19DYjM2QmQxbjd0enBmMFBxV1RXLUEzeDZZeGd5RU9vd3JHN0wwN3h1MWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fc94d14eb40d0ad972fc50a29617d8ce38ac3bd0adec0d6633e804f2bcddc97e"
+    },
+    {
+      "id": "20260825-FR-3C071CC0-653",
+      "title": "헝가리 전통춤 '차르다시(Csárdás)​', 한국 무대에서 만난다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T10:21:40+09:00",
+      "publishedAt": "2026-08-25T10:21:40+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "헝가리 전통춤 '차르다시(Csárdás)​', 한국 무대에서 만난다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "헝가리 전통춤 '차르다시(Csárdás)​', 한국 무대에서 만난다 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWS1UNlVUMEh1dG1SbUJmSjQwQ1UyODktQ3N4YVhBSEFndWRWSU0tTkVxbHM4dXFDdDBqYjV0UDJpbHpLLUxmRkdTOE5mMkJzMTNHZ2VIQ1h0RndCMGxzeHlCNEFYX1pmSE1pR09LVTZoSjN6Vk1iTUtEbzF1UlF1MGZJRnNoa3ZycUoxa1RibzNnUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3c071cc02c1930653815fa2cd209846118fca9305879d84fc5e8c0eeb8be882d"
+    },
+    {
+      "id": "20260825-FR-1F834B69-654",
+      "title": "세계 최초 환경·해양위성 계보, 더 정밀해진 천리안위성 6호가 잇는다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T09:00:00+09:00",
+      "publishedAt": "2026-08-25T09:00:00+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "세계 최초 환경·해양위성 계보, 더 정밀해진 천리안위성 6호가 잇는다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "세계 최초 환경·해양위성 계보, 더 정밀해진 천리안위성 6호가 잇는다 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWdiMUNMU1VNdTJubDlZRXNGSmtxU0I4U0RJckc3azVZSzBqS1FGbzN6VlNsamRIMmU5LW51R3dTVlBQaERYNGpJb185dHFfNGdjSWhjRGVBbWo0Y3FRZ2l4bVVWOEF4SkxrWm8xSWRSSWxXU0NRVmpvaGhNQTNQOFVLbzgzekRYc2xORTg4RG10d2hl?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1f834b69d9a43cc87a05b780931f028958c628b7117ee36673ac7fcdc4701afb"
+    },
+    {
+      "id": "20260825-FR-1248923E-655",
+      "title": "장례식장 표준약관 개정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T10:00:00+09:00",
+      "publishedAt": "2026-08-25T10:00:00+09:00",
+      "firstCollectedAt": "2026-08-25T12:15:59+09:00",
+      "updatedAt": "2026-08-25T12:15:59+09:00",
+      "summary": "장례식장 표준약관 개정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "장례식장 표준약관 개정 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON3RfWTF5ZkM5UlVmX2lTQ3M1TlVGTjVoYVp2dmk2TWxQZnp6R2ZJZk5ENUxmOC1YSWhhd2tkRUg2ZEdSZWJoNWNHTHZxN3hjOGxibUY4RFdKbjBiMEU2ckZHNElicXNHUXpkLWMxZXphTk4xdnk4WmZTY2psZzlYVWkxdXlUR2VjQXJGZDM3Y0JUcC03?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1248923e8b08dac001428af610b3e5304279132787e9d68a48bb7a1d0aa1850a"
+    },
+    {
+      "id": "20260825-DP-E1552558-635",
+      "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T06:00:00+09:00",
+      "publishedAt": "2026-08-25T06:00:00+09:00",
+      "firstCollectedAt": "2026-08-25T06:14:43+09:00",
+      "updatedAt": "2026-08-25T12:15:58+09:00",
+      "summary": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTFDeWFUN3lhYi1lcURtZkMxX0d1QTZqb3B6YVhyMHBnaDdyVmlIYnZUU19ud3Z2NWZFTkZ0OEt2M3VZNE40blROZHpDUHhQQkM4X3IxS1RUTTFLck5aZzlFd0liY0NRYlBFR2xxUnRQZC01VnNxZ2hJTElvUVNScGhGd2xCTzMxendRdUFtcEkxVVdX?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaEwtR0NWd3FHbjMzcjlxRUdWdmh0dUFrc2FlbXNaVlpybTlGQjdUdVpoSDNuRXFkRVpEakxMNXk4dEhQOEtpZ0hNeTVLaW9LOEZYVi1FVU1hVDdNOHJHRnNqaS1rektMZXoyb3E0OG1MR1JVUGVzU1BPZ25RNzE2NVFvWXVvcUU1THB4YlRKOTdlZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-25T12:15:58+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e1552558670a7ea75b073aeea296fc3efde95114cb2c23b22c521c1ef5a88b4c"
+    },
     {
       "id": "20260824-FR-C7B11909-633",
       "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
@@ -608,46 +1146,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "7e29f31580c69d68e8cff9a52a84f42e011814368cc3b8bdd3837ba22b33790a"
-    },
-    {
-      "id": "20260825-DP-E1552558-635",
-      "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-25T06:00:00+09:00",
-      "publishedAt": "2026-08-25T06:00:00+09:00",
-      "firstCollectedAt": "2026-08-25T06:14:43+09:00",
-      "updatedAt": "2026-08-25T06:14:43+09:00",
-      "summary": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "다자녀가구 철도자격시험(기관사·관제사) 수수료 50% 감면 - 대한민국 정책브리핑",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOTFDeWFUN3lhYi1lcURtZkMxX0d1QTZqb3B6YVhyMHBnaDdyVmlIYnZUU19ud3Z2NWZFTkZ0OEt2M3VZNE40blROZHpDUHhQQkM4X3IxS1RUTTFLck5aZzlFd0liY0NRYlBFR2xxUnRQZC01VnNxZ2hJTElvUVNScGhGd2xCTzMxendRdUFtcEkxVVdX?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e1552558670a7ea75b073aeea296fc3efde95114cb2c23b22c521c1ef5a88b4c"
     },
     {
       "id": "20260822-FR-9BDEE2FB-563",
