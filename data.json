@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-26T06:01:30+09:00",
-    "nextScheduledUpdate": "2026-08-26T06:31:30+09:00",
+    "lastSuccessfulUpdate": "2026-08-26T06:57:15+09:00",
+    "nextScheduledUpdate": "2026-08-26T07:27:15+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-26T06:01:27+09:00",
-      "finishedAt": "2026-08-26T06:01:30+09:00",
+      "startedAt": "2026-08-26T06:57:12+09:00",
+      "finishedAt": "2026-08-26T06:57:15+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 55,
-      "duplicates": 55,
-      "rejected": 141,
-      "rejectedByDate": 136,
+      "acceptedCandidates": 53,
+      "duplicates": 56,
+      "rejected": 143,
+      "rejectedByDate": 138,
       "rejectedByRelevance": 5,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
-      "updatedIssues": 3,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260825-FR-2D1FA08C-688",
+      "title": "한국형발사체(누리호) 5호기 발사 승인 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T18:00:00+09:00",
+      "publishedAt": "2026-08-25T18:00:00+09:00",
+      "firstCollectedAt": "2026-08-26T06:57:14+09:00",
+      "updatedAt": "2026-08-26T06:57:14+09:00",
+      "summary": "한국형발사체(누리호) 5호기 발사 승인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국형발사체(누리호) 5호기 발사 승인 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mZzJtS0lZcHhxZGhBOGRRNHc5ZFB0TzhkYi02UGpjWThqa2hQa1JNNWNZenN5VjdXX0Zodmk0OEdoWkl0ZzBzZjB6M1pFN0J2X3VtWXRPTVd6d3VpNzlGcFNvclp2b1E5eUJhRTJxS3NWeGN6?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2d1fa08c6047df0199c44d594bd660d61bbb0b5f4c7849aeecf0c022438235dc"
+    },
     {
       "id": "20260825-FR-A9EE22F1-673",
       "title": "재외교육기관포털에서 만나는 한국학교와 한국교육원 - 대한민국 정책브리핑",
