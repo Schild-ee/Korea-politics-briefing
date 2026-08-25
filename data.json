@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-26T01:19:23+09:00",
-    "nextScheduledUpdate": "2026-08-26T01:49:23+09:00",
+    "lastSuccessfulUpdate": "2026-08-26T02:59:44+09:00",
+    "nextScheduledUpdate": "2026-08-26T03:29:44+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-26T01:19:21+09:00",
-      "finishedAt": "2026-08-26T01:19:23+09:00",
+      "startedAt": "2026-08-26T02:59:40+09:00",
+      "finishedAt": "2026-08-26T02:59:44+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 184,
+      "fetchedCandidates": 200,
       "acceptedCandidates": 53,
-      "duplicates": 52,
-      "rejected": 129,
-      "rejectedByDate": 124,
-      "rejectedByRelevance": 5,
+      "duplicates": 50,
+      "rejected": 144,
+      "rejectedByDate": 140,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 2,
+      "newIssues": 3,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 34,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,286 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260825-FR-2337EB57-678",
+      "title": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T13:59:34+09:00",
+      "publishedAt": "2026-08-25T13:59:34+09:00",
+      "firstCollectedAt": "2026-08-25T21:02:32+09:00",
+      "updatedAt": "2026-08-26T02:59:41+09:00",
+      "summary": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다' - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXdvZ04wMG9lS3J3akdscl9iS2Q3c1dwdlpib2tWV2VmWjk3ZmxENWtKcThCZkI3dHVUdTNDVGVvbW16a210azU1aW5TODFuV2ZIMTJBanliQklYb0JCck90VzJCM01CejBGeEZMUHBTc0pKOTA5N2pXQmc4WWo2MzFfU2NoaE1KNXU3U3BlVjNkOWk4?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다' - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcW9HVG9fNmxQajhNWS00Yl9HRHZLRWhqQTdlS2dNcW44LWU1ak1Rdlhac3gwQTZYT1g4bnFvaXFFUFF6bko3dV84UTlkekI3bDdTVDl2eUtLVHY2eVg5WnpVc1A3U1F4UkY3SmNXZzlYeWd6QWltNGJRODhVeHNXMVJzSzdQdWZxeS1KVlM4SjVjQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-26T02:59:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2337eb577412d6e6afc7b02e13e77b8d46265eff68695d35a2d7512a7b1f5c2c"
+    },
+    {
+      "id": "20260825-DP-B3D7168A-656",
+      "title": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T13:07:35+09:00",
+      "publishedAt": "2026-08-25T13:07:35+09:00",
+      "firstCollectedAt": "2026-08-25T14:18:08+09:00",
+      "updatedAt": "2026-08-26T02:59:41+09:00",
+      "summary": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRHYTJWZ3F5VmZPdzhfdkxRWEc4UGFSQV9UREpDbkpDS1I2bzk2dUJ2QmVkclg2V2VaRndBOE14SlR1Z3N6cWw2LXRScU1qUmY2VWZrdmY5anctelkyb29zTE56LVZENVZMWVBzd1hpWVpTdC1IaWRFaS04V3Z0NmNRLUVBSWJYVFY0U29kWWVRdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNlVkY2tkTm1SSUdHTmh0X2NuR2lJeVFYeTZHTzRuZXhSVXpwYmxMVjdLQzBZS3J5aDlwTmpoakZuSzU1d2J3TUZmeWprci1LRzM2WWpOSzkzZHJtdk15XzBvSjRQRWMyLXJDRTJ0YjNCNjRmN0YxX1BmNnVIaEotVVIzSnc1UThZU2dXNVYtSnRYUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-26T02:59:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b3d7168ac8fa9ee339bf99d2f3e9fd9c611d9d48457ec0dd9d9175aad2248e4a"
+    },
+    {
+      "id": "20260813-FR-192500B5-312",
+      "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "국방부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T19:50:57+09:00",
+      "publishedAt": "2026-08-13T19:50:57+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-08-26T02:59:41+09:00",
+      "summary": "국방부 일일 정례 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wZXZTVFJUSkV2ejZUM0l3WkVxUi1YbWFPMmEyM3lYVWJOaDNxbXdEcjlDbk9Qa0ZJdTBtQUFDOElrVHJHWGVna1I4MFh4Z2RtakxMcVMzZmpCMGJYTURTb1ZhSXpmMDlIM1AxRWhjaWpMXzQwMEpF?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vcWlTcTMyalFzVlp5aEhnalRpeUk2dEZfRHFXMUxyNW1lTzAtdHpVOHplMmU3WERzMG8waXhEeUJyOGliZHdGQnZaMU9KVlM2ZUtoQzVFUF82UTRHdzhHRk5XNkMySmVlaHdVYjFvdUFoeXV2WlhF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-26T02:59:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "192500b5b439afd9e838b7e9a63ce1ab769d6be86f69d665f5fab8f81058711f"
+    },
+    {
+      "id": "20260825-FR-C1B47B0D-680",
+      "title": "\"공단에서 먼저 가입하고, 국민과 함께 키운다\" 근로복지공단, 푸른씨앗 IRP 확산 본격화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T14:03:12+09:00",
+      "publishedAt": "2026-08-25T14:03:12+09:00",
+      "firstCollectedAt": "2026-08-26T02:59:41+09:00",
+      "updatedAt": "2026-08-26T02:59:41+09:00",
+      "summary": "\"공단에서 먼저 가입하고, 국민과 함께 키운다\" 근로복지공단, 푸른씨앗 IRP 확산 본격화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"공단에서 먼저 가입하고, 국민과 함께 키운다\" 근로복지공단, 푸른씨앗 IRP 확산 본격화 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSUdxb1FpVXlDakZIaWNXNEsyc0xXOUVZcDRlYjA5NGtBLVRzUVQ1RHh4UHJvek1iSVV5QkE5Y0Z2bzBqQTd5U1MyWWlGbVVyWm5FbHBqUFgydGZfWjBmdDJ4RnpTcXpPcl81X3RIVlVwdWNPLUFQaTdxTDctLW1rY29QUUs5d3lsX3VaZWF3TDMyZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c1b47b0de83c506aece7893bde5afde94739c32fe6c52198534738510b7bc0aa"
+    },
+    {
+      "id": "20260826-FR-6A602DB8-681",
+      "title": "[설명] 이데일리(8.25.) \"위법 맞지만 과징금 산정 부실...공정위, 돌려준 과징금 1070억 넘었다\" 기사 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-26T01:48:05+09:00",
+      "publishedAt": "2026-08-26T01:48:05+09:00",
+      "firstCollectedAt": "2026-08-26T02:59:41+09:00",
+      "updatedAt": "2026-08-26T02:59:41+09:00",
+      "summary": "[설명] 이데일리(8.25.) \"위법 맞지만 과징금 산정 부실...공정위, 돌려준 과징금 1070억 넘었다\" 기사 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[설명] 이데일리(8.25.) \"위법 맞지만 과징금 산정 부실...공정위, 돌려준 과징금 1070억 넘었다\" 기사 관련 - 대한민국 정책브리핑",
+          "date": "2026-08-26",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MUGJleFoyaVZqajFZa2lrU190X0NRMnUxakFSU0l0a2lqelRKSXpYcjR3SFBxbHBVeUpPb3NkeElSdFJscEtGd1doOG9XRjBPUWRIYjZlamdFdGxaRk11eFRJZTlRUUxMMGFrZDNrMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6a602db8ecaf17639ad23b443fc82c9616a9f8582131f6a2991f2c6eee8699d7"
+    },
+    {
+      "id": "20260825-FR-71D95873-682",
+      "title": "(보도설명) 이번 가업상속공제 제도 개편은 가업의 원활한 승계를 지원하되 과도한 지원은 적정화하려는 것으로, 업종 전환 등을 고려하여 개편안을 마련하였습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T19:04:26+09:00",
+      "publishedAt": "2026-08-25T19:04:26+09:00",
+      "firstCollectedAt": "2026-08-26T02:59:41+09:00",
+      "updatedAt": "2026-08-26T02:59:41+09:00",
+      "summary": "(보도설명) 이번 가업상속공제 제도 개편은 가업의 원활한 승계를 지원하되 과도한 지원은 적정화하려는 것으로, 업종 전환 등을 고려하여 개편안을 마련하였습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 이번 가업상속공제 제도 개편은 가업의 원활한 승계를 지원하되 과도한 지원은 적정화하려는 것으로, 업종 전환 등을 고려하여 개편안을 마련하였습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JYTVSQkxmMkV4NEsxRlBHdFlzLWIzT296bEFqcnNneVNULXRhNG51clVtckliNVZHWTk3SUEwUnR4LUltSHlMcFhpdDJkZDR6ZTdVV1M2aGlBc2YzVVcwTlVTVENHd2k0cXVjcXQ2dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "71d95873e97b20f81b55920120aa0e67e16f299631e7f891870a6a7b417c059b"
+    },
     {
       "id": "20260825-FR-1E03DCD5-658",
       "title": "미래를 위한 변화, 어떻게 만들어갈까요? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -355,46 +635,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "34f7763f4769c30344264b4e4c7100f918d31c1632b884c625e8b031448122fd"
-    },
-    {
-      "id": "20260825-FR-2337EB57-678",
-      "title": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다' - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-25T13:59:34+09:00",
-      "publishedAt": "2026-08-25T13:59:34+09:00",
-      "firstCollectedAt": "2026-08-25T21:02:32+09:00",
-      "updatedAt": "2026-08-25T21:02:32+09:00",
-      "summary": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다' 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "폴리텍대학, 중소기업 시제품 제작을 통해 '지역사회 활력을 불어 넣다' - 대한민국 정책브리핑",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUXdvZ04wMG9lS3J3akdscl9iS2Q3c1dwdlpib2tWV2VmWjk3ZmxENWtKcThCZkI3dHVUdTNDVGVvbW16a210azU1aW5TODFuV2ZIMTJBanliQklYb0JCck90VzJCM01CejBGeEZMUHBTc0pKOTA5N2pXQmc4WWo2MzFfU2NoaE1KNXU3U3BlVjNkOWk4?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2337eb577412d6e6afc7b02e13e77b8d46265eff68695d35a2d7512a7b1f5c2c"
     },
     {
       "id": "20260824-FR-FA90FFF0-611",
@@ -1726,46 +1966,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
-    },
-    {
-      "id": "20260825-DP-B3D7168A-656",
-      "title": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-25T13:07:35+09:00",
-      "publishedAt": "2026-08-25T13:07:35+09:00",
-      "firstCollectedAt": "2026-08-25T14:18:08+09:00",
-      "updatedAt": "2026-08-25T14:18:08+09:00",
-      "summary": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "동종 재창업 불인정 기간 단축을 위한 「중소기업창업 지원법 시행령」 개정안 국무회의 의결 - 대한민국 정책브리핑",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRHYTJWZ3F5VmZPdzhfdkxRWEc4UGFSQV9UREpDbkpDS1I2bzk2dUJ2QmVkclg2V2VaRndBOE14SlR1Z3N6cWw2LXRScU1qUmY2VWZrdmY5anctelkyb29zTE56LVZENVZMWVBzd1hpWVpTdC1IaWRFaS04V3Z0NmNRLUVBSWJYVFY0U29kWWVRdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b3d7168ac8fa9ee339bf99d2f3e9fd9c611d9d48457ec0dd9d9175aad2248e4a"
     },
     {
       "id": "20260825-DP-CC697E90-657",
@@ -17321,47 +17521,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ce3cecd8a0fc2491332141b74b6d881549439ce04d48d98df74417be908c5dba"
-    },
-    {
-      "id": "20260813-FR-192500B5-312",
-      "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "국방부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-13T19:50:57+09:00",
-      "publishedAt": "2026-08-13T19:50:57+09:00",
-      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
-      "updatedAt": "2026-08-13T21:36:29+09:00",
-      "summary": "국방부 일일 정례 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wZXZTVFJUSkV2ejZUM0l3WkVxUi1YbWFPMmEyM3lYVWJOaDNxbXdEcjlDbk9Qa0ZJdTBtQUFDOElrVHJHWGVna1I4MFh4Z2RtakxMcVMzZmpCMGJYTURTb1ZhSXpmMDlIM1AxRWhjaWpMXzQwMEpF?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "192500b5b439afd9e838b7e9a63ce1ab769d6be86f69d665f5fab8f81058711f"
     },
     {
       "id": "20260813-DP-0EA5EE57-314",
