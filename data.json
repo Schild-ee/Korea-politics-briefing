@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-26T08:01:56+09:00",
-    "nextScheduledUpdate": "2026-08-26T08:31:56+09:00",
+    "lastSuccessfulUpdate": "2026-08-26T08:54:34+09:00",
+    "nextScheduledUpdate": "2026-08-26T09:24:34+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-26T08:01:53+09:00",
-      "finishedAt": "2026-08-26T08:01:56+09:00",
+      "startedAt": "2026-08-26T08:54:31+09:00",
+      "finishedAt": "2026-08-26T08:54:34+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 53,
-      "duplicates": 55,
-      "rejected": 143,
-      "rejectedByDate": 138,
-      "rejectedByRelevance": 5,
+      "acceptedCandidates": 55,
+      "duplicates": 58,
+      "rejected": 141,
+      "rejectedByDate": 137,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260825-FR-61B60AEA-674",
+      "title": "한-쿠웨이트 외교장관회담(8.25.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T19:01:39+09:00",
+      "publishedAt": "2026-08-25T19:01:39+09:00",
+      "firstCollectedAt": "2026-08-25T20:04:37+09:00",
+      "updatedAt": "2026-08-26T08:54:32+09:00",
+      "summary": "한-쿠웨이트 외교장관회담(8.25.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-쿠웨이트 외교장관회담(8.25.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnRwQldkREoxSkJYcGV6ekNPQXJtX3RnYzc1UW93OXhEUUU2TzJJWmEwOHpFN1Z2SnBtRFlhNzM0QWlxODc4SVEtUVhfbmk0bThjWVd4T1ZSaTJKeUxiS0E5MW1Dak1KalRNZmVMWDFfMDdocFJlN2ZCR0lWRUwzQjc5Y0N2UGdWZVVITGE1R21SUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-쿠웨이트 외교장관회담(8.25.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU2hyaEE3SzZUY1VMckZCMlNFTjdjU1R3T3g0RzJDTXg1cVV2TWRSRGtEOVh2NzF4anI0LUw1dFFrWFBDODJLU1Ryd2M5RHFOMXREUGtWb2ZSRmpTbGh5QmhDM0p1eTBSQWVyMU01Rks4VW56Qm42U2FvUXNfQlBKb0o1SGs1UTF3TGxRcDhVbmh3dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-26T08:54:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "61b60aea7c70114ee875e648883e27c037cdba3bc1ebce8a108622794b2bf165"
+    },
     {
       "id": "20260825-DP-C2C6847E-689",
       "title": "(설명) 서울경제, \"기후부 장관과 현장 민원\" 기사관련 - 대한민국 정책브리핑",
@@ -1352,46 +1405,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "fa90fff0e889890edf7920f8ef933f4c4dd607ffd6337eb40f7e38f471636be0"
-    },
-    {
-      "id": "20260825-FR-61B60AEA-674",
-      "title": "한-쿠웨이트 외교장관회담(8.25.) 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "양자외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-25T19:01:39+09:00",
-      "publishedAt": "2026-08-25T19:01:39+09:00",
-      "firstCollectedAt": "2026-08-25T20:04:37+09:00",
-      "updatedAt": "2026-08-25T20:04:37+09:00",
-      "summary": "한-쿠웨이트 외교장관회담(8.25.) 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-쿠웨이트 외교장관회담(8.25.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnRwQldkREoxSkJYcGV6ekNPQXJtX3RnYzc1UW93OXhEUUU2TzJJWmEwOHpFN1Z2SnBtRFlhNzM0QWlxODc4SVEtUVhfbmk0bThjWVd4T1ZSaTJKeUxiS0E5MW1Dak1KalRNZmVMWDFfMDdocFJlN2ZCR0lWRUwzQjc5Y0N2UGdWZVVITGE1R21SUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "61b60aea7c70114ee875e648883e27c037cdba3bc1ebce8a108622794b2bf165"
     },
     {
       "id": "20260825-FR-48AC9B91-675",
