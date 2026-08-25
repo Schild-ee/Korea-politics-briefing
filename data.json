@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-26T06:57:15+09:00",
-    "nextScheduledUpdate": "2026-08-26T07:27:15+09:00",
+    "lastSuccessfulUpdate": "2026-08-26T08:01:56+09:00",
+    "nextScheduledUpdate": "2026-08-26T08:31:56+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-26T06:57:12+09:00",
-      "finishedAt": "2026-08-26T06:57:15+09:00",
+      "startedAt": "2026-08-26T08:01:53+09:00",
+      "finishedAt": "2026-08-26T08:01:56+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 53,
-      "duplicates": 56,
+      "duplicates": 55,
       "rejected": 143,
       "rejectedByDate": 138,
       "rejectedByRelevance": 5,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
+      "newIssues": 2,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260825-DP-C2C6847E-689",
+      "title": "(설명) 서울경제, \"기후부 장관과 현장 민원\" 기사관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-25T21:00:00+09:00",
+      "publishedAt": "2026-08-25T21:00:00+09:00",
+      "firstCollectedAt": "2026-08-26T08:01:54+09:00",
+      "updatedAt": "2026-08-26T08:01:54+09:00",
+      "summary": "(설명) 서울경제, \"기후부 장관과 현장 민원\" 기사관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 서울경제, \"기후부 장관과 현장 민원\" 기사관련 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zeExyZnY2czhqQ05KX1JZUUt3LVJQUDY0N1FNZW4yUlRjUnJ5WFgxbXBLRHkzQm5XNGppNEVGMEtqeWRMU0t4b2JZS3R2Y1I1dkJxY2ctNkNzYmZTQnNtNTFuZVF0SnpfSHVwU2I0Yw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c2c6847e8ad392c82ac9139c514ff192678e74217231299d2531db801ac51b69"
+    },
+    {
+      "id": "20260826-FR-05F6226F-690",
+      "title": "국민 목소리 담은 화재안전기술기준, 개정 마무리 단계 접어들어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-26T07:00:00+09:00",
+      "publishedAt": "2026-08-26T07:00:00+09:00",
+      "firstCollectedAt": "2026-08-26T08:01:54+09:00",
+      "updatedAt": "2026-08-26T08:01:54+09:00",
+      "summary": "국민 목소리 담은 화재안전기술기준, 개정 마무리 단계 접어들어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민 목소리 담은 화재안전기술기준, 개정 마무리 단계 접어들어 - 대한민국 정책브리핑",
+          "date": "2026-08-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOclVVVHV6OVctVXZzRHB0TmsxY05yUFBOR1NRYUlYY0wtQUxOZ25CY2VUM2hFSERsOE1UWFVoZFFhbmNRSUNRTGRQZ0RkT3FRS0NoWWcyOTZ5cE1wdGVsZ2VhMV9KS3BXZ3VDcDhNSkxuLXBlNnJicWdDY2l4T2J5RGRWMEZKdEJnUjA2dWF5TFp6UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "05f6226f7bb180324767f23f631f682cc6d49cd6153ac281560317a8376b9232"
+    },
     {
       "id": "20260825-FR-2D1FA08C-688",
       "title": "한국형발사체(누리호) 5호기 발사 승인 - 대한민국 정책브리핑",
