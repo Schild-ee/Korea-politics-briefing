@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-26T20:47:46+09:00",
-    "nextScheduledUpdate": "2026-08-26T21:17:46+09:00",
+    "lastSuccessfulUpdate": "2026-08-26T23:27:44+09:00",
+    "nextScheduledUpdate": "2026-08-26T23:57:44+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-26T20:47:43+09:00",
-      "finishedAt": "2026-08-26T20:47:46+09:00",
+      "startedAt": "2026-08-26T23:27:42+09:00",
+      "finishedAt": "2026-08-26T23:27:44+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 67,
-      "duplicates": 67,
-      "rejected": 132,
-      "rejectedByDate": 128,
-      "rejectedByRelevance": 4,
+      "fetchedCandidates": 183,
+      "acceptedCandidates": 65,
+      "duplicates": 66,
+      "rejected": 116,
+      "rejectedByDate": 110,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 33,
           "error": ""
         },
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260826-FR-24A891EB-698",
+      "title": "새학기, 우리 아이 알레르기질환 미리 대비하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-26T10:31:00+09:00",
+      "publishedAt": "2026-08-26T10:31:00+09:00",
+      "firstCollectedAt": "2026-08-26T12:35:46+09:00",
+      "updatedAt": "2026-08-26T23:27:43+09:00",
+      "summary": "새학기, 우리 아이 알레르기질환 미리 대비하세요! - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "새학기, 우리 아이 알레르기질환 미리 대비하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-26",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGdHZTJvTU9MaWRMUHJ6NG4tTTRtNUYya0J1VTlFOW1Hbl9EbEMtQllxb0RBRzlVWVhybFlEYlAySnVWZ2xZMEljNzBmZEozdHdrOEtfenpZZ0J0eHRRaFEyTDY5RFg3YmplYkx3cERkZEoza3doRmVyYzU2UkZ5RmZyVXFXRXpWV2JiRTRn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "새학기, 우리 아이 알레르기질환 미리 대비하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-26",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZlRRd1pTa3VkSW9VOGNnTm5OdlhsYmk5RjVTYWxXMTd2NVI4ZUd5VW9nTEp2TkRDVExscUJRbk1ESzFWNXRsNHdOcW16cmpuYzNDTEU4WllxenVlbTlTMlpfM2dZeFpzWnNmbV9RYU8xMXNkMXpCLXlxMDdyMzh0ZEF4X2ZKcTNjbjVJ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-26T23:27:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "24a891eb772d93c6dcfa5b9f9da254ac824424674fb1876fee3601b4bb24861c"
+    },
     {
       "id": "20260826-DP-39A1C524-719",
       "title": "2028년 제4차 유엔해양총회 성공 개최를 위한 토대 마련 - 대한민국 정책브리핑",
@@ -1368,46 +1421,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "00bc04fee1ecf5ba964326caef4b670997193f4325b7b294c38b7c0c12be5250"
-    },
-    {
-      "id": "20260826-FR-24A891EB-698",
-      "title": "새학기, 우리 아이 알레르기질환 미리 대비하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-26T10:31:00+09:00",
-      "publishedAt": "2026-08-26T10:31:00+09:00",
-      "firstCollectedAt": "2026-08-26T12:35:46+09:00",
-      "updatedAt": "2026-08-26T12:35:46+09:00",
-      "summary": "새학기, 우리 아이 알레르기질환 미리 대비하세요! - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "새학기, 우리 아이 알레르기질환 미리 대비하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-26",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSGdHZTJvTU9MaWRMUHJ6NG4tTTRtNUYya0J1VTlFOW1Hbl9EbEMtQllxb0RBRzlVWVhybFlEYlAySnVWZ2xZMEljNzBmZEozdHdrOEtfenpZZ0J0eHRRaFEyTDY5RFg3YmplYkx3cERkZEoza3doRmVyYzU2UkZ5RmZyVXFXRXpWV2JiRTRn?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "24a891eb772d93c6dcfa5b9f9da254ac824424674fb1876fee3601b4bb24861c"
     },
     {
       "id": "20260826-FR-C1714A14-699",
