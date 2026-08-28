@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-29T07:08:46+09:00",
-    "nextScheduledUpdate": "2026-08-29T07:38:46+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-29T07:38:58+09:00",
+    "nextScheduledUpdate": "2026-08-29T08:08:58+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-29T07:08:43+09:00",
-      "finishedAt": "2026-08-29T07:08:46+09:00",
+      "startedAt": "2026-08-29T07:38:55+09:00",
+      "finishedAt": "2026-08-29T07:38:58+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 55,
+      "acceptedCandidates": 56,
       "duplicates": 62,
-      "rejected": 138,
-      "rejectedByDate": 138,
+      "rejected": 137,
+      "rejectedByDate": 137,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260828-FR-64F7BCFA-772",
+      "title": "법무부, 「교정시설 조성 부지 선정 공모」 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-28T17:41:47+09:00",
+      "publishedAt": "2026-08-28T17:41:47+09:00",
+      "firstCollectedAt": "2026-08-29T07:38:57+09:00",
+      "updatedAt": "2026-08-29T07:38:57+09:00",
+      "summary": "법무부, 「교정시설 조성 부지 선정 공모」 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "법무부, 「교정시설 조성 부지 선정 공모」 추진 - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdW1YMGZVbUNlcTNFZUNzd05uY2VHSWJiUVF0YVFLajNZMFc2TnNHMVpCdUQwWjdqVlhIT2hNTUdkeVR6MEQtZlFFLTF2RmRyMVdyN1RrQnJfUmVwTG56TzZlME9sOFpST3hGend3TThDZTA2blpXOW03NzhNU1NhOVlwZmkyZmxyaWxLdlFTUUZMN3hOR1c5Qi02ZldCcDZKb3VwY1BTZ1c5c3BsN25Qdm40T0N2d0hkYkJlWVVOZ2ZXUlkzUklvVmFGNFItYTBsbDNHLUJBZERJaWVxN29TTWVPYVM1UVJwaWxQVHotaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "64f7bcfa9fa3614f47bdc4fa81fcb4caeab24523848e8e1dc4f97087252025c8"
+    },
     {
       "id": "20260824-FR-C7B11909-633",
       "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
