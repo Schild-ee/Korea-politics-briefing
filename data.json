@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-29T15:10:12+09:00",
-    "nextScheduledUpdate": "2026-08-29T15:40:12+09:00",
+    "lastSuccessfulUpdate": "2026-08-29T16:08:46+09:00",
+    "nextScheduledUpdate": "2026-08-29T16:38:46+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-29T15:10:10+09:00",
-      "finishedAt": "2026-08-29T15:10:12+09:00",
+      "startedAt": "2026-08-29T16:08:43+09:00",
+      "finishedAt": "2026-08-29T16:08:46+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 195,
-      "acceptedCandidates": 61,
-      "duplicates": 65,
-      "rejected": 129,
-      "rejectedByDate": 129,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 60,
+      "duplicates": 61,
+      "rejected": 135,
+      "rejectedByDate": 135,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 45,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,181 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260828-FR-7B28A0DB-779",
+      "title": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-28T21:40:35+09:00",
+      "publishedAt": "2026-08-28T21:40:35+09:00",
+      "firstCollectedAt": "2026-08-29T14:08:46+09:00",
+      "updatedAt": "2026-08-29T16:08:44+09:00",
+      "summary": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령 - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTmNxalBrV0V3aGJxRlpzQ0REcjNpaThBMHlHaXpoMFZtT3JZeXpDZmIxYWwzMVFmT1Bwb0MyNmNRNm1ScnpJdm11ZVZCT0NwZmdZUUtBMmp0QVZSZng4WXhickJnVFNVSHFXanRST2VCRXEyckQxczM4T1JSSTdkeUthZlNLa2FYaUdRU3JFeU1Udw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령 - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwWWVhNkJFYWNDQVZjeFd4LU1WOTBJVzgyQlRDbzRrN2EyejNoWjJmZ3dfX0stSnFYd3QtajNDT3VnZmxWZGtJYTBxcGp6U3ZtWHdyc3p3MjNuQ1RNbER3OUFFNW10TTRNc0xHZ0tIR2FiRlJZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-29T16:08:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7b28a0dbbf2453e19ce75589ff0ca3d4d040e43937af96943906e46b83d18592"
+    },
+    {
+      "id": "20260827-FR-77AC7CB8-789",
+      "title": "인도-태평양 장관회의 계기 한-인도 외교장관회담(2.21) 개최 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-27T15:23:47+09:00",
+      "publishedAt": "2026-08-27T15:23:47+09:00",
+      "firstCollectedAt": "2026-08-29T16:08:44+09:00",
+      "updatedAt": "2026-08-29T16:08:44+09:00",
+      "summary": "인도-태평양 장관회의 계기 한-인도 외교장관회담(2.21) 개최 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "인도-태평양 장관회의 계기 한-인도 외교장관회담(2.21) 개최 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWXYyY1F6bjZxdXFFVWFkSlF2aVQwWkY4WXBDVy1VaVhFLXk5RW00V1F4Wlg0eFp5SXlqUUtiYUxmYlVfWE40RlRNWGFDUjZQTkNqdTJXVDRodHc2NXdEaXlhMzBoRUpjbHIwTXQ2N18zTXJUNDRBQnBheGlXVURkYVVGQ3BIRTdneUZNQw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "77ac7cb8a80eec9fcd84162a332c91d85e3c0655f0be9bb1ab2fe5f8542b7550"
+    },
+    {
+      "id": "20260829-FR-BEBFE1CA-790",
+      "title": "[보도자료] 기후시민회의 토론회 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-29T15:13:28+09:00",
+      "publishedAt": "2026-08-29T15:13:28+09:00",
+      "firstCollectedAt": "2026-08-29T16:08:44+09:00",
+      "updatedAt": "2026-08-29T16:08:44+09:00",
+      "summary": "[보도자료] 기후시민회의 토론회 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 기후시민회의 토론회 - 대한민국 정책브리핑",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0sxSmZHU0ZhNF9JSm9FeHRNeEZxdXc3WkpYNVpMSmpXZ1M5RXJUei0weTVEYkZGTkU2czR1YkNnRmt2YWpOTFVYVzhqVzM2ekVaQVhyZTRLVGppV0ZiMHEyYlpTYzJjbEF6WkhMdi1mVUM2Qk5BZWY2NEc1SVM3YzI4UVNCRjN5UnZCeE14NjV2dTlZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bebfe1cab123447579878f9b996c0ffab64aff37246419268e651414a904a022"
+    },
+    {
+      "id": "20260828-FR-31815463-791",
+      "title": "당뇨병 대표 증상 = 삼다(三多) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-28T17:46:38+09:00",
+      "publishedAt": "2026-08-28T17:46:38+09:00",
+      "firstCollectedAt": "2026-08-29T16:08:44+09:00",
+      "updatedAt": "2026-08-29T16:08:44+09:00",
+      "summary": "당뇨병 대표 증상 = 삼다(三多) - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "당뇨병 대표 증상 = 삼다(三多) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yLWpaUnpSYWpJZ3U4NUxGWnFYVG91a01oc2xtR2MtNVdKT2xGR2NrZzhza0hGLW9GQjUtb1pNYnRfQWpfaUc4THRHWFdnbGVmdHpmaVdhdnQwbzU1UUpFYUhYVXp1OGF0d3N3Yw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "318154630930ead696d6a85b99def6409fbb5260dfe81857d4413441adf703c7"
+    },
     {
       "id": "20260828-FR-745F029C-788",
       "title": "관세청, 중국해관 초청 K-푸드 수출 지원 설명회 개최 - 대한민국 정책브리핑",
@@ -265,46 +440,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "db51e2cacd3eee7e8e6fe8c6dba399331a3457b67190c885d8a8513d7ed5ea98"
-    },
-    {
-      "id": "20260828-FR-7B28A0DB-779",
-      "title": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-28T21:40:35+09:00",
-      "publishedAt": "2026-08-28T21:40:35+09:00",
-      "firstCollectedAt": "2026-08-29T14:08:46+09:00",
-      "updatedAt": "2026-08-29T14:08:46+09:00",
-      "summary": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "네팔 추가 홍수 피해 우려 관련 특별여행주의보 발령 - 대한민국 정책브리핑",
-          "date": "2026-08-28",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTmNxalBrV0V3aGJxRlpzQ0REcjNpaThBMHlHaXpoMFZtT3JZeXpDZmIxYWwzMVFmT1Bwb0MyNmNRNm1ScnpJdm11ZVZCT0NwZmdZUUtBMmp0QVZSZng4WXhickJnVFNVSHFXanRST2VCRXEyckQxczM4T1JSSTdkeUthZlNLa2FYaUdRU3JFeU1Udw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "7b28a0dbbf2453e19ce75589ff0ca3d4d040e43937af96943906e46b83d18592"
     },
     {
       "id": "20260827-FR-FCD40184-780",
