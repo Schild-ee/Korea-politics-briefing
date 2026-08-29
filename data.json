@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-29T19:08:51+09:00",
-    "nextScheduledUpdate": "2026-08-29T19:38:51+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-29T19:38:46+09:00",
+    "nextScheduledUpdate": "2026-08-29T20:08:46+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-29T19:08:49+09:00",
-      "finishedAt": "2026-08-29T19:08:51+09:00",
+      "startedAt": "2026-08-29T19:38:44+09:00",
+      "finishedAt": "2026-08-29T19:38:46+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 55,
-      "duplicates": 59,
+      "duplicates": 58,
       "rejected": 141,
-      "rejectedByDate": 141,
-      "rejectedByRelevance": 0,
+      "rejectedByDate": 140,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 0,
-      "updatedIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,121 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260824-FR-C7B11909-633",
+      "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T23:52:49+09:00",
+      "publishedAt": "2026-08-24T23:52:49+09:00",
+      "firstCollectedAt": "2026-08-25T04:44:44+09:00",
+      "updatedAt": "2026-08-29T19:38:45+09:00",
+      "summary": "한미 외교장관 통화(8.24.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZ6cTVNcDUtXzdBOGh0ZXI4bS1rX0Jvck50RzN5OVV0MjFMa052YWd0V0dxSEhVc1JnV2pwNkVWVnFVczdrSUF2VGthRXJSTVZmTHdfNHo2TmUweG9TR1prREZ2VTJBMTJlSGNaNkp3WXNHNTJNa1N0bkRWZ1VsNFdod0Nvc3ozSkx3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXFZYXJRR3dkSDh5Y0ZJQndqUXJ0OWV0MHpuXzFQOHhHNGJ6SjVYVU55YWxxZTVfekUzZ0NUUTZPMzJ2RUt4Rk05Y1hKLURDNHJfbm92bGJzSDRYOVRadW94OER3dkt0ZkkyQjlzeElQSVp6ejhXSlRZeXBldlJ1bnBJM21peTVkV2pBT1RySzJGZDZu?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlZIUEwxSmVYX3dUR0JNUnVUMkZncXUxbzZEN3hwb045TzFCeDVGSWRsMDhPcmU2cHNBRGRIbVRaREw2Nm1SeEJDbWREVy1TLVhSMml0NlBkVllWa1dzcWhDZ19wdjhJODVxQmxJeUM1UVpsa0daRThsV0phSHEzUFZVX2lISzNQQ19sdjlYajBCQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZEZ0Yjl3eVNnc3dWeG9Jb1ZtbTY2dU9uRVBCS3BBS0pMdXVaNmtrYXJteG44UllwYktTdWw3TGVHX1FkeDNGejFzaTdqcG1tV0VteFRnM1NFR2R0NXNqYkJYTno5ZlBJT1FSekRNcnNOZmw2?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-네팔 외교장관 통화(8.27.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0JvTi1GQ1hGVGkydlplc3YxZEpHNmc5VW5EQVJMXzhMbUhrNnByQ3M2ZW5PRk5xYUczRGlIVzF5ZFRBRmdHQnRJMzJJdFVzSEpMdTEzVEtqOGtDQWdiQ3FadEUtaUgydGpfbWdPTl9hc1ZLTmMyalJ1Uy16RDFTeTlOZVNWbUwyMWpmdm0wLXRIZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-네팔 외교장관 통화(8.27.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUc2bEhjQVg1cjZpRGdvT096SHFUQ0t2dHlLUHFSRkh3ZUl2WDJnaGdxRkN0SEpHVFdpQ0VDeXV1Q3BtOUpJcGxfajl2V2VjWFFQR3lYM2RKS0Z2SjNEdUpCYmkwY3BNdDdYZkRtVVlBYlpMVFpWc1lNS0lLR0lYM0N5dkhfdGN1RmZmU3pfSnFJUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-네팔 외교장관 통화(8.27.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aeTB3VVk5SFZ5Z29wQ09icTcwUnk4bEY1TkZlSGVqYlU5Rl9kZjFOWGFyOFVQZVZGM3JITVFUTm9XdzVJUzBDSUxSUnc0bWhFRlBzSkZSQ3JCTkxTYnJPenZuamRscGJxWFFwTlZ4YzhTckxH?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-25T06:14:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-25T07:49:47+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-25T17:01:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-08-28T09:57:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-08-29T06:52:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-08-29T19:38:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c7b11909d52a3f3457f4938fb4beca778e7e0b664130601eabb9bedb9d1813d8"
+    },
     {
       "id": "20260828-DP-743D33B3-792",
       "title": "비정상·가짜진료 행정조사반, 페이백 등 의심 의료기관 15곳 추가 수사의뢰 - 대한민국 정책브리핑",
@@ -1016,109 +1131,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "64f7bcfa9fa3614f47bdc4fa81fcb4caeab24523848e8e1dc4f97087252025c8"
-    },
-    {
-      "id": "20260824-FR-C7B11909-633",
-      "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-24T23:52:49+09:00",
-      "publishedAt": "2026-08-24T23:52:49+09:00",
-      "firstCollectedAt": "2026-08-25T04:44:44+09:00",
-      "updatedAt": "2026-08-29T06:52:46+09:00",
-      "summary": "한미 외교장관 통화(8.24.) 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmZ6cTVNcDUtXzdBOGh0ZXI4bS1rX0Jvck50RzN5OVV0MjFMa052YWd0V0dxSEhVc1JnV2pwNkVWVnFVczdrSUF2VGthRXJSTVZmTHdfNHo2TmUweG9TR1prREZ2VTJBMTJlSGNaNkp3WXNHNTJNa1N0bkRWZ1VsNFdod0Nvc3ozSkx3?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXFZYXJRR3dkSDh5Y0ZJQndqUXJ0OWV0MHpuXzFQOHhHNGJ6SjVYVU55YWxxZTVfekUzZ0NUUTZPMzJ2RUt4Rk05Y1hKLURDNHJfbm92bGJzSDRYOVRadW94OER3dkt0ZkkyQjlzeElQSVp6ejhXSlRZeXBldlJ1bnBJM21peTVkV2pBT1RySzJGZDZu?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZlZIUEwxSmVYX3dUR0JNUnVUMkZncXUxbzZEN3hwb045TzFCeDVGSWRsMDhPcmU2cHNBRGRIbVRaREw2Nm1SeEJDbWREVy1TLVhSMml0NlBkVllWa1dzcWhDZ19wdjhJODVxQmxJeUM1UVpsa0daRThsV0phSHEzUFZVX2lISzNQQ19sdjlYajBCQQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미 외교장관 통화(8.24.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TZEZ0Yjl3eVNnc3dWeG9Jb1ZtbTY2dU9uRVBCS3BBS0pMdXVaNmtrYXJteG44UllwYktTdWw3TGVHX1FkeDNGejFzaTdqcG1tV0VteFRnM1NFR2R0NXNqYkJYTno5ZlBJT1FSekRNcnNOZmw2?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-네팔 외교장관 통화(8.27.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0JvTi1GQ1hGVGkydlplc3YxZEpHNmc5VW5EQVJMXzhMbUhrNnByQ3M2ZW5PRk5xYUczRGlIVzF5ZFRBRmdHQnRJMzJJdFVzSEpMdTEzVEtqOGtDQWdiQ3FadEUtaUgydGpfbWdPTl9hc1ZLTmMyalJ1Uy16RDFTeTlOZVNWbUwyMWpmdm0wLXRIZw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-네팔 외교장관 통화(8.27.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUc2bEhjQVg1cjZpRGdvT096SHFUQ0t2dHlLUHFSRkh3ZUl2WDJnaGdxRkN0SEpHVFdpQ0VDeXV1Q3BtOUpJcGxfajl2V2VjWFFQR3lYM2RKS0Z2SjNEdUpCYmkwY3BNdDdYZkRtVVlBYlpMVFpWc1lNS0lLR0lYM0N5dkhfdGN1RmZmU3pfSnFJUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-25T06:14:44+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-25T07:49:47+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-25T17:01:54+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-08-28T09:57:57+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-08-29T06:52:46+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "c7b11909d52a3f3457f4938fb4beca778e7e0b664130601eabb9bedb9d1813d8"
     },
     {
       "id": "20260827-DP-A8C2B0BC-735",
