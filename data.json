@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-29T22:08:50+09:00",
-    "nextScheduledUpdate": "2026-08-29T22:38:50+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-29T22:38:48+09:00",
+    "nextScheduledUpdate": "2026-08-29T23:08:48+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-29T22:08:48+09:00",
-      "finishedAt": "2026-08-29T22:08:50+09:00",
+      "startedAt": "2026-08-29T22:38:45+09:00",
+      "finishedAt": "2026-08-29T22:38:48+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 53,
-      "duplicates": 56,
-      "rejected": 144,
+      "acceptedCandidates": 52,
+      "duplicates": 51,
+      "rejected": 145,
       "rejectedByDate": 144,
       "rejectedByRelevance": 0,
-      "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "rejectedAsCommentary": 1,
+      "newIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,193 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260828-FR-DF14359D-765",
+      "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-28T19:37:47+09:00",
+      "publishedAt": "2026-08-28T19:37:47+09:00",
+      "firstCollectedAt": "2026-08-29T06:52:46+09:00",
+      "updatedAt": "2026-08-29T22:38:46+09:00",
+      "summary": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWpNQkRaV1dSR2VoNW5sUEFGX3BTTGxmN0NJVEJSdUxweXNlUXRNYTNvRWMySTZ5UFRWTFF2WFpfVHpKekZBQ3dXQ3BSYnRQajNNdlBLc1F0YzN1ODRieHo0c0g5b0w1Tm9IZG9YN3ZwNC0wLWNyOGNwSkl3cFl0YWhFOUNnVlFJdThEQ3QzYTd5UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZDN2NENMSTJDTEh2RHJ2TmtGaDM0RW5DUkd6VXZvSDhaanpXOWdINGUzYjQxVWJhcHM1aWU5enp1Q3NSdTdnTXRZRXR6ckVoRUZMU1JtSWFZb2o1LUx5ZF9VYVNSeFhWZjFOZGlhUVF5LTJuVWt4OWJnd0l4MUI0VFRWVVRsVXR5djA3ZDlYdWNQdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qVHJjNl9MbDRQaTBYbjBHeTFkall2dkdsREpxRjV4Yy1HcDNqVElGaUhPTW1qMVdTeXU4U05MNU9DMXZKd2dnTTA2cl9BZmJacFFFM1Y5UmpRaG03WlAxNkhFeFlUdkI2MHYwcGpxQkJSMUlv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-29T13:38:47+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-29T22:38:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "df14359db6c5a30dd1a11fa1fe723a214aa37d292da1646ef0d76c18d5c60919"
+    },
+    {
+      "id": "20260829-FR-320A72F1-796",
+      "title": "지연된 PF 사업장, 청년·신혼부부 보금자리로 신속 공급 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-29T20:55:09+09:00",
+      "publishedAt": "2026-08-29T20:55:09+09:00",
+      "firstCollectedAt": "2026-08-29T22:38:46+09:00",
+      "updatedAt": "2026-08-29T22:38:46+09:00",
+      "summary": "지연된 PF 사업장, 청년·신혼부부 보금자리로 신속 공급 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지연된 PF 사업장, 청년·신혼부부 보금자리로 신속 공급 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GU0h3TUp6ZVoxem5OYUhFSmhmRFE2M0VHVm13YTZIWjlIMkFvbTdOVEN2ZFFGd0YtbzdtMlNJc1A4eFktdmliczQ2TnRzaEt4M3RxQ29NTjBBMjF4RzlKMlEtS3hzTzVNallxS29R?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "320a72f135fda09e1e2dce499e6cdd043c493d999278ca8a0d3d0dd762f63d13"
+    },
+    {
+      "id": "20260828-FR-767446EB-797",
+      "title": "'모두의 창업: 사회혁신 소셜벤처 리그' 1차 서류평가 통과자 100명 선발 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-28T14:07:18+09:00",
+      "publishedAt": "2026-08-28T14:07:18+09:00",
+      "firstCollectedAt": "2026-08-29T22:38:46+09:00",
+      "updatedAt": "2026-08-29T22:38:46+09:00",
+      "summary": "'모두의 창업: 사회혁신 소셜벤처 리그' 1차 서류평가 통과자 100명 선발 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'모두의 창업: 사회혁신 소셜벤처 리그' 1차 서류평가 통과자 100명 선발 - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNanJvdjBnRDN4OW42QjRYaE5zVnQ4d0xmVzAwa2NLSnNwdUhncDJJdlFCakhLZ2tTbGFxUjkxZjVEZTMtLU4yeTUwVUV1d2hLZEZlSTVCblltemhPNUFvd3dPVnlvemdxRHAydkdRNGg4VXFqMVVmTi1xTk8tb1RjV2VRNnk4ajlvQ1g5SFhXSUdXZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "767446eb241854e03e629e15af25eb8dc337e8566a45d1b473563a1778ec0fde"
+    },
+    {
+      "id": "20260828-FR-3BBBF946-798",
+      "title": "국립소방연구원 화학사고 대응기술 연구성과, 국내외 학술지에 잇따라 게재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-28T07:00:00+09:00",
+      "publishedAt": "2026-08-28T07:00:00+09:00",
+      "firstCollectedAt": "2026-08-29T22:38:46+09:00",
+      "updatedAt": "2026-08-29T22:38:46+09:00",
+      "summary": "국립소방연구원 화학사고 대응기술 연구성과, 국내외 학술지에 잇따라 게재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국립소방연구원 화학사고 대응기술 연구성과, 국내외 학술지에 잇따라 게재 - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRY2pXamNUSEdkT1dLN2xheHlOcXNzVE5YNnFEa29LREx0UTVfQXNwYU9xNjE4MXJ4T3VmT2JlMjBKMWZlLUxaTm00c29IVnREQVkyT1BYTWs1WVpVbFByU3hPSnl5QjlfYktOOURTb1hVMVM3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3bbbf946b81de6a74fedc54d1e1ad071742956c0c84e6176231170f5ec59462d"
+    },
     {
       "id": "20260829-FR-BB7DE90D-795",
       "title": "금융분야 '불필요한 주민등록번호 처리' 관행 개선 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -1008,61 +1195,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "f2fb3d3543f8a1738120d8ceafc201c3e40899477ae1bc4f4d58d4f83fc414a2"
-    },
-    {
-      "id": "20260828-FR-DF14359D-765",
-      "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-28T19:37:47+09:00",
-      "publishedAt": "2026-08-28T19:37:47+09:00",
-      "firstCollectedAt": "2026-08-29T06:52:46+09:00",
-      "updatedAt": "2026-08-29T13:38:47+09:00",
-      "summary": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) - 대한민국 정책브리핑",
-          "date": "2026-08-28",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWpNQkRaV1dSR2VoNW5sUEFGX3BTTGxmN0NJVEJSdUxweXNlUXRNYTNvRWMySTZ5UFRWTFF2WFpfVHpKekZBQ3dXQ3BSYnRQajNNdlBLc1F0YzN1ODRieHo0c0g5b0w1Tm9IZG9YN3ZwNC0wLWNyOGNwSkl3cFl0YWhFOUNnVlFJdThEQ3QzYTd5UQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "미국의 대이란 경제제재 발표에 따른 유관기관 회의 개최(8.28.) - 대한민국 정책브리핑",
-          "date": "2026-08-28",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZDN2NENMSTJDTEh2RHJ2TmtGaDM0RW5DUkd6VXZvSDhaanpXOWdINGUzYjQxVWJhcHM1aWU5enp1Q3NSdTdnTXRZRXR6ckVoRUZMU1JtSWFZb2o1LUx5ZF9VYVNSeFhWZjFOZGlhUVF5LTJuVWt4OWJnd0l4MUI0VFRWVVRsVXR5djA3ZDlYdWNQdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-29T13:38:47+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "df14359db6c5a30dd1a11fa1fe723a214aa37d292da1646ef0d76c18d5c60919"
     },
     {
       "id": "20260826-DP-AB90B6E6-775",
