@@ -1,22 +1,22 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-30T19:38:47+09:00",
-    "nextScheduledUpdate": "2026-08-30T20:08:47+09:00",
+    "lastSuccessfulUpdate": "2026-08-31T00:18:16+09:00",
+    "nextScheduledUpdate": "2026-08-31T00:48:16+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-30T19:38:44+09:00",
-      "finishedAt": "2026-08-30T19:38:47+09:00",
+      "startedAt": "2026-08-31T00:18:13+09:00",
+      "finishedAt": "2026-08-31T00:18:16+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 28,
-      "duplicates": 28,
-      "rejected": 171,
-      "rejectedByDate": 170,
+      "acceptedCandidates": 19,
+      "duplicates": 21,
+      "rejected": 178,
+      "rejectedByDate": 177,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260830-DP-A097AE76-806",
+      "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-30T20:36:47+09:00",
+      "publishedAt": "2026-08-30T20:36:47+09:00",
+      "firstCollectedAt": "2026-08-31T00:18:14+09:00",
+      "updatedAt": "2026-08-31T00:18:14+09:00",
+      "summary": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzQwR1FQUVY2Q3FwN3l1eWRaa2VvMjNuRHMzaFJvZ2xReVBIOXBJY0pYNHc0Uk1xUW0yamw0MWdzM19rV1A5TXA0a2h2TWpNUi05am5mMEdqOXNHZW1LVXd4SnkwQjlrSmljTDJJNDVnYjkzRnJzRzBnX3pHOUJVcGtCYldhbksz?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a097ae76d7cc6f86e45de08384f0e32febf7dfa72490fbe5936090dce6c8486e"
+    },
     {
       "id": "20260830-DP-9A1697F9-805",
       "title": "의료비 부담 완화 위해 226만 명에게본인부담상한액 초과금 3조 760억 원 환급 - 대한민국 정책브리핑",
