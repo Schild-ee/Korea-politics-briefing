@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-30T12:08:58+09:00",
-    "nextScheduledUpdate": "2026-08-30T12:38:58+09:00",
+    "lastSuccessfulUpdate": "2026-08-30T12:38:50+09:00",
+    "nextScheduledUpdate": "2026-08-30T13:08:50+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-30T12:08:56+09:00",
-      "finishedAt": "2026-08-30T12:08:58+09:00",
+      "startedAt": "2026-08-30T12:38:48+09:00",
+      "finishedAt": "2026-08-30T12:38:50+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 32,
-      "duplicates": 32,
+      "duplicates": 31,
       "rejected": 166,
       "rejectedByDate": 164,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 1,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-08-30T12:00:00+09:00",
       "publishedAt": "2026-08-30T12:00:00+09:00",
       "firstCollectedAt": "2026-08-30T12:08:57+09:00",
-      "updatedAt": "2026-08-30T12:08:57+09:00",
+      "updatedAt": "2026-08-30T12:38:49+09:00",
       "summary": "(주)경동나비엔의 기술자료 관련 하도급법 위반행위 제재 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -95,9 +95,22 @@
           "date": "2026-08-30",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdG1VLUhFb0VJODFqcVhqX3pQcndUWE5jbTNiUmlTVkcyVlRkUEdoMG5GLXlYeUg4Q3VSSmd0eGhuRG52eGtoSnBMZFlaUE05WXdmeXl4N1lwZTJRZHRLUjV2Nk1aR2lqVFdDLUxkcUJubjUyTERld1lsUXdRRnJkUWdHcnlfVldiMHZKQ0dFWWZvdw?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(주)경동나비엔의 기술자료 관련 하도급법 위반행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGVTWUF6VnFBZTk5MmdkcTRHOVVkX1NvTjd4T2p2TEtmSFRISGVzNUdOaTFrVUUzekgweWRBWkJSaG82WVdPOFJraWgwUU1lUWFXZXZGVXNNeHFMZlVsZlRTX0lWZ2Nnb2NjV2wyRktKYkZDbllPWlRGYW1ieUs2WkMyNkZka1VNNWk5ZmZQRWY1QQ?oc=5",
+          "official": true
         }
       ],
-      "revisionHistory": [],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-30T12:38:49+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
       "corrected": false,
       "correctionReason": "",
       "relatedIssueIds": [],
@@ -121,7 +134,7 @@
       "occurredAt": "2026-08-30T12:00:00+09:00",
       "publishedAt": "2026-08-30T12:00:00+09:00",
       "firstCollectedAt": "2026-08-30T12:08:57+09:00",
-      "updatedAt": "2026-08-30T12:08:57+09:00",
+      "updatedAt": "2026-08-30T12:38:49+09:00",
       "summary": "과기정통부, 통신품질 미흡지역 재점검 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -135,6 +148,59 @@
           "date": "2026-08-30",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFJqYnV6bi1ZTEZrUkdtMlBjOXpZMHBZaXRPMnUtRlRQWTE2ZkViZWpCLTktcDFXUno5V3FLSXJuQUF2WDBmZ1ExbDM5dFJpUmRlZ2RYS0t1ZGwwRXZxUlBSQ2ZudjBFTVBvcG1razNoU25IQ1hLbHBuSXM0M25YbTl5X1duZmZVQWZaeGFZVFh6dw?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "과기정통부, 통신품질 미흡지역 재점검 - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1I4Ry1rYjVoQmtLZmtaRDUyQ1V4UXQtTmtDLXVlNDZVelg1WWFrWjFqMzJ4eUEtUUt5ajRlV3AxVEJDS0k2S284aG1ETEQ4a3ZRQmF2RnVqN19fOHV1Y2pkN2xwQkF4Q2NRVnlHTUxCQ0NwVVR1SVoxRGRKZ1hNUGdGS0dLQ1RIb3ZqblRaaHlvQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-30T12:38:49+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fbe8ec30a064518702b395567793079b4d63d533ed69f952a462fc28cc5ac7cf"
+    },
+    {
+      "id": "20260830-FR-3CE896C2-802",
+      "title": "장애인증명서 국외 제출용 인증서, 온라인으로 빠르게 발급받는다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-30T12:05:00+09:00",
+      "publishedAt": "2026-08-30T12:05:00+09:00",
+      "firstCollectedAt": "2026-08-30T12:38:49+09:00",
+      "updatedAt": "2026-08-30T12:38:49+09:00",
+      "summary": "장애인증명서 국외 제출용 인증서, 온라인으로 빠르게 발급받는다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "장애인증명서 국외 제출용 인증서, 온라인으로 빠르게 발급받는다 - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZFQyRmNCR1MtcHJtNzNELUhKZXItWEc2NXVNa01VRXlsMGxfRndtNjdmRXMwY0JVR25tLTR1QnkxYldnUGNqTExwUmdvVnl3a3p1Y1p5ZXMwMEZDVEltemxYQXhCVjRBWGsxNzlfbEhPdks5UDRlMko3QmRUc2FPcEkzT1BLaFJGYV9JWThIT3BCUQ?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [],
@@ -142,7 +208,7 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "fbe8ec30a064518702b395567793079b4d63d533ed69f952a462fc28cc5ac7cf"
+      "contentHash": "3ce896c27f21e28f6322ccf5737307e6708f36d10c1fa0e9000f9a5b05187631"
     },
     {
       "id": "20260828-FR-BCE1F89F-799",
