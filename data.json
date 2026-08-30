@@ -1,23 +1,23 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-30T19:08:57+09:00",
-    "nextScheduledUpdate": "2026-08-30T19:38:57+09:00",
+    "lastSuccessfulUpdate": "2026-08-30T19:38:47+09:00",
+    "nextScheduledUpdate": "2026-08-30T20:08:47+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-30T19:08:54+09:00",
-      "finishedAt": "2026-08-30T19:08:57+09:00",
+      "startedAt": "2026-08-30T19:38:44+09:00",
+      "finishedAt": "2026-08-30T19:38:47+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 29,
-      "duplicates": 29,
-      "rejected": 170,
-      "rejectedByDate": 168,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 28,
+      "duplicates": 28,
+      "rejected": 171,
+      "rejectedByDate": 170,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
       "updatedIssues": 0,
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260830-DP-9A1697F9-805",
+      "title": "의료비 부담 완화 위해 226만 명에게본인부담상한액 초과금 3조 760억 원 환급 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-30T12:05:00+09:00",
+      "publishedAt": "2026-08-30T12:05:00+09:00",
+      "firstCollectedAt": "2026-08-30T19:38:45+09:00",
+      "updatedAt": "2026-08-30T19:38:45+09:00",
+      "summary": "의료비 부담 완화 위해 226만 명에게본인부담상한액 초과금 3조 760억 원 환급 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "의료비 부담 완화 위해 226만 명에게본인부담상한액 초과금 3조 760억 원 환급 - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFJVQmVHYVNPVkdLd204REl5bFRWYnd5NnVPaWdzUFBQNTR3T1hYYWNvNVktU2hUekY2MmlwbkJoOGl6cW5pZkhRZHlRSUxhQjgxZVJid3NXM0dPaFBLZHB4YWJZZzVTSnh6M0pLUHgyZVI0bHZPNlJRbGlTSGZlZkQ0Q1NOZ1VRNmUwNWpNQ0dwQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9a1697f916426df04f96a97955b1facdde89c1108414fcc472a5b7761a6c6c2a"
+    },
     {
       "id": "20260830-DP-F668BC02-804",
       "title": "인사 발표 관련 강훈식 비서실장 브리핑 - 대한민국 청와대",
