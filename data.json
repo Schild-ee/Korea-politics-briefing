@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-30T11:38:54+09:00",
-    "nextScheduledUpdate": "2026-08-30T12:08:54+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-30T12:08:58+09:00",
+    "nextScheduledUpdate": "2026-08-30T12:38:58+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-30T11:38:51+09:00",
-      "finishedAt": "2026-08-30T11:38:54+09:00",
+      "startedAt": "2026-08-30T12:08:56+09:00",
+      "finishedAt": "2026-08-30T12:08:58+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 33,
-      "duplicates": 35,
-      "rejected": 165,
-      "rejectedByDate": 163,
+      "acceptedCandidates": 32,
+      "duplicates": 32,
+      "rejected": 166,
+      "rejectedByDate": 164,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 2,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260830-FR-9FC28CEF-800",
+      "title": "(주)경동나비엔의 기술자료 관련 하도급법 위반행위 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-30T12:00:00+09:00",
+      "publishedAt": "2026-08-30T12:00:00+09:00",
+      "firstCollectedAt": "2026-08-30T12:08:57+09:00",
+      "updatedAt": "2026-08-30T12:08:57+09:00",
+      "summary": "(주)경동나비엔의 기술자료 관련 하도급법 위반행위 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(주)경동나비엔의 기술자료 관련 하도급법 위반행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdG1VLUhFb0VJODFqcVhqX3pQcndUWE5jbTNiUmlTVkcyVlRkUEdoMG5GLXlYeUg4Q3VSSmd0eGhuRG52eGtoSnBMZFlaUE05WXdmeXl4N1lwZTJRZHRLUjV2Nk1aR2lqVFdDLUxkcUJubjUyTERld1lsUXdRRnJkUWdHcnlfVldiMHZKQ0dFWWZvdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9fc28cef27675f91eb484e1bc66ea2a8f23af7d2d61681013168a9134616cb70"
+    },
+    {
+      "id": "20260830-FR-FBE8EC30-801",
+      "title": "과기정통부, 통신품질 미흡지역 재점검 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-30T12:00:00+09:00",
+      "publishedAt": "2026-08-30T12:00:00+09:00",
+      "firstCollectedAt": "2026-08-30T12:08:57+09:00",
+      "updatedAt": "2026-08-30T12:08:57+09:00",
+      "summary": "과기정통부, 통신품질 미흡지역 재점검 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "과기정통부, 통신품질 미흡지역 재점검 - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFJqYnV6bi1ZTEZrUkdtMlBjOXpZMHBZaXRPMnUtRlRQWTE2ZkViZWpCLTktcDFXUno5V3FLSXJuQUF2WDBmZ1ExbDM5dFJpUmRlZ2RYS0t1ZGwwRXZxUlBSQ2ZudjBFTVBvcG1razNoU25IQ1hLbHBuSXM0M25YbTl5X1duZmZVQWZaeGFZVFh6dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fbe8ec30a064518702b395567793079b4d63d533ed69f952a462fc28cc5ac7cf"
+    },
     {
       "id": "20260828-FR-BCE1F89F-799",
       "title": "IDB Invest, 포스코 아르헨티나 핵심광물 공급망 사업에 대규모 대출 지원 - 대한민국 정책브리핑",
