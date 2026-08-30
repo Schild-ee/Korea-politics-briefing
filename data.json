@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-31T03:45:23+09:00",
-    "nextScheduledUpdate": "2026-08-31T04:15:23+09:00",
-    "collectionStatus": "정상",
-    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
+    "lastSuccessfulUpdate": "2026-08-31T06:53:22+09:00",
+    "nextScheduledUpdate": "2026-08-31T07:23:22+09:00",
+    "collectionStatus": "정상·신규 없음",
+    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-31T03:45:20+09:00",
-      "finishedAt": "2026-08-31T03:45:23+09:00",
+      "startedAt": "2026-08-31T06:53:19+09:00",
+      "finishedAt": "2026-08-31T06:53:22+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 19,
-      "duplicates": 19,
-      "rejected": 178,
-      "rejectedByDate": 177,
+      "fetchedCandidates": 150,
+      "acceptedCandidates": 10,
+      "duplicates": 11,
+      "rejected": 139,
+      "rejectedByDate": 138,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 2,
+      "newIssues": 0,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -34,7 +34,7 @@
           "id": "official_foreign",
           "name": "공식기관 외교안보 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 0,
           "error": ""
         },
         {
