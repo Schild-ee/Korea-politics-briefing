@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-31T06:53:22+09:00",
-    "nextScheduledUpdate": "2026-08-31T07:23:22+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-08-31T09:22:58+09:00",
+    "nextScheduledUpdate": "2026-08-31T09:52:58+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-31T06:53:19+09:00",
-      "finishedAt": "2026-08-31T06:53:22+09:00",
+      "startedAt": "2026-08-31T09:22:55+09:00",
+      "finishedAt": "2026-08-31T09:22:58+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 150,
-      "acceptedCandidates": 10,
-      "duplicates": 11,
-      "rejected": 139,
-      "rejectedByDate": 138,
-      "rejectedByRelevance": 1,
+      "fetchedCandidates": 184,
+      "acceptedCandidates": 26,
+      "duplicates": 22,
+      "rejected": 154,
+      "rejectedByDate": 152,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 8,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -34,7 +34,7 @@
           "id": "official_foreign",
           "name": "공식기관 외교안보 검색 피드",
           "status": "success",
-          "count": 0,
+          "count": 50,
           "error": ""
         },
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 34,
           "error": ""
         },
         {
@@ -64,6 +64,326 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260830-FR-3479B251-815",
+      "title": "이재명 정부의 반미·친중 외교 딜레마가 부른 트럼프 행정부의 거침없는 경고장 -> 동맹국 무차별 겨누는 트럼프의 10대 제재 카드와 한국 경제가 치를 대가 - 데일리머니",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "데일리머니"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-08-30T08:44:29+09:00",
+      "publishedAt": "2026-08-30T08:44:29+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:57+09:00",
+      "updatedAt": "2026-08-31T09:22:57+09:00",
+      "summary": "이재명 정부의 반미·친중 외교 딜레마가 부른 트럼프 행정부의 거침없는 경고장 -> 동맹국 무차별 겨누는 트럼프의 10대 제재 카드와 한국 경제가 치를 대가 데일리머니",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "데일리머니",
+          "title": "이재명 정부의 반미·친중 외교 딜레마가 부른 트럼프 행정부의 거침없는 경고장 -> 동맹국 무차별 겨누는 트럼프의 10대 제재 카드와 한국 경제가 치를 대가 - 데일리머니",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvb19rUWM2OThNdXc5d2FnT0hrZG45ODV3M095OFNySzB1cEVxS2VHVUNNajJ0ZS1rLW5BdW4yYTdQSnplcXlIU0tCNEtQUGYxSEtuZk9YelNEWm1rc0RBRW5wY29ub1hrSGVxY1hBbXVrUQ?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3479b25174e1bdd5d008bf1eb662264c2c1e7553fa39de933542eae4c18efc5f"
+    },
+    {
+      "id": "20260831-FR-4CD3FEDD-811",
+      "title": "제16차 한-중 자유무역협정(FTA) 서비스·투자 후속협상 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T08:44:54+09:00",
+      "publishedAt": "2026-08-31T08:44:54+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:56+09:00",
+      "updatedAt": "2026-08-31T09:22:56+09:00",
+      "summary": "제16차 한-중 자유무역협정(FTA) 서비스·투자 후속협상 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제16차 한-중 자유무역협정(FTA) 서비스·투자 후속협상 개최 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHRLYjhGaUEyN0x5SXd3ZlVleHJITHVnYjlVZ2JUWEV2Q25sMUZob2JCbVFIX21EZ25RZmpuZ056QkVpeXVKOGQyQ1hOeThRRzAtWUo1dlJLN0E3UzJia2VIWDdUNzB3SDdvWnRhcjJ4RXB2OW1tcGNjNmVOWmZ1eG9OTTM4WUNvQTlnWndvenFWdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4cd3feddf544387645666e05e2bcdafb914d61af96ac8104f97aafafa98aa21a"
+    },
+    {
+      "id": "20260831-FR-90E5B540-812",
+      "title": "산업 ODA, 9 월부터 KOTRA 가 관리한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T08:43:12+09:00",
+      "publishedAt": "2026-08-31T08:43:12+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:56+09:00",
+      "updatedAt": "2026-08-31T09:22:56+09:00",
+      "summary": "산업 ODA, 9 월부터 KOTRA 가 관리한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "산업 ODA, 9 월부터 KOTRA 가 관리한다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjJaY21YMTU0R0stRGIxeHNFdWhCbXNzRjJHalFUNmxXUHRWMF9XOHgtOWsyeTJyTTBDSzEwUzAyZHhCTUdqei02T3Z2QldMeVdUQTFNYVFJNmdReEZTVFhKbUduSWRwZFpFNnBPQVFpYzNCODV3ZmxXUnpwa1laZ1EtQ1dISDRTMHczbDNDQVNXdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "90e5b540b925ce27fc33eec0961e227c96eb50b7cfe901dcaeaabf0d89f8234c"
+    },
+    {
+      "id": "20260831-FR-2CB0B82B-813",
+      "title": "기후시민회의 토론회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T09:17:45+09:00",
+      "publishedAt": "2026-08-31T09:17:45+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:56+09:00",
+      "updatedAt": "2026-08-31T09:22:56+09:00",
+      "summary": "기후시민회의 토론회 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후시민회의 토론회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VWE8wUDBGYmFKN3Nva1B6U01xaW0yM3RjM3RiRHlIekZadTRMdldwWWRVLXBRUFpuWk9UYUFzS2dGYWpuMTMyZDBqMnBUa1hDQ1ExM1dxQ2U4aTM2MklOczZNNC1Od2dlQlNOaDEzZ1ZDM2haTWxienVB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2cb0b82b693f09933f19bbaa39c0ba1459a883d3dec9321289b04a0ff86197ab"
+    },
+    {
+      "id": "20260831-FR-7E050395-814",
+      "title": "\"공익 위한 해안산책로에 변상금 6천여만 원?\"… 국유지 대부·매수로 '조정' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T08:41:26+09:00",
+      "publishedAt": "2026-08-31T08:41:26+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:56+09:00",
+      "updatedAt": "2026-08-31T09:22:56+09:00",
+      "summary": "\"공익 위한 해안산책로에 변상금 6천여만 원?\"… 국유지 대부·매수로 '조정' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"공익 위한 해안산책로에 변상금 6천여만 원?\"… 국유지 대부·매수로 '조정' - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeGY1WnVReWFYT1gzU0p0eER1Q2t0VDE3NDgzR1JWNmZyeGR1N2U1aUZXb183U0R1NGljTkNoeE81bDZYQjBpVVUyNVRZN1JIYWZJRGFVVzZPSHJDeEgzcTNfRGZUV1BPSHVaQ3A0MUc0WDl5V20zcHp0NVBnY1lFZ01pdzNIVVBWRXlpdXFoY1pBQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7e0503957582e91d70db05c8f672442dad140948777c479a3ffbf987208f0423"
+    },
+    {
+      "id": "20260831-DP-FB4A3085-808",
+      "title": "공연법·국민체육진흥법 개정 시행 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T08:26:44+09:00",
+      "publishedAt": "2026-08-31T08:26:44+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:55+09:00",
+      "updatedAt": "2026-08-31T09:22:55+09:00",
+      "summary": "공연법·국민체육진흥법 개정 시행 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공연법·국민체육진흥법 개정 시행 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14ZGI0X19YYlJoVWxwZm5SMFVfMW9IWVc5ZkVtNnBmYXZ4UXFObGZQYlZ2UGtpUlJKeW5JZW1LaXFTS1N1N1hUZ1lyOXRmMUtmWDJaQU1jY0hfWF9zblE2OWFVb0pwNVBhcjJyWmgzYlFuY0ZiUEszLTNn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fb4a3085ec0d149b4cd87fc80e9250475eb41a6278f144f56ff74f1ccfd34918"
+    },
+    {
+      "id": "20260831-DP-74F05FAC-809",
+      "title": "\"영업신고와 사업자등록, 한곳에서 한 번에\" 8월 31일부터 원스톱 서비스 전국 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T09:00:00+09:00",
+      "publishedAt": "2026-08-31T09:00:00+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:55+09:00",
+      "updatedAt": "2026-08-31T09:22:55+09:00",
+      "summary": "\"영업신고와 사업자등록, 한곳에서 한 번에\" 8월 31일부터 원스톱 서비스 전국 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"영업신고와 사업자등록, 한곳에서 한 번에\" 8월 31일부터 원스톱 서비스 전국 시행 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLU9NbjhuczAyUldMc1VSa2U2NnpJV04zOTVEcUhRa0czT0hqbTYzSTBqS05XVXlGMWp3MzJlS0t0UGt6NFd2U0tGNF9XVHpqUzZ6SzE5cF82ME1GaGRyZkU4WFRGVHRSVTN2R1lCRDVEemhielctam11OVJTY2VoWkROeEFZeE1UMUNET2l2UG1nZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "74f05fac3e773d6ecbcfbb5febd20dd8ff95b54ee00603a52c983eb29ca24909"
+    },
+    {
+      "id": "20260831-DP-82E2BDBE-810",
+      "title": "지역사랑상품권 5개년 법정 기본계획최초 수립, 지역경제 선순환 이끈다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T09:00:00+09:00",
+      "publishedAt": "2026-08-31T09:00:00+09:00",
+      "firstCollectedAt": "2026-08-31T09:22:55+09:00",
+      "updatedAt": "2026-08-31T09:22:55+09:00",
+      "summary": "지역사랑상품권 5개년 법정 기본계획최초 수립, 지역경제 선순환 이끈다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지역사랑상품권 5개년 법정 기본계획최초 수립, 지역경제 선순환 이끈다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1FJaWdSdHRrZTNuMWpOeXc2SEZWU3pWQ3Q5MlZGd1pvb01ZR3BvYzFrWXRKbTk1MjhENFFCX2lVWEowMi1jdks5bmlLSDZCdS1JTlB4c0FNQllNNE0zVkdNbm5tRml3elpIdkZPekdtTkZxWDdzbnFBeEdZVHlZaFU1dFVCVlI0UWtpUldBM1hEQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "82e2bdbe8cb107c5ccf18f836cf00c0b23034f951f90be795127da6abdd1bf1c"
+    },
     {
       "id": "20260829-FR-9D15FD05-807",
       "title": "산업통상부 정례브리핑 - 대한민국 정책브리핑",
