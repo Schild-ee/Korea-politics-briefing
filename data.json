@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-08-31T22:29:50+09:00",
-    "nextScheduledUpdate": "2026-08-31T22:59:50+09:00",
+    "lastSuccessfulUpdate": "2026-09-01T04:35:12+09:00",
+    "nextScheduledUpdate": "2026-09-01T05:05:12+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-08-31T22:29:46+09:00",
-      "finishedAt": "2026-08-31T22:29:50+09:00",
+      "startedAt": "2026-09-01T04:35:09+09:00",
+      "finishedAt": "2026-09-01T04:35:12+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 30,
-      "duplicates": 32,
-      "rejected": 157,
-      "rejectedByDate": 157,
+      "acceptedCandidates": 31,
+      "duplicates": 34,
+      "rejected": 158,
+      "rejectedByDate": 158,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 10,
-      "updatedIssues": 1,
+      "newIssues": 6,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,376 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260830-DP-A097AE76-806",
+      "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-30T20:36:47+09:00",
+      "publishedAt": "2026-08-30T20:36:47+09:00",
+      "firstCollectedAt": "2026-08-31T00:18:14+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzQwR1FQUVY2Q3FwN3l1eWRaa2VvMjNuRHMzaFJvZ2xReVBIOXBJY0pYNHc0Uk1xUW0yamw0MWdzM19rV1A5TXA0a2h2TWpNUi05am5mMEdqOXNHZW1LVXd4SnkwQjlrSmljTDJJNDVnYjkzRnJzRzBnX3pHOUJVcGtCYldhbksz?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-30",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Tm9Oby1LZDB3ZzBmVWVDa3gzWWluUmRMeHN3TWxZeUxJUU5KdUZFTkhHdEE3NlhMV0p0TVNfQUxiRjNLVVE1Q3hvX25qYjVoaE9sdXl1R1ZVWFlNd1dKeGpyZFlMZTFZc1lXbFhLZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명자료)CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12REw2Mk9VQzI1dU9nc213bkgzQ1FiTVk2Zk84SVU3U01WdGYyZVBlWW9rOGJ3Z1VhWUZLeEhHbmZfMk5IdjIxb3UtM0JQQXdSejNRWFl4bXU5d29hLWZXTm90ejgwYWpiRUxOMkdyMA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명자료)CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUUjkyc0s3RFhlRlFfNHVoQ0VwN3RJai0xVzBKSS0yU0Eyd3haWFRHNXZhLWh1TFJqSkxhVUFpYTk3T1RmZllXOUhMX0d3elBtS2ZEUzgzM0lJN2RBZXBHM3N0RkRLdTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-31T03:45:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-31T14:59:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-01T04:35:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a097ae76d7cc6f86e45de08384f0e32febf7dfa72490fbe5936090dce6c8486e"
+    },
+    {
+      "id": "20260831-FR-63CC4719-826",
+      "title": "징벌록 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T09:31:52+09:00",
+      "publishedAt": "2026-08-31T09:31:52+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "징벌록 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "징벌록 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSkVsN2FsS2xRSEp4R2hOTkd5SnpkUlg4cU9ndnZVV2RiUEJKZU9FNGZKM01NVmhjS1dFR2NCRGp4Q3JJSHlnVENGVjJ3dk4xXy1FV2tqcWtLcm5zamJSQ2hlaFlWY3BtWVExcVJLTk15Tl8xcHdSNzdlRUNWOFhCcEJKTElXRTRnM0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "징벌록 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SRDdXMGVFbmNmU0JFNTZNbjM1UGp3d09GYXFaNGNONndTWURzeXk2emhVLVJnaGtBQ01DYzFOZE5BbGk4S3hVUi1neTVsMU96aVBaZ2dod3VmbUdRb0ZzVGNCeElkOHNXbEh2WA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T04:35:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "63cc47193e01100089ebb07ab9082d843c8718c172df1f0bc700f4381b646ee1"
+    },
+    {
+      "id": "20260831-FR-535178D6-846",
+      "title": "아파트 통합경비용역 입찰 담합 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T19:11:18+09:00",
+      "publishedAt": "2026-08-31T19:11:18+09:00",
+      "firstCollectedAt": "2026-09-01T04:35:10+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "아파트 통합경비용역 입찰 담합 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아파트 통합경비용역 입찰 담합 제재 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTE5RnhmUGc5WUJwaURyZG9nWjNGRGNNZnRmOUQ5RlpzdUYzZ3RnMkRuX2dacWtyejJ4bGkzRkMwR0lDVkdUeldTRkhSM2lib1lJVzNwM2dYNmo2SjNZOFpyaGd2OXd2RklLV0dqS2NNdUU4OEVvV19GU2pDVW9TWXlPLXo2YnRIM2xJ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "535178d682490a2ade87ed518c709d1dc659b1441fb3df8956024973c25956f9"
+    },
+    {
+      "id": "20260831-FR-AAC88CF4-847",
+      "title": "지진 나기 전 '골든타임' 챙기세요! 기상청이 새로 도입한 시스템의 정체 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T10:21:41+09:00",
+      "publishedAt": "2026-08-31T10:21:41+09:00",
+      "firstCollectedAt": "2026-09-01T04:35:10+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "지진 나기 전 '골든타임' 챙기세요! 기상청이 새로 도입한 시스템의 정체 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지진 나기 전 '골든타임' 챙기세요! 기상청이 새로 도입한 시스템의 정체 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HS0ZIam5PT0htWkFVZVd5SWh4b3ljOE5EWUdKZ0FDamljSDg0ZEl4Vk5iSkkyNjRKU3hIOFhzbHZoWVRLcmFzdmptdWZPbnhkYnRuallNQ0RLSGJ3eW55ZGxnWTR6c2tRZ3cxeQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "aac88cf4a1608a9c9e33750585de6da833e45b403111cea2a147bc0a9be9cbed"
+    },
+    {
+      "id": "20260831-FR-C79D6AD4-848",
+      "title": "바람따라 찾아가는 요즘 여행지 익산! 그 안에서 살아가는 백제고도 주민이야기 (with. 알베르토) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T18:18:11+09:00",
+      "publishedAt": "2026-08-31T18:18:11+09:00",
+      "firstCollectedAt": "2026-09-01T04:35:10+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "바람따라 찾아가는 요즘 여행지 익산! 그 안에서 살아가는 백제고도 주민이야기 (with.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "바람따라 찾아가는 요즘 여행지 익산! 그 안에서 살아가는 백제고도 주민이야기 (with. 알베르토) - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qUmxVNHpjM1A5c09majQtb193YTAwdEIxbGlTbXQxOGl4YVBPQW9Nb3BuSHhMLUw2c2FLR2ZmVDNTTk95SmdYVmRXNUdvb2tJQnVJMEZUMjFQNExQZHNwdFhXdG9nQ2U5Q3BMVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c79d6ad414e9544939f5f73f6ddcaf38f49de4a7201b6d1e2c30dbcaad72baaa"
+    },
+    {
+      "id": "20260831-FR-F355B884-849",
+      "title": "여행의학 클리닉의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T19:47:08+09:00",
+      "publishedAt": "2026-08-31T19:47:08+09:00",
+      "firstCollectedAt": "2026-09-01T04:35:10+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "여행의학 클리닉의 모든 것 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "여행의학 클리닉의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LWlBQLVJHakJJZTRXNVdmTUZCcXladllkbGNIb2NCdlhqNnBSV2dOdXhkNUFtZG5lREtsNHF0cU1ZSHpoRXVmLVZaR0p4SlA0R08tZThoWU1YcUV6MWVrU2d5Wi1xVHZMb05tUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f355b884c9ae4e4aeba0d79d0cec09dcabf071dbf420d07e457ae0a01b57a984"
+    },
+    {
+      "id": "20260901-DP-D6874F48-850",
+      "title": "정부 주택공급대책에 따라 과천 경마장 이전을 차질 없이 추진되도록 하겠습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T01:28:23+09:00",
+      "publishedAt": "2026-09-01T01:28:23+09:00",
+      "firstCollectedAt": "2026-09-01T04:35:10+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "정부 주택공급대책에 따라 과천 경마장 이전을 차질 없이 추진되도록 하겠습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부 주택공급대책에 따라 과천 경마장 이전을 차질 없이 추진되도록 하겠습니다. - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45YmdCTE9mOUFfekM5UnVzMzdXNUwtbks5U3Q2cXRuVDN4YUxJR1VhZkk3aUhRQ0xwSHdCZDJyOXVEUEI3djVrV3NCZDBRem9kNmY0NUJQVGxPQ3dwbTloWnA2QjByRXJieF9PTFdzdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d6874f488d77e8d5ad289d6453bb9e393d387acfa76e48432b1251efb3b02033"
+    },
+    {
+      "id": "20260831-FR-54F49BF0-851",
+      "title": "비위면직자 취업제한 관련 현안 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T10:00:00+09:00",
+      "publishedAt": "2026-08-31T10:00:00+09:00",
+      "firstCollectedAt": "2026-09-01T04:35:10+09:00",
+      "updatedAt": "2026-09-01T04:35:10+09:00",
+      "summary": "비위면직자 취업제한 관련 현안 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "비위면직자 취업제한 관련 현안 발표 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82dHBETlg5VlhjdkQycV9DOGtHb05DMzFWMG9Qc3ROM1dYR3NkRE1vblljMkZXVmVJaWtrWnVVRmxTMUtucmRmSVU0N3ZQZTdDODJJLU43QlFIcUxPSE5ySDgyQmh4VTVYX2xjckpnWWM4VmRoRFpj?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "54f49bf05e87404a9eb085c8d742e700e4abc4dc883379b9c9e8bad487047e5a"
+    },
     {
       "id": "20260820-DP-44D45057-481",
       "title": "우리법원 주요판결 - 대한민국 법원",
@@ -541,71 +911,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4743cbfc3bab92b0f95f694a37a3ad03291e9dcf04569d5de7816452bd7a0edf"
-    },
-    {
-      "id": "20260830-DP-A097AE76-806",
-      "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-30T20:36:47+09:00",
-      "publishedAt": "2026-08-30T20:36:47+09:00",
-      "firstCollectedAt": "2026-08-31T00:18:14+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzQwR1FQUVY2Q3FwN3l1eWRaa2VvMjNuRHMzaFJvZ2xReVBIOXBJY0pYNHc0Uk1xUW0yamw0MWdzM19rV1A5TXA0a2h2TWpNUi05am5mMEdqOXNHZW1LVXd4SnkwQjlrSmljTDJJNDVnYjkzRnJzRzBnX3pHOUJVcGtCYldhbksz?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-30",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Tm9Oby1LZDB3ZzBmVWVDa3gzWWluUmRMeHN3TWxZeUxJUU5KdUZFTkhHdEE3NlhMV0p0TVNfQUxiRjNLVVE1Q3hvX25qYjVoaE9sdXl1R1ZVWFlNd1dKeGpyZFlMZTFZc1lXbFhLZw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(설명자료)CPTPP 영향분석 진행 중으로 아직 확정된 수치는 없습니다 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12REw2Mk9VQzI1dU9nc213bkgzQ1FiTVk2Zk84SVU3U01WdGYyZVBlWW9rOGJ3Z1VhWUZLeEhHbmZfMk5IdjIxb3UtM0JQQXdSejNRWFl4bXU5d29hLWZXTm90ejgwYWpiRUxOMkdyMA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-31T03:45:20+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-31T14:59:52+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "a097ae76d7cc6f86e45de08384f0e32febf7dfa72490fbe5936090dce6c8486e"
     },
     {
       "id": "20260731-DP-E6DC234D-054",
@@ -1281,46 +1586,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "1eb25ca66b356fccb206c8c5c56ff11044188da378a83b818cb28c8c0262d2b2"
-    },
-    {
-      "id": "20260831-FR-63CC4719-826",
-      "title": "징벌록 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T09:31:52+09:00",
-      "publishedAt": "2026-08-31T09:31:52+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "징벌록 - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "징벌록 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSkVsN2FsS2xRSEp4R2hOTkd5SnpkUlg4cU9ndnZVV2RiUEJKZU9FNGZKM01NVmhjS1dFR2NCRGp4Q3JJSHlnVENGVjJ3dk4xXy1FV2tqcWtLcm5zamJSQ2hlaFlWY3BtWVExcVJLTk15Tl8xcHdSNzdlRUNWOFhCcEJKTElXRTRnM0E?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "63cc47193e01100089ebb07ab9082d843c8718c172df1f0bc700f4381b646ee1"
     },
     {
       "id": "20260831-FR-9E0ABC49-827",
