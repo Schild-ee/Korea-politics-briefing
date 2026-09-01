@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-01T22:26:17+09:00",
-    "nextScheduledUpdate": "2026-09-01T22:56:17+09:00",
+    "lastSuccessfulUpdate": "2026-09-02T02:25:04+09:00",
+    "nextScheduledUpdate": "2026-09-02T02:55:04+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-01T22:26:13+09:00",
-      "finishedAt": "2026-09-01T22:26:17+09:00",
+      "startedAt": "2026-09-02T02:25:01+09:00",
+      "finishedAt": "2026-09-02T02:25:04+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 59,
-      "duplicates": 53,
-      "rejected": 135,
-      "rejectedByDate": 133,
+      "duplicates": 59,
+      "rejected": 136,
+      "rejectedByDate": 134,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 8,
-      "updatedIssues": 4,
+      "newIssues": 3,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,232 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260901-DP-439E0CBA-880",
+      "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:57:57+09:00",
+      "publishedAt": "2026-09-01T16:57:57+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-02T02:25:02+09:00",
+      "summary": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcks0eldjV20yb1ktMDM2bzk1Rm9DZlhwZEl0TTd5RmdFTk9kZ19xSWlHT0wySENQajhNdWVJdlRjYi14NmJkRmdSc3ZfaEtyT1BGT2tzSDJsdjBfWENQVnpVN2VRVDJsbXZZTXJLUHV1R0t2OFpjNzZuZGtsdk5mWGxrdy03VXl6QzZZQg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWHMyWVRVdWJLM2U2Uk1va1FTNUZkbG1qSVQzV2R2ak9IczNCTWs1cWFEYmtWY3o5NGdRSy1JbXI2RzFEM2xoVmN0NTJlN0MyTDIxUUZ4MTFidE1RM0lVWDloVnNiN1VUVkxjS2doZ21iOFp1YTlTMUR6Sm1uMjdXSjNPT2JOSFV6WlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-02T02:25:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "439e0cba20f7500ca5efc294f3e3b3a08e56bd2eb333f7536a982b232f60fbc6"
+    },
+    {
+      "id": "20260829-FR-BEBFE1CA-790",
+      "title": "[보도자료] 기후시민회의 토론회 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-29T15:13:28+09:00",
+      "publishedAt": "2026-08-29T15:13:28+09:00",
+      "firstCollectedAt": "2026-08-29T16:08:44+09:00",
+      "updatedAt": "2026-09-02T02:25:02+09:00",
+      "summary": "[보도자료] 기후시민회의 토론회 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 기후시민회의 토론회 - 대한민국 정책브리핑",
+          "date": "2026-08-29",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0sxSmZHU0ZhNF9JSm9FeHRNeEZxdXc3WkpYNVpMSmpXZ1M5RXJUei0weTVEYkZGTkU2czR1YkNnRmt2YWpOTFVYVzhqVzM2ekVaQVhyZTRLVGppV0ZiMHEyYlpTYzJjbEF6WkhMdi1mVUM2Qk5BZWY2NEc1SVM3YzI4UVNCRjN5UnZCeE14NjV2dTlZ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후시민회의 토론회 개최 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9oUXZDcW50eDhtRnJNOFp2cDBGVkpCQi15VjVwd2ljUkFIVjNRNDR6WnB3bXpWRXJYTUhTMVFKbUZ6eVBxODEzU1NpZjR4SURuNi05bFZJcllGUmZXempQcWVFdHBYdDZZYk9TWlNTWE5ZLTlQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-02T02:25:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bebfe1cab123447579878f9b996c0ffab64aff37246419268e651414a904a022"
+    },
+    {
+      "id": "20260901-DP-35E00211-888",
+      "title": "[9.1.국무회의 의결 이후] 질병청, 2027년도 예산안 1조 4,347억원 편성 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T15:33:45+09:00",
+      "publishedAt": "2026-09-01T15:33:45+09:00",
+      "firstCollectedAt": "2026-09-02T02:25:02+09:00",
+      "updatedAt": "2026-09-02T02:25:02+09:00",
+      "summary": "[9.1.국무회의 의결 이후] 질병청, 2027년도 예산안 1조 4,347억원 편성 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[9.1.국무회의 의결 이후] 질병청, 2027년도 예산안 1조 4,347억원 편성 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT1gxQTQ1TXRPSkFldnRrZ1lmSHZ5OWtyaEtrYmFPd1FpMVpHQ3ZhbG9HQm50dGVpbWdJdFlHbVhxWUxfZGFLMGk2Z3NhZkhrUE5aQjA3dnBNcEZwVHhmeVBGeEk1S3dhVV9fRTVzSmFSQWpvMU5fTmptYUpyc1VCWXM1UEktMU1vLWpaT2gtSHZzUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "35e00211a7e77540d7a362eb5f45fea8cb1316f669de5e45b9e28e6fd39d0475"
+    },
+    {
+      "id": "20260831-DP-D12448B7-889",
+      "title": "송미령 농식품부 장관, 농어촌 기본소득 지급하는 진안군 현장 방문 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T14:00:00+09:00",
+      "publishedAt": "2026-08-31T14:00:00+09:00",
+      "firstCollectedAt": "2026-09-02T02:25:02+09:00",
+      "updatedAt": "2026-09-02T02:25:02+09:00",
+      "summary": "송미령 농식품부 장관, 농어촌 기본소득 지급하는 진안군 현장 방문 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "송미령 농식품부 장관, 농어촌 기본소득 지급하는 진안군 현장 방문 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rUGZlZ2hSY1lFbGV1a3VUbUpsQWpuWFNDcFdHR1RTQTFnLVY3azA3TFZMNXlabE1kZmlDTlJMbVpVZ3lpZWdaMk9UOG9lcVRXRENYQ21ZLVlaMkR6M0o4cTJaRmxBcURTdWx6d3dfdno3c21M?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d12448b7ca5e979bbc151cf71116c1f7e27fd9ff6ed46c3072e02606945ff754"
+    },
+    {
+      "id": "20260831-FR-63508315-890",
+      "title": "광주 군 공항 이전, 무엇이 달라질까요? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T12:47:44+09:00",
+      "publishedAt": "2026-08-31T12:47:44+09:00",
+      "firstCollectedAt": "2026-09-02T02:25:02+09:00",
+      "updatedAt": "2026-09-02T02:25:02+09:00",
+      "summary": "광주 군 공항 이전, 무엇이 달라질까요? - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "광주 군 공항 이전, 무엇이 달라질까요? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HY3E2MlowN1F3MHJLZkw4UmRWaXh4YTkyZGZHcXkxN1FtZDhKODlHUk1RQnZVSl9CVDhTeUFnUE16RnJzYzlBcGdMaXQyYkNSSGJJLXRRekpUYktfYjJ3R1VsX3JjdURmcVI5VXlR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "635083150b117b57ea8c2d3813fbb0e4aced164c8b69e77f1c960eafc1d4aa57"
+    },
     {
       "id": "20260901-DP-9DCC9761-861",
       "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
@@ -311,46 +537,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "604db28b7235537b0d90017851acd28ef98c976b3a3df2b7d62da6fc5ed704ef"
-    },
-    {
-      "id": "20260901-DP-439E0CBA-880",
-      "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-01T16:57:57+09:00",
-      "publishedAt": "2026-09-01T16:57:57+09:00",
-      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
-      "updatedAt": "2026-09-01T22:26:14+09:00",
-      "summary": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcks0eldjV20yb1ktMDM2bzk1Rm9DZlhwZEl0TTd5RmdFTk9kZ19xSWlHT0wySENQajhNdWVJdlRjYi14NmJkRmdSc3ZfaEtyT1BGT2tzSDJsdjBfWENQVnpVN2VRVDJsbXZZTXJLUHV1R0t2OFpjNzZuZGtsdk5mWGxrdy03VXl6QzZZQg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "439e0cba20f7500ca5efc294f3e3b3a08e56bd2eb333f7536a982b232f60fbc6"
     },
     {
       "id": "20260901-DP-92935C75-881",
@@ -5107,46 +5293,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "77ac7cb8a80eec9fcd84162a332c91d85e3c0655f0be9bb1ab2fe5f8542b7550"
-    },
-    {
-      "id": "20260829-FR-BEBFE1CA-790",
-      "title": "[보도자료] 기후시민회의 토론회 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-29T15:13:28+09:00",
-      "publishedAt": "2026-08-29T15:13:28+09:00",
-      "firstCollectedAt": "2026-08-29T16:08:44+09:00",
-      "updatedAt": "2026-08-29T16:08:44+09:00",
-      "summary": "[보도자료] 기후시민회의 토론회 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[보도자료] 기후시민회의 토론회 - 대한민국 정책브리핑",
-          "date": "2026-08-29",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0sxSmZHU0ZhNF9JSm9FeHRNeEZxdXc3WkpYNVpMSmpXZ1M5RXJUei0weTVEYkZGTkU2czR1YkNnRmt2YWpOTFVYVzhqVzM2ekVaQVhyZTRLVGppV0ZiMHEyYlpTYzJjbEF6WkhMdi1mVUM2Qk5BZWY2NEc1SVM3YzI4UVNCRjN5UnZCeE14NjV2dTlZ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "bebfe1cab123447579878f9b996c0ffab64aff37246419268e651414a904a022"
     },
     {
       "id": "20260828-FR-31815463-791",
