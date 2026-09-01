@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-02T02:25:04+09:00",
-    "nextScheduledUpdate": "2026-09-02T02:55:04+09:00",
+    "lastSuccessfulUpdate": "2026-09-02T05:07:16+09:00",
+    "nextScheduledUpdate": "2026-09-02T05:37:16+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-02T02:25:01+09:00",
-      "finishedAt": "2026-09-02T02:25:04+09:00",
+      "startedAt": "2026-09-02T05:07:13+09:00",
+      "finishedAt": "2026-09-02T05:07:16+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 59,
-      "duplicates": 59,
-      "rejected": 136,
-      "rejectedByDate": 134,
+      "acceptedCandidates": 57,
+      "duplicates": 60,
+      "rejected": 139,
+      "rejectedByDate": 136,
       "rejectedByRelevance": 2,
-      "rejectedAsCommentary": 0,
-      "newIssues": 3,
-      "updatedIssues": 2,
+      "rejectedAsCommentary": 1,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260831-FR-157F9645-891",
+      "title": "2026여수세계섬박람회 최종점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T08:26:44+09:00",
+      "publishedAt": "2026-08-31T08:26:44+09:00",
+      "firstCollectedAt": "2026-09-02T05:07:15+09:00",
+      "updatedAt": "2026-09-02T05:07:15+09:00",
+      "summary": "2026여수세계섬박람회 최종점검 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026여수세계섬박람회 최종점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xVkVXdWlwbVB0cmV1VlkwMXozZU5ZNDBKeS16OS0tTW9iZ3lxV3I2MkVDZXRJa2piWGRHdjJCeHk4Q01HVDBvMHNaMnJJMG9vVDdMd0c3dEpfeEtCUG1pbnpWS19lZFE0b3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "157f9645a626cdca5a88c73fbab0548f343193c4b7c82b578aadc1a1a10c5e23"
+    },
     {
       "id": "20260901-DP-439E0CBA-880",
       "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
