@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-02T05:07:16+09:00",
-    "nextScheduledUpdate": "2026-09-02T05:37:16+09:00",
+    "lastSuccessfulUpdate": "2026-09-02T07:33:15+09:00",
+    "nextScheduledUpdate": "2026-09-02T08:03:15+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-02T05:07:13+09:00",
-      "finishedAt": "2026-09-02T05:07:16+09:00",
+      "startedAt": "2026-09-02T07:33:11+09:00",
+      "finishedAt": "2026-09-02T07:33:15+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 57,
-      "duplicates": 60,
-      "rejected": 139,
-      "rejectedByDate": 136,
+      "acceptedCandidates": 59,
+      "duplicates": 58,
+      "rejected": 137,
+      "rejectedByDate": 134,
       "rejectedByRelevance": 2,
       "rejectedAsCommentary": 1,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,6 +65,246 @@
   },
   "issues": [
     {
+      "id": "20260831-DP-7E77B3A0-892",
+      "title": "정부는 외식물가 안정을 위해 농산물 가격안정에 최선을 다하고, 업계와의 소통을 강화하겠습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T18:03:42+09:00",
+      "publishedAt": "2026-08-31T18:03:42+09:00",
+      "firstCollectedAt": "2026-09-02T07:33:13+09:00",
+      "updatedAt": "2026-09-02T07:33:13+09:00",
+      "summary": "정부는 외식물가 안정을 위해 농산물 가격안정에 최선을 다하고, 업계와의 소통을 강화하겠습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부는 외식물가 안정을 위해 농산물 가격안정에 최선을 다하고, 업계와의 소통을 강화하겠습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wT0xEUmFOSzNxbkR0Z3JVOWd6WjZyTmt5TUpTeXV1VkhBX3lPRjlrSkRhRDRJdHZMTmEtdE9qZUttbzgyNFdrdGE3Y3ZOVExvaGNYS1FqSEZpZHpzNmFleWQ2QWhQaHB3WDlRcFV0TQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7e77b3a05c531f1b8d6ae7c5eb948e9770e14f067c283e62357787bc1e02337b"
+    },
+    {
+      "id": "20260831-FR-45799966-893",
+      "title": "고유가·엔저 속 일본인 해외여행지 1위 '한국'…역대 최고치 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "일본"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T17:48:58+09:00",
+      "publishedAt": "2026-08-31T17:48:58+09:00",
+      "firstCollectedAt": "2026-09-02T07:33:13+09:00",
+      "updatedAt": "2026-09-02T07:33:13+09:00",
+      "summary": "고유가·엔저 속 일본인 해외여행지 1위 '한국'…역대 최고치 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "고유가·엔저 속 일본인 해외여행지 1위 '한국'…역대 최고치 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tUjR3MXRNZy1Mc0JxaHZxenNIZ3FFNGFRTGNVdk9fUXp1YVhlT3V0R3J5OWxYVXNCQ29IbTc3RUxrdkRsSk9CRVlrV0xnQVIxUkdubUxJa1hOcGZNdGhYWlVzTWpydlE0TzBsdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4579996684be6159335cc93d69afaf5cedc4353c6472108842b2153a099616be"
+    },
+    {
+      "id": "20260831-DP-A3C87FB5-894",
+      "title": "서대문형무소·국립대한민국임시정부기념관에서 본 독립열사들의 위대한 혼 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T19:26:49+09:00",
+      "publishedAt": "2026-08-31T19:26:49+09:00",
+      "firstCollectedAt": "2026-09-02T07:33:13+09:00",
+      "updatedAt": "2026-09-02T07:33:13+09:00",
+      "summary": "서대문형무소·국립대한민국임시정부기념관에서 본 독립열사들의 위대한 혼 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "서대문형무소·국립대한민국임시정부기념관에서 본 독립열사들의 위대한 혼 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkUkd4SmFYVlRtaG54dDgxV0dRZXJOYU1oZVFWRU9KRFhjM0lsYlpmUFdjRXBZRUlkQVJxTmYzdmxSbVg5TVpOX3dSczRIS21RZjA5cjlRQVNxeTRYRllreHFkWWJ4M2JzSVE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a3c87fb5da2a4c964edcef53183d4045ac3f9a659bf8f9728f0416bfdd3273d3"
+    },
+    {
+      "id": "20260901-DP-439E0CBA-880",
+      "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:57:57+09:00",
+      "publishedAt": "2026-09-01T16:57:57+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-02T07:33:12+09:00",
+      "summary": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcks0eldjV20yb1ktMDM2bzk1Rm9DZlhwZEl0TTd5RmdFTk9kZ19xSWlHT0wySENQajhNdWVJdlRjYi14NmJkRmdSc3ZfaEtyT1BGT2tzSDJsdjBfWENQVnpVN2VRVDJsbXZZTXJLUHV1R0t2OFpjNzZuZGtsdk5mWGxrdy03VXl6QzZZQg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWHMyWVRVdWJLM2U2Uk1va1FTNUZkbG1qSVQzV2R2ak9IczNCTWs1cWFEYmtWY3o5NGdRSy1JbXI2RzFEM2xoVmN0NTJlN0MyTDIxUUZ4MTFidE1RM0lVWDloVnNiN1VUVkxjS2doZ21iOFp1YTlTMUR6Sm1uMjdXSjNPT2JOSFV6WlE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwS09OLTlRTkItYUc1VHQ5TV92ZnFTSzR0d0RnX3UzRDU4czZza05nZThMS0FHdG5xYUpTMUR1ay1zRXdzMTJ4QV8tRzJTX1R1eGFEQU9vMWJOM3pzbWhiMW8wQi1UZDBNQkdYVw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-02T02:25:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-02T07:33:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "439e0cba20f7500ca5efc294f3e3b3a08e56bd2eb333f7536a982b232f60fbc6"
+    },
+    {
+      "id": "20260901-DP-92935C75-881",
+      "title": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T17:37:30+09:00",
+      "publishedAt": "2026-09-01T17:37:30+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-02T07:33:12+09:00",
+      "summary": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVlDOXJuRGF6NlRYNlZ4OGdDWENCWGNoNVhUMENSLU1TNWFGUXJzeTNHZi0yS21JR0VtTnlZVzYtdDN4RzRueGxyckpqdDhZR0wxdEdCNWRudHBPb2FjZ1JHQkd6Uk5LeS1RVU1UZjFfdWUzbmgyeXRhTTFicENvYVFSX3hJQzQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vNWdDRXVSTTc2UnRuajFLMkZ0U3NqSzdvX2RtT2RvakVrWEEtTWVBZTdxc1phSWpMei10ekQ0Z3hvRGdXU1M2c3N5UHBZeDM5bkl6VE1yNnpHWnpyck9jNGloM0FRRkt5Mmc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-02T07:33:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "92935c750fcc7b0182ef4544d46be9fe1c8def8be376824b1df0529af738b400"
+    },
+    {
       "id": "20260831-FR-157F9645-891",
       "title": "2026여수세계섬박람회 최종점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -103,59 +343,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "157f9645a626cdca5a88c73fbab0548f343193c4b7c82b578aadc1a1a10c5e23"
-    },
-    {
-      "id": "20260901-DP-439E0CBA-880",
-      "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-01T16:57:57+09:00",
-      "publishedAt": "2026-09-01T16:57:57+09:00",
-      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
-      "updatedAt": "2026-09-02T02:25:02+09:00",
-      "summary": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcks0eldjV20yb1ktMDM2bzk1Rm9DZlhwZEl0TTd5RmdFTk9kZ19xSWlHT0wySENQajhNdWVJdlRjYi14NmJkRmdSc3ZfaEtyT1BGT2tzSDJsdjBfWENQVnpVN2VRVDJsbXZZTXJLUHV1R0t2OFpjNzZuZGtsdk5mWGxrdy03VXl6QzZZQg?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWHMyWVRVdWJLM2U2Uk1va1FTNUZkbG1qSVQzV2R2ak9IczNCTWs1cWFEYmtWY3o5NGdRSy1JbXI2RzFEM2xoVmN0NTJlN0MyTDIxUUZ4MTFidE1RM0lVWDloVnNiN1VUVkxjS2doZ21iOFp1YTlTMUR6Sm1uMjdXSjNPT2JOSFV6WlE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-02T02:25:02+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "439e0cba20f7500ca5efc294f3e3b3a08e56bd2eb333f7536a982b232f60fbc6"
     },
     {
       "id": "20260829-FR-BEBFE1CA-790",
@@ -577,46 +764,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "604db28b7235537b0d90017851acd28ef98c976b3a3df2b7d62da6fc5ed704ef"
-    },
-    {
-      "id": "20260901-DP-92935C75-881",
-      "title": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-01T17:37:30+09:00",
-      "publishedAt": "2026-09-01T17:37:30+09:00",
-      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
-      "updatedAt": "2026-09-01T22:26:14+09:00",
-      "summary": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVlDOXJuRGF6NlRYNlZ4OGdDWENCWGNoNVhUMENSLU1TNWFGUXJzeTNHZi0yS21JR0VtTnlZVzYtdDN4RzRueGxyckpqdDhZR0wxdEdCNWRudHBPb2FjZ1JHQkd6Uk5LeS1RVU1UZjFfdWUzbmgyeXRhTTFicENvYVFSX3hJQzQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "92935c750fcc7b0182ef4544d46be9fe1c8def8be376824b1df0529af738b400"
     },
     {
       "id": "20260901-DP-BC6D8A4C-882",
