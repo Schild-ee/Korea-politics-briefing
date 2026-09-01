@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-01T16:40:33+09:00",
-    "nextScheduledUpdate": "2026-09-01T17:10:33+09:00",
+    "lastSuccessfulUpdate": "2026-09-01T22:26:17+09:00",
+    "nextScheduledUpdate": "2026-09-01T22:56:17+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-01T16:40:28+09:00",
-      "finishedAt": "2026-09-01T16:40:33+09:00",
+      "startedAt": "2026-09-01T22:26:13+09:00",
+      "finishedAt": "2026-09-01T22:26:17+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 57,
-      "duplicates": 40,
-      "rejected": 131,
-      "rejectedByDate": 130,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 59,
+      "duplicates": 53,
+      "rejected": 135,
+      "rejectedByDate": 133,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 20,
-      "updatedIssues": 9,
+      "newIssues": 8,
+      "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,574 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260901-DP-9DCC9761-861",
+      "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T14:42:45+09:00",
+      "publishedAt": "2026-09-01T14:42:45+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "2026년 세제개편안 정부안 확정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2djcG9SRlBSQUZfcFlLZjBjd0lWdng5SExoZXZ6TURhb3RmUEpYc2ptOEpJdGlVVnFrN0xneDVTZ2dERVdXX0JESGMybXYtdjJnTzJRTnhWX3h5SDMtTGkyM2FydklERWh3a2ItbVBqUUZic1ZEd2hWNDk1MzlhcE5JSEpLRkRpa001M0tVOEpqZkpO?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlR3VFhFb1ZHSWw4eC0xNE1vd3luVi00QmFtQ3FBSXdyd2lKUkl3a1M5UElQbWY3T3ZWbmRUSWtUV0l3Y2JDR08wdFpSbGk4bmxwUjZBMmk1aG9Qd3A0RGdNYi00d2MwMzZxMUFsS2pMWVpKT01PSTZ4VWR5aUlxNnMtemNWSWM3TGtQU3NhZG9IZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T22:26:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9dcc9761b4380cabe3581a1c9eb6ebd51c6296a58048e4da145509f9f7f38b7a"
+    },
+    {
+      "id": "20260831-FR-4743CBFC-845",
+      "title": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T06:00:00+09:00",
+      "publishedAt": "2026-08-31T06:00:00+09:00",
+      "firstCollectedAt": "2026-08-31T22:29:47+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUQ0MGhBNHN3b0hZRUJiUHFwaURNN3FfeGZiamFCLVRteWR1QXppUlhTMU10VHdnTWJQczY0Z1ZRdHFwcG04cVJmbU5IYzdEaThzZmVCY2RZNDFzR0VIdzRZUmtWbkdIRXNwRlJkRmNwcWtGNUdpdnJiYkRFRTZJSzNQaVYyRHdpdVcyemxNRzY3dw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13cGlTcXB4QmtkcGZiaXZLN2VrVG42M1ZGdUZxS09JQ1BnWmlnd0E0Wmd3MGZyeFNlTWkwYkF5d2psMkpzeXgwMjVSRzhyazdlaEU4aXc4S1otdTVINzNyaWhFQXNMcUJhYUp6VjFlN0VIOGRu?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T22:26:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4743cbfc3bab92b0f95f694a37a3ad03291e9dcf04569d5de7816452bd7a0edf"
+    },
+    {
+      "id": "20260804-DP-27838018-124",
+      "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:24:00+09:00",
+      "publishedAt": "2026-08-04T16:24:00+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "제34회 국무회의 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNW5ad1Z1eHYybDdUbmpmeGZvV0Z1ejM1R21yc2ZvazF1aGdRdFlvVEdudWJiM0ZSSWFQYXdHVGRIRFBwdi1vS1pwU3ZHTDlSU3BQd1ZiT2pkVDgtTWUtcUV4aHYybkY4ZlNaUlBoc0hGcDdh?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제35회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDhqdUJfaEFZX3RqX2dTcWV3ZWEwZWxDNEh0OXo2UWFROFBVeWd3OUlfX3VlS0RjMGNBNGRSR25sc0R1TW0yX1AweTNQSDBNZUxiS255UzZmWllkYVBxMjRvSDFCRGVZek5DczJRMm9ZcVg0?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제37회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTB5T1M4UGlwbnByZ3ZNOS11MTYwV3B6RUdmemdFLUFEUlcwSnUwWWpmME9TV0VkSEMtSXNobERXTl8zU1ZFZ0F6bmp0dmhFZWJ3bXJEZmFMVGxadExfWlJWX1NnLTlicElSZkxIV2g4QkQ0Nm9jLWRDRlNhZ05QaVp6NGFheUJIUk5tb2VTb19Pdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제38회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93UlZ6TDBxNFRzRkJ6b2UtMmExbVFEb1N0RHhES3ZDWkRGXzVOczFvZlRqRTF4U2tEWmUxdHNjemVoRlhxSWZaQmc5azBiN3pzeVM5d3VCQTFxUzNMc2JMcThtZk4ySFQ4eGRhTjdsLXlqcHVR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-11T17:15:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-26T04:46:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-01T22:26:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "278380188e956ca19c9675fbd90abad5f4a73d87a05b18743c51f4a09875eb7e"
+    },
+    {
+      "id": "20260804-DP-604DB28B-109",
+      "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T17:15:44+09:00",
+      "publishedAt": "2026-08-04T17:15:44+09:00",
+      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91NmR3SUNoUE1HQnlqVUNKcEJRU3hoMFpKM3JzOVZJdy1rbFY0alJ5SVFTbnRUcjJIdGZZM0F2VjZ1QmhsdzlRU2tMMXZtV2FJWEItM1pNaEtxdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 청와대",
+          "title": "제35회 국무회의 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRkl2Y1hsMk5USVpVazVLR21vZi1yeTJtbElwc2wyUlZfQjBQQnNoeHhrcXpqT3MwZ0w0cE9LTmRZbXhuemctS2hWcGpMOFJMdERKS3hqVnhFZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 청와대",
+          "title": "제38회 국무회의 결과 관련 강유정 수석대변인 브리핑 - 대한민국 청와대",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiUENlNFVSYW44N3YydkRWQjhULUtJd0JiWjVBSDZwWlB3ZjJILUJYbTZqajAtMU5WNjNudWY1NTc1clFMcUJ2WFZKU3BBZWNsVnR6S3RwWE9zUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T00:44:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-01T22:26:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "604db28b7235537b0d90017851acd28ef98c976b3a3df2b7d62da6fc5ed704ef"
+    },
+    {
+      "id": "20260901-DP-439E0CBA-880",
+      "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:57:57+09:00",
+      "publishedAt": "2026-09-01T16:57:57+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청탁금지법 10년, 우리 삶은 어떻게 달라졌을까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcks0eldjV20yb1ktMDM2bzk1Rm9DZlhwZEl0TTd5RmdFTk9kZ19xSWlHT0wySENQajhNdWVJdlRjYi14NmJkRmdSc3ZfaEtyT1BGT2tzSDJsdjBfWENQVnpVN2VRVDJsbXZZTXJLUHV1R0t2OFpjNzZuZGtsdk5mWGxrdy03VXl6QzZZQg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "439e0cba20f7500ca5efc294f3e3b3a08e56bd2eb333f7536a982b232f60fbc6"
+    },
+    {
+      "id": "20260901-DP-92935C75-881",
+      "title": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T17:37:30+09:00",
+      "publishedAt": "2026-09-01T17:37:30+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"진짜 사람 아니야?\" 확 바뀐 AI 가상인물 광고 표기 의무화 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVlDOXJuRGF6NlRYNlZ4OGdDWENCWGNoNVhUMENSLU1TNWFGUXJzeTNHZi0yS21JR0VtTnlZVzYtdDN4RzRueGxyckpqdDhZR0wxdEdCNWRudHBPb2FjZ1JHQkd6Uk5LeS1RVU1UZjFfdWUzbmgyeXRhTTFicENvYVFSX3hJQzQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "92935c750fcc7b0182ef4544d46be9fe1c8def8be376824b1df0529af738b400"
+    },
+    {
+      "id": "20260901-DP-BC6D8A4C-882",
+      "title": "조달청 맞춤형서비스 시설공사, 더 안전하고 튼튼하게 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T10:00:44+09:00",
+      "publishedAt": "2026-09-01T10:00:44+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "조달청 맞춤형서비스 시설공사, 더 안전하고 튼튼하게 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조달청 맞춤형서비스 시설공사, 더 안전하고 튼튼하게 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbF9UN2ZYUGxPblgwZmo1RnVxcnowVXFoSFpvbDZGNnNSMjR6blpOYktpSGJMWV9HMjZNcENoYURjZVkyU294UDEzNm5uOWVlMndlUXlmZ3htcFRudDMzT3lCUnFrQXlmUlUxVW05YzFWcU8zcXpsRzVVbDFhWWxTOUVtT1RXVmRhOVBwbEtHRndxZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bc6d8a4c0c7da47ce7bd06aaf3c8497e4eb972df79eea2741d6e7bd494bec9fb"
+    },
+    {
+      "id": "20260901-FR-1C587EF7-883",
+      "title": "한-브라질 정상회담 결과 관련, 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T17:37:30+09:00",
+      "publishedAt": "2026-09-01T17:37:30+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "한-브라질 정상회담 결과 관련, 강유정 수석대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-브라질 정상회담 결과 관련, 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Gd1RfLWl4VGYzb0dEczB6aFNFQV9CVlVOYzJUUDRhSlJLYzQtRERXNnZENTV6d0NRS3Y2aDk2V1VMcDdVZHVwV18tdVNIOFlLNVJHcVVGRmZQS1RLcl9DQ044UzVLMXhySkdtSA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1c587ef71bf483245d0151b6f64057ff6a4b8df72ec85ab1e066a70b8d31d348"
+    },
+    {
+      "id": "20260901-DP-77C28C57-884",
+      "title": "제조 AI전환·메가프로젝트 총력 지원…예산 두 배 이상 ↑ - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T18:31:04+09:00",
+      "publishedAt": "2026-09-01T18:31:04+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "제조 AI전환·메가프로젝트 총력 지원…예산 두 배 이상 ↑ 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제조 AI전환·메가프로젝트 총력 지원…예산 두 배 이상 ↑ - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UMkViYVlLU3JfUkVuN0M1Yy0wX3RXd3Rha1dOYzAzR3NLZzZlZGlQX3JZTmtnbktaSjM1YU9zUTJEd1M4Vm5LUHBwT1JTNlJIcWltZUR5alJXOG9mUU1hRHVRLWR5NGU0ci16Rg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "77c28c572c5541eaaca3b7e1a72f903b81a83df085ad4b13b4eeb8616a1c36d6"
+    },
+    {
+      "id": "20260831-FR-F17C684B-885",
+      "title": "예술 통해 정신질환 편견 걷어낸다 '정신건강의 날' 기념 초대전 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T12:05:00+09:00",
+      "publishedAt": "2026-08-31T12:05:00+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "예술 통해 정신질환 편견 걷어낸다 '정신건강의 날' 기념 초대전 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "예술 통해 정신질환 편견 걷어낸다 '정신건강의 날' 기념 초대전 개최 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hVWF0WWFKYl9sMmNoS3JHWkhBMDd5QllZeXFWdUF1dnRRTmdiaXhGcWFQTmdGZGJ1a2lqX1ZWSVRyajVRcEpGUWVIZlk5ZlBFejJ1aWl3Ti0tZXItemdfQjRWbU5EMXQwUWxINk14SWZ3N1Nf?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f17c684b7bb8e9f6cc66da4d20de2d20442002f8f469d953c00f90b1a9ee46a1"
+    },
+    {
+      "id": "20260831-FR-D3BED138-886",
+      "title": "농작업 안전 수칙, 큰 글씨·그림으로 더 쉽고 더 가까이 전한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T10:36:42+09:00",
+      "publishedAt": "2026-08-31T10:36:42+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "농작업 안전 수칙, 큰 글씨·그림으로 더 쉽고 더 가까이 전한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농작업 안전 수칙, 큰 글씨·그림으로 더 쉽고 더 가까이 전한다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhcks2M2lNZTJvUU9jZ2VFeFZCSkRWNG52TEFjcm1kNkkya1ExVVlPNURtZDlBZEFyeXVWZkZpLWN3TFYzdTRhMXdxUzQ0ZndCeVc5VDFuNGZYeUdlOGpBR1dqdkJlOWw0Q1ZISUJLdzQtdHlI?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d3bed138b0feb7e716707c6bfc46c617e02ef4df050bb3e3a440096cb192baf5"
+    },
+    {
+      "id": "20260831-FR-0281F8CE-887",
+      "title": "건설근로자공제회, 한국세무사회와 「건설노동자 무료 세무 상담」 업무협약 체결 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T15:34:43+09:00",
+      "publishedAt": "2026-08-31T15:34:43+09:00",
+      "firstCollectedAt": "2026-09-01T22:26:14+09:00",
+      "updatedAt": "2026-09-01T22:26:14+09:00",
+      "summary": "건설근로자공제회, 한국세무사회와 「건설노동자 무료 세무 상담」 업무협약 체결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "건설근로자공제회, 한국세무사회와 「건설노동자 무료 세무 상담」 업무협약 체결 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oVWhaY3Nkb2lqRmVwaVJwUGw5OGJ0YU5qX2FfR3BiUmFfb0tSeUpJSEZHY2RxOWtiUVExbVgtUUZ4NXpWclR1M2VZTUxFZFQ0NUxjd19yS1p2dkpOZk84dDNoX3A3WmtFaTk4WkxiRlFDSzJl?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0281f8ceaed2a80ff3d955a4a146fab2ea122b91c92a1e0dcffb102947930486"
+    },
     {
       "id": "20260831-FR-0A58BDCF-840",
       "title": "한-네팔 외교장관 통화(8.31.) 결과 - 대한민국 정책브리핑",
@@ -1194,46 +1762,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9047ccab44e2f3deedfdba8af7e39a01b17fa76cb9aefe23fab1dfe68fa3a5e7"
-    },
-    {
-      "id": "20260901-DP-9DCC9761-861",
-      "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-01T14:42:45+09:00",
-      "publishedAt": "2026-09-01T14:42:45+09:00",
-      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
-      "updatedAt": "2026-09-01T16:40:29+09:00",
-      "summary": "2026년 세제개편안 정부안 확정 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2djcG9SRlBSQUZfcFlLZjBjd0lWdng5SExoZXZ6TURhb3RmUEpYc2ptOEpJdGlVVnFrN0xneDVTZ2dERVdXX0JESGMybXYtdjJnTzJRTnhWX3h5SDMtTGkyM2FydklERWh3a2ItbVBqUUZic1ZEd2hWNDk1MzlhcE5JSEpLRkRpa001M0tVOEpqZkpO?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9dcc9761b4380cabe3581a1c9eb6ebd51c6296a58048e4da145509f9f7f38b7a"
     },
     {
       "id": "20260901-DP-16583051-862",
@@ -2602,46 +3130,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "7ed545e7ed792fbabfc820ad4dd8a1f1c8aef2297bc1485b0b7ea79a7fda6e84"
-    },
-    {
-      "id": "20260831-FR-4743CBFC-845",
-      "title": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T06:00:00+09:00",
-      "publishedAt": "2026-08-31T06:00:00+09:00",
-      "firstCollectedAt": "2026-08-31T22:29:47+09:00",
-      "updatedAt": "2026-08-31T22:29:47+09:00",
-      "summary": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "23개국 공무원, 한자리에 모여 온실가스 보고 역량 키운다 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUQ0MGhBNHN3b0hZRUJiUHFwaURNN3FfeGZiamFCLVRteWR1QXppUlhTMU10VHdnTWJQczY0Z1ZRdHFwcG04cVJmbU5IYzdEaThzZmVCY2RZNDFzR0VIdzRZUmtWbkdIRXNwRlJkRmNwcWtGNUdpdnJiYkRFRTZJSzNQaVYyRHdpdVcyemxNRzY3dw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4743cbfc3bab92b0f95f694a37a3ad03291e9dcf04569d5de7816452bd7a0edf"
     },
     {
       "id": "20260731-DP-E6DC234D-054",
@@ -9816,71 +10304,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "7e29f31580c69d68e8cff9a52a84f42e011814368cc3b8bdd3837ba22b33790a"
-    },
-    {
-      "id": "20260804-DP-27838018-124",
-      "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T16:24:00+09:00",
-      "publishedAt": "2026-08-04T16:24:00+09:00",
-      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
-      "updatedAt": "2026-08-26T04:46:27+09:00",
-      "summary": "제34회 국무회의 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNW5ad1Z1eHYybDdUbmpmeGZvV0Z1ejM1R21yc2ZvazF1aGdRdFlvVEdudWJiM0ZSSWFQYXdHVGRIRFBwdi1vS1pwU3ZHTDlSU3BQd1ZiT2pkVDgtTWUtcUV4aHYybkY4ZlNaUlBoc0hGcDdh?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제35회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDhqdUJfaEFZX3RqX2dTcWV3ZWEwZWxDNEh0OXo2UWFROFBVeWd3OUlfX3VlS0RjMGNBNGRSR25sc0R1TW0yX1AweTNQSDBNZUxiS255UzZmWllkYVBxMjRvSDFCRGVZek5DczJRMm9ZcVg0?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제37회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTB5T1M4UGlwbnByZ3ZNOS11MTYwV3B6RUdmemdFLUFEUlcwSnUwWWpmME9TV0VkSEMtSXNobERXTl8zU1ZFZ0F6bmp0dmhFZWJ3bXJEZmFMVGxadExfWlJWX1NnLTlicElSZkxIV2g4QkQ0Nm9jLWRDRlNhZ05QaVp6NGFheUJIUk5tb2VTb19Pdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-11T17:15:19+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-26T04:46:27+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "278380188e956ca19c9675fbd90abad5f4a73d87a05b18743c51f4a09875eb7e"
     },
     {
       "id": "20260825-DP-7D8D54F1-683",
@@ -27757,59 +28180,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "25410a1b47b05789e465edc561d4bb3073202675f8fc064a6e195346e14cf725"
-    },
-    {
-      "id": "20260804-DP-604DB28B-109",
-      "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T17:15:44+09:00",
-      "publishedAt": "2026-08-04T17:15:44+09:00",
-      "firstCollectedAt": "2026-08-05T01:25:21+09:00",
-      "updatedAt": "2026-08-13T00:44:03+09:00",
-      "summary": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "제34회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91NmR3SUNoUE1HQnlqVUNKcEJRU3hoMFpKM3JzOVZJdy1rbFY0alJ5SVFTbnRUcjJIdGZZM0F2VjZ1QmhsdzlRU2tMMXZtV2FJWEItM1pNaEtxdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 청와대",
-          "title": "제35회 국무회의 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRkl2Y1hsMk5USVpVazVLR21vZi1yeTJtbElwc2wyUlZfQjBQQnNoeHhrcXpqT3MwZ0w0cE9LTmRZbXhuemctS2hWcGpMOFJMdERKS3hqVnhFZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-13T00:44:03+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "604db28b7235537b0d90017851acd28ef98c976b3a3df2b7d62da6fc5ed704ef"
     },
     {
       "id": "20260812-DP-5F1CB7CB-284",
