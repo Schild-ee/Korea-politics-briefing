@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-01T11:00:32+09:00",
-    "nextScheduledUpdate": "2026-09-01T11:30:32+09:00",
+    "lastSuccessfulUpdate": "2026-09-01T16:40:33+09:00",
+    "nextScheduledUpdate": "2026-09-01T17:10:33+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-01T11:00:29+09:00",
-      "finishedAt": "2026-09-01T11:00:32+09:00",
+      "startedAt": "2026-09-01T16:40:28+09:00",
+      "finishedAt": "2026-09-01T16:40:33+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 39,
-      "duplicates": 42,
-      "rejected": 148,
-      "rejectedByDate": 148,
-      "rejectedByRelevance": 0,
+      "acceptedCandidates": 57,
+      "duplicates": 40,
+      "rejected": 131,
+      "rejectedByDate": 130,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 6,
-      "updatedIssues": 4,
+      "newIssues": 20,
+      "updatedIssues": 9,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-08-31T17:26:53+09:00",
       "publishedAt": "2026-08-31T17:26:53+09:00",
       "firstCollectedAt": "2026-08-31T22:29:47+09:00",
-      "updatedAt": "2026-09-01T11:00:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
       "summary": "한-네팔 외교장관 통화(8.31.) 결과 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -102,11 +102,76 @@
           "date": "2026-08-31",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM1Q0ZUJDOWY3RjRRTTlva1Z1RlpxLXRaU0NiSW9yMlNXTTNrU0JlVUxfUmlPQUFwTjFhVGFFYlZZN2hUS2I0UXBxVEdPakdNV2tYbFpTakxjcnBqblVmLTJvUVJrTlNOZ3ZhWV9VRmI1MERGYWVQVzZYZjR4X3VKUkVVQjEzNXhQazJSNTdxTnNjUQ?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-네팔 외교장관 통화(8.31.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Pd0p2THBaMHpVdk13NV9xa3EzUUdVWjFHVGsxV2M3SExKNF9VUlFDc2RON2gzXzZ1eXFzZUdRSzFtN0pzOVdUMXN1c0oxLWc5Ulc4V2pKVGhYWWNHVkJ1TW1EMVZnUDBkakQyZmNrdFd2ZzVt?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
         {
           "updatedAt": "2026-09-01T11:00:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0a58bdcf728466489c3f8836d8922e8ee9da8e5a46d546b57fc60ac0010a216a"
+    },
+    {
+      "id": "20260831-FR-630215ED-819",
+      "title": "\"재외동포가 바꾸고 싶은 제도, 직접 제안해 주세요\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T13:40:14+09:00",
+      "publishedAt": "2026-08-31T13:40:14+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "\"재외동포가 바꾸고 싶은 제도, 직접 제안해 주세요\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"재외동포가 바꾸고 싶은 제도, 직접 제안해 주세요\" - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpkOW5sQlRtOFFHSUgzUGVFMm13VFdZdUpiYUhiNktVM0NkOWFvZVdBTmdIZnllZW9RalFmc0ZlSzY4cW9pTG5McFFXY0JwcTJHRVVTQWVvSkphMEpNX1l0T0xDRk0zN19UbXhVcUVLYlFfMndSNXpJVjBZZEJENWJMUGhXNEs3MmhXQ3lzOTdmQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"재외동포가 바꾸고 싶은 제도, 직접 제안해 주세요\" - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aYWd5dlQ5YWZ4M2MtU2wxYjhDZThNNHRsRFFPV2gxTGlaUFhWRWxpRTNJREpKbkhpUTRpWUw1WEF6VXhhWHVERmp4aGkyVVEtZEdlMWxPSFZRbXRobkQyREt2S2R0QkFwUW9DeWNyaU1Xa2V0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
         }
@@ -115,7 +180,1180 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "0a58bdcf728466489c3f8836d8922e8ee9da8e5a46d546b57fc60ac0010a216a"
+      "contentHash": "630215ed1b7f049357372b9c7772604aa4b0b3f1d59bd1128fa79fc192745432"
+    },
+    {
+      "id": "20260831-FR-C2081FAC-820",
+      "title": "공공공사 참여 페이퍼컴퍼니...입찰보증금 몰수로 강력 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T10:50:15+09:00",
+      "publishedAt": "2026-08-31T10:50:15+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "공공공사 참여 페이퍼컴퍼니...입찰보증금 몰수로 강력 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공공공사 참여 페이퍼컴퍼니...입찰보증금 몰수로 강력 제재 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHU0VEhpcElyNG4tZVZWZ0pGRmhhdThrdG5KWWUtbTdjWU1FQ0ozQ0NYOENzV0lpUllKV0tQQ2I4TklQVlB4OFJUYnAyTWlhbmpYZ3JBU3ZXTmFINFVmTHdqa2dfeUc0ZDlKZWdzR3RaVDlnWURaMUU5cVR5WmZROTNVam83S0NKbUNYTWZrS1U2UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공공공사 참여 페이퍼컴퍼니...입찰보증금 몰수로 강력 제재 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0OENUWWY1VE9XZjRBWXJua3BVSHl0eFRxN1RmM0NqcVBjLWc0eXFRZE9DN2xiQWM4dF9LNmNvSTViazN5VEJvWGpiZzl6eVMzV1JfbXRSa21wUEoxbkRDVm92d29OWnlzZjFBVGJla2RTYi12?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c2081facd9bfd73e91865242d4642f3894d26671195fa18784af35e9931cc8b0"
+    },
+    {
+      "id": "20260831-FR-A3D4A886-821",
+      "title": "「한-영 자유무역협정(FTA)」 개선 협정문 한글본 공개 및 국민의견 접수 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T11:18:57+09:00",
+      "publishedAt": "2026-08-31T11:18:57+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "「한-영 자유무역협정(FTA)」 개선 협정문 한글본 공개 및 국민의견 접수 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「한-영 자유무역협정(FTA)」 개선 협정문 한글본 공개 및 국민의견 접수 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMDR2XzhEWnliUG5kcy03X1JZTTBHaHVSc09Eal9TaVNfWUM4VmkxSXVIYWVTRWp2OE9WN1Rzb3VST05weC1tRXZHVEt3TXJucjNEYzlFN1MwYVA1Wnh0ZGo0dHBLWlA2MndVdEpUR2M5RkNTdVdMVFVocXFWbUVTTFJXVDk2bUJOUnZtOFRPcnpIVUZR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「한-영 자유무역협정(FTA)」 개선 협정문 한글본 공개 및 국민의견 접수 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aUXV6MEFBU1gxNDh3RXc3ZXZzb0dvbzhkMVRNZFA0UnVBa2IwTVZFcEpRbUZvLVRJQWZnSGVYRklCR3lveDZKUjMwNHMwZXRZZUpPSHgwbXFyeWZGanpRdHNSbDFsNmVYa0txRzIzS3RCcEtv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a3d4a88681c558c970f71566c7ea24d5a6a081a9a1f81b84cc24b90e780d2ce8"
+    },
+    {
+      "id": "20260831-FR-FE06EE4A-823",
+      "title": "녹색성장과 글로벌 목표 2030을 위한 연대(P4G) 2026년 국가플랫폼 회의 서울 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T11:03:47+09:00",
+      "publishedAt": "2026-08-31T11:03:47+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "녹색성장과 글로벌 목표 2030을 위한 연대(P4G) 2026년 국가플랫폼 회의 서울 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "녹색성장과 글로벌 목표 2030을 위한 연대(P4G) 2026년 국가플랫폼 회의 서울 개최 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlhpQ0JZaUplSnZ4WnVSM0FKTlZ4ZHZJQzlMUERXclhCM2RvVHE0LVQtb0tTQTByaW5Vd2ppOFRYYUgzcnlpdkcyWjRCZ01rc3l1Q3VNLWJhcjVkOEpGTDNFYVpmalItYjBPRHBOdHJfajV0bnVKYWdzcUxDbzI0RTQtTU5Zd1pjZTBpa1ZUM2ZUQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "녹색성장과 글로벌 목표 2030을 위한 연대(P4G) 2026년 국가플랫폼 회의 서울 개최 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44ejNkLTQ5clcyYzAzd2xvOXRsZGZOaFNoRC1PRmNicVNnT1ZGZTcwU1UwOVhENUxuMWl2N3JFT2xDV0JSYXBHRWhZY25va3AxbW0tOS1SSjE2Qm54TDRRN3JUc0FEN0pjSXlzSFkzZkF5ZGVi?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fe06ee4aa0dbe8480f4968ab39ec52e0e95cf9c7f181c82a3d0dc1dd4f46a6b7"
+    },
+    {
+      "id": "20260831-FR-9DBAD54F-824",
+      "title": "암표 장사 더는 안 통합니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T09:51:05+09:00",
+      "publishedAt": "2026-08-31T09:51:05+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "암표 장사 더는 안 통합니다 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "암표 장사 더는 안 통합니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3BTQ0lJMGZ6SXZCSHIwRGE0alFfTFBqeXJVTXJkZHk5Y3FZUkluOWp5UWlvVmM4ZE5lMnNENWdwZFpTUmNNa1JLaG9mYmxRWkJUVUxFbjRxSVE4eHpFNkxwT3E5WHVsV1JPRkgwWGNud2NrZkQxRUp1WGFUQ185eUo3dkNvWlhucXRB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "암표 장사 더는 안 통합니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54R3B5UWJSY0xrUDNhVnZwcnRtLXZONzVRQWNNYUw1d3I5LU5sd0E4MG5uX3laZFIzdDU3QmthRkxxUGRubUZQdzIyWnZqOFU5X2d1OUJraDlZLThrc3FoV21EZ2VwX1pHa21iNmtR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9dbad54f4fbb7206467a1597647a34127bd8ab6cb67980f04c5c7be3c48d2d4b"
+    },
+    {
+      "id": "20260831-DP-1EB25CA6-825",
+      "title": "서해 NLL 불법조업 근절 범정부 총력 대응 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T14:15:00+09:00",
+      "publishedAt": "2026-08-31T14:15:00+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "서해 NLL 불법조업 근절 범정부 총력 대응 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "서해 NLL 불법조업 근절 범정부 총력 대응 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUNCZUE0bV8zNkRBUzlqODZUWVdpMC1xZXEtMURkUnhQQVB4NUFybWpMUTRDVWxWeHoxZFFVbmJjMXpwUW52MExYdEtUVXAwc3pXNHczbllkYmRmd3dvcHBVN0JZVFJ0VE14TkU2NlRxbEltMjVsNHFXc3RaR0sySEhxbEVKMkVUdUhN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "서해 NLL 불법조업 근절 범정부 총력 대응 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiejhXNC04b081Q1djd25UMGotSjluUDJWQW9SeFJ6RWNSX2k5QWh6TXI4ZkFyMEVIUWpQdF8wMU1iUGtvUl9hYVVMMW5HQ1FQYUlPSkVUUU91bTlmNThBU1VFSFdldDlCczhFZ2dn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1eb25ca66b356fccb206c8c5c56ff11044188da378a83b818cb28c8c0262d2b2"
+    },
+    {
+      "id": "20260831-FR-620E6E1D-830",
+      "title": "기업 생존의 열쇠인 기술과 지식재산 보호, 이렇게 지키세요! - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T10:09:58+09:00",
+      "publishedAt": "2026-08-31T10:09:58+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "기업 생존의 열쇠인 기술과 지식재산 보호, 이렇게 지키세요!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기업 생존의 열쇠인 기술과 지식재산 보호, 이렇게 지키세요! - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWQ2dndpVHZWR0VZWDd1dHpuNV9NSVJiY1dONXBrb2xxbFJLclBHRWJ2UkMzUDlyZmRDcDVVdDk0RjVyWTBGZGd4dkRqSHZsZFJYcWhWY2hFNnVRUUVPdUhOWWR5YklFMTAxVzc1TFNEQUtGeGhYTHF4bFhOUGktYklvT1ZxVFdLa0NacktTcHk3QQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기업 생존의 열쇠인 기술과 지식재산 보호, 이렇게 지키세요! - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10YndXVWZBRFJZMHRUQVlEc29CcHJBcUZzVHFoMW1hWVoxZ01lTmF1T3hSVWk4R1QwemxQZWotQ0poLWNHcWo3dXBGX2xQZFhIWXU0SzQyUUppNmJvWDQ1azFYc0hHVlZTTE9HSTFjNXp3X3RK?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "620e6e1d437aa447b9ce22f643cf057e1eddcad770b72e95ad681e0ae8da0c59"
+    },
+    {
+      "id": "20260901-DP-0FED20AB-865",
+      "title": "동포 목소리 예산에 담아… 2027년 재외동포청 예산안 1,369억원 편성 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T15:26:33+09:00",
+      "publishedAt": "2026-09-01T15:26:33+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "동포 목소리 예산에 담아… 2027년 재외동포청 예산안 1,369억원 편성 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "동포 목소리 예산에 담아… 2027년 재외동포청 예산안 1,369억원 편성 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNal9zU2tLUU8wb2xmMzJCUG1UY0t3MkNUOUFFQ2QybnBpb1pQNGlEak4xb29QdVBHcHdScWthaXNIajh0NFJ1Y0xLVUpVOGJyUkVZSHBoRVRITU1La0tiNHRrTXpKTnV5V1hzZUgxYmhWMEtWOXpIWHR1US1UY2wzQ0w5LV9aQmQtYUU2cHRFX2t2UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0fed20aba3371dbefb07c10aa52890428a85a87d57e1569951442272eafab0ae"
+    },
+    {
+      "id": "20260901-DP-64BF0D4B-866",
+      "title": "2027년 외교부 예산안 국회 제출 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T12:33:01+09:00",
+      "publishedAt": "2026-09-01T12:33:01+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "2027년 외교부 예산안 국회 제출 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2027년 외교부 예산안 국회 제출 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeXVVemh1X01SNnd1R0VtdVZtUHhRNGhsTTB1Rld1R21HaXNJQTFVYXhhcE43ZzZERXkyZTVUNjAtQjNydHBrMmd2UmNCUVhDaEE5NVh4eHVHWlhFZEFNVkpaZUxCM3pkWVhRZGg0VS16SEsyQkdvYXAtRk0tZjlxdVMzOWZ4LUJnWkRtQVl5U2RIeUhLeWlINTV5NnNxSEREN0lfVmJtaWV6aUtqZUJQTVVDTkVrNmVOdXhUYWdCWVBxMDdXekR4NF9BNTRkWnkzV2hhd01zX2FLTEZ2bDNzSmt2UFZLd2dTXzl3X0d0WQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "64bf0d4bb5772c3d9daae6eaa68049afebefd25ef62c850dfaa76f3bd27552d8"
+    },
+    {
+      "id": "20260901-FR-6AAC2955-867",
+      "title": "2027년 산업통상부 예산 역대 최대 편성! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T15:35:37+09:00",
+      "publishedAt": "2026-09-01T15:35:37+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "2027년 산업통상부 예산 역대 최대 편성! - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2027년 산업통상부 예산 역대 최대 편성! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNUxKbWU1QWFEMkZESlQwWHlFRlJ0Rmt3bmFMeGh6VUllUTFud3ZvY1dIV1Bxd2NxaGVjTVFzb3d4REk5d0lHYTl4QnQxeGZZZnFEb0t5bi1QRVk0RzZxMV81WUdmdjYxeHR5ckFNaUw2Wnp4RVNDYUloNkJSS0RKSkZ6cUNQMHJKUTUw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6aac295561db4a13d5ce38ba954eeb0b91ad053655a6423cb284fd9c2bd0f7a5"
+    },
+    {
+      "id": "20260901-FR-508149D4-868",
+      "title": "[보도자료] 2026년 제4차 민원합리성 검토위원회 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T13:53:43+09:00",
+      "publishedAt": "2026-09-01T13:53:43+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "[보도자료] 2026년 제4차 민원합리성 검토위원회 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 2026년 제4차 민원합리성 검토위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWjQ3aHVzWmx3cjdoaVhSVnJKYTE4V2doY1IxTjZzX1d4dG1yUGlBRkZySEF0blZweFRqR0F5c2hUYzk5VjM0SDRNcC1qNjhwYzRpRE5seU83S1FCM0Fha3VMODFXQlRMN0xONFlEeGVOV1ZaRmhTWUJyTjFNYmhWWmgzZUQyWU5PUy0tam5wRVBKTk91MTlqZDk0Z21xMFRHZC12RUYzS2gtYVk4dFZzYWtLd0Z1aVAzV2M3T1pJenM2ZUFzeHF3RmZvX1FrY1plSWZ1TGpidXQ0Szh4QlVtdEo0Ml8tMHEtRzV0VVBPZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "508149d4f8c6928c455b532e0e271937ce1800089f657c754cb6785c1d3ac103"
+    },
+    {
+      "id": "20260831-FR-B7256613-869",
+      "title": "권역별 성장엔진 육성을 위한 첨단산업 특성화 대학원 선정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T08:44:10+09:00",
+      "publishedAt": "2026-08-31T08:44:10+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "권역별 성장엔진 육성을 위한 첨단산업 특성화 대학원 선정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "권역별 성장엔진 육성을 위한 첨단산업 특성화 대학원 선정 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Oc01yeHhXczcyeHdXcUxQREJFNlBzd2dYZlFfR3FIOU1LcUNkWTFWc0p0WjZTVkgtZ3NYbU9hTVFSU0xHNXFCaGNzUzRqb0hTek1PRjJlOEpuV1h3THNJZ3NwT1RIWUZ4NUVtLU5mZ2xmVUxY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b72566135b7aea5632d7f86553e2139cab67723215d7ed947b6c0d91103caf66"
+    },
+    {
+      "id": "20260901-DP-0AA66D14-870",
+      "title": "농식품부, 2027년 정부 예산안 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T13:00:00+09:00",
+      "publishedAt": "2026-09-01T13:00:00+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "농식품부, 2027년 정부 예산안 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농식품부, 2027년 정부 예산안 발표 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iNGZRQTA1VWVRWDNGOXg4QnpyQU80bG9aMzJYX2kwUk5GcjhWajRSakFYZUR0Q3gxX3g2VUNDZFNiMW8wYmpwQmZlQUJiZUdwRC1CeVMwMHA5T1hORXBNWmh2alFWQlNQQ1lIY1RtOXhFM3NZYlBF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0aa66d14b051fda606b8f3d18f9a8d43299bb6525d53fe576e3efdc1287a3039"
+    },
+    {
+      "id": "20260901-FR-2D9A4C44-871",
+      "title": "내년 '모두의 창업' 2만 명…모태펀드 출자 1.3조 원, 역대 최대 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:30:00+09:00",
+      "publishedAt": "2026-09-01T16:30:00+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "내년 '모두의 창업' 2만 명…모태펀드 출자 1.3조 원, 역대 최대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년 '모두의 창업' 2만 명…모태펀드 출자 1.3조 원, 역대 최대 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JWW9pSlRRYUdPLXA3ZEVtSVFyZkJ5U2VmdVh0QUJqSExuRjdiWTRqRnJoRzZFT3JXdFMteGQ0R21BbWlQTUtoRDFmM3AtNE50eFMtejBMa19ObzEzdmhVVGZ5cjlTTnp2M0xsYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2d9a4c44fb18c5e5146777a15e5ebf8a9d42edffe16790d4c09b1b1d592b486a"
+    },
+    {
+      "id": "20260901-DP-897DC4A4-872",
+      "title": "중기부 '27년 예산안 18조 724억 원으로 역대 최대 규모 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T13:54:05+09:00",
+      "publishedAt": "2026-09-01T13:54:05+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "중기부 '27년 예산안 18조 724억 원으로 역대 최대 규모 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중기부 '27년 예산안 18조 724억 원으로 역대 최대 규모 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTGE5RVg1c3ZIcXJHRUp0WUczYU00eGNhMlh6aERzM0lWYWRTUGtWX2tnZUJwUVJ3NWJabFpNeXhwQ3VsWV8yZVBFX2FNdUxveWhxTW9RZGJsaFU1cnRsVVViY0xfeXZjWFZfa0t1QzR5aHZNQVhFZ0R3aUVYNmJwU2dLTWRDZGVWWHdRSmpyR2xwdG5iTUlvaEVHdXFCNXo5OUtGZ3hpdzZrSm9wRE1nWGlVaTdURDh6MngyM3dxR05Mc0t3bnNSSTUxZW5sZG82cElXMllHUW44dXo4aVFHeHptNTMxSUFKYnB1TEtlUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "897dc4a4713f4af602b71465cf1dafb1cf1ed2ca77fe9ebc085261e0e7788b04"
+    },
+    {
+      "id": "20260901-FR-CF99FE90-873",
+      "title": "[설명자료] 지방 거점국립대에 대한 교육비 투자는 지속적으로 확대되고 있습니다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T15:01:25+09:00",
+      "publishedAt": "2026-09-01T15:01:25+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "[설명자료] 지방 거점국립대에 대한 교육비 투자는 지속적으로 확대되고 있습니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[설명자료] 지방 거점국립대에 대한 교육비 투자는 지속적으로 확대되고 있습니다 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jREw2Z3c4VFhEeHdKS2RfRHZiSWUzcXpPYmlfc2NOQ2RMZkZUWUxSVTdwaWZDQ3R6Vi1teWJ0aFU0NkZpMmdnLXJFbUNoajI0U0tYQXlYSzhOaUY5d19QU214X056aHdraHRwRHlHcw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cf99fe90d700d510d9898c62a5fb45ad09324f724b7d8f48dbb46ea02d37b76e"
+    },
+    {
+      "id": "20260831-DP-D809A30A-874",
+      "title": "[보도자료] 한성숙 국무총리 주재 전남광주통합특별시 지원위원회 위촉식 및 회의 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T18:25:41+09:00",
+      "publishedAt": "2026-08-31T18:25:41+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "[보도자료] 한성숙 국무총리 주재 전남광주통합특별시 지원위원회 위촉식 및 회의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 한성숙 국무총리 주재 전남광주통합특별시 지원위원회 위촉식 및 회의 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HQkFGU1V3U29STHB0cVQtNGY4eEtKbzFUYnUzU1dYeGVfbTNaVl94QmtHZGtMalBYRi10M2hLZE1pZ2RSZ0hqT3lDUVFLeHNzSElGS2ZSNmN4ZWl4YXozS3J2OW1odEZXaGFnY0dNTExvSTlM?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d809a30a0dbb7c642aed5643db27769c1a3a7e132ee5b18daed9554ebb4716a9"
+    },
+    {
+      "id": "20260901-FR-BAD56F35-875",
+      "title": "AI시대를 움직이는 데이터의 가치 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T04:45:44+09:00",
+      "publishedAt": "2026-09-01T04:45:44+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "AI시대를 움직이는 데이터의 가치 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "AI시대를 움직이는 데이터의 가치 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNWNIZXRYTk5vZG9VaWx4WTZ3Sm16el9WdVNmWjhOeGhjWXMybUtQMXBjTm9Ed3V6TlBqeEZNSWtpMDNUcWMzR3B3N2plaW9yOGhlY0otLTl4enFEdzBSeExiNHFtUGM3dFNyNTZn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bad56f3520c4d2452051a4b7c382c712b1a864583824f9d7b0368151b351c25d"
+    },
+    {
+      "id": "20260831-FR-BF4301FE-876",
+      "title": "「모두의 AI」 프로젝트 참여 사업자 선정 결과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T15:32:56+09:00",
+      "publishedAt": "2026-08-31T15:32:56+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "「모두의 AI」 프로젝트 참여 사업자 선정 결과 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「모두의 AI」 프로젝트 참여 사업자 선정 결과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuSXBQaDZuZzBZRXRweFFzUDE4Nk56cTBRSTBYajQ3UmlhaFh4MWZOOVUwc3k0TU95M1pKby1mZ05WcjJMa0JHN0lTbmdlVHRFX013ZEFKQmlXYk84VXh4RmVqMkVZUmp0WHJOVTJn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bf4301fe2fd5894ea7f603eb168ac3e0d9967ef3c3d68961c686bd48f776891f"
+    },
+    {
+      "id": "20260831-FR-6D697142-877",
+      "title": "새만금청, '중대재해 제로' 달성 위한 안전보건 경영방침 선포 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T14:20:14+09:00",
+      "publishedAt": "2026-08-31T14:20:14+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "새만금청, '중대재해 제로' 달성 위한 안전보건 경영방침 선포 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "새만금청, '중대재해 제로' 달성 위한 안전보건 경영방침 선포 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Wa0hjTE1JcjdEUmFkaVh6SU5SdU1PSWpsRVZaRFpUb3JrUE5uMVUzenZ6UFRRY3k0RWlFUWVieGl3dkk2ZjQ1N3RtSWEwQ0U5dUFJcVJzSEg3Sml6eHB4OGtGeVhjM2pBNEg1alhNd0RiYWdy?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6d697142b0fd687934f98fdf2f89184380bf5d2791b823eb2ae7ce8b3864d0f5"
+    },
+    {
+      "id": "20260831-FR-732ABE54-878",
+      "title": "한국농수산대학교-일신하이폴리(주), 청년농업인 육성과 스마트 농업 발전 위해 손잡아 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T13:00:00+09:00",
+      "publishedAt": "2026-08-31T13:00:00+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "한국농수산대학교-일신하이폴리(주), 청년농업인 육성과 스마트 농업 발전 위해 손잡아 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국농수산대학교-일신하이폴리(주), 청년농업인 육성과 스마트 농업 발전 위해 손잡아 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2aGV0NGpfbGNVQkU0V2ZLWHUwYkZrU0R1NVpxV1daazItS3hjN2xCazFlX0FlOEdHZk9fVjBleXQ0RWZzLUIwci0xMmF4QW1Yc2hNYXBQTmxobGNaS2w3ZVdzOHhhVzA1NjhaZEpOWmM4UFZk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "732abe5410f498e66b82d368364a9b3ea5e23824a7e02a2f13d508214cb2c4f4"
+    },
+    {
+      "id": "20260831-FR-7230F82C-879",
+      "title": "건축물 모듈러 공법 공급체계 혁신 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T13:23:56+09:00",
+      "publishedAt": "2026-08-31T13:23:56+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:30+09:00",
+      "updatedAt": "2026-09-01T16:40:30+09:00",
+      "summary": "건축물 모듈러 공법 공급체계 혁신 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "건축물 모듈러 공법 공급체계 혁신 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45TEJPOUNDeFFpY1lseXczb3dRdXh3Y09mNko5R1hGZGRBRXU0YzRCUldnQWpIbVJDQlh1Y0dqMzRhLWt0R2pjbnZIbmdxNnhjcU9fTXJkT2NXQ1M0bHpqaUI3QWM1QjA5VUNBS213?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7230f82c39e3ec5cd59cec81e21b8178d35d6560dadcbfac8fea223d1c329cf9"
+    },
+    {
+      "id": "20260831-DP-2A8A72EF-816",
+      "title": "위기임신보호출산제 시행 2년, 전국 현장 종사자 한자리에 모인다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T13:56:06+09:00",
+      "publishedAt": "2026-08-31T13:56:06+09:00",
+      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
+      "updatedAt": "2026-09-01T16:40:29+09:00",
+      "summary": "위기임신보호출산제 시행 2년, 전국 현장 종사자 한자리에 모인다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "위기임신보호출산제 시행 2년, 전국 현장 종사자 한자리에 모인다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWm1nOUdoUHVyQThBbUhaN3pfb1hhSTdHdy16VmpJb2U3YXVMSzJQZWZYSGVLSjktdG8xVHlXdXBlT3RYX2FjREQtNXduRDU4XzNoX2JiV0xLaUhmXzR2Uk5fMkE1Vkk0RXRrdElKR0NDemlPU0FSd012bkpYZFlmdWtVbWVwdV9aaVZJR3Jyd1BBQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "위기임신보호출산제 시행 2년, 전국 현장 종사자 한자리에 모인다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KajhiRFpqM2JaaG1oUkFhLTBBNUVITy1ncGRINkRQcV83cG43R1hQbkZrV3huSk5vMWJsbGFWR21IVklPaElyQ3JON1JOR0IyaHJXVVFUbklNNE9WNGFoYkhUdjVXVXBEa3ZWdHhyRFppR1p4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T16:40:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2a8a72ef4c1b835a7574d49a1b6beceb3d901681c94e12e5abcb91894c8f30f9"
+    },
+    {
+      "id": "20260901-DP-9047CCAB-860",
+      "title": "국가지식재산위원회 위원장 지명 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:04:32+09:00",
+      "publishedAt": "2026-09-01T16:04:32+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
+      "updatedAt": "2026-09-01T16:40:29+09:00",
+      "summary": "국가지식재산위원회 위원장 지명 관련 강유정 수석대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국가지식재산위원회 위원장 지명 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wU0ljWlBob3UwWmpEUlI5NGEzeTB4T2Q0M0ltQU5ER2JMdHptWV9hR2l2ZGhhY0JzdTZSYVNnNjlJblZmTjQ1dnh4V2w1RHhkVEV4V2NneFNFdGRFYWRISHN1VlFNY05uMGtWTlhTNzA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9047ccab44e2f3deedfdba8af7e39a01b17fa76cb9aefe23fab1dfe68fa3a5e7"
+    },
+    {
+      "id": "20260901-DP-9DCC9761-861",
+      "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T14:42:45+09:00",
+      "publishedAt": "2026-09-01T14:42:45+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
+      "updatedAt": "2026-09-01T16:40:29+09:00",
+      "summary": "2026년 세제개편안 정부안 확정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2djcG9SRlBSQUZfcFlLZjBjd0lWdng5SExoZXZ6TURhb3RmUEpYc2ptOEpJdGlVVnFrN0xneDVTZ2dERVdXX0JESGMybXYtdjJnTzJRTnhWX3h5SDMtTGkyM2FydklERWh3a2ItbVBqUUZic1ZEd2hWNDk1MzlhcE5JSEpLRkRpa001M0tVOEpqZkpO?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9dcc9761b4380cabe3581a1c9eb6ebd51c6296a58048e4da145509f9f7f38b7a"
+    },
+    {
+      "id": "20260901-DP-16583051-862",
+      "title": "이 대통령 \"내년 예산, 초격차 선도국가 도약 디딤돌…국민 삶 변화 마중물\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T14:26:15+09:00",
+      "publishedAt": "2026-09-01T14:26:15+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
+      "updatedAt": "2026-09-01T16:40:29+09:00",
+      "summary": "이 대통령 \"내년 예산, 초격차 선도국가 도약 디딤돌…국민 삶 변화 마중물\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"내년 예산, 초격차 선도국가 도약 디딤돌…국민 삶 변화 마중물\" - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JLTM0RXE2Y0d4ZnIxQmlmQmNrY0xDUU5ENmVKTlZfYjVJQURwSDEtWkZWVHBJOEhfYWZLS0VyS3Vya3pMbnk5YnpWTm8yYm1zeVVEUmh6bk9vS1lDenpMaTh5YkViT2VwVkN3bA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "16583051cc4e1b15afb27655a1b35c29bed314eb1794da8fd9172a0d67accf2b"
+    },
+    {
+      "id": "20260901-DP-75283A64-863",
+      "title": "내년 예산안 820.9조 원, 역대 최대…162조 미래대응기금 신설 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:00:00+09:00",
+      "publishedAt": "2026-09-01T16:00:00+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
+      "updatedAt": "2026-09-01T16:40:29+09:00",
+      "summary": "내년 예산안 820.9조 원, 역대 최대…162조 미래대응기금 신설 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년 예산안 820.9조 원, 역대 최대…162조 미래대응기금 신설 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUcwaVpGNXVaLS1oSDJZZEw0X3EwYm95bXRWLWlMbGhyS2hVS0QzZFp4QWFsMEUwNXRITElYMkRfbmNkR01CX1VmT053ajFZS21RdkpMZ3ZscWlkb1Nxb0g3cEx4ZjhlTjViUm9Rb29JcTdYWFFWX1BQTkV2VUkyUlAzZElSeHV2Mk0wQ1BQZURYdGJONXkzazVfc0lmSm1tZ0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "75283a6421305fa4c082288c1d80ef63f96c449dbe3b3056e188b1d19838677e"
+    },
+    {
+      "id": "20260831-DP-9AC89C84-864",
+      "title": "해수부, 여객선 휴대·반입 리튬배터리 안전관리 강화한다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T11:00:00+09:00",
+      "publishedAt": "2026-08-31T11:00:00+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
+      "updatedAt": "2026-09-01T16:40:29+09:00",
+      "summary": "해수부, 여객선 휴대·반입 리튬배터리 안전관리 강화한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "해수부, 여객선 휴대·반입 리튬배터리 안전관리 강화한다 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwSE1ObXZxdVJyYWtRRlUyajRxZUZwbktNS09xMW8wZW1YQnlZdHdQbjg4M3dFUlNXajZTV0MweDd6NWNZd1NZbXVNeEg3OTVmSlJaUFV1WFlaWWoyYVBiUmttOVFfUlV1LXgyckNsZGxUTTNa?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9ac89c84186be7e862c5e600e05b0767a3bc5a81205325582cd1b22b9afbc3ba"
     },
     {
       "id": "20260901-FR-682E2754-858",
@@ -1681,46 +2919,6 @@
       "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
     },
     {
-      "id": "20260831-DP-2A8A72EF-816",
-      "title": "위기임신보호출산제 시행 2년, 전국 현장 종사자 한자리에 모인다 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T13:56:06+09:00",
-      "publishedAt": "2026-08-31T13:56:06+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "위기임신보호출산제 시행 2년, 전국 현장 종사자 한자리에 모인다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "위기임신보호출산제 시행 2년, 전국 현장 종사자 한자리에 모인다 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWm1nOUdoUHVyQThBbUhaN3pfb1hhSTdHdy16VmpJb2U3YXVMSzJQZWZYSGVLSjktdG8xVHlXdXBlT3RYX2FjREQtNXduRDU4XzNoX2JiV0xLaUhmXzR2Uk5fMkE1Vkk0RXRrdElKR0NDemlPU0FSd012bkpYZFlmdWtVbWVwdV9aaVZJR3Jyd1BBQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2a8a72ef4c1b835a7574d49a1b6beceb3d901681c94e12e5abcb91894c8f30f9"
-    },
-    {
       "id": "20260830-DP-351D5C1F-817",
       "title": "제조업 \"중대재해 고위험 기계·기구\" 지게차, 크레인, 컨베이어 집중점검 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -1801,126 +2999,6 @@
       "contentHash": "d75f8bd9baf5c02d8d541d8bf3cb156397bf6913bd9e97ef4f6cb7d2a588fee6"
     },
     {
-      "id": "20260831-FR-630215ED-819",
-      "title": "\"재외동포가 바꾸고 싶은 제도, 직접 제안해 주세요\" - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T13:40:14+09:00",
-      "publishedAt": "2026-08-31T13:40:14+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "\"재외동포가 바꾸고 싶은 제도, 직접 제안해 주세요\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"재외동포가 바꾸고 싶은 제도, 직접 제안해 주세요\" - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTUpkOW5sQlRtOFFHSUgzUGVFMm13VFdZdUpiYUhiNktVM0NkOWFvZVdBTmdIZnllZW9RalFmc0ZlSzY4cW9pTG5McFFXY0JwcTJHRVVTQWVvSkphMEpNX1l0T0xDRk0zN19UbXhVcUVLYlFfMndSNXpJVjBZZEJENWJMUGhXNEs3MmhXQ3lzOTdmQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "630215ed1b7f049357372b9c7772604aa4b0b3f1d59bd1128fa79fc192745432"
-    },
-    {
-      "id": "20260831-FR-C2081FAC-820",
-      "title": "공공공사 참여 페이퍼컴퍼니...입찰보증금 몰수로 강력 제재 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T10:50:15+09:00",
-      "publishedAt": "2026-08-31T10:50:15+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "공공공사 참여 페이퍼컴퍼니...입찰보증금 몰수로 강력 제재 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "공공공사 참여 페이퍼컴퍼니...입찰보증금 몰수로 강력 제재 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHU0VEhpcElyNG4tZVZWZ0pGRmhhdThrdG5KWWUtbTdjWU1FQ0ozQ0NYOENzV0lpUllKV0tQQ2I4TklQVlB4OFJUYnAyTWlhbmpYZ3JBU3ZXTmFINFVmTHdqa2dfeUc0ZDlKZWdzR3RaVDlnWURaMUU5cVR5WmZROTNVam83S0NKbUNYTWZrS1U2UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "c2081facd9bfd73e91865242d4642f3894d26671195fa18784af35e9931cc8b0"
-    },
-    {
-      "id": "20260831-FR-A3D4A886-821",
-      "title": "「한-영 자유무역협정(FTA)」 개선 협정문 한글본 공개 및 국민의견 접수 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "통상·경제외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T11:18:57+09:00",
-      "publishedAt": "2026-08-31T11:18:57+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "「한-영 자유무역협정(FTA)」 개선 협정문 한글본 공개 및 국민의견 접수 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "「한-영 자유무역협정(FTA)」 개선 협정문 한글본 공개 및 국민의견 접수 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMDR2XzhEWnliUG5kcy03X1JZTTBHaHVSc09Eal9TaVNfWUM4VmkxSXVIYWVTRWp2OE9WN1Rzb3VST05weC1tRXZHVEt3TXJucjNEYzlFN1MwYVA1Wnh0ZGo0dHBLWlA2MndVdEpUR2M5RkNTdVdMVFVocXFWbUVTTFJXVDk2bUJOUnZtOFRPcnpIVUZR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "a3d4a88681c558c970f71566c7ea24d5a6a081a9a1f81b84cc24b90e780d2ce8"
-    },
-    {
       "id": "20260831-FR-C63987E6-822",
       "title": "한-미, 에너지 안보 협력 강화 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -1959,126 +3037,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "c63987e65060e2ce271936516bb52f49c59e49f17d87195811766099a76d4419"
-    },
-    {
-      "id": "20260831-FR-FE06EE4A-823",
-      "title": "녹색성장과 글로벌 목표 2030을 위한 연대(P4G) 2026년 국가플랫폼 회의 서울 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T11:03:47+09:00",
-      "publishedAt": "2026-08-31T11:03:47+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "녹색성장과 글로벌 목표 2030을 위한 연대(P4G) 2026년 국가플랫폼 회의 서울 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "녹색성장과 글로벌 목표 2030을 위한 연대(P4G) 2026년 국가플랫폼 회의 서울 개최 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRlhpQ0JZaUplSnZ4WnVSM0FKTlZ4ZHZJQzlMUERXclhCM2RvVHE0LVQtb0tTQTByaW5Vd2ppOFRYYUgzcnlpdkcyWjRCZ01rc3l1Q3VNLWJhcjVkOEpGTDNFYVpmalItYjBPRHBOdHJfajV0bnVKYWdzcUxDbzI0RTQtTU5Zd1pjZTBpa1ZUM2ZUQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "fe06ee4aa0dbe8480f4968ab39ec52e0e95cf9c7f181c82a3d0dc1dd4f46a6b7"
-    },
-    {
-      "id": "20260831-FR-9DBAD54F-824",
-      "title": "암표 장사 더는 안 통합니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T09:51:05+09:00",
-      "publishedAt": "2026-08-31T09:51:05+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "암표 장사 더는 안 통합니다 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "암표 장사 더는 안 통합니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZ3BTQ0lJMGZ6SXZCSHIwRGE0alFfTFBqeXJVTXJkZHk5Y3FZUkluOWp5UWlvVmM4ZE5lMnNENWdwZFpTUmNNa1JLaG9mYmxRWkJUVUxFbjRxSVE4eHpFNkxwT3E5WHVsV1JPRkgwWGNud2NrZkQxRUp1WGFUQ185eUo3dkNvWlhucXRB?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9dbad54f4fbb7206467a1597647a34127bd8ab6cb67980f04c5c7be3c48d2d4b"
-    },
-    {
-      "id": "20260831-DP-1EB25CA6-825",
-      "title": "서해 NLL 불법조업 근절 범정부 총력 대응 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T14:15:00+09:00",
-      "publishedAt": "2026-08-31T14:15:00+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "서해 NLL 불법조업 근절 범정부 총력 대응 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "서해 NLL 불법조업 근절 범정부 총력 대응 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYUNCZUE0bV8zNkRBUzlqODZUWVdpMC1xZXEtMURkUnhQQVB4NUFybWpMUTRDVWxWeHoxZFFVbmJjMXpwUW52MExYdEtUVXAwc3pXNHczbllkYmRmd3dvcHBVN0JZVFJ0VE14TkU2NlRxbEltMjVsNHFXc3RaR0sySEhxbEVKMkVUdUhN?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1eb25ca66b356fccb206c8c5c56ff11044188da378a83b818cb28c8c0262d2b2"
     },
     {
       "id": "20260831-FR-9E0ABC49-827",
@@ -2199,46 +3157,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "dde6a849ab6390dc70e465de2d096f0179a9d3d62f9e3081b7502272f2f707c3"
-    },
-    {
-      "id": "20260831-FR-620E6E1D-830",
-      "title": "기업 생존의 열쇠인 기술과 지식재산 보호, 이렇게 지키세요! - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T10:09:58+09:00",
-      "publishedAt": "2026-08-31T10:09:58+09:00",
-      "firstCollectedAt": "2026-08-31T14:59:52+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "기업 생존의 열쇠인 기술과 지식재산 보호, 이렇게 지키세요!",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "기업 생존의 열쇠인 기술과 지식재산 보호, 이렇게 지키세요! - 대한민국 정책브리핑",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWQ2dndpVHZWR0VZWDd1dHpuNV9NSVJiY1dONXBrb2xxbFJLclBHRWJ2UkMzUDlyZmRDcDVVdDk0RjVyWTBGZGd4dkRqSHZsZFJYcWhWY2hFNnVRUUVPdUhOWWR5YklFMTAxVzc1TFNEQUtGeGhYTHF4bFhOUGktYklvT1ZxVFdLa0NacktTcHk3QQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "620e6e1d437aa447b9ce22f643cf057e1eddcad770b72e95ad681e0ae8da0c59"
     },
     {
       "id": "20260831-FR-3919F3FA-831",
