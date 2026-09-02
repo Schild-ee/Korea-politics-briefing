@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-02T09:27:52+09:00",
-    "nextScheduledUpdate": "2026-09-02T09:57:52+09:00",
+    "lastSuccessfulUpdate": "2026-09-02T13:57:55+09:00",
+    "nextScheduledUpdate": "2026-09-02T14:27:55+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-02T09:27:49+09:00",
-      "finishedAt": "2026-09-02T09:27:52+09:00",
+      "startedAt": "2026-09-02T13:57:50+09:00",
+      "finishedAt": "2026-09-02T13:57:55+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 59,
-      "duplicates": 59,
-      "rejected": 137,
-      "rejectedByDate": 134,
+      "acceptedCandidates": 70,
+      "duplicates": 56,
+      "rejected": 123,
+      "rejectedByDate": 121,
       "rejectedByRelevance": 2,
-      "rejectedAsCommentary": 1,
-      "newIssues": 4,
-      "updatedIssues": 0,
+      "rejectedAsCommentary": 0,
+      "newIssues": 16,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,1058 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260831-FR-08203E87-904",
+      "title": "전기차, 어디까지 왔을까? 'EV 트렌드 코리아 2026' 직접 가보니 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T19:26:49+09:00",
+      "publishedAt": "2026-08-31T19:26:49+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "'EV 트렌드 코리아 2026' 직접 가보니 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전기차, 어디까지 왔을까? 'EV 트렌드 코리아 2026' 직접 가보니 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ROUl3Wk5IN21wRnFuTnpWNURyT0ZmRzFFZmFodkZtend1VFotLTcxWXBlb3MzTGNhdDliQWg2b29qanJ4SUZvTmFPSXNGb3hCRmJFQkJma2FuYkEycmpBTTM3b3lPd0RILXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "08203e87146d2d562ffaaac713d856f4b3c5191fb1fdff84d28274e3902c2f3a"
+    },
+    {
+      "id": "20260901-FR-ACBB264A-905",
+      "title": "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T17:00:00+09:00",
+      "publishedAt": "2026-09-01T17:00:00+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지역 성장을 견인할 국가대표 거점국립대학 선정 결과 발표 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbWJDeDYwM2dERy0xbEJRT1M5WFQ4ZlZCRUdrUmpUZTgtR09NOFl0OGRKQXMzZXVhX1AzUG9Gano1MUxlR1NfT0FkV3NNMHh3cDR1Mk55akZpOVZvYnZqU1IyVVhvN1JpNkNSZE9wVTFsWHVqQ2ZIejljRVZZcTF1bTNodmRDU0dITmZ2d01rY0lBMEpMSkZ1ZUtscFpxUjBINjV2UksyV3NZQUZES2hTdHZUT2dJZTlPQVJIMTRCUUVPOVFXRVVBTWtvR2hKdW81TDRmb2l3dXJzcTAtdGhadkJiQVBTcFNoMVdtWmpoTkRQT1VHOTRQRG9ldm1IN0R6MUVILWk3QnRiOUFteWwxaUln?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "acbb264ac23fe2915caa0e38db9fa2fc65ceb6aed22b6b84d913233a14373092"
+    },
+    {
+      "id": "20260901-FR-87980B57-906",
+      "title": "\"저성장 고착화냐, 성장률 반등이냐 갈림길에 서 있어\" - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:26:57+09:00",
+      "publishedAt": "2026-09-01T16:26:57+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "\"저성장 고착화냐, 성장률 반등이냐 갈림길에 서 있어\" - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"저성장 고착화냐, 성장률 반등이냐 갈림길에 서 있어\" - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBrU2JTUjNzMHlNZ2duUUZxMk9PekVVOEZ2b1lpZm5FY2NuM2J4S1JsSFdMMlc0YzZ2Y3RwbFEweUlHMkUxY1JBX3JPcHJLWTZDWmtIdDI5ZTFJTTF5NWFzeVp4SWpiMlVvZ2p2VTV3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "87980b57a788bc2a0eabfa209443bcafdfceed2b263179eeb2a7b265c0f9a239"
+    },
+    {
+      "id": "20260901-FR-92FA5D4B-907",
+      "title": "경제성장은 더 힘차게, 재정은 더 탄탄하게 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T15:10:09+09:00",
+      "publishedAt": "2026-09-01T15:10:09+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "경제성장은 더 힘차게, 재정은 더 탄탄하게 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경제성장은 더 힘차게, 재정은 더 탄탄하게 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOU1pVk9keXRIVW1zVHM2bTB3QWxiQ25TOXZtVDdpbVFweTBVemc0dTdyeThZcmJNa1ZpSVhya0dHTS1JS0c4NmlEdDdINU1OVmhGSXBDWTQtQ0Z5U24zSkptcXhXUWlTWlZCVkpVbnN3ZlVOWlcwQVJZV0RqRGFZbHRzUWhfNno2Qlhv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "92fa5d4b484131e8eb4efac085a0e6469ea19baad4aa9a5656b0f1dcfab42ea6"
+    },
+    {
+      "id": "20260901-DP-D1F4DBFE-908",
+      "title": "식약처, 내년도 식의약 안전관리 정부 예산안 6.1% 증가, 8,829억원 편성 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T01:09:04+09:00",
+      "publishedAt": "2026-09-01T01:09:04+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "식약처, 내년도 식의약 안전관리 정부 예산안 6.1% 증가, 8,829억원 편성 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "식약처, 내년도 식의약 안전관리 정부 예산안 6.1% 증가, 8,829억원 편성 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOT0xLTEh4ZUlab1AxSWo1LTZPOF92TW9UcEx2TW9MX2FBc2hFZlNaN0tfR0l2ZE5uUkF3a0RwRERzeWl6dTRFZGpEdFo5VGhDOWRYU00xZXVaNVpLSk1OWTVESWhleWJIMk1mWE1MZDAxRTdjeVdjYzJTQlJrb3dPOVUtUUh6S0VmU2lLenc4ZUVPOGhFUUFrOGgwWi1lQXRCRlZyOGNEX3NnN25qZC1iUTFoT1I2NVFkanAyLVpkSGVnUjBXQ2JQay1HNlVzVEdRRzRNMVBlTkdGWmN4MUxObndYZVNDdTR2UVBiZGtmOGE5NnU2cEZ0WVlkS2xEWklPUjdOWFh3YVBBMVJ5REt4ZVRB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d1f4dbfe4f04219c900d30e5618a68cc46ec70c500bacd0c83d2c2628c178b31"
+    },
+    {
+      "id": "20260831-FR-51ACFE3B-909",
+      "title": "중국 포름알데히드 사용 배추 국내로 수출되지 않은 것으로 확인 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "중국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T05:08:18+09:00",
+      "publishedAt": "2026-08-31T05:08:18+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "중국 포름알데히드 사용 배추 국내로 수출되지 않은 것으로 확인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중국 포름알데히드 사용 배추 국내로 수출되지 않은 것으로 확인 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GNmhDTkx4NjV6QlJuMk5iR2Nlc0xWWm9CTjhSRFcyanF5cjFkSmZIOFFnU0s4NkJEQVBpWHpQenluS1FxVEJVUEdzSmdTMmFRNXZ5RTJRX3RpdzZ6Q29TV0cxMjlXOFY0c3l6b2Zoc0g4X3Nf?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "51acfe3b6f296721cd5c7fa5fb549018ecdf865a0229e43808e81152406a821f"
+    },
+    {
+      "id": "20260831-FR-DCA693BC-910",
+      "title": "제1차 교정청 신설 관련 전국 교정공무원 토론회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T09:02:22+09:00",
+      "publishedAt": "2026-08-31T09:02:22+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "제1차 교정청 신설 관련 전국 교정공무원 토론회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제1차 교정청 신설 관련 전국 교정공무원 토론회 개최 - 대한민국 정책브리핑",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iUmkxUXMya3BDMWFMVzExRTR0aWp2bE1PLU5oTENTQUd5TXh4OFhyUlFDV3B3b3B5c2pHLXdTUW5keDNlVGdfRFBXZGlvR3BvdUM0LTVxUzNHNzNrOURZbF9uUnR2V1NmWFFHck9PMU92S1M1?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dca693bce522fa837848bb8ca8d165ca626589e044f56c65306a13d21bad4b4e"
+    },
+    {
+      "id": "20260901-FR-B098550C-911",
+      "title": "군 경력증명서, 이제 스마트폰으로 3분 만에 발급한다! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T14:01:05+09:00",
+      "publishedAt": "2026-09-01T14:01:05+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "군 경력증명서, 이제 스마트폰으로 3분 만에 발급한다! - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "군 경력증명서, 이제 스마트폰으로 3분 만에 발급한다! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUM4MDlhMEczUGppV29lMU9mU2ItdHRtMXNCOXlJeGhta294R0lQU2hmY2IydnR5ckxCd2ZoaFplMWowQS1zelYxY195UzhKc0twb3dXc3VaVEhobGlxcEx0ZDdjVXFrbTA4clZYRVNueW9EdVl1cE1rQk0wRzJXYm4tb2xVeHZ5RVE4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b098550ce365f97ff9ff081beb56d583637f9c0e6caeb3ac2900d199c8862f97"
+    },
+    {
+      "id": "20260901-FR-3AB2D73D-912",
+      "title": "식량정책실장, 추석 맞이 축산물 수급 현장 점검 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T13:00:00+09:00",
+      "publishedAt": "2026-09-01T13:00:00+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "식량정책실장, 추석 맞이 축산물 수급 현장 점검 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "식량정책실장, 추석 맞이 축산물 수급 현장 점검 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTVkwVk9lTEFWaGdodlZ2UDNCSzRja01sSy1sVmozazZqcW5tX3hMbHlheVBqM3dYR2Q3T1R5M1JrYmRaRWtiQ18xWkRpazdJUFQ0MlFvWktCdC01ZjdJYjc1MXhlemZGRXBtTFVJT1UxYnoxRFgtTkFIRUdIOWZLUHFuUUtmX0F4cTY5U1M0M2hBc05IU3hiUDZuYnpaRHFjT3cyYzdpbkJqMkhxOV9wUXJkVzBYZlNCUlRsSDJXNTA5a3NPLXdKYk9oSHRYNnNzdlYtMzhPR3NvdEF6YjFfN0FaY2tQNGV4M01tOS1uQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3ab2d73d1c6eae26c8733d03d794d40b13184131b41f2c3c82759af4cb506624"
+    },
+    {
+      "id": "20260901-FR-28A62287-913",
+      "title": "2026년 7월 온라인쇼핑동향 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T12:00:00+09:00",
+      "publishedAt": "2026-09-01T12:00:00+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "2026년 7월 온라인쇼핑동향 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 7월 온라인쇼핑동향 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSVp2LS1jQjdsTDRPdnE3cWJYNVdjMGQ1clo0VUU0bUxseno2enhvcHNqbWM2bmxtaHBoYWh1ZkR2VzFRejQyT2RmSlpWNXppMUsyb01xXzc0cTFZd0pvN0dZNllFQVA0YnB2b1kyNjJxVjNsMVVMRms1OG83cEwzdXhvV3AyZm9nUFM1QmdXXzhjSmpvUlhsVFZjbjhUWW5UdWN4VDVhaTVLOVdaWHFtS3NJRlYzRU1JNTBobmVMN1RnVWxhY2E5YVo0UkpQSU5iLUROMVdFNmV0bFZoRkp6dnR3dFhQQzZKWGF5WWg4OA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "28a622871c680c0666743bac9b8eb0ebf9eeae824e102a770b59ab9e5aa77420"
+    },
+    {
+      "id": "20260901-FR-B7FB7C93-914",
+      "title": "제24차 화학무기금지협약 아시아지역 국가담당기관 회의(9.1.-9.3.) 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T16:49:25+09:00",
+      "publishedAt": "2026-09-01T16:49:25+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:51+09:00",
+      "updatedAt": "2026-09-02T13:57:51+09:00",
+      "summary": "제24차 화학무기금지협약 아시아지역 국가담당기관 회의(9.1.-9.3.) 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제24차 화학무기금지협약 아시아지역 국가담당기관 회의(9.1.-9.3.) 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yUDdFS1g5SzE0Q1lSbjctWjZjTFdqMnNDTnlPY3RkcDJ5aXhhT2hUTURZVmhMbVdVVFNFQU1DQ3YycHBHVHJGdkNkYmZsX0wtbERuYVBsV2xoNzdiSUJxRkc3NzRWNUFLdG9sc0YxZEpXTFBV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b7fb7c930783082d8f9656b812e185a71984291636c69d25fb18d524654495d9"
+    },
+    {
+      "id": "20260902-DP-F965937D-895",
+      "title": "소비자기본법 시행령 개정안 국무회의 통과 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-02T09:07:36+09:00",
+      "publishedAt": "2026-09-02T09:07:36+09:00",
+      "firstCollectedAt": "2026-09-02T09:27:49+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "소비자기본법 시행령 개정안 국무회의 통과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소비자기본법 시행령 개정안 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGFUMEw0Sm5RaTkwekNMNEhobldKU2ZoS3Z2aXBweDZTaWdSU2Zfdk1LakhQdGZkMm9rckt4UnduUFgxRG1FOHNkem1kd0lRRzRUMkRJam9WdkZEN1QydW1yVlpiQi1PYVFpcTIwaVZvTnZqOF9tZllpMTVEY0JXenJVb21TUi1SSWJxX2FzLU0zdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소비자기본법 시행령 개정안 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ3I3WklQeWYwZjNQd0laNzBNQ3ZuSWV2Ty1uM0VYQTRNYUY3c2IzcUhjUU9kdjh6SzBUUEozWURKWG1QUlgxcUsxQThBa1RwR011QVZfTVgxZlFSajBGd09WTEJZOVJPTzJhTEpVeU9vOW13NUxmOHQ2bmM4TjQzM05vMWJaZXZSWmVCM3pLZVE2QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-02T13:57:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f965937d522e37de0025494beb9834e2fd5f641e94f4062b1e22ff277f88b973"
+    },
+    {
+      "id": "20260901-DP-9DCC9761-861",
+      "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T14:42:45+09:00",
+      "publishedAt": "2026-09-01T14:42:45+09:00",
+      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "2026년 세제개편안 정부안 확정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2djcG9SRlBSQUZfcFlLZjBjd0lWdng5SExoZXZ6TURhb3RmUEpYc2ptOEpJdGlVVnFrN0xneDVTZ2dERVdXX0JESGMybXYtdjJnTzJRTnhWX3h5SDMtTGkyM2FydklERWh3a2ItbVBqUUZic1ZEd2hWNDk1MzlhcE5JSEpLRkRpa001M0tVOEpqZkpO?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlR3VFhFb1ZHSWw4eC0xNE1vd3luVi00QmFtQ3FBSXdyd2lKUkl3a1M5UElQbWY3T3ZWbmRUSWtUV0l3Y2JDR08wdFpSbGk4bmxwUjZBMmk1aG9Qd3A0RGdNYi00d2MwMzZxMUFsS2pMWVpKT01PSTZ4VWR5aUlxNnMtemNWSWM3TGtQU3NhZG9IZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yNkYxS01sYUt0OENjc083NjRITFFORTFVVzhaQkcxQjVZWnQ2N0FOZTcyeXpWR3FSeXU0YW9mbDBYUjlrRGpoZmRodWRub3pHUndEMGRWVkdzTFE0alVIV0RRUGxQYUNEbFlUQjhGVjRYRHRV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T22:26:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-02T13:57:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9dcc9761b4380cabe3581a1c9eb6ebd51c6296a58048e4da145509f9f7f38b7a"
+    },
+    {
+      "id": "20260901-DP-171BD2AF-855",
+      "title": "「전략물자 수출입고시」 개정안 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T08:50:16+09:00",
+      "publishedAt": "2026-09-01T08:50:16+09:00",
+      "firstCollectedAt": "2026-09-01T11:00:29+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "「전략물자 수출입고시」 개정안 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「전략물자 수출입고시」 개정안 시행 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSTRaXzdjYmFzVlF5VzE5cXF0TThJUGNFbkh4NDRoY0p1TkluUUZKdE95cWM1b0RweHFPLVh4dXQ0Z2pZdHRfV2FUc1ZxQ2s3OVpwN3ZBOWpDU3dESXZRNGpMOS1ERndfNmlDLTNyUks1UVNFa0d1VzlubWZqUXBDdmtWejdWV0xZb1lEamlWRkgtRmQyckg0OGpnWG4yQmtlZDJyVENsUURNcnFBV0c1QWJSbkRDYWN5NE9jYjZuN3FKMWluSE1wY0c5QVpZV0dibTBEa2Ryel9SeEVwajNEV19TSzhQNVlpSzNNdE1hQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「전략물자 수출입고시」 개정안 시행 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ta0hJQW5LcVVwOEpRWWpqWVZ6R3g5T3BwM2RkbW45OTZwYUVWSGhfLXJFNmF1enpjMlNSMjJLQzZ0RUE4LXJ4RmFkbWdxcTZPYk9OcXNPT0R1WVNtSmRsR1dGaUNERngyc0FMQnpsaFE1R3p4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-02T13:57:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "171bd2af80508dfdc42b204483429ac3510c90c47e201fdf1a3d2a7da6ce2e3b"
+    },
+    {
+      "id": "20260901-DP-DE00227F-857",
+      "title": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T09:54:54+09:00",
+      "publishedAt": "2026-09-01T09:54:54+09:00",
+      "firstCollectedAt": "2026-09-01T11:00:29+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMG9ydXpzV0ZmeVVoUEJMREd0Z1k2MlZvNHdBRVNOczZCazZmb2dFMlZEcTVNcVQ5bkQzbFMzc1FwT1BwS1BCbnpqSmdtQjRfVk04ajY4SmdnZEotRU9WUXlCYk5yaHM1M0diaFYxSEJDWklTTW5rTnItX2hoR1dHN0ZXd3RiS3pGWS04bWtza0pBdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HTHNlYlR2U2R5TGlTbEFlTjR5eDJSVkxBNWMzb3J0Q0tGbjRYaEY0VW9waHEtNFdEc25IdVR1ZkV5dFRGQWo0cHB3TWZZYVFUa1puNDBoOUFGcVFUR3ViNmYyUzQzUUxvS255dFpXbDVoSEY0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-02T13:57:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "de00227fad85cfa64c18db634e02c8547ac1a06050315067cc2321a96dc0d24c"
+    },
+    {
+      "id": "20260810-DP-56AB35E4-225",
+      "title": "전국법원 주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T14:37:13+09:00",
+      "publishedAt": "2026-08-10T14:37:13+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "전국법원 주요판결 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOQUJKSC05TzBvSm5XT2JjWDdUU2l6QWdhdm1fbjgyYVljMmFYS0pIcXpVRm52SF9BenkxMGF5UEpaaTZiaXVBc1A3WW5BY2gwRVB0YXdGeEEzY3YtRWNXV25Seng5WW4zcWFrSkVYak1pRWtMck5GWEVEM3lzM2JHdjBHTFNJUmM0QTgtTXpLQmswbVF3b2NVNlZ5ZmQ2WWllcVh4T0Z5UXR6X2VRVUI1VFRzODZBamlCV3R6dGc4OEIyX3NkZUxIQk5YaTdXZ2piSTFTRHBCb2puYnRsNzRaYl9oblpDU0JwLU5BMWZmQm9GaEVlVmJSWENTbkNYVTNhVGZXR1ZtVFV0bDlOQmQ3MHdSbUg5SG9NV1k0MlJ3UlJZTXJyOEVSd2RfUVdvS2hQU0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOTUE4SnpCNWRoNEw2WnJwZlJ4dGFpd0dkTXNhUnlXS2lCd3p5RWdGc1QyVEpVSTZnZjZiVEVyaHBXS1U5RGVzTnN0c2RmZ2RMcy1vS0NaS1lPdEdmVUFTbm8xN0VRemVzX2RUbGJwM0pmRm5sWmtWSjA4Z3hFeW9UU1h3RlNXdzhWWjVsbnNkbHZzZ0plOVZPcUl0WWVDRkZqWll5OFJYa1VkZUpNM2t1RVpWcXJlY1lJUnRpVS1MSXAybFkzX24ydWNaNXFFTk4wUmZYSk44ZGxrVzdoWHhUZ1RsaXlfWTZCZHd3TVZzM2dKdmpjRHFsMDNuQVhXVElGNGFrV1lvb3c0d2p3RU4tU0stMlhBcEswMVFjV0JCU0VxV0xVZmNTQWV4a3VJQzNLOGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOck5wN3cxUklyOXFHWFhYcGQ5YlRnanY2Ni1DWElBR3NoZ1FjUFRPNXRSNndPRFZVRy1zRW1JWXU0SE9scnVJRllvMjV5Zjg3eGJoVFRZb2phXzY2NXEwOFNsakNTNlJPWjVzYXFTVkQwOWZWcUw5R0JuVk80YW9LSm8zZlFRU3cyVTk0RjY5dlB4cUE4Qk5pYlFmUTY0VXo2NEFzaHR4OW5lMW40RmRVQ2NwVHItOXh2NGdRa3puaUYwQlA3azBrdHVod3dBQ2c4VlVqd2tqTzRWM0hBTDlxRUVXVFREQzJsMXBSNEZnRlZiMVYtWWE2NW9KNlpDU09tNDMtUFNDZ01TVXlHVDZRYTRPZHp1TlM2TEtvRnRBdkp2bk8xOHMxZVNkOFRDTFg1MWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPd1pkbUJrSnZfdzhPNmtCek1PWUhfYXpLRWZOYkdHbV94b0NnQVkxNE1xdTUydGYyV1NhU3pya1VuNjdZelNiU0lPam04T2JTVlNiWXdnNFdTa1I4X1k4MmlBQnp4N3Vab3lhTjVxNEItNXo3SC1qR2lpal9rLVJoNXBqQTNKZ01jRjZncEgwdXV2M2hRMERsUUVwV1FxQ3RrTV92RmVXVEVLY3FIQWVVOUF2QlVrVU4tMGxjbWlYMkxRWWt1OURYZUh2Q3BINUl1UUZlNU9CZkluZ1R2bjk0bVdibWxibVlkWjNuZ1pFSl9ESzBuRVozVzdMNWJjZ0owUFFzOUNCNmRHOXprQUtYOWpLLVNlZG5yeHlSUkRGcDFGWVU1V2VaZWJzdGdJaWlBWGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUkhNVGdZeHM5Ynh3cng1aWJ0VXNQc0ZRZzgxXzhzN1A4dVFOQUYzS2F6a0YxbzNzT0VTeFVJUjlSa3h5bzJPa3VFSGxqVmdrUU1pb055M2s3RFZYeVpfNi11alVCOTQyX2N3WkVmXzZrTkxlbUo2QXg0bHEzbnpKeC1BS0FoUDdLMnd2R0RvcVZrU2ZTZ2FKdEhiYWFSZEZ2azZTaFhGREVCc1BFZE1OY0xiSy1RS19FcERWdy1iV241Q0cyeHJJZmpQUzV4cF9qRGZLNG5FTDdNY1RoSEpocHJadEp5NmJTaDdObzV1Z2ExQW8tYmllbk5hMDd3WU9qWUlwREZIV09ka1ZzVkhUcC0wQTFaUkFGeEp0OWlWUVUyUWxnNDZaT2pUa2JSQlRRN2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPY2lWQ1JMQzNNQkdKaTJxNVFLM0NkbVI4czB5SUxWZ1pKLXo5YkxONktJYjM0enNVdjFyamo1Z3NDVHl3YUlTdl8yWWE2OTNmckRKcDRpVi0xbC1xb0NHTlF6Vnl4Smc0Tm1VYlpjcXdVWVowZzFlbHRzNS01YnBqczI5SUpFVVJQWnVjU1NQQ1ZuR3JJLXQwTHg2VTBxeEF2LWRjellzdWtCMWQwc05JSW9uNjc2Q2JEQnZ4NjUzaTRxdENHa2hxU29OVjBYRzRmeHh0NXdhX1FUUDF0MURZMGZybTZhVmE1eTcyczBMLXphY19OUVdodmpsTWJ1QjgyWi1pT05JZEMyOFgwMkxUZk9IQ3FRNXdMSmlzcUx3cDdGX0hiLXN1bmRxekZNMmJzZ2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQQktkcVczenFybEhvVGdVRVN2RFRpZVVSdUhUZmc0NElNZXNyUHpGS1VBd0haa3Y2aUgtOEhkVU9PMi1maUU3UFlidmFNZ1ViNUxLcWMyTVY3N2xiM3dfM1RUZVNJUW5CcDI0bmtJa0FhbEFOQ18tVDRocHJrRU5XcE84R2RxQWhVMEIxWjRfOERhRW1zUUZIdkFOSVpULVI4SEZJMXB0cEhobWdJU2hsc05OM1lSQ3RDYUxnMHBxb0dGU2x6cEwzZGtuYl91UGtGY3JSaHVGS21CZGs3QWMwRnhUejlDX2N2ZEtfRjAwQW5qRzQyRTVLSmh1R0pkSUxrSUdIVWE5b0F4NGFmRWI1RTNWaUJLVmVTaDhwZjNFXzhLaUIzbGduT3FBaVpKcjVzN1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSXJrekJocVRmcm5zOXNoWlZ1bFJvRlVaNmpVX3czSExfQjBqdDVJX2h2WFRYbDEtQWNIcWU2OTN5UXBSeDRUVUI2Z2lJNUVOQWxUVWRTTms4OER0MTIyaXFyaHJpU0xHaEZjU3Uzd2xOb1FWVVFSanNkb1VyYkd6SlMzVUMtU19leUtESGdKQlA5ck5SUkctWDZKeVF1UE1jSDZDOXo0U2c3dzU0UEVkb1NtZmUwUk4xQVN2czNSdWdWMFo4TjU3aGRuVlN3VXBHcXNNUEJaTDNFUWhIVGxtYWgxRUx5ay1kWnBaYlZYcHpMQWhxQWxtaVROVUhJSEpSYi05d3lDWDQ3eGwxdTY2Um15aXVTd0VjSl9sSzJvMzl4UjBXM3BqUk5mRnZIVGZEb1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ29sek5Sd2hqXzA3eTVUMkFUbTR3ekQ0cXpkcG12RE94Sm9rR052TEZJMHAwX056cTRGTkNPcnRwWlBGWnZSN1hFa1lUVDVYeVlPRDU5NE4yNEpNNUFKcW1FTkZCSXFoYXV2VG1yQkVJcEdFU2ZFRXpNV3AzNFVFWkQ4ODdrRjlPUnpXYUVTR1J6QjhpUmhGUGZBSnBrMFB4TEVPTTlTZEpQY3V1cFp2eTlBcDFEWnM0ZjVMeXZJUkJVNE1WdkJtbVlaSzlDN3k2WWJJT3NmM00yOXZuazZwTlJtQ0JWSUxCbWo4OG00dmdTU181S0N2aDE1RXVaTlJIRTNEVDJZalQ5TDJrQUVyYW50SzhXQjkxSlFjdDZITEFtSElaNVZkRGp5bmFFeG5JbGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNLUVvUTQ3VUotN0ZyVEdZSkVSaHRzUkJady1oaHBLQ29HZDU4SzIwTUxhdjNQVVlnWWdfRHZETUZtbHMtejJYVEVDOXh1MW1yRGlsdTdFQ0g3dVJ4ZEl4NlFDaW40dzRvR3JaZTJNTHFZYmJOQ0NJMGpFWWJTWHhZZUdHX3REOUdQVVlud2lHVEhST29RNWJaNkRKZ3NUdE5KZ20xSUZfdTM1OFQwakpXQ3lfbFhkS1haR3hEN3BjNHFpRk4ydE5uVHVRbDNFOFJOaVZob2prUmlZd0JxS2ZBeXlqWnJNY2NLdFM3Tm9mZlhwSWtIMUllVDl1OGVyWFgzS1R5VC1wUjVYaXJtNjExb2w2bDFLby0zaWhWNjZ1MWN4Y2IyY3lnelkwd0JYSnNpTVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcFBlR0JlNV9qaVUwOWROOXhJbldheHhjZDFPQUxVV2pBQVJEdXR5R3ItM1JVWmFHUGRrTnl0X2JsalE3QXRfMERYWWVncG5fSWJaWnhNNlg4cHhxcS1DZDN1NkdvS0hKYXdwcS1oakgzNVROYnQwbGZCb3VjTWhhOWliLTNGaU44U2FNMFZJQkJwTVRwLXJMLXFJa09aSDc2T0x5azFkVnh6WEVkMURrYXVYSEUxckpJRVhNSFdNenBDTXA5SE5DLTNITHY5Q2VrN0ZweFhaeEpHdWE2dG1tajBLRDhDbmdJRWRDTVZKSkVNcEpXbExwYkYtcDFtQnhpdll4UUZsemFZWDlob2pJRHNfNld4bzRWN3ZqMzhKcnBQNmxub1FjU2YyUUQ2Y0JKTHc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbnN4SVZ6ejJxRThQQVFMX2FEODkyM2FlUFVEM0VPVEJHVWxneTRvdFFaa2NLdnc2R3VCQ2N4UVFTYmNkWXhlZTJITlBpcldzOENMcExIZXZTaTduTHhINlJBanR3M2VsVVVrcVppOUpFaFJlSWtMZGQ4R3prZGM1RmVXNl8yVzk4NGdCVXdDVktoRDJxX0xCOEEtYW5RNjkzNzFtRjZ6WVpQRW05NjVIc2FnbWs2bG1oWEstLXN6WjBJbmFFel9HMWtVSG1nY0VZM2ZfdFJfNVJONGVaMHlIM3lFWTUzcGhYREJLS01SbGdidVE4RGpVNy12LXRJOWRBWi1ZTWo1SmdJUTZjZUx4Ulp5RTlYZjlsNHlKT0gwN1ZBLXZYVmhoTzRROGpiVHBRcWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcUx0TW5GTWtWUXRsS3k4SjhuLU1vcVN1VmdOeGVZNV8zYTVDYW5zMlNCNUc1Nk1MSWpRQVhXNlJPbmI1cFhJQXpCbzBrWnRVdjNmRzV6Y2NjTlVtdFVUbDM2cERLaG40UGhvMWktZzU4MnpNWDZ4ZW83MnNIaFJmNHNpVlpsTW5WNmZQU0ExMjFDNktNYnJTZ3htNTZfX3hSUENBcVVTZVVSY3o0b2U5amJPVEtZSnI2ZUZIT1JNamQ3WEQ3cFdTN2dFaS0td2VON3cySm04R3VvcFVxeUN1c25FWkxvWnp5RnJLVEVmNWQxZmdsdTRLZlc3bnJxSFM2VDQwa25Pa0VYQzJFWnB5ZnVwTmhsZ2dHVU9XaFk5Yk5zR1o3WmZ2Vm5Ibk5fMXR5R3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-11T13:08:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-12T18:43:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-18T14:05:37+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-08-18T15:00:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-08-18T23:07:09+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-08-21T02:15:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-08-21T08:54:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        },
+        {
+          "updatedAt": "2026-08-24T12:33:34+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 8
+        },
+        {
+          "updatedAt": "2026-08-24T17:09:23+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 9
+        },
+        {
+          "updatedAt": "2026-08-25T14:18:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 10
+        },
+        {
+          "updatedAt": "2026-08-31T14:59:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 11
+        },
+        {
+          "updatedAt": "2026-09-02T13:57:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 12
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
+    },
+    {
+      "id": "20260902-DP-82AA06F7-899",
+      "title": "표시·광고 내용의 실증에 관한 운영 고시 개정·시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-02T12:00:00+09:00",
+      "publishedAt": "2026-09-02T12:00:00+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:50+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "표시·광고 내용의 실증에 관한 운영 고시 개정·시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "표시·광고 내용의 실증에 관한 운영 고시 개정·시행 - 대한민국 정책브리핑",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdV9xdlRGbmRDd2l5VkF0Y2VuT2Z6bGRVNGl5dHlvS0FYQVFqWnlmY0R1X0d5eFFZMDNzd25FQWVEbFNpZVZsa2VOVjhjSUtYWnpSOWlJWXdFQVlxTzNBSHYxYnUzczJ4WUJPcmZWMUd5TExaNWhoTmQ4aDVpZkFXWHAxdzFLdTdCTGF5d0pmR2RzZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "82aa06f730b9e6a521f04bbc3396bd692d123e028064414415bdcdf805f12535"
+    },
+    {
+      "id": "20260902-DP-A49F2910-900",
+      "title": "면접교섭 허용 의무 이행명령을 하면서 면접교섭 조건에 관하여 이혼 사건 판결 주문과 다른 내용을 추가하는 것이 허용되는지가 문제 된 사건[대법원 2026. 8. 24.자 중요결정] - 판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-02T11:00:39+09:00",
+      "publishedAt": "2026-09-02T11:00:39+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:50+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "면접교섭 허용 의무 이행명령을 하면서 면접교섭 조건에 관하여 이혼 사건 판결 주문과 다른 내용을 추가하는 것이 허용되는지가 문제 된 사건[대법원 2026. 24.자 중요결정] - 판례속보 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "면접교섭 허용 의무 이행명령을 하면서 면접교섭 조건에 관하여 이혼 사건 판결 주문과 다른 내용을 추가하는 것이 허용되는지가 문제 된 사건[대법원 2026. 8. 24.자 중요결정] - 판례속보 - 대한민국 법원",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUnNoNWpNeHBOM3lWdVFkbVJJNEJzT1JsOFdMczJ2Uk1MRGRpOXRyMmUwQlkwRjFLSkRGSUsxT2pEY2NLUEl1dHhMczV3VzdxWmcxaE51NEF3RXBYSWo5VDJQYTZxNDZxWmZNRU1uQ0JwQTduamVrTUdlVnpIcHEzdlFTUmZiNjkxLXVodWY5R1hhRXA3dzVDc0pPelptM3dKb2R3UUtINFdJc2lvdnp5bVhycGd0bFBSYmx3OEtxVXZBNENYamZPTFcybElud2VrY1lxOWVNdVZpdF8zNzRyS0hNaU9NNm1fbk5tZTVKTTNCQVpVamNhR0N0OUpSMzBKYlVtbmJ1MWtjakY1Rk9KZW5QLTZzZVJVYVNyRjFlREkyRFkwMTBmOHVJa0ZHenJ6R2p5eGk0VHgxVlBBempfMEtuQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a49f29101e81a99c6c1ed98a37dcfe674be7a8995d36e7ffad62e0d0db59fe8f"
+    },
+    {
+      "id": "20260902-DP-C05CE9B6-901",
+      "title": "김해공항 하늘길, 첨단 위성항법 착륙절차로 더 안전해진다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-02T11:00:00+09:00",
+      "publishedAt": "2026-09-02T11:00:00+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:50+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "김해공항 하늘길, 첨단 위성항법 착륙절차로 더 안전해진다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "김해공항 하늘길, 첨단 위성항법 착륙절차로 더 안전해진다 - 대한민국 정책브리핑",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYnVOTTZma0dacFVlX2hXbWFkSk1xbElWZHJWQXpaRXFIVXN1UG1nQy12cmhsY3RIdUFsU3MweXRIZFlfTC1hV2lJdHlNaE9jcXlTWEpDYlZCUTVTcWk1eklMcmVYWkx4S2thS2llZ19rV091Rk5zYUZXX2lqbXQxMjlFdjJLT2NHUVpoZ0NJMV9ZUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c05ce9b664a8141aa15f0fce46908e2dcba3816460641fa4519d8d3915c50d82"
+    },
+    {
+      "id": "20260902-DP-79213E9A-902",
+      "title": "사할린동포 자녀 영주귀국 확대...부모 사망해도 내년부터 신청 가능 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-02T11:04:46+09:00",
+      "publishedAt": "2026-09-02T11:04:46+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:50+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "사할린동포 자녀 영주귀국 확대...부모 사망해도 내년부터 신청 가능 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "사할린동포 자녀 영주귀국 확대...부모 사망해도 내년부터 신청 가능 - 대한민국 정책브리핑",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYlpuRlRuRExyYkFkODdSaVY3WXNqWVZlNUpLVDVES1lnTkc4TnZLZHB0RUNyY1ZydUItQVpMZmxQbF9aSVV5b2xRU3lsWVM0SV9YNWlvZmprd3M5SG90YU95TkV0V0p3b0lFN1ZmVlgyVXVnMWhlZDJYVVVCTzJqXzJBcTE3am1NNG82a0t6RkUwZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "79213e9a1e6cbb39f0601f62f9639681fa4e835dca03c81428fcd87185cab854"
+    },
+    {
+      "id": "20260901-DP-63BCB384-903",
+      "title": "'27년 원자력안전위원회 예산 3,030억 원 편성 소형모듈원자로(SMR) 규제기술 연구 가속화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T11:26:00+09:00",
+      "publishedAt": "2026-09-01T11:26:00+09:00",
+      "firstCollectedAt": "2026-09-02T13:57:50+09:00",
+      "updatedAt": "2026-09-02T13:57:50+09:00",
+      "summary": "'27년 원자력안전위원회 예산 3,030억 원 편성 소형모듈원자로(SMR) 규제기술 연구 가속화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'27년 원자력안전위원회 예산 3,030억 원 편성 소형모듈원자로(SMR) 규제기술 연구 가속화 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBENlYycG1EbTRtX1BLbTZidUZSalNjVThrVTh3LTVVYjA4RnVjWmE5bHQ4Tk00YUhwaGV6M2RKSUU5UnpQdmdQaENKSVY5WUpBR0Z5Q3ZPWGpwNEFhM0FUTW00c09LSUdpU1RBRTcyREtVa0NY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "63bcb384aacf466f9c200414eb33a32942daba843866830a5d68f54c7811fab8"
+    },
     {
       "id": "20260901-DP-B678CBDB-897",
       "title": "정부, 홍수 피해 네팔에 '대한민국 해외긴급구호대' 파견 - 대한민국 정책브리핑",
@@ -143,46 +1195,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9b1a22dd1a55f26dd26bbc19665b635276097808e146be4d745e5824882f7759"
-    },
-    {
-      "id": "20260902-DP-F965937D-895",
-      "title": "소비자기본법 시행령 개정안 국무회의 통과 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-02T09:07:36+09:00",
-      "publishedAt": "2026-09-02T09:07:36+09:00",
-      "firstCollectedAt": "2026-09-02T09:27:49+09:00",
-      "updatedAt": "2026-09-02T09:27:49+09:00",
-      "summary": "소비자기본법 시행령 개정안 국무회의 통과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "소비자기본법 시행령 개정안 국무회의 통과 - 대한민국 정책브리핑",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUGFUMEw0Sm5RaTkwekNMNEhobldKU2ZoS3Z2aXBweDZTaWdSU2Zfdk1LakhQdGZkMm9rckt4UnduUFgxRG1FOHNkem1kd0lRRzRUMkRJam9WdkZEN1QydW1yVlpiQi1PYVFpcTIwaVZvTnZqOF9tZllpMTVEY0JXenJVb21TUi1SSWJxX2FzLU0zdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f965937d522e37de0025494beb9834e2fd5f641e94f4062b1e22ff277f88b973"
     },
     {
       "id": "20260902-DP-801B0ED0-896",
@@ -677,59 +1689,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "635083150b117b57ea8c2d3813fbb0e4aced164c8b69e77f1c960eafc1d4aa57"
-    },
-    {
-      "id": "20260901-DP-9DCC9761-861",
-      "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-01T14:42:45+09:00",
-      "publishedAt": "2026-09-01T14:42:45+09:00",
-      "firstCollectedAt": "2026-09-01T16:40:29+09:00",
-      "updatedAt": "2026-09-01T22:26:14+09:00",
-      "summary": "2026년 세제개편안 정부안 확정 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2djcG9SRlBSQUZfcFlLZjBjd0lWdng5SExoZXZ6TURhb3RmUEpYc2ptOEpJdGlVVnFrN0xneDVTZ2dERVdXX0JESGMybXYtdjJnTzJRTnhWX3h5SDMtTGkyM2FydklERWh3a2ItbVBqUUZic1ZEd2hWNDk1MzlhcE5JSEpLRkRpa001M0tVOEpqZkpO?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 세제개편안 정부안 확정 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlR3VFhFb1ZHSWw4eC0xNE1vd3luVi00QmFtQ3FBSXdyd2lKUkl3a1M5UElQbWY3T3ZWbmRUSWtUV0l3Y2JDR08wdFpSbGk4bmxwUjZBMmk1aG9Qd3A0RGdNYi00d2MwMzZxMUFsS2pMWVpKT01PSTZ4VWR5aUlxNnMtemNWSWM3TGtQU3NhZG9IZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-01T22:26:14+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9dcc9761b4380cabe3581a1c9eb6ebd51c6296a58048e4da145509f9f7f38b7a"
     },
     {
       "id": "20260831-FR-4743CBFC-845",
@@ -2697,46 +3656,6 @@
       "contentHash": "3588dbbd16eab54a620a57f5de29e056c616e5b9542f117609e234bce9de0e85"
     },
     {
-      "id": "20260901-DP-171BD2AF-855",
-      "title": "「전략물자 수출입고시」 개정안 시행 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-01T08:50:16+09:00",
-      "publishedAt": "2026-09-01T08:50:16+09:00",
-      "firstCollectedAt": "2026-09-01T11:00:29+09:00",
-      "updatedAt": "2026-09-01T11:00:29+09:00",
-      "summary": "「전략물자 수출입고시」 개정안 시행 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "「전략물자 수출입고시」 개정안 시행 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSTRaXzdjYmFzVlF5VzE5cXF0TThJUGNFbkh4NDRoY0p1TkluUUZKdE95cWM1b0RweHFPLVh4dXQ0Z2pZdHRfV2FUc1ZxQ2s3OVpwN3ZBOWpDU3dESXZRNGpMOS1ERndfNmlDLTNyUks1UVNFa0d1VzlubWZqUXBDdmtWejdWV0xZb1lEamlWRkgtRmQyckg0OGpnWG4yQmtlZDJyVENsUURNcnFBV0c1QWJSbkRDYWN5NE9jYjZuN3FKMWluSE1wY0c5QVpZV0dibTBEa2Ryel9SeEVwajNEV19TSzhQNVlpSzNNdE1hQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "171bd2af80508dfdc42b204483429ac3510c90c47e201fdf1a3d2a7da6ce2e3b"
-    },
-    {
       "id": "20260901-DP-B93E309E-856",
       "title": "해상 구조활동 법적 보호 강화... ｢수상구조법｣ 국회 본회의 통과 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -2776,46 +3695,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b93e309ea6be35832ac1f31b3746887c85b98e85eabc5e5d95d6ca386b5e162e"
-    },
-    {
-      "id": "20260901-DP-DE00227F-857",
-      "title": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-01T09:54:54+09:00",
-      "publishedAt": "2026-09-01T09:54:54+09:00",
-      "firstCollectedAt": "2026-09-01T11:00:29+09:00",
-      "updatedAt": "2026-09-01T11:00:29+09:00",
-      "summary": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "소방공무원 현장 대응 손해배상 보장 강화 및 개인정보 유출 대응 의무 대폭 확대 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMG9ydXpzV0ZmeVVoUEJMREd0Z1k2MlZvNHdBRVNOczZCazZmb2dFMlZEcTVNcVQ5bkQzbFMzc1FwT1BwS1BCbnpqSmdtQjRfVk04ajY4SmdnZEotRU9WUXlCYk5yaHM1M0diaFYxSEJDWklTTW5rTnItX2hoR1dHN0ZXd3RiS3pGWS04bWtza0pBdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "de00227fad85cfa64c18db634e02c8547ac1a06050315067cc2321a96dc0d24c"
     },
     {
       "id": "20260901-FR-07325EC8-853",
@@ -3766,179 +4645,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e6dc234d468154baa36d87349dd876210f9e1c8160440d47a01c6448ff032f2d"
-    },
-    {
-      "id": "20260810-DP-56AB35E4-225",
-      "title": "전국법원 주요판결 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-10T14:37:13+09:00",
-      "publishedAt": "2026-08-10T14:37:13+09:00",
-      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
-      "updatedAt": "2026-08-31T14:59:52+09:00",
-      "summary": "전국법원 주요판결 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOQUJKSC05TzBvSm5XT2JjWDdUU2l6QWdhdm1fbjgyYVljMmFYS0pIcXpVRm52SF9BenkxMGF5UEpaaTZiaXVBc1A3WW5BY2gwRVB0YXdGeEEzY3YtRWNXV25Seng5WW4zcWFrSkVYak1pRWtMck5GWEVEM3lzM2JHdjBHTFNJUmM0QTgtTXpLQmswbVF3b2NVNlZ5ZmQ2WWllcVh4T0Z5UXR6X2VRVUI1VFRzODZBamlCV3R6dGc4OEIyX3NkZUxIQk5YaTdXZ2piSTFTRHBCb2puYnRsNzRaYl9oblpDU0JwLU5BMWZmQm9GaEVlVmJSWENTbkNYVTNhVGZXR1ZtVFV0bDlOQmQ3MHdSbUg5SG9NV1k0MlJ3UlJZTXJyOEVSd2RfUVdvS2hQU0E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOTUE4SnpCNWRoNEw2WnJwZlJ4dGFpd0dkTXNhUnlXS2lCd3p5RWdGc1QyVEpVSTZnZjZiVEVyaHBXS1U5RGVzTnN0c2RmZ2RMcy1vS0NaS1lPdEdmVUFTbm8xN0VRemVzX2RUbGJwM0pmRm5sWmtWSjA4Z3hFeW9UU1h3RlNXdzhWWjVsbnNkbHZzZ0plOVZPcUl0WWVDRkZqWll5OFJYa1VkZUpNM2t1RVpWcXJlY1lJUnRpVS1MSXAybFkzX24ydWNaNXFFTk4wUmZYSk44ZGxrVzdoWHhUZ1RsaXlfWTZCZHd3TVZzM2dKdmpjRHFsMDNuQVhXVElGNGFrV1lvb3c0d2p3RU4tU0stMlhBcEswMVFjV0JCU0VxV0xVZmNTQWV4a3VJQzNLOGc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOck5wN3cxUklyOXFHWFhYcGQ5YlRnanY2Ni1DWElBR3NoZ1FjUFRPNXRSNndPRFZVRy1zRW1JWXU0SE9scnVJRllvMjV5Zjg3eGJoVFRZb2phXzY2NXEwOFNsakNTNlJPWjVzYXFTVkQwOWZWcUw5R0JuVk80YW9LSm8zZlFRU3cyVTk0RjY5dlB4cUE4Qk5pYlFmUTY0VXo2NEFzaHR4OW5lMW40RmRVQ2NwVHItOXh2NGdRa3puaUYwQlA3azBrdHVod3dBQ2c4VlVqd2tqTzRWM0hBTDlxRUVXVFREQzJsMXBSNEZnRlZiMVYtWWE2NW9KNlpDU09tNDMtUFNDZ01TVXlHVDZRYTRPZHp1TlM2TEtvRnRBdkp2bk8xOHMxZVNkOFRDTFg1MWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPd1pkbUJrSnZfdzhPNmtCek1PWUhfYXpLRWZOYkdHbV94b0NnQVkxNE1xdTUydGYyV1NhU3pya1VuNjdZelNiU0lPam04T2JTVlNiWXdnNFdTa1I4X1k4MmlBQnp4N3Vab3lhTjVxNEItNXo3SC1qR2lpal9rLVJoNXBqQTNKZ01jRjZncEgwdXV2M2hRMERsUUVwV1FxQ3RrTV92RmVXVEVLY3FIQWVVOUF2QlVrVU4tMGxjbWlYMkxRWWt1OURYZUh2Q3BINUl1UUZlNU9CZkluZ1R2bjk0bVdibWxibVlkWjNuZ1pFSl9ESzBuRVozVzdMNWJjZ0owUFFzOUNCNmRHOXprQUtYOWpLLVNlZG5yeHlSUkRGcDFGWVU1V2VaZWJzdGdJaWlBWGc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUkhNVGdZeHM5Ynh3cng1aWJ0VXNQc0ZRZzgxXzhzN1A4dVFOQUYzS2F6a0YxbzNzT0VTeFVJUjlSa3h5bzJPa3VFSGxqVmdrUU1pb055M2s3RFZYeVpfNi11alVCOTQyX2N3WkVmXzZrTkxlbUo2QXg0bHEzbnpKeC1BS0FoUDdLMnd2R0RvcVZrU2ZTZ2FKdEhiYWFSZEZ2azZTaFhGREVCc1BFZE1OY0xiSy1RS19FcERWdy1iV241Q0cyeHJJZmpQUzV4cF9qRGZLNG5FTDdNY1RoSEpocHJadEp5NmJTaDdObzV1Z2ExQW8tYmllbk5hMDd3WU9qWUlwREZIV09ka1ZzVkhUcC0wQTFaUkFGeEp0OWlWUVUyUWxnNDZaT2pUa2JSQlRRN2c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPY2lWQ1JMQzNNQkdKaTJxNVFLM0NkbVI4czB5SUxWZ1pKLXo5YkxONktJYjM0enNVdjFyamo1Z3NDVHl3YUlTdl8yWWE2OTNmckRKcDRpVi0xbC1xb0NHTlF6Vnl4Smc0Tm1VYlpjcXdVWVowZzFlbHRzNS01YnBqczI5SUpFVVJQWnVjU1NQQ1ZuR3JJLXQwTHg2VTBxeEF2LWRjellzdWtCMWQwc05JSW9uNjc2Q2JEQnZ4NjUzaTRxdENHa2hxU29OVjBYRzRmeHh0NXdhX1FUUDF0MURZMGZybTZhVmE1eTcyczBMLXphY19OUVdodmpsTWJ1QjgyWi1pT05JZEMyOFgwMkxUZk9IQ3FRNXdMSmlzcUx3cDdGX0hiLXN1bmRxekZNMmJzZ2c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQQktkcVczenFybEhvVGdVRVN2RFRpZVVSdUhUZmc0NElNZXNyUHpGS1VBd0haa3Y2aUgtOEhkVU9PMi1maUU3UFlidmFNZ1ViNUxLcWMyTVY3N2xiM3dfM1RUZVNJUW5CcDI0bmtJa0FhbEFOQ18tVDRocHJrRU5XcE84R2RxQWhVMEIxWjRfOERhRW1zUUZIdkFOSVpULVI4SEZJMXB0cEhobWdJU2hsc05OM1lSQ3RDYUxnMHBxb0dGU2x6cEwzZGtuYl91UGtGY3JSaHVGS21CZGs3QWMwRnhUejlDX2N2ZEtfRjAwQW5qRzQyRTVLSmh1R0pkSUxrSUdIVWE5b0F4NGFmRWI1RTNWaUJLVmVTaDhwZjNFXzhLaUIzbGduT3FBaVpKcjVzN1E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSXJrekJocVRmcm5zOXNoWlZ1bFJvRlVaNmpVX3czSExfQjBqdDVJX2h2WFRYbDEtQWNIcWU2OTN5UXBSeDRUVUI2Z2lJNUVOQWxUVWRTTms4OER0MTIyaXFyaHJpU0xHaEZjU3Uzd2xOb1FWVVFSanNkb1VyYkd6SlMzVUMtU19leUtESGdKQlA5ck5SUkctWDZKeVF1UE1jSDZDOXo0U2c3dzU0UEVkb1NtZmUwUk4xQVN2czNSdWdWMFo4TjU3aGRuVlN3VXBHcXNNUEJaTDNFUWhIVGxtYWgxRUx5ay1kWnBaYlZYcHpMQWhxQWxtaVROVUhJSEpSYi05d3lDWDQ3eGwxdTY2Um15aXVTd0VjSl9sSzJvMzl4UjBXM3BqUk5mRnZIVGZEb1E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ29sek5Sd2hqXzA3eTVUMkFUbTR3ekQ0cXpkcG12RE94Sm9rR052TEZJMHAwX056cTRGTkNPcnRwWlBGWnZSN1hFa1lUVDVYeVlPRDU5NE4yNEpNNUFKcW1FTkZCSXFoYXV2VG1yQkVJcEdFU2ZFRXpNV3AzNFVFWkQ4ODdrRjlPUnpXYUVTR1J6QjhpUmhGUGZBSnBrMFB4TEVPTTlTZEpQY3V1cFp2eTlBcDFEWnM0ZjVMeXZJUkJVNE1WdkJtbVlaSzlDN3k2WWJJT3NmM00yOXZuazZwTlJtQ0JWSUxCbWo4OG00dmdTU181S0N2aDE1RXVaTlJIRTNEVDJZalQ5TDJrQUVyYW50SzhXQjkxSlFjdDZITEFtSElaNVZkRGp5bmFFeG5JbGc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNLUVvUTQ3VUotN0ZyVEdZSkVSaHRzUkJady1oaHBLQ29HZDU4SzIwTUxhdjNQVVlnWWdfRHZETUZtbHMtejJYVEVDOXh1MW1yRGlsdTdFQ0g3dVJ4ZEl4NlFDaW40dzRvR3JaZTJNTHFZYmJOQ0NJMGpFWWJTWHhZZUdHX3REOUdQVVlud2lHVEhST29RNWJaNkRKZ3NUdE5KZ20xSUZfdTM1OFQwakpXQ3lfbFhkS1haR3hEN3BjNHFpRk4ydE5uVHVRbDNFOFJOaVZob2prUmlZd0JxS2ZBeXlqWnJNY2NLdFM3Tm9mZlhwSWtIMUllVDl1OGVyWFgzS1R5VC1wUjVYaXJtNjExb2w2bDFLby0zaWhWNjZ1MWN4Y2IyY3lnelkwd0JYSnNpTVE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcFBlR0JlNV9qaVUwOWROOXhJbldheHhjZDFPQUxVV2pBQVJEdXR5R3ItM1JVWmFHUGRrTnl0X2JsalE3QXRfMERYWWVncG5fSWJaWnhNNlg4cHhxcS1DZDN1NkdvS0hKYXdwcS1oakgzNVROYnQwbGZCb3VjTWhhOWliLTNGaU44U2FNMFZJQkJwTVRwLXJMLXFJa09aSDc2T0x5azFkVnh6WEVkMURrYXVYSEUxckpJRVhNSFdNenBDTXA5SE5DLTNITHY5Q2VrN0ZweFhaeEpHdWE2dG1tajBLRDhDbmdJRWRDTVZKSkVNcEpXbExwYkYtcDFtQnhpdll4UUZsemFZWDlob2pJRHNfNld4bzRWN3ZqMzhKcnBQNmxub1FjU2YyUUQ2Y0JKTHc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbnN4SVZ6ejJxRThQQVFMX2FEODkyM2FlUFVEM0VPVEJHVWxneTRvdFFaa2NLdnc2R3VCQ2N4UVFTYmNkWXhlZTJITlBpcldzOENMcExIZXZTaTduTHhINlJBanR3M2VsVVVrcVppOUpFaFJlSWtMZGQ4R3prZGM1RmVXNl8yVzk4NGdCVXdDVktoRDJxX0xCOEEtYW5RNjkzNzFtRjZ6WVpQRW05NjVIc2FnbWs2bG1oWEstLXN6WjBJbmFFel9HMWtVSG1nY0VZM2ZfdFJfNVJONGVaMHlIM3lFWTUzcGhYREJLS01SbGdidVE4RGpVNy12LXRJOWRBWi1ZTWo1SmdJUTZjZUx4Ulp5RTlYZjlsNHlKT0gwN1ZBLXZYVmhoTzRROGpiVHBRcWc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-11T13:08:03+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-12T18:43:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-18T14:05:37+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-08-18T15:00:32+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-08-18T23:07:09+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-08-21T02:15:12+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        },
-        {
-          "updatedAt": "2026-08-21T08:54:54+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 7
-        },
-        {
-          "updatedAt": "2026-08-24T12:33:34+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 8
-        },
-        {
-          "updatedAt": "2026-08-24T17:09:23+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 9
-        },
-        {
-          "updatedAt": "2026-08-25T14:18:08+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 10
-        },
-        {
-          "updatedAt": "2026-08-31T14:59:52+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 11
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
     },
     {
       "id": "20260830-DP-351D5C1F-817",
