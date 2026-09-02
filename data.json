@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-02T18:27:03+09:00",
-    "nextScheduledUpdate": "2026-09-02T18:57:03+09:00",
+    "lastSuccessfulUpdate": "2026-09-02T22:48:31+09:00",
+    "nextScheduledUpdate": "2026-09-02T23:18:31+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-02T18:26:58+09:00",
-      "finishedAt": "2026-09-02T18:27:03+09:00",
+      "startedAt": "2026-09-02T22:48:29+09:00",
+      "finishedAt": "2026-09-02T22:48:31+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 69,
-      "duplicates": 63,
-      "rejected": 122,
-      "rejectedByDate": 121,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 22,
+      "duplicates": 24,
+      "rejected": 175,
+      "rejectedByDate": 120,
+      "rejectedByRelevance": 55,
       "rejectedAsCommentary": 0,
-      "newIssues": 11,
-      "updatedIssues": 4,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260901-FR-9BB99103-926",
+      "title": "동포 목소리 예산에 담아… 2027년 재외동포청 예산안 1,369억원 편성 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-01T15:26:33+09:00",
+      "publishedAt": "2026-09-01T15:26:33+09:00",
+      "firstCollectedAt": "2026-09-02T22:48:30+09:00",
+      "updatedAt": "2026-09-02T22:48:30+09:00",
+      "summary": "동포 목소리 예산에 담아… 2027년 재외동포청 예산안 1,369억원 편성 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "동포 목소리 예산에 담아… 2027년 재외동포청 예산안 1,369억원 편성 - korea.kr",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CX1ZYaHBGSTlRM0pFQnFTVlFpZ1NVVER1MzRsMVRRYlVmTmpnT3o4OW1QUW1XaThULTF2S012WkptbWhuMjh4OUpianIxQW1YbFBVbzNBMEtBRzdHaDVvc0Vkd005cjhxejV4VVJFcURkSnRV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9bb9910324fe67d64d8b8445f80a2690e1100512effe94f31141ecbb33c9bd0b"
+    },
     {
       "id": "20260901-FR-87980B57-906",
       "title": "\"저성장 고착화냐, 성장률 반등이냐 갈림길에 서 있어\" - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
