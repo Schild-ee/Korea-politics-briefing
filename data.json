@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-03T20:38:10+09:00",
-    "nextScheduledUpdate": "2026-09-03T21:08:10+09:00",
+    "lastSuccessfulUpdate": "2026-09-04T01:19:10+09:00",
+    "nextScheduledUpdate": "2026-09-04T01:49:10+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-03T20:38:07+09:00",
-      "finishedAt": "2026-09-03T20:38:10+09:00",
+      "startedAt": "2026-09-04T01:19:06+09:00",
+      "finishedAt": "2026-09-04T01:19:10+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 28,
-      "duplicates": 25,
-      "rejected": 164,
-      "rejectedByDate": 133,
-      "rejectedByRelevance": 31,
+      "acceptedCandidates": 49,
+      "duplicates": 53,
+      "rejected": 140,
+      "rejectedByDate": 137,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 7,
-      "updatedIssues": 4,
+      "newIssues": 5,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,337 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260903-FR-0EAEF6AA-951",
+      "title": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-03T07:09:55+09:00",
+      "publishedAt": "2026-09-03T07:09:55+09:00",
+      "firstCollectedAt": "2026-09-03T15:23:49+09:00",
+      "updatedAt": "2026-09-04T01:19:07+09:00",
+      "summary": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkd1TVFMTmtnYmQ2dUUwRXV0MzFTdjhNSnRKcE9vbHFBbHJkREpyNDV3dWFmbnJid1MtUGV4dkRIbngzYVlqdG90dFpGLVVKWTZOVVBPdGFDc19SQWRsYS1pV2ZBb2tFVDZ5QmRZdF9pUDRLN1NoN1FrbUtGX2Jrdjd4Rkt4OThSaERWNm9KMEd1UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTzJXdjBEenZrZXdRNUpYYWp0R2dVUEVrUHlYVnNpUDZ3LWNQMTV5NzlROVhMR3Rfb0pUOXhDbjZGRnI1SkRuY2xXNnByRXJSLTJzTWxXZkhjWFFFQkY5Y0E5ME9ZZVZ1eXFZeHVQS1dIRm5NdlE5bndFcVdKLWZ1Nkh0UWxhazI1S3N5dlEwdjRUdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-04T01:19:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0eaef6aaa0984f189dcc8632f026e57f32154b690ef8cd750cb61003fcc629bd"
+    },
+    {
+      "id": "20260811-FR-6AD80037-254",
+      "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T21:22:30+09:00",
+      "publishedAt": "2026-08-11T21:22:30+09:00",
+      "firstCollectedAt": "2026-08-11T23:47:29+09:00",
+      "updatedAt": "2026-09-04T01:19:07+09:00",
+      "summary": "외교부 대변인 정례브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDNVAyTHdLa3AyUE5ObnN5a2E2SkltSmlMYTMwX1VfNnJVQ09uUTdUMXpyTWZTU3lmVTM1R3B6dnVrQlJEbXE3UGVuMnJGVTRuOTVPV0U4d1J0RW5FV0lDUjZ6ZDFLaXBodWpjUG9fNjBUd20wSUww?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQjFpMTJFMkJHSDBDamE1M056cVRRdU41MW5NWTR0eC1NZTZJNEVHT0RQWFBxUUp1WUpvaEhQU2kyLUZvT3Y0ZnN6XzRoendWX2lqSlZWS0FKOXJpejRhTzI2b1NocG5wRUJxYjh3RVNTUTZtTHdn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GNjcyOVp5SXB6aUFqT1NiUVlUX2xSUXF6andKMFYwLW5zMm51aWNubms1RjdyY3VJTGswTk12Z25rTmlSRVExSGFKQlg1ZEppd25scW9YZ2wwWWlJdlZBLWVWd2xkcEo3SXFxQWNmUFFFTDlMRjhn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UQjFhVU14dm9lZ0U5Q2xsekVvdU5kZEp0Q1UwUHJTdG1HRDFLMmxYR0piekJySGpuVnZId29pSlh2TDhXbnZPazZ4SUVXOFhIYTVDU0lZQkdiaEtheGxVTmljZXFYcGRzZndXc1JNTUV6d0w4X1lj?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-14T04:44:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-28T09:57:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-04T01:19:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6ad80037ae7738d6d47b41d19e065cfacea935878d51ca7a18bcd6ec9fcdb106"
+    },
+    {
+      "id": "20260904-DP-0251518B-973",
+      "title": "820조 9000억 예산안 확정… “초격차 선도국가 도약 디딤돌” - gonggam.korea.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "예산",
+      "countries": [],
+      "institutions": [
+        "gonggam.korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T00:04:44+09:00",
+      "publishedAt": "2026-09-04T00:04:44+09:00",
+      "firstCollectedAt": "2026-09-04T01:19:07+09:00",
+      "updatedAt": "2026-09-04T01:19:07+09:00",
+      "summary": "820조 9000억 예산안 확정… “초격차 선도국가 도약 디딤돌” gonggam.korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "gonggam.korea.kr",
+          "title": "820조 9000억 예산안 확정… “초격차 선도국가 도약 디딤돌” - gonggam.korea.kr",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQbkNRT1c4dEtPRlVxT25KRENzZjhla1hPcHZ0NXp2aHhXOE1yb1lkcUVGZXJmUF9EYkp3RE9uaFUydjFLUG9uc2RsXzA4cC1aTlVFdHo5aTRGN24zM3hpVUhxMzJISnZCblJwZnhULWpMMS1Za1d1MnJyM2VSd2N4cEpNbFJkUGJzLWNvc1VGNmZvQ3dmMzZYT2pUem9XcWRrMEJSbl9QRUFiM1Y4SFAzTkhZR2JTakNWRXJVNGFSRFFyemJmWUUyVXlzSENoTWk2T214REkwS3JoV09pcE1zOVRYWU4weTZMNUhOYlBYQ3d0bkE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0251518b9bbd701221e816613bd678d678821487117f3f6f85d34e77a7f4c507"
+    },
+    {
+      "id": "20260903-FR-292977CD-974",
+      "title": "발전 5사 통합, LH는 개발·주거복지 분리…공공기관 109곳 감축 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-03T18:13:40+09:00",
+      "publishedAt": "2026-09-03T18:13:40+09:00",
+      "firstCollectedAt": "2026-09-04T01:19:07+09:00",
+      "updatedAt": "2026-09-04T01:19:07+09:00",
+      "summary": "발전 5사 통합, LH는 개발·주거복지 분리…공공기관 109곳 감축 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "발전 5사 통합, LH는 개발·주거복지 분리…공공기관 109곳 감축 - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yZW94bzJNRXo4SDVDRmZqZUVITlJNZ0dCMXJVOGJFME41b1BrOWs4M2hBUUVSMGJOZlQtNHduWjRYUFlyVVc1SDhld2dGRGRQZEladlZQbnJ5dTZpLWFHUzJITDhPS05SUV83Sg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "292977cd51f1641b3ffcf13db49b5a871692f49498b288149300a0c73c796646"
+    },
+    {
+      "id": "20260903-FR-557A0102-975",
+      "title": "관세청, 무역기반 재정·금융범죄(TBFC) 특별수사단 공식 출범...수출입실적 조작 통한 국가 재정·금융 편취행위 집중단속 나선다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-03T16:04:12+09:00",
+      "publishedAt": "2026-09-03T16:04:12+09:00",
+      "firstCollectedAt": "2026-09-04T01:19:07+09:00",
+      "updatedAt": "2026-09-04T01:19:07+09:00",
+      "summary": "관세청, 무역기반 재정·금융범죄(TBFC) 특별수사단 공식 출범...수출입실적 조작 통한 국가 재정·금융 편취행위 집중단속 나선다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "관세청, 무역기반 재정·금융범죄(TBFC) 특별수사단 공식 출범...수출입실적 조작 통한 국가 재정·금융 편취행위 집중단속 나선다 - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONC1XdVRmWkRqYjk0M1pfYWZGQUdjbWhjdWdWNHBZNGgtQWh0VDQzdUpQaVpiTUZRckNTNnhWR1dCWFBsX1dwNmJmTU1LUWF0dG00WGZBdXEzN2JvSElJRG9jdUVIRU5yaHlwSjVGWWt0TDFhUEd3MmtxQzV0OEQ0LWRYLUlOOHNOYnpWa2UzdjRxUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "557a010289ae056ef362bb8a0ff19125909a8739e3d3502b8473c911d48de602"
+    },
+    {
+      "id": "20260902-FR-44F04BB2-976",
+      "title": "'우리 동네'로 배달된 명작…일상의 공간에서 K-공예를 만나다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-02T13:10:11+09:00",
+      "publishedAt": "2026-09-02T13:10:11+09:00",
+      "firstCollectedAt": "2026-09-04T01:19:07+09:00",
+      "updatedAt": "2026-09-04T01:19:07+09:00",
+      "summary": "'우리 동네'로 배달된 명작…일상의 공간에서 K-공예를 만나다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'우리 동네'로 배달된 명작…일상의 공간에서 K-공예를 만나다 - 대한민국 정책브리핑",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySENESUxsSVV0YlVHZGRvSmN1aUdqME1sbFNRbXVjLUl0REQyMGN6QUJ2N004R3BuYzVBM2wyS0ZVdXVZVkowU0V4cFl2R05UUGtESWgyUlUzek5VZlhHd09nM3BCczFWamc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "44f04bb2f093d8963db799f759cd2d54fb5718e5f85db25ebdb2f13c1475a79c"
+    },
+    {
+      "id": "20260903-FR-A7AA0A79-977",
+      "title": "K-푸드 떡볶이여 영원하라…동네 떡집 지키는 '생계형 적합업종' 재지정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-03T14:03:45+09:00",
+      "publishedAt": "2026-09-03T14:03:45+09:00",
+      "firstCollectedAt": "2026-09-04T01:19:07+09:00",
+      "updatedAt": "2026-09-04T01:19:07+09:00",
+      "summary": "K-푸드 떡볶이여 영원하라…동네 떡집 지키는 '생계형 적합업종' 재지정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "K-푸드 떡볶이여 영원하라…동네 떡집 지키는 '생계형 적합업종' 재지정 - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EaFc2NHRHVXdJLUdsclBXLUtlSGJub2lLMk9wdUhFYnViNzBtcHhsZ3dZMjV4ekxsMzEwWkdsbnpYb2k3dVJoYmo0bWFQbU1ILTRKY2V2Zl9oT3JtUHB5aGtleUgxd3JiTXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a7aa0a7902b64bd8ae36845eacf58315704b01c3d75a3c95d0f6507fd9fc064f"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -1016,46 +1347,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ac908e275a841ddfb4e86eff8e23f8114ff0990c9cefc942b83cfea1401048a5"
-    },
-    {
-      "id": "20260903-FR-0EAEF6AA-951",
-      "title": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-03T07:09:55+09:00",
-      "publishedAt": "2026-09-03T07:09:55+09:00",
-      "firstCollectedAt": "2026-09-03T15:23:49+09:00",
-      "updatedAt": "2026-09-03T15:23:49+09:00",
-      "summary": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 - 대한민국 정책브리핑",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkd1TVFMTmtnYmQ2dUUwRXV0MzFTdjhNSnRKcE9vbHFBbHJkREpyNDV3dWFmbnJid1MtUGV4dkRIbngzYVlqdG90dFpGLVVKWTZOVVBPdGFDc19SQWRsYS1pV2ZBb2tFVDZ5QmRZdF9pUDRLN1NoN1FrbUtGX2Jrdjd4Rkt4OThSaERWNm9KMEd1UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0eaef6aaa0984f189dcc8632f026e57f32154b690ef8cd750cb61003fcc629bd"
     },
     {
       "id": "20260903-FR-6AD340FE-952",
@@ -10888,72 +11179,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "c84e6040c77e83cf10a739162403cd499dbf76cc085a66f994c94889a7c3131b"
-    },
-    {
-      "id": "20260811-FR-6AD80037-254",
-      "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "외교부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T21:22:30+09:00",
-      "publishedAt": "2026-08-11T21:22:30+09:00",
-      "firstCollectedAt": "2026-08-11T23:47:29+09:00",
-      "updatedAt": "2026-08-28T09:57:57+09:00",
-      "summary": "외교부 대변인 정례브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDNVAyTHdLa3AyUE5ObnN5a2E2SkltSmlMYTMwX1VfNnJVQ09uUTdUMXpyTWZTU3lmVTM1R3B6dnVrQlJEbXE3UGVuMnJGVTRuOTVPV0U4d1J0RW5FV0lDUjZ6ZDFLaXBodWpjUG9fNjBUd20wSUww?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQjFpMTJFMkJHSDBDamE1M056cVRRdU41MW5NWTR0eC1NZTZJNEVHT0RQWFBxUUp1WUpvaEhQU2kyLUZvT3Y0ZnN6XzRoendWX2lqSlZWS0FKOXJpejRhTzI2b1NocG5wRUJxYjh3RVNTUTZtTHdn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GNjcyOVp5SXB6aUFqT1NiUVlUX2xSUXF6andKMFYwLW5zMm51aWNubms1RjdyY3VJTGswTk12Z25rTmlSRVExSGFKQlg1ZEppd25scW9YZ2wwWWlJdlZBLWVWd2xkcEo3SXFxQWNmUFFFTDlMRjhn?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-14T04:44:30+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-28T09:57:57+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6ad80037ae7738d6d47b41d19e065cfacea935878d51ca7a18bcd6ec9fcdb106"
     },
     {
       "id": "20260826-FR-867104EA-734",
