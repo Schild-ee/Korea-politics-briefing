@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-04T01:19:10+09:00",
-    "nextScheduledUpdate": "2026-09-04T01:49:10+09:00",
+    "lastSuccessfulUpdate": "2026-09-04T04:23:47+09:00",
+    "nextScheduledUpdate": "2026-09-04T04:53:47+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-04T01:19:06+09:00",
-      "finishedAt": "2026-09-04T01:19:10+09:00",
+      "startedAt": "2026-09-04T04:23:44+09:00",
+      "finishedAt": "2026-09-04T04:23:47+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 49,
-      "duplicates": 53,
-      "rejected": 140,
-      "rejectedByDate": 137,
-      "rejectedByRelevance": 3,
+      "acceptedCandidates": 48,
+      "duplicates": 57,
+      "rejected": 141,
+      "rejectedByDate": 139,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
-      "updatedIssues": 2,
+      "newIssues": 1,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,112 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260813-FR-192500B5-312",
+      "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "국방부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-13T19:50:57+09:00",
+      "publishedAt": "2026-08-13T19:50:57+09:00",
+      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
+      "updatedAt": "2026-09-04T04:23:45+09:00",
+      "summary": "국방부 일일 정례 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-13",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wZXZTVFJUSkV2ejZUM0l3WkVxUi1YbWFPMmEyM3lYVWJOaDNxbXdEcjlDbk9Qa0ZJdTBtQUFDOElrVHJHWGVna1I4MFh4Z2RtakxMcVMzZmpCMGJYTURTb1ZhSXpmMDlIM1AxRWhjaWpMXzQwMEpF?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vcWlTcTMyalFzVlp5aEhnalRpeUk2dEZfRHFXMUxyNW1lTzAtdHpVOHplMmU3WERzMG8waXhEeUJyOGliZHdGQnZaMU9KVlM2ZUtoQzVFUF82UTRHdzhHRk5XNkMySmVlaHdVYjFvdUFoeXV2WlhF?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14Ukc2LUtDU09uRDdDbFEtaWlPaWYxQzdPX18zTEV4NWQxbVFULU9HLVpvREJSQlluVExxUGtvekc0bG1wTk8xMWR0UDNaajhGQ0lJSVJnXzUyNkR5WlBieTMxWU9oWmh6dl8xemxDNTlnTXQzSXVB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-26T02:59:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-04T04:23:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "192500b5b439afd9e838b7e9a63ce1ab769d6be86f69d665f5fab8f81058711f"
+    },
+    {
+      "id": "20260903-FR-EF2D56E1-978",
+      "title": "무역안보, 산업경쟁력을 지키는 힘! - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-03T21:23:43+09:00",
+      "publishedAt": "2026-09-03T21:23:43+09:00",
+      "firstCollectedAt": "2026-09-04T04:23:45+09:00",
+      "updatedAt": "2026-09-04T04:23:45+09:00",
+      "summary": "무역안보, 산업경쟁력을 지키는 힘!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "무역안보, 산업경쟁력을 지키는 힘! - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0xsS2tSS1BhR0F1eU1aVURJWGoyN0JXdExTUGRSSERzeFRhYlg5YXFsNHp6NlpWUHJrR2lwR0M2SjdvYVNlM1YyVVRDSHhya0xtcEdmMHZ1aUcyWDVOSEpuQnZBcWZnMV9iUXVLOHdYdnhLSkVnbW1zTEpCaVQwOG4xUzJWWUxNMmtj?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ef2d56e164a263255437bdb458b71d97a126d707316e0322d6a3370ff076d6ae"
+    },
     {
       "id": "20260903-FR-0EAEF6AA-951",
       "title": "바이오 대도약을 향한 '2026 GBC' 성황리에 마무리 - 대한민국 정책브리핑",
@@ -14592,60 +14698,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2337eb577412d6e6afc7b02e13e77b8d46265eff68695d35a2d7512a7b1f5c2c"
-    },
-    {
-      "id": "20260813-FR-192500B5-312",
-      "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "국방부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-13T19:50:57+09:00",
-      "publishedAt": "2026-08-13T19:50:57+09:00",
-      "firstCollectedAt": "2026-08-13T21:36:29+09:00",
-      "updatedAt": "2026-08-26T02:59:41+09:00",
-      "summary": "국방부 일일 정례 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-13",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wZXZTVFJUSkV2ejZUM0l3WkVxUi1YbWFPMmEyM3lYVWJOaDNxbXdEcjlDbk9Qa0ZJdTBtQUFDOElrVHJHWGVna1I4MFh4Z2RtakxMcVMzZmpCMGJYTURTb1ZhSXpmMDlIM1AxRWhjaWpMXzQwMEpF?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국방부 일일 정례 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vcWlTcTMyalFzVlp5aEhnalRpeUk2dEZfRHFXMUxyNW1lTzAtdHpVOHplMmU3WERzMG8waXhEeUJyOGliZHdGQnZaMU9KVlM2ZUtoQzVFUF82UTRHdzhHRk5XNkMySmVlaHdVYjFvdUFoeXV2WlhF?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-26T02:59:41+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "192500b5b439afd9e838b7e9a63ce1ab769d6be86f69d665f5fab8f81058711f"
     },
     {
       "id": "20260825-FR-C1B47B0D-680",
