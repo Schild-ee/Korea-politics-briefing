@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-05T01:59:46+09:00",
-    "nextScheduledUpdate": "2026-09-05T02:29:46+09:00",
+    "lastSuccessfulUpdate": "2026-09-05T04:23:28+09:00",
+    "nextScheduledUpdate": "2026-09-05T04:53:28+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-05T01:59:43+09:00",
-      "finishedAt": "2026-09-05T01:59:46+09:00",
+      "startedAt": "2026-09-05T04:23:25+09:00",
+      "finishedAt": "2026-09-05T04:23:28+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 35,
-      "duplicates": 40,
-      "rejected": 154,
-      "rejectedByDate": 153,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 36,
+      "duplicates": 44,
+      "rejected": 153,
+      "rejectedByDate": 151,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
-      "updatedIssues": 2,
+      "newIssues": 2,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,139 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260904-FR-718BC9BC-984",
+      "title": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T12:04:45+09:00",
+      "publishedAt": "2026-09-04T12:04:45+09:00",
+      "firstCollectedAt": "2026-09-04T13:17:05+09:00",
+      "updatedAt": "2026-09-05T04:23:26+09:00",
+      "summary": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU5hSjBrcW01d2g0MjR4QlV6LVpnWlRfSEVwbmlCTWZySlhtd0JZN0w2cjRsaTZjN01lZVB4ZGNCb093WDBwalZ2Qjd3R1lxcnpQZGxhRE1DSC1OWUo1ZWhZdFpzQVpOdUZzaFRCT1RHTnp0bnU2dUowT3pKOWhUaDFUamRlSDJ2ZGZwTVVR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DMm1QemdvZFp1Uko0bGRKTE45V1Zhd3lSdmdKZGthX1ZzR1NIeXM2NDFDQWVvVl92X3dtRzFIcDV5eDhYUDVtWDltTDFMRmhPUmtzSmpCZWM2V1ZYVkpiakw5OXF0Wjc5VFhzMDRrdXk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-05T04:23:26+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "718bc9bc3561262513f0af88f1dfb3932c4c9f3bfc213861b48e558b22968031"
+    },
+    {
+      "id": "20260904-FR-DF8C8F96-1019",
+      "title": "탄소중립과 에너지 안보를 동시에, 담대한 에너지 대전환 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T14:12:00+09:00",
+      "publishedAt": "2026-09-04T14:12:00+09:00",
+      "firstCollectedAt": "2026-09-05T04:23:26+09:00",
+      "updatedAt": "2026-09-05T04:23:26+09:00",
+      "summary": "탄소중립과 에너지 안보를 동시에, 담대한 에너지 대전환 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "탄소중립과 에너지 안보를 동시에, 담대한 에너지 대전환 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2pQaEtzYXJZOE5RYUp4SExqMnRlWDhJR0hVekdOckJhWkRmUUtsTEV0Z1FlMTlpc2RZZGMxeFlKV3duRnlXTlBzZlZTTUIyWGxXenRNUVRPUlBLSkFMWFdZcTN4Ti1Zb0U0OTduaVBWV0VqYWxERHU1TVQtRFJjSDRLQUxqOWZfSmxUSVNmTVU1bktpZEUyLXVneFdZSUtIbnc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "df8c8f96afaad3ccfcf839926a09f224b92d715c03460486c97e7fffec3f8b1d"
+    },
+    {
+      "id": "20260904-DP-60CBFA48-1020",
+      "title": "이재명 대통령, 시민사회 초청 간담회 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T14:49:24+09:00",
+      "publishedAt": "2026-09-04T14:49:24+09:00",
+      "firstCollectedAt": "2026-09-05T04:23:26+09:00",
+      "updatedAt": "2026-09-05T04:23:26+09:00",
+      "summary": "이재명 대통령, 시민사회 초청 간담회 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 시민사회 초청 간담회 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDY0Vna1Z5djBGZzJibVA4YnpYVlNicjZveUU3T0hiMjFDY2lCRHVXc1FTMFlfTHN4ZXgxY19JeVRpaEFrVWZELWtTVVBILTRPZTZoQlNGVmJrMEV6ZktMbGkzUFQtXzFpb01XNk04UlQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "60cbfa48ca29e0899a7cccd50ca7f317653307ec9a9cff7177a76133fea9702e"
+    },
     {
       "id": "20260904-DP-AAFAEC37-997",
       "title": "2027 재외동포청 예산안 확 달라진 포인트 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -1559,46 +1692,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6d25cd170abbff98d33bf0f1c491f766f03ba992d53805652db1813c19ac1224"
-    },
-    {
-      "id": "20260904-FR-718BC9BC-984",
-      "title": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-04T12:04:45+09:00",
-      "publishedAt": "2026-09-04T12:04:45+09:00",
-      "firstCollectedAt": "2026-09-04T13:17:05+09:00",
-      "updatedAt": "2026-09-04T13:17:05+09:00",
-      "summary": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVU5hSjBrcW01d2g0MjR4QlV6LVpnWlRfSEVwbmlCTWZySlhtd0JZN0w2cjRsaTZjN01lZVB4ZGNCb093WDBwalZ2Qjd3R1lxcnpQZGxhRE1DSC1OWUo1ZWhZdFpzQVpOdUZzaFRCT1RHTnp0bnU2dUowT3pKOWhUaDFUamRlSDJ2ZGZwTVVR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "718bc9bc3561262513f0af88f1dfb3932c4c9f3bfc213861b48e558b22968031"
     },
     {
       "id": "20260904-FR-7ECFD313-987",
