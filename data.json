@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-05T04:23:28+09:00",
-    "nextScheduledUpdate": "2026-09-05T04:53:28+09:00",
+    "lastSuccessfulUpdate": "2026-09-05T06:44:02+09:00",
+    "nextScheduledUpdate": "2026-09-05T07:14:02+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-05T04:23:25+09:00",
-      "finishedAt": "2026-09-05T04:23:28+09:00",
+      "startedAt": "2026-09-05T06:44:00+09:00",
+      "finishedAt": "2026-09-05T06:44:02+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 36,
-      "duplicates": 44,
-      "rejected": 153,
-      "rejectedByDate": 151,
-      "rejectedByRelevance": 2,
+      "fetchedCandidates": 150,
+      "acceptedCandidates": 27,
+      "duplicates": 25,
+      "rejected": 123,
+      "rejectedByDate": 122,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
+      "newIssues": 1,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -27,7 +27,7 @@
           "id": "official_domestic",
           "name": "공식기관 국내정치 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 0,
           "error": ""
         },
         {
@@ -64,6 +64,111 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260824-FR-102EDF20-622",
+      "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T18:00:00+09:00",
+      "publishedAt": "2026-08-24T18:00:00+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-09-05T06:44:00+09:00",
+      "summary": "2026년 제30차 위원회 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTBsSzlhY3VmUkk4eWJMcnFsR3NPOVVXTV9fN1RvdC1rSldsNXVrZTFEaWFKcWc3azR0SDN5Q1hadExZQjJCZXp2WmZWT1FlckhpUkw3YmVuZE04R3VCRXJPUUltam9qSVBhME1JWVE0bjBNOXA1UlktdFY0S01Vd3M0SDh5d0ZwT3A0Z2FBQk1jNjZDdzJfSVNqRmUyX3FkRkpZZHp2bkJORXhYZGpUQjNpb09sdUd3d0FNdDgzNjA0LVV3R2VISHZIamZWNU43Y0ZfakwxbkNkdUdnazVzRUZpM3JLRVd0MmhBUzFTWQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pQkd3MmF0aC1FRmlsNzMteGRzeGJDTk03bjNNYzNadkF3dzB4TzFlNW9wS1I5NzhCMzZ0NGlVTGlZeHVCSjkwNUZlNDdNamxjdDNHaHBBcjd6dXVjT0s1c09tOHJkdnJBLURRWHRnUXhkc05X?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제33차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcjQ2SWZ1bWdLYU9tRmFmeGo5NExuWEpfd1VYQ3Y5aGRpUTJaZ1FxWTdlMEtEODZZZE1TM3NXUWVNdTAwOUNIQllkYXE3OEozdHpIbUYxVVRqWlNiYXlhOWh0VGtsQUlmM25yMTFzZWU3eXU2b0NWVXl6bzMtMXl2eW4ya3Nwczd6dkhWZ3E4TXVINEJMVUl4M1M0aHJfUGRoaVlWcTZMY05pTWJxQ2NnYkpFVDdVZjNyZG9rNG04M0Ryc2hfc05CNGdKcGlWelBNSGdyc082QUxWeFFvel82d0FnLTRmSGN4MHJVMThlTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-25T23:28:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-05T06:44:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "102edf20f2687a855812157ff88c286870d657f86fa931993c96868131ec1ee9"
+    },
+    {
+      "id": "20260904-FR-8237E22C-1021",
+      "title": "\"2026 아시안게임, 보편적 시청권 보장\" 권고 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T18:00:00+09:00",
+      "publishedAt": "2026-09-04T18:00:00+09:00",
+      "firstCollectedAt": "2026-09-05T06:44:00+09:00",
+      "updatedAt": "2026-09-05T06:44:00+09:00",
+      "summary": "\"2026 아시안게임, 보편적 시청권 보장\" 권고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"2026 아시안게임, 보편적 시청권 보장\" 권고 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEJ6cm9WYXR3eUNBbXNGcFM2RXJ0STJzckhxdmdBSVhPQldJSHNZRDZmcUtyUG05SmJ4cDlnbkUwZW1FS1RzTi1wWUtud3Q1SnVhdWJJbzFSeHZMWlZNMzZ6bXZjRWlhZ0s1cGx4MVB2WmJSS2ZiSjZOVVdvMFJ3V1Q0UE5XRWJuckg3aTFDTUZEQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8237e22c5b170c657fea200142a419acf013342885bd7e0f37226e7ab5395ea9"
+    },
     {
       "id": "20260904-FR-718BC9BC-984",
       "title": "프랑스 국빈방문 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
@@ -16771,59 +16876,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "24f043cc154d9aa39bca0e90af2da0103419481a3b65b5e969af005c95a72a81"
-    },
-    {
-      "id": "20260824-FR-102EDF20-622",
-      "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-24T18:00:00+09:00",
-      "publishedAt": "2026-08-24T18:00:00+09:00",
-      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
-      "updatedAt": "2026-08-25T23:28:56+09:00",
-      "summary": "2026년 제30차 위원회 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTBsSzlhY3VmUkk4eWJMcnFsR3NPOVVXTV9fN1RvdC1rSldsNXVrZTFEaWFKcWc3azR0SDN5Q1hadExZQjJCZXp2WmZWT1FlckhpUkw3YmVuZE04R3VCRXJPUUltam9qSVBhME1JWVE0bjBNOXA1UlktdFY0S01Vd3M0SDh5d0ZwT3A0Z2FBQk1jNjZDdzJfSVNqRmUyX3FkRkpZZHp2bkJORXhYZGpUQjNpb09sdUd3d0FNdDgzNjA0LVV3R2VISHZIamZWNU43Y0ZfakwxbkNkdUdnazVzRUZpM3JLRVd0MmhBUzFTWQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pQkd3MmF0aC1FRmlsNzMteGRzeGJDTk03bjNNYzNadkF3dzB4TzFlNW9wS1I5NzhCMzZ0NGlVTGlZeHVCSjkwNUZlNDdNamxjdDNHaHBBcjd6dXVjT0s1c09tOHJkdnJBLURRWHRnUXhkc05X?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-25T23:28:56+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "102edf20f2687a855812157ff88c286870d657f86fa931993c96868131ec1ee9"
     },
     {
       "id": "20260825-FR-34F7763F-677",
