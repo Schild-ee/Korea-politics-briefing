@@ -1,23 +1,23 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-07T06:37:06+09:00",
-    "nextScheduledUpdate": "2026-09-07T07:07:06+09:00",
+    "lastSuccessfulUpdate": "2026-09-07T08:06:10+09:00",
+    "nextScheduledUpdate": "2026-09-07T08:36:10+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-07T06:37:03+09:00",
-      "finishedAt": "2026-09-07T06:37:06+09:00",
+      "startedAt": "2026-09-07T08:06:07+09:00",
+      "finishedAt": "2026-09-07T08:06:10+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 21,
-      "duplicates": 20,
-      "rejected": 178,
-      "rejectedByDate": 177,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 13,
+      "duplicates": 12,
+      "rejected": 186,
+      "rejectedByDate": 173,
+      "rejectedByRelevance": 13,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
       "updatedIssues": 1,
@@ -64,6 +64,99 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260906-FR-6BDA488B-1033",
+      "title": "한-네팔 외교장관 회담(9.6.) 결과 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-06T17:30:36+09:00",
+      "publishedAt": "2026-09-06T17:30:36+09:00",
+      "firstCollectedAt": "2026-09-07T02:18:35+09:00",
+      "updatedAt": "2026-09-07T08:06:08+09:00",
+      "summary": "한-네팔 외교장관 회담(9.6.) 결과 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "한-네팔 외교장관 회담(9.6.) 결과 - korea.kr",
+          "date": "2026-09-06",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnRNc0VIZl9LbEYzVGdBWTJoYXU1VEpXTUQzVkQ2c3d3RTVjTTFwWVVpdHlmbjFJNTVhQ3IyamVSNlcxX0FsTDU4VktrTmV5TGJiMEw4T1ExdmpKaGMtcWViMzI1MDgtdXdmTGc4WG5BMGtISUVxU0FBbjBvMC10c3Z6LVJOVURjWExr?oc=5",
+          "official": true
+        },
+        {
+          "name": "korea.kr",
+          "title": "한-네팔 외교장관 회담(9.6.) 결과 - korea.kr",
+          "date": "2026-09-06",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YWHh2R3VWWjRLUmdzVGljM1JxVHBUUmpNNmljTGtwT2lwaXBKMVZ4b2tMcWJTV2lpM3BJcnUzVWxNQXBtUjVFM2swamFIWU5scTJfYkV2ek4zRDZOLU9UOVZhTW5mSVJRNTNtb19Bd3lqdTJk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-07T08:06:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6bda488bcbd56afe0e5c2120d8198a4e1a766a3291cf4190c88ad329c0c4d6bf"
+    },
+    {
+      "id": "20260904-DP-E2E2D296-1039",
+      "title": "국가스포츠정책위원회 사전브리핑 - korea.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T15:20:00+09:00",
+      "publishedAt": "2026-09-04T15:20:00+09:00",
+      "firstCollectedAt": "2026-09-07T08:06:08+09:00",
+      "updatedAt": "2026-09-07T08:06:08+09:00",
+      "summary": "국가스포츠정책위원회 사전브리핑 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "국가스포츠정책위원회 사전브리핑 - korea.kr",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XZndmc3RyOEdNVjZIWEdJeFdONDVtM0tRS0FfS3JoRjJacVd5ZUNkTy1hdkF4X2FGdWpaRHhqU0I4ZTBUS0MzMWFwT3hCaWVyd3pBRm9nMHZsTndJR1c0NXhPdVBrUDFacFRaaUcwNElETHRuaUxF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e2e2d2963c20086761715c6f811dabe6055530fe1923960602e2f10bccbe32e8"
+    },
     {
       "id": "20260906-FR-FDB1D1E3-1034",
       "title": "한-네팔 외교장관 회담(9.6.) 결과 - 대한민국 정책브리핑",
@@ -276,46 +369,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3679510c7f3947083529ef871b69cd4e71efff714e42d472c005989a57b2de1c"
-    },
-    {
-      "id": "20260906-FR-6BDA488B-1033",
-      "title": "한-네팔 외교장관 회담(9.6.) 결과 - korea.kr",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "korea.kr"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-06T17:30:36+09:00",
-      "publishedAt": "2026-09-06T17:30:36+09:00",
-      "firstCollectedAt": "2026-09-07T02:18:35+09:00",
-      "updatedAt": "2026-09-07T02:18:35+09:00",
-      "summary": "한-네팔 외교장관 회담(9.6.) 결과 korea.kr",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "korea.kr",
-          "title": "한-네팔 외교장관 회담(9.6.) 결과 - korea.kr",
-          "date": "2026-09-06",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRnRNc0VIZl9LbEYzVGdBWTJoYXU1VEpXTUQzVkQ2c3d3RTVjTTFwWVVpdHlmbjFJNTVhQ3IyamVSNlcxX0FsTDU4VktrTmV5TGJiMEw4T1ExdmpKaGMtcWViMzI1MDgtdXdmTGc4WG5BMGtISUVxU0FBbjBvMC10c3Z6LVJOVURjWExr?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6bda488bcbd56afe0e5c2120d8198a4e1a766a3291cf4190c88ad329c0c4d6bf"
     },
     {
       "id": "20260904-FR-FCBE5521-1032",
