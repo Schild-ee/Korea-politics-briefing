@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-06T15:27:08+09:00",
-    "nextScheduledUpdate": "2026-09-06T15:57:08+09:00",
+    "lastSuccessfulUpdate": "2026-09-06T20:16:51+09:00",
+    "nextScheduledUpdate": "2026-09-06T20:46:51+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-06T15:27:06+09:00",
-      "finishedAt": "2026-09-06T15:27:08+09:00",
+      "startedAt": "2026-09-06T20:16:49+09:00",
+      "finishedAt": "2026-09-06T20:16:51+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 25,
       "duplicates": 25,
-      "rejected": 174,
-      "rejectedByDate": 173,
+      "rejected": 173,
+      "rejectedByDate": 172,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
-      "updatedIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,46 +65,6 @@
   },
   "issues": [
     {
-      "id": "20260903-DP-89424F6F-1030",
-      "title": "한 총리 \"수도권 소재 중앙행정기관, 내년 상반기부터 세종시 이전\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-03T20:38:22+09:00",
-      "publishedAt": "2026-09-03T20:38:22+09:00",
-      "firstCollectedAt": "2026-09-06T15:27:07+09:00",
-      "updatedAt": "2026-09-06T15:27:07+09:00",
-      "summary": "한 총리 \"수도권 소재 중앙행정기관, 내년 상반기부터 세종시 이전\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한 총리 \"수도권 소재 중앙행정기관, 내년 상반기부터 세종시 이전\" - 대한민국 정책브리핑",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtMUp4YWctUFluOVFXV0V5dlpSRDFIbVJodk92dlg4SUtBYkZ1akpQVUh0QzRaa0dwTFJnRldQYm1Fa3NMS1B3ZHBOZFBrUDFKTlZsTGc1eHFEWDNTbWFxM1hReVNJcG5zWllvdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "89424f6ffbf70d9a555d8eb6b87d1d0a9d2ac457215a6509bb36223b814e299c"
-    },
-    {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
       "primaryCategory": "국내 정치",
@@ -121,7 +81,7 @@
       "occurredAt": "2026-08-10T14:37:13+09:00",
       "publishedAt": "2026-08-10T14:37:13+09:00",
       "firstCollectedAt": "2026-08-10T19:04:32+09:00",
-      "updatedAt": "2026-09-06T04:21:17+09:00",
+      "updatedAt": "2026-09-06T20:16:50+09:00",
       "summary": "전국법원 주요판결 대한민국 법원",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -275,6 +235,13 @@
           "date": "2026-09-04",
           "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMzM2U25vSUtvM1JQbmtFZWNlN2g5TU5CZG56d3BJTURlSkVvZWxvblJucXdRZFJaZXIycDItUDRlTk1lYWZ1cndDcm5sdmt6QlFRYlB6Ymg5ajZ5ZG1aSGlyM0lOajJ0aVFCRmFIcXNPZUNvQkZNTnpBT1NkUDFzRHNiY0JMVFBtOXBvVGl6NVN5Wkt0YUxPU1NSTTUtY05GYkZyalR0elZPMG5TV0ZMUGcyYUtOMk0wS3V3Mk9jTFpONDJhcWNsbkRJblhHVFR5Ykp3RTRTQVBsQXJ2Q2h1SklGSWo1QU5kcFlJV2dpWVU0dWQ3bDUwcjVrdkpLQzVGakpJOS03SmtfaDhadTI2TWhFRVBuczB0SEV3aDVKUVZ4ZmdTNWRQYVd3V2dRNnNRVFE?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVVRQdGluS19FV1BpU252ank4WWMzWmxkb2lSZzdLRFQxV1ZYQ1ZBQmhlaDNhRXZvSHhFaUJBc2p2TV9PZ0FNeDRja293YnJCb3lmbDllS2xrT3k2MjJWMVR5azlVZmhIQW1JY0xxNHNYLVdIb2NnZmZJSGpKUzdtNDZWaENueVM3Nl91WEVyaXE4N0RmNl9OVWxpLU9VRmVSb0s2dEJaeDMzMG9FRFZUMHBPMU53YWlITmJCS3RDXzQwdHE1S3BpRHc4WXd0ZVp1WVBJUWdFMjhqUGpKT282THlsZ1JfbGdYOGZMUk1YZVBCbzFLWllFc0ZPLXBPN2FDRDdTVmcwc2RyRXhOTkoxMUt0UjdhWVRjdFEyV0JvZjBHSEhUV1FmTTNmNC0tX3Z5V2c?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -377,6 +344,11 @@
           "updatedAt": "2026-09-06T04:21:17+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 20
+        },
+        {
+          "updatedAt": "2026-09-06T20:16:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 21
         }
       ],
       "corrected": false,
@@ -384,6 +356,86 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
+    },
+    {
+      "id": "20260904-DP-6EBF7014-1031",
+      "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T06:05:00+09:00",
+      "publishedAt": "2026-09-04T06:05:00+09:00",
+      "firstCollectedAt": "2026-09-06T20:16:50+09:00",
+      "updatedAt": "2026-09-06T20:16:50+09:00",
+      "summary": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민 목숨 살리는 대체불가 대한민국 구현 위한 예산 편성 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXVFNHdQbEMxa2llaUNiaWVwOVo3OHd1NjVSUlI0eW1sRDFfYmx4VnZGYU0zRUduVnpnNXowMHpXSzBfdDZzbjB5NVRnd3lmc3FqeUtRakZ3QlFfZHpmdWtDYzJ6MlNHakFBcWNCbjBDWDFuaThWN3FmcVNVRWVWbUNEX21kYzJYWEZqM010ZTQ5Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6ebf7014b9637b58caf1188da0422763a0242e04ee48a01bf788695681cec3d5"
+    },
+    {
+      "id": "20260903-DP-89424F6F-1030",
+      "title": "한 총리 \"수도권 소재 중앙행정기관, 내년 상반기부터 세종시 이전\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-03T20:38:22+09:00",
+      "publishedAt": "2026-09-03T20:38:22+09:00",
+      "firstCollectedAt": "2026-09-06T15:27:07+09:00",
+      "updatedAt": "2026-09-06T15:27:07+09:00",
+      "summary": "한 총리 \"수도권 소재 중앙행정기관, 내년 상반기부터 세종시 이전\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한 총리 \"수도권 소재 중앙행정기관, 내년 상반기부터 세종시 이전\" - 대한민국 정책브리핑",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtMUp4YWctUFluOVFXV0V5dlpSRDFIbVJodk92dlg4SUtBYkZ1akpQVUh0QzRaa0dwTFJnRldQYm1Fa3NMS1B3ZHBOZFBrUDFKTlZsTGc1eHFEWDNTbWFxM1hReVNJcG5zWllvdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "89424f6ffbf70d9a555d8eb6b87d1d0a9d2ac457215a6509bb36223b814e299c"
     },
     {
       "id": "20260904-FR-7ECFD313-987",
