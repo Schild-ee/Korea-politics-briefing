@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-06T20:16:51+09:00",
-    "nextScheduledUpdate": "2026-09-06T20:46:51+09:00",
+    "lastSuccessfulUpdate": "2026-09-06T23:21:21+09:00",
+    "nextScheduledUpdate": "2026-09-06T23:51:21+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-06T20:16:49+09:00",
-      "finishedAt": "2026-09-06T20:16:51+09:00",
+      "startedAt": "2026-09-06T23:21:19+09:00",
+      "finishedAt": "2026-09-06T23:21:21+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 25,
+      "acceptedCandidates": 24,
       "duplicates": 25,
-      "rejected": 173,
-      "rejectedByDate": 172,
+      "rejected": 174,
+      "rejectedByDate": 173,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
-      "updatedIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260904-FR-FCBE5521-1032",
+      "title": "\"내가 생각하는 양성평등은?\" 양성평등주간 맞아 소통·공감의 장 마련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T20:25:17+09:00",
+      "publishedAt": "2026-09-04T20:25:17+09:00",
+      "firstCollectedAt": "2026-09-06T23:21:20+09:00",
+      "updatedAt": "2026-09-06T23:21:20+09:00",
+      "summary": "\"내가 생각하는 양성평등은?\" 양성평등주간 맞아 소통·공감의 장 마련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"내가 생각하는 양성평등은?\" 양성평등주간 맞아 소통·공감의 장 마련 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV1dlZ0lrbTdxMUFJZnh2Uk1jRFlIUHBfTjk1SjVnOUR1aVhVTkxOcjZ3NWttSzRObHZUeWNNT3Vyd2k1cmdncE9IaWpaYU1vMlBBWXItZ2hoT1JTZkJWUVRZZmo4ajNlQ01KNElHSlB2R0Nqcm0ySEZhdGJNNGhUbF9LeFlvUjI4S1p6ai1yUEhiWkc4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fcbe5521a99db846dcb49e29e05d666c4a2279a2cdc972c1d196efcd208dfcff"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
