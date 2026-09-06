@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-07T02:18:37+09:00",
-    "nextScheduledUpdate": "2026-09-07T02:48:37+09:00",
+    "lastSuccessfulUpdate": "2026-09-07T04:27:12+09:00",
+    "nextScheduledUpdate": "2026-09-07T04:57:12+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-07T02:18:34+09:00",
-      "finishedAt": "2026-09-07T02:18:37+09:00",
+      "startedAt": "2026-09-07T04:27:10+09:00",
+      "finishedAt": "2026-09-07T04:27:12+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 15,
-      "duplicates": 15,
-      "rejected": 184,
+      "acceptedCandidates": 22,
+      "duplicates": 20,
+      "rejected": 176,
       "rejectedByDate": 175,
-      "rejectedByRelevance": 9,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
+      "newIssues": 4,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,166 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260906-FR-FDB1D1E3-1034",
+      "title": "한-네팔 외교장관 회담(9.6.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-06T17:30:36+09:00",
+      "publishedAt": "2026-09-06T17:30:36+09:00",
+      "firstCollectedAt": "2026-09-07T04:27:11+09:00",
+      "updatedAt": "2026-09-07T04:27:11+09:00",
+      "summary": "한-네팔 외교장관 회담(9.6.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-네팔 외교장관 회담(9.6.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-06",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNU1N0em5YVmVLcTFXTmxnblo3MXZTOU1tMVEwN1ZrSnB6UzBjbmw2NXRXTkVFWlB5bER2Xy1RQXZkNTAyQkVnemM5N1M0US15QjBXT3oxbS1id2tUOGh5YTY5UmdOUkVtVUFTTFdoMFNxbHZOUTNYdmlnX21aWWI5a181d1RDdnlZT0lmMHZDcFVHdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fdb1d1e3d5390f898af9098b058d207087896d90fa3591642ff6b2f404b6e6a8"
+    },
+    {
+      "id": "20260906-FR-128C256C-1035",
+      "title": "제7회 푸른하늘의 날 \"우리 모두의 행동으로 만드는 맑고 푸른 하늘\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-06T12:00:16+09:00",
+      "publishedAt": "2026-09-06T12:00:16+09:00",
+      "firstCollectedAt": "2026-09-07T04:27:11+09:00",
+      "updatedAt": "2026-09-07T04:27:11+09:00",
+      "summary": "제7회 푸른하늘의 날 \"우리 모두의 행동으로 만드는 맑고 푸른 하늘\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제7회 푸른하늘의 날 \"우리 모두의 행동으로 만드는 맑고 푸른 하늘\" - 대한민국 정책브리핑",
+          "date": "2026-09-06",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDBxV3JJVXVlcEZZYkxNTTRrU0RxV1plY2FtY1BJSU1TMDZfS09DUHo5dm5VcXhNUmFHUURmREdIdDlEVzlIU1BMOEFiZzdFcy1VUzF4ZUpuWFZhVlp6dDR0OS1pcjZEMEpNWEgtdlQ3c2tzREM3YWt1MEFwUGhXWDdZeVBhdnVjdVBBdHRoOGpsWmpHaEFPdXVGbnZKbVQwX2R5cmxmcG1BZjZxbTMyM1JQdHJIaXFGajZPcHdaNi1WS25nbUdzM1Z5ZWZNdW9lX09kMU5sUndRWWhianZLQ1NCS2taSV96VVRZd19Gcw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "128c256c068e51e701270179a9a24286612ced2997076a713ef330c25e8a4833"
+    },
+    {
+      "id": "20260904-FR-7E865591-1036",
+      "title": "노사발전재단, 몽골 노동자 입국 전부터 한국 정착까지 촘촘하게 지원한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T11:20:28+09:00",
+      "publishedAt": "2026-09-04T11:20:28+09:00",
+      "firstCollectedAt": "2026-09-07T04:27:11+09:00",
+      "updatedAt": "2026-09-07T04:27:11+09:00",
+      "summary": "노사발전재단, 몽골 노동자 입국 전부터 한국 정착까지 촘촘하게 지원한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "노사발전재단, 몽골 노동자 입국 전부터 한국 정착까지 촘촘하게 지원한다 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObktwc3FGeHpHczB5SVJqdTNEaERuUnk4QzhubGN5djNaU2dfSmk3d1ViZURybDdlUG5pdnQ3bHhXd2w3TURoTWI4ck5QYU52YXdHN2QyUTZhS1BxMGRsOUhEVVpJU1NnOTh4dmdSS295WTJkaU9zWS1Da3VrZmFJQUd6RjViYXVES2NQS21mRmVQUDFo?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7e865591ec1fb1cd8ac3946d0cec4e7cf45bec8ae6045c6a47a349a172f4dae6"
+    },
+    {
+      "id": "20260905-FR-3679510C-1037",
+      "title": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-05T14:00:00+09:00",
+      "publishedAt": "2026-09-05T14:00:00+09:00",
+      "firstCollectedAt": "2026-09-07T04:27:11+09:00",
+      "updatedAt": "2026-09-07T04:27:11+09:00",
+      "summary": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "식량농업기구(FAO) 8월 세계식량가격지수 전월 대비 1.9% 상승 - 대한민국 정책브리핑",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaZTFhczdrWnZ1Q21kV0w0cEdGWDBBQVpfdjVNbHpSU21zRlJ5NTFMM2YxVURqanN2amlmMEloN0haTzRaNlFMTk1ndDhrUWtLN0lZUVlaMDJobGJSVXVsVFdyUDNZN2Qtdnk5SUR6MFBoVWxa?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3679510c7f3947083529ef871b69cd4e71efff714e42d472c005989a57b2de1c"
+    },
     {
       "id": "20260906-FR-6BDA488B-1033",
       "title": "한-네팔 외교장관 회담(9.6.) 결과 - korea.kr",
