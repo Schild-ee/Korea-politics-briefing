@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-09T05:09:57+09:00",
-    "nextScheduledUpdate": "2026-09-09T05:39:57+09:00",
+    "lastSuccessfulUpdate": "2026-09-09T07:55:35+09:00",
+    "nextScheduledUpdate": "2026-09-09T08:25:35+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-09T05:09:54+09:00",
-      "finishedAt": "2026-09-09T05:09:57+09:00",
+      "startedAt": "2026-09-09T07:55:31+09:00",
+      "finishedAt": "2026-09-09T07:55:35+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 43,
-      "duplicates": 49,
-      "rejected": 149,
-      "rejectedByDate": 149,
+      "acceptedCandidates": 45,
+      "duplicates": 46,
+      "rejected": 145,
+      "rejectedByDate": 145,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 2,
+      "newIssues": 3,
+      "updatedIssues": 6,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-09-08T19:32:55+09:00",
       "publishedAt": "2026-09-08T19:32:55+09:00",
       "firstCollectedAt": "2026-09-08T22:29:20+09:00",
-      "updatedAt": "2026-09-09T05:09:55+09:00",
+      "updatedAt": "2026-09-09T07:55:33+09:00",
       "summary": "「2026 서울안보대화」 계기 한-파푸아뉴기니 국방장관회담 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -102,11 +102,403 @@
           "date": "2026-09-08",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUpQRWhDdUNoMWhaQ0pYcF9RVTczaWktS1FlM1lqN2lDWmdSelk5QjNTdmg4T1JzYVdST19Jd1A0eGx0RFFEU2R5RzBPVW5ISE4zanI2STRxUlFHUV9UR1R4S1JYVnNfZVNaZk1OX3dKWm5MRHhuckZHbEY3YUhWdUozOUpWNlV3czZqanZaZHc2UQ?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「2026 서울안보대화」 계기 한-파푸아뉴기니 국방장관회담 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xV0pMbmlYak5JTWRNMmo5VUdDTFdCbzU2RkRUYzVmY2J6Z0poaS1NYWFHTEQzLWpYdnFLZ1otamVtOUhnZDl1a3JYUG1ORXNKXzQ4YVlTRFZaMTVHV29CcWtxZ2psLUM1b1V0a3YwM2Z0RVdf?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
         {
           "updatedAt": "2026-09-09T05:09:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-09T07:55:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d1bb1f5a01b433062378d1f20853f064fd237591de9945556e2d22aa4ee2f571"
+    },
+    {
+      "id": "20260907-FR-3B59523F-1066",
+      "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-07T19:10:33+09:00",
+      "publishedAt": "2026-09-07T19:10:33+09:00",
+      "firstCollectedAt": "2026-09-08T02:52:08+09:00",
+      "updatedAt": "2026-09-09T07:55:33+09:00",
+      "summary": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLWU5cUNBMWdGOHJJWWtwaW0tSktaZEJrZlV6cU93NnM4cmJMSVNPRkltc2JiOVFiYlFyS2pBaVlWTi10T2tKcHNzRlQxNnE2eW5SRFVtVHRtVHRrUERmWVlKbFFQUV9YRm4tdTJrQVBHWWdMN0ZaZW9uTzdfRXRTbHBUaGViMGk2TnY4?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMQ2E2S05iTmJPTS1TM0I4VTc0a2pJMENsX2JfX3RFbGdnYXlEeEY4YVRNWkR2U19Qb19pVlJIZzZjZFo5VkE3aEoyWnI3NVprMHNZaEhNX1BkaXV4dFBRQ09hOE44Um9oX0Z0TEdzejJ6Rnh2?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlh0bnVzZGRNdEJRcXAyX2tvUXBiSTdMY2t6TkdrNzNfT3hLREdVLVQ2OXJRTFFqSURNXy1ROTNRc1BvekpISjc3S3RGNVhIWXNJdGNvcmJfNWhPcUVmYWJjYnUxdHhUVUtUZ083ZFN6V3VHX21SWlp6S0xiemFlTndOZUZoWHZDb3FBWkQ3Z0xlZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-08T22:29:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-09T07:55:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3b59523f993ba8fe89b0fd4a30c504b4217067033f59a838005e40ced682ca7c"
+    },
+    {
+      "id": "20260909-FR-1D76CDA6-1135",
+      "title": "2026 서울안보화대화 개회식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T07:44:19+09:00",
+      "publishedAt": "2026-09-09T07:44:19+09:00",
+      "firstCollectedAt": "2026-09-09T07:55:33+09:00",
+      "updatedAt": "2026-09-09T07:55:33+09:00",
+      "summary": "2026 서울안보화대화 개회식 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 서울안보화대화 개회식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15QWFKZm1FZXVtb19rX284M2Rtb19Ua05hRTZFRWlLbUgyZ0N2ejBlQmgtYXEtWWJCVVJxSlVjV0ljYlg3Q0VaOWR1VzlSQXNoUjVZYkV3dTdyaWxpenFmbWttaDkyMElVM1Y4Z1JGMmFYU2MtQUo2NWRn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1d76cda6d562b5514c812ed351f99c04c8c8994bf95ae2188f12573b77d55e4f"
+    },
+    {
+      "id": "20260908-FR-F9410B90-1136",
+      "title": "'그냥드림' 전국 시군구로 확대…어디서나 먹거리·생필품 지원 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T16:17:38+09:00",
+      "publishedAt": "2026-09-08T16:17:38+09:00",
+      "firstCollectedAt": "2026-09-09T07:55:33+09:00",
+      "updatedAt": "2026-09-09T07:55:33+09:00",
+      "summary": "'그냥드림' 전국 시군구로 확대…어디서나 먹거리·생필품 지원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'그냥드림' 전국 시군구로 확대…어디서나 먹거리·생필품 지원 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16aGl4b1hMWG84ZDd4VlBsVWlYaUk1Uk5wT1dfOXR2QW9KaUFSbS1ILTRIY2IyXy0zSDdCclpuX2VnNHBNb0pUREo1bTJYZE1fSGxlRlNnNDJPY2JjUVRPYVZHZ0N5QVpzUXJmSA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f9410b90388b9e6df30c663a77644216aaf4d24cd3a6e08e420b1d5ddc500ae2"
+    },
+    {
+      "id": "20260908-FR-2E815E07-1137",
+      "title": "여성폭력 근절을 위해 법무부, 성평등가족부, 성폭력 피해자 지원단체 및 사법부가 함께합니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T18:08:21+09:00",
+      "publishedAt": "2026-09-08T18:08:21+09:00",
+      "firstCollectedAt": "2026-09-09T07:55:33+09:00",
+      "updatedAt": "2026-09-09T07:55:33+09:00",
+      "summary": "여성폭력 근절을 위해 법무부, 성평등가족부, 성폭력 피해자 지원단체 및 사법부가 함께합니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "여성폭력 근절을 위해 법무부, 성평등가족부, 성폭력 피해자 지원단체 및 사법부가 함께합니다. - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOczduWE1MWEZIODFuQ2hXSXVjRi1pTlpLZmxvTFlzb2FCcmdDZ1VtLW10OW9nZ2JiX1piX09qbkFnVzI0UFVqN1FwdF9fbnhWQzR0OGdEdUhDb0J1M2Y1ZUwzN2pJajVQMGs4SF9sYUFEXzllT2prVnFFSVUyRWFfWWoteFVnaE1IRTh3OW1CaFJ4SDVQS1loY0tqM05jbVFQTDJvemV6ZGViQ0VIY3hfUkRDWm9oaTdOQjhTY1VhdnhkZzUzazhkSEZKMVpTU1dyODZJOFNlLVBabF9qM004V01xWHI4TS0xRVo5bnFEWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2e815e0709ec507e4c3592e4eff280b2fd6e3367b857f7d4747201345cc6d472"
+    },
+    {
+      "id": "20260908-DP-C2F6B06F-1082",
+      "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T12:47:17+09:00",
+      "publishedAt": "2026-09-08T12:47:17+09:00",
+      "firstCollectedAt": "2026-09-08T13:21:08+09:00",
+      "updatedAt": "2026-09-09T07:55:32+09:00",
+      "summary": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmlPX25ycVBLdVN3Q3RRS0lBRThjSVJrTWlyZF9DRDBRVE5GNGJCOENaVk1ENVA4QTE4SWZHYUJ3WVhkRlNDTzVzdUNydDdRWDRXRkxaNTBZWHB1Z25LWU9SS09ZS1IzdkNldHkxSDdEcVctZzRMR1lOYWhVWUczNnc0RFdsRERIVnBhR3htMVdZQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXJEcHBXZTBMS05ndXhKZjVjcXo2OFhZSl9hUF9ZaVMtQUlCQ0RJUUNsN0ZsVC0xTlRqTVRxUXFNbzlIcTBnbTFGVXhHVkgzRndpdWppOGV1bUw3Vk5Bc1ZGZXhiN2NpTXlSSkJOMnBFZXc0NHNITHpJM2c1eTlDalNMUmh2SEdXemU0c3dVQU1ydw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkJmeUg3bS14amNvSlBUbXh0U2hJMHBNX1BkQ3ZiQk9Kb2hRZnRnQVQ5S2pKY2hUazlaOUZBa3NLS0FOSnJGb0ktWUZlQXVicUZTQ1k2MUE0UkN3bTBncmZXNzItdmhiLVFJVU9KNm1PTTduUFF4ZzI4blRval9VbGhIZDhSWDFnOXFYYmVfc2J1MXBa?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fZ3BjUjZrRFRQcUpTQ0FxWmpBaUY0SlR3NVhQS2c1QlpsN2lRMndERGJDdUtUTTFYUUZkNjZmVkpQRkprWkUxdmd5bllXOW1ZT3ZzajRna25IM0wxV2JhQjBfSUhXNnJPZzBKdHVQTUpkNGF5?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-08T18:01:11+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-08T22:29:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-09T07:55:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c2f6b06fbc42e0769dc9729b51090978235171946c602e9542b5e9473fe24802"
+    },
+    {
+      "id": "20260908-DP-626F3B5E-1106",
+      "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T13:16:27+09:00",
+      "publishedAt": "2026-09-08T13:16:27+09:00",
+      "firstCollectedAt": "2026-09-08T18:01:11+09:00",
+      "updatedAt": "2026-09-09T07:55:32+09:00",
+      "summary": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkllOWM3enBqRWcxc3htQTVxTW9GeWNkSmJqTmt2N0E3cUM0YUc3Rk15aW10M1dtRHZGSkhJYzUwR0o3a3V4VEZXd3VxY1BXVjR5MTJPZnBQVVdISThpZnkwSXByZXF3blY0UGU0SUVUeE1OUkVKVWxZdXRncVFlellmTWNRcjV4RUllMGxNcXI5dw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmh1STlkQkdPTTdvZ1FiSmhBSVE4ZnZPYVlHRW1kaTdZcDRzUkNzN1l3M242SkNYSUdyTGhLa2w3R0tCS2VzV2QxV1A1YUNMcHNiaTVBcHo4VnlWVGZvc1owOGZSX3dlVFV6S1E0Tko3WVV1dmJqd3c2WTZ2bGo2NXBYOE9UaXZWZDBxVEJkYldMZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIbkQwSDcyX1ZNc2p1aFU0M1R3elppY1lhRDJDVmF5Z1pYcjgzcHgxVnBNODlSS0oteG9aWHFMa0hyLXhBWnVTTzlMYUpLUEJMS1VKdmRoLS12bDNSb0xpUUs0S2RCMS0zX3o5VmJjSFNuOUM0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-08T22:29:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-09T07:55:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "626f3b5eaac840165ff88c6e6fa64b97be27d15327b2fbd8f6f978fb3e5c393f"
+    },
+    {
+      "id": "20260908-DP-644534BB-1102",
+      "title": "KS인증(㉿) 관련 「산업표준화법」 일부개정법률 공포안 9.8.(화) 국무회의 의결, 내년 3월 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T13:17:55+09:00",
+      "publishedAt": "2026-09-08T13:17:55+09:00",
+      "firstCollectedAt": "2026-09-08T18:01:11+09:00",
+      "updatedAt": "2026-09-09T07:55:32+09:00",
+      "summary": "KS인증(㉿) 관련 「산업표준화법」 일부개정법률 공포안 9.8.(화) 국무회의 의결, 내년 3월 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "KS인증(㉿) 관련 「산업표준화법」 일부개정법률 공포안 9.8.(화) 국무회의 의결, 내년 3월 시행 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZlpDTkVxdjVUdjFxd200RmJERFUyV2t4UlcyTkdjZ1pUS2tINE9halV6VzZsMERWUktvdVVwMXpIWFRIc0NzMFlOaGRmbm5PZHk1Tk1hNVRxU3IwSkZTRU1HSzlUTktVdUtDWVhhTWxCcHZlZUtBRWE0d1RGRUp5YkhZSUxCUW51ZmpJQkt2QmRLQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "KS인증(㉿) 관련 「산업표준화법」 일부개정법률 공포안 9.8.(화) 국무회의 의결, 내년 3월 시행 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pbjA0dkM3OWlQUy1xOUxWWWplVERxSWFpaDhMUDQtMW14Qzg1Qk9wR2Z3SnE5OTJTeXMtMEwxbTM0bXJBajNGYUpmOFNrTlQtNVJST2dxRzVMUmFSU0VJQmxIVGQxQVlvWll2NWpUZkUzM011?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-09T07:55:32+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
         }
@@ -115,7 +507,60 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "d1bb1f5a01b433062378d1f20853f064fd237591de9945556e2d22aa4ee2f571"
+      "contentHash": "644534bb3d030b8093d7aacb78d8860bac9e34d5f70d3053eb409befb64411e6"
+    },
+    {
+      "id": "20260908-DP-06B68195-1080",
+      "title": "'농촌공간재구조화법' 시행령·시행규칙 일부개정령안 9월 9일부터 입법예고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T11:09:56+09:00",
+      "publishedAt": "2026-09-08T11:09:56+09:00",
+      "firstCollectedAt": "2026-09-08T13:21:08+09:00",
+      "updatedAt": "2026-09-09T07:55:32+09:00",
+      "summary": "'농촌공간재구조화법' 시행령·시행규칙 일부개정령안 9월 9일부터 입법예고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'농촌공간재구조화법' 시행령·시행규칙 일부개정령안 9월 9일부터 입법예고 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXZ3Z2MtUnB3SVJvSThEbFE5c2ozNlc3ZXdxNXJHTHlVajVvZlpOM0ZwMWtxamd0eUt3bnozSE9scnRTYVJFamNXQnY2TVpib1F5SFM4QVhDMnNFeG9fd3Jzb0FZX2VjZHRSQ0pZd1N3WkJVbzBGazF6c21BNzl0Smg4SkVtcEN6NExIMXozQW5sc0x3dVp0bG5CbDVUVTdHMVJYaGJwOWxlWFlLaEdfQmhBRFh3WGtEejRJWnliUWNCYjh2bTVPaE1RM1FnZlRKcjU2NHpsenVaNlltZ3F6SkNJZ3lMZ1FFZVF6ci1Kdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'농촌공간재구조화법' 시행령·시행규칙 일부개정령안 9월 9일부터 입법예고 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xS2MxSjFLMnFLd3B2VmlXRzF4X2p6OE5XYkJxbm1EZU5rMHprTjdVMXFCVDNKLTk4R3JZS0t5MWhXcnl4OHRlWEhqYzFHMVlrNGhRSXkyV2ZFOE9wN1pCWFFnOHJteDdZaU9BcVVxRk10TlZG?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-09T07:55:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "06b681956d8bd409b0c863ec89191f1307088287429f104fd7edb7e42fe6c58c"
     },
     {
       "id": "20260904-FR-718BC9BC-984",
@@ -581,59 +1026,6 @@
       "contentHash": "8213f8fe1fa2c0adc56a20014ce61aeb6b400bc26e659605b7aa2633d99b83c1"
     },
     {
-      "id": "20260907-FR-3B59523F-1066",
-      "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "양자외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-07T19:10:33+09:00",
-      "publishedAt": "2026-09-07T19:10:33+09:00",
-      "firstCollectedAt": "2026-09-08T02:52:08+09:00",
-      "updatedAt": "2026-09-08T22:29:20+09:00",
-      "summary": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLWU5cUNBMWdGOHJJWWtwaW0tSktaZEJrZlV6cU93NnM4cmJMSVNPRkltc2JiOVFiYlFyS2pBaVlWTi10T2tKcHNzRlQxNnE2eW5SRFVtVHRtVHRrUERmWVlKbFFQUV9YRm4tdTJrQVBHWWdMN0ZaZW9uTzdfRXRTbHBUaGViMGk2TnY4?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMQ2E2S05iTmJPTS1TM0I4VTc0a2pJMENsX2JfX3RFbGdnYXlEeEY4YVRNWkR2U19Qb19pVlJIZzZjZFo5VkE3aEoyWnI3NVprMHNZaEhNX1BkaXV4dFBRQ09hOE44Um9oX0Z0TEdzejJ6Rnh2?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-08T22:29:20+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "3b59523f993ba8fe89b0fd4a30c504b4217067033f59a838005e40ced682ca7c"
-    },
-    {
       "id": "20260907-FR-BD4654C2-1069",
       "title": "한-프, 장관급 '전략산업대화' 신설…산업·통상·공급망 협력 강화 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -998,124 +1390,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "44d450578e14261071708d8626772c62ea0b6b3df4694d4946134d067180240d"
-    },
-    {
-      "id": "20260908-DP-C2F6B06F-1082",
-      "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-08T12:47:17+09:00",
-      "publishedAt": "2026-09-08T12:47:17+09:00",
-      "firstCollectedAt": "2026-09-08T13:21:08+09:00",
-      "updatedAt": "2026-09-08T22:29:19+09:00",
-      "summary": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmlPX25ycVBLdVN3Q3RRS0lBRThjSVJrTWlyZF9DRDBRVE5GNGJCOENaVk1ENVA4QTE4SWZHYUJ3WVhkRlNDTzVzdUNydDdRWDRXRkxaNTBZWHB1Z25LWU9SS09ZS1IzdkNldHkxSDdEcVctZzRMR1lOYWhVWUczNnc0RFdsRERIVnBhR3htMVdZQQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXJEcHBXZTBMS05ndXhKZjVjcXo2OFhZSl9hUF9ZaVMtQUlCQ0RJUUNsN0ZsVC0xTlRqTVRxUXFNbzlIcTBnbTFGVXhHVkgzRndpdWppOGV1bUw3Vk5Bc1ZGZXhiN2NpTXlSSkJOMnBFZXc0NHNITHpJM2c1eTlDalNMUmh2SEdXemU0c3dVQU1ydw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "저출산·고령화 넘어 인구구조 변화 전반에 대응 「인구전략기본법 시행령」 국무회의 통과 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVkJmeUg3bS14amNvSlBUbXh0U2hJMHBNX1BkQ3ZiQk9Kb2hRZnRnQVQ5S2pKY2hUazlaOUZBa3NLS0FOSnJGb0ktWUZlQXVicUZTQ1k2MUE0UkN3bTBncmZXNzItdmhiLVFJVU9KNm1PTTduUFF4ZzI4blRval9VbGhIZDhSWDFnOXFYYmVfc2J1MXBa?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-08T18:01:11+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-08T22:29:19+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "c2f6b06fbc42e0769dc9729b51090978235171946c602e9542b5e9473fe24802"
-    },
-    {
-      "id": "20260908-DP-626F3B5E-1106",
-      "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-08T13:16:27+09:00",
-      "publishedAt": "2026-09-08T13:16:27+09:00",
-      "firstCollectedAt": "2026-09-08T18:01:11+09:00",
-      "updatedAt": "2026-09-08T22:29:19+09:00",
-      "summary": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkllOWM3enBqRWcxc3htQTVxTW9GeWNkSmJqTmt2N0E3cUM0YUc3Rk15aW10M1dtRHZGSkhJYzUwR0o3a3V4VEZXd3VxY1BXVjR5MTJPZnBQVVdISThpZnkwSXByZXF3blY0UGU0SUVUeE1OUkVKVWxZdXRncVFlellmTWNRcjV4RUllMGxNcXI5dw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmh1STlkQkdPTTdvZ1FiSmhBSVE4ZnZPYVlHRW1kaTdZcDRzUkNzN1l3M242SkNYSUdyTGhLa2w3R0tCS2VzV2QxV1A1YUNMcHNiaTVBcHo4VnlWVGZvc1owOGZSX3dlVFV6S1E0Tko3WVV1dmJqd3c2WTZ2bGo2NXBYOE9UaXZWZDBxVEJkYldMZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-08T22:29:19+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "626f3b5eaac840165ff88c6e6fa64b97be27d15327b2fbd8f6f978fb3e5c393f"
     },
     {
       "id": "20260908-DP-3341C17B-1129",
@@ -2133,46 +2407,6 @@
       "contentHash": "175a7af271c597efcde778d31fa75d22d2d1e1a333e11f22844534b73cda044a"
     },
     {
-      "id": "20260908-DP-644534BB-1102",
-      "title": "KS인증(㉿) 관련 「산업표준화법」 일부개정법률 공포안 9.8.(화) 국무회의 의결, 내년 3월 시행 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-08T13:17:55+09:00",
-      "publishedAt": "2026-09-08T13:17:55+09:00",
-      "firstCollectedAt": "2026-09-08T18:01:11+09:00",
-      "updatedAt": "2026-09-08T18:01:11+09:00",
-      "summary": "KS인증(㉿) 관련 「산업표준화법」 일부개정법률 공포안 9.8.(화) 국무회의 의결, 내년 3월 시행 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "KS인증(㉿) 관련 「산업표준화법」 일부개정법률 공포안 9.8.(화) 국무회의 의결, 내년 3월 시행 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZlpDTkVxdjVUdjFxd200RmJERFUyV2t4UlcyTkdjZ1pUS2tINE9halV6VzZsMERWUktvdVVwMXpIWFRIc0NzMFlOaGRmbm5PZHk1Tk1hNVRxU3IwSkZTRU1HSzlUTktVdUtDWVhhTWxCcHZlZUtBRWE0d1RGRUp5YkhZSUxCUW51ZmpJQkt2QmRLQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "644534bb3d030b8093d7aacb78d8860bac9e34d5f70d3053eb409befb64411e6"
-    },
-    {
       "id": "20260907-DP-6916C039-1103",
       "title": "2027 소방청 예산안 3713억 원 확정 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -2665,46 +2899,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e3c0a223baa54bba376fff2a909d7d43cab2e4107fce1d5ac093f8473bb3e97c"
-    },
-    {
-      "id": "20260908-DP-06B68195-1080",
-      "title": "'농촌공간재구조화법' 시행령·시행규칙 일부개정령안 9월 9일부터 입법예고 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-08T11:09:56+09:00",
-      "publishedAt": "2026-09-08T11:09:56+09:00",
-      "firstCollectedAt": "2026-09-08T13:21:08+09:00",
-      "updatedAt": "2026-09-08T13:21:08+09:00",
-      "summary": "'농촌공간재구조화법' 시행령·시행규칙 일부개정령안 9월 9일부터 입법예고 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "'농촌공간재구조화법' 시행령·시행규칙 일부개정령안 9월 9일부터 입법예고 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdXZ3Z2MtUnB3SVJvSThEbFE5c2ozNlc3ZXdxNXJHTHlVajVvZlpOM0ZwMWtxamd0eUt3bnozSE9scnRTYVJFamNXQnY2TVpib1F5SFM4QVhDMnNFeG9fd3Jzb0FZX2VjZHRSQ0pZd1N3WkJVbzBGazF6c21BNzl0Smg4SkVtcEN6NExIMXozQW5sc0x3dVp0bG5CbDVUVTdHMVJYaGJwOWxlWFlLaEdfQmhBRFh3WGtEejRJWnliUWNCYjh2bTVPaE1RM1FnZlRKcjU2NHpsenVaNlltZ3F6SkNJZ3lMZ1FFZVF6ci1Kdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "06b681956d8bd409b0c863ec89191f1307088287429f104fd7edb7e42fe6c58c"
     },
     {
       "id": "20260908-DP-6F47A363-1081",
