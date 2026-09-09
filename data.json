@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-10T01:28:51+09:00",
-    "nextScheduledUpdate": "2026-09-10T01:58:51+09:00",
+    "lastSuccessfulUpdate": "2026-09-10T04:24:56+09:00",
+    "nextScheduledUpdate": "2026-09-10T04:54:56+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-10T01:28:48+09:00",
-      "finishedAt": "2026-09-10T01:28:51+09:00",
+      "startedAt": "2026-09-10T04:24:51+09:00",
+      "finishedAt": "2026-09-10T04:24:56+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 41,
-      "duplicates": 46,
-      "rejected": 148,
-      "rejectedByDate": 113,
-      "rejectedByRelevance": 35,
+      "acceptedCandidates": 71,
+      "duplicates": 72,
+      "rejected": 114,
+      "rejectedByDate": 114,
+      "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 6,
-      "updatedIssues": 0,
+      "newIssues": 11,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,607 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260909-DP-D480930F-1177",
+      "title": "[보도자료] 한·중앙아시아 정상회의 대비 테러경보 격상 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T15:30:00+09:00",
+      "publishedAt": "2026-09-09T15:30:00+09:00",
+      "firstCollectedAt": "2026-09-09T20:47:14+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "[보도자료] 한·중앙아시아 정상회의 대비 테러경보 격상 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도자료] 한·중앙아시아 정상회의 대비 테러경보 격상 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXVtMFEzX1JKY1pEcXRWSHpjY2p5VXJuX1lUbGFRS2pNOWhYRExzTHhfcnhoNWEwSGk1cG9lZHkxQnZCRXMxYkw5MVY2MjgyNk93Q0VKUEo0Nko5QmJpZlN4RGFYQzRVTnM1LWpyOE00T25ndHVoODV4TXhjSGtYNWNZMGFHRkRfZmMxSmh1c1V1QQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "[보도자료] 한·중앙아시아 정상회의 대비 테러경보 격상 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDl5YkxtVXJkQzNQU0dDMnk3OEEwTERGYktMRGdRZWk5WkF1UDhmUENmX0VXUnVPT1ZxbVF3Mks0WGZCdDh0eG9uRm9keVcxSDREc1VlQl9EX1VrVVlxRWxPM2dkQ1NBY3YwSldFTjREQWFkdDJ3Z3RnNjVDdjdWeFMwZDJtdDI5VFQ4X2Q1MHpPZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-10T04:24:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d480930f0dafcf867a5678216c561260550225a067714838c607cf9693ebb983"
+    },
+    {
+      "id": "20260909-DP-398F55C1-1183",
+      "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T18:37:25+09:00",
+      "publishedAt": "2026-09-09T18:37:25+09:00",
+      "firstCollectedAt": "2026-09-09T20:47:14+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEpDWGg3ck5kV01oWEoxN1hjRnJUNTY3eFpJZVdRSS12RmdBVy0ybUJuSHBmaENBNWlUZU1iX04tV2N0VE91U0xsVzRocml3NXVVZjh3R0Q3QjZ6U2FmU0hrN3pHMGVMRE1fRUJvOXBQSDNZb3NrWFJIdTdDSzRKbi1uWkc1WXRaZk1GblAzUEVyam9Q?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb2dwUTdJcjFzNHRjdS0wRmR4RGhkSUd3WnhScVdGdUFjUnR4aUhwdTQyeHlaMl9kQ0xEaUViSjgzdmZZamt4TVIzejBDNnMtZEdoTnRHbnRRUEdrUEtlUVRYN2Z3MzBRc2h4NFU5eXh3YzNGbGQ3ell2d1h5cW5KMnI2YjlyanlIYU1ZNUtHVzBlN2dpcTlHUzdLZGpacDFmZWpfU2liTmpLVXYyUHdISDVHX2h4MjdUQVlYUnpCZmlZZzhtcU0xUVRRS09WdGZtWmstQTktY25yV002T0J3OEZiS29ISEQ5WWxKR2JYNA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-10T04:24:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "398f55c1c7fe8877747cbf8cf930f48a1506368682e1ea3d098198033efba6e1"
+    },
+    {
+      "id": "20260909-FR-0F38B742-1160",
+      "title": "한·프랑스 협력 더 구체적으로 더 실질적으로 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T14:51:12+09:00",
+      "publishedAt": "2026-09-09T14:51:12+09:00",
+      "firstCollectedAt": "2026-09-09T15:34:43+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "한·프랑스 협력 더 구체적으로 더 실질적으로 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한·프랑스 협력 더 구체적으로 더 실질적으로 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVJieUVIRWJyd3NjLVBUOXAzNDU0UjFnYVJDLVBYLTRSSm1YYzF2b2prSkxBYzhqeUtLX0J3YmMxSTVzSWRjTGpMZ1VEM3c2V0x5OTFKTlRjWHZuR295RHpZbXNvWnNHWUs3QjBKeU11c0o0UF96ajJJbV9WdXV4YkNfZ3JFcDFqeGE0?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "한·프랑스 협력 더 구체적으로 더 실질적으로 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUR5V1lncDNJNlRVOUNSZGI5ZHVOcmRGRmdSM01ua2ZxY2lTOTlpVVRIdldtNGU4MlBpc0RGczl1Yy1pZXBjNEFjdXhmYWRtWUc1d0YzdGVjdFlIYVh6RmphTWZuSlFnVzRUc2x2d2U2T09VNktYdXhtY1RGQnl1ZFpGSmFYY3c1dmE0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-10T04:24:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f38b74298f50d842de2d114dba7884bce8442d5efd8129ecfb4e64b9a46cd5b"
+    },
+    {
+      "id": "20260909-DP-AE768BEA-1201",
+      "title": "성범죄자 신상정보, 10월부터 '국민비서'로도 알린다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T17:19:46+09:00",
+      "publishedAt": "2026-09-09T17:19:46+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "성범죄자 신상정보, 10월부터 '국민비서'로도 알린다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "성범죄자 신상정보, 10월부터 '국민비서'로도 알린다 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDWVgxUTJ0cWpyc2FpUHIycEJIcDhOd0tydXIxb1NFOEJXVEJzX3QwUkxKUS1oT2xBZXYxWTNTMmtLNjUtSi1TWlFlZEF4aWRCckpHQVJXZnVnSXE3X2dST3ZmWUJXN2xuMFhOSA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae768beaff77b859702433a13d9c465af4ea16c023f1ff10fe43f9d32dfe9976"
+    },
+    {
+      "id": "20260909-DP-2FC1D9F7-1202",
+      "title": "\"한 쪽을 빼곡히\" 20대도 예외는 없었다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T16:54:59+09:00",
+      "publishedAt": "2026-09-09T16:54:59+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "\"한 쪽을 빼곡히\" 20대도 예외는 없었다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "\"한 쪽을 빼곡히\" 20대도 예외는 없었다 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdFFGUkp4Z3pNRThjSGhNdUdCc0JxYmpPUlczNnJjRHdIVXg5OGRlQmlfTDZSb01kd1dMZ0pRUk1DWVdGYVN6UU9CZm9ZS1piRWVCZjJzZFBVVlZ5bjU3Z29sYUs2dVhETklXSGR3djBDTzBreS05RkVKOExIdlpkSC1KWnVPUDRMY2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2fc1d9f7daf0efaf59d9d9d6da5247282bef19d697959022eb4d4d212348b63e"
+    },
+    {
+      "id": "20260909-DP-1ACD8536-1203",
+      "title": "'한-중 산업 협력의 축' 새만금으로, 중국 투자조사단 방문 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [
+        "중국"
+      ],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T11:07:51+09:00",
+      "publishedAt": "2026-09-09T11:07:51+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "'한-중 산업 협력의 축' 새만금으로, 중국 투자조사단 방문 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'한-중 산업 협력의 축' 새만금으로, 중국 투자조사단 방문 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjVOMEV4VldrVjdHVnlET21tWFJ3NG1oalVtTVJSWkV4R3Biclhib01lWnBxaS0yYmdmOHp2U3REbmx0YWg2clBvcnNXOHpTdkRhaHFQdWFIWUU3OFdJOGQ2WTcwaGxQam9CSWxJb1RIX2c3OWN5MldRWFJLZ05mMURYQ1g3aWVHSmNuRFVmRnh2QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1acd8536c83874745bbb9189f116b8464218e89562a2f6a69b65fde0f80aed8d"
+    },
+    {
+      "id": "20260909-DP-B80E5ED9-1204",
+      "title": "남부권산불방지센터, 산불관계관 대상 찾아가는 '산불방지 역량강화 교육' 실시 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T14:26:05+09:00",
+      "publishedAt": "2026-09-09T14:26:05+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "남부권산불방지센터, 산불관계관 대상 찾아가는 '산불방지 역량강화 교육' 실시 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "남부권산불방지센터, 산불관계관 대상 찾아가는 '산불방지 역량강화 교육' 실시 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZk80ZEN2RGVhb3dDZVdZa0FLZENoNGowRnlWLVI3c3MxRVNBY0hnV2JibkFKNVMxOG12NkxkX1lRYWpKZFA0WjRzeXRsUWl5RFEyaHgwMWZ5V2d6UUNmMkQ1eFNrU0NlTVV4YzdfbGtYNnJhcVNsa1IyMDVWd0tYSUJiU3pxSzVqRURfVFRhQXlBQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b80e5ed91e1160664701e6590484fc247684c5615c877f40ab2cfdae6ad83ad3"
+    },
+    {
+      "id": "20260909-FR-0979CBDD-1205",
+      "title": "에이펙(APEC) 에너지장관회의, 에너지 안보 공조와 인공지능 시대 에너지 혁신 논의 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T12:00:00+09:00",
+      "publishedAt": "2026-09-09T12:00:00+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "에이펙(APEC) 에너지장관회의, 에너지 안보 공조와 인공지능 시대 에너지 혁신 논의 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "에이펙(APEC) 에너지장관회의, 에너지 안보 공조와 인공지능 시대 에너지 혁신 논의 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XMjRSRXRUU0RVX2R3UGpBMjhOQWtNNW5QRC1DbXZveWJKcENjZlBock1OX3E0c2ZjQ0cwd056REFOUUstUk1qRnhaSUNVbzdxNGlwZm5Wb05BbEZEeFlVS1Q1Y0VBX0I4XzdrdmFhYXlqakFm?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0979cbdda239bfb999732af65886c3cc39517f1ad725969905cde6fed5b17962"
+    },
+    {
+      "id": "20260909-FR-8E1BDCAA-1206",
+      "title": "현직자 상담부터 면접 체험까지...공직박람회 개막 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T12:00:00+09:00",
+      "publishedAt": "2026-09-09T12:00:00+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "현직자 상담부터 면접 체험까지...공직박람회 개막 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "현직자 상담부터 면접 체험까지...공직박람회 개막 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQThXR2VjVlA2bTFVallCRXRIUjRUWHJ3X09ZVFNLb093b0ZGRmlNR3oxSzFLdmI5QUlBTjlTOTYwNVEtZHRTNDc2WUY0ZGxzNTlBb01LNVhEQU5hRDFvRmxJdGdnNTNuc3JCdjdySG5lYm5FbXU3OEdfT2Z2NmFIT2xJZTVHVl9MM1g4eWtHRnNQWVRxNDVuVE5vek5NN2t4SEVzanZneTJlVThjaDM1QlBlX0Vlc3I1aDJsamF2bGVDV1BhaWdYYnRFNWI0YndRVUZoajdyN2VwYzBZYU5HZmlfejJxcVhGbV92SzVWaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8e1bdcaa74b88419fe363e42d52497284a75ac26e8db80524d173beedc221ce0"
+    },
+    {
+      "id": "20260908-FR-9629FD3D-1207",
+      "title": "김혜경 여사, 성 가정 도미니코 수녀회 수도원 방문 - 사진 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T11:22:25+09:00",
+      "publishedAt": "2026-09-08T11:22:25+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "김혜경 여사, 성 가정 도미니코 수녀회 수도원 방문 - 사진 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "김혜경 여사, 성 가정 도미니코 수녀회 수도원 방문 - 사진 | 멀티미디어 - 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xa1NIM3JUMndlVW1IdjdvOE5ReWY1ZVo1b2JUQV9TOHFQYUxPa0hnLW9pNUdZMndvQnJsUG5wV2hMTzNCcjRFNm1HLVBqZDE3c3Q1MDYzdS1nUTJqMktQSnJWQXFPenVlTlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9629fd3d763c9e7926a39a82aa1560e4ce0da0b479810ef6bf15fdd1d09458ed"
+    },
+    {
+      "id": "20260909-FR-E44547D3-1208",
+      "title": "한-아프리카, AI-디지털 중심 새로운 경제협력 청사진 마련 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T14:04:02+09:00",
+      "publishedAt": "2026-09-09T14:04:02+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "한-아프리카, AI-디지털 중심 새로운 경제협력 청사진 마련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한-아프리카, AI-디지털 중심 새로운 경제협력 청사진 마련 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFgxZHg4V1o5OGVoc0I3b3hrZkJLU1hmSWtlQmNYRnB3M3RsQlJyMVdEaFVXcWNEZFlRdktTZ0hWQlpQMTJjM0FJRDVSbjRvRlM5azRpakFqZUp1dXZLTVl6bFBhZC1LbC1BdnBaNENiT1p4VjhUaDdtRW9zWFNZemhvT01BV0cwd3BsV2VGUzBwZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e44547d3d60397ec51b6c7143c4ceccdde9e963a6469bab28e6796a88981d50c"
+    },
+    {
+      "id": "20260909-DP-C6E7D5D3-1209",
+      "title": "[설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T21:16:34+09:00",
+      "publishedAt": "2026-09-09T21:16:34+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "[설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[설명] 매일경제(9.9.) \"법원, 공정위 현장조사에 첫 제동...한화 제출명령 일시정지\", 한국경제(9.9.) \"공정위 강압적 현장조사에 제동 건 법원\" 등 기사 관련 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdWhNdW1Gc2FmaXNCSDQ0Tzk0T0VHRGM1Vm1qWHh1TTJoWVVkSW5OUWFYMUJqbDlHRmRVaHRSN25hdmNNZy1Nd0V4ZWJiTXpxaDY2ZldjaGZCUVE2cUJUWGlGa205RWg3NUg2R2xDTHdkWDFfeWJMY2xiX0p2N2JEcVFGcFp1X3pOMGw4Z2VpNA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c6e7d5d3278896b44da9263bf82c3af4428c8a28c0a1808b2932cbbe8dde2005"
+    },
+    {
+      "id": "20260909-FR-7F2D82B8-1210",
+      "title": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T00:00:00+09:00",
+      "publishedAt": "2026-09-09T00:00:00+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "주택공급 촉진을 위한 금융지원 대책 점검회의 개최 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsLVgxYVUyVGNOTjVWZXpabHFhSXpJaG4wWFZ4RnA1TWptc3JtbUZTd0oxVkppbW9xTklKRmt6a2JhUGxpcHk3TEtjMVJBWUxUVWI0ckZCbG9HZ3YyNTROM1Q4Nld2c0Fmemw2QlAyWTl1Tkli?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7f2d82b81f81a73c5ae8038c0fa09178a7e807053494b5ec73b8df39bbdec1cf"
+    },
+    {
+      "id": "20260909-FR-ADC4B0CA-1211",
+      "title": "(참고) '26.8월 취업자수는 18.4만명 증가해2개월 연속 두자릿수 증가 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T09:24:09+09:00",
+      "publishedAt": "2026-09-09T09:24:09+09:00",
+      "firstCollectedAt": "2026-09-10T04:24:52+09:00",
+      "updatedAt": "2026-09-10T04:24:52+09:00",
+      "summary": "(참고) '26.8월 취업자수는 18.4만명 증가해2개월 연속 두자릿수 증가 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(참고) '26.8월 취업자수는 18.4만명 증가해2개월 연속 두자릿수 증가 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWNUZTl6SmRYXzRodlFFNjB1cUZGWGo5dFNrQUEwLVI1cmNvWktfNXhpclcwT0YyMGZjY0NzbjZIaVVWUFk3b1dncFRNU0V6eEJsdHUtdWxueXJqaGJvOXBhdnd3RkVDRF9sak4wV0d4TjNkYWt0cWNsZjBFSDMxWXZuR1dvNDQ3b1k4RW9iQTN2Y2ZY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "adc4b0ca7959afcfda18b153521c6cc9d991982716d8f10385e206c908d34ab4"
+    },
     {
       "id": "20260909-FR-973996D4-1196",
       "title": "외교부, 「2026 세계신안보포럼」 개최 - korea.kr",
@@ -986,46 +1587,6 @@
       "contentHash": "fb419b672c67d33e1bdfcd4327c78496aea8aae9088eec657c63b360f6d58506"
     },
     {
-      "id": "20260909-DP-D480930F-1177",
-      "title": "[보도자료] 한·중앙아시아 정상회의 대비 테러경보 격상 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-09T15:30:00+09:00",
-      "publishedAt": "2026-09-09T15:30:00+09:00",
-      "firstCollectedAt": "2026-09-09T20:47:14+09:00",
-      "updatedAt": "2026-09-09T20:47:14+09:00",
-      "summary": "[보도자료] 한·중앙아시아 정상회의 대비 테러경보 격상 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "[보도자료] 한·중앙아시아 정상회의 대비 테러경보 격상 - 정책브리핑",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXVtMFEzX1JKY1pEcXRWSHpjY2p5VXJuX1lUbGFRS2pNOWhYRExzTHhfcnhoNWEwSGk1cG9lZHkxQnZCRXMxYkw5MVY2MjgyNk93Q0VKUEo0Nko5QmJpZlN4RGFYQzRVTnM1LWpyOE00T25ndHVoODV4TXhjSGtYNWNZMGFHRkRfZmMxSmh1c1V1QQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d480930f0dafcf867a5678216c561260550225a067714838c607cf9693ebb983"
-    },
-    {
       "id": "20260909-DP-0138146C-1178",
       "title": "국민권익위와 국립군산대, 미래를 이끌 청렴인재 양성에 한뜻 - 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -1224,46 +1785,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "1e6b69ce2cfc28be3b2e33a5da143272ab39f45f9a1818cbd5a48bd522d1bae1"
-    },
-    {
-      "id": "20260909-DP-398F55C1-1183",
-      "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-09T18:37:25+09:00",
-      "publishedAt": "2026-09-09T18:37:25+09:00",
-      "firstCollectedAt": "2026-09-09T20:47:14+09:00",
-      "updatedAt": "2026-09-09T20:47:14+09:00",
-      "summary": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 - 정책브리핑",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEpDWGg3ck5kV01oWEoxN1hjRnJUNTY3eFpJZVdRSS12RmdBVy0ybUJuSHBmaENBNWlUZU1iX04tV2N0VE91U0xsVzRocml3NXVVZjh3R0Q3QjZ6U2FmU0hrN3pHMGVMRE1fRUJvOXBQSDNZb3NrWFJIdTdDSzRKbi1uWkc1WXRaZk1GblAzUEVyam9Q?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "398f55c1c7fe8877747cbf8cf930f48a1506368682e1ea3d098198033efba6e1"
     },
     {
       "id": "20260909-DP-46927565-1184",
@@ -1691,46 +2212,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "a48baedfb3699f3e6c50c9e59e6d9b342be8b19441718d3eec1253f5d6b69d4d"
-    },
-    {
-      "id": "20260909-FR-0F38B742-1160",
-      "title": "한·프랑스 협력 더 구체적으로 더 실질적으로 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-09T14:51:12+09:00",
-      "publishedAt": "2026-09-09T14:51:12+09:00",
-      "firstCollectedAt": "2026-09-09T15:34:43+09:00",
-      "updatedAt": "2026-09-09T15:34:43+09:00",
-      "summary": "한·프랑스 협력 더 구체적으로 더 실질적으로 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "한·프랑스 협력 더 구체적으로 더 실질적으로 - 정책브리핑",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVJieUVIRWJyd3NjLVBUOXAzNDU0UjFnYVJDLVBYLTRSSm1YYzF2b2prSkxBYzhqeUtLX0J3YmMxSTVzSWRjTGpMZ1VEM3c2V0x5OTFKTlRjWHZuR295RHpZbXNvWnNHWUs3QjBKeU11c0o0UF96ajJJbV9WdXV4YkNfZ3JFcDFqeGE0?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0f38b74298f50d842de2d114dba7884bce8442d5efd8129ecfb4e64b9a46cd5b"
     },
     {
       "id": "20260909-FR-35558637-1161",
