@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-09T20:47:21+09:00",
-    "nextScheduledUpdate": "2026-09-09T21:17:21+09:00",
+    "lastSuccessfulUpdate": "2026-09-10T01:28:51+09:00",
+    "nextScheduledUpdate": "2026-09-10T01:58:51+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-09T20:47:14+09:00",
-      "finishedAt": "2026-09-09T20:47:21+09:00",
+      "startedAt": "2026-09-10T01:28:48+09:00",
+      "finishedAt": "2026-09-10T01:28:51+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 68,
-      "duplicates": 60,
-      "rejected": 114,
+      "acceptedCandidates": 41,
+      "duplicates": 46,
+      "rejected": 148,
       "rejectedByDate": 113,
-      "rejectedByRelevance": 1,
+      "rejectedByRelevance": 35,
       "rejectedAsCommentary": 0,
-      "newIssues": 24,
-      "updatedIssues": 2,
+      "newIssues": 6,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,247 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260909-FR-973996D4-1196",
+      "title": "외교부, 「2026 세계신안보포럼」 개최 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T15:03:57+09:00",
+      "publishedAt": "2026-09-09T15:03:57+09:00",
+      "firstCollectedAt": "2026-09-10T01:28:49+09:00",
+      "updatedAt": "2026-09-10T01:28:49+09:00",
+      "summary": "외교부, 「2026 세계신안보포럼」 개최 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "외교부, 「2026 세계신안보포럼」 개최 - korea.kr",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmtoblBZNnV5aHZhMFlMSWJGS0o1YUJhdEhJM05RSnZDdDVXRlZ2TllsZW9wSC1sbTJSWjNNeGcxVS1TY01Wd3E5MDJwX0QybUl3Vk9iRHVTWmxrc3g4aFgwNi1FY19CUmdmbkl4bk1xbWtKMXg1OVlYTnM1R3pDREVrVTB0c2R2N19OUld6RThPdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "973996d4a3633d74725ffb08ff948ddfe49efd6010048b3e09b5ea68ebe2d73e"
+    },
+    {
+      "id": "20260909-FR-29ED817C-1197",
+      "title": "이재명 대통령 부부, 동포 오찬간담회 참석 관련 강유정 수석대변인 서면브리핑 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T23:04:19+09:00",
+      "publishedAt": "2026-09-09T23:04:19+09:00",
+      "firstCollectedAt": "2026-09-10T01:28:49+09:00",
+      "updatedAt": "2026-09-10T01:28:49+09:00",
+      "summary": "이재명 대통령 부부, 동포 오찬간담회 참석 관련 강유정 수석대변인 서면브리핑 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "이재명 대통령 부부, 동포 오찬간담회 참석 관련 강유정 수석대변인 서면브리핑 - korea.kr",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Nd0ZPdVJtNEJ6cXViMVJZQUtuWXBjdnZ6bnMyeFRGZWxlRnBTSG1fdmVoTG1GamRkVU1MVkhfc19WU2Q0SlJBdzNCX0J0T3VlWnVEQk1nbUNUMjhpbnRiVXZ1eU52UE4zMFhpaV9EMEs?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "29ed817c1aaefb5a13c18be807d4ecc15191b17db43b5bb9c96c0b855b2794c0"
+    },
+    {
+      "id": "20260909-FR-ABC8B1AB-1198",
+      "title": "정부, 중소·중견 무역금융 연내 120조 원, 내년 140조 원 공급 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T11:08:36+09:00",
+      "publishedAt": "2026-09-09T11:08:36+09:00",
+      "firstCollectedAt": "2026-09-10T01:28:49+09:00",
+      "updatedAt": "2026-09-10T01:28:49+09:00",
+      "summary": "정부, 중소·중견 무역금융 연내 120조 원, 내년 140조 원 공급 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "정부, 중소·중견 무역금융 연내 120조 원, 내년 140조 원 공급 - korea.kr",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTXhWWEZXQUZzTXY0T01UdUR2a3NmdERUNTY4NVJ0SlZkTnJ5SUQyWTBXTzFJeDBSMTlVNGlyeG96UmUzS1NDdGRlRkVyWE1UODRlWFRYeEpoOUZkMXJxcEtzQncySHg0MnQxWm9hM2RSN1JHQVdWMEVHQTRQbHlSTFR2MDFHV1lBZlJqWlBLMV9rQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "abc8b1ab74c86b8b29b24709c882d3d2faa08ebbedbbae360e90d7199923c063"
+    },
+    {
+      "id": "20260909-FR-3181E360-1199",
+      "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T18:37:25+09:00",
+      "publishedAt": "2026-09-09T18:37:25+09:00",
+      "firstCollectedAt": "2026-09-10T01:28:49+09:00",
+      "updatedAt": "2026-09-10T01:28:49+09:00",
+      "summary": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "(보도참고) 국제신용평가기관 피치(Fitch), 내년 예산안의 재정건전성 제고에 연이어 좋은 평가 - korea.kr",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXk4eXpSTHFxMXNqZmI5aFIybjlIOFpxc1BRSnJvdUJ6ZFBNRHZaNHFTd1owWkMzcW00V1JqZ0tqT2dYNGRqWVRrZFlBOERpa3g4S0tQVmFrek9KUVJhbWk4V2t1ZWpSbmthN042MUJMMHFnc0Y2QTN5REVWTUE1SUtsbW5sRl80ZTN4SDR2N1lHMXpQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3181e360087d4f9fd8198bbf391fa625017d8b9dfb9e058b2e8d1c14ca7a2ea9"
+    },
+    {
+      "id": "20260909-FR-10291591-1200",
+      "title": "이재명 대통령 부부, 동포 오찬간담회 참석 관련 강유정 수석대변인 서면브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T23:33:17+09:00",
+      "publishedAt": "2026-09-09T23:33:17+09:00",
+      "firstCollectedAt": "2026-09-10T01:28:49+09:00",
+      "updatedAt": "2026-09-10T01:28:49+09:00",
+      "summary": "이재명 대통령 부부, 동포 오찬간담회 참석 관련 강유정 수석대변인 서면브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령 부부, 동포 오찬간담회 참석 관련 강유정 수석대변인 서면브리핑 - 대한민국 청와대",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQNWNPTXR3cVhFcHhMNHJqZ3RfUGZPTWF5SXowZUhMM0VfdDdyMmlzbEZzdk1LbDVHT1J2TXdYMlFwNlVBWXZDLUpzTHhONjNHdmMwRzRGbEVGZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1029159109371b9c66cdca1f90e271724df126d1277063a18237807049212f81"
+    },
+    {
+      "id": "20260909-DP-B70FCFCD-1195",
+      "title": "금융위 \"동양생명 과징금 등 제재 확정된 바 없어\" - korea.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T21:16:28+09:00",
+      "publishedAt": "2026-09-09T21:16:28+09:00",
+      "firstCollectedAt": "2026-09-10T01:28:48+09:00",
+      "updatedAt": "2026-09-10T01:28:48+09:00",
+      "summary": "금융위 \"동양생명 과징금 등 제재 확정된 바 없어\" korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "금융위 \"동양생명 과징금 등 제재 확정된 바 없어\" - korea.kr",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03OUktc3p0S3Q3OV9GM3N5SFRDVDFfbmg2MF9McHRGeEI5NWpUMlcxWVlyN1JFMkU2ak1WcE9jejB0SzhNQVRzS3Y2RG9ydXY0M3dqY0FmM1U3RTIxZThZUXRNTUN2dkZfMHN3RHJqVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b70fcfcd11e2bfac171e90600d0f5e1ae7718e76eb97157a02a97636e71e2d90"
+    },
     {
       "id": "20260731-FR-CD8C7B20-023",
       "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 | 카드뉴스 | 뉴스룸 - 대한민국 청와대",
