@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-10T18:05:42+09:00",
-    "nextScheduledUpdate": "2026-09-10T18:35:42+09:00",
+    "lastSuccessfulUpdate": "2026-09-10T22:31:18+09:00",
+    "nextScheduledUpdate": "2026-09-10T23:01:18+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-10T18:05:37+09:00",
-      "finishedAt": "2026-09-10T18:05:42+09:00",
+      "startedAt": "2026-09-10T22:31:14+09:00",
+      "finishedAt": "2026-09-10T22:31:18+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 69,
-      "duplicates": 69,
-      "rejected": 115,
-      "rejectedByDate": 114,
-      "rejectedByRelevance": 1,
+      "duplicates": 74,
+      "rejected": 117,
+      "rejectedByDate": 115,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 12,
-      "updatedIssues": 4,
+      "newIssues": 8,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,380 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260909-FR-339A938B-1166",
+      "title": "경주지진 10년, 지진방재의 미래 10년을 논하다 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T15:00:00+09:00",
+      "publishedAt": "2026-09-09T15:00:00+09:00",
+      "firstCollectedAt": "2026-09-09T15:34:43+09:00",
+      "updatedAt": "2026-09-10T22:31:15+09:00",
+      "summary": "경주지진 10년, 지진방재의 미래 10년을 논하다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "경주지진 10년, 지진방재의 미래 10년을 논하다 - 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnRHdmNpZ3dzQzAzOXg3ZllMemxrZXJXc3JGcXY5aXJGQ1lSUHZrRWNMNk82VzYzRFlLMjZ5R21BMUluc3R0cHZqZ2JLRG04azZMd2lvN0FrdE9UeGhHQTRjbTBmanljRUx5Sk04eE1CeEhQZlFSVUIyQkZPRktHNVo5NDMzUk9iQTZPZTZBRWM2dw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경주지진 10년, 지진방재의 미래 10년을 논하다 - 대한민국 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ2hDYVRhWml3azc1QW9Bd0JBSHdmU2lzekI5cW5PVGs3SjhwQzd1WU1XQW9NR092QzM1QzNoUUZlV0Jick0tMVZ5bVVWNGtIY1pUMGVqQ2JSZGducndiMGQ5dVF5TG90d1I3UXV3b3VhWE9mLWY0eVRzTkh4eEh5QmVRZkRkY2tmZ3YwbVZ4QWdEUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-10T22:31:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "339a938bb35360e4e8084afaeade8933a5adbbe08e9ed7a0ad30b9435fafe9b2"
+    },
+    {
+      "id": "20260910-DP-72FAE5DE-1238",
+      "title": "조현 외교부 장관, 우간다 제2부총리 면담(9.10.) - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T19:27:01+09:00",
+      "publishedAt": "2026-09-10T19:27:01+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:15+09:00",
+      "updatedAt": "2026-09-10T22:31:15+09:00",
+      "summary": "조현 외교부 장관, 우간다 제2부총리 면담(9.10.) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 외교부 장관, 우간다 제2부총리 면담(9.10.) - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQmdYcUR6ekNXSGpMakttVnlCaS1DaThDZ2oxcExDaWN4bXA1MVdJR29rblphMUQ1TGJBbjFQdUU5UW9uQ29LRkdjdnBWSldQVGpHTWdkN2lkd2ViMEpMQTBjZXNDclZwdGR1Rjl5VGJQaVZrbzk5UFdBbFU1Z3lHdmNpTHVyaXB4Q29MV2dZbEsxZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "72fae5de017ebe23cda9fc5e9b1ea51a3326d313a74f44ef63439fc5556384a7"
+    },
+    {
+      "id": "20260910-FR-C9867A66-1239",
+      "title": "[설명] 3기 신도시 LH 공공분양주택의 중도금 대출은 차질없이 제공될 예정입니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T21:01:00+09:00",
+      "publishedAt": "2026-09-10T21:01:00+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:15+09:00",
+      "updatedAt": "2026-09-10T22:31:15+09:00",
+      "summary": "[설명] 3기 신도시 LH 공공분양주택의 중도금 대출은 차질없이 제공될 예정입니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[설명] 3기 신도시 LH 공공분양주택의 중도금 대출은 차질없이 제공될 예정입니다. - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbHdSd2NOd05UXzF1OHJvYjNyazdyakJhY29KVEFtWGN1R250cTVjcUxVM0JDUVJRUktqdTdwRjZWNVNsWENkWHpQS3BOUUJYazJNVkk4MnFzakN5a0pxSl8wa210VEJkSWhsVlZpUXctUUFYTzhrNW1jZW1uUlIxYS0tWjRSVXJVTGdYWFRMcmNCV3BU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c9867a66ae19fb8e164750dce68a986bc1241b6f0331b16c5432d67f29ffec93"
+    },
+    {
+      "id": "20260910-FR-9EB21490-1240",
+      "title": "2026 국제기후포럼 영상축사 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T00:59:47+09:00",
+      "publishedAt": "2026-09-10T00:59:47+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:15+09:00",
+      "updatedAt": "2026-09-10T22:31:15+09:00",
+      "summary": "2026 국제기후포럼 영상축사 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 국제기후포럼 영상축사 - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zREVjaW1vYnFlaHBRT2x3WXVzd1FzTUt0d2U3eWtVLUpzaUp3M1hNX3R3cjJuOUJvUmJxUGx6V25iQl9VREhGWVhHb08zNEpZU0RETFFQcTJNSnhvckk2a2xvM25FSElFT3hCZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9eb214908972f5ddbaf322ebdb4b30cde53865bc31d0190de7d2b63b0de59be9"
+    },
+    {
+      "id": "20260909-FR-CA262123-1241",
+      "title": "레이몽드 가네 캐나다 상원의장 접견 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-09T15:02:00+09:00",
+      "publishedAt": "2026-09-09T15:02:00+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:15+09:00",
+      "updatedAt": "2026-09-10T22:31:15+09:00",
+      "summary": "레이몽드 가네 캐나다 상원의장 접견 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "레이몽드 가네 캐나다 상원의장 접견 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54ZElGZmFrbTd2ZDdFNTdyaVJKMVlfeUZ0ZEtyekdiQWlhRk5zRWM2SHlCeDF6VURwZldxbzRScW1TbTZrRFV1SzFfOC1hS2pXWTRBTWhOSnMzUUhQOWg2Nm80cUV3bzlHS3FMMmlBX3M3MFhPRjdLVFln?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ca26212322802c05c017630454379030742bf6b87f9bf397b3c7018977281d4e"
+    },
+    {
+      "id": "20260910-FR-7BD5E251-1242",
+      "title": "故 하랄 5세 노르웨이 국왕 국장 관련 조문사절 파견(9.8.-10.) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T19:02:26+09:00",
+      "publishedAt": "2026-09-10T19:02:26+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:15+09:00",
+      "updatedAt": "2026-09-10T22:31:15+09:00",
+      "summary": "故 하랄 5세 노르웨이 국왕 국장 관련 조문사절 파견(9.8.-10.) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "故 하랄 5세 노르웨이 국왕 국장 관련 조문사절 파견(9.8.-10.) - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdG1mMng3MlNIY094YzRlMkRka0ZRQUxWX3cxRFFHOGZUWlpRWHEtdTZoME9ieXdQMWlmNV9ZcU1WTF8zNGkxX1h0NHNwbkNXVE45RktZZlB0bk5DTUV4dWZBUU01bjlRcWJQUjRqSnRiV0hWaVpWdml2dW9oaDZpMmh6Zk5IanM1ODdCMXJuazlMd0s4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7bd5e25151cb943f59f78e32e33019240aaeaec67edc72fe922e6d2cc90eb046"
+    },
+    {
+      "id": "20260910-DP-E17E99E1-1235",
+      "title": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T18:04:38+09:00",
+      "publishedAt": "2026-09-10T18:04:38+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:14+09:00",
+      "updatedAt": "2026-09-10T22:31:14+09:00",
+      "summary": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHpJX0VQRS1IUTNCbFZ4SlpudXIyTkQ5M2lMTGdYUUJaSnh6X3BVRUZ2Q0JQTVB2UGZCYmpLenh6eHJWaDQ2S0dHV3BlVkt3RHBpejR4bTllZEpGejlVX2RfZGJlNWNveUxBX1NoVE52MEtPZk5fWS16UE5MM1dRdlJub1FjSlFza1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e17e99e1b6a0c6890ade8f3fc4d0de8b06437f1277b8092b79c61e9024f40e14"
+    },
+    {
+      "id": "20260910-DP-F1A1CA00-1236",
+      "title": "영주국유림관리소, 소나무류 무단 이동 특별단속 시행 -10월부터 무단 이동 시 과태료 및 형사 처벌…강력 대응 시사- - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T16:43:51+09:00",
+      "publishedAt": "2026-09-10T16:43:51+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:14+09:00",
+      "updatedAt": "2026-09-10T22:31:14+09:00",
+      "summary": "영주국유림관리소, 소나무류 무단 이동 특별단속 시행 -10월부터 무단 이동 시 과태료 및 형사 처벌…강력 대응 시사- 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "영주국유림관리소, 소나무류 무단 이동 특별단속 시행 -10월부터 무단 이동 시 과태료 및 형사 처벌…강력 대응 시사- - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcEN0RkRfbm9ldWNXWDk3Y1BxSmdfX0xxOXlQUXl4d21FUlFJeTk1X2RuN251VzNrVFJSZWZuNF9ZTHlyNEFYQTBoelotaWtCM3RWXzJlaVNjZXF0OWswRTRwYkZYaXBrSHEybVM3VVZVajdNS1l0clFpYXdSU05BczBrM3ZxWFl6em8yRzc4VjBsNE91N1U5TVJscjZ1NDBab1BJLU11ZHJiUlpDQm5wa19TODJIMTZDdVRTX0dxMVB5Z3ptZllEbDZLSXdqSDFadE43MkZPT0poQXI5UHk1YnhRUGhMUVN4MndXRmlvUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f1a1ca00e2d049e953e30e8db987bc710148376d6cf985a043f7dd505b3a1ceb"
+    },
+    {
+      "id": "20260910-DP-0914D9FF-1237",
+      "title": "국가공무원 5급·외교관후보자 2차시험 합격자 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T18:00:00+09:00",
+      "publishedAt": "2026-09-10T18:00:00+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:14+09:00",
+      "updatedAt": "2026-09-10T22:31:14+09:00",
+      "summary": "국가공무원 5급·외교관후보자 2차시험 합격자 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국가공무원 5급·외교관후보자 2차시험 합격자 발표 - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaGVmVndQdENhdFgwWWIwaF9RWTdzN3JQSG1VaVJSdWdxYk15RGNNVGt0cVAwWUMxeDdnQlp3ZmZkNmJRRER3c1Q2VkZCTzJNMjAxcXh6dXZWRzBubVRITjdGYlpieWJiV09YbVU0RGYyQ1BxUHo2dW5WR1hETnJvSEowVWRqRVZHc1QzY0kyZVl0Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0914d9ff8749f6079065e6d8710d31621cb0057fcf32da15e54c247a889f5dfa"
+    },
     {
       "id": "20260908-FR-E4F823D5-1088",
       "title": "뤼미에르 서밋 개막식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
@@ -4044,46 +4418,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e57030daa575a5eb57a2ac5fe8a90b9bcf08655619764a455d96370c3741db50"
-    },
-    {
-      "id": "20260909-FR-339A938B-1166",
-      "title": "경주지진 10년, 지진방재의 미래 10년을 논하다 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-09T15:00:00+09:00",
-      "publishedAt": "2026-09-09T15:00:00+09:00",
-      "firstCollectedAt": "2026-09-09T15:34:43+09:00",
-      "updatedAt": "2026-09-09T15:34:43+09:00",
-      "summary": "경주지진 10년, 지진방재의 미래 10년을 논하다 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "경주지진 10년, 지진방재의 미래 10년을 논하다 - 정책브리핑",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnRHdmNpZ3dzQzAzOXg3ZllMemxrZXJXc3JGcXY5aXJGQ1lSUHZrRWNMNk82VzYzRFlLMjZ5R21BMUluc3R0cHZqZ2JLRG04azZMd2lvN0FrdE9UeGhHQTRjbTBmanljRUx5Sk04eE1CeEhQZlFSVUIyQkZPRktHNVo5NDMzUk9iQTZPZTZBRWM2dw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "339a938bb35360e4e8084afaeade8933a5adbbe08e9ed7a0ad30b9435fafe9b2"
     },
     {
       "id": "20260909-FR-1792B128-1167",
