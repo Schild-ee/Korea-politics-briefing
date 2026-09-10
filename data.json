@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-10T22:31:18+09:00",
-    "nextScheduledUpdate": "2026-09-10T23:01:18+09:00",
+    "lastSuccessfulUpdate": "2026-09-11T02:07:11+09:00",
+    "nextScheduledUpdate": "2026-09-11T02:37:11+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-10T22:31:14+09:00",
-      "finishedAt": "2026-09-10T22:31:18+09:00",
+      "startedAt": "2026-09-11T02:07:08+09:00",
+      "finishedAt": "2026-09-11T02:07:11+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 69,
-      "duplicates": 74,
-      "rejected": 117,
-      "rejectedByDate": 115,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 66,
+      "duplicates": 77,
+      "rejected": 121,
+      "rejectedByDate": 118,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 8,
+      "newIssues": 1,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,99 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260910-DP-E17E99E1-1235",
+      "title": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T18:04:38+09:00",
+      "publishedAt": "2026-09-10T18:04:38+09:00",
+      "firstCollectedAt": "2026-09-10T22:31:14+09:00",
+      "updatedAt": "2026-09-11T02:07:08+09:00",
+      "summary": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHpJX0VQRS1IUTNCbFZ4SlpudXIyTkQ5M2lMTGdYUUJaSnh6X3BVRUZ2Q0JQTVB2UGZCYmpLenh6eHJWaDQ2S0dHV3BlVkt3RHBpejR4bTllZEpGejlVX2RfZGJlNWNveUxBX1NoVE52MEtPZk5fWS16UE5MM1dRdlJub1FjSlFza1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CTGczVUN2UHFRMDh1cDB6ZTRIcGZaV0lXMGF2MTMzcC1XMWxqWmt0d0IxMkswZ3VreWNldXNwbXdzSXFfVDRwMnFPUHdwYUVtT050VE1heGVoSFNnTXlrb0w2Yi1sUW9BTlN6Tw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-11T02:07:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e17e99e1b6a0c6890ade8f3fc4d0de8b06437f1277b8092b79c61e9024f40e14"
+    },
+    {
+      "id": "20260910-DP-BCDE1797-1243",
+      "title": "개인정보 반복·대규모 유출시 '매출액 10%' 내 징벌적 과징금 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T22:41:15+09:00",
+      "publishedAt": "2026-09-10T22:41:15+09:00",
+      "firstCollectedAt": "2026-09-11T02:07:08+09:00",
+      "updatedAt": "2026-09-11T02:07:08+09:00",
+      "summary": "개인정보 반복·대규모 유출시 '매출액 10%' 내 징벌적 과징금 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개인정보 반복·대규모 유출시 '매출액 10%' 내 징벌적 과징금 - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kNk5TX1FTWjlXZ0NQazdUb2ZLbFBJUi1pVTQ3LUJ1WHRSanhFeXBSSUdyNHRSRGlFcFdkS2JzdHpzQVZlbElJTFAwRkxFQm5SQW4zT1FSRUNBRW8xM19UcVRkay1UZmVUZXZ0Nw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bcde1797c06af4edfa806c8092bf83514d86ced4fe3826958e2a4f8e45d691df"
+    },
     {
       "id": "20260909-FR-339A938B-1166",
       "title": "경주지진 10년, 지진방재의 미래 10년을 논하다 - 정책브리핑",
@@ -317,46 +410,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "7bd5e25151cb943f59f78e32e33019240aaeaec67edc72fe922e6d2cc90eb046"
-    },
-    {
-      "id": "20260910-DP-E17E99E1-1235",
-      "title": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-10T18:04:38+09:00",
-      "publishedAt": "2026-09-10T18:04:38+09:00",
-      "firstCollectedAt": "2026-09-10T22:31:14+09:00",
-      "updatedAt": "2026-09-10T22:31:14+09:00",
-      "summary": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "개정 노조법 시행 후 원·하청 교섭 첫 결실…\"대화·상생 취지 구현\" - 대한민국 정책브리핑",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdHpJX0VQRS1IUTNCbFZ4SlpudXIyTkQ5M2lMTGdYUUJaSnh6X3BVRUZ2Q0JQTVB2UGZCYmpLenh6eHJWaDQ2S0dHV3BlVkt3RHBpejR4bTllZEpGejlVX2RfZGJlNWNveUxBX1NoVE52MEtPZk5fWS16UE5MM1dRdlJub1FjSlFza1E?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e17e99e1b6a0c6890ade8f3fc4d0de8b06437f1277b8092b79c61e9024f40e14"
     },
     {
       "id": "20260910-DP-F1A1CA00-1236",
