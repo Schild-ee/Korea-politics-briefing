@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-12T04:58:32+09:00",
-    "nextScheduledUpdate": "2026-09-12T05:28:32+09:00",
+    "lastSuccessfulUpdate": "2026-09-12T07:26:43+09:00",
+    "nextScheduledUpdate": "2026-09-12T07:56:43+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-12T04:58:29+09:00",
-      "finishedAt": "2026-09-12T04:58:32+09:00",
+      "startedAt": "2026-09-12T07:26:38+09:00",
+      "finishedAt": "2026-09-12T07:26:43+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 26,
-      "duplicates": 26,
-      "rejected": 172,
-      "rejectedByDate": 124,
-      "rejectedByRelevance": 48,
+      "acceptedCandidates": 65,
+      "duplicates": 61,
+      "rejected": 129,
+      "rejectedByDate": 126,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 9,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,423 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260904-FR-B434B9FA-1004",
+      "title": "공정거래위원회-한국소비자법학회 공동 학술대회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-04T14:30:00+09:00",
+      "publishedAt": "2026-09-04T14:30:00+09:00",
+      "firstCollectedAt": "2026-09-04T18:00:14+09:00",
+      "updatedAt": "2026-09-12T07:26:40+09:00",
+      "summary": "공정거래위원회-한국소비자법학회 공동 학술대회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공정거래위원회-한국소비자법학회 공동 학술대회 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMXFuRDc2ZERXWVdSWVFYeV90c0kySndIQjY1blluSndnLUh3V0oxOTQ2NmZ1SVZYZ0Y1VXFmWE1ZRXFIQlUzTEZYSmRzNzE3ZUVZVVpDM0hnd0VtdmlpMDhLZHpseUdwb21meFIwOXltYWc5UVdvTHlTVzNfZTUyZ09EZW5rLVMtTUhNaWJjcDJkZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공정거래위원회-한국하도급법학회, 공동 학술대회 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OaEZuak5PZk5vcjF2VDB5VGYtWEVzbFhGUTNzWDd4ZUNNbTdDQTdkbWdtWjVKc0RGRTNvTHZuamhQcDNGM19wR1NVT2xmejVyZGs2SzJVOFctNDNQZlU5d250ekt4TnhYTnZaY2N1ZGM4LXBW?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-12T07:26:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b434b9fa9a77b97b77977f6953778001a45741ba5249c2d68aca4cb0f4e63679"
+    },
+    {
+      "id": "20260911-FR-E6698AAC-1274",
+      "title": "첫 한·중앙아 정상회의 16일 서울 개최…'서울선언' 협력 비전 제시 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T19:11:07+09:00",
+      "publishedAt": "2026-09-11T19:11:07+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:40+09:00",
+      "updatedAt": "2026-09-12T07:26:40+09:00",
+      "summary": "첫 한·중앙아 정상회의 16일 서울 개최…'서울선언' 협력 비전 제시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "첫 한·중앙아 정상회의 16일 서울 개최…'서울선언' 협력 비전 제시 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd25uUGhvbTBiZmpVY3NDYXNydWl6c0JZbTR4Z09CYlBEcG1FZU5ZV2RvMWRIcF9hc2d1SVliZ2NJeW55ZEZMeTRVVlQ0ck5COWJ4STNOYVMzblliWjBLc05HREUyb1MtVE5CRUE2bTdoSHl3dFNFNDJURjZKeTRuaFl1bnFhM2wwY1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e6698aac03909daecc3b07302593ba3a64e29de35abde777edb4ab8c2d4c242a"
+    },
+    {
+      "id": "20260911-FR-4FB3B882-1275",
+      "title": "(참고자료)복수국간 그린경제협정 협상 공식참여 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T10:04:59+09:00",
+      "publishedAt": "2026-09-11T10:04:59+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:40+09:00",
+      "updatedAt": "2026-09-12T07:26:40+09:00",
+      "summary": "(참고자료)복수국간 그린경제협정 협상 공식참여 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(참고자료)복수국간 그린경제협정 협상 공식참여 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGhxazhENTl3elZ2OUhxUlU1UW55UHBEWXFtVEhvT0xrZ3hvZFFzWktzS1UzNmxCRnlnX09aNDhqQmp4cGNxUjJ1ajNiS29lQTBxVHJhREUtNDVxYjN2akdFc2F4Yk55d2RQbzYzRGtNQ2RxMGRCRFlIMUFjTzM1OXhoVjIzVlZTbDln?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4fb3b8825ffbdd86f0481ad7eccab81656da7467671f6b19ea3dc65087bb227d"
+    },
+    {
+      "id": "20260911-FR-1AA15D45-1276",
+      "title": "(참고자료)통상교섭본부장, 英 기업혁신과학통상부 장관과 대러 LNG 수입 제재 등 현안 논의 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T17:33:44+09:00",
+      "publishedAt": "2026-09-11T17:33:44+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:40+09:00",
+      "updatedAt": "2026-09-12T07:26:40+09:00",
+      "summary": "(참고자료)통상교섭본부장, 英 기업혁신과학통상부 장관과 대러 LNG 수입 제재 등 현안 논의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(참고자료)통상교섭본부장, 英 기업혁신과학통상부 장관과 대러 LNG 수입 제재 등 현안 논의 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40WWRqQ2tZWnlxcXlNa3FhbTRSOG55TWFPLUc3RXJndWZpVWtRNnpIMzg4Z051OTRQM0xJT0VBYTAwb0lMZnZhU05RdkJmeUx2Vmt1aWJWUWRjUHhVZ2hZVjMzMkE5LUVid2F6WXZEVENxM05X?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1aa15d45fd7d8821b70ff0d6b77e026b1108432377386a0d9de3490d68747c73"
+    },
+    {
+      "id": "20260911-FR-70B7BD75-1277",
+      "title": "[보도자료] 2026 국가대테러종합훈련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T18:25:39+09:00",
+      "publishedAt": "2026-09-11T18:25:39+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:40+09:00",
+      "updatedAt": "2026-09-12T07:26:40+09:00",
+      "summary": "[보도자료] 2026 국가대테러종합훈련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 2026 국가대테러종합훈련 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWWp1LUFrRVg0Ulc5VzZHT0xpdkpXRUNJenVaOXhKUUxQcVFTdnJRYlZQVzUyNXZaeWJFdnp2cGx5emdxc1Z3ai1ZQ3ZKb1MzYU82RW10WlB6RUUyNEczUm8zckRtV2p0c1F4d2ZUcjF1bzRv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "70b7bd75c38c5cda7818020f4644f59d182bd2f64770058eed62b298a6cd8652"
+    },
+    {
+      "id": "20260912-FR-2F0403AB-1278",
+      "title": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [
+        "유럽연합"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-12T06:22:30+09:00",
+      "publishedAt": "2026-09-12T06:22:30+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:40+09:00",
+      "updatedAt": "2026-09-12T07:26:40+09:00",
+      "summary": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRURBMktJRWRfa0tJXzRCVmE1UXkzaFdWN09abUxjTFlWd2wtS2g5dnJzaElyVjY5MFhMMDJEUVEtWW9EckU4THJoVHBnOURoNjR5ZDlxNWg2WDFMNUVtd3RuenRrbTZWckdwYVhQdjIxY1UwNzNta3J4TnhRZUFvTUtvZ20wNDM4dm93?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2f0403ab990e0a13a8b1a3d3295f9b8e980bb9a96ffe8461249d615e7d9321ca"
+    },
+    {
+      "id": "20260912-DP-A7BF9F5B-1270",
+      "title": "[대외협력(중국어) 분야] 2026년 제9회 원주시 임기제공무원 경력경쟁임용시험 공고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [
+        "중국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-12T06:48:59+09:00",
+      "publishedAt": "2026-09-12T06:48:59+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:39+09:00",
+      "updatedAt": "2026-09-12T07:26:39+09:00",
+      "summary": "[대외협력(중국어) 분야] 2026년 제9회 원주시 임기제공무원 경력경쟁임용시험 공고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[대외협력(중국어) 분야] 2026년 제9회 원주시 임기제공무원 경력경쟁임용시험 공고 - 대한민국 정책브리핑",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jT285S1RsLXJ6NTVNOGRKbGpUZFp4Um52MERsbVRlVlNCS3djTEFYN0NIQ2VtRjNmOWt5NjZQeVkzMlJ4WmhORlJoajF1VW9yVHpZczJaeWc1S2FzbVJ1NEpvd21rVkhLcmJOMnln?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a7bf9f5b5bb7820481b5ba5e84972fd10949369adaa16909e5ac321c75b4052d"
+    },
+    {
+      "id": "20260910-DP-B7B8A542-1271",
+      "title": "지능형 기지국(AI-RAN) 기반 AI 로봇 실증 방문으로 조선소 현장 안전과 생산성을 동시에 잡는다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T10:30:00+09:00",
+      "publishedAt": "2026-09-10T10:30:00+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:39+09:00",
+      "updatedAt": "2026-09-12T07:26:39+09:00",
+      "summary": "지능형 기지국(AI-RAN) 기반 AI 로봇 실증 방문으로 조선소 현장 안전과 생산성을 동시에 잡는다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지능형 기지국(AI-RAN) 기반 AI 로봇 실증 방문으로 조선소 현장 안전과 생산성을 동시에 잡는다. - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1Q4anlJeXFNeVo5c1pXWlltUE9tM0RmSHczYzdvNE5iOXcweF9ZWGRsU3pnUGVBaHdncHR3RUhuaWM5VzRScmhxQ3hOS2s4a1A0R1BITUZPdlR2ZlNuMVh3Ui1hX0Y2akRKbjMzTVhsaUhOVF9YeXhIRlhmN1IzRGM0OWR0S3Y1QVV1OHI2elE2dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b7b8a542dbc97e6fcb20140223a71f4c41128c523c04fade7a9bb2056e14bb6c"
+    },
+    {
+      "id": "20260911-DP-88994CC5-1272",
+      "title": "추석 상차림 부담 뚝! 수산물 최대 53% 반값 할인 총정리 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T08:00:10+09:00",
+      "publishedAt": "2026-09-11T08:00:10+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:39+09:00",
+      "updatedAt": "2026-09-12T07:26:39+09:00",
+      "summary": "수산물 최대 53% 반값 할인 총정리 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "추석 상차림 부담 뚝! 수산물 최대 53% 반값 할인 총정리 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUW4tVXZGdlI5TkFxUkxNMUttSVpQYlRERVJ0RFpfcTlMX2oyYjI0anB5MUtSQ1YxS2drcmxwbXdnNWZqcy01emQ5cFBwODNndWJTUGFNalZIRkdydjROWldldXdCNkx1MlJYdFFtdnBidkRWUXRYWmdEUEJNTk1PeTMzUG9UbUEyMFA0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "88994cc548201c20402b110e1832c31d0979b38f5897955aaf24dee324a2728d"
+    },
+    {
+      "id": "20260912-DP-1B5D9A80-1273",
+      "title": "오남중학교 사무행정실무사 대체직원 채용계획 공고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-12T06:49:03+09:00",
+      "publishedAt": "2026-09-12T06:49:03+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:39+09:00",
+      "updatedAt": "2026-09-12T07:26:39+09:00",
+      "summary": "오남중학교 사무행정실무사 대체직원 채용계획 공고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "오남중학교 사무행정실무사 대체직원 채용계획 공고 - 대한민국 정책브리핑",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yVGFOM2w2Y3hjN1JwNG5fOGQyUE5FalBaY19yUXVEMFdwSklIa3E4UFAtUjVSX3ZndUgzYVVfN29rNWxYd3NnM1IyTjZwbnRSSk1qM1FlLUZNbWZsdjdFWUc3a3pBTVZoMi1WNVNB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1b5d9a80fc5d906d7cc0be82e9fd20bf6444b4186f06d40c1f7647b034f6e5fd"
+    },
     {
       "id": "20260911-DP-E85305C9-1268",
       "title": "제1차 한-베트남 수출통제대화 개최, 공급망 안정 및 현지 진출기업 지원 강화 - korea.kr",
@@ -13260,46 +13677,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2b2716ca3d26096d113e0e610faaa241d34fbe4188da32d292f6d68ad20e5fc3"
-    },
-    {
-      "id": "20260904-FR-B434B9FA-1004",
-      "title": "공정거래위원회-한국소비자법학회 공동 학술대회 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-04T14:30:00+09:00",
-      "publishedAt": "2026-09-04T14:30:00+09:00",
-      "firstCollectedAt": "2026-09-04T18:00:14+09:00",
-      "updatedAt": "2026-09-04T18:00:14+09:00",
-      "summary": "공정거래위원회-한국소비자법학회 공동 학술대회 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "공정거래위원회-한국소비자법학회 공동 학술대회 개최 - 대한민국 정책브리핑",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMXFuRDc2ZERXWVdSWVFYeV90c0kySndIQjY1blluSndnLUh3V0oxOTQ2NmZ1SVZYZ0Y1VXFmWE1ZRXFIQlUzTEZYSmRzNzE3ZUVZVVpDM0hnd0VtdmlpMDhLZHpseUdwb21meFIwOXltYWc5UVdvTHlTVzNfZTUyZ09EZW5rLVMtTUhNaWJjcDJkZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b434b9fa9a77b97b77977f6953778001a45741ba5249c2d68aca4cb0f4e63679"
     },
     {
       "id": "20260904-FR-2CC864A2-1005",
