@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-11T18:04:03+09:00",
-    "nextScheduledUpdate": "2026-09-11T18:34:03+09:00",
+    "lastSuccessfulUpdate": "2026-09-12T02:07:40+09:00",
+    "nextScheduledUpdate": "2026-09-12T02:37:40+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-11T18:03:58+09:00",
-      "finishedAt": "2026-09-11T18:04:03+09:00",
+      "startedAt": "2026-09-12T02:07:37+09:00",
+      "finishedAt": "2026-09-12T02:07:40+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 70,
-      "duplicates": 58,
-      "rejected": 123,
-      "rejectedByDate": 119,
-      "rejectedByRelevance": 4,
+      "acceptedCandidates": 26,
+      "duplicates": 25,
+      "rejected": 172,
+      "rejectedByDate": 124,
+      "rejectedByRelevance": 48,
       "rejectedAsCommentary": 0,
-      "newIssues": 12,
-      "updatedIssues": 7,
+      "newIssues": 3,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,126 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260911-DP-D2BA2A3B-1265",
+      "title": "‘법인세 포탈’ 이상운 효성 부회장, 재상고심서 징역형 집유 확정 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T18:37:22+09:00",
+      "publishedAt": "2026-09-11T18:37:22+09:00",
+      "firstCollectedAt": "2026-09-12T02:07:38+09:00",
+      "updatedAt": "2026-09-12T02:07:38+09:00",
+      "summary": "‘법인세 포탈’ 이상운 효성 부회장, 재상고심서 징역형 집유 확정 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "‘법인세 포탈’ 이상운 효성 부회장, 재상고심서 징역형 집유 확정 - 대한민국 법원",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkN2eDRVbDgxSTJXZzJ1TjlEajc0ZEVMeTVxellvckZERVhlRXpCVmNMQ2NHZFVlMDRhaGpwNDRIS25ic1dYRDdDR1RybHgzN29iREYyaDJacEZaMkRRN09wSDRDT0Z2TzRWRHJkWVl0WTlnMnMzdXo3djVvc1NmX3FVQU5pc3VUNHBiRjV1R3Z5TVkteWFRN0xBdTRhTHBqNzh2SjU2X3p5ZnExRXFiUkdUS1I?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d2ba2a3b52fe731de4431e784baa7b56f14e92089606ff56c28e88f6ae5c5b3f"
+    },
+    {
+      "id": "20260911-DP-4E91092D-1266",
+      "title": "이 대통령 \"국제질서 극심한 혼돈…우리 힘 키우고 외교 지평 넓혀야\" - korea.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T18:05:39+09:00",
+      "publishedAt": "2026-09-11T18:05:39+09:00",
+      "firstCollectedAt": "2026-09-12T02:07:38+09:00",
+      "updatedAt": "2026-09-12T02:07:38+09:00",
+      "summary": "이 대통령 \"국제질서 극심한 혼돈…우리 힘 키우고 외교 지평 넓혀야\" korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "이 대통령 \"국제질서 극심한 혼돈…우리 힘 키우고 외교 지평 넓혀야\" - korea.kr",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZUs4TlBabmNQY0xRYW9zZlBIQlZ2aEp2V25LVFB2cFlBZXY3YTZFNmZjUUEzcFlGV3BFTFBia1RXNERuTHJDY0xsZHhKX2dXYXNPMEVtQXQ4WmVSRWoyemNJbmpweUJYTHZRLWt1MG9NcXRDT2FnUC1YZ19aYXJMYnFDX09JM2x6T1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4e91092d27097f5fe668aaecdf5951492c0d9781b61658b5d140da39cc09cf68"
+    },
+    {
+      "id": "20260911-DP-06A25648-1267",
+      "title": "[설명] 정부는 '26년 목표 물량 26.8만호 달성을 위해 총력을 기울이고 있습니다. - korea.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T16:01:00+09:00",
+      "publishedAt": "2026-09-11T16:01:00+09:00",
+      "firstCollectedAt": "2026-09-12T02:07:38+09:00",
+      "updatedAt": "2026-09-12T02:07:38+09:00",
+      "summary": "[설명] 정부는 '26년 목표 물량 26.8만호 달성을 위해 총력을 기울이고 있습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "[설명] 정부는 '26년 목표 물량 26.8만호 달성을 위해 총력을 기울이고 있습니다. - korea.kr",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaXdNZlQ2NHczSHBEUW5RVkdVNzA2RFF5bFk3RVg3eHVsS29CeGlvUlB6Y0pBdm1uM25tc1BzRGstQjllZC1xVjFHUE1Sdm4wMUNhZkpsdHAzcTNTbG00U3JLcE1PcndKVXVGYlZyelpjNGlQSU5XNE5VeVB3SzNoOWFjNVVVdmFxWWRkeFVlNE15Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "06a256488cacc3e7485a135f28d3766360b40a1e4ba8147475c9b4c6d8ce4c36"
+    },
     {
       "id": "20260911-FR-ED762D39-1249",
       "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
