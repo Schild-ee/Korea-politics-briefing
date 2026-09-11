@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-11T08:58:36+09:00",
-    "nextScheduledUpdate": "2026-09-11T09:28:36+09:00",
+    "lastSuccessfulUpdate": "2026-09-11T13:23:38+09:00",
+    "nextScheduledUpdate": "2026-09-11T13:53:38+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-11T08:58:32+09:00",
-      "finishedAt": "2026-09-11T08:58:36+09:00",
+      "startedAt": "2026-09-11T13:23:35+09:00",
+      "finishedAt": "2026-09-11T13:23:38+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 68,
-      "duplicates": 77,
-      "rejected": 118,
-      "rejectedByDate": 115,
-      "rejectedByRelevance": 3,
+      "acceptedCandidates": 29,
+      "duplicates": 33,
+      "rejected": 165,
+      "rejectedByDate": 118,
+      "rejectedByRelevance": 47,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
+      "newIssues": 2,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260911-FR-F65AF217-1251",
+      "title": "(참고자료)복수국간 그린경제협정 협상 공식참여 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T10:04:59+09:00",
+      "publishedAt": "2026-09-11T10:04:59+09:00",
+      "firstCollectedAt": "2026-09-11T13:23:36+09:00",
+      "updatedAt": "2026-09-11T13:23:36+09:00",
+      "summary": "(참고자료)복수국간 그린경제협정 협상 공식참여 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "(참고자료)복수국간 그린경제협정 협상 공식참여 - korea.kr",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaUgzcjdySHVRaGZyaXdybmJZVzhEdDdNclAzem04UU9NLU5CWkx5UW42bGJQRl9ieTJqcXBRSEV1X1Bwb245cW5DNi1XTWFwdVpLakRLTmdIQ2tqMlV6LWZGS3RYdUJsQTBBQlo0NU5JNHMzQUphUkhXR2xMNHFUY0VQNzBDVHJKaV9BYkg5WkpEdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f65af21751c4517f763c53bf6dfe7d081b0f7334102268fbdfd8565deece8967"
+    },
+    {
+      "id": "20260910-FR-CF585DFA-1252",
+      "title": "이 대통령, 프랑스 하원의장 면담…\"한-프 협력 확대 잠재력 커\" - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T08:32:36+09:00",
+      "publishedAt": "2026-09-10T08:32:36+09:00",
+      "firstCollectedAt": "2026-09-11T13:23:36+09:00",
+      "updatedAt": "2026-09-11T13:23:36+09:00",
+      "summary": "이 대통령, 프랑스 하원의장 면담…\"한-프 협력 확대 잠재력 커\" korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "이 대통령, 프랑스 하원의장 면담…\"한-프 협력 확대 잠재력 커\" - korea.kr",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nc3VnZXlpTGxCTWdNci1kWnV5TFFocDByRXYySTdlcFh5aS1sR2ZkQzIyOEJieGVKYzlnY1B0cE5XdHBtLUZiclVCMFZpRlRLNG9fNWI5VjFlUG5aSEdRNnZnV0MtTjBrNzBfRw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cf585dfa604e9cf6e0e3fdbd18475c663ce0a7cba9410b36016af1ea352be483"
+    },
     {
       "id": "20260911-FR-1C7011A3-1248",
       "title": "한-프랑스 정상회담(2026.9.8.) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
