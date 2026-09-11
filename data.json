@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-12T02:07:40+09:00",
-    "nextScheduledUpdate": "2026-09-12T02:37:40+09:00",
+    "lastSuccessfulUpdate": "2026-09-12T04:58:32+09:00",
+    "nextScheduledUpdate": "2026-09-12T05:28:32+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-12T02:07:37+09:00",
-      "finishedAt": "2026-09-12T02:07:40+09:00",
+      "startedAt": "2026-09-12T04:58:29+09:00",
+      "finishedAt": "2026-09-12T04:58:32+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 26,
-      "duplicates": 25,
+      "duplicates": 26,
       "rejected": 172,
       "rejectedByDate": 124,
       "rejectedByRelevance": 48,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
+      "newIssues": 2,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260911-DP-E85305C9-1268",
+      "title": "제1차 한-베트남 수출통제대화 개최, 공급망 안정 및 현지 진출기업 지원 강화 - korea.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T14:51:39+09:00",
+      "publishedAt": "2026-09-11T14:51:39+09:00",
+      "firstCollectedAt": "2026-09-12T04:58:30+09:00",
+      "updatedAt": "2026-09-12T04:58:30+09:00",
+      "summary": "제1차 한-베트남 수출통제대화 개최, 공급망 안정 및 현지 진출기업 지원 강화 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "제1차 한-베트남 수출통제대화 개최, 공급망 안정 및 현지 진출기업 지원 강화 - korea.kr",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RczlPN25vYzJERUU0aWFyU0hGcnNkOWs1c2RjRzBLMXBFbnBsU1REOWFRSVpkTW5Wb1hIM2xIdU1pYjYwRDdpOE9GSUNidndCekpKRHlBX3dvY2JEdU53WHVTSkVybUt5dlAyRENiZlY4eXhy?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e85305c9a3795c82ae673a9b93215760064185911dd961a81ecc5eb6166308a2"
+    },
+    {
+      "id": "20260911-FR-FD174192-1269",
+      "title": "한-이란 외교장관 통화(9.11.) 결과 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T14:00:41+09:00",
+      "publishedAt": "2026-09-11T14:00:41+09:00",
+      "firstCollectedAt": "2026-09-12T04:58:30+09:00",
+      "updatedAt": "2026-09-12T04:58:30+09:00",
+      "summary": "한-이란 외교장관 통화(9.11.) 결과 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "한-이란 외교장관 통화(9.11.) 결과 - korea.kr",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Md01SUzBDV1g4WHpCbGRjZjlYSk1NT1d3T0szTko1bW91c0haV1EzUHpmWEZmQkZORjlGa3RxYXVHOFJUNnprY3ZWTUFyUS1UQkM3dDBYQy00NHcwSnlUbXpDQnNwc1phdWpUTS1IRDAwLXJT?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fd1741929677704f556d5e9263a40203899949c808b3fbfa0dc0e12726976495"
+    },
     {
       "id": "20260911-DP-D2BA2A3B-1265",
       "title": "‘법인세 포탈’ 이상운 효성 부회장, 재상고심서 징역형 집유 확정 - 대한민국 법원",
