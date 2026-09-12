@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-12T22:03:35+09:00",
-    "nextScheduledUpdate": "2026-09-12T22:33:35+09:00",
+    "lastSuccessfulUpdate": "2026-09-13T01:12:02+09:00",
+    "nextScheduledUpdate": "2026-09-13T01:42:02+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-12T22:03:32+09:00",
-      "finishedAt": "2026-09-12T22:03:35+09:00",
+      "startedAt": "2026-09-13T01:11:59+09:00",
+      "finishedAt": "2026-09-13T01:12:02+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 45,
-      "duplicates": 44,
-      "rejected": 150,
-      "rejectedByDate": 147,
-      "rejectedByRelevance": 3,
+      "acceptedCandidates": 17,
+      "duplicates": 18,
+      "rejected": 181,
+      "rejectedByDate": 149,
+      "rejectedByRelevance": 32,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
-      "updatedIssues": 2,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260912-DP-9347BAE1-1286",
+      "title": "산업통상부 정례브리핑 - korea.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-12T17:11:16+09:00",
+      "publishedAt": "2026-09-12T17:11:16+09:00",
+      "firstCollectedAt": "2026-09-13T01:12:00+09:00",
+      "updatedAt": "2026-09-13T01:12:00+09:00",
+      "summary": "산업통상부 정례브리핑 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "산업통상부 정례브리핑 - korea.kr",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTV6ci1WTTUtQWlHdk5fX0tVaDNDVTRWVFVjODAxclNyU3VDT2VKeWdweUJNQmp4VlRZV3l3VHdtYU5jVDVVTDlWaFNJNGczMldDaWpGZmM3MnpyaVNQQlpMN2VJVFJ5NDFXbHJ5d21zSm1mZlVneTFEMjBONHE0Vjh1b2VZcmk2WERCbjgydkNHT01k?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9347bae19c60c150783a7a09d49aef396a3e28b267ba7f1ffd8543562f208845"
+    },
     {
       "id": "20260911-DP-FBA5AF33-1255",
       "title": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 - 대한민국 정책브리핑",
