@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-12T09:32:10+09:00",
-    "nextScheduledUpdate": "2026-09-12T10:02:10+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-09-12T13:55:08+09:00",
+    "nextScheduledUpdate": "2026-09-12T14:25:08+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-12T09:32:07+09:00",
-      "finishedAt": "2026-09-12T09:32:10+09:00",
+      "startedAt": "2026-09-12T13:55:05+09:00",
+      "finishedAt": "2026-09-12T13:55:08+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 23,
-      "duplicates": 25,
-      "rejected": 175,
-      "rejectedByDate": 131,
-      "rejectedByRelevance": 44,
+      "acceptedCandidates": 54,
+      "duplicates": 54,
+      "rejected": 141,
+      "rejectedByDate": 139,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 2,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,259 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260912-FR-2F0403AB-1278",
+      "title": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [
+        "유럽연합"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-12T06:22:30+09:00",
+      "publishedAt": "2026-09-12T06:22:30+09:00",
+      "firstCollectedAt": "2026-09-12T07:26:40+09:00",
+      "updatedAt": "2026-09-12T13:55:06+09:00",
+      "summary": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRURBMktJRWRfa0tJXzRCVmE1UXkzaFdWN09abUxjTFlWd2wtS2g5dnJzaElyVjY5MFhMMDJEUVEtWW9EckU4THJoVHBnOURoNjR5ZDlxNWg2WDFMNUVtd3RuenRrbTZWckdwYVhQdjIxY1UwNzNta3J4TnhRZUFvTUtvZ20wNDM4dm93?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UcGQ1RzBIMUh5UGRIeTlpc1JGUTM3M2xGdzUySWNuOWZ3bU5PQVh2NGtmb1p3djVtcWNNdmZiLTdfUXpKSjhMODJhYVdUWmc4UVNwNThfQVFMLTVyRVZlV0RJZE0zbnp3aUxGYW93?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-12T13:55:06+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2f0403ab990e0a13a8b1a3d3295f9b8e980bb9a96ffe8461249d615e7d9321ca"
+    },
+    {
+      "id": "20260911-FR-ED762D39-1249",
+      "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T08:45:29+09:00",
+      "publishedAt": "2026-09-11T08:45:29+09:00",
+      "firstCollectedAt": "2026-09-11T08:58:34+09:00",
+      "updatedAt": "2026-09-12T13:55:06+09:00",
+      "summary": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzFTenlkVHdoMHRDejlPcFc3ZTlaQkJRWVhkT1FQU2hNeW54Z3pmbDNUUmlTdTJIUng4WlNKY0tMa2NzRHpTNW9iTkFiQXVYT0xJUWhadHVIWVNCNkxEQlBLNXE2T2JHSFIxWmNwNGtENExpOEtjUTlfcEk2MlppSXphZ1ZwZndHaC0yMUFjZUVaQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjhjUExhY2NBQ3JBNmpBNUxBeTBsdWdLa050ejM3NDBNSEJKTWVtTkV0bV83akphMGxYc3NBd2l6V2x1R3UtbmtVS1dvYmEyQ3BCd1l1OVdRVXE3bWFFRnduSkZlUHEzSWN6ZjVVVHZ2a3pfWFN2X3lGNlNVSkRsX3ZjUUdSOXVuZTNoWHFBdTcydw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbjkwYVhvcV96aldMUnlEUUFvZ04zTk5TVVlhZU04OXZlTWdHWHRudWRSek42SGUwZGx2bXZ6U3lrZWt6NHhJNHBXMDR3NWxscEFHVjBVc0FIVV95MmRCQzBSVWE3VXkzLVZwNm84bWw0TnJDVmRLeTVmcnpGbFNrVWtCYnAwbTdINkdHeFpMTjRMdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-11T18:03:59+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-12T13:55:06+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ed762d39d5af2d280c748d4c8b9d4a3012b1979b1d6cd28504b60191ab7c7fb0"
+    },
+    {
+      "id": "20260911-DP-D4CEB27D-1247",
+      "title": "학교에서 다쳤을 때, 2~3인실 입원료 전액 보상! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T08:51:19+09:00",
+      "publishedAt": "2026-09-11T08:51:19+09:00",
+      "firstCollectedAt": "2026-09-11T08:58:33+09:00",
+      "updatedAt": "2026-09-12T13:55:06+09:00",
+      "summary": "학교에서 다쳤을 때, 2~3인실 입원료 전액 보상! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "학교에서 다쳤을 때, 2~3인실 입원료 전액 보상! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXBTamF6V2FINlJIYVJCWHk1UXk0M1lncHlVWXVObjVTT1cwNTVhbExucmxWUGVCdmpsbU82a1c3UnJiOGdrZWFmQU9kcWRWN2lTWm9qV2RGSVlLa3hjZVBBVFF3Z09pWkMxQ1dULWNMMDJnZndHaXBNX1V6Qmdsdk00ZXZPbU5sTU9r?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "학교에서 다쳤을 때, 2~3인실 입원료 전액 보상! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE14RTZPMEFGYXk5VEE3cS1TeHRiODl4bzVaUEl2QWVuQmpHRHN1akVpNERlSnBSM3Y3eTBlWEFfRmRmb3RYb09HcmpZUjlCWmliWTlOSG5oNjRPYTNudU95d3UzS29sbzVyT09rTzRn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-12T13:55:06+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d4ceb27d87656fe927d7b85d2e00ba37649fb5f552632f48efd4194596c4aff1"
+    },
+    {
+      "id": "20260910-DP-DB4A56FE-1279",
+      "title": "항만안전에 관한 중장기계획 수립하고 항만 맞춤형 재해통계 생산한다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T11:00:00+09:00",
+      "publishedAt": "2026-09-10T11:00:00+09:00",
+      "firstCollectedAt": "2026-09-12T13:55:06+09:00",
+      "updatedAt": "2026-09-12T13:55:06+09:00",
+      "summary": "항만안전에 관한 중장기계획 수립하고 항만 맞춤형 재해통계 생산한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "항만안전에 관한 중장기계획 수립하고 항만 맞춤형 재해통계 생산한다 - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbDFnQnV0SEc0REtTMC10bDN4cVFMMzFObkFBS2ZfY3B5c1FGajBzVHVqU1BOS2VpRzhJWGh1MHVwOF90S3hRVWd0MmtNS19JN21jM0R2UG9TY201bWhycVVLc0tPcF9yd0RlQ1BYVmZ0RVEwVDBjUXZHSkhjOG1vd0VJdUJpZ1cyRUhJSGNSd2JaN2g5djJWZ1ZIeTM3YjF0c2RVdTVfZFRDTWJaRFFWeHUwdVlvek1LdWRLRXFlWVlHOG5rSXY2eVhVVGtvbG5wTlR4UXFxRDFHb2J3bklENzBBekY2TWs5cGRVTjI1NHJvS2pITDVzVFh0TWowVE9XTUhycW9YUnJMeGkyT29EX0FR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "db4a56fed709d6d27c945366dbe35c263a411df8b499f8b055bb4a727e2b97c8"
+    },
+    {
+      "id": "20260910-DP-323DFE11-1280",
+      "title": "국립수목원, 다육식물 특별전 「땅에 피는 별」 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T10:40:43+09:00",
+      "publishedAt": "2026-09-10T10:40:43+09:00",
+      "firstCollectedAt": "2026-09-12T13:55:06+09:00",
+      "updatedAt": "2026-09-12T13:55:06+09:00",
+      "summary": "국립수목원, 다육식물 특별전 「땅에 피는 별」 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국립수목원, 다육식물 특별전 「땅에 피는 별」 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWTRObC1iRFA0U0s5LU1Rd3RvNUpONjY0X0k1TUJ2RXdkaXhrVC1IeE14WjdJY2lFLVhYNjRNTEhadndmMFRWcXhwRlhwNnoxdi1TX0hwdGVQUWYtTy1uUzVjRmwwYVFJclhJNWw4cGJVdU5uaGlvdFdfRnI4LTJzYjR3MkRLTnc3Tkk2RklpZE1YYll3SWZNeTNQOGIyUDVQTl9OQjRkZXNtck9idmdzWndtbW9vYmVrTUZlc0VuSGwwenZuNF9YLW9YUXFBUVJxT3gtZHdvMzVYUjF2X1kwSmNaUjFUdk5TX0NGRUxR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "323dfe11829d90ee3416dfcefafae14fb213bed3fb4d3ea1c11973fec37c5a35"
+    },
     {
       "id": "20260904-FR-B434B9FA-1004",
       "title": "공정거래위원회-한국소비자법학회 공동 학술대회 개최 - 대한민국 정책브리핑",
@@ -276,48 +529,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "70b7bd75c38c5cda7818020f4644f59d182bd2f64770058eed62b298a6cd8652"
-    },
-    {
-      "id": "20260912-FR-2F0403AB-1278",
-      "title": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "경제안보",
-      "countries": [
-        "유럽연합"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-12T06:22:30+09:00",
-      "publishedAt": "2026-09-12T06:22:30+09:00",
-      "firstCollectedAt": "2026-09-12T07:26:40+09:00",
-      "updatedAt": "2026-09-12T07:26:40+09:00",
-      "summary": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한국-EU, 산업경쟁력·공급망 협력 한층 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-12",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRURBMktJRWRfa0tJXzRCVmE1UXkzaFdWN09abUxjTFlWd2wtS2g5dnJzaElyVjY5MFhMMDJEUVEtWW9EckU4THJoVHBnOURoNjR5ZDlxNWg2WDFMNUVtd3RuenRrbTZWckdwYVhQdjIxY1UwNzNta3J4TnhRZUFvTUtvZ20wNDM4dm93?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2f0403ab990e0a13a8b1a3d3295f9b8e980bb9a96ffe8461249d615e7d9321ca"
     },
     {
       "id": "20260912-DP-A7BF9F5B-1270",
@@ -680,59 +891,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "06a256488cacc3e7485a135f28d3766360b40a1e4ba8147475c9b4c6d8ce4c36"
-    },
-    {
-      "id": "20260911-FR-ED762D39-1249",
-      "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-11T08:45:29+09:00",
-      "publishedAt": "2026-09-11T08:45:29+09:00",
-      "firstCollectedAt": "2026-09-11T08:58:34+09:00",
-      "updatedAt": "2026-09-11T18:03:59+09:00",
-      "summary": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzFTenlkVHdoMHRDejlPcFc3ZTlaQkJRWVhkT1FQU2hNeW54Z3pmbDNUUmlTdTJIUng4WlNKY0tMa2NzRHpTNW9iTkFiQXVYT0xJUWhadHVIWVNCNkxEQlBLNXE2T2JHSFIxWmNwNGtENExpOEtjUTlfcEk2MlppSXphZ1ZwZndHaC0yMUFjZUVaQQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "뤼미에르 정상회의, 한불 영화·영상 협력의 새 장을 열다 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNjhjUExhY2NBQ3JBNmpBNUxBeTBsdWdLa050ejM3NDBNSEJKTWVtTkV0bV83akphMGxYc3NBd2l6V2x1R3UtbmtVS1dvYmEyQ3BCd1l1OVdRVXE3bWFFRnduSkZlUHEzSWN6ZjVVVHZ2a3pfWFN2X3lGNlNVSkRsX3ZjUUdSOXVuZTNoWHFBdTcydw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-11T18:03:59+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ed762d39d5af2d280c748d4c8b9d4a3012b1979b1d6cd28504b60191ab7c7fb0"
     },
     {
       "id": "20260910-FR-7BD5E251-1242",
@@ -1829,46 +1987,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "abfe1ed7d062bbd7170f0b2e4d4e9c2f96312155a2fbc24fde14f7d90f3bbde1"
-    },
-    {
-      "id": "20260911-DP-D4CEB27D-1247",
-      "title": "학교에서 다쳤을 때, 2~3인실 입원료 전액 보상! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-11T08:51:19+09:00",
-      "publishedAt": "2026-09-11T08:51:19+09:00",
-      "firstCollectedAt": "2026-09-11T08:58:33+09:00",
-      "updatedAt": "2026-09-11T08:58:33+09:00",
-      "summary": "학교에서 다쳤을 때, 2~3인실 입원료 전액 보상! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "학교에서 다쳤을 때, 2~3인실 입원료 전액 보상! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXBTamF6V2FINlJIYVJCWHk1UXk0M1lncHlVWXVObjVTT1cwNTVhbExucmxWUGVCdmpsbU82a1c3UnJiOGdrZWFmQU9kcWRWN2lTWm9qV2RGSVlLa3hjZVBBVFF3Z09pWkMxQ1dULWNMMDJnZndHaXBNX1V6Qmdsdk00ZXZPbU5sTU9r?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d4ceb27d87656fe927d7b85d2e00ba37649fb5f552632f48efd4194596c4aff1"
     },
     {
       "id": "20260801-DP-9A43D474-079",
