@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-12T18:10:38+09:00",
-    "nextScheduledUpdate": "2026-09-12T18:40:38+09:00",
+    "lastSuccessfulUpdate": "2026-09-12T22:03:35+09:00",
+    "nextScheduledUpdate": "2026-09-12T22:33:35+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-12T18:10:35+09:00",
-      "finishedAt": "2026-09-12T18:10:38+09:00",
+      "startedAt": "2026-09-12T22:03:32+09:00",
+      "finishedAt": "2026-09-12T22:03:35+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 18,
-      "duplicates": 18,
-      "rejected": 179,
-      "rejectedByDate": 148,
-      "rejectedByRelevance": 31,
+      "acceptedCandidates": 45,
+      "duplicates": 44,
+      "rejected": 150,
+      "rejectedByDate": 147,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
+      "newIssues": 4,
       "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,273 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260911-DP-FBA5AF33-1255",
+      "title": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T10:25:04+09:00",
+      "publishedAt": "2026-09-11T10:25:04+09:00",
+      "firstCollectedAt": "2026-09-11T18:03:59+09:00",
+      "updatedAt": "2026-09-12T22:03:32+09:00",
+      "summary": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmoxVkpPUUJoMy1kREVLNkNZMW1zcGpTUkFmaFE1MnFIUnFMSFM3bmxFT2hOY0M1cnpUZkdkblFVYUMyaE9uVXZpVDFhNWJrSFB1UVdabkdMY2xDX2oxRU5aWGs3QUViQjRUVkYwS21IUVpLN2FPWUJ0YkZaY3NLaDFxcWFfSDQxaXRCNlNkSEppUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52cDE3VHVmQzIxX0VNWWktSHYyektXT1pYYTJsZGFrWGVLYi1NTGNuNERjMlNRSi1GcmFlNG9xZ2hkMHhyaTl6ZHJELXlkVkNlNHR5b3AxR3VCVDhBcFFkcWV2Y0tiZUItMFpINF9lY295c09i?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-12T22:03:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fba5af33462db1e2ccb887ac7b7de3582bdec0468b1406faa3f3f77b600b6500"
+    },
+    {
+      "id": "20260911-DP-4E55184B-1258",
+      "title": "소송 시 가정폭력피해자, 개인정보 보호 제도 안내 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T08:00:10+09:00",
+      "publishedAt": "2026-09-11T08:00:10+09:00",
+      "firstCollectedAt": "2026-09-11T18:03:59+09:00",
+      "updatedAt": "2026-09-12T22:03:32+09:00",
+      "summary": "소송 시 가정폭력피해자, 개인정보 보호 제도 안내 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소송 시 가정폭력피해자, 개인정보 보호 제도 안내 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZElpd09mM25IOHMwQkdNOHlxQTJjV2lFZ3dtME5xaVc0c2lNbDZIM3JKc0UxajE1ekRpa3ZOb0J1UUlsTmtCTzBsam1wMFhUeWluWktsQjVvTGMwamtyR3lXdmhiZG5pekhOeFhNQmRkN2hhc3Zza1c1OTFyNGpvSVc4aDRqaG0wRnBv?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소송 시 가정폭력피해자, 개인정보 보호 제도 안내 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3Sl9QbXA4WG15eHY5dWZyYnV2RDBzZm9MLWZ1SG1hN0lxYXhMY2g1QnM1cTBsTnNPWkxfUmdOV2FyR3BXSVhibVlGS3NVWWNxSWhMaVNrcDREa1hoOW1PLUh2eDRaUW9hRTlad0tB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-12T22:03:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4e55184bac50d6514e7221a2dc3121999d766ee0dc05e22ca28b2ea1f3653e04"
+    },
+    {
+      "id": "20260911-DP-AF1FF238-1282",
+      "title": "빈틈없는 안전점검으로 항만건설현장 안전 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-11T09:06:40+09:00",
+      "publishedAt": "2026-09-11T09:06:40+09:00",
+      "firstCollectedAt": "2026-09-12T22:03:32+09:00",
+      "updatedAt": "2026-09-12T22:03:32+09:00",
+      "summary": "빈틈없는 안전점검으로 항만건설현장 안전 강화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "빈틈없는 안전점검으로 항만건설현장 안전 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-11",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQVQwYzMzZDk5VHlLUW4yOVpsMERLcFZYeENoVVhMeWdncGlkMWxMYXpmc0M0aU5SU0ZxeGVlQzBTeTZjdUlCUkN2SUpyVXkxcktvNGhQRFlaTWNDVXoxczcxcW1jOGhVVDVORWpYbjNEeU9nVGlRNGhMOWdXYjI1d1hEMnhmWGVUU0ZYUnhETk5lSThqalBWaDhtal92WEJGQ3Vnc1BuaTNiZDNBU3ZwbEdMSlp5VGVwOG8wblpBb3NQY2plVk1NTHJub2RfQUM0LXpVdTFpeFZvQTkyMWRIeTJQVm9vNGM?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "af1ff2384b182904604733f903f15d79068ee58df7cedb9923ac8be42a9ccb07"
+    },
+    {
+      "id": "20260912-DP-6A4148D6-1283",
+      "title": "2026년도 제2차 지역전략산업혁신연구소 대구앵커사업 전담직원(기간제) 채용 공고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-12T06:49:09+09:00",
+      "publishedAt": "2026-09-12T06:49:09+09:00",
+      "firstCollectedAt": "2026-09-12T22:03:32+09:00",
+      "updatedAt": "2026-09-12T22:03:32+09:00",
+      "summary": "2026년도 제2차 지역전략산업혁신연구소 대구앵커사업 전담직원(기간제) 채용 공고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년도 제2차 지역전략산업혁신연구소 대구앵커사업 전담직원(기간제) 채용 공고 - 대한민국 정책브리핑",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1JT1hNWU1NeXlzN0pKUWVTaWFIb3cxYzNmbkVOODk5R1ZwWFBjQWtRUzhoLVl2bHpyZmMteFc0dFhrd0dCNGU3VmhMaXRJU25yX09ya082b2ZsSHhrX2t5SVcydk12UmE5QW1rOTRn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6a4148d6a7bc8e04dcef763e299c71d62fc989b9afde540415f4f3b71bee8dc3"
+    },
+    {
+      "id": "20260912-DP-BF3D9ED8-1284",
+      "title": "2026년 2차 해양경찰청 소속 일반직공무원(장애) 채용 최종합격자 발표 및 제출서류 안내 등 공고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "경찰청",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-12T06:48:43+09:00",
+      "publishedAt": "2026-09-12T06:48:43+09:00",
+      "firstCollectedAt": "2026-09-12T22:03:32+09:00",
+      "updatedAt": "2026-09-12T22:03:32+09:00",
+      "summary": "2026년 2차 해양경찰청 소속 일반직공무원(장애) 채용 최종합격자 발표 및 제출서류 안내 등 공고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 2차 해양경찰청 소속 일반직공무원(장애) 채용 최종합격자 발표 및 제출서류 안내 등 공고 - 대한민국 정책브리핑",
+          "date": "2026-09-12",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1TjdLOUlsSndyUjdYM2FxV0NXOFR5VTNzWjdwUU43ZnJ3eVVURENWeW82Z3NuOURBX1ZxWVJHN1V2US1ZTENGcGktTmNWMzZoSmF3YV9LRDlMUlM2aVNGX3NDZUx2ZF9oQ3Z0YTNn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bf3d9ed86edd46b07fa7195c4b541b90e009f39349dd7f397290baf9e46f1e6f"
+    },
+    {
+      "id": "20260910-DP-EA287BEC-1285",
+      "title": "고대 무기·갑옷의 분석·연구 성과, '2026 세계국가유산산업전'에서 공개 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-10T10:16:19+09:00",
+      "publishedAt": "2026-09-10T10:16:19+09:00",
+      "firstCollectedAt": "2026-09-12T22:03:32+09:00",
+      "updatedAt": "2026-09-12T22:03:32+09:00",
+      "summary": "고대 무기·갑옷의 분석·연구 성과, '2026 세계국가유산산업전'에서 공개 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "고대 무기·갑옷의 분석·연구 성과, '2026 세계국가유산산업전'에서 공개 - 대한민국 정책브리핑",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkt2NTRJOXdJT2JuMndVbHA0bmc4UmxZUVRiVDdpdFB5c3JESkxKLW51SU0zTDRXTHhXbzJBRTJaVkJJQ1VVaVd6WDRfcDczVGFVVVlWc1BMUl96TVNPS2gxVTk0aGhtNWIycUVQYXB6a3B1eTFHbDVoSHRpeEw3MVBINDVJem9Zdmp5V0dfSTgyUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ea287bec78cf2ea4355bd33d0a6f28a3016d0e757b067acac699d7c01eccfa34"
+    },
     {
       "id": "20260911-FR-EAEB069C-1281",
       "title": "한-프랑스 정상회담(2026.9.8.) - korea.kr",
@@ -1834,46 +2101,6 @@
       "contentHash": "a9660a2a5518f0c012369b17b99d076fc4108fe16d7420d559854eb7c513e2cc"
     },
     {
-      "id": "20260911-DP-FBA5AF33-1255",
-      "title": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-11T10:25:04+09:00",
-      "publishedAt": "2026-09-11T10:25:04+09:00",
-      "firstCollectedAt": "2026-09-11T18:03:59+09:00",
-      "updatedAt": "2026-09-11T18:03:59+09:00",
-      "summary": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "신임 국립어린이청소년극단 단장 겸 예술감독에 어연선 씨 임명 - 대한민국 정책브리핑",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMmoxVkpPUUJoMy1kREVLNkNZMW1zcGpTUkFmaFE1MnFIUnFMSFM3bmxFT2hOY0M1cnpUZkdkblFVYUMyaE9uVXZpVDFhNWJrSFB1UVdabkdMY2xDX2oxRU5aWGs3QUViQjRUVkYwS21IUVpLN2FPWUJ0YkZaY3NLaDFxcWFfSDQxaXRCNlNkSEppUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "fba5af33462db1e2ccb887ac7b7de3582bdec0468b1406faa3f3f77b600b6500"
-    },
-    {
       "id": "20260911-DP-86B96DDD-1256",
       "title": "달라지는 개인정보 보호법 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -1952,46 +2179,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "46823f76716662e0889c25924932d5cfebb43c0e01bc6f47a43bed01c02d4118"
-    },
-    {
-      "id": "20260911-DP-4E55184B-1258",
-      "title": "소송 시 가정폭력피해자, 개인정보 보호 제도 안내 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-11T08:00:10+09:00",
-      "publishedAt": "2026-09-11T08:00:10+09:00",
-      "firstCollectedAt": "2026-09-11T18:03:59+09:00",
-      "updatedAt": "2026-09-11T18:03:59+09:00",
-      "summary": "소송 시 가정폭력피해자, 개인정보 보호 제도 안내 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "소송 시 가정폭력피해자, 개인정보 보호 제도 안내 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZElpd09mM25IOHMwQkdNOHlxQTJjV2lFZ3dtME5xaVc0c2lNbDZIM3JKc0UxajE1ekRpa3ZOb0J1UUlsTmtCTzBsam1wMFhUeWluWktsQjVvTGMwamtyR3lXdmhiZG5pekhOeFhNQmRkN2hhc3Zza1c1OTFyNGpvSVc4aDRqaG0wRnBv?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4e55184bac50d6514e7221a2dc3121999d766ee0dc05e22ca28b2ea1f3653e04"
     },
     {
       "id": "20260911-FR-6338F0EE-1259",
