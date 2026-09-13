@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-13T15:42:54+09:00",
-    "nextScheduledUpdate": "2026-09-13T16:12:54+09:00",
+    "lastSuccessfulUpdate": "2026-09-13T21:40:40+09:00",
+    "nextScheduledUpdate": "2026-09-13T22:10:40+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-13T15:42:51+09:00",
-      "finishedAt": "2026-09-13T15:42:54+09:00",
+      "startedAt": "2026-09-13T21:40:37+09:00",
+      "finishedAt": "2026-09-13T21:40:40+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 30,
-      "duplicates": 32,
-      "rejected": 165,
-      "rejectedByDate": 162,
-      "rejectedByRelevance": 3,
+      "acceptedCandidates": 24,
+      "duplicates": 26,
+      "rejected": 172,
+      "rejectedByDate": 172,
+      "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
+      "newIssues": 1,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,101 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260913-DP-80061223-1288",
+      "title": "중국 투자자 ISDS 사건 선고 관련 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [
+        "중국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-13T15:31:21+09:00",
+      "publishedAt": "2026-09-13T15:31:21+09:00",
+      "firstCollectedAt": "2026-09-13T15:42:52+09:00",
+      "updatedAt": "2026-09-13T21:40:38+09:00",
+      "summary": "중국 투자자 ISDS 사건 선고 관련 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중국 투자자 ISDS 사건 선고 관련 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-13",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3UzdzZ2bXd1WUstcC1objJ4MHp3VlVyam9zNDhieVJ0NlVDMkx6eXRtS1dnS0FzN1paZlpQbjRLRGtKcDBmTWxyUk53X1dRdC1qQ2p5Rjh2UDNINzFIQWpIZ2NONGNzNnExOGpGMy1qRzFSTDBrMTlJcENUMVg2R0RhbUpKdkpCQ2xTVUpacG95dXZEdXhr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중국 투자자 ISDS 사건 선고 관련 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-13",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHV0Z2NUWmVORFFWTDBRaVN2V18tS29uNXpEdXgtM01la0ZESTk2VThSWGRLeHAyOXp2eGtRZlA5VEpQSnpZNFRKZVc1Ri1zS3hYdi03SUllRW1vY08xUGxuN2xNVFZSYW5ObmIydkZtUWJ2TF9zck5VdWx2NmpCeWRiU2dweFhfM3RDSjlhUUVsTldz?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-13T21:40:38+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "80061223ceccc055d1d444c11302380e37cfb9eaae29e163009cb7c9b10bbe2c"
+    },
+    {
+      "id": "20260913-DP-4914755E-1289",
+      "title": "[해명] 주거복지 정책 및 보편형 임대주택의 세부내용 및 발표시기는 확정된 바 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-13T21:29:21+09:00",
+      "publishedAt": "2026-09-13T21:29:21+09:00",
+      "firstCollectedAt": "2026-09-13T21:40:38+09:00",
+      "updatedAt": "2026-09-13T21:40:38+09:00",
+      "summary": "[해명] 주거복지 정책 및 보편형 임대주택의 세부내용 및 발표시기는 확정된 바 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] 주거복지 정책 및 보편형 임대주택의 세부내용 및 발표시기는 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-09-13",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DVzBsck82cUVONnRzSmQyRnc3aklXbm1idFN6T2wtRC1BUm45RmRIVlpUdUg4RkNydmlha0ZIRnFYbzdsR1BOdTAtNVFvOTdHVDBUUGlLbVVva0NKVXlrMUphdWZjZTJjY1c0NmhXQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4914755ee9b08ece7a4746279290fbe83e51f039922f87a6cd4093cb9de9b6b5"
+    },
     {
       "id": "20260911-FR-E6698AAC-1274",
       "title": "첫 한·중앙아 정상회의 16일 서울 개최…'서울선언' 협력 비전 제시 - 대한민국 정책브리핑",
@@ -156,48 +251,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ce48e0e95dddba05b460aaf171a9c7c0ac3a21bbce20f94ff42762d90390e11f"
-    },
-    {
-      "id": "20260913-DP-80061223-1288",
-      "title": "중국 투자자 ISDS 사건 선고 관련 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [
-        "중국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-13T15:31:21+09:00",
-      "publishedAt": "2026-09-13T15:31:21+09:00",
-      "firstCollectedAt": "2026-09-13T15:42:52+09:00",
-      "updatedAt": "2026-09-13T15:42:52+09:00",
-      "summary": "중국 투자자 ISDS 사건 선고 관련 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "중국 투자자 ISDS 사건 선고 관련 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-13",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM3UzdzZ2bXd1WUstcC1objJ4MHp3VlVyam9zNDhieVJ0NlVDMkx6eXRtS1dnS0FzN1paZlpQbjRLRGtKcDBmTWxyUk53X1dRdC1qQ2p5Rjh2UDNINzFIQWpIZ2NONGNzNnExOGpGMy1qRzFSTDBrMTlJcENUMVg2R0RhbUpKdkpCQ2xTVUpacG95dXZEdXhr?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "80061223ceccc055d1d444c11302380e37cfb9eaae29e163009cb7c9b10bbe2c"
     },
     {
       "id": "20260911-FR-ED762D39-1249",
