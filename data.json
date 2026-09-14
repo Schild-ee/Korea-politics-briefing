@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-14T08:26:54+09:00",
-    "nextScheduledUpdate": "2026-09-14T08:56:54+09:00",
+    "lastSuccessfulUpdate": "2026-09-14T10:31:12+09:00",
+    "nextScheduledUpdate": "2026-09-14T11:01:12+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-14T08:26:51+09:00",
-      "finishedAt": "2026-09-14T08:26:54+09:00",
+      "startedAt": "2026-09-14T10:31:09+09:00",
+      "finishedAt": "2026-09-14T10:31:12+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 32,
+      "acceptedCandidates": 26,
       "duplicates": 27,
-      "rejected": 164,
-      "rejectedByDate": 163,
+      "rejected": 170,
+      "rejectedByDate": 168,
       "rejectedByRelevance": 1,
-      "rejectedAsCommentary": 0,
-      "newIssues": 9,
-      "updatedIssues": 0,
+      "rejectedAsCommentary": 1,
+      "newIssues": 2,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,6 +65,46 @@
   },
   "issues": [
     {
+      "id": "20260914-FR-4D328081-1306",
+      "title": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T09:56:56+09:00",
+      "publishedAt": "2026-09-14T09:56:56+09:00",
+      "firstCollectedAt": "2026-09-14T10:31:11+09:00",
+      "updatedAt": "2026-09-14T10:31:11+09:00",
+      "summary": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fblJTbDVjRnFQQnc4QkZVSXJSSkh6U25BZmhsMWVzdlZSanRPREwyOUY3d3haVkRFRnpzcHJUbmRRNkpKMW1VcmlOTGNUYXZxZXNUdFVzeHZvZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4d3280811b44ab2c89c7217b548249b691a1a0c410629322048f5718c80254a7"
+    },
+    {
       "id": "20260914-FR-34BC9898-1304",
       "title": "[보도참고] 긴급도입 의료기기 공급은 안정적으로, AI 허위광고 제재는 엄격하게 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -81,7 +121,7 @@
       "occurredAt": "2026-09-14T08:05:21+09:00",
       "publishedAt": "2026-09-14T08:05:21+09:00",
       "firstCollectedAt": "2026-09-14T08:26:52+09:00",
-      "updatedAt": "2026-09-14T08:26:52+09:00",
+      "updatedAt": "2026-09-14T10:31:10+09:00",
       "summary": "[보도참고] 긴급도입 의료기기 공급은 안정적으로, AI 허위광고 제재는 엄격하게 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -95,6 +135,59 @@
           "date": "2026-09-14",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbFJTaHBlSHJCUDJVVzNaejlwbnZLSVhjYTVtaE1YczlvbUpoZy15SURkOVdpM1FEOGVERUVlZEowY21oMDZ3TDVxOHlvd1FqeW5ZcVpPaUl6RFNGSU5Qc2VIclM3c2x1cDBxbjdWdmRfY1NUMDBEdUpIWlpBUjRqRnp6QVBXVmxRYUEwTzZ0NGZEUQ?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도참고] 긴급도입 의료기기 공급은 안정적으로, AI 허위광고 제재는 엄격하게 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcVBjTEVnQXZIT211b1BtbTNhNEt5OXlGSGkzMEZzaXNSRHRjU1hKd0prcWluR0dKdXluYzBlTlc4MEQ2YUNzakJscnQ1OFJhTnBqQXJ0dFVzNzlLcWRlMmU1SmE2bDA1MHREbmF5Q0lqWFV4SjVuVWRCaHlMbktYQmZKOEw2TXZkSDU3STVoTldPUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-14T10:31:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "34bc989854498be6e611ee9b7932bb1d2e729cd1b49d97f7c2df74054321867d"
+    },
+    {
+      "id": "20260914-DP-AB170D9A-1305",
+      "title": "불법스팸 더 줄인다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T10:01:25+09:00",
+      "publishedAt": "2026-09-14T10:01:25+09:00",
+      "firstCollectedAt": "2026-09-14T10:31:10+09:00",
+      "updatedAt": "2026-09-14T10:31:10+09:00",
+      "summary": "불법스팸 더 줄인다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불법스팸 더 줄인다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdmtfSUVNOEsxZ2VjaVBoeEZyUmJqQ2FJdU51WFVSUlcyMkpINnZwV1A4V1p0cGtWSjAwVU1mZHpXWDdmVjY5dVRfaE9WR0NYYUlQM2hRYi15UnNjTmN0V1FMXzhzaXFnSktZSk9hMGZITWl2QXIwRHhHOUpxa0VIaEhWakNPY0F5ZTRJUjIyTnlUcldWdFNaeDNWN3hNMDl5clJNWHpNRVZPcjRraS1xTFE5NWtSTmJZcUhjR1ZHUzNyaTloNVRrcFRIakh5VGdWWS1iX0tuQjNOM3ZlQ3lHUGVVYXZjLXptX0pSMUZhZFlpMVA5bFd6RlYwcEpSMUxEY01Gd3hNR0Y5Zw?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [],
@@ -102,7 +195,7 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "34bc989854498be6e611ee9b7932bb1d2e729cd1b49d97f7c2df74054321867d"
+      "contentHash": "ab170d9aa943d8c40f376ee2beb2de37ffd202596551c0ad2ce29ba961dac485"
     },
     {
       "id": "20260914-DP-21D8FF35-1296",
