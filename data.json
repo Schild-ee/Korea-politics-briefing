@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-14T15:54:44+09:00",
-    "nextScheduledUpdate": "2026-09-14T16:24:44+09:00",
+    "lastSuccessfulUpdate": "2026-09-14T22:52:08+09:00",
+    "nextScheduledUpdate": "2026-09-14T23:22:08+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-14T15:54:41+09:00",
-      "finishedAt": "2026-09-14T15:54:44+09:00",
+      "startedAt": "2026-09-14T22:52:04+09:00",
+      "finishedAt": "2026-09-14T22:52:08+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 23,
-      "duplicates": 16,
+      "duplicates": 12,
       "rejected": 175,
       "rejectedByDate": 174,
-      "rejectedByRelevance": 0,
-      "rejectedAsCommentary": 1,
-      "newIssues": 6,
-      "updatedIssues": 3,
+      "rejectedByRelevance": 1,
+      "rejectedAsCommentary": 0,
+      "newIssues": 11,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,553 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260914-FR-D279355F-1311",
+      "title": "이 대통령, 우즈벡과 정상회담…중앙아 5개국과 '릴레이 외교' 시작 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T14:29:06+09:00",
+      "publishedAt": "2026-09-14T14:29:06+09:00",
+      "firstCollectedAt": "2026-09-14T15:54:42+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "이 대통령, 우즈벡과 정상회담…중앙아 5개국과 '릴레이 외교' 시작 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, 우즈벡과 정상회담…중앙아 5개국과 '릴레이 외교' 시작 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzUEhLa25fZXEwZUhfdjFyRWR6Zkg2cUQyX3VGOVAxaUxrNFI4T2dCZ0J3SWxSYXR5a3FKTzAyUmtRc0lsQzl0NVllWWZ1cW5OSzhHcXJ2bWhWYmhVcGNnZzdlcE0ySXdyVm9adw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, 우즈벡과 정상회담…중앙아 5개국과 '릴레이 외교' 시작 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFpzT01uV05TZTJlcmpNdDVTWlBaYzFhOFpwZzF0TFN3eDlXYjR6R3dNSnZ1OV9Yck5lXzVPZ3FKNUZ6bXFJUjZfZ25VN04wRThPN0F2SThXZURJa3hHbnQza1ljd3prV0NiN1hzdWo4VlVlY2Fwa0dFZjQ3T004LVVpY2JFX0thU2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-14T22:52:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d279355f52f97c588c920dd879221c6b5b6d9739d6168d161f190bb1eb521574"
+    },
+    {
+      "id": "20260914-FR-4D328081-1306",
+      "title": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T09:56:56+09:00",
+      "publishedAt": "2026-09-14T09:56:56+09:00",
+      "firstCollectedAt": "2026-09-14T10:31:11+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fblJTbDVjRnFQQnc4QkZVSXJSSkh6U25BZmhsMWVzdlZSanRPREwyOUY3d3haVkRFRnpzcHJUbmRRNkpKMW1VcmlOTGNUYXZxZXNUdFVzeHZvZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzNzhEMG04cjg2cFJ4Z1BqYW9xWm9RSEJISDcwRzRrQ1VRekhCSUhNNGFpTUpRc3BSbHltVnB2dVRBMmduTUNHeEJaZVRHVC0zSjRPRFJWSGs2eU1NbjF2MDA2UlI4a3NRV0xuelhpOHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-14T22:52:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4d3280811b44ab2c89c7217b548249b691a1a0c410629322048f5718c80254a7"
+    },
+    {
+      "id": "20260914-FR-9E49350F-1315",
+      "title": "한·우즈벡, 협정·MOU 등 13건 체결…양국간 협력 폭 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T21:27:11+09:00",
+      "publishedAt": "2026-09-14T21:27:11+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "한·우즈벡, 협정·MOU 등 13건 체결…양국간 협력 폭 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·우즈벡, 협정·MOU 등 13건 체결…양국간 협력 폭 확대 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uWWVuNlVvTE10Z21XTkIyQzV2QVNlMkVrY0gwbERrUHo0QjFMTUVhZHlNNkFILTQxM3kxbm84ajZRQTE4d09oS0w5eXRMdzRYaWoyUzM5Zmk3QWNtQjJIRlpSOTdDblZJcWNRUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9e49350f3af2fe3ce5d63bfffe49775fbd39ee5776798566873752ca0dcb8ca3"
+    },
+    {
+      "id": "20260914-FR-2C94E708-1316",
+      "title": "한-우즈베키스탄 정상회담 결과 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T19:49:33+09:00",
+      "publishedAt": "2026-09-14T19:49:33+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "한-우즈베키스탄 정상회담 결과 관련 강유정 수석대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-우즈베키스탄 정상회담 결과 관련 강유정 수석대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11TGpVMFNEWm4yNUZHMFAtc0ozZU5KeWRYNzljNFZ2clVqVHNYeHd1cXdPQmJieGI5TDRUc0ZnNkhpWEZiWWpXdkpoV0ZmU3ZmSGNPY1gxaGViZi1MSzBKSmEwcVlfQ1BMRTNYMzlVRE8?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2c94e7086cd5776cec2204eeca80f5c41bf4987974a9a342bfafe9aec862ff65"
+    },
+    {
+      "id": "20260914-FR-2AFBB261-1317",
+      "title": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "재외국민",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T15:42:32+09:00",
+      "publishedAt": "2026-09-14T15:42:32+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODdZUERZczlna1lFSUQxTDhOWXk1OGljckwzRllPSkFwZzR2bWNualk3RFo3ckVWMGhrRUl1SUNZSmdxZFg1ZnRDSGpnTVNTS3hHZGN5VDd3QW43eVJGSU90aFF2YThUMW5heEFhVmNtQklyaHFSRlI0Y1E1NXRmemZyQUQ4eUlBa3NpdTFLSElJdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2afbb261aa254f95e65c2ff3deea0136cee745684ff0c86b57a4299f66fef9a8"
+    },
+    {
+      "id": "20260914-FR-B70120F8-1318",
+      "title": "한·우즈벡, 핵심광물·AI·방산 협력 확대…우리 기업 진출 기반 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T21:15:41+09:00",
+      "publishedAt": "2026-09-14T21:15:41+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "한·우즈벡, 핵심광물·AI·방산 협력 확대…우리 기업 진출 기반 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·우즈벡, 핵심광물·AI·방산 협력 확대…우리 기업 진출 기반 강화 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUUUhRazBhMGRHSThoeDl6clFobTBMd2dlN05adGN1cXptYTBMN3ZMRXk5V05KOEFpakdNMlNkbVB5S0RXM0ZvZHB1b2ZKUHNVcFZUMTlrX1V2dTdKaDdmQ1EwVnhmN1VVemh0eg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b70120f82361dcc368df192d139c2f767d64b16fe07b8a3518062c3f5b79d2eb"
+    },
+    {
+      "id": "20260914-FR-08814C81-1319",
+      "title": "아시아개발은행총재 접견 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T18:19:44+09:00",
+      "publishedAt": "2026-09-14T18:19:44+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "아시아개발은행총재 접견 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아시아개발은행총재 접견 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92MWdKeEFMRXpnSUxseUxQczk5ZGFDelpwd0Q4N1lvUGVUc2V5MzBaX2NqSFpHeU9pTU5PWl9Ub3FuSkFWcWd5THhrWV9fMW5nSy1qNFZ0NlVuYTh3V0FpWXRfSi1IQkRXc29wcHRtcFVSSU5xaEo3Y0Rn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "08814c8166f471935c155f9fed1733efa827669cff885ea1a2c47a8754489315"
+    },
+    {
+      "id": "20260914-DP-F0729C42-1320",
+      "title": "이 대통령, ADB 총재 접견…핵심광물·AI·에너지 협력 방안 논의 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T16:59:21+09:00",
+      "publishedAt": "2026-09-14T16:59:21+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "이 대통령, ADB 총재 접견…핵심광물·AI·에너지 협력 방안 논의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, ADB 총재 접견…핵심광물·AI·에너지 협력 방안 논의 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBabi1xM3RnSEVITXFHUFY3VFZUa3lTSUFyb1BqVm9KYW5FYndPcko5YnhMWEt0LWZlSDVHUjUtMlFEY3NoaWN1UFFTWkpWVktMWXlOa2l2NDFWY2ppeE9BWmRIRlVOdWUwS091Ug?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f0729c42c4f145dc21978903fca45941af97e940cc8da2abf71d4ddce07e7317"
+    },
+    {
+      "id": "20260914-FR-49D2B75A-1321",
+      "title": "\"재일동포 힘 모아 한국금융의 새 길 열어...\" 故이희건 신한은행 명예회장 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T17:58:14+09:00",
+      "publishedAt": "2026-09-14T17:58:14+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "\"재일동포 힘 모아 한국금융의 새 길 열어...\" 故이희건 신한은행 명예회장 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"재일동포 힘 모아 한국금융의 새 길 열어...\" 故이희건 신한은행 명예회장 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc2ZWd2VnT1JFRUZQcFF5T2xYR1NmdXU3QzZleFVzZXd4d3M0d2JqYjZqaXhoTkdqR0xRMGxyU0gxQjlSMUl4dDZXRU1PMms5d1VfYV9LTzhPaXB4QnltMS1ZZ3NJcHZaTnY4TGQ3dDJoenRKT1BGU0o2MlUxX2xWNFhDMGd3Y1ZmbmUxQmtjaXlodw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "49d2b75a0475a56cc2974f74dec13f36e204bf58d2217549a7c212e10d0b4a96"
+    },
+    {
+      "id": "20260914-FR-06D787F9-1322",
+      "title": "산림청, 9월 이달의 임산물로 '오미자' 선정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T15:16:01+09:00",
+      "publishedAt": "2026-09-14T15:16:01+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "산림청, 9월 이달의 임산물로 '오미자' 선정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "산림청, 9월 이달의 임산물로 '오미자' 선정 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeEVSTU96ZXBpc0NhanJUcGNUYmk0NlhyRjlzbU1fRldRblU1UUhiM2pFamdidVU3eHlMSnpLc3dlX0ZWM1hUdGVZeWVsRWpOellsN1hBVjNvNXVqRkFtazVsV21aMkVQVzJNcVpLYjFvdTJOMm5NVTBwWmtCZmRPSmhYUjZSQ3FKZFlFMGdrOXNJUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "06d787f99bf8fbca22dbcceed5c80252047d61d2184f94896da8662f42c00a0e"
+    },
+    {
+      "id": "20260914-FR-E0FBA336-1323",
+      "title": "고려인 이주 역사 기록 바다 건너 품는다 한-카자흐스탄 기록 협력 재정비 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T16:00:00+09:00",
+      "publishedAt": "2026-09-14T16:00:00+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-14T22:52:05+09:00",
+      "summary": "고려인 이주 역사 기록 바다 건너 품는다 한-카자흐스탄 기록 협력 재정비 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "고려인 이주 역사 기록 바다 건너 품는다 한-카자흐스탄 기록 협력 재정비 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNm4wTmxxN0ZZZWYxN3pSVWxudk1qcFh2TU8zQ0lwbS15Y2J3R2pkb2U3aWtQM3JVZXlrWjlCbDlJZVJvcnpzVV9iOTR2TkNRSmtVc2NTajFNbTNXZzJOZjhVYVE5akVrcDJfaGdvZlBUSHFRcFh5d3VrcU1faGtvejRWSGh5aWNSeGVHRE5iZjZIZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e0fba3363f1c4809e36493842fb635da2c7ea9fb33d83b3f7572fc105c61b741"
+    },
+    {
+      "id": "20260914-DP-0EF16CE4-1313",
+      "title": "민사ㆍ가사소송에서의 개인정보 보호조치 안내 - 보도자료 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T17:32:12+09:00",
+      "publishedAt": "2026-09-14T17:32:12+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:04+09:00",
+      "updatedAt": "2026-09-14T22:52:04+09:00",
+      "summary": "민사ㆍ가사소송에서의 개인정보 보호조치 안내 - 보도자료 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "민사ㆍ가사소송에서의 개인정보 보호조치 안내 - 보도자료 - 대한민국 법원",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOTURJNkJ1ODAtcC0zNjgxWkw4dVpWR3oyZTA1XzczZ3RueHc2VW0tVXJFTDgzN2lvM0F1ZE1ITkZNUGtEbzNRNXczUVg2S3hITy10VHRrMkU5NFA5T21iTmhqRG44N2F1VjJ2SERrVEVqOTI4Nk1pZDQydFpGTW9kMnpVTTNISVcybUg0Rm1RZXlKdVAtYzVKN05WaGpBdDl2ck1rU3JTR1ZhdEJ3c3ZYeWFKalZHQjB1MVZOaFJCcWl0YUhzRHZ4S3h0SG5vN0hhbThLcWprVUQ0VEJuOEgybDNtWGtfWkRmNlBSSE43aEM2QmZ3R1BKaVRHalpsczl0Z0laMHNXb1lOZktEclpYN3JvUWpnQ0N6U0tGNEdNWlZPVkRrWmlDU3JsWWpVZ3V3bUl0ZEQ2Ym0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0ef16ce488bda4cfda96d969a676b680dfd1efe185da8980441d204fc8806693"
+    },
+    {
+      "id": "20260914-DP-66F45749-1314",
+      "title": "위험 순직공무원 유족연금·사망조위금 인상…\"보상 예우 강화\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T17:09:33+09:00",
+      "publishedAt": "2026-09-14T17:09:33+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:04+09:00",
+      "updatedAt": "2026-09-14T22:52:04+09:00",
+      "summary": "위험 순직공무원 유족연금·사망조위금 인상…\"보상 예우 강화\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "위험 순직공무원 유족연금·사망조위금 인상…\"보상 예우 강화\" - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12VFBTV211QzVmaUF4cEs2TTVNT05ybVo5cHZ6Vk5POFpRYjJOTUVDWjNoc3VpVzRDM3JsbjJpazUxc2hobDdkLTRwS3lLZDdpSTN1SFlqcG5CeXB0ZmJwbzlMNE1fYmFhTndrVg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "66f4574935d6820a0a273f26d3f9c3cd4dd04f904c1a9af500828d4536b625e7"
+    },
     {
       "id": "20260914-DP-AB170D9A-1305",
       "title": "불법스팸 더 줄인다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -494,46 +1041,6 @@
       "contentHash": "df02c08d1d9e70ea3a497543aed09b7724ea3da9fc67af6844380f87d8d39c64"
     },
     {
-      "id": "20260914-FR-D279355F-1311",
-      "title": "이 대통령, 우즈벡과 정상회담…중앙아 5개국과 '릴레이 외교' 시작 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-14T14:29:06+09:00",
-      "publishedAt": "2026-09-14T14:29:06+09:00",
-      "firstCollectedAt": "2026-09-14T15:54:42+09:00",
-      "updatedAt": "2026-09-14T15:54:42+09:00",
-      "summary": "이 대통령, 우즈벡과 정상회담…중앙아 5개국과 '릴레이 외교' 시작 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령, 우즈벡과 정상회담…중앙아 5개국과 '릴레이 외교' 시작 - 대한민국 정책브리핑",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzUEhLa25fZXEwZUhfdjFyRWR6Zkg2cUQyX3VGOVAxaUxrNFI4T2dCZ0J3SWxSYXR5a3FKTzAyUmtRc0lsQzl0NVllWWZ1cW5OSzhHcXJ2bWhWYmhVcGNnZzdlcE0ySXdyVm9adw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d279355f52f97c588c920dd879221c6b5b6d9739d6168d161f190bb1eb521574"
-    },
-    {
       "id": "20260914-DP-71F4FCF4-1312",
       "title": "이재명 대통령, 칸다 마사토 ADB 총재 접견 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -572,46 +1079,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "71f4fcf4c77d70777dfe165dd28b4eb94ef4efbefca1d1f68f36546064ae8996"
-    },
-    {
-      "id": "20260914-FR-4D328081-1306",
-      "title": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-14T09:56:56+09:00",
-      "publishedAt": "2026-09-14T09:56:56+09:00",
-      "firstCollectedAt": "2026-09-14T10:31:11+09:00",
-      "updatedAt": "2026-09-14T10:31:11+09:00",
-      "summary": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "이 대통령, 중앙아 5개국 릴레이 정상외교 돌입 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fblJTbDVjRnFQQnc4QkZVSXJSSkh6U25BZmhsMWVzdlZSanRPREwyOUY3d3haVkRFRnpzcHJUbmRRNkpKMW1VcmlOTGNUYXZxZXNUdFVzeHZvZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4d3280811b44ab2c89c7217b548249b691a1a0c410629322048f5718c80254a7"
     },
     {
       "id": "20260914-FR-34BC9898-1304",
