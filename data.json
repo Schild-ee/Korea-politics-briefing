@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-15T15:36:52+09:00",
-    "nextScheduledUpdate": "2026-09-15T16:06:52+09:00",
+    "lastSuccessfulUpdate": "2026-09-15T21:03:34+09:00",
+    "nextScheduledUpdate": "2026-09-15T21:33:34+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-15T15:36:47+09:00",
-      "finishedAt": "2026-09-15T15:36:52+09:00",
+      "startedAt": "2026-09-15T21:03:29+09:00",
+      "finishedAt": "2026-09-15T21:03:34+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 48,
-      "duplicates": 41,
-      "rejected": 144,
-      "rejectedByDate": 143,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 51,
+      "duplicates": 44,
+      "rejected": 135,
+      "rejectedByDate": 133,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 11,
+      "newIssues": 17,
       "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,946 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260915-FR-B6AA2188-1345",
+      "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T14:34:43+09:00",
+      "publishedAt": "2026-09-15T14:34:43+09:00",
+      "firstCollectedAt": "2026-09-15T15:36:48+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTRpQXJ4aXlkNTZoZHlfNVoxdFFTZlhxV2hCWWxYR1JwQTlucjFuYWJFUnpoYlNaRTVfZUZUQmMySGxGaDM1bldCU0NUOTh5TmlkSkpwTHR3VzY1eVllWUoxTE1aRFVxYlFObmNKVlBfQTFDVkZrWmJXQl9tZ2dSdzFFc0NwVm9iMnhOOExn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpenZfQ293MGZqSUVnODdnVjM2QUZhbW9OMEFVRExMek8wNzdyQWFUY01nNFRYajJlUlRwaFRDcWVEMjEwUEo5SmZybE51b2RFekNOaDZqS0xhdlFLamQ3NkhCSGxfZFJnVXE1X1ZaNDk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-15T21:03:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b6aa21887b279c1351416e0d68dc440bafd463f66c724076a4965c3cfd1c32f9"
+    },
+    {
+      "id": "20260915-FR-4AB92C87-1353",
+      "title": "한-투르크메니스탄 투자보장협정 서명(9.15.) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:55:28+09:00",
+      "publishedAt": "2026-09-15T17:55:28+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "한-투르크메니스탄 투자보장협정 서명(9.15.) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-투르크메니스탄 투자보장협정 서명(9.15.) - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3I2bHBOREYzbGloOUNGN0NxUHotN3FzelhsU0hTYVZuMmw1NjVHajRLOFpYanZfeDd6OFU1NlJnTUk1UFN3U1VaWHlSdkRqaDlQVXpWYWFFal9obFRodE5yNnR2azk2Mzd0VGZnZVpIb3ZaOVBwQjFKVkFMQ0h0UzJ6UzhPQ0pQOWtpWnVBOE1oQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4ab92c871ef700ac9b70ea8de8bfc2fd63678f4c4d4dd6ef401a81a722859173"
+    },
+    {
+      "id": "20260915-FR-2B01D279-1354",
+      "title": "한-투르크메니스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:41:50+09:00",
+      "publishedAt": "2026-09-15T17:41:50+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "한-투르크메니스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-투르크메니스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaXV5cWp6cXpncnRobGo3aHFhVGVITlBfMHRmbVVCbmRobGtxYUhLVWZLd2l2Z2pwM1pwUUdVQ1VQeS13VEZBNm9BU1VsWFd5c056ZTl5TElUNzNhaVJJWUVCaXJHQUtIUlpaUGF3NDVaci1qQmhoTmhuaWUzSFgway1HeFlha0lYRW1v?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2b01d2796d188c2f57b76e353fb303d85b71be3c2c8f795289f7be176489524e"
+    },
+    {
+      "id": "20260915-FR-83A2FB08-1355",
+      "title": "'한·중앙아시아 정상회의' 서울 주요 도심 교통 통제 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T18:12:01+09:00",
+      "publishedAt": "2026-09-15T18:12:01+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "'한·중앙아시아 정상회의' 서울 주요 도심 교통 통제 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'한·중앙아시아 정상회의' 서울 주요 도심 교통 통제 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jMGhPbTlfVUtzTnRtYUM1RXE1bVR0ODB6R3VoaUdpRlFwSVdwZldwbnVzX3NOMWE0ZDZSU05HcmVLUWJmeUlfSkNMOFoxTk96OEE1LUxFSHN6YUVsSXJzSzd4MV9JbVM0SGNfY1BBbzdPRmRFWkdER2lR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "83a2fb08a58975e73842e9785aa31ded102c9f7688c9c59956bf56d06c482017"
+    },
+    {
+      "id": "20260915-FR-C882A044-1356",
+      "title": "한·투르크메니스탄 정상회담 확대 회담 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:14:52+09:00",
+      "publishedAt": "2026-09-15T17:14:52+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "한·투르크메니스탄 정상회담 확대 회담 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·투르크메니스탄 정상회담 확대 회담 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RdWxaa2RjbTE3ZjlwMnVVME84dmpkZWg1eU40Qjk3NDZ1SzR4TGpxUVpzdGJGV0NWX1VxVm5UNHBLcUdheHBkalVaQUpxbElZTkFYTGtkVTFNRjR0Mnl4RVFXSGpYdjd3Q1ZabzUyUGktNzhWYXN5S0Zn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c882a04451ded5eb57572e234a0ba484ab3d967efa38685920b4d0977526898f"
+    },
+    {
+      "id": "20260915-FR-6D29812B-1357",
+      "title": "한-카자흐, 17년 만에 '미래지향적 포괄적 전략 동반자 관계' 격상 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T20:23:25+09:00",
+      "publishedAt": "2026-09-15T20:23:25+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "한-카자흐, 17년 만에 '미래지향적 포괄적 전략 동반자 관계' 격상 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐, 17년 만에 '미래지향적 포괄적 전략 동반자 관계' 격상 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BcHlSUzl5c1lzUVM3MzVGbVIxRXZfZWtxd0xtLVFfZnhMdF9JNFpvLU16Mkd2R2JvSW1FeGNfcmhOa0h6SHkxN29DSm5JQkZXOUNwRzkwekg3bVgyZFhoNFdnRWVnbHdQRUNjYQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6d29812b580142bef4ee435576e0e6723004352cfc7cff5fc340290b6616a54e"
+    },
+    {
+      "id": "20260915-DP-429DC28B-1358",
+      "title": "한-카자흐스탄 대통령기록관리 업무협약…디지털 기록 교류 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T16:54:23+09:00",
+      "publishedAt": "2026-09-15T16:54:23+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "한-카자흐스탄 대통령기록관리 업무협약…디지털 기록 교류 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐스탄 대통령기록관리 업무협약…디지털 기록 교류 강화 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10czR5b0NKcHF4SVZaa0daa0dMSVVEeHE1aFptV2xOeWpUemRkY0d3TEtWUzZjYWNBRmxhYV8zbGd6Y0FsN290Z1VzMF9udjVNR1g1bG12Vi10Zm9lUGQ0c2ZTd09oaDRRZjA0TQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "429dc28b250e6aa8ecf1cb1de41f7ed9cfddae31c5ae04a1591d26f744dae489"
+    },
+    {
+      "id": "20260915-FR-219C7A8C-1359",
+      "title": "우주청, 군집위성 시대 연다…'누리호 5차' 10월 7일 발사 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:41:06+09:00",
+      "publishedAt": "2026-09-15T17:41:06+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "우주청, 군집위성 시대 연다…'누리호 5차' 10월 7일 발사 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "우주청, 군집위성 시대 연다…'누리호 5차' 10월 7일 발사 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqSXFxT3FIb3lUMHRjaTg3QnNwcmtFc2EzanZIRzZIakdvVmE0bGxlVHRZZ1p5ZHpZWVRJNVhRWlJ5Z0ZNcENOT1hBMzRPSFRtN3ZOUmpzNGxxSjhkSjczcjlYRGRXNTBnVV9IZA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "219c7a8c74e8b9b4acddb72b4dac07c76cf80be01118371370c9b6b1c8374738"
+    },
+    {
+      "id": "20260915-DP-C9FF3BF3-1360",
+      "title": "2026 대통령 기자회견 관련 성기홍 홍보소통수석 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T16:35:16+09:00",
+      "publishedAt": "2026-09-15T16:35:16+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "2026 대통령 기자회견 관련 성기홍 홍보소통수석 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 대통령 기자회견 관련 성기홍 홍보소통수석 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UbjVkdXdLd1NIWWpnQTg4TzQtY1NLclRjSVNxZGI5aDA3amY3czhNcGlCSEtkOEdhNnlkRVdLTzNqaEFEMXlDRGZyUDZObHZDUG5MazUta2EtdmhBSG9PazU1TWRFX0MxYk9lTUVEeEg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c9ff3bf3cd7a2a99550fb166af5048cccec98768f15c93ec349e2624ed4287a6"
+    },
+    {
+      "id": "20260915-FR-7D356BBC-1361",
+      "title": "북부지방산림청, 국유재산 무단점유지 실태조사 집중 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T16:58:51+09:00",
+      "publishedAt": "2026-09-15T16:58:51+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "북부지방산림청, 국유재산 무단점유지 실태조사 집중 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "북부지방산림청, 국유재산 무단점유지 실태조사 집중 추진 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWXFmMVhyZjJwZE9VRWFpeDItclRVTnRjYnY5UnFvckVWb2o1X0VaOE12NXdPTTh1dklQS0ZtVWg5RkljTFN5ek5aOTFTbUw3WnF3b2RFOXMwbWZXYTh3RGJ2T1NZS1lzZlJUbTY1aEFmdUFXZW8tTXBxczVEU3F5Y3JQSXl4dHVJOEpaVDdWMVpfSENQcDBsNk96OFA3Q2RIMkpFdkU5ekFZQjJrWUY2emFXd1lBemlEMllEeVVRR19kSWZxSFNDN2w5dTNCWEd6UUlUODBUekc0Um1xc0NlcUlXMHJKQlYzdzJJU2s0QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7d356bbcd18da561a59b3561d00aa66af389ff01eba7382bb2c9bb09d4af3362"
+    },
+    {
+      "id": "20260915-FR-277BCD05-1362",
+      "title": "[보도자료] 생명지킴추진본부, 경북지역 천명지킴 현장소통 간담회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:53:37+09:00",
+      "publishedAt": "2026-09-15T17:53:37+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "[보도자료] 생명지킴추진본부, 경북지역 천명지킴 현장소통 간담회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 생명지킴추진본부, 경북지역 천명지킴 현장소통 간담회 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWU1hOVZXYzlXQnR1Mno5eThFLXFvc0JURlNqZ1JUcXBUX0czcXo5MW8wMU13YnBZUTNFSHVuZUxkSHhFX0FGMmlXMlliRWtYYWEya3Z1MlJpMDhiM1FvOFJTLUNod3lwTG0yNG1Ec0RrYjJoaGZtdl81TDdnM2pCQXlmQVdTclpLNDlseXVfRi1YUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "277bcd059b7e53d49d82a31d61fb946c59c84124f41362509ceb72f35355321d"
+    },
+    {
+      "id": "20260915-FR-3623364B-1363",
+      "title": "K-컬쳐 400조·K-콘텐츠 220조 비전선포식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T18:12:01+09:00",
+      "publishedAt": "2026-09-15T18:12:01+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "K-컬쳐 400조·K-콘텐츠 220조 비전선포식 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "K-컬쳐 400조·K-콘텐츠 220조 비전선포식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96MngzQTRvOGhWOTA4V1pPdjNIdm1XLTZCRm15SnltY2ZIRzMtRUdCZ0ZLbDREUzAyZGl6QmtNV1BuUUNmUTRnZHNneFBaNWRXYVFldXJHMGxReGdBSV80dHdxeFZkaVp0N05rMEs3TGprbGdlNnJPUDJR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3623364b607d74e525edf23387a4ebae7cfdf31433b5f9aac5ea86a2070d77f8"
+    },
+    {
+      "id": "20260915-FR-ABFF148E-1364",
+      "title": "'총비용 표시제'와 판매자 책임, 환불까지…중고차 구매 걱정 끝! - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T11:23:33+09:00",
+      "publishedAt": "2026-09-15T11:23:33+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "'총비용 표시제'와 판매자 책임, 환불까지…중고차 구매 걱정 끝!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'총비용 표시제'와 판매자 책임, 환불까지…중고차 구매 걱정 끝! - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYYnNENm5FLWd3N29XVDVUc3lpdHBwMDQxWlhDckN5TXdmaEp5ajNMVlU3WEFhalVTRWVGQ3pOa1QyeFZJVVVMMExpRW1QbEZZcWVYOVp4cW9ndlFfYU93M0RZVEp2bmNCZUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "abff148eb7664e102e09dc630daea6768d623f0f5266fcfcf7262a1515f8014d"
+    },
+    {
+      "id": "20260915-DP-15ED2656-1365",
+      "title": "권오을 장관， 추석 연휴 맞아 독도 수호 영웅과 제복 근무자 위문한다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:58:24+09:00",
+      "publishedAt": "2026-09-15T17:58:24+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "권오을 장관， 추석 연휴 맞아 독도 수호 영웅과 제복 근무자 위문한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "권오을 장관， 추석 연휴 맞아 독도 수호 영웅과 제복 근무자 위문한다 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONnpRTHBxLTh6dTc1THFEeElEazlkSnZkeXJHc0FWdUw0QWlyY0pyRjczYllyQ29JRElnbG9FSTB0RTYyTF9WdGZoR3hobFFXa0c5b2ZvX3BFZ2hOSlFDamRyWjJfUUozSDZ4NXBNQXE2UFhDSmVQRVJJX3NjSU5EYWhIR0ZLbWtCcldkSk1RWW54MTRM?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "15ed26560e6e1eb337befdc042db0f52477163cc06bf1cd08695956625c54ea1"
+    },
+    {
+      "id": "20260915-FR-E7B9B29C-1366",
+      "title": "김진아 2차관, 주요 방산협력국 주한외교단과 K-방산 운용 현장 방문 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T16:30:00+09:00",
+      "publishedAt": "2026-09-15T16:30:00+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:30+09:00",
+      "updatedAt": "2026-09-15T21:03:30+09:00",
+      "summary": "김진아 2차관, 주요 방산협력국 주한외교단과 K-방산 운용 현장 방문 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "김진아 2차관, 주요 방산협력국 주한외교단과 K-방산 운용 현장 방문 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjRIWmptYjFfa2t0ZVlCcFVXMFNtbzlfTVp4T1hjT0ZsYUVNejdZaEM1U24ySWhZZHQ0R2psY05BVHVHbFFVNXFUc2toeUZXWFFwM0dxd1V4bm1LUXJweEVBUEk2ZGdzeU9rR19paG9SeXdLbTVXQnloNGl5em9SOC1vNEFmMFZEeXlINmt0WllmR3RrWmVPMUwyUlBHZ3pmY2NhdUxQdG9Zb3Y2VWF6YXJSOTY5WXdZUktfT002eUdOdzRSbUg2dTk5bDFsY0M2ZTJuT1IyRElMcVktMGpLX0xyMHVGS2xqT184RmlDUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e7b9b29ca7fe04eed86b8ed426ba45e5d35e81d3106110c820a3cfefbedb10dc"
+    },
+    {
+      "id": "20260915-DP-3063867B-1342",
+      "title": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T10:00:00+09:00",
+      "publishedAt": "2026-09-15T10:00:00+09:00",
+      "firstCollectedAt": "2026-09-15T15:36:48+09:00",
+      "updatedAt": "2026-09-15T21:03:29+09:00",
+      "summary": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWW92ZWw2RnJNR2JWczl5cUFURG9CUlQ2M3M2MDVRaXJzVnZFLTVVbUItcWF3ZlZUQ21CVVR6MU13LVVicTVqYmxEWE5FN0hPX1hCU0JTR1FMZE5Cbks4YzRVMkVPX2RKNUVkdkRrN281UU92Nm5wbGZ5T0hoQXh3ZlF3S2s4cEpkYmZCVnQtNjl0d1lIQXE0V2VUY3o0VmttSktFY0U1SGdwVG9PbHFtWDE3Z0NwR1ZrWkJTR1dvY2l4OXMxN1JlUTBuOHVlS29VVk9CZDk5U0prV3lrX1Q4VnZfZlVSbnRRWDBQQm1wQ3BXejk1RnJfbmZ2WmpLZ3JJMHBaNnFzN1djUE9Vdl9VVXhR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2d3NWdWM3lYZ2Q2UWl3VlRmM1V5b3ZWb3JOSTh3NktUM1Z0Qy05c2pIQmhjem9nWW5tZVV0ckM5LURpZkdIOXFkd3hzTy1TaTJ0TzZhWHR0S2dGZlFrSGQ3ZUQ3R0Z6aU16eFZRVTZwZUtrYl91YTRDN2xXQ2s3YmNOS1oxWEMxWGNzWXBLa2pUZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-15T21:03:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3063867bdf6c23e74a1eac2339997e118c98c3c68fefb3df53301cd171f0671d"
+    },
+    {
+      "id": "20260820-DP-46865BB4-482",
+      "title": "전국법원 주요판결 - scourt.go.kr",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "scourt.go.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T09:42:34+09:00",
+      "publishedAt": "2026-08-20T09:42:34+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-09-15T21:03:29+09:00",
+      "summary": "전국법원 주요판결 scourt.go.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "scourt.go.kr",
+          "title": "전국법원 주요판결 - scourt.go.kr",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRWlVNmhaVm9XZmNDNEdscmZoTEtOa1RlWmZhbmczc0dKSmtFTlltSS1DdkxzWEZoRFhveEx0X3R0SkpMTEl3TXhLTk1XODJaYmgwbXA0QVB4Qi1URXdTVDFlSTg1S1NnVkNQemp6SUlFbHptbERyZDlCV3NxVlo5OWVDRS05UU1zRzBRUUtCbklrUFViTUlWV2NBLUt0dVhIbkg1a0NrNktnOG95YUtqekNQRWpfQ1BZMzVPbjd4X3Z3UFE0OHlXaEJKOHh4Wjk4MXdjN1hiOGY3SVdPZTVNRktOdjFjZThLQkxBSWVpS05fa0FmOU1PZEVBekhaZnJMNnh4SlpCQ0FPZHhJZFYtYjJTVkNucG55RXZqM2Y3UUNKQkJOLXJVVXAwMVg4S0piamc?oc=5",
+          "official": true
+        },
+        {
+          "name": "scourt.go.kr",
+          "title": "전국법원 주요판결 - scourt.go.kr",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWGV1Z1BoSFVvdzhNNVB2Yk1lVUF5SzVQVkhaU0N2TG1LNXhlcmlzRVlaOTJOMTkwQkN3Ni10MGIxbkVpakI2dmRYRU92NUNmM05JNXBNUDhkczk4TGdfVTJkS1Q1X0pGSVdmaFV0N0xDTVBEY1lfc1plTW82a0cwX3FaWEVZZHV4dnlWVWl1eG9XMDBaQVdadHVzdHgtZFdRU1dkQVdxOUZsdUY5aXRoTU9tMVRYcWRsT281dzlMYWtQV0RlQmxqaHkyaG91d3I2blV6SmU0UWRvbGwwajNoZUUtbjdCMmcwQzUycjRrdW4zbWlFZ3VRMkRKMDA5R21tUWMtMHF4TU4xbkdlSVI4cVFSLTFXYTdPMHFqQWxBODQzWXRiT1A3MHJhUVZzbnVVN3c?oc=5",
+          "official": true
+        },
+        {
+          "name": "scourt.go.kr",
+          "title": "전국법원 주요판결 - scourt.go.kr",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNVmtTdGpjR2NIN1dQYjhZMnVBd0M1UFpPUDVwUU01QVE4WWdORlctclB1Z3NtTmlMYzZZUTc0QmUwVUdIVUctQXVTcC1xeDgwNzh4TVRjdDRCcGtrSnRLcVBJRUdFQndla2JVVjUxYVZ2d1VVcmpDdXBSNnNMYndxWHZqczE4dzZ6MzR5am42WVFrbFRWNlM5bXNWdmJxLUJLYXB6YUxWaEZlQnlja1B6ZW5oMWZRbjB6VjIxamszZTUtbWh0Q2JWRDRLSnNOWjVHdUs1M0gxTTd2eW9tYWJIUUhXZEJzbVdtZ2VMSnh0aW5YSUZqMW85b0ZRZVB5eU9zMEJhNVdIZHlaMkVfVHRrbFZtZ0FvVzE3TlQzTlYyM1BicnplcXViREZJLXp6eS1CX0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "scourt.go.kr",
+          "title": "전국법원 주요판결 - scourt.go.kr",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRVVMeGtRMWkxM0plc1ZLTVBMS2oyVEpKdEU5bzRLVjJGY3o5S0F1Sk9HWG43aG9aTDF0aFU2a1JHREpzejZrRXFsZUtMRUJDZm03Z1BmcVREekJQUTZybUM1T0xmVExCSTF3aUtqQU5Fb1Juc2YzNE9pUlNpZjJWSGpHNVp6eFBONHhzd0gzYUtDei1waFhRRWE0WFFCcUpBVnNKVXhzXzkzWTlwWTVXX0huNEtHZml4MG5kdWpQR3Y3b3BITUFOdEF5enZWSHFBVGNCeVBVZ0ZXNXNHQm93WGlPNkh6N241Nk5IcG90dlNGN1lqZlRkTlFDRFlZaUY2aU95MW1mNFJtU1JvU3NTSjR5OURPTnR0TDV4eEZJSDg0TkN5RXNWR1ktNThZbDBIN2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "scourt.go.kr",
+          "title": "전국법원 주요판결 - scourt.go.kr",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOb0lPTV9NMVdmdV9SSUdQa2FaY1JnLXpmYlRlOVcxNHZ3cnpwamxwMlVBTU1pekdqN0t1SUtVNlZUX1ZwaVlfVXFmYzdtWW1kNmpUUFhqWXVPUThEYjlpeFlFU3FNbVZad3J2b0Myc2JOS2QtUDA5Y21odkFuaTZ5dS05Y0ZGN1hzc1BHSWE1U1duUlp6UlctWmx1TGpnUkhITENRM3BiU19scWNxQzhYaW1xR0Q2WFJIRWlZTXBUR25oZURmWTZ1V2RnVVpIZDBnSEVteHFjeWFNallKcEI2STR2YXJsVDZPbTFiWXp4bGN0dWkyRzV4bTdSQTdDRnRfUzFINUg4LVd6MnR1bkszb1RsdUhXY1RsVWRWaExMSzNzaHY3amx2YnZpUW5zb3Z6MVE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-01T11:00:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-07T14:56:06+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-08T08:42:36+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-15T21:03:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "46865bb481973ee05d371de07433bd6368bf231b28dde3cf5b4652417833e57f"
+    },
+    {
+      "id": "20260820-DP-2D2070B7-508",
+      "title": "부산고등법원 공고 제 2026 - 27 호 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T19:33:17+09:00",
+      "publishedAt": "2026-08-20T19:33:17+09:00",
+      "firstCollectedAt": "2026-08-20T20:03:16+09:00",
+      "updatedAt": "2026-09-15T21:03:29+09:00",
+      "summary": "부산고등법원 공고 제 2026 - 27 호 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "부산고등법원 공고 제 2026 - 27 호 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnRGX0c0Ymo4VlBnMVNSVmo2NGZqTlRxQWRQbE1qUUxGM3M4UFZrNmJCWE1IQll0SmluNTFEeTZWdnhOanlFWFlkN2QyVC1qcU91Q2pnZ0hXcFBCbVdTcUpWdnhkYTNFYmNyWm95bE5OcVVXdmVkR2dDMXFiRElkY2NscXcwOWoxRG82V3Nn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "부산고등법원 공고 제 2026 - 28 호 - 대한민국 법원",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWtMZl9SVkVFNWI4YWpLYXQzQVVrSGlpX0FWck14RGg4WnFxVVROSHJOVkxmbVdjVjBfM2prMFA0cG5TR2NHUkNmcnZaTk82Y1BtWE0wN28tMzdwOFlFajQwTFJlaTFwV3Q2SDhrUHJuNkUyUldJZlRZaGVNMzRhTjZVb3dyaEZQQ1U0QTZn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "부산고등법원 공고 제 2026 - 30 호 - 대한민국 법원",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmVRMVBzOWRiUHROdzk5TzZ0ckFLMTV3VmNadTlZWGUtS0JEeTIyNUpLOFhOMDFGLWhtWFlIWTdGcEJRNWhsTkZDQUotZ0wteHR0em9MOWlLazdjZHJYSGRUWU5VcWxHRzJYekM3R1A0TXE4VEhmU0o3UFlxOGtoVzV2clJtMUV2bzJWSWFR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-03T15:23:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-15T21:03:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2d2070b706e49bd023b8da0b9cf4602a15fc7abc6de1632fabf25ae8cbef43e2"
+    },
+    {
+      "id": "20260915-DP-BD3B3B81-1350",
+      "title": "공무원 초과근무 '하루 4시간' 상한 폐지…\"일한 만큼 보상\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:14:15+09:00",
+      "publishedAt": "2026-09-15T17:14:15+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:29+09:00",
+      "updatedAt": "2026-09-15T21:03:29+09:00",
+      "summary": "공무원 초과근무 '하루 4시간' 상한 폐지…\"일한 만큼 보상\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공무원 초과근무 '하루 4시간' 상한 폐지…\"일한 만큼 보상\" - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvREdWNTIyd2NxLUZmOE03bU1DQjMxS2YzVTR6NEpTaVgzYWlDY2s2SFoxVDlUSWE3QlAtYXZsZVJ2em0xSUVESmZwQnBrQ0FWcnE3SzVQLUNCM29Hb0k0c0s2X3FaVnc4aVFfbg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bd3b3b8179ea5412210a5f4671806582e7c66c7691af7268b269b91e24c13dd8"
+    },
+    {
+      "id": "20260915-DP-487EEBC3-1351",
+      "title": "재생에너지 보급제도 15년 만에 개편…경쟁입찰·고정가격 계약 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T16:19:31+09:00",
+      "publishedAt": "2026-09-15T16:19:31+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:29+09:00",
+      "updatedAt": "2026-09-15T21:03:29+09:00",
+      "summary": "재생에너지 보급제도 15년 만에 개편…경쟁입찰·고정가격 계약 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재생에너지 보급제도 15년 만에 개편…경쟁입찰·고정가격 계약 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmVyZnZrd0NRcTdKOS10blRZSm55RlpCMlU2TlBaOEl1ZFZsdEQyOGllOHFlYUszNTJWX3J6eDlSNlpDNTVWM3Jtc01jeWg3YU1UT3dCMmx4cWtacDdJNW8tdjVibTNjTEpXWm9XTlFvcXc3Z29LTWJvOFFQNTR0VTFlVGI2SWtyX1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "487eebc33aeef50ae6e164ea2e86682cc7fdd59f14e78bece5be8dc20cf119c8"
+    },
+    {
+      "id": "20260915-DP-6CFB5373-1352",
+      "title": "달콤한 유혹에 빠진 아이들…'어린이 기호식품 품질인증'으로 지키는 건강한 식탁 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T17:41:50+09:00",
+      "publishedAt": "2026-09-15T17:41:50+09:00",
+      "firstCollectedAt": "2026-09-15T21:03:29+09:00",
+      "updatedAt": "2026-09-15T21:03:29+09:00",
+      "summary": "달콤한 유혹에 빠진 아이들…'어린이 기호식품 품질인증'으로 지키는 건강한 식탁 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "달콤한 유혹에 빠진 아이들…'어린이 기호식품 품질인증'으로 지키는 건강한 식탁 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZGFDcVV2NHdzOHB5MlAtLUFjUmJHeGdPQTZfMFJnR1pwaVA1RF9ITkh2dVJrRVdFNFM5SjBnYU1jMjNKanAyMnh5Z05xd0ZOTUpSM0FjQVN0UWZZclcydmU1TUszdmFqSGhfbl95ZGk3Mm04T2syS1VoUU85N0xhMk5zMnF2OEU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6cfb5373e354d004cd95269a4ae5b875b9fdf40d157420189b81c8eaa74b6564"
+    },
     {
       "id": "20260914-DP-71F4FCF4-1312",
       "title": "이재명 대통령, 칸다 마사토 ADB 총재 접견 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
@@ -784,46 +1724,6 @@
       "contentHash": "7a994ee3292f9b93b12900b54ef6fa67d4b05b55799413766229f9dd9455a344"
     },
     {
-      "id": "20260915-DP-3063867B-1342",
-      "title": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-15T10:00:00+09:00",
-      "publishedAt": "2026-09-15T10:00:00+09:00",
-      "firstCollectedAt": "2026-09-15T15:36:48+09:00",
-      "updatedAt": "2026-09-15T15:36:48+09:00",
-      "summary": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "초과근무 1일 상한 폐지, 일한 만큼 보상하고 감독 강화한다 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNWW92ZWw2RnJNR2JWczl5cUFURG9CUlQ2M3M2MDVRaXJzVnZFLTVVbUItcWF3ZlZUQ21CVVR6MU13LVVicTVqYmxEWE5FN0hPX1hCU0JTR1FMZE5Cbks4YzRVMkVPX2RKNUVkdkRrN281UU92Nm5wbGZ5T0hoQXh3ZlF3S2s4cEpkYmZCVnQtNjl0d1lIQXE0V2VUY3o0VmttSktFY0U1SGdwVG9PbHFtWDE3Z0NwR1ZrWkJTR1dvY2l4OXMxN1JlUTBuOHVlS29VVk9CZDk5U0prV3lrX1Q4VnZfZlVSbnRRWDBQQm1wQ3BXejk1RnJfbmZ2WmpLZ3JJMHBaNnFzN1djUE9Vdl9VVXhR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "3063867bdf6c23e74a1eac2339997e118c98c3c68fefb3df53301cd171f0671d"
-    },
-    {
       "id": "20260915-DP-786DA214-1343",
       "title": "「메가특구 특별법 관련 사회적 대화 제안」 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -902,46 +1802,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "fd3980ac0a373e86b41271d501c91873ce92de05779aaa34b725eaef744eb5e7"
-    },
-    {
-      "id": "20260915-FR-B6AA2188-1345",
-      "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-15T14:34:43+09:00",
-      "publishedAt": "2026-09-15T14:34:43+09:00",
-      "firstCollectedAt": "2026-09-15T15:36:48+09:00",
-      "updatedAt": "2026-09-15T15:36:48+09:00",
-      "summary": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTRpQXJ4aXlkNTZoZHlfNVoxdFFTZlhxV2hCWWxYR1JwQTlucjFuYWJFUnpoYlNaRTVfZUZUQmMySGxGaDM1bldCU0NUOTh5TmlkSkpwTHR3VzY1eVllWUoxTE1aRFVxYlFObmNKVlBfQTFDVkZrWmJXQl9tZ2dSdzFFc0NwVm9iMnhOOExn?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b6aa21887b279c1351416e0d68dc440bafd463f66c724076a4965c3cfd1c32f9"
     },
     {
       "id": "20260915-FR-CBAF324C-1346",
@@ -13361,83 +14221,6 @@
       "contentHash": "773824b5725473c129688959ddb26df7f4d362294d899ea317f0d7adcb0027db"
     },
     {
-      "id": "20260820-DP-46865BB4-482",
-      "title": "전국법원 주요판결 - scourt.go.kr",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "scourt.go.kr"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-20T09:42:34+09:00",
-      "publishedAt": "2026-08-20T09:42:34+09:00",
-      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
-      "updatedAt": "2026-09-08T08:42:36+09:00",
-      "summary": "전국법원 주요판결 scourt.go.kr",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "scourt.go.kr",
-          "title": "전국법원 주요판결 - scourt.go.kr",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRWlVNmhaVm9XZmNDNEdscmZoTEtOa1RlWmZhbmczc0dKSmtFTlltSS1DdkxzWEZoRFhveEx0X3R0SkpMTEl3TXhLTk1XODJaYmgwbXA0QVB4Qi1URXdTVDFlSTg1S1NnVkNQemp6SUlFbHptbERyZDlCV3NxVlo5OWVDRS05UU1zRzBRUUtCbklrUFViTUlWV2NBLUt0dVhIbkg1a0NrNktnOG95YUtqekNQRWpfQ1BZMzVPbjd4X3Z3UFE0OHlXaEJKOHh4Wjk4MXdjN1hiOGY3SVdPZTVNRktOdjFjZThLQkxBSWVpS05fa0FmOU1PZEVBekhaZnJMNnh4SlpCQ0FPZHhJZFYtYjJTVkNucG55RXZqM2Y3UUNKQkJOLXJVVXAwMVg4S0piamc?oc=5",
-          "official": true
-        },
-        {
-          "name": "scourt.go.kr",
-          "title": "전국법원 주요판결 - scourt.go.kr",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWGV1Z1BoSFVvdzhNNVB2Yk1lVUF5SzVQVkhaU0N2TG1LNXhlcmlzRVlaOTJOMTkwQkN3Ni10MGIxbkVpakI2dmRYRU92NUNmM05JNXBNUDhkczk4TGdfVTJkS1Q1X0pGSVdmaFV0N0xDTVBEY1lfc1plTW82a0cwX3FaWEVZZHV4dnlWVWl1eG9XMDBaQVdadHVzdHgtZFdRU1dkQVdxOUZsdUY5aXRoTU9tMVRYcWRsT281dzlMYWtQV0RlQmxqaHkyaG91d3I2blV6SmU0UWRvbGwwajNoZUUtbjdCMmcwQzUycjRrdW4zbWlFZ3VRMkRKMDA5R21tUWMtMHF4TU4xbkdlSVI4cVFSLTFXYTdPMHFqQWxBODQzWXRiT1A3MHJhUVZzbnVVN3c?oc=5",
-          "official": true
-        },
-        {
-          "name": "scourt.go.kr",
-          "title": "전국법원 주요판결 - scourt.go.kr",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNVmtTdGpjR2NIN1dQYjhZMnVBd0M1UFpPUDVwUU01QVE4WWdORlctclB1Z3NtTmlMYzZZUTc0QmUwVUdIVUctQXVTcC1xeDgwNzh4TVRjdDRCcGtrSnRLcVBJRUdFQndla2JVVjUxYVZ2d1VVcmpDdXBSNnNMYndxWHZqczE4dzZ6MzR5am42WVFrbFRWNlM5bXNWdmJxLUJLYXB6YUxWaEZlQnlja1B6ZW5oMWZRbjB6VjIxamszZTUtbWh0Q2JWRDRLSnNOWjVHdUs1M0gxTTd2eW9tYWJIUUhXZEJzbVdtZ2VMSnh0aW5YSUZqMW85b0ZRZVB5eU9zMEJhNVdIZHlaMkVfVHRrbFZtZ0FvVzE3TlQzTlYyM1BicnplcXViREZJLXp6eS1CX0E?oc=5",
-          "official": true
-        },
-        {
-          "name": "scourt.go.kr",
-          "title": "전국법원 주요판결 - scourt.go.kr",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRVVMeGtRMWkxM0plc1ZLTVBMS2oyVEpKdEU5bzRLVjJGY3o5S0F1Sk9HWG43aG9aTDF0aFU2a1JHREpzejZrRXFsZUtMRUJDZm03Z1BmcVREekJQUTZybUM1T0xmVExCSTF3aUtqQU5Fb1Juc2YzNE9pUlNpZjJWSGpHNVp6eFBONHhzd0gzYUtDei1waFhRRWE0WFFCcUpBVnNKVXhzXzkzWTlwWTVXX0huNEtHZml4MG5kdWpQR3Y3b3BITUFOdEF5enZWSHFBVGNCeVBVZ0ZXNXNHQm93WGlPNkh6N241Nk5IcG90dlNGN1lqZlRkTlFDRFlZaUY2aU95MW1mNFJtU1JvU3NTSjR5OURPTnR0TDV4eEZJSDg0TkN5RXNWR1ktNThZbDBIN2c?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-01T11:00:29+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-07T14:56:06+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-09-08T08:42:36+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "46865bb481973ee05d371de07433bd6368bf231b28dde3cf5b4652417833e57f"
-    },
-    {
       "id": "20260907-FR-3B7EE30F-1057",
       "title": "서울안보대화 계기 제11차 사이버워킹그룹 개최 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -19130,59 +19913,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "f965937d522e37de0025494beb9834e2fd5f641e94f4062b1e22ff277f88b973"
-    },
-    {
-      "id": "20260820-DP-2D2070B7-508",
-      "title": "부산고등법원 공고 제 2026 - 27 호 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-20T19:33:17+09:00",
-      "publishedAt": "2026-08-20T19:33:17+09:00",
-      "firstCollectedAt": "2026-08-20T20:03:16+09:00",
-      "updatedAt": "2026-09-03T15:23:48+09:00",
-      "summary": "부산고등법원 공고 제 2026 - 27 호 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "부산고등법원 공고 제 2026 - 27 호 - 대한민국 법원",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnRGX0c0Ymo4VlBnMVNSVmo2NGZqTlRxQWRQbE1qUUxGM3M4UFZrNmJCWE1IQll0SmluNTFEeTZWdnhOanlFWFlkN2QyVC1qcU91Q2pnZ0hXcFBCbVdTcUpWdnhkYTNFYmNyWm95bE5OcVVXdmVkR2dDMXFiRElkY2NscXcwOWoxRG82V3Nn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "부산고등법원 공고 제 2026 - 28 호 - 대한민국 법원",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWtMZl9SVkVFNWI4YWpLYXQzQVVrSGlpX0FWck14RGg4WnFxVVROSHJOVkxmbVdjVjBfM2prMFA0cG5TR2NHUkNmcnZaTk82Y1BtWE0wN28tMzdwOFlFajQwTFJlaTFwV3Q2SDhrUHJuNkUyUldJZlRZaGVNMzRhTjZVb3dyaEZQQ1U0QTZn?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-03T15:23:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2d2070b706e49bd023b8da0b9cf4602a15fc7abc6de1632fabf25ae8cbef43e2"
     },
     {
       "id": "20260903-DP-DA0C3C02-945",
