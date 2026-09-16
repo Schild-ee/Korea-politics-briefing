@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-17T01:42:12+09:00",
-    "nextScheduledUpdate": "2026-09-17T02:12:12+09:00",
+    "lastSuccessfulUpdate": "2026-09-17T04:58:14+09:00",
+    "nextScheduledUpdate": "2026-09-17T05:28:14+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-17T01:42:08+09:00",
-      "finishedAt": "2026-09-17T01:42:12+09:00",
+      "startedAt": "2026-09-17T04:58:11+09:00",
+      "finishedAt": "2026-09-17T04:58:14+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 62,
-      "duplicates": 74,
-      "rejected": 113,
+      "acceptedCandidates": 61,
+      "duplicates": 84,
+      "rejected": 115,
       "rejectedByDate": 111,
-      "rejectedByRelevance": 1,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 1,
-      "newIssues": 7,
-      "updatedIssues": 6,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260916-FR-4D7621CF-1416",
+      "title": "9/16(수) 한-중앙아시아 정상회의 개회사 | 연설문 | 대통령 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T23:28:02+09:00",
+      "publishedAt": "2026-09-16T23:28:02+09:00",
+      "firstCollectedAt": "2026-09-17T04:58:12+09:00",
+      "updatedAt": "2026-09-17T04:58:12+09:00",
+      "summary": "9/16(수) 한-중앙아시아 정상회의 개회사 | 연설문 | 대통령 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "9/16(수) 한-중앙아시아 정상회의 개회사 | 연설문 | 대통령 - 대한민국 청와대",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tSmU2VjV5Q3pOczZ1OGk2Y18wRUNKRHlzTDkyQmh3TDFfZ3V5WVhDT1BfdUd1anhKaE9aMHh5cGR1M1Foc1ktOXNjdUJINzZrMHZIS0ROODA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4d7621cf16de9823808facb38807dc823433467c1415e0799f3b020e970a1ec5"
+    },
     {
       "id": "20260916-FR-6DBC5154-1394",
       "title": "한-키르기스스탄 정상회담 결과 관련 성기홍 홍보소통수석 서면 브리핑 - 대한민국 정책브리핑",
