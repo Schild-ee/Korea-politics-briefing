@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-16T08:07:15+09:00",
-    "nextScheduledUpdate": "2026-09-16T08:37:15+09:00",
+    "lastSuccessfulUpdate": "2026-09-16T10:21:43+09:00",
+    "nextScheduledUpdate": "2026-09-16T10:51:43+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-16T08:07:11+09:00",
-      "finishedAt": "2026-09-16T08:07:15+09:00",
+      "startedAt": "2026-09-16T10:21:38+09:00",
+      "finishedAt": "2026-09-16T10:21:43+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 47,
-      "duplicates": 59,
-      "rejected": 138,
-      "rejectedByDate": 136,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 53,
+      "duplicates": 58,
+      "rejected": 128,
+      "rejectedByDate": 127,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
+      "newIssues": 12,
       "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,595 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260915-FR-ABFCBF8D-1367",
+      "title": "제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T21:15:07+09:00",
+      "publishedAt": "2026-09-15T21:15:07+09:00",
+      "firstCollectedAt": "2026-09-16T01:49:55+09:00",
+      "updatedAt": "2026-09-16T10:21:40+09:00",
+      "summary": "제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVZwQUZ3bDlncTRqc2VJcFh1bnIzRHhpR2JMdFJkbnRuTXpfcG4xbEtqdC1pM2o1YlN4enMtUW43U1VzY2NTdTN3MlNEWi1VYWhnampzb2VFd2ozWWp0YTFiaE5MM2lJTEFjX2p3Z0d1VUdIcnd2R3Z3WnBPRkVaZjJwdmYtY2FOT3QzQVkzc2hfdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(참고자료)제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFBITHBkMWdiZDJMc3BEQ3VRaDhNcEx6eTl4SlRzeGdpNVBmVnlONFI2Zkt6TzVmT0l0aUFvLXFveWpUNmVNTnduUy1zOVN0U3VMb3p5dFJ4QnNDaXZBVktZcVh1VlR0Z0FmRkN6a0lSZHFuNlhHSzR3VUR0QVNSYnlRQ0xYZWZlUThOUWRpZXdSUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-16T10:21:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "abfcbf8d3aebaed5269a2839e0f58f04fdd1c54551868b050c7b6efcba4bb8d4"
+    },
+    {
+      "id": "20260914-FR-2AFBB261-1317",
+      "title": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "재외국민",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T15:42:32+09:00",
+      "publishedAt": "2026-09-14T15:42:32+09:00",
+      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
+      "updatedAt": "2026-09-16T10:21:40+09:00",
+      "summary": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODdZUERZczlna1lFSUQxTDhOWXk1OGljckwzRllPSkFwZzR2bWNualk3RFo3ckVWMGhrRUl1SUNZSmdxZFg1ZnRDSGpnTVNTS3hHZGN5VDd3QW43eVJGSU90aFF2YThUMW5heEFhVmNtQklyaHFSRlI0Y1E1NXRmemZyQUQ4eUlBa3NpdTFLSElJdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZUxqOGxVMjJRLTBRRzJlX2pIdlVZOXc1RGJPU1VieWxLdm01SmpabkhsbGNIODdQTVVWWG9uZkcyWlV1a2JjeUxDd0UtY0pCS2o0QnhsQk80TENjX1pNR0lTTUM1NEFwOWRBbUxUbFdPNGxwdktsdG5oN1ZiTUJUWERBbm1SRC03TDVrUnMxX1VIZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-16T10:21:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2afbb261aa254f95e65c2ff3deea0136cee745684ff0c86b57a4299f66fef9a8"
+    },
+    {
+      "id": "20260916-FR-94FE1D5B-1379",
+      "title": "한·카자흐스탄 정상회담 확대 회담 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T09:23:55+09:00",
+      "publishedAt": "2026-09-16T09:23:55+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:40+09:00",
+      "updatedAt": "2026-09-16T10:21:40+09:00",
+      "summary": "한·카자흐스탄 정상회담 확대 회담 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·카자흐스탄 정상회담 확대 회담 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpN0I2TjNmVXl2SFpaUURlaElBeFRPaU5KbDVvaTZSamgzZkVDVzNLc0ZYUXhIcVNjRnN2azc5blBDWDlCYTYwOVY5bjVDOWpaMlMzNUlqVDY3cHdwZjNmQkc3NkxicnVVemdaS2JrakJfN2MxcERES2l3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "94fe1d5be062a7186af905ba4731f4a1c958cd1444535f7084240098bf374469"
+    },
+    {
+      "id": "20260916-FR-54AD44F5-1380",
+      "title": "한·투르크메니스탄 협정·양해각서 체결식 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T09:45:00+09:00",
+      "publishedAt": "2026-09-16T09:45:00+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:40+09:00",
+      "updatedAt": "2026-09-16T10:21:40+09:00",
+      "summary": "한·투르크메니스탄 협정·양해각서 체결식 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한·투르크메니스탄 협정·양해각서 체결식 - 대한민국 청와대",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pd09WbnBPM25wMkN6cnlnTGNuRlFaeE9HdU56RzZhanJ2WkJtcFNSVkZiUUotVUdLeEFwa2d2eDhYUGVjTXhSbXVLaGZtZDdsdzR3S1lKQ3E3U2JqSjRLMWVKMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "54ad44f5030c619b8869a54b7a9477d94aca0a63da79811c731a46ad86cf14bf"
+    },
+    {
+      "id": "20260916-FR-054F50CC-1381",
+      "title": "\"원칙 지키는 사람이 불편하지 않게...\" 재외동포청, 청렴한 조직문화 만든다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T08:47:37+09:00",
+      "publishedAt": "2026-09-16T08:47:37+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:40+09:00",
+      "updatedAt": "2026-09-16T10:21:40+09:00",
+      "summary": "\"원칙 지키는 사람이 불편하지 않게...\" 재외동포청, 청렴한 조직문화 만든다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"원칙 지키는 사람이 불편하지 않게...\" 재외동포청, 청렴한 조직문화 만든다 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0dpY3luUl9yZDBnY0JzbkRtVWs1MHVlV3Z3amtmcFl0OFgzU2tEUW12dFRtLUE2Mm93YlQzUHM1TnRaMndpVVBKa1YwT29KSGFfbURSVlVnWEFmOHBJSDEyZ0ZrcTVlWGJSenBTQnlaT2ZhZUlFQ1lZZndMYmxUMnlramdEekpiMkQ2VkY4bzVjdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "054f50cc301b8ea5426b1a341cc6bc804ea699e04f538cd7532bef8f1e54784e"
+    },
+    {
+      "id": "20260916-FR-0DEA760E-1382",
+      "title": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T09:23:55+09:00",
+      "publishedAt": "2026-09-16T09:23:55+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:40+09:00",
+      "updatedAt": "2026-09-16T10:21:40+09:00",
+      "summary": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZblphMHp0R0dIakFQazR3RndMaGJpR3cyQzcwdzVWeEMtWjJuOEFIWkloR0hmZXl1SjA3b3RLUkhBQ3kwcU5uMDdaeUdhM3V5NUNlbm92eTBjeHhaUGFhZUZlemJRbHhwaUJ4d3VfV1pGcE82MWhtWUtR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0dea760e6abc0aff8130163d44dfbcb01f89ac2a95999a914324b6ec2e5961e9"
+    },
+    {
+      "id": "20260916-FR-17B436AD-1383",
+      "title": "17년 만에 양국 관계 격상 협력 고도화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T10:13:18+09:00",
+      "publishedAt": "2026-09-16T10:13:18+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:40+09:00",
+      "updatedAt": "2026-09-16T10:21:40+09:00",
+      "summary": "17년 만에 양국 관계 격상 협력 고도화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "17년 만에 양국 관계 격상 협력 고도화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BZXg2eG9LYmhhbDltTmdHUlkwSjZNc1Vab0dWeDNMd1cwT3FQY3hWWEZPVmVOaTJ4eXpSQ0FEVmV4ODF3NDNBQ2VCQVk5bldTc1RUcWZRVmNpaklpNUZ6cS1UTzdXVUY5LVdudjl3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "17b436addfea28b4f77be815387b3d93b4c88cea6059f9e7f0dc3127167bd9fb"
+    },
+    {
+      "id": "20260915-DP-C785B437-1372",
+      "title": "에볼라바이러스병 국내 유입 대비 2026년 보건복지부·질병관리청 안전한국훈련 실시 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T16:15:00+09:00",
+      "publishedAt": "2026-09-15T16:15:00+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:39+09:00",
+      "updatedAt": "2026-09-16T10:21:39+09:00",
+      "summary": "에볼라바이러스병 국내 유입 대비 2026년 보건복지부·질병관리청 안전한국훈련 실시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "에볼라바이러스병 국내 유입 대비 2026년 보건복지부·질병관리청 안전한국훈련 실시 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uT2Jqb01FdlEtdVpCQmkxLTZreFVMR0c0b0RmNlFPWXZEVi1LZTdMQ29EQnM5aEZ3SV85VXhUUk1hdnZMTy1PYTlMMDRSMy1vMFNrLUs4dkpEcVI4NGZaa3dWd29KeGdFTFV3aEx6OWVVY3gwTGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c785b4371616331eb7c0004f45c0e3963a20cdb2699f9d302e4235ed46042bf6"
+    },
+    {
+      "id": "20260915-DP-9E87530F-1373",
+      "title": "'2026 여행가는 가을' 개막…\"교통·숙박 할인받고 지역으로\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T23:00:01+09:00",
+      "publishedAt": "2026-09-15T23:00:01+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:39+09:00",
+      "updatedAt": "2026-09-16T10:21:39+09:00",
+      "summary": "'2026 여행가는 가을' 개막…\"교통·숙박 할인받고 지역으로\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'2026 여행가는 가을' 개막…\"교통·숙박 할인받고 지역으로\" - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMWc3cUxiQVEyR214R0Q4cGpwcWZyUjRQTklaLWZwRm14aWhKUGZvakZNU1ZHdE9URi1DaWVFZHZsY3d6cVhaeTBRcFlTZlZZR0tIMGJHNXRIbFZ0NXMwNWNQZjZXUzBVR1l0SA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9e87530f79950e402e2e02b25365df611bd87e58984695342cce7ebd16cd036a"
+    },
+    {
+      "id": "20260915-DP-31E60FBB-1374",
+      "title": "대한항공-아시아나 마일리지 통합방안 최종 승인 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T13:59:38+09:00",
+      "publishedAt": "2026-09-15T13:59:38+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:39+09:00",
+      "updatedAt": "2026-09-16T10:21:39+09:00",
+      "summary": "대한항공-아시아나 마일리지 통합방안 최종 승인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대한항공-아시아나 마일리지 통합방안 최종 승인 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MSC1fTV9CX1B1bkhUUW5TclFrWkpiQ2lIWlhtRE9iX0xrNVdrQjVwZHdNWG1DM0FaXzVMRHgyQmRldHZTZ1AtTlBVMkRfY0YxdXN4NkZFOW1STnZoYy1QSGFJUWlSU1lRTmM1UUR3UGt3ODIxaEJz?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "31e60fbbd498a6da8e90a35abcad82a8034c1707ce55a81b14df3cf833f35641"
+    },
+    {
+      "id": "20260915-DP-7463AA20-1375",
+      "title": "한국수자원조사기술원 임원(원장) 모집공고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T11:10:16+09:00",
+      "publishedAt": "2026-09-15T11:10:16+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:39+09:00",
+      "updatedAt": "2026-09-16T10:21:39+09:00",
+      "summary": "한국수자원조사기술원 임원(원장) 모집공고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국수자원조사기술원 임원(원장) 모집공고 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHZlcGdqMEdoRnE0NzFmWTMzNUpUZEQzbHVlN0JhZWZpNTQyUjZvS1hVajFBQk5aQkh6QXdSdDVSNGdfLTEzLV9mc1o0VTBQRU9VVzlwUjUwTE0tUDNkdHE3X2Vfc3ZNM1BwT1JpYTBJX1JIamY1ZGdfWlUxSkhDZjFqUjZCTVhodms1QTJn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7463aa20b2c1a7d8503ead5f3447113fb271a8b3351f4a46d98c1813ac01e90e"
+    },
+    {
+      "id": "20260915-DP-C4B48713-1376",
+      "title": "\"휴대전화 요금 25% 추가 할인\" 거짓광고 주의 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T15:54:00+09:00",
+      "publishedAt": "2026-09-15T15:54:00+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:39+09:00",
+      "updatedAt": "2026-09-16T10:21:39+09:00",
+      "summary": "\"휴대전화 요금 25% 추가 할인\" 거짓광고 주의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"휴대전화 요금 25% 추가 할인\" 거짓광고 주의 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRktvN2dlWXBDZW5YRHBxM01FWFBOYlpOSC1RWVBlVGJhWjNzSk1XUThmVjdlZ25hMnNjQWV3VXp5LUlUdzYwd1hVazk5Z2l1NEF1blVDa3g0bDhvS1NLNmY3ZWg3S2RXNTN2UHAwWVc2cWl6TjdLbElOMllyZTBhRWUzUDZZUjdGckQ2S3lyZUpzem1WSHVYQUFPN1BYZEw3MDVZRC1JUDFBOFRZUFB2eG1sQVlMeVFDTFFjS05QaUlQRTVKMWRJOFJWMTg4ZkFRNk05VlVXeVRnZl9Rck1TRHRqTmcyNmt5Y2VqRlh0WQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c4b48713ae938adab81c81dc8ee902c33085a18e1cd6934a54ff0d55426b3866"
+    },
+    {
+      "id": "20260915-DP-FC03FE99-1377",
+      "title": "노동부, 하반기 포괄임금 오남용 기획감독 실시…'공짜노동' 근절 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T16:01:48+09:00",
+      "publishedAt": "2026-09-15T16:01:48+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:39+09:00",
+      "updatedAt": "2026-09-16T10:21:39+09:00",
+      "summary": "노동부, 하반기 포괄임금 오남용 기획감독 실시…'공짜노동' 근절 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "노동부, 하반기 포괄임금 오남용 기획감독 실시…'공짜노동' 근절 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Vb0o4cnpJUHJfMk1IZ3hJRTYxUGRyYU1NOW9veXJrNW5hSGJwdWJaTnBvTVRFenZwNDZqOFJzMVE5Q0UwazQ3M1lDRTM1WXJFaEtmMGl5b2U2NW9pcURfdVphZGtTZGhZVWtTdg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fc03fe99da8b77a85a5545fcac0be50cea3e919b058d16e60b0d6f50878520e3"
+    },
+    {
+      "id": "20260914-DP-69AE118A-1378",
+      "title": "K-스마트팜, 동남아·중국 수출시장 넓힌다! 2026 동남아·중국 K-스마트팜 로드쇼 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [
+        "중국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-14T06:00:00+09:00",
+      "publishedAt": "2026-09-14T06:00:00+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:39+09:00",
+      "updatedAt": "2026-09-16T10:21:39+09:00",
+      "summary": "K-스마트팜, 동남아·중국 수출시장 넓힌다! 2026 동남아·중국 K-스마트팜 로드쇼 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "K-스마트팜, 동남아·중국 수출시장 넓힌다! 2026 동남아·중국 K-스마트팜 로드쇼 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-14",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDd0YVJ4aldTU3VZa1hDV2NHc0ZzVHlBb2cxazhPNHJnT3gxQlBZX25ZVmhSY2Q5VEllTHNLV2F1NkpPTlozLS15YllRY1VHLW5jR0FlaVhzVDlRM2hLQkZVbnFFdUZDaEVzWU9EQm85T1AyMzdvSmZBa2ktYml4RzBTMGMxU09VTkc5WHVQRmcxT3puLU1sV0djQ2RLZWtqUURBR1h2X19FREtUeExEaGJTR1dUQUNqX3RrekZqYW1Tb1U0RVY5dEF5ZzNqZEJlMUxaTXFGbmRkVXczUm90SFhoMnE5QlVsSHB1Wk1zTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "69ae118a392912e693ec31b76b2fff1fe9156dcbe81a814461a09239e0ce8b32"
+    },
     {
       "id": "20260915-FR-2B01D279-1354",
       "title": "한-투르크메니스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 - 대한민국 정책브리핑",
@@ -468,46 +1057,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "cd8c7b206fdfd576a2e2b940e86dcc61a51740f6ee677427a5766c1f8a069565"
-    },
-    {
-      "id": "20260915-FR-ABFCBF8D-1367",
-      "title": "제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-15T21:15:07+09:00",
-      "publishedAt": "2026-09-15T21:15:07+09:00",
-      "firstCollectedAt": "2026-09-16T01:49:55+09:00",
-      "updatedAt": "2026-09-16T01:49:55+09:00",
-      "summary": "제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUVZwQUZ3bDlncTRqc2VJcFh1bnIzRHhpR2JMdFJkbnRuTXpfcG4xbEtqdC1pM2o1YlN4enMtUW43U1VzY2NTdTN3MlNEWi1VYWhnampzb2VFd2ozWWp0YTFiaE5MM2lJTEFjX2p3Z0d1VUdIcnd2R3Z3WnBPRkVaZjJwdmYtY2FOT3QzQVkzc2hfdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "abfcbf8d3aebaed5269a2839e0f58f04fdd1c54551868b050c7b6efcba4bb8d4"
     },
     {
       "id": "20260915-FR-20DEFC1C-1368",
@@ -3244,47 +3793,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4d3280811b44ab2c89c7217b548249b691a1a0c410629322048f5718c80254a7"
-    },
-    {
-      "id": "20260914-FR-2AFBB261-1317",
-      "title": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "재외국민",
-      "countries": [],
-      "institutions": [
-        "외교부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-14T15:42:32+09:00",
-      "publishedAt": "2026-09-14T15:42:32+09:00",
-      "firstCollectedAt": "2026-09-14T22:52:05+09:00",
-      "updatedAt": "2026-09-14T22:52:05+09:00",
-      "summary": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부-카카오, 재외국민을 위한 재외공관 주요 정보 제공 협력 추진 - 대한민국 정책브리핑",
-          "date": "2026-09-14",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODdZUERZczlna1lFSUQxTDhOWXk1OGljckwzRllPSkFwZzR2bWNualk3RFo3ckVWMGhrRUl1SUNZSmdxZFg1ZnRDSGpnTVNTS3hHZGN5VDd3QW43eVJGSU90aFF2YThUMW5heEFhVmNtQklyaHFSRlI0Y1E1NXRmemZyQUQ4eUlBa3NpdTFLSElJdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2afbb261aa254f95e65c2ff3deea0136cee745684ff0c86b57a4299f66fef9a8"
     },
     {
       "id": "20260914-FR-B70120F8-1318",
