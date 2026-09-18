@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-18T10:12:29+09:00",
-    "nextScheduledUpdate": "2026-09-18T10:42:29+09:00",
+    "lastSuccessfulUpdate": "2026-09-18T15:31:31+09:00",
+    "nextScheduledUpdate": "2026-09-18T16:01:31+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-18T10:12:26+09:00",
-      "finishedAt": "2026-09-18T10:12:29+09:00",
+      "startedAt": "2026-09-18T15:31:27+09:00",
+      "finishedAt": "2026-09-18T15:31:31+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 53,
-      "duplicates": 74,
-      "rejected": 123,
-      "rejectedByDate": 119,
+      "acceptedCandidates": 59,
+      "duplicates": 68,
+      "rejected": 119,
+      "rejectedByDate": 115,
       "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 2,
+      "newIssues": 8,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,700 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260917-FR-1CC01648-1454",
+      "title": "이 대통령, IEA 사무총장 접견…에너지 안보·협력 방향 논의 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T17:31:13+09:00",
+      "publishedAt": "2026-09-17T17:31:13+09:00",
+      "firstCollectedAt": "2026-09-17T21:00:08+09:00",
+      "updatedAt": "2026-09-18T15:31:28+09:00",
+      "summary": "이 대통령, IEA 사무총장 접견…에너지 안보·협력 방향 논의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, IEA 사무총장 접견…에너지 안보·협력 방향 논의 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0djY0OEFHMlM4eUplcXh5ZDhZcWYtNVFIelNEZlpCY0lpN1N3cmh4UEQwek1uVm9iSWFlSXRSN0JTN2Rob2oxNWtBQm1sTXRNM1FtUUo2aHQ4eV9Rb1l2SUgtcFNnMGR1bzdILQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, IEA 사무총장 접견…에너지 안보·협력 방향 논의 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFU4LTJLZW1JUlZsOXEtOGVIcEtrcXZsX2VGaUU0X0M2U01xLWdxVUQ5dmtPSGN1c2d1VGlGblNTUDh0cmZTMUhxam9GdlhoZDRRczhza0oxZWM2MEN1bV8tT0dGdWJIZVZHU3V1THdackh6OTBnLTE1Ti1zVldsdkVoSEJHcXlkQmc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-18T15:31:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1cc016485a0b04c294daf848c036955afb853278aaec92ea3a4e96f2200f0f69"
+    },
+    {
+      "id": "20260917-FR-C8860D4D-1455",
+      "title": "기후부-국제에너지기구(IEA), 아시아 기후위기·에너지 안보 동시 해결 나선다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T15:30:00+09:00",
+      "publishedAt": "2026-09-17T15:30:00+09:00",
+      "firstCollectedAt": "2026-09-17T21:00:08+09:00",
+      "updatedAt": "2026-09-18T15:31:28+09:00",
+      "summary": "기후부-국제에너지기구(IEA), 아시아 기후위기·에너지 안보 동시 해결 나선다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후부-국제에너지기구(IEA), 아시아 기후위기·에너지 안보 동시 해결 나선다 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVlfWm50UmV1X2o1b2ZmMTB3QWNHeWo2T25aVl9zVGZpRlktTXpuS09zalVtbi1qWlJaREY3eU9JR1lGalFZN2Q5bU1kSWFmc1JPQVI5MjViNzY4bW9EeC1lU2ZMRjBwTldKSXpQX1pWU1BVUDJWdXotRWUxUzNTdkNZbi03V3ZIelZZLXVXNTZ1UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후부-국제에너지기구(IEA), 아시아 기후위기·에너지 안보 동시 해결 나선다 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KZjZSRTdvOElscmEwRWdjVTJHdEJ2SjhjRnFKcnVBbmNDUW5pVlZ1WEJMS3RwWXV5QkhOTGtsM1hDOG56TWF2TUJEcGRWNnFiOUNKUm13R3ZJbkVOU0RsWFRoX1M3bGhzTzRsX2ZIakVvT3VT?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-18T15:31:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c8860d4db07f47aa98de685d3ada7d175b6d5acc3340521d64d780392e2dfbab"
+    },
+    {
+      "id": "20260916-FR-0DEA760E-1382",
+      "title": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T09:23:55+09:00",
+      "publishedAt": "2026-09-16T09:23:55+09:00",
+      "firstCollectedAt": "2026-09-16T10:21:40+09:00",
+      "updatedAt": "2026-09-18T15:31:28+09:00",
+      "summary": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZblphMHp0R0dIakFQazR3RndMaGJpR3cyQzcwdzVWeEMtWjJuOEFIWkloR0hmZXl1SjA3b3RLUkhBQ3kwcU5uMDdaeUdhM3V5NUNlbm92eTBjeHhaUGFhZUZlemJRbHhwaUJ4d3VfV1pGcE82MWhtWUtR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·우즈베키스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4td1RNYWxFX3d6djhPSjhpUVl1YWR2R2FRM3F0Rzl3WjV0cXVQYl9VMUEtNzk3OGhJcjktUnFWdjliOVVkVHhKZ0N0c243TVozYmxSOFdVeEpsQXpOTUpYcXMxVm1aX2xudGdHeDI2aVJYcDdWTFFnU3ln?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·우즈베키스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEc2s1SjVVZjZkb0M3N2plYnIzdmZCd2dvVFoya3lPTzU5WVRCeHJYTUNIeU1UU29qLWxJeEQzMUJ2YW5oQUJSLWhUeWhmMjF6N3BCY3RrT2NYUnJrbWZFaFVMWlNmTE84VVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VbGs4d2t1TFNmcGxVT3RIYlhmUGJHOXFkRGFYOER6UnZOQjEzbExwZFZ4bTgtcTV0MHgyalp2U2ZSR3doeDgwZHVwRS0tTGI5SGNveG9iU3lrSkFLSDQ4QUdzMW9mYmpodmc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-16T15:37:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-17T01:42:09+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-18T15:31:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0dea760e6abc0aff8130163d44dfbcb01f89ac2a95999a914324b6ec2e5961e9"
+    },
+    {
+      "id": "20260918-FR-02CE0DFF-1467",
+      "title": "2026년 제1차 한-중앙아시아 정상회의 개최 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T13:34:06+09:00",
+      "publishedAt": "2026-09-18T13:34:06+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:28+09:00",
+      "updatedAt": "2026-09-18T15:31:28+09:00",
+      "summary": "2026년 제1차 한-중앙아시아 정상회의 개최 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제1차 한-중앙아시아 정상회의 개최 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwUEpiam9SVVFBaW55VVQ4RVRlZTVDWEhtdTdOYnZTQUdYQU1qNkxrTW96WVB1bzNfc3JRSFVzQkRaVXYzdllOZnRLaDVodkFhbW1WVl9FZWk0V0dSejFXc2UwUFFOUFFvMlgwdUNn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "02ce0dff115cb67afd89828757eeab0d844cef4fef863cbe716f7e9d2a5db48a"
+    },
+    {
+      "id": "20260918-FR-AB4419C8-1468",
+      "title": "2박 3일 한·중앙아시아 정상회의 재명로그 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T11:50:44+09:00",
+      "publishedAt": "2026-09-18T11:50:44+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:28+09:00",
+      "updatedAt": "2026-09-18T15:31:28+09:00",
+      "summary": "2박 3일 한·중앙아시아 정상회의 재명로그 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2박 3일 한·중앙아시아 정상회의 재명로그 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lTUt4MEl2VmlTS0V0MkRwZmZ1d1BfdGJJWEM0MUd4M3Q0WFBNZHZJXzhPZVlEdEZiVWpXMUQ2eDJlemZldWtDNzhBRmVJMktwVWJhaEYxT0pLenRkaDdEZlBLRzhfTHVLVGRrVw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ab4419c80371099675cab2a71635f40eb097ffce344b9cd7dd59a4bb3e5b3d8f"
+    },
+    {
+      "id": "20260916-FR-7B7C11EB-1469",
+      "title": "한·카자흐스탄 협정·양해각서 체결식 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T02:16:56+09:00",
+      "publishedAt": "2026-09-16T02:16:56+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:28+09:00",
+      "updatedAt": "2026-09-18T15:31:28+09:00",
+      "summary": "한·카자흐스탄 협정·양해각서 체결식 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한·카자흐스탄 협정·양해각서 체결식 - 대한민국 청와대",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qLUhZV3F5ZG5KNnNwTW0yNkRkOGkxaUxfSUZnUkFVRE8wRFA1ZkFRcGYybGlQZTBGa0RvYjVmYnFfTVFpZ0JITGJSR2dBTXZ5ckI4cmhEZU55VWZyUzVSamF2bw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7b7c11eba5bdaa10e8c24a4c7036e771753f88115abff43a4cc9efb3b90b0e86"
+    },
+    {
+      "id": "20260916-FR-1D72BEDE-1470",
+      "title": "한·카자흐스탄 정상회담 확대 회담 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-16T02:16:55+09:00",
+      "publishedAt": "2026-09-16T02:16:55+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:28+09:00",
+      "updatedAt": "2026-09-18T15:31:28+09:00",
+      "summary": "한·카자흐스탄 정상회담 확대 회담 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한·카자흐스탄 정상회담 확대 회담 - 대한민국 청와대",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kMXUzV0dPdzhyeTVPVThpeVFWUnRaZnhUSlcxTTgyQ1lSbF9SVVBrRjFUbXdQZUFpU25OaW4wYktNX0xiYWswSDhXa0JZY1kxX1FHV2VSbkp0RllBNkFqQ0UxVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1d72bedeec6fc44fe438fc7a183d2de877e9b6b09c57949b5e413c9cc25ce777"
+    },
+    {
+      "id": "20260820-DP-44D45057-481",
+      "title": "우리법원 주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-20T11:18:31+09:00",
+      "publishedAt": "2026-08-20T11:18:31+09:00",
+      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
+      "updatedAt": "2026-09-18T15:31:27+09:00",
+      "summary": "우리법원 주요판결 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNblJFZXlLbEJmNlBpdi1qVjhYX1YyWTNLd3MtbU83YjNEcHFhMnRjYTd1ZGZ5VkUteFJrYWVsUjZRdVZjZ2dGR292a01OTUR1ZUlYcVBNZEMxbDRqS2ZOeWxBbHByeU5lYVdudjNHQkRJUGw0MkQtdHFsOHRvYkowelNEUjFndlZPUWdhMlFsc1N6bXhYSVZ1VEQwa2pwM1lnX3JzOFhEam9rYU4zbUZPd1dLWTZFUE0xYk1JMURabXAwejdZUWZqeHdxWENUMktVeGRKOG9GSVdTMnYyWEQ2YldIUkZMaWx6QmZxYXFvNmFJSHhNTGNKT29rcTVYMWdnX3J3d1Z3NGNPVWJlYy1MMU9Qbw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRF9COV9vS19kLVh4YUxmbmNwRFdPMUtDVllrVC1WZ1cwcWEwd3F0TnFXSWJ1WDhYd3RvU2ZqUWE0V2FLVE8xNWI2YUFoSVV3bzUxc2pyNEE2SVJxaEdselg0c3VWbW1OUkFiWXkzOWtTVmVEYXhocC1lLWNxMEdLOExYcEl1LVNWdUJtajh0ZFprai1zZU1FSWRObi1XZnJmNF84ZTA5cWRzemlQQ0Z0SHFVZ1p1OUdteTVkVlBzaGxkNGdCbDRXRTJ2U3pNOUIybWgzTm5LaDcwT0t3dGZQUTZhVjh6NVpNZGxNOGVOc3ppN2FWd3lYbGtYNUJBSjROU0V0NzZqZ2l3c21yU09LQ1Nn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaHl6ZF8tWFBTUmY4UzFJdndFZjg0VlRfVnB2OVRFUGhpaWMwcFpLUFc2cnRXdFBBRFhRWk5ocDhYZXdkLWx4clpIS19BRk52SVNISG1tT3VvODVlV3pRRHQ1MDMzT2ZHTDFyaWlUQ2tCc1laOVFKOW1EbGpvZS1IenR6NmpkZUhwT2h5aHpWMnM5YzJvaDZvTFhQei1lM2pHaFR0eGQyVUdQekJ5Z20wVkdwdEo4RDNmLVRxcm9UT3EyUnU1aGliQ2Uyb1hwN2RPd0hfTHJwUnNfcGMwdlE1U3lVb2lhYXN1YTByS2RlYUFtd2lVcDZ4T1VJWXQ0eTBzQ3ZIdVJpYTFsV210djRJQlBn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPemJQb3NidFNjRF8ycFA5Qk1NTElkT2hpODBRRENod0tnWWI2S1ZDYklFak1GWF9PXzd2T0FoTTJwM0FGdXdMZzRNdUdQLW10cXkwT2RXRkFNWExuNFFDSVdURXhwMjVjRUV4T1FRMDFxNUotUzFTSGIxejNjalhUYkdLcnVnelJKUFFKS0pQaGt5c3A5eURZa0lnQjBqOVoyd2tIX3pIZnMwYWpWQ3JLcng3VWk2ZnBOR0RPMnhOc0J0WmFtWGRRUWM4dVRNajlBWXljVGl2WkU5dm0tUzE0UVVFY050ZGgzRDhOZ1NzbWpGUHhOTmtRWFRmb2duUjRpSU1mQ1VoQUZwRTlkd0NVeTZB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUEpuVE0wMUR6RkdpRnF1QXVqNHpnclcyWmpGUG1DVW1zbV85blVGa2NZTXBvZDZLZktwQS0yQmE1NUdIWGN3ZG9zckExY2lQcXZzRVNvWFZiRFFwM2pqa3BtcHNkTi1TeHhIazEzYjlHMVFrdWZFME9DNWszQlJhRlV3Y3JQSkJuWXZwN1owVkwxMDZMeklMSHZPeG1hWFZHYklPSTZwcU1MUk82VEt4Q3FYMGhoUW1VbTFfdjJQU0VZcG1GcHFsMHJqaGVCWmN4YnNPYzR0cXNZZW80dk5GaGs3ZWNKV3dXcy1HNThWUzVKWVo0MW9fYXVPa2c3ekkzdk9xSWM3VFRMeU81LW9GYzN3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOY1FuOV9jY1hYRjVabkZtYk5BcUdvN05ramlCMWNqbGtRSVNLZnhFeXpQV0dUbjNjcmNaT0IybUEyUWE4bS1NUmRhOFpEakVlOEFJZHFBOHRwMG53cDhFcG9URlRvUzBUamtmOWtYbkpSU2N2c1AwR3lBaHNrOHllUC00U0Q1dkhNS0pBUGxyTDl0ZFZ6eGlWa0d4VHZhRG8taWNyRlZnM0RBdFBHdVhwZi14LTVJS2pITTBsM0ZGMkVHamxOSmcyamFPeWNWSURwa0xvRGZUZmxleTRxY3NXY3NLMlB4QlBQN3o4S0Y1UVJSSkJzUXNOUGdUbXh6QkdadUgxbi1lN2VKSV9DbnVyUk5n?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNC16R1Z0NXVsdTc4QmxNbUZaVjQ2S0hnMU9Dd0pFU3BtMDg0TGJJdGJRMFotb3NaVkVvbmtSX0VTaUZpQUdBTV9NOGxJYjM4T2dQUkR2YjlHRk1sT0lac0pSN1JtUDJYVWhkcmtlWC1sQkJBX3VfTG5nT2JCdDR3YXgyOTBaZ3F3TUxlanBYM2xWaUEwZk1nX3Q0WlF2LXJKQTlkSGh4enl6V2JmSElEeXpEWUxtejdlZW1xaWc2UEpIUWRONUFMcUlXMDY1eFc2dTd2dEJTRTRBZTJLR3Q3aXgxSUEzNkFDSFo5TjR4VzJybzZUNjBCTHJaaXF3Q1QtRVZ6Y3J1cmIzVkJDMGlfOE9n?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZnpJN0NSUDI3Q2FFV1dPTmxRMDltYS1IRU9rbEg3UEtWOWUwQzJSTFV3MW9obG5JVHg5ZWxxZzUzZ1U0RzRxUkNjcEo5VjVCb25QclAzTDZLeEtPZDF5d1ZEaGNyOFJ1X0VTUGZDYUM1a1NRNWNWbmVjMDNSSzFIaWRXVzRybUp2WUNzMC01UGR3S3JCaTBZSTBDbHRoekRIZHl2Y1RCOWhoTjNrazNkeFd5YVpySUNZTFVsaV9nRUJUdDlSZkRYbDZ1MDZYcDZwOU4zc2FqcWg3ZHMtLXFqSFZoZGhRZmNzY21YODF2cjV6YkFETUp3bk9rMWszeFpIZ1FkdUtiMWsxSnNSZlF6ZTZ3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQT3JoMlpqS1VjVHY2MDhnMXdVRG5ITlBja0VUbzFzZ3Y4eGRLYkN1U0QtSnRKcG9fN3RrWVNhOEJFbzUyNGRPaWdHNUVMNnFxVERidzl5S1RuNmlHdlZKenF2MkRhWkhycHZPN0k3WEF2bjEwM2ZkR3FnUmJtcVFpbHFGQzJTR1JEdWR2Mk9SWU1lNUgyM1ExbUhRRUZsSHdLQnZqb1ZadzhibE5WcW5yaWliUnNRNmZhRnBDMEZkSmVxQVAtV3pycVhRSEdmSTBRdzdZZ3ZMNkhwaE13dUxPMmlNaFIxdVVmU25xSUF3bVJnZkVBNWx5QVhhbE1wOHNLX2ZnNUlzYW9SaWJhRzZ3ZzhR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-21T14:08:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-28T09:57:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-31T22:29:47+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-08T13:21:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-08T18:01:11+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-09-08T22:29:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-09-17T21:00:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        },
+        {
+          "updatedAt": "2026-09-18T15:31:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 8
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "44d450578e14261071708d8626772c62ea0b6b3df4694d4946134d067180240d"
+    },
+    {
+      "id": "20260917-DP-219BD9AE-1451",
+      "title": "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T16:10:30+09:00",
+      "publishedAt": "2026-09-17T16:10:30+09:00",
+      "firstCollectedAt": "2026-09-17T21:00:07+09:00",
+      "updatedAt": "2026-09-18T15:31:27+09:00",
+      "summary": "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tZjdPa0JJaXBYVzMyVTdJMC13MFBYUFpUNTFJZ0lwU1ZqTTctMEtJM1dvYkVuZ2FuM1pSelhtZzk0TVhvQXpwMU5oaDd4cTRSR1hCZWZpdHZGYXY3bXZDMkdEOFl3TVBwUkhycw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSXNrVGdoV3lUNGh3S3MyN1U5Z3Jwd3NpenYzMHlCWUxNMmp5ZU5XQVhaOGRRN3QzODd3TDlzVV9NejFBR1VEZGppZjRsLUVHekw5SG5QUjk1UzgzS1VPYURBMVhURWcwNWNINjNNMXNLU29rbjhGM3o1aFh6WE83eFliUThOd2hudjA3VzBvZkhYUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-18T15:31:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "219bd9ae469477ab7e95b7b6033c2b3d19dcdb9508e6b660ef128727675eaaea"
+    },
+    {
+      "id": "20260918-DP-A61F0D61-1463",
+      "title": "한국장애인개발원 김정열 신임 원장 임명 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T10:05:11+09:00",
+      "publishedAt": "2026-09-18T10:05:11+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:27+09:00",
+      "updatedAt": "2026-09-18T15:31:27+09:00",
+      "summary": "한국장애인개발원 김정열 신임 원장 임명 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국장애인개발원 김정열 신임 원장 임명 - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeWoyaEwyVmxtUC1jZ3U4QTdNcHlGUzdoZFM3M2hZZEFYeHV6RWo0WVRYM3A4YThoNlNaWkM0RWh2LTFYZkN3RGFWamtPdjBGdXczT0tMRU11WmJvSTBKR2VtdjBLSHI5T2xxVk5JTFFBNElkaGFHbmUyRFptUXVPVno2MFNoYWFndllBTzlTeUo3UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a61f0d61111236a246f90a869094164973105283c0bc3ded039cd2a454253dcb"
+    },
+    {
+      "id": "20260917-DP-49D97DA7-1464",
+      "title": "아동·청소년대상 성범죄 사건 '전건 송치' 법안 국회 본회의 통과 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T00:00:00+09:00",
+      "publishedAt": "2026-09-17T00:00:00+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:27+09:00",
+      "updatedAt": "2026-09-18T15:31:27+09:00",
+      "summary": "아동·청소년대상 성범죄 사건 '전건 송치' 법안 국회 본회의 통과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아동·청소년대상 성범죄 사건 '전건 송치' 법안 국회 본회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmWGluamgwMWNwVnJiZmNLQ3d6ZlJfN2FoZmQyTWNDb0FBSTVjSS1lZHN1U1pRX1kzckR4VmxPaHVZakktWG5yQ2xSMXR4QVRFNjNfS2FrVVlzdS1KRmdYMXloQlZfbjFwN09QNEhoMm1jY28x?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "49d97da74700fa3b46545c1e6fef177d4178ee82b7b74b3574d09fad57a9750b"
+    },
+    {
+      "id": "20260918-DP-CA6B6A15-1465",
+      "title": "개인정보 보호책임자, 책임 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T11:53:51+09:00",
+      "publishedAt": "2026-09-18T11:53:51+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:27+09:00",
+      "updatedAt": "2026-09-18T15:31:27+09:00",
+      "summary": "개인정보 보호책임자, 책임 강화 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개인정보 보호책임자, 책임 강화 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GQWZZeUduZnJBdVNCU1ZCMTdRaFNPLTRwLWtmWVJaS0VyWEZLdDR1M0taOHBBVHpRQ1NacjJwaGktbHZBUFQtQXk1YkVvcU0tU3c3cFNPNV9DSGJQYjNSS0dhVWRBS2w4NmxwUWxR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ca6b6a152640aaf2eda6bf43e75c723d0816726ad039258e3ad705e059e752a6"
+    },
+    {
+      "id": "20260918-DP-C9C07CA2-1466",
+      "title": "개인정보 유출 가능성, 이제 통지합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T11:10:48+09:00",
+      "publishedAt": "2026-09-18T11:10:48+09:00",
+      "firstCollectedAt": "2026-09-18T15:31:27+09:00",
+      "updatedAt": "2026-09-18T15:31:27+09:00",
+      "summary": "개인정보 유출 가능성, 이제 통지합니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개인정보 유출 가능성, 이제 통지합니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DdWt6emp5cWJaSlNpQ2d5RVVJNDRaVnpxWlBvY3NIUVNxbzgxbUdiQnA5dG1VNmQ5Z0hybFNFWWJpQ0tWYXl0ZjkxS3RySURqNEJldTJ4Z1NZU2xGWUVlb2R6MnZzTE11QnlVMEpB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c9c07ca2eb0717722f63fa7d4955dee1a0f2a336863878e7193d1d146895dad6"
+    },
     {
       "id": "20260918-DP-04A8E5BF-1460",
       "title": "전력망의 효율적 활용을 위한 계절별 송전용량(SAR) 시범사업 시행 - 대한민국 정책브리핑",
@@ -1311,86 +2005,6 @@
       "contentHash": "3811b8b0c06eb4537bb58a7d30e5c68ab34430f7da12365f42d727f99895a119"
     },
     {
-      "id": "20260917-FR-1CC01648-1454",
-      "title": "이 대통령, IEA 사무총장 접견…에너지 안보·협력 방향 논의 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-17T17:31:13+09:00",
-      "publishedAt": "2026-09-17T17:31:13+09:00",
-      "firstCollectedAt": "2026-09-17T21:00:08+09:00",
-      "updatedAt": "2026-09-17T21:00:08+09:00",
-      "summary": "이 대통령, IEA 사무총장 접견…에너지 안보·협력 방향 논의 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령, IEA 사무총장 접견…에너지 안보·협력 방향 논의 - 대한민국 정책브리핑",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0djY0OEFHMlM4eUplcXh5ZDhZcWYtNVFIelNEZlpCY0lpN1N3cmh4UEQwek1uVm9iSWFlSXRSN0JTN2Rob2oxNWtBQm1sTXRNM1FtUUo2aHQ4eV9Rb1l2SUgtcFNnMGR1bzdILQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1cc016485a0b04c294daf848c036955afb853278aaec92ea3a4e96f2200f0f69"
-    },
-    {
-      "id": "20260917-FR-C8860D4D-1455",
-      "title": "기후부-국제에너지기구(IEA), 아시아 기후위기·에너지 안보 동시 해결 나선다 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-17T15:30:00+09:00",
-      "publishedAt": "2026-09-17T15:30:00+09:00",
-      "firstCollectedAt": "2026-09-17T21:00:08+09:00",
-      "updatedAt": "2026-09-17T21:00:08+09:00",
-      "summary": "기후부-국제에너지기구(IEA), 아시아 기후위기·에너지 안보 동시 해결 나선다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "기후부-국제에너지기구(IEA), 아시아 기후위기·에너지 안보 동시 해결 나선다 - 대한민국 정책브리핑",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVlfWm50UmV1X2o1b2ZmMTB3QWNHeWo2T25aVl9zVGZpRlktTXpuS09zalVtbi1qWlJaREY3eU9JR1lGalFZN2Q5bU1kSWFmc1JPQVI5MjViNzY4bW9EeC1lU2ZMRjBwTldKSXpQX1pWU1BVUDJWdXotRWUxUzNTdkNZbi03V3ZIelZZLXVXNTZ1UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "c8860d4db07f47aa98de685d3ada7d175b6d5acc3340521d64d780392e2dfbab"
-    },
-    {
       "id": "20260917-DP-09C240DE-1426",
       "title": "공무원 '난임 휴직' 운영기준 등 마련, 12월 시행 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -1495,131 +2109,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6fc8fb2229b4a1f22ed20f510c5f9435a2df0969662d15f064315a5b596ee46b"
-    },
-    {
-      "id": "20260820-DP-44D45057-481",
-      "title": "우리법원 주요판결 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-20T11:18:31+09:00",
-      "publishedAt": "2026-08-20T11:18:31+09:00",
-      "firstCollectedAt": "2026-08-20T12:13:19+09:00",
-      "updatedAt": "2026-09-17T21:00:07+09:00",
-      "summary": "우리법원 주요판결 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNblJFZXlLbEJmNlBpdi1qVjhYX1YyWTNLd3MtbU83YjNEcHFhMnRjYTd1ZGZ5VkUteFJrYWVsUjZRdVZjZ2dGR292a01OTUR1ZUlYcVBNZEMxbDRqS2ZOeWxBbHByeU5lYVdudjNHQkRJUGw0MkQtdHFsOHRvYkowelNEUjFndlZPUWdhMlFsc1N6bXhYSVZ1VEQwa2pwM1lnX3JzOFhEam9rYU4zbUZPd1dLWTZFUE0xYk1JMURabXAwejdZUWZqeHdxWENUMktVeGRKOG9GSVdTMnYyWEQ2YldIUkZMaWx6QmZxYXFvNmFJSHhNTGNKT29rcTVYMWdnX3J3d1Z3NGNPVWJlYy1MMU9Qbw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRF9COV9vS19kLVh4YUxmbmNwRFdPMUtDVllrVC1WZ1cwcWEwd3F0TnFXSWJ1WDhYd3RvU2ZqUWE0V2FLVE8xNWI2YUFoSVV3bzUxc2pyNEE2SVJxaEdselg0c3VWbW1OUkFiWXkzOWtTVmVEYXhocC1lLWNxMEdLOExYcEl1LVNWdUJtajh0ZFprai1zZU1FSWRObi1XZnJmNF84ZTA5cWRzemlQQ0Z0SHFVZ1p1OUdteTVkVlBzaGxkNGdCbDRXRTJ2U3pNOUIybWgzTm5LaDcwT0t3dGZQUTZhVjh6NVpNZGxNOGVOc3ppN2FWd3lYbGtYNUJBSjROU0V0NzZqZ2l3c21yU09LQ1Nn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNaHl6ZF8tWFBTUmY4UzFJdndFZjg0VlRfVnB2OVRFUGhpaWMwcFpLUFc2cnRXdFBBRFhRWk5ocDhYZXdkLWx4clpIS19BRk52SVNISG1tT3VvODVlV3pRRHQ1MDMzT2ZHTDFyaWlUQ2tCc1laOVFKOW1EbGpvZS1IenR6NmpkZUhwT2h5aHpWMnM5YzJvaDZvTFhQei1lM2pHaFR0eGQyVUdQekJ5Z20wVkdwdEo4RDNmLVRxcm9UT3EyUnU1aGliQ2Uyb1hwN2RPd0hfTHJwUnNfcGMwdlE1U3lVb2lhYXN1YTByS2RlYUFtd2lVcDZ4T1VJWXQ0eTBzQ3ZIdVJpYTFsV210djRJQlBn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPemJQb3NidFNjRF8ycFA5Qk1NTElkT2hpODBRRENod0tnWWI2S1ZDYklFak1GWF9PXzd2T0FoTTJwM0FGdXdMZzRNdUdQLW10cXkwT2RXRkFNWExuNFFDSVdURXhwMjVjRUV4T1FRMDFxNUotUzFTSGIxejNjalhUYkdLcnVnelJKUFFKS0pQaGt5c3A5eURZa0lnQjBqOVoyd2tIX3pIZnMwYWpWQ3JLcng3VWk2ZnBOR0RPMnhOc0J0WmFtWGRRUWM4dVRNajlBWXljVGl2WkU5dm0tUzE0UVVFY050ZGgzRDhOZ1NzbWpGUHhOTmtRWFRmb2duUjRpSU1mQ1VoQUZwRTlkd0NVeTZB?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUEpuVE0wMUR6RkdpRnF1QXVqNHpnclcyWmpGUG1DVW1zbV85blVGa2NZTXBvZDZLZktwQS0yQmE1NUdIWGN3ZG9zckExY2lQcXZzRVNvWFZiRFFwM2pqa3BtcHNkTi1TeHhIazEzYjlHMVFrdWZFME9DNWszQlJhRlV3Y3JQSkJuWXZwN1owVkwxMDZMeklMSHZPeG1hWFZHYklPSTZwcU1MUk82VEt4Q3FYMGhoUW1VbTFfdjJQU0VZcG1GcHFsMHJqaGVCWmN4YnNPYzR0cXNZZW80dk5GaGs3ZWNKV3dXcy1HNThWUzVKWVo0MW9fYXVPa2c3ekkzdk9xSWM3VFRMeU81LW9GYzN3?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOY1FuOV9jY1hYRjVabkZtYk5BcUdvN05ramlCMWNqbGtRSVNLZnhFeXpQV0dUbjNjcmNaT0IybUEyUWE4bS1NUmRhOFpEakVlOEFJZHFBOHRwMG53cDhFcG9URlRvUzBUamtmOWtYbkpSU2N2c1AwR3lBaHNrOHllUC00U0Q1dkhNS0pBUGxyTDl0ZFZ6eGlWa0d4VHZhRG8taWNyRlZnM0RBdFBHdVhwZi14LTVJS2pITTBsM0ZGMkVHamxOSmcyamFPeWNWSURwa0xvRGZUZmxleTRxY3NXY3NLMlB4QlBQN3o4S0Y1UVJSSkJzUXNOUGdUbXh6QkdadUgxbi1lN2VKSV9DbnVyUk5n?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNC16R1Z0NXVsdTc4QmxNbUZaVjQ2S0hnMU9Dd0pFU3BtMDg0TGJJdGJRMFotb3NaVkVvbmtSX0VTaUZpQUdBTV9NOGxJYjM4T2dQUkR2YjlHRk1sT0lac0pSN1JtUDJYVWhkcmtlWC1sQkJBX3VfTG5nT2JCdDR3YXgyOTBaZ3F3TUxlanBYM2xWaUEwZk1nX3Q0WlF2LXJKQTlkSGh4enl6V2JmSElEeXpEWUxtejdlZW1xaWc2UEpIUWRONUFMcUlXMDY1eFc2dTd2dEJTRTRBZTJLR3Q3aXgxSUEzNkFDSFo5TjR4VzJybzZUNjBCTHJaaXF3Q1QtRVZ6Y3J1cmIzVkJDMGlfOE9n?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "우리법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZnpJN0NSUDI3Q2FFV1dPTmxRMDltYS1IRU9rbEg3UEtWOWUwQzJSTFV3MW9obG5JVHg5ZWxxZzUzZ1U0RzRxUkNjcEo5VjVCb25QclAzTDZLeEtPZDF5d1ZEaGNyOFJ1X0VTUGZDYUM1a1NRNWNWbmVjMDNSSzFIaWRXVzRybUp2WUNzMC01UGR3S3JCaTBZSTBDbHRoekRIZHl2Y1RCOWhoTjNrazNkeFd5YVpySUNZTFVsaV9nRUJUdDlSZkRYbDZ1MDZYcDZwOU4zc2FqcWg3ZHMtLXFqSFZoZGhRZmNzY21YODF2cjV6YkFETUp3bk9rMWszeFpIZ1FkdUtiMWsxSnNSZlF6ZTZ3?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-21T14:08:17+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-28T09:57:56+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-31T22:29:47+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-08T13:21:08+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-08T18:01:11+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-09-08T22:29:19+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        },
-        {
-          "updatedAt": "2026-09-17T21:00:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 7
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "44d450578e14261071708d8626772c62ea0b6b3df4694d4946134d067180240d"
     },
     {
       "id": "20260917-DP-A783804B-1444",
@@ -1863,46 +2352,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "0a13e35731edfa242d11c735213cab662154ae1017a624c33bdf36a1f6036fa3"
-    },
-    {
-      "id": "20260917-DP-219BD9AE-1451",
-      "title": "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-17T16:10:30+09:00",
-      "publishedAt": "2026-09-17T16:10:30+09:00",
-      "firstCollectedAt": "2026-09-17T21:00:07+09:00",
-      "updatedAt": "2026-09-17T21:00:07+09:00",
-      "summary": "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "코로나19 예방접종 '필수'로 전환…내달 12일부터 접종 시작 - 대한민국 정책브리핑",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tZjdPa0JJaXBYVzMyVTdJMC13MFBYUFpUNTFJZ0lwU1ZqTTctMEtJM1dvYkVuZ2FuM1pSelhtZzk0TVhvQXpwMU5oaDd4cTRSR1hCZWZpdHZGYXY3bXZDMkdEOFl3TVBwUkhycw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "219bd9ae469477ab7e95b7b6033c2b3d19dcdb9508e6b660ef128727675eaaea"
     },
     {
       "id": "20260915-FR-2B01D279-1354",
@@ -3616,71 +4065,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "44ed8a01c0cb308817c130277aa331f1c3695e247935bcb1bc4d23876f12beb1"
-    },
-    {
-      "id": "20260916-FR-0DEA760E-1382",
-      "title": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-16T09:23:55+09:00",
-      "publishedAt": "2026-09-16T09:23:55+09:00",
-      "firstCollectedAt": "2026-09-16T10:21:40+09:00",
-      "updatedAt": "2026-09-17T01:42:09+09:00",
-      "summary": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한·카자흐스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZblphMHp0R0dIakFQazR3RndMaGJpR3cyQzcwdzVWeEMtWjJuOEFIWkloR0hmZXl1SjA3b3RLUkhBQ3kwcU5uMDdaeUdhM3V5NUNlbm92eTBjeHhaUGFhZUZlemJRbHhwaUJ4d3VfV1pGcE82MWhtWUtR?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한·우즈베키스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4td1RNYWxFX3d6djhPSjhpUVl1YWR2R2FRM3F0Rzl3WjV0cXVQYl9VMUEtNzk3OGhJcjktUnFWdjliOVVkVHhKZ0N0c243TVozYmxSOFdVeEpsQXpOTUpYcXMxVm1aX2xudGdHeDI2aVJYcDdWTFFnU3ln?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한·우즈베키스탄 협정·양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEc2s1SjVVZjZkb0M3N2plYnIzdmZCd2dvVFoya3lPTzU5WVRCeHJYTUNIeU1UU29qLWxJeEQzMUJ2YW5oQUJSLWhUeWhmMjF6N3BCY3RrT2NYUnJrbWZFaFVMWlNmTE84VVE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-16T15:37:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-17T01:42:09+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0dea760e6abc0aff8130163d44dfbcb01f89ac2a95999a914324b6ec2e5961e9"
     },
     {
       "id": "20260915-FR-83A2FB08-1355",
