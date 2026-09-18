@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-19T04:08:10+09:00",
-    "nextScheduledUpdate": "2026-09-19T04:38:10+09:00",
+    "lastSuccessfulUpdate": "2026-09-19T06:47:31+09:00",
+    "nextScheduledUpdate": "2026-09-19T07:17:31+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-19T04:08:07+09:00",
-      "finishedAt": "2026-09-19T04:08:10+09:00",
+      "startedAt": "2026-09-19T06:47:27+09:00",
+      "finishedAt": "2026-09-19T06:47:31+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 58,
-      "duplicates": 74,
-      "rejected": 125,
-      "rejectedByDate": 121,
+      "acceptedCandidates": 63,
+      "duplicates": 73,
+      "rejected": 124,
+      "rejectedByDate": 120,
       "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 2,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,141 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260919-FR-394C5812-1482",
+      "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-19T06:08:34+09:00",
+      "publishedAt": "2026-09-19T06:08:34+09:00",
+      "firstCollectedAt": "2026-09-19T06:47:29+09:00",
+      "updatedAt": "2026-09-19T06:47:29+09:00",
+      "summary": "한미 외교장관회담(9.18.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-19",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTJaRGNkSmEzVldFR20tTGZRamFqWE1HX0t2MnZ1d0c1OU9DOVlfNDZtUVVGRHZDZWJRQnc5OV9HUlY5RkNxTF9zcEdFeW1yaXJuTEtlRWpSbXN2ME0tXzQ5UmpyRWJJRWduNmtyQ1ZCUHZhYnZfd3pWck92YWtoVnprS25VS21mLUlkcEltN04ydw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "394c581256686646d677365e6cbcde42220c3ff71f519f5e761a03fa787510e7"
+    },
+    {
+      "id": "20260917-DP-BC687FEF-1439",
+      "title": "경찰, '제주공항 등 폭파협박' 범죄에 대한 불법행위 손해 배상 청구 소송 승소 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T13:02:40+09:00",
+      "publishedAt": "2026-09-17T13:02:40+09:00",
+      "firstCollectedAt": "2026-09-17T15:35:28+09:00",
+      "updatedAt": "2026-09-19T06:47:28+09:00",
+      "summary": "경찰, '제주공항 등 폭파협박' 범죄에 대한 불법행위 손해 배상 청구 소송 승소 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰, '제주공항 등 폭파협박' 범죄에 대한 불법행위 손해 배상 청구 소송 승소 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3BDSmVHRm8waGJPQlF6a1B3UU9UQldla2NPMEM3Q3ZRNkZVTHpqVS14YkRBWmtkcUw0ODVsQVBESF80cXVacnJQUVlKQ1lvQ0JCWjFDTlljZEpLeVhKOHB1OVNSbklsbGgwd1NDcFNWSWptd2QtSUtnX1ptZzJhT2dYemt4c3JOTEVrZnV0VU1SUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰, '제주공항 등 폭파협박' 범죄에 대한 불법행위 손해 배상 청구 소송 승소 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55cmU0cHNzc1J1YlNVb09VWFZGV3E3Z1pXNW1VRDJneTd2M2t2NE9OWTF0VTNQNTl6SzRSNzNUWl9nTU1uUk9ONk95RGtIeFBiUzFOOUpoOHJpbUoyVllmUzN5RFFYNTVGSjZYTlVLMF9wV3VV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-19T06:47:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bc687fefbd173c3306c46e7bef4ce840006fa914a529445453dcfa4f7278c784"
+    },
+    {
+      "id": "20260917-DP-3A7318A2-1481",
+      "title": "난 내일을 준비 중임! - 난임치료휴가 편 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T17:32:49+09:00",
+      "publishedAt": "2026-09-17T17:32:49+09:00",
+      "firstCollectedAt": "2026-09-19T06:47:28+09:00",
+      "updatedAt": "2026-09-19T06:47:28+09:00",
+      "summary": "- 난임치료휴가 편 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "난 내일을 준비 중임! - 난임치료휴가 편 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JdmlHdmc0aEY0MElGVWx1a0ttV3FUcVBhb2V0eUZHaTdQUzBRZnAyQktwZ0ItQVpRaU1xVUtxM3ZneFV0Z0x0bkdJMTJVbXlRTG9DMVI3ZTh2MU5Ib3NMYTFXX2ZCQm9QRTlYQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3a7318a2c654da86c6d8df288a959f6dcd605f563b742e1e84a7d61bd40d6405"
+    },
     {
       "id": "20260731-FR-5B63EBA8-019",
       "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
@@ -3737,46 +3872,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2433f49f64d9bd8534cb9dc8581eb90ffd01241a04a011b8004e5786d7d24aa9"
-    },
-    {
-      "id": "20260917-DP-BC687FEF-1439",
-      "title": "경찰, '제주공항 등 폭파협박' 범죄에 대한 불법행위 손해 배상 청구 소송 승소 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-17T13:02:40+09:00",
-      "publishedAt": "2026-09-17T13:02:40+09:00",
-      "firstCollectedAt": "2026-09-17T15:35:28+09:00",
-      "updatedAt": "2026-09-17T15:35:28+09:00",
-      "summary": "경찰, '제주공항 등 폭파협박' 범죄에 대한 불법행위 손해 배상 청구 소송 승소 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "경찰, '제주공항 등 폭파협박' 범죄에 대한 불법행위 손해 배상 청구 소송 승소 - 대한민국 정책브리핑",
-          "date": "2026-09-17",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3BDSmVHRm8waGJPQlF6a1B3UU9UQldla2NPMEM3Q3ZRNkZVTHpqVS14YkRBWmtkcUw0ODVsQVBESF80cXVacnJQUVlKQ1lvQ0JCWjFDTlljZEpLeVhKOHB1OVNSbklsbGgwd1NDcFNWSWptd2QtSUtnX1ptZzJhT2dYemt4c3JOTEVrZnV0VU1SUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "bc687fefbd173c3306c46e7bef4ce840006fa914a529445453dcfa4f7278c784"
     },
     {
       "id": "20260917-DP-56D0F9F9-1440",
