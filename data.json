@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-19T13:56:10+09:00",
-    "nextScheduledUpdate": "2026-09-19T14:26:10+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-09-19T18:22:18+09:00",
+    "nextScheduledUpdate": "2026-09-19T18:52:18+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-19T13:56:07+09:00",
-      "finishedAt": "2026-09-19T13:56:10+09:00",
+      "startedAt": "2026-09-19T18:22:15+09:00",
+      "finishedAt": "2026-09-19T18:22:18+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 24,
-      "duplicates": 26,
-      "rejected": 174,
-      "rejectedByDate": 141,
-      "rejectedByRelevance": 33,
+      "acceptedCandidates": 45,
+      "duplicates": 42,
+      "rejected": 153,
+      "rejectedByDate": 150,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,234 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260918-FR-600181B2-1477",
+      "title": "조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T16:51:51+09:00",
+      "publishedAt": "2026-09-18T16:51:51+09:00",
+      "firstCollectedAt": "2026-09-18T20:41:10+09:00",
+      "updatedAt": "2026-09-19T18:22:16+09:00",
+      "summary": "조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DNTFlb0tvcjU4Vjhkb01lVURNdENsVFQ3NWF4N0txbXpjbVZjMmkwc3lGMjZJZmZRaWNuTnAyZm5RUTB4S3VrbS1EdW5YME4wV1lZSVpTZEMzOEQxQmh6YmtlUHZFWDdlMk5pQw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 - 대한민국 정책브리핑",
+          "date": "2026-09-19",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ2pvT29JS3ZsWnVKTHRONzFQUWNtaEtUVmtESGtJNHhYalpUM2RnUC1HUjE4aTFDUXJHeXh2X1ZabnFqX1EwanNCRUg1MHo2VVBncUhTTEJ2Qy0xXzdLTWRrdGJpMlh5amtTblpSbkt1akNDSW9aSEtSTlo5eDBTakgzUm9kU0p4NGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-19T18:22:16+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "600181b2b45050a483c5a21a99713993d952b025de7ae7381529f09148d80a1d"
+    },
+    {
+      "id": "20260918-DP-F2761790-1485",
+      "title": "금융위 \"고인 '사망신고일(30일 이내)' 다음날부터 금융거래 차단\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T18:24:59+09:00",
+      "publishedAt": "2026-09-18T18:24:59+09:00",
+      "firstCollectedAt": "2026-09-19T09:07:57+09:00",
+      "updatedAt": "2026-09-19T18:22:15+09:00",
+      "summary": "금융위 \"고인 '사망신고일(30일 이내)' 다음날부터 금융거래 차단\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위 \"고인 '사망신고일(30일 이내)' 다음날부터 금융거래 차단\" - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1hzS1VOZzJidTZfOW43V1RJNVZnSWExZTRsbkR3ZXdSUmtzWVY4NmpBTXZWblRmckZiQTNWVHJjSDVCaDBBcjBScW1ab2RZR1R6RlFZaVNhU3ZtRnVnV2ZiNDdfWklCZjhZaTVPem40aU55Vm5kN2RUNlZIUVF6WlVkZF9CblBrZ21feQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융위 \"고인 '사망신고일(30일 이내)' 다음날부터 금융거래 차단\" - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wRXVUVHhMVmNXdk1WNHpEMmlUWG9rYW1ibWVfb1puc1REWGpkaXpKSFRxajhhWXVOVnB3OGlRYTExZWNEY2RFdDBYTzl5WDZLSGdwT0pWRUJodjZTUVYwQndzd21POGFNaHpybGZXVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-19T18:22:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f2761790ce005c527c59a9ccd74cffa76b24817bfedc064a3473faa78782d273"
+    },
+    {
+      "id": "20260919-DP-62232454-1486",
+      "title": "산후조리원 폐업, 사전고지 의무화 추진 - 전체 | 카드/한컷 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-19T00:14:07+09:00",
+      "publishedAt": "2026-09-19T00:14:07+09:00",
+      "firstCollectedAt": "2026-09-19T18:22:15+09:00",
+      "updatedAt": "2026-09-19T18:22:15+09:00",
+      "summary": "산후조리원 폐업, 사전고지 의무화 추진 - 전체 | 카드/한컷 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "산후조리원 폐업, 사전고지 의무화 추진 - 전체 | 카드/한컷 - 대한민국 정책브리핑",
+          "date": "2026-09-19",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOHYtNXp1MFVodVg2a0luUXJxaHlKZkVPYU1SVjFHSzNOM1JSUlN3UkstSDh6WHJhVm5BVGRiLXpqUXVzb2EzQmZIdEVQbFRUd2h3ZGJLS3pwU0NobnVCTzBQd1JROXVwOXN3b0tR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "622324541950d8144d3ca0757cbf37edca11cf7cb2b0ad0c2fa52f7082b1e34a"
+    },
+    {
+      "id": "20260917-DP-9E1A63B7-1487",
+      "title": "'2026 고향사랑페스타' 개최, 전국 답례품 만나고, 현장 기부까지 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T12:00:00+09:00",
+      "publishedAt": "2026-09-17T12:00:00+09:00",
+      "firstCollectedAt": "2026-09-19T18:22:15+09:00",
+      "updatedAt": "2026-09-19T18:22:15+09:00",
+      "summary": "'2026 고향사랑페스타' 개최, 전국 답례품 만나고, 현장 기부까지 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'2026 고향사랑페스타' 개최, 전국 답례품 만나고, 현장 기부까지 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFJIR3NuYXJXSUdmYjl6UFJKcEtqZW5TMWtTVjBBQVlJQTZmeDJUWWR6dnBvU0ItUll0NG5melNfUngxaFpzOEhaZlFlR3JRWXpwVnJvTUJ1NThUampXaTVfUUpsbXQyaFZ0LVNWd21NNTFsRFBZc2VaWFE4YkxncHFmb1BZalBsN0xuZGRvTHZiZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9e1a63b792a340fc1e95ce0090c4bd3eeb37abcb0718ccca88a499bf2cdab095"
+    },
+    {
+      "id": "20260917-DP-DB4B3106-1488",
+      "title": "키르기스스탄 대통령 내외 공식 방한 - 공식환영식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-17T09:10:36+09:00",
+      "publishedAt": "2026-09-17T09:10:36+09:00",
+      "firstCollectedAt": "2026-09-19T18:22:15+09:00",
+      "updatedAt": "2026-09-19T18:22:15+09:00",
+      "summary": "키르기스스탄 대통령 내외 공식 방한 - 공식환영식 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "키르기스스탄 대통령 내외 공식 방한 - 공식환영식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-17",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdDU3YTdHT1ZMNFU4QWlnM1VObUxtQlNIMVV6QWt5d2JUM0pvaVJlQm1HUGdYYUZDT3RYcDlhQXB1UmE0eXFuYnRSUFpQUEhEZE9qTUtTbmdyU0ZySHNJNWlMRlJmUkllYWFZaUpxQjhBUy1QQUowTnFB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "db4b3106b23b069b0c7332ac687566683d25b07688fd965d20e6fbdf717e4e5c"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -623,46 +851,6 @@
       "contentHash": "6bed33484437b5d01184803c51af2244972ea1619be23c9a9430e5eb4a08c507"
     },
     {
-      "id": "20260918-DP-F2761790-1485",
-      "title": "금융위 \"고인 '사망신고일(30일 이내)' 다음날부터 금융거래 차단\" - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-18T18:24:59+09:00",
-      "publishedAt": "2026-09-18T18:24:59+09:00",
-      "firstCollectedAt": "2026-09-19T09:07:57+09:00",
-      "updatedAt": "2026-09-19T09:07:57+09:00",
-      "summary": "금융위 \"고인 '사망신고일(30일 이내)' 다음날부터 금융거래 차단\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "금융위 \"고인 '사망신고일(30일 이내)' 다음날부터 금융거래 차단\" - 대한민국 정책브리핑",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQV1hzS1VOZzJidTZfOW43V1RJNVZnSWExZTRsbkR3ZXdSUmtzWVY4NmpBTXZWblRmckZiQTNWVHJjSDVCaDBBcjBScW1ab2RZR1R6RlFZaVNhU3ZtRnVnV2ZiNDdfWklCZjhZaTVPem40aU55Vm5kN2RUNlZIUVF6WlVkZF9CblBrZ21feQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f2761790ce005c527c59a9ccd74cffa76b24817bfedc064a3473faa78782d273"
-    },
-    {
       "id": "20260919-FR-394C5812-1482",
       "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -1192,48 +1380,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "415416fb4212ad943b81238f964aba1725ede4fbac709a9a88bed3d63be220eb"
-    },
-    {
-      "id": "20260918-FR-600181B2-1477",
-      "title": "조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-18T16:51:51+09:00",
-      "publishedAt": "2026-09-18T16:51:51+09:00",
-      "firstCollectedAt": "2026-09-18T20:41:10+09:00",
-      "updatedAt": "2026-09-18T20:41:10+09:00",
-      "summary": "조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "조현 외교장관, 미국 상·하원 의원 면담…한미 현안 의견 교환 - 대한민국 정책브리핑",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DNTFlb0tvcjU4Vjhkb01lVURNdENsVFQ3NWF4N0txbXpjbVZjMmkwc3lGMjZJZmZRaWNuTnAyZm5RUTB4S3VrbS1EdW5YME4wV1lZSVpTZEMzOEQxQmh6YmtlUHZFWDdlMk5pQw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "600181b2b45050a483c5a21a99713993d952b025de7ae7381529f09148d80a1d"
     },
     {
       "id": "20260917-FR-A4294897-1478",
