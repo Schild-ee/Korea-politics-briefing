@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-21T14:20:38+09:00",
-    "nextScheduledUpdate": "2026-09-21T14:50:38+09:00",
+    "lastSuccessfulUpdate": "2026-09-21T20:01:29+09:00",
+    "nextScheduledUpdate": "2026-09-21T20:31:29+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-21T14:20:34+09:00",
-      "finishedAt": "2026-09-21T14:20:38+09:00",
+      "startedAt": "2026-09-21T20:01:25+09:00",
+      "finishedAt": "2026-09-21T20:01:29+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 16,
-      "duplicates": 6,
-      "rejected": 184,
-      "rejectedByDate": 184,
+      "acceptedCandidates": 17,
+      "duplicates": 11,
+      "rejected": 180,
+      "rejectedByDate": 180,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 9,
-      "updatedIssues": 1,
+      "newIssues": 6,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,6 +65,48 @@
   },
   "issues": [
     {
+      "id": "20260921-FR-BFB55101-1516",
+      "title": "한미 외교장관 \"대미 전략투자 결실 노력\"…한미동맹 공약 재확인 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-21T16:28:13+09:00",
+      "publishedAt": "2026-09-21T16:28:13+09:00",
+      "firstCollectedAt": "2026-09-21T20:01:26+09:00",
+      "updatedAt": "2026-09-21T20:01:26+09:00",
+      "summary": "한미 외교장관 \"대미 전략투자 결실 노력\"…한미동맹 공약 재확인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 \"대미 전략투자 결실 노력\"…한미동맹 공약 재확인 - 대한민국 정책브리핑",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcXNvTVMxWnVQdlFpbjk4T1c3M3JpaHJDLUd6eWUtcVFWYUZvV0RmcXpVX2tYaDdSbmdkeG9HTlZjRjVYak94cnh0d3l0TFpFVkZNZ1NybUo0eE9Wa2t3NmoycnBsZE1wMU12VE0yeEVLY2tQRWltVlVLUmlkRWszNXBGbE9HOUtxOVE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bfb55101d65b9f556b2c53cf49e07cf8598d82538f597a30aa08010841ca34fe"
+    },
+    {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
       "primaryCategory": "국내 정치",
@@ -81,7 +123,7 @@
       "occurredAt": "2026-08-10T14:37:13+09:00",
       "publishedAt": "2026-08-10T14:37:13+09:00",
       "firstCollectedAt": "2026-08-10T19:04:32+09:00",
-      "updatedAt": "2026-09-21T14:20:35+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
       "summary": "전국법원 주요판결 대한민국 법원",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -326,6 +368,13 @@
           "date": "2026-09-21",
           "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQY2VRVnhVTUo0eWxQVjZoXzVNbTdVYzFDUDRXSUkwUHFvNWI1bHZFNFRDekh6TjBpaDE3UUFlS0NxeHJLd2xISmJHRE9lSjdHM0tWMEZLN3VTbGZFN2JWeU9zMFBiUUJrYkJZby1mNWxWNC1UN3Q5TjVFaUxEX1g1eUl4THdxVXlZOXU1OXA3QmVwUzFHbjFaT3VSUEVBRkhyN29YaEZpeW15enFRd2M3WUg0aFdyVjR1ZmtXYnR2NEhNMk03aWFrTVBFN1VNX05qVi1rcllNRmdJVC0wSzZZeTBMWWliM2tfQzRaVDhvSUVaU0xQLWd4RnBBb1VuYW1JdjcwUGs1YkR4Q0hEV3RIbW5NZnZFbVBXN283VE9Oc280dDNlMlFWRFRFalVVSTR4a0E?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRl9CajNTb05CNTNGUmc1TkthNE9HdmRBQzFhMXktLWJrTDlGcVBtazBYbDllMG1wcTZpRWpSUV9nVGoxYlZFcmxiaG51UGlIV0hKdmVuSzQ0TFJadHJheGtHbnYzOUhjbjhEd2VfR19McDJHMVNqRmNpR0VoUVZGSnB4OExyb2djT2g5dTk3dDJ4Y1RNVmxjQzZpRFZPZVhSTWx4UzI2Z3BDU3VadS0wY0dZRkxjVWdtb3pFTnNQTldIMmstN2N3Y0hGMnZQbkJfSWFCSERxS2V1Yk5LVlFvbGJVV2c2Yk1OUG52ajcwdEJpZlFfeFV1b29WZTJNa01RTUFlR1JvejNFaWk3QlhpWkJtMEpITVR4UUdSTGpWTDJzUUlkT2lwbzVJRGJHUUJURVE?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -493,6 +542,11 @@
           "updatedAt": "2026-09-21T14:20:35+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 33
+        },
+        {
+          "updatedAt": "2026-09-21T20:01:25+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 34
         }
       ],
       "corrected": false,
@@ -518,7 +572,7 @@
       "occurredAt": "2026-09-21T10:03:01+09:00",
       "publishedAt": "2026-09-21T10:03:01+09:00",
       "firstCollectedAt": "2026-09-21T14:20:35+09:00",
-      "updatedAt": "2026-09-21T14:20:35+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
       "summary": "배우자 지원 3종세트 시행(9/18~) - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -532,6 +586,112 @@
           "date": "2026-09-21",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQanlvYk9hVzd3V1JaVk9yTW1mSGREZ2UxbDZtR0RpZGpNRTNGUGRGTXpjMDlzVHJXNUxYRUlmYjMyMVV3bXB1TXdyZTRIejlQTV9hVGxtU1RSSk9BMzhCZkxYYlhrT1JBb1doc3I1cVZjM2pMUTVaR3haLVlta2V6emRPT19IdEhkaWxR?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "배우자 지원 3종세트 시행(9/18~) - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85TGthaWVkU3RYU3JxeGlKY1ZNcHI4bVZQcE1yVWFiYlpyTGNJREttb1ZYX014QlV6R3lhbE1VMGVLeGZoQk53clRJNHc1UnVtQ0hGdXk1MS1WaVJwR0RiMzkzSkJWSk1BVUZLa0p3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-21T20:01:25+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8cf2fa32227c736bb03bd2b134857566bbac5e455240c959da9233d8c90be9bd"
+    },
+    {
+      "id": "20260920-DP-5BA85CD5-1497",
+      "title": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-20T11:00:00+09:00",
+      "publishedAt": "2026-09-20T11:00:00+09:00",
+      "firstCollectedAt": "2026-09-20T13:43:56+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
+      "summary": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다 - 대한민국 정책브리핑",
+          "date": "2026-09-20",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzhSWU13QlBfMmxmZUhlVzhNOVVsc1ZmdkxOMVRlaDkxYUUwdEZjaXFXajlGbnA2cXFqdDBMMDFNYmhTN29wQ0tiQy1LeTROd3RZSXc1ZzM2QmRBOU1lc3NFcTJLc1dHNUtPVl9henVWT0R3dHRRdC1JYTZXMjc2ZXhIUTNrakZ1WklPbjFWR0NCTjhQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다 - 대한민국 정책브리핑",
+          "date": "2026-09-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IWnVuWDMtQ3lTeGd5OWF3VXdVbDJvQjZYR3E5SzNlV2tsdHo5TWhqaUpRVVp6Y19LU0VSYl8zVmgzeXNvWUpwZkU5TTlKdzJqTjF0OVFCeFNEQjBscFNTNFlWYnVOekszaGpmZ1VXd2V1ZXQt?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-21T20:01:25+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5ba85cd539ae38ab8989ba6dd5a72e141ce7bb74d6084247d0fc46dc4aaefb6e"
+    },
+    {
+      "id": "20260921-DP-235C2B32-1511",
+      "title": "독립몰수제가 본격 시행됩니다! - 전체 | 카드/한컷 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-21T16:06:15+09:00",
+      "publishedAt": "2026-09-21T16:06:15+09:00",
+      "firstCollectedAt": "2026-09-21T20:01:25+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
+      "summary": "독립몰수제가 본격 시행됩니다! - 전체 | 카드/한컷 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "독립몰수제가 본격 시행됩니다! - 전체 | 카드/한컷 - 대한민국 정책브리핑",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQXphaEFpVnNWTkRmcExVQWpIS09DMGpweDVvbEc5c3RGTlowTE5McXBoN2VZdjVOS0VNSzRVOEVZNndzSjZkS2hUTU9oTkJzVTh6TEwySHJaM1hTZG5MbjdRVEhBMEhoUnZpRVF3?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [],
@@ -539,7 +699,167 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "8cf2fa32227c736bb03bd2b134857566bbac5e455240c959da9233d8c90be9bd"
+      "contentHash": "235c2b3242348d8bdbc90688a23ecc6b142d2b57c561491aa1a47a7242e94233"
+    },
+    {
+      "id": "20260921-DP-8CF3C118-1512",
+      "title": "이 대통령 \"더 낮은 자세로 더 세밀하게 국정 다듬어 갈 것\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-21T18:16:42+09:00",
+      "publishedAt": "2026-09-21T18:16:42+09:00",
+      "firstCollectedAt": "2026-09-21T20:01:25+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
+      "summary": "이 대통령 \"더 낮은 자세로 더 세밀하게 국정 다듬어 갈 것\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"더 낮은 자세로 더 세밀하게 국정 다듬어 갈 것\" - 대한민국 정책브리핑",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02YVVHVHJramVtOHFjUjdVRkQ2dVFQLTd0NzB5S3dQZ09KemtXbFJVUWM0MGZpMkVTNEp3R19Od2tVWnYtRGl2QkZWY1NNRENhOEhEWnhKb2xlb09lTmFqcGl5YklMZi0tRlRKRQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8cf3c1189259d4d99e61286de73a8fc7f4b29bea4e17d6aea846275632959b3a"
+    },
+    {
+      "id": "20260921-DP-F6E058B0-1513",
+      "title": "라온중학교 교육공무직원(시설관리) 모집 공고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-21T17:36:38+09:00",
+      "publishedAt": "2026-09-21T17:36:38+09:00",
+      "firstCollectedAt": "2026-09-21T20:01:25+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
+      "summary": "라온중학교 교육공무직원(시설관리) 모집 공고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "라온중학교 교육공무직원(시설관리) 모집 공고 - 대한민국 정책브리핑",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2cxSVdUcHA0bE1JZUhDOVJ5bXhCc3plRTZ1YTJJaFdlcXp5RXc2TzBHVnIzY1J6bHVoY2lTY0dpUWd1eDdVbjd5X3hiVU1mbk9XdnQ4ODF4cFU4WTRWQ2t2NWQza2lNVkFBejJ0WGw1OGlpOHdDaE5VNW5RMnlONXNRbTg1a1dPQWVrOVJB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f6e058b05d3f2970a3d2147986a5955ef4fd253d488b1b87b2dacc3181ce72ed"
+    },
+    {
+      "id": "20260920-DP-CB662C42-1514",
+      "title": "영암국유림관리소, 가을철 산림 내 불법행위 집중단속 실시 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-20T09:42:31+09:00",
+      "publishedAt": "2026-09-20T09:42:31+09:00",
+      "firstCollectedAt": "2026-09-21T20:01:25+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
+      "summary": "영암국유림관리소, 가을철 산림 내 불법행위 집중단속 실시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "영암국유림관리소, 가을철 산림 내 불법행위 집중단속 실시 - 대한민국 정책브리핑",
+          "date": "2026-09-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5obHRIZkRoTkN2T1Vrb3A0a19sSUhTVjQ1RU9KMU94Wm9rbncwMzhrVmNIeTVjNlVKTUhMTVQ0bVJSRU1WQnNnN2xyOENmVjFvS2h5SzJtaUhvYXdSc3l5LWRXdjd5MzA4NkF6am9BR3J2OFct?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cb662c4276b5d8e80ac936d4d5ec81423829957ee0060a98aa5d1d2b4efce58a"
+    },
+    {
+      "id": "20260921-DP-AE49F405-1515",
+      "title": "폭염·가뭄·우박 피해농가, 추석 전 재해복구비 305억 원 지원 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-21T16:04:34+09:00",
+      "publishedAt": "2026-09-21T16:04:34+09:00",
+      "firstCollectedAt": "2026-09-21T20:01:25+09:00",
+      "updatedAt": "2026-09-21T20:01:25+09:00",
+      "summary": "폭염·가뭄·우박 피해농가, 추석 전 재해복구비 305억 원 지원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "폭염·가뭄·우박 피해농가, 추석 전 재해복구비 305억 원 지원 - 대한민국 정책브리핑",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UV3J5czdOTzg4bGFKNm1zXzV1UkswZzM0aXFER3JHRFdmU2hLanFUNm5uOWpuNUVkejF0UVJ3VGF5VW9HcnVRZkRaS0VIMUtQbjJQMHFPcFlaYnBqLUQ3QmF4cmY2Ymh4YmlLMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae49f405929864263ab8398c53783f5a7e8964d80d4811c0af3a0f9acbea901d"
     },
     {
       "id": "20260921-DP-D198FA36-1503",
@@ -1077,46 +1397,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2d2343af4694f1fe2a380668f4f90d591255300d56ce31b0d5dc794ff2a853d4"
-    },
-    {
-      "id": "20260920-DP-5BA85CD5-1497",
-      "title": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-20T11:00:00+09:00",
-      "publishedAt": "2026-09-20T11:00:00+09:00",
-      "firstCollectedAt": "2026-09-20T13:43:56+09:00",
-      "updatedAt": "2026-09-20T13:43:56+09:00",
-      "summary": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "추석 연휴 교통혼잡 해소에 총력... 정부 합동 특별교통대책을 시행합니다 - 대한민국 정책브리핑",
-          "date": "2026-09-20",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzhSWU13QlBfMmxmZUhlVzhNOVVsc1ZmdkxOMVRlaDkxYUUwdEZjaXFXajlGbnA2cXFqdDBMMDFNYmhTN29wQ0tiQy1LeTROd3RZSXc1ZzM2QmRBOU1lc3NFcTJLc1dHNUtPVl9henVWT0R3dHRRdC1JYTZXMjc2ZXhIUTNrakZ1WklPbjFWR0NCTjhQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "5ba85cd539ae38ab8989ba6dd5a72e141ce7bb74d6084247d0fc46dc4aaefb6e"
     },
     {
       "id": "20260919-FR-394C5812-1482",
