@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-22T01:57:06+09:00",
-    "nextScheduledUpdate": "2026-09-22T02:27:06+09:00",
+    "lastSuccessfulUpdate": "2026-09-22T05:56:54+09:00",
+    "nextScheduledUpdate": "2026-09-22T06:26:54+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-22T01:57:04+09:00",
-      "finishedAt": "2026-09-22T01:57:06+09:00",
+      "startedAt": "2026-09-22T05:56:52+09:00",
+      "finishedAt": "2026-09-22T05:56:54+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 18,
-      "duplicates": 20,
-      "rejected": 178,
-      "rejectedByDate": 178,
+      "acceptedCandidates": 11,
+      "duplicates": 14,
+      "rejected": 185,
+      "rejectedByDate": 185,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,73 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260919-FR-394C5812-1482",
+      "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-19T06:08:34+09:00",
+      "publishedAt": "2026-09-19T06:08:34+09:00",
+      "firstCollectedAt": "2026-09-19T06:47:29+09:00",
+      "updatedAt": "2026-09-22T05:56:53+09:00",
+      "summary": "한미 외교장관회담(9.18.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-19",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTJaRGNkSmEzVldFR20tTGZRamFqWE1HX0t2MnZ1d0c1OU9DOVlfNDZtUVVGRHZDZWJRQnc5OV9HUlY5RkNxTF9zcEdFeW1yaXJuTEtlRWpSbXN2ME0tXzQ5UmpyRWJJRWduNmtyQ1ZCUHZhYnZfd3pWck92YWtoVnprS25VS21mLUlkcEltN04ydw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-19",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90YmtBSExMeUNURWdoaldJWF8wbWRScFZrdmxlVHcxc2RwWWdiZlBhYy1nTGxPODVjRUR3VFZIRmxMb050SUZCYmlPdGRRTjIxLWpSb2FUVzZfajh3TzFRY0hjNUdFaGdtUG9lVnNHcHM0b0F5?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미일 외교장관회의(9.21) 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOWNrYlhacnJsWWVZSnhhVHF2ZDZpMUcxNTk0SzJBS0ZRTERYaDdodEpGbTlNWXN5NXFwYUpoVnRwMFYxX0tkYkpENDZRR0k3RTlGY2pCWWRGeDNUbmxrVGJkcUdIaEh4Wll6UDJDamswYUVFMy1TTXpSd1RrSGFxU2pKdDN0V3c0R0E5Q013STg4dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-20T06:40:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-22T05:56:53+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "394c581256686646d677365e6cbcde42220c3ff71f519f5e761a03fa787510e7"
+    },
     {
       "id": "20260920-DP-57F3DF02-1517",
       "title": "한우, 카타르 수출길 열렸다... 뼈 없는 냉장·냉동 쇠고기 수출 가능 - 대한민국 정책브리핑",
@@ -1477,61 +1544,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2d2343af4694f1fe2a380668f4f90d591255300d56ce31b0d5dc794ff2a853d4"
-    },
-    {
-      "id": "20260919-FR-394C5812-1482",
-      "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "양자외교",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-19T06:08:34+09:00",
-      "publishedAt": "2026-09-19T06:08:34+09:00",
-      "firstCollectedAt": "2026-09-19T06:47:29+09:00",
-      "updatedAt": "2026-09-20T06:40:33+09:00",
-      "summary": "한미 외교장관회담(9.18.) 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-09-19",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWTJaRGNkSmEzVldFR20tTGZRamFqWE1HX0t2MnZ1d0c1OU9DOVlfNDZtUVVGRHZDZWJRQnc5OV9HUlY5RkNxTF9zcEdFeW1yaXJuTEtlRWpSbXN2ME0tXzQ5UmpyRWJJRWduNmtyQ1ZCUHZhYnZfd3pWck92YWtoVnprS25VS21mLUlkcEltN04ydw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미 외교장관회담(9.18.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-09-19",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90YmtBSExMeUNURWdoaldJWF8wbWRScFZrdmxlVHcxc2RwWWdiZlBhYy1nTGxPODVjRUR3VFZIRmxMb050SUZCYmlPdGRRTjIxLWpSb2FUVzZfajh3TzFRY0hjNUdFaGdtUG9lVnNHcHM0b0F5?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-20T06:40:33+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "394c581256686646d677365e6cbcde42220c3ff71f519f5e761a03fa787510e7"
     },
     {
       "id": "20260918-FR-AB4419C8-1468",
