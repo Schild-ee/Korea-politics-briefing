@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-22T23:39:02+09:00",
-    "nextScheduledUpdate": "2026-09-23T00:09:02+09:00",
+    "lastSuccessfulUpdate": "2026-09-23T03:44:00+09:00",
+    "nextScheduledUpdate": "2026-09-23T04:14:00+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-22T23:38:59+09:00",
-      "finishedAt": "2026-09-22T23:39:02+09:00",
+      "startedAt": "2026-09-23T03:43:57+09:00",
+      "finishedAt": "2026-09-23T03:44:00+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 29,
-      "duplicates": 28,
-      "rejected": 167,
-      "rejectedByDate": 167,
+      "acceptedCandidates": 33,
+      "duplicates": 32,
+      "rejected": 165,
+      "rejectedByDate": 165,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
       "newIssues": 2,
-      "updatedIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,139 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260922-DP-ACBB3647-1522",
+      "title": "소상공인 데이터 통합·활용을 위한 「소상공인기본법」 개정안 국무회의 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-22T09:32:54+09:00",
+      "publishedAt": "2026-09-22T09:32:54+09:00",
+      "firstCollectedAt": "2026-09-22T13:38:12+09:00",
+      "updatedAt": "2026-09-23T03:43:58+09:00",
+      "summary": "소상공인 데이터 통합·활용을 위한 「소상공인기본법」 개정안 국무회의 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소상공인 데이터 통합·활용을 위한 「소상공인기본법」 개정안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFRPaFpuS0lFMXpHT1VxeGNaVDk5SXZxQ1Y3NTBlcHMwOGMya2owelhDUlQ1NXM3NXIyVFN3RTNBYUdHUU9GTXRjWXZoamU3ZlNUZ2p6bXR0bWs0b28wb2NJdEc3bGoyQ3l1X0NNMVRHMlh1ZTR6X2FoQ2p0Z2hxQmFleEJjWmw2bF9PUVlONXdLQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "소상공인 데이터 통합·활용을 위한 「소상공인기본법」 개정안 국무회의 의결 - 보도자료 - 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTmFiOUEyQnE5THRoYjNxWFpFZXR0Mi1HNW5lVkxJczVDdDZFcDJyR0hMdUVyQnZyX1htYU92ZFIyRi1sbmowSHZNV042MlFaUDcwMFdRd2MwX2wxbXVkVFoyNE5YR2h4ZHVGV3ctLTk3UXVCcFkxT09ic2k0ZGV5R3BxdVp5WUJudVdN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-23T03:43:58+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "acbb36472683ae2a3fdb7aa4a5fbd6ac46916f9b9d80c033f578d7d8ec94e347"
+    },
+    {
+      "id": "20260923-DP-37813500-1539",
+      "title": "정부, 불법사금융 피해자 등 위기가구 선제 발굴…복지서비스 지원 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T01:36:59+09:00",
+      "publishedAt": "2026-09-23T01:36:59+09:00",
+      "firstCollectedAt": "2026-09-23T03:43:58+09:00",
+      "updatedAt": "2026-09-23T03:43:58+09:00",
+      "summary": "정부, 불법사금융 피해자 등 위기가구 선제 발굴…복지서비스 지원 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "정부, 불법사금융 피해자 등 위기가구 선제 발굴…복지서비스 지원 - 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uenhDWDJUb2NPRmdlMW8xV3I3WFZFM3Y5OWFwcDBBZWJ1SWdKcDNnSXJuZk9SV1lfZDFaZXFGYWRVVWw2Y1pnaVVkS2JaUkQxNnZwZVlINzZ0ZlVHZFpNRURLUUNYSkZYR0hLUg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3781350091004ee8d9dddb68825cd9b0c05fe48391f2d2658e698123b0809205"
+    },
+    {
+      "id": "20260922-FR-5A083B79-1540",
+      "title": "한-캐나다 정상회담 | 이재명 대통령 | 미디어 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-22T11:36:09+09:00",
+      "publishedAt": "2026-09-22T11:36:09+09:00",
+      "firstCollectedAt": "2026-09-23T03:43:58+09:00",
+      "updatedAt": "2026-09-23T03:43:58+09:00",
+      "summary": "한-캐나다 정상회담 | 이재명 대통령 | 미디어 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-캐나다 정상회담 | 이재명 대통령 | 미디어 - 대한민국 청와대",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNczR3aG9lVnRrblh4ZTdweDllM20zckVsLUp0a25rc1hHNnBWTXZZVDdCSFZLd2g5M1FvUHlab3ktQWFpN0NLTU40SFkyaTI0d3FDaFF5OGZkRy1KUFZNUDJKUm5OVVdGVDRKZVFSTmthY2hURGRHLVl4SC1KT2JSeGNRUmRWLXNPcGtSLU1iR0d5SWJfLWdR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5a083b79c910949d8de11baa4bd9a701957334be7a0e7a2fc6c3a915b0d18827"
+    },
     {
       "id": "20260922-FR-A79DE3B1-1535",
       "title": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" - 대한민국 정책브리핑",
@@ -1243,46 +1376,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "d9a898395e6d3d7b119eb73f0cace04e3ce0fe572b0859cb39ae76a668859042"
-    },
-    {
-      "id": "20260922-DP-ACBB3647-1522",
-      "title": "소상공인 데이터 통합·활용을 위한 「소상공인기본법」 개정안 국무회의 의결 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-22T09:32:54+09:00",
-      "publishedAt": "2026-09-22T09:32:54+09:00",
-      "firstCollectedAt": "2026-09-22T13:38:12+09:00",
-      "updatedAt": "2026-09-22T13:38:12+09:00",
-      "summary": "소상공인 데이터 통합·활용을 위한 「소상공인기본법」 개정안 국무회의 의결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "소상공인 데이터 통합·활용을 위한 「소상공인기본법」 개정안 국무회의 의결 - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFRPaFpuS0lFMXpHT1VxeGNaVDk5SXZxQ1Y3NTBlcHMwOGMya2owelhDUlQ1NXM3NXIyVFN3RTNBYUdHUU9GTXRjWXZoamU3ZlNUZ2p6bXR0bWs0b28wb2NJdEc3bGoyQ3l1X0NNMVRHMlh1ZTR6X2FoQ2p0Z2hxQmFleEJjWmw2bF9PUVlONXdLQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "acbb36472683ae2a3fdb7aa4a5fbd6ac46916f9b9d80c033f578d7d8ec94e347"
     },
     {
       "id": "20260922-DP-FCA6B373-1523",
