@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-22T18:49:49+09:00",
-    "nextScheduledUpdate": "2026-09-22T19:19:49+09:00",
+    "lastSuccessfulUpdate": "2026-09-22T23:39:02+09:00",
+    "nextScheduledUpdate": "2026-09-23T00:09:02+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-22T18:49:45+09:00",
-      "finishedAt": "2026-09-22T18:49:49+09:00",
+      "startedAt": "2026-09-22T23:38:59+09:00",
+      "finishedAt": "2026-09-22T23:39:02+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 31,
-      "duplicates": 22,
-      "rejected": 165,
-      "rejectedByDate": 165,
+      "acceptedCandidates": 29,
+      "duplicates": 28,
+      "rejected": 167,
+      "rejectedByDate": 167,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 10,
+      "newIssues": 2,
       "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,299 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260922-FR-A79DE3B1-1535",
+      "title": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-22T18:00:22+09:00",
+      "publishedAt": "2026-09-22T18:00:22+09:00",
+      "firstCollectedAt": "2026-09-22T18:49:46+09:00",
+      "updatedAt": "2026-09-22T23:39:00+09:00",
+      "summary": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kd2tSZ1BrQkxjWG9Kem8tdG5wNW5WekNyd2ZhcURwU0xGWE56cUR2S0FUaE0xdDV1djNiellKUjhhVDR3NklKemh3eEdJcGVFZmhYeDhoWWFvOTVSMDB6NDJZMm8wUDUxVGczMQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0l3ZVpJUnNrc2RzQkxnbmxNbFJ1SUs1Z2Z4NVZweV9BTGdDYTNEWUo2VHI3S2dpLTJlVTVOVkh2dmU4VEJHUzJoSDd6TTQzQ3dCQlBtWDd1WFVXRm5vYUMyYVpiY0RqdTJWNDFTaTNDX1VmYlg4TmFMMVJNMnAxOHdwbThnUzl4RE9XSQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-22T23:39:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a79de3b128806b386b077f792a2a69c7f51f4a4b605f519d6bd25d06c5941e65"
+    },
+    {
+      "id": "20260922-FR-1B7C44D7-1519",
+      "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국제기구",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-22T08:15:12+09:00",
+      "publishedAt": "2026-09-22T08:15:12+09:00",
+      "firstCollectedAt": "2026-09-22T08:59:34+09:00",
+      "updatedAt": "2026-09-22T23:39:00+09:00",
+      "summary": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmVURi1PT2NseVpldy14alIyeUpfN3Z5NXA4ZnNHTFk2SjRMclJlaVhDRVZtaTdMWXVDMHFVdFNKRDJTY01JSHpPVE5SUmE4NldmMkNYZkQtdmxLXzFvTzJlVkdsZ3ZQTXk5cl9VNXpLVUZSblBRRGV1Ulk5U0w4a25OMW9VNndRWkFldkVUX1Zrdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRG83eDU4WXRHUjRIcWJaVFpjVmwya3Mtb1Bta1dObWY1MDQxVjlrdEhYd3dQZ2xPcmxsQWlLMkFyMmpVRVZDUDktdWg0R2EtZ1lQdm4zcUNoODZ1TlNpYkkydXh6TUdqZHNma2JtLURCdnRfeENqSmMtcEEwcUp0R2RzWUNqVTVhdHRTbS15YUNsUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-22T23:39:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1b7c44d79f01e8022021271a00f23365ddc60936b713bb53024c84f60966c136"
+    },
+    {
+      "id": "20260831-DP-6D25CD17-838",
+      "title": "새소식 - 상세보기 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T21:14:28+09:00",
+      "publishedAt": "2026-08-31T21:14:28+09:00",
+      "firstCollectedAt": "2026-08-31T22:29:47+09:00",
+      "updatedAt": "2026-09-22T23:39:00+09:00",
+      "summary": "새소식 - 상세보기 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHZNaE5QTjI2elExekk1TGI3eXFnNFlRUF9mOHEtZUdKR3l1Z1F5ZU5vUlRWUVd2dnBRMExBdWlzNWxBUXBoWWpmck5WcHBjejY4bW11TlhySENuaE1lQmlnaHl3QVRzVjUxZXZLX0gyU0EyMVlEMU9zOE44ZEJjQzg3S3Y5dXZHVUQw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkRCOEoxTGFBUkhhTkE5M0g0SHp5M2ZPM2VnVUFZZUVHc2JtZUNVVGhmTVBqSWZmV2VXZWxfVUhvM0JyWVBmekd1NWUteTRJcGlsSkJJZ3AwNkRSdUJWeTdjbjlBMHBsUzhSYlFmX0hYSUtmdjViRXEzdWNvczhjYXZVWWthU0o0aDg4?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0JUOElKeUFieDJpQTVDNnIwRGxJek5TZ2hTSDFYMm96WjJ2clJjdG5VNVNTa3VPZ1JkckJzcnRpSVJxUjNrVkhRQkZBRERLWW9DVEQza3gxclFmSHNvdkY2NE82OWhyN1oyUjR5a1ZpNjhHOTlNc2sxWTE2ZjZJQkM1RFRkNVU4UVY5WQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlBXM2haSnFZeXVmTl9ZYV9zaDY0d2VJWjhjTFhBaVlfZE1yU0tvUjJSbmQxOXFtVlkwbXZqTHBOT2VQMXloUm5CQVBDTzJpWkxkQnEwWENXT3J4d1JYUTFMSzU0SFdtUGpEVU9zZmFwT0dhOFcxQ0NYdVlYajd6a3ZScVVuUGtKd0Y4?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFJwYmNSblJlWVhTYWJCMU9HWUxqNlVJTUJQMFVoeUxzZ3RzcTJJQVhqcXVtbWQ0NHJmeUJIc1dteHdQcnVJVkVnaTVxZjMxQ1dtUHZFaWt1cm9YNlcxdlpVQ3NZSWdXZWRSUkc3ejMxVDFSWjNBMk1zaFlYTXNQaHhpNzZoOE1sajJVTg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmxGdWkyaGl2cHhxRjI3SHJDX0lsRDkwS1gzc1RuUGJUa3dmZE1FWVM3ckdPVEV1a0dsVzJoU0ZqNGFmUlJwVHBjRXJCR3lpRlo4cjdlSHBZbnc0TmpPcWFFcWlBV045NDVOOHljM2M4VDRUeFFPTWdYV2tyaFF5NXJoTzNURm9rRTRr?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-04T13:17:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-05T17:32:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-07T09:54:59+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-08T02:52:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-22T23:39:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6d25cd170abbff98d33bf0f1c491f766f03ba992d53805652db1813c19ac1224"
+    },
+    {
+      "id": "20260921-DP-31062021-1537",
+      "title": "이억원 금융위원장, 추석 맞이 전통시장 방문 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-21T00:00:00+09:00",
+      "publishedAt": "2026-09-21T00:00:00+09:00",
+      "firstCollectedAt": "2026-09-22T23:39:00+09:00",
+      "updatedAt": "2026-09-22T23:39:00+09:00",
+      "summary": "이억원 금융위원장, 추석 맞이 전통시장 방문 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이억원 금융위원장, 추석 맞이 전통시장 방문 - 대한민국 정책브리핑",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5aGhEN05uNVN0b1puVWE3cUVCT1kzYWNXTEdLZFkwb1VXUnJmUTBwRE9oRnVxclRtLTZFVmxDdmp0eUJCMkdndXdEYVJiU2p0c2dXU1V6QTdEQlV1WFZhMVJXQzdiak5JZ0FPbG94YlJpYjVB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "31062021de3c24337698e02f827a2896c9ea8f0abc4ed05dbe8581c92cc20301"
+    },
+    {
+      "id": "20260922-FR-2AA2A55E-1538",
+      "title": "유엔총회 고위급회기 계기 한-UAE 외교장관회담(9.21.) 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-22T22:44:31+09:00",
+      "publishedAt": "2026-09-22T22:44:31+09:00",
+      "firstCollectedAt": "2026-09-22T23:39:00+09:00",
+      "updatedAt": "2026-09-22T23:39:00+09:00",
+      "summary": "유엔총회 고위급회기 계기 한-UAE 외교장관회담(9.21.) 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "유엔총회 고위급회기 계기 한-UAE 외교장관회담(9.21.) 개최 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0p0YUZyNFpWeGZtTVRiczZpRzdMU0NqbmpVSS1CNDNLMHlILWhDNFpPQ1VMY1h3WmQtSWlBTF95MU8wSWVLV2JSS3lBNDJ5djBILUV6c09OTTBWXzh4Ykxhd1RoeVg5REE3ZjY5WlhWRnVlTjlzRG94T3BXVzJhbG9UVDJicVQ1ME02NlFNYU4zUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2aa2a55e5e92b268cec0c80b9410d31e9bb9546ca38097f367d0a08cbef13ad9"
+    },
     {
       "id": "20260921-FR-62052DC7-1509",
       "title": "조현 외교장관, 유엔총회 의장 면담 및 파나마, 바레인 외교장관 회담 개최 - 대한민국 정책브리핑",
@@ -303,48 +596,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9c5834b862d128683dd99a166ce1d99b80cad05968cc94b3d609fb9b3ec611cc"
-    },
-    {
-      "id": "20260922-FR-A79DE3B1-1535",
-      "title": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-22T18:00:22+09:00",
-      "publishedAt": "2026-09-22T18:00:22+09:00",
-      "firstCollectedAt": "2026-09-22T18:49:46+09:00",
-      "updatedAt": "2026-09-22T18:49:46+09:00",
-      "summary": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미일 \"대화와 외교로 한반도 평화·안정 유지…비핵화 공조\" - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kd2tSZ1BrQkxjWG9Kem8tdG5wNW5WekNyd2ZhcURwU0xGWE56cUR2S0FUaE0xdDV1djNiellKUjhhVDR3NklKemh3eEdJcGVFZmhYeDhoWWFvOTVSMDB6NDJZMm8wUDUxVGczMQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "a79de3b128806b386b077f792a2a69c7f51f4a4b605f519d6bd25d06c5941e65"
     },
     {
       "id": "20260921-DP-E421E849-1536",
@@ -1192,48 +1443,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "03df58177b54d3a28bc076d98f57c57b652a767b869f145e35c7a93ee19f448b"
-    },
-    {
-      "id": "20260922-FR-1B7C44D7-1519",
-      "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "국제기구",
-      "countries": [
-        "유엔"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-22T08:15:12+09:00",
-      "publishedAt": "2026-09-22T08:15:12+09:00",
-      "firstCollectedAt": "2026-09-22T08:59:34+09:00",
-      "updatedAt": "2026-09-22T08:59:34+09:00",
-      "summary": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmVURi1PT2NseVpldy14alIyeUpfN3Z5NXA4ZnNHTFk2SjRMclJlaVhDRVZtaTdMWXVDMHFVdFNKRDJTY01JSHpPVE5SUmE4NldmMkNYZkQtdmxLXzFvTzJlVkdsZ3ZQTXk5cl9VNXpLVUZSblBRRGV1Ulk5U0w4a25OMW9VNndRWkFldkVUX1Zrdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1b7c44d79f01e8022021271a00f23365ddc60936b713bb53024c84f60966c136"
     },
     {
       "id": "20260921-FR-D6C4AF04-1520",
@@ -22942,95 +23151,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "213193633c6c9784618c75c440b252203539b9efb5cf25bdf1b72225257a0b7d"
-    },
-    {
-      "id": "20260831-DP-6D25CD17-838",
-      "title": "새소식 - 상세보기 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T21:14:28+09:00",
-      "publishedAt": "2026-08-31T21:14:28+09:00",
-      "firstCollectedAt": "2026-08-31T22:29:47+09:00",
-      "updatedAt": "2026-09-08T02:52:07+09:00",
-      "summary": "새소식 - 상세보기 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHZNaE5QTjI2elExekk1TGI3eXFnNFlRUF9mOHEtZUdKR3l1Z1F5ZU5vUlRWUVd2dnBRMExBdWlzNWxBUXBoWWpmck5WcHBjejY4bW11TlhySENuaE1lQmlnaHl3QVRzVjUxZXZLX0gyU0EyMVlEMU9zOE44ZEJjQzg3S3Y5dXZHVUQw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkRCOEoxTGFBUkhhTkE5M0g0SHp5M2ZPM2VnVUFZZUVHc2JtZUNVVGhmTVBqSWZmV2VXZWxfVUhvM0JyWVBmekd1NWUteTRJcGlsSkJJZ3AwNkRSdUJWeTdjbjlBMHBsUzhSYlFmX0hYSUtmdjViRXEzdWNvczhjYXZVWWthU0o0aDg4?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-05",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0JUOElKeUFieDJpQTVDNnIwRGxJek5TZ2hTSDFYMm96WjJ2clJjdG5VNVNTa3VPZ1JkckJzcnRpSVJxUjNrVkhRQkZBRERLWW9DVEQza3gxclFmSHNvdkY2NE82OWhyN1oyUjR5a1ZpNjhHOTlNc2sxWTE2ZjZJQkM1RFRkNVU4UVY5WQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlBXM2haSnFZeXVmTl9ZYV9zaDY0d2VJWjhjTFhBaVlfZE1yU0tvUjJSbmQxOXFtVlkwbXZqTHBOT2VQMXloUm5CQVBDTzJpWkxkQnEwWENXT3J4d1JYUTFMSzU0SFdtUGpEVU9zZmFwT0dhOFcxQ0NYdVlYajd6a3ZScVVuUGtKd0Y4?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFJwYmNSblJlWVhTYWJCMU9HWUxqNlVJTUJQMFVoeUxzZ3RzcTJJQVhqcXVtbWQ0NHJmeUJIc1dteHdQcnVJVkVnaTVxZjMxQ1dtUHZFaWt1cm9YNlcxdlpVQ3NZSWdXZWRSUkc3ejMxVDFSWjNBMk1zaFlYTXNQaHhpNzZoOE1sajJVTg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-04T13:17:05+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-05T17:32:05+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-09-07T09:54:59+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-08T02:52:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6d25cd170abbff98d33bf0f1c491f766f03ba992d53805652db1813c19ac1224"
     },
     {
       "id": "20260907-DP-F569B8B5-1060",
