@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-23T09:15:26+09:00",
-    "nextScheduledUpdate": "2026-09-23T09:45:26+09:00",
+    "lastSuccessfulUpdate": "2026-09-23T14:04:18+09:00",
+    "nextScheduledUpdate": "2026-09-23T14:34:18+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-23T09:15:21+09:00",
-      "finishedAt": "2026-09-23T09:15:26+09:00",
+      "startedAt": "2026-09-23T14:04:14+09:00",
+      "finishedAt": "2026-09-23T14:04:18+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 33,
-      "duplicates": 34,
-      "rejected": 164,
-      "rejectedByDate": 164,
+      "acceptedCandidates": 38,
+      "duplicates": 31,
+      "rejected": 159,
+      "rejectedByDate": 159,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 1,
+      "newIssues": 8,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,438 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260923-FR-F64604FC-1542",
+      "title": "이 대통령, '평화공존' 3대 청사진 제시…\"북핵 중단·축소 거쳐 핵 없는 한반도로\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "북핵",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T09:13:46+09:00",
+      "publishedAt": "2026-09-23T09:13:46+09:00",
+      "firstCollectedAt": "2026-09-23T09:15:25+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "이 대통령, '평화공존' 3대 청사진 제시…\"북핵 중단·축소 거쳐 핵 없는 한반도로\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, '평화공존' 3대 청사진 제시…\"북핵 중단·축소 거쳐 핵 없는 한반도로\" - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwa0VMM21oTndVZEhPQk9USnF3SnJzUFRnY1pyQ2RzMnE5enVKelE0a2tGWmhWc0tvQVZVNlR5NzFER3lVQTVVeHdlSFphQmc1ZXJPeWxBLURvdW1Ib3dkQlNsM3BjUHh1OWxxWg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령, '평화공존' 3대 청사진 제시…\"북핵 중단·축소, 핵 없는 한반도로\" - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONTQ5aFJaSzdVX3ozVnUzenZ4dXdNeGNaREtNVjEwZWdGTHFtZXEyYmlkWDZTQmVHdVFnM3BiVk9RVnJfZngzTml2VzVVM1loMkxCcVczWjVRRXpHWFJ0NVF4c1daYjc4TkZQV3A3NDlaTENyZVBQLVpSUzlBeHpjNDdrNVJkRW44djk2TUFJN0FwZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-23T14:04:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f64604fce6296fe2de0234a3ba275eeb9a448d3ca796c30a0730bf9f52fc7915"
+    },
+    {
+      "id": "20260922-DP-BA80A801-1528",
+      "title": "정부, 성착취물 불법사이트 29% 무력화…운영자 32명 검거 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-22T15:45:24+09:00",
+      "publishedAt": "2026-09-22T15:45:24+09:00",
+      "firstCollectedAt": "2026-09-22T18:49:45+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "정부, 성착취물 불법사이트 29% 무력화…운영자 32명 검거 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 성착취물 불법사이트 29% 무력화…운영자 32명 검거 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFN5eVRoSUxOa1ZjSWQzd2dfWGk4TnppSnc3UHM3VE9JNGxDQ1lWY3ZpcXFLXzBDYlZFRGFwMzJhcjdZS1Vib2VfV3FNTjVGclItLWo5NVY5RmJObWd6cG1WOXNtN2xOU09pc1hzTkhjN0c1WmdMelVvd3NDZFBrWkNuM2J3dk1laEE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 성착취물 불법사이트 29% 무력화…운영자 32명 검거 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XdWs1a3VrVEZ5SWh0M19kQm16Tm1pUEFxT2V1STJncjU1T1pQMXd0bWZ1d2UzM2Jxa091NFZoeHl2QTdaRGRyU28zdl82enFFQjdPZ0NGS211a2RjTkxvdjVnUkhtclA1UFV0Mg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-23T14:04:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ba80a801459841ce339b0ab15083d44f196f65ac16e0c250b6f26b92871cb63a"
+    },
+    {
+      "id": "20260923-DP-278A5592-1543",
+      "title": "관세청, 전자담배 용액 고강도 통관관리 대책 시행중 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T10:50:02+09:00",
+      "publishedAt": "2026-09-23T10:50:02+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "관세청, 전자담배 용액 고강도 통관관리 대책 시행중 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "관세청, 전자담배 용액 고강도 통관관리 대책 시행중 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFN2WXRldEcyd2Y4TTFJNUtnMl92OFIxdnVaM0Y3UXRPNDEzNVpURU9WUmhZZ09jQWpGWmRLeDBULW9PRTRtbDVQREUwWktiOWpBMEdLd2VoRHJ2VXBvX1U3MFZ2d29CQVRZSnBiZGh0VzBqcE85WEpUa3Y5b2wyNk9sVGQ3RXRrRnFTYzFZNnRCQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "278a5592534a1d0f36ddd85a0b677d669d0a345a367c152eed3013b76d67740c"
+    },
+    {
+      "id": "20260923-DP-3E5DE30F-1544",
+      "title": "신고자 보상 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T02:36:58+09:00",
+      "publishedAt": "2026-09-23T02:36:58+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "신고자 보상 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "신고자 보상 강화 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10Q0RPRlE1a0VNQXdHY3BvanBBQXl2VThMWXhUVEJtbllqTVFaOGJKdGxlNUdFNGNXVTBqbmd5Q05rUGxLR0pZMkJtaVVlcG5RdUdoOHNGYktVUXBFQWVrX2Y2N1gtenZMVktSOEcxQngxYkNvdVFZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3e5de30f01fbabf4cd0bc9042c1750e03ec98da2f00d174cacb310afa27d846e"
+    },
+    {
+      "id": "20260923-FR-BF4496CE-1545",
+      "title": "유엔 총회 고위급 회기 참석 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T12:34:44+09:00",
+      "publishedAt": "2026-09-23T12:34:44+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "유엔 총회 고위급 회기 참석 결과 관련 위성락 국가안보실장 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "유엔 총회 고위급 회기 참석 결과 관련 위성락 국가안보실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNHMzN3VSampTOTZfa3B5ZE90YXlINTNuLTBCVW1PU2FBSVl0dUk0Sy1sQmZxeHYyRkxtNWV1MUlHTE41bUlpTEhCX0FxdUtOQXYxcHdGek1yME5iZUVvNnVRRldpdFRzdXJlWWw2amFGaENHclhMZXk3T0dPYklTS2I4TGNWdjRibjF0dnVn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bf4496ce0d761e791c69c05a2037be51bad7ac9cb226a21976cd4fcbfdaa2f96"
+    },
+    {
+      "id": "20260923-FR-4ABC8AE5-1546",
+      "title": "유엔총회 계기 한-콩고공화국 외교장관회담(9.22.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T10:50:00+09:00",
+      "publishedAt": "2026-09-23T10:50:00+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "유엔총회 계기 한-콩고공화국 외교장관회담(9.22.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "유엔총회 계기 한-콩고공화국 외교장관회담(9.22.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWdYd01rdi0zZVdtNDlPZ1N6R0FlRGNRNjlPUkVGZmVXMFk3UUdZR0RwNEthSERRVVlYczc3anhjWktHazFqRmJIamt3WlVCVkRmTTNVeGxJNUdoY2dCTDVsNVFJRF9zRFhXcWVHUWNaNmpfeENNVDJmbUFScm9veUg2UTQ2dHkwWk03SGVERkhzUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4abc8ae51ea7ecf037b5e1b75e71b110d76c05eea27ed68e683952390ce49234"
+    },
+    {
+      "id": "20260923-FR-07D28CEF-1547",
+      "title": "자원안보 중장기 로드맵 마련, 위기에 강한 자원안보 대비태세 구축한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T09:53:43+09:00",
+      "publishedAt": "2026-09-23T09:53:43+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "자원안보 중장기 로드맵 마련, 위기에 강한 자원안보 대비태세 구축한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "자원안보 중장기 로드맵 마련, 위기에 강한 자원안보 대비태세 구축한다 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdTI3VHpfNE8zLTBqUjhPV2tKTExjMzljMWdNS3hPZXhEX240a1pnZkxKZFMxbzFJSVVwakd6aHRkT0U2blE4eXB6bDdvaEpycFpjbVMtQ1IwMUpUcXIwR0xpUTdUME5RYUpDcDdnUGtNSEQwSnJiTERhUDEzQkFjYUprVlB3YnY5ekRxY25WMXo5UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "07d28cefd646c9c975c927c060f8cc28415b6304383bceef1a53dbf897eea347"
+    },
+    {
+      "id": "20260923-FR-1380E195-1548",
+      "title": "재외동포청, 입양동포·청년이 겪는 제도 불편 개선 제안 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T09:53:03+09:00",
+      "publishedAt": "2026-09-23T09:53:03+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "재외동포청, 입양동포·청년이 겪는 제도 불편 개선 제안 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재외동포청, 입양동포·청년이 겪는 제도 불편 개선 제안 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSl9iV1VSTl9DWVNtNGJmNjV0TVZoQWtkY2stRTB3VW1OMUtCREZodVZDNmMyb0xHLXN2RmZhUkNESk9xb1JoRGMwYzFha2tkamp3ZjdkV09ObFVtMW5mc3FUazdtaG9xYldqbzdCSW45TUJuOGNnQ3VVUTQzUFNlS19HQ3dsVzNJWVVJNnNVZ2xMQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1380e1958cc2dcb27fa98481a54582c9e968d9338162e9270d515b4f46f0f984"
+    },
+    {
+      "id": "20260923-FR-D5B2A636-1549",
+      "title": "한-호주 정상회담, 주요 에너지자원 공급 '핵심 파트너' 재확인 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T10:07:30+09:00",
+      "publishedAt": "2026-09-23T10:07:30+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "한-호주 정상회담, 주요 에너지자원 공급 '핵심 파트너' 재확인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-호주 정상회담, 주요 에너지자원 공급 '핵심 파트너' 재확인 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkZVE1SEttWC1PUUN4c2N5VDNYMDRpT0NLMDVQUDJDRDV5eF9ONUZ1cFY3N19HU0N5Z04ybGN0QW9UWERBZk9kQ1ZDTmltaDhJbXFKc1hIRU9MVmpnRzh0Zk5IdTlPZUdEUkdLNg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d5b2a63647f82cf052c00f7140af674ced21b2a495467b7757325a8c68a578a9"
+    },
+    {
+      "id": "20260923-FR-F9BDB761-1550",
+      "title": "[보도설명자료] 재외동포협력센터 통합 및 직원 고용안정 방안 마련 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-23T13:38:29+09:00",
+      "publishedAt": "2026-09-23T13:38:29+09:00",
+      "firstCollectedAt": "2026-09-23T14:04:15+09:00",
+      "updatedAt": "2026-09-23T14:04:15+09:00",
+      "summary": "[보도설명자료] 재외동포협력센터 통합 및 직원 고용안정 방안 마련 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료] 재외동포협력센터 통합 및 직원 고용안정 방안 마련 관련 - 대한민국 정책브리핑",
+          "date": "2026-09-23",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeUFJdi1XV2lrcUwzZzVUQXc1WEoxNGZYcG0taWQ4QjBndV9EOEI2OVhFd0dpbEhBemRGYWFuU3pKclBXQjVpa19Bdno0T1JETWI0Xy1kTy00NlBCTF9pUGN6RTZxckwzN3FJSDNndUsxWUZsenV4aFZIZnFyQ1FoVTNRQ2FKbjJNTFF3N3I1RUVFRHFoS1VFeTItSE9pTTFIOVhfcWdRQXhwU2otbWpQc1Y5Nm14c09SbzJvdTRYWDA2S2FaTmpkandpaWVVRy1fbXZDZzhtaWlDNjZ5QWxMTWpOZDI1WFRhal9yZDE0RQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f9bdb7610b6a02364cede9629834c84e8a6035164af06bd40afeaf3466cd3b92"
+    },
     {
       "id": "20260922-FR-2AA2A55E-1538",
       "title": "유엔총회 고위급회기 계기 한-UAE 외교장관회담(9.21.) 개최 - 대한민국 정책브리핑",
@@ -118,48 +550,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2aa2a55e5e92b268cec0c80b9410d31e9bb9546ca38097f367d0a08cbef13ad9"
-    },
-    {
-      "id": "20260923-FR-F64604FC-1542",
-      "title": "이 대통령, '평화공존' 3대 청사진 제시…\"북핵 중단·축소 거쳐 핵 없는 한반도로\" - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "북핵",
-      "countries": [
-        "북한"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-23T09:13:46+09:00",
-      "publishedAt": "2026-09-23T09:13:46+09:00",
-      "firstCollectedAt": "2026-09-23T09:15:25+09:00",
-      "updatedAt": "2026-09-23T09:15:25+09:00",
-      "summary": "이 대통령, '평화공존' 3대 청사진 제시…\"북핵 중단·축소 거쳐 핵 없는 한반도로\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이 대통령, '평화공존' 3대 청사진 제시…\"북핵 중단·축소 거쳐 핵 없는 한반도로\" - 대한민국 정책브리핑",
-          "date": "2026-09-23",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwa0VMM21oTndVZEhPQk9USnF3SnJzUFRnY1pyQ2RzMnE5enVKelE0a2tGWmhWc0tvQVZVNlR5NzFER3lVQTVVeHdlSFphQmc1ZXJPeWxBLURvdW1Ib3dkQlNsM3BjUHh1OWxxWg?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f64604fce6296fe2de0234a3ba275eeb9a448d3ca796c30a0730bf9f52fc7915"
     },
     {
       "id": "20260923-FR-ECED5DC4-1541",
@@ -1066,46 +1456,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "278380188e956ca19c9675fbd90abad5f4a73d87a05b18743c51f4a09875eb7e"
-    },
-    {
-      "id": "20260922-DP-BA80A801-1528",
-      "title": "정부, 성착취물 불법사이트 29% 무력화…운영자 32명 검거 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-22T15:45:24+09:00",
-      "publishedAt": "2026-09-22T15:45:24+09:00",
-      "firstCollectedAt": "2026-09-22T18:49:45+09:00",
-      "updatedAt": "2026-09-22T18:49:45+09:00",
-      "summary": "정부, 성착취물 불법사이트 29% 무력화…운영자 32명 검거 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "정부, 성착취물 불법사이트 29% 무력화…운영자 32명 검거 - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFN5eVRoSUxOa1ZjSWQzd2dfWGk4TnppSnc3UHM3VE9JNGxDQ1lWY3ZpcXFLXzBDYlZFRGFwMzJhcjdZS1Vib2VfV3FNTjVGclItLWo5NVY5RmJObWd6cG1WOXNtN2xOU09pc1hzTkhjN0c1WmdMelVvd3NDZFBrWkNuM2J3dk1laEE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ba80a801459841ce339b0ab15083d44f196f65ac16e0c250b6f26b92871cb63a"
     },
     {
       "id": "20260922-DP-6AF63A1E-1529",
