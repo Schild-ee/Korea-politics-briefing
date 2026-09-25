@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-26T02:53:21+09:00",
-    "nextScheduledUpdate": "2026-09-26T03:23:21+09:00",
+    "lastSuccessfulUpdate": "2026-09-26T06:27:09+09:00",
+    "nextScheduledUpdate": "2026-09-26T06:57:09+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-26T02:53:18+09:00",
-      "finishedAt": "2026-09-26T02:53:21+09:00",
+      "startedAt": "2026-09-26T06:27:06+09:00",
+      "finishedAt": "2026-09-26T06:27:09+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 25,
-      "duplicates": 23,
-      "rejected": 173,
-      "rejectedByDate": 150,
-      "rejectedByRelevance": 23,
+      "acceptedCandidates": 43,
+      "duplicates": 44,
+      "rejected": 155,
+      "rejectedByDate": 151,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260925-FR-39E27DF5-1623",
+      "title": "추석, 이럴 땐 여기로 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T10:40:46+09:00",
+      "publishedAt": "2026-09-25T10:40:46+09:00",
+      "firstCollectedAt": "2026-09-26T06:27:07+09:00",
+      "updatedAt": "2026-09-26T06:27:07+09:00",
+      "summary": "추석, 이럴 땐 여기로 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "추석, 이럴 땐 여기로 - 대한민국 정책브리핑",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FVlZaXzF5Wjl4a0ZFOWVpUmppcm03RjFuSHJnc3lPbWNDVWZDeW9fSmVOa2w3UF9pbFN2bWVvMnR1TDhhMlFBVlFuaXhOZ25TOW1vVlVaN21zbmtQNkkzRFk0bDdQS08xdHRfSWVB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "39e27df5836c073b72a49fa082ccd4b6c0569a6f53eec60ae3e0d8a96e90c30e"
+    },
     {
       "id": "20260925-FR-E36ED8EE-1619",
       "title": "한·멕시코 정상회담 확대회담 및 오찬 - korea.kr",
