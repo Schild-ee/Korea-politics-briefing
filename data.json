@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-25T21:56:59+09:00",
-    "nextScheduledUpdate": "2026-09-25T22:26:59+09:00",
+    "lastSuccessfulUpdate": "2026-09-26T02:53:21+09:00",
+    "nextScheduledUpdate": "2026-09-26T03:23:21+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-25T21:56:55+09:00",
-      "finishedAt": "2026-09-25T21:56:59+09:00",
+      "startedAt": "2026-09-26T02:53:18+09:00",
+      "finishedAt": "2026-09-26T02:53:21+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 46,
-      "duplicates": 40,
-      "rejected": 153,
-      "rejectedByDate": 149,
-      "rejectedByRelevance": 4,
+      "acceptedCandidates": 25,
+      "duplicates": 23,
+      "rejected": 173,
+      "rejectedByDate": 150,
+      "rejectedByRelevance": 23,
       "rejectedAsCommentary": 0,
-      "newIssues": 6,
-      "updatedIssues": 1,
+      "newIssues": 4,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,168 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260925-FR-E36ED8EE-1619",
+      "title": "한·멕시코 정상회담 확대회담 및 오찬 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T18:39:09+09:00",
+      "publishedAt": "2026-09-25T18:39:09+09:00",
+      "firstCollectedAt": "2026-09-26T02:53:19+09:00",
+      "updatedAt": "2026-09-26T02:53:19+09:00",
+      "summary": "한·멕시코 정상회담 확대회담 및 오찬 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "한·멕시코 정상회담 확대회담 및 오찬 - korea.kr",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tRUIyYUY5MlNrUWY0TmkwRk9wV0k4SW1wNGxtMTdfYzVQVTRfS3Zscms0Wko0WVRjcmtnQkdXTVJhZFk1anNERGM5YTZEakdNY05JMXhzQU5sWVdFZWpNRGFvbkNscmFwSzFtc1FzMWxrdElmUDM3WHF3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e36ed8eee5db60706ec15326ea0eb052e9f0b110c08e0f327540d5d77c94e56c"
+    },
+    {
+      "id": "20260924-FR-B4F3302A-1620",
+      "title": "제81차 유엔총회 계기 「에볼라 대응 관련 G20 외교장관회의」 결과 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "다자외교",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-24T12:11:01+09:00",
+      "publishedAt": "2026-09-24T12:11:01+09:00",
+      "firstCollectedAt": "2026-09-26T02:53:19+09:00",
+      "updatedAt": "2026-09-26T02:53:19+09:00",
+      "summary": "제81차 유엔총회 계기 「에볼라 대응 관련 G20 외교장관회의」 결과 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "제81차 유엔총회 계기 「에볼라 대응 관련 G20 외교장관회의」 결과 - korea.kr",
+          "date": "2026-09-24",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnhvcXctSklpYjJrR25vbU5uWXpabnhOTHViQ0x1RDIwWjF6MmxZcFJ6eEZTSlBFR1RPSVVKQmhuVGYyQnRfeF9pakFCTThqakdHS2NURnd3WG1MZ0pCMUxYOGw4WE95UjYyWjdRUjhOWWVNTzYtSGlmUW1wUUs0em4yN1lmUkFGd05v?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b4f3302ad915219dab2a1f75945b7061850311a5d6a2dbba08348e8a17273169"
+    },
+    {
+      "id": "20260925-FR-E77BDE2D-1621",
+      "title": "한·멕시코, 미래산업·인재·통상 협력망 확대…협력문건 17건 체결 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T13:50:01+09:00",
+      "publishedAt": "2026-09-25T13:50:01+09:00",
+      "firstCollectedAt": "2026-09-26T02:53:19+09:00",
+      "updatedAt": "2026-09-26T02:53:19+09:00",
+      "summary": "한·멕시코, 미래산업·인재·통상 협력망 확대…협력문건 17건 체결 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "한·멕시코, 미래산업·인재·통상 협력망 확대…협력문건 17건 체결 - korea.kr",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RY1c3LTduYTlCdTdoOFZUcTZKWko3WmhBUXlwQlhxSHlfT1lZdTU5VFkzQnJJWDdiaDVhT08xZEZoVElpVF9HM1FwZkRPYU5OVjQ4akZTWjVrTWFwM3RMZ080SGJmNXhTblBVbg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e77bde2de671c092f61cd53afb2e40b17bd75fa963a831ffc9520a29fc06a9ef"
+    },
+    {
+      "id": "20260925-FR-D2B0EA38-1622",
+      "title": "이 대통령, 한-멕시코 기업인 간담회…\"양국, 중요한 전략적 파트너\" - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T23:07:38+09:00",
+      "publishedAt": "2026-09-25T23:07:38+09:00",
+      "firstCollectedAt": "2026-09-26T02:53:19+09:00",
+      "updatedAt": "2026-09-26T02:53:19+09:00",
+      "summary": "이 대통령, 한-멕시코 기업인 간담회…\"양국, 중요한 전략적 파트너\" korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "이 대통령, 한-멕시코 기업인 간담회…\"양국, 중요한 전략적 파트너\" - korea.kr",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UTWNkdEFNcUl5THduMHJfdUhmeFdZRzV0MDBVQWdkdS1STFF2c3UtM3A3a2QyVVZ6b1Iwa1FOTzlOQlBMVGRUaTVpUGp1Wnd4UkVndEkxZWVKQXJacnFoc09TRGV3TVVPazhraw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d2b0ea384cd3a0ee2573bf8db24f17e7d73e04a34324f913fc0b53ce18d2f02e"
+    },
     {
       "id": "20260907-FR-3B59523F-1066",
       "title": "서울안보대화 계기 케냐·몽골 국방차관 양자회담 - 대한민국 정책브리핑",
