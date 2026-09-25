@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-25T08:09:20+09:00",
-    "nextScheduledUpdate": "2026-09-25T08:39:20+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-09-25T10:49:24+09:00",
+    "nextScheduledUpdate": "2026-09-25T11:19:24+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-25T08:09:17+09:00",
-      "finishedAt": "2026-09-25T08:09:20+09:00",
+      "startedAt": "2026-09-25T10:49:21+09:00",
+      "finishedAt": "2026-09-25T10:49:24+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 49,
-      "duplicates": 53,
-      "rejected": 147,
-      "rejectedByDate": 143,
+      "acceptedCandidates": 46,
+      "duplicates": 46,
+      "rejected": 150,
+      "rejectedByDate": 146,
       "rejectedByRelevance": 4,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 4,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,168 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260925-FR-88F8DB12-1603",
+      "title": "이 대통령 \"북한 포로 송환, 우크라가 비공개 합의 어기고 공개\" - 부산일보",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "부산일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-09-25T08:42:38+09:00",
+      "publishedAt": "2026-09-25T08:42:38+09:00",
+      "firstCollectedAt": "2026-09-25T10:49:23+09:00",
+      "updatedAt": "2026-09-25T10:49:23+09:00",
+      "summary": "이 대통령 \"북한 포로 송환, 우크라가 비공개 합의 어기고 공개\" 부산일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "부산일보",
+          "title": "이 대통령 \"북한 포로 송환, 우크라가 비공개 합의 어기고 공개\" - 부산일보",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wbFIwNFNzdy1wTmdkajBFV191c3BuUjhWZjJOdm1RX2RNTktxQnZ5VzNIaUIzX3ppQXZHZUdLam5IRnAtamZfa1JSTHlmbXJJVHM2VzFmZzVEaEczQkUtRlN1cnlPSHhmYVpZU0hPRDBsQkxs?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "88f8db124a89c13f7b4efbacfe190073f41b3b9e5ea8e84d1658ca54a3ee98cf"
+    },
+    {
+      "id": "20260925-FR-28319F93-1600",
+      "title": "이 대통령 \"한-멕 투자보장협정 개정 타결…'AI 협력 선언'도 채택\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T09:56:15+09:00",
+      "publishedAt": "2026-09-25T09:56:15+09:00",
+      "firstCollectedAt": "2026-09-25T10:49:22+09:00",
+      "updatedAt": "2026-09-25T10:49:22+09:00",
+      "summary": "이 대통령 \"한-멕 투자보장협정 개정 타결…'AI 협력 선언'도 채택\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"한-멕 투자보장협정 개정 타결…'AI 협력 선언'도 채택\" - 대한민국 정책브리핑",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3SWw1Zms2VDJkOEdWQ2l3V2hTeXhmaXhwcFZ2OXRLekgwVlZId3BfVmhCUjdwUGpmTE9vaGc3aFVJekpNMFIzdWVvdGZ4X042V1lmOHY2VUVLU2Z3Z1hCSnNsa2xZNmJ4UTNTZg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "28319f9301b5d2e90ff4adb06310be6f1c17a4c7e8725acf05a0321f99371d4d"
+    },
+    {
+      "id": "20260925-FR-9BE52311-1601",
+      "title": "한·멕, '2026~2030 공동행동계획' 채택…경제·첨단산업 협력 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T09:59:23+09:00",
+      "publishedAt": "2026-09-25T09:59:23+09:00",
+      "firstCollectedAt": "2026-09-25T10:49:22+09:00",
+      "updatedAt": "2026-09-25T10:49:22+09:00",
+      "summary": "한·멕, '2026~2030 공동행동계획' 채택…경제·첨단산업 협력 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·멕, '2026~2030 공동행동계획' 채택…경제·첨단산업 협력 확대 - 대한민국 정책브리핑",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fU3BYSkFmYk1mbHBNUkdQdVEwZVZiMHg2d3FVMnJGUFFjYWhzQ0VNSUgtRUVPeXZJcGtYeFNsZDVJYlItSWg2eEVKUzUxNzZTSUJvX0pnWnJJMmZwUkJTbThxcEVadk1tRjFWUA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9be52311bf81a7da843543cc2eab8d6b696df63ebf9d100e60adca940eafdd94"
+    },
+    {
+      "id": "20260925-FR-B04220A8-1602",
+      "title": "고마운 마음, 따뜻한 한가위 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T09:47:07+09:00",
+      "publishedAt": "2026-09-25T09:47:07+09:00",
+      "firstCollectedAt": "2026-09-25T10:49:22+09:00",
+      "updatedAt": "2026-09-25T10:49:22+09:00",
+      "summary": "고마운 마음, 따뜻한 한가위 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "고마운 마음, 따뜻한 한가위 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWF6Ry1GRFRYX1JhaEpGTlF5THhpNDZhVHBDNVpyUFpCbnlfWGYwWlprdXJZaXlzRHlkRWFiVXdWRFFOdUpmcVBvVXJyRV9SZGMzZkNILVE1QW4zTzI1SmFTZVAtamtlRm4yVUU3WGJ3Z1dyRkotTUlvU0dzZVdYLXktQjcteGdscFZUWg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b04220a83edb16c09f87d759aa483bfc5dfadab735ea610aaa79004118670839"
+    },
     {
       "id": "20260923-FR-0A0AA761-1591",
       "title": "[보도자료] 한성숙 국무총리 스틸 신임 주한미국대사 면담 - 대한민국 정책브리핑",
