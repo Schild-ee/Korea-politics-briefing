@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-26T13:48:04+09:00",
-    "nextScheduledUpdate": "2026-09-26T14:18:04+09:00",
+    "lastSuccessfulUpdate": "2026-09-26T18:47:57+09:00",
+    "nextScheduledUpdate": "2026-09-26T19:17:57+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-26T13:48:01+09:00",
-      "finishedAt": "2026-09-26T13:48:04+09:00",
+      "startedAt": "2026-09-26T18:47:54+09:00",
+      "finishedAt": "2026-09-26T18:47:57+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 35,
-      "duplicates": 34,
-      "rejected": 162,
-      "rejectedByDate": 159,
-      "rejectedByRelevance": 3,
+      "acceptedCandidates": 21,
+      "duplicates": 21,
+      "rejected": 176,
+      "rejectedByDate": 164,
+      "rejectedByRelevance": 12,
       "rejectedAsCommentary": 0,
       "newIssues": 3,
-      "updatedIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,126 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260926-FR-6625A3E1-1627",
+      "title": "이 대통령 \"한·멕 무역협정 논의 조속히 재개…기업 도전 뒷받침\" - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-26T15:24:52+09:00",
+      "publishedAt": "2026-09-26T15:24:52+09:00",
+      "firstCollectedAt": "2026-09-26T18:47:55+09:00",
+      "updatedAt": "2026-09-26T18:47:55+09:00",
+      "summary": "이 대통령 \"한·멕 무역협정 논의 조속히 재개…기업 도전 뒷받침\" korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "이 대통령 \"한·멕 무역협정 논의 조속히 재개…기업 도전 뒷받침\" - korea.kr",
+          "date": "2026-09-26",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWUVaaFlsT1FhZUt4S2dHMHI3SURjX0JQdnVwYy13WER0bVhYcGRIc09RM0IxbXBYWTlLME01Y1E2THBlN0lkNERkc1d4NWNXXzZESWpEejhyT1NxczhDMDlYbWh4RkRzYkhSMm5TVmdBVHZWX3FwWjIyaGp0bGtwZjluaGtkY0JCT1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6625a3e1feba741ae033a33d849720253ff39680d68aff3448356d25487136eb"
+    },
+    {
+      "id": "20260926-FR-79B16963-1628",
+      "title": "한-투르크메니스탄 투자보장협정 서명(9.15.) - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-26T13:51:01+09:00",
+      "publishedAt": "2026-09-26T13:51:01+09:00",
+      "firstCollectedAt": "2026-09-26T18:47:55+09:00",
+      "updatedAt": "2026-09-26T18:47:55+09:00",
+      "summary": "한-투르크메니스탄 투자보장협정 서명(9.15.) korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "한-투르크메니스탄 투자보장협정 서명(9.15.) - korea.kr",
+          "date": "2026-09-26",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnRDamQxd0Z3QVlYclRwMFdyekRzODNnV1k5SUZrUTJIZXNzaHJHY3diX1BKLUMyUmlNSUZGbjRBR01oTmszdHdUSWpQZVN1MVRkMENrQTg3M3hob2YzZDdUaldwUzNfbFp2bm55ZUdKaTNhMXBDcjZ6SWVUTV9oNm5UT3p1Vk1FZng0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "79b169638030ef881dea5bcf368b83270a3715e306dd9cfc8adf7a0a173d2a52"
+    },
+    {
+      "id": "20260926-FR-4F6C8451-1629",
+      "title": "이재명 대통령 부부, K-엑스포 및 비즈니스 포럼 참석 관련 성기홍 홍보소통수석 브리핑 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-26T11:04:42+09:00",
+      "publishedAt": "2026-09-26T11:04:42+09:00",
+      "firstCollectedAt": "2026-09-26T18:47:55+09:00",
+      "updatedAt": "2026-09-26T18:47:55+09:00",
+      "summary": "이재명 대통령 부부, K-엑스포 및 비즈니스 포럼 참석 관련 성기홍 홍보소통수석 브리핑 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "이재명 대통령 부부, K-엑스포 및 비즈니스 포럼 참석 관련 성기홍 홍보소통수석 브리핑 - korea.kr",
+          "date": "2026-09-26",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aS1dBUEtFSXpBaW5Jb2lWRHA0S21FZGF5SG5VV3NGN3hLMXBkQ0ZqV2p4cXlUaXhTbEJMaDN5OElkWUVxc2xXR2NYU0xHbEFWVG9HeGFCOGxBWGY3bkRXY0VaVi1JSFpyel9NekVEWGs?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4f6c84511a97a6eb54532b8487b9f606f05a84226f5152b2332c3cc683f82832"
+    },
     {
       "id": "20260925-FR-D65CA0F5-1605",
       "title": "한-멕시코 투자보장협정 개정 협상 타결 - 대한민국 정책브리핑",
