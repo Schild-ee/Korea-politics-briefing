@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-26T09:05:50+09:00",
-    "nextScheduledUpdate": "2026-09-26T09:35:50+09:00",
+    "lastSuccessfulUpdate": "2026-09-26T13:48:04+09:00",
+    "nextScheduledUpdate": "2026-09-26T14:18:04+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-26T09:05:47+09:00",
-      "finishedAt": "2026-09-26T09:05:50+09:00",
+      "startedAt": "2026-09-26T13:48:01+09:00",
+      "finishedAt": "2026-09-26T13:48:04+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 43,
-      "duplicates": 45,
-      "rejected": 154,
-      "rejectedByDate": 151,
+      "acceptedCandidates": 35,
+      "duplicates": 34,
+      "rejected": 162,
+      "rejectedByDate": 159,
       "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 3,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,179 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260925-FR-D65CA0F5-1605",
+      "title": "한-멕시코 투자보장협정 개정 협상 타결 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-25T12:23:56+09:00",
+      "publishedAt": "2026-09-25T12:23:56+09:00",
+      "firstCollectedAt": "2026-09-25T16:37:00+09:00",
+      "updatedAt": "2026-09-26T13:48:03+09:00",
+      "summary": "한-멕시코 투자보장협정 개정 협상 타결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-멕시코 투자보장협정 개정 협상 타결 - 대한민국 정책브리핑",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUhfWHZ6WjNLZU1uRzU2WEthWWZIRzBIdHZ3eWwydmVHcTRBWVlZRnlXZV9MNWk1azZzeE9pZk1aQ0ZWS3ZpX1N1c0pvMkdRa2xuTDhwTnJMRlZPTFNOSHhvZ2UxUHp5WnV2VGlubHpRcUJ3b25NazNZYThzTFZYVWFPR0lxRDc4VU5uX3hvLXFlQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "한-멕시코 투자보장협정 개정 협상 타결 - 정책브리핑",
+          "date": "2026-09-25",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHV3dUtJaGdyNWdab2pxRF9JNmFEN0lWRlNUU2FnNW9VZ0JxNUMwaWhFS3M4YS1KcG1ldGJTMUZxdkVQVUR2eEVwWkh4c3cxNzhKOEZPTFZvdFNFb0s0N3VSaWFZS2xSTFBLbTR5V1NrUVVOTUU0Z0c5N25fLTZUN1R5MG9Jd1hqMHZj?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-26T13:48:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d65ca0f5f2dd6d5076a58b970eac349f00ccdb1ab33bda542a7751608f987f93"
+    },
+    {
+      "id": "20260926-FR-43B2F00A-1624",
+      "title": "산업통상부 정례브리핑 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-26T10:30:00+09:00",
+      "publishedAt": "2026-09-26T10:30:00+09:00",
+      "firstCollectedAt": "2026-09-26T13:48:03+09:00",
+      "updatedAt": "2026-09-26T13:48:03+09:00",
+      "summary": "산업통상부 정례브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "산업통상부 정례브리핑 - 정책브리핑",
+          "date": "2026-09-26",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0lZQVBoNjVXbmRGbHdYOVB6WUN1QzhmLXA1VnVtc2Zwb0pUQkp3WnVQaUhOUzZqSUlscGt0NjZ3Tl9Lai1oZzEzQUpuVFAyZEYydm1xRjZZV05NNmdoMW8yVm0zaDViVldZQ193bldnekJBWmMtdWpXTmJRVjQycS1HZE9OTGJQTkVvZUVLWnJRU0wx?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "43b2f00a09fc2d47a3326cc10a39aa07972b1a88dee4be1d812e7e19c3e96227"
+    },
+    {
+      "id": "20260926-FR-AC791891-1625",
+      "title": "'2026 아이치나고야 하계아시안게임' 대한민국 국가대표 선수단 응원 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-26T06:50:37+09:00",
+      "publishedAt": "2026-09-26T06:50:37+09:00",
+      "firstCollectedAt": "2026-09-26T13:48:03+09:00",
+      "updatedAt": "2026-09-26T13:48:03+09:00",
+      "summary": "'2026 아이치나고야 하계아시안게임' 대한민국 국가대표 선수단 응원 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'2026 아이치나고야 하계아시안게임' 대한민국 국가대표 선수단 응원 - 정책브리핑",
+          "date": "2026-09-26",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjN3F1YnZoaUdHallZUHhuN1JfaWdtN2ZOQnpRMEo1Ni1PQnZkMkJPUDdvbko5eE1Lc1UzWUVjNEtBVEFneEtnWHdESlpfVHpKekUxVklPNVhaSlF1Y3k4QVU2U05kdUd2cWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ac7918911fbeeb557edb8b0a1f9bc89cc13847775cb33de6cc804cc63fa80eb0"
+    },
+    {
+      "id": "20260926-FR-C852A38F-1626",
+      "title": "2045년, 광복 100주년 이자 AI 시대…'청년의 첫 경험 사다리' 놓다 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-26T11:00:23+09:00",
+      "publishedAt": "2026-09-26T11:00:23+09:00",
+      "firstCollectedAt": "2026-09-26T13:48:03+09:00",
+      "updatedAt": "2026-09-26T13:48:03+09:00",
+      "summary": "2045년, 광복 100주년 이자 AI 시대…'청년의 첫 경험 사다리' 놓다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "2045년, 광복 100주년 이자 AI 시대…'청년의 첫 경험 사다리' 놓다 - 정책브리핑",
+          "date": "2026-09-26",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTXZma3VzeEw4MXBJQTRFb0k5aXhQdllIREp6NjkwZU9STW5kNGhsYWI4VTY1S01XM05Ud2JfbzljOUdicjVFTEtGOVU5VkptUHZLQjVrWXdOaHdlRnluV2FQZzNaTnpvTjNRY1pEa0pxV3Jfc2g0VDRwN2h2QkFQSi1rYkVYdGM?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c852a38f1b18ad1b98e8ed3ff566fff403638bd9a7f23c21b40d1d9418c20174"
+    },
     {
       "id": "20260924-FR-29B36CB3-1588",
       "title": "조현 장관, UN총회 계기 양자 외교장관 회담 개최 - 대한민국 정책브리핑",
@@ -878,46 +1051,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "c9d2c3c83ab43a18167755ca53e389ba240b7d03cba061acce31d4573d2d6678"
-    },
-    {
-      "id": "20260925-FR-D65CA0F5-1605",
-      "title": "한-멕시코 투자보장협정 개정 협상 타결 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-25T12:23:56+09:00",
-      "publishedAt": "2026-09-25T12:23:56+09:00",
-      "firstCollectedAt": "2026-09-25T16:37:00+09:00",
-      "updatedAt": "2026-09-25T16:37:00+09:00",
-      "summary": "한-멕시코 투자보장협정 개정 협상 타결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-멕시코 투자보장협정 개정 협상 타결 - 대한민국 정책브리핑",
-          "date": "2026-09-25",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYUhfWHZ6WjNLZU1uRzU2WEthWWZIRzBIdHZ3eWwydmVHcTRBWVlZRnlXZV9MNWk1azZzeE9pZk1aQ0ZWS3ZpX1N1c0pvMkdRa2xuTDhwTnJMRlZPTFNOSHhvZ2UxUHp5WnV2VGlubHpRcUJ3b25NazNZYThzTFZYVWFPR0lxRDc4VU5uX3hvLXFlQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d65ca0f5f2dd6d5076a58b970eac349f00ccdb1ab33bda542a7751608f987f93"
     },
     {
       "id": "20260925-FR-3D07D0F5-1606",
