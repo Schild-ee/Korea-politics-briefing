@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-29T08:53:49+09:00",
-    "nextScheduledUpdate": "2026-09-29T09:23:49+09:00",
+    "lastSuccessfulUpdate": "2026-09-29T14:33:04+09:00",
+    "nextScheduledUpdate": "2026-09-29T15:03:04+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-29T08:53:47+09:00",
-      "finishedAt": "2026-09-29T08:53:49+09:00",
+      "startedAt": "2026-09-29T14:33:01+09:00",
+      "finishedAt": "2026-09-29T14:33:04+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 31,
-      "duplicates": 37,
-      "rejected": 161,
-      "rejectedByDate": 160,
+      "acceptedCandidates": 35,
+      "duplicates": 38,
+      "rejected": 156,
+      "rejectedByDate": 155,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 1,
+      "newIssues": 6,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,246 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260929-FR-5116018A-1679",
+      "title": "한-멕시코 정상회담(2026.9.24.) - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T10:20:47+09:00",
+      "publishedAt": "2026-09-29T10:20:47+09:00",
+      "firstCollectedAt": "2026-09-29T14:33:02+09:00",
+      "updatedAt": "2026-09-29T14:33:02+09:00",
+      "summary": "한-멕시코 정상회담(2026.9.24.) 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한-멕시코 정상회담(2026.9.24.) - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMnY2dGMxanFONEExTC1DRE9EN2pDWTRmc3ExRGRxQ3o1aldDOXNleXF5Nmhxd2NFTFBIazhaMUIyaUdIMHctdmJIYzgtblRmRzlTYmE2RWN3Q1Q0T25VRWtKOVc5MVhwNG5fdEdUQWdfc1cwMk9oeXlud1VmN1ltc0ZPYUc1NE5RU1hn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5116018abaa229ab42ef55a2ee3a6d61454ef9232670a8d54f9816c9d14fb8c4"
+    },
+    {
+      "id": "20260928-FR-DCF8A52B-1680",
+      "title": "정교하게 쌓아 올리는 기술의 소리 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-28T17:24:54+09:00",
+      "publishedAt": "2026-09-28T17:24:54+09:00",
+      "firstCollectedAt": "2026-09-29T14:33:02+09:00",
+      "updatedAt": "2026-09-29T14:33:02+09:00",
+      "summary": "정교하게 쌓아 올리는 기술의 소리 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "정교하게 쌓아 올리는 기술의 소리 - 정책브리핑",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWhzNkpKbFRYQllDaDQ1SlA1ek85c3VROFBWNWQ0cXNFSERRU21uVlc5Z3dLblBHbDl5bVY1bUE1OUZCQU5Kc0gzc25kUE95V2VxSkgtajZSTGNlc3c2VVVoQXdGQnFwMG1nZmVzbFF4b0dBZlJ5cTJvT3dySG9qTUF4d2VxNngzbXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dcf8a52ba813e336fa3091f12d8b06b578b1dd767e4200f020c66fcd8f4acbb0"
+    },
+    {
+      "id": "20260929-DP-7F389A2A-1675",
+      "title": "「소득세법 시행령」 등 4개 시행령 국무회의 의결 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T14:03:13+09:00",
+      "publishedAt": "2026-09-29T14:03:13+09:00",
+      "firstCollectedAt": "2026-09-29T14:33:01+09:00",
+      "updatedAt": "2026-09-29T14:33:01+09:00",
+      "summary": "「소득세법 시행령」 등 4개 시행령 국무회의 의결 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "「소득세법 시행령」 등 4개 시행령 국무회의 의결 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ0pPaTFvZHgwdUwwQURsSVZMdHZmX0Y2RVFGMFFzZ3psOWw0UUstSEFINi1iTkJ2YXNoT3ZwNnBtRFlkUmlEaEo2MWdOaHB1VUVhMkRBNV9WenJNUDI3WGI4SWJPUFhNaE8tY3NuYXU4OHQ5RW1kWUhsMk9lc0FoZC1sUVZKTG1ZU1RDYlJ3WF9YRnMw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7f389a2a1472fd5f12e7898171c7158ac6e0c64816bdc9e3f173ef56d3ebc219"
+    },
+    {
+      "id": "20260929-DP-13270527-1676",
+      "title": "고속도로 출구 잘못 나가도 15분 내 재진입하면 기본요금 면제 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T14:31:09+09:00",
+      "publishedAt": "2026-09-29T14:31:09+09:00",
+      "firstCollectedAt": "2026-09-29T14:33:01+09:00",
+      "updatedAt": "2026-09-29T14:33:01+09:00",
+      "summary": "고속도로 출구 잘못 나가도 15분 내 재진입하면 기본요금 면제 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "고속도로 출구 잘못 나가도 15분 내 재진입하면 기본요금 면제 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaUhyVHRzdFZ0LUlLb1RQdGRpejJvT1RjYmhMeFVPYmZQUXhYMkJTUE1ub3ZLM2ZxWnFwT2pvY0pZcTlERUZKWTNlQjBULWNwQWNRZTgxZmgwWWwzTWFNQ0ZfMGRheUQwRHFPNnBxRGdwWFprYlJ4d2VnZHMzbWhGWVg0MlpsaXpzT3E2Rg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1327052726e1e9c3fa160b15fd91f40eb3a358e153a60ef3c59b5c108b0c40c5"
+    },
+    {
+      "id": "20260929-DP-907D05DF-1677",
+      "title": "농·어업용 면세유 유가보조금 연말까지 연장…791억 원 추가 지원 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T14:31:05+09:00",
+      "publishedAt": "2026-09-29T14:31:05+09:00",
+      "firstCollectedAt": "2026-09-29T14:33:01+09:00",
+      "updatedAt": "2026-09-29T14:33:01+09:00",
+      "summary": "농·어업용 면세유 유가보조금 연말까지 연장…791억 원 추가 지원 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "농·어업용 면세유 유가보조금 연말까지 연장…791억 원 추가 지원 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaElPbVpGLXgwTUQ1bDBQN08yQ2NkYXViaS1QSmRnUGJJak1Db1ZzNHpYNmFPMk42ako3bFRpWjJFeXNIbHBJV2dpc1JGTDVBcml1YlVHa29ITU1yS3FEOUxQLTFWbG9FV0tOOUxUVjFuYzkyb0F3emYzMVJ2azhGb1dQVGpqQ2xWVTJzbg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "907d05dfd5cb31f54dbcf959cff56ae31caf1e5c6530a373393a24fb49d46781"
+    },
+    {
+      "id": "20260927-DP-BC05CF48-1678",
+      "title": "K-엑스포 랜덤플레이 댄스 격려 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-27T15:11:20+09:00",
+      "publishedAt": "2026-09-27T15:11:20+09:00",
+      "firstCollectedAt": "2026-09-29T14:33:01+09:00",
+      "updatedAt": "2026-09-29T14:33:01+09:00",
+      "summary": "K-엑스포 랜덤플레이 댄스 격려 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "K-엑스포 랜덤플레이 댄스 격려 - 정책브리핑",
+          "date": "2026-09-27",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibHYxd0RjU201aTc0YndyZ0p0YlVnNUZGM2M3UklnZHRZZFB0YTlRUkE0QjVsUTY5Nmd1a05Ya2xUdGdoY3F2TktjSW92cDh5akhlSmk5ZUxYN0R6MGpaUFdPVzBfdzcxOEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bc05cf48f81caccaa426c2055413618e673eff7450c7f031280a3601465e8bdf"
+    },
     {
       "id": "20260928-DP-52D52A9B-1667",
       "title": "이 대통령 \"동포사회 지원은 일방적 혜택 아닌 미래 위한 투자\" - 대한민국 정책브리핑",
