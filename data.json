@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-09-30T01:58:44+09:00",
-    "nextScheduledUpdate": "2026-09-30T02:28:44+09:00",
+    "lastSuccessfulUpdate": "2026-09-30T06:20:07+09:00",
+    "nextScheduledUpdate": "2026-09-30T06:50:07+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-09-30T01:58:40+09:00",
-      "finishedAt": "2026-09-30T01:58:44+09:00",
+      "startedAt": "2026-09-30T06:20:03+09:00",
+      "finishedAt": "2026-09-30T06:20:07+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 41,
-      "duplicates": 36,
-      "rejected": 153,
-      "rejectedByDate": 153,
+      "duplicates": 40,
+      "rejected": 152,
+      "rejectedByDate": 152,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 8,
-      "updatedIssues": 3,
+      "newIssues": 6,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,376 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260929-DP-D029C4A8-1692",
+      "title": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관' - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T19:09:50+09:00",
+      "publishedAt": "2026-09-29T19:09:50+09:00",
+      "firstCollectedAt": "2026-09-30T01:58:41+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관' 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관' - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUE94Y1VMeTBfbkFOVGZDUjdiZE5NM0hzcFNxaTJEZUhnQzdUSzROLUZ4c3hkTE5XZ05UaExQT0FWcmNHbmRFemx6TkdrSDN0dXpoM2J4Z0w4ZUdvREQ4M0NJYjRyMnZydWlLYU0tNUxuamxrSDlRRmlIcDNrZU9BcVA4QWJrUXJmUFViWG5TWldvOHBVUkNuQjZRUnprWmMwbnN3ZGRtQ0RvekRxS1N4eHU0SWxBeVlNNkFLV3ByUGdGakRMMUpBSEFBMjd4blpuNEI3c0VhWXJmbVlDTmlYMDZTemU2bDZQT0VGek05SQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관' - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qQTctbmhUeHExbHA3enhnZ1NYdDhRQ3dDYXV4MGh1Tk1rTTQ5dHdpR20wV3g4bTZmUUd3emF0QVJSMWdLVmlpYm1GRUl0Z2hxM0J5dk1BMnFYc1BSdVZ5dU5wQkxlR0R0QzI3cllLMnVKdVVw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-30T06:20:04+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d029c4a826e1f5ad7b212b550b3f9404b6de9a0d0751de5a50b6202c48c2bf50"
+    },
+    {
+      "id": "20260928-FR-71EB8567-1658",
+      "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-28T12:00:00+09:00",
+      "publishedAt": "2026-09-28T12:00:00+09:00",
+      "firstCollectedAt": "2026-09-28T14:10:18+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 - 정책브리핑",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVd0WHJQM0Y3NXNYZFh2OGlfdWlOREdNMmtqaFM3bVRqLXoxZlV0LUVpWE1hVl9WN1hWeG5GTWRVV1pLWDdGaGZjX1FiMF9qSUVKck04VlQzeTlCeEtBalg3RGV2Q2RZSHBHRFJnclQ0ZTJQNXdHeEpLVm5ZR0swV09ZQnZ2RkhRZmZjVS03YWMwdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONEpRVEs3U3V4T2NYQmZISE91SlZWdzhqTjRsWGN2RnhOY2laZUNsdUJGVS1pb2ZJOURJSWtmR3BwamN3UEpkcGw3d3ZXZzNTRFFqdGtMdEhBNWI1NWdUaGdyU1oybk1lSWFXQzhZT3NXbnJfendFN1VZMk1MXzIwRFdENkFEd1lfRW9mUGJzYlhhT1RDcGxyVGtnLUZISEhEN2tBOURVaGZjWXJ2ZU5IOEVFd1NxYVFrSGgtdXhDLXc3SEY4Y2t6YU9jd0tIemhGaXZZZzZON3RBdUlhb1VMNWJBd1FjQWdIWnFkU1VFaw?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "명륜당의 부당지원행위 및 가맹사업법 위반 행위 제재 - 정책브리핑",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yckJWNTNtd3pad09kUEFFWFJJbkRIb3JCWDNmdS1sakJub1FMaVhCN1R0SDNPdThOQTYyZWU5aERvV3lYSDBjd2xldzdtN092b3R2a1VlSHpEYl80TmRZMFdoczRRR0t6OEV4cEJHcW9FRDNtTGJJ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 - 정책브리핑",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQW5tUUlpNzJRakUyTzdMWFNxWHk1aUFFeXN0b2NXZUtWaWRQRlh6Tk9jT2pFTmF0SHJYcWNScGNWbDZOVWFpazZjNTY2MDFYNnlwUUV2ekhadnBaQnNyckVhU3V3R2Z2Z1R3a0VUQmQ5RXdhMGc4VlVfRGJzZENTWERHSm13NmtwNUo3d0ZGSkdLT2RrUmoxVlBqcGo1Qm1PelhEdFpaTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-28T20:55:58+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-29T20:31:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-30T06:20:04+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "71eb8567a1b7a09c6393492413ecdd98eb41b2dd8b1b548d5c39136a49a1dc19"
+    },
+    {
+      "id": "20260929-DP-A1886089-1700",
+      "title": "통합위, 청년 목소리 모아 일자리·자산·젠더 해법 찾는다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T15:30:06+09:00",
+      "publishedAt": "2026-09-29T15:30:06+09:00",
+      "firstCollectedAt": "2026-09-30T06:20:04+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "통합위, 청년 목소리 모아 일자리·자산·젠더 해법 찾는다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "통합위, 청년 목소리 모아 일자리·자산·젠더 해법 찾는다 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZlNTb0tScXI5OGNHQVlfTkl6bVptVnNVaVhuUnpvZFJoQXYyWHk5QlB0ZmpZMEdpQUcwdTlzOTdSbGNuY0NIc1BrTjYwdnBmenZpVEdQS1ItTlNHaVRvQ0stTVJ6RG9NaUkwZDFnc1VMMlE0REpJYjZWdjVvSFc1UE1lNEdSR19Dd19LSEtHbFRfeUNh?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a18860893fec1ac293a47e440fa4c6077bdda2081e85dce6a9f41795cbade0e8"
+    },
+    {
+      "id": "20260929-DP-0476A06F-1701",
+      "title": "이 대통령 \"개혁은 정부의 존재 이유…말 아닌 행동으로 평가 받을 것\" - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T17:47:18+09:00",
+      "publishedAt": "2026-09-29T17:47:18+09:00",
+      "firstCollectedAt": "2026-09-30T06:20:04+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "이 대통령 \"개혁은 정부의 존재 이유…말 아닌 행동으로 평가 받을 것\" 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "이 대통령 \"개혁은 정부의 존재 이유…말 아닌 행동으로 평가 받을 것\" - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMY2kzdmtyTDY0UlVLalRZdFVBbW0wRGJuREI5OUY3ZWROaGZReThyVmZUWE1PTmtrLWxMNjdWX092QWxFSEdwM3F6cks1cWxmM3p6VUt2ZVNiaXVWRmpDeVBNOGpzX29yR2hrUw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0476a06f0ca238634703aa3b3ecf77807afd4c0d2f4be9a82f7127f9891a268c"
+    },
+    {
+      "id": "20260929-DP-3BE81A8E-1702",
+      "title": "식약처, '마약류 회색지대, 어떻게 발견하고 개입할 것인가' 주제로 세미나 개최 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T08:00:37+09:00",
+      "publishedAt": "2026-09-29T08:00:37+09:00",
+      "firstCollectedAt": "2026-09-30T06:20:04+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "식약처, '마약류 회색지대, 어떻게 발견하고 개입할 것인가' 주제로 세미나 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "식약처, '마약류 회색지대, 어떻게 발견하고 개입할 것인가' 주제로 세미나 개최 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzN2cTR0bW1Hbm5CTGJQaHBidlZmajB2SzZ5dGppX2w1cWFlbHlfVlRxNzNfbFU1d0ZSa2xPaWE2NFhabUJHdVZ1UEpxZmNsVGo5NEVqR0s3RWRFaTQ5VDNHa1JKY2V1MG04d2FKTHVuN3BJTVRrZk9OZWdjVV80cm51QXNJUjJQMmhXRzgtUjFBUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3be81a8e87522b1662af85de2bb47e85fb4c5031fa9618e06911cc97991d5dc4"
+    },
+    {
+      "id": "20260929-DP-976CBA5E-1703",
+      "title": "2030년 재생에너지 100GW 이상 수용…전력망 체계 전면 혁신 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T19:41:47+09:00",
+      "publishedAt": "2026-09-29T19:41:47+09:00",
+      "firstCollectedAt": "2026-09-30T06:20:04+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "2030년 재생에너지 100GW 이상 수용…전력망 체계 전면 혁신 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "2030년 재생에너지 100GW 이상 수용…전력망 체계 전면 혁신 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XSU9rSUhabVF2TnFDVXdpMDVpUmZGVW9qbFl3STVCYkY4dmluYjFEVGswZUYxNERJaEpTMmFTemp3MWNKQnZERjg2eDlZMHhSQjFZRG1LSFc5RHF1Xy1aNlJkZ2hNNjNuMEVmbA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "976cba5e982c840a927c1bcb315161528e7379e5a49debab8ff0cb9d2d248eea"
+    },
+    {
+      "id": "20260929-FR-3D7464AF-1704",
+      "title": "복수국간 그린경제협정 제2차 협상 개최 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T11:38:39+09:00",
+      "publishedAt": "2026-09-29T11:38:39+09:00",
+      "firstCollectedAt": "2026-09-30T06:20:04+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "복수국간 그린경제협정 제2차 협상 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "복수국간 그린경제협정 제2차 협상 개최 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KRVJtWXVwejZySFBDOGZCbGJWVFhJNHM0cXFTXzhPc0tveDFHdDMzYmstX3ZxX2V5UU1VSVRFbFM4MktMYXVHeHBBMGozVVJoOUJudHJTTG9qLWNoT1hsXzZmcUZaekU5UldvZUxUWEx6Q0I4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3d7464af4fc0f1c20fd3e217f9f05b8ab0eb030f498e9dffe1308e6095cb96e8"
+    },
+    {
+      "id": "20260929-FR-203C9DAF-1705",
+      "title": "추석이 지나고 남은 쓰레기, 어떻게 버려야 할까? - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T19:41:47+09:00",
+      "publishedAt": "2026-09-29T19:41:47+09:00",
+      "firstCollectedAt": "2026-09-30T06:20:04+09:00",
+      "updatedAt": "2026-09-30T06:20:04+09:00",
+      "summary": "추석이 지나고 남은 쓰레기, 어떻게 버려야 할까?",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "추석이 지나고 남은 쓰레기, 어떻게 버려야 할까? - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yWUJraUVsMEpJeFZucFZQNFVjb2g5U2hUM1NBMENXNWpObWNlTVFmcHV2T2pJMEZ5VHJCNnhpeUFnTUJlMXJoOHVldkJuVncxYlhGYzJLdE1jMklGT1FIZnhrdm1vZXpVekE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "203c9daff94706381d827f2d179c257f2e7af39078264b295634ab0b9d88e1b9"
+    },
     {
       "id": "20260929-FR-7D14A11D-1695",
       "title": "2개 이사서비스 업체의 부당광고 제재 - 정책브리핑",
@@ -426,46 +796,6 @@
       "contentHash": "d9797acfc02fd8182f6ae6587b69eaf9ce2c6fcdfbbefa4f60c2abedbcc3d26d"
     },
     {
-      "id": "20260929-DP-D029C4A8-1692",
-      "title": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관' - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-29T19:09:50+09:00",
-      "publishedAt": "2026-09-29T19:09:50+09:00",
-      "firstCollectedAt": "2026-09-30T01:58:41+09:00",
-      "updatedAt": "2026-09-30T01:58:41+09:00",
-      "summary": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관' 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "농촌진흥청, 치매관리시행계획 평가 2년 연속 '우수기관' - 정책브리핑",
-          "date": "2026-09-29",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUE94Y1VMeTBfbkFOVGZDUjdiZE5NM0hzcFNxaTJEZUhnQzdUSzROLUZ4c3hkTE5XZ05UaExQT0FWcmNHbmRFemx6TkdrSDN0dXpoM2J4Z0w4ZUdvREQ4M0NJYjRyMnZydWlLYU0tNUxuamxrSDlRRmlIcDNrZU9BcVA4QWJrUXJmUFViWG5TWldvOHBVUkNuQjZRUnprWmMwbnN3ZGRtQ0RvekRxS1N4eHU0SWxBeVlNNkFLV3ByUGdGakRMMUpBSEFBMjd4blpuNEI3c0VhWXJmbVlDTmlYMDZTemU2bDZQT0VGek05SQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d029c4a826e1f5ad7b212b550b3f9404b6de9a0d0751de5a50b6202c48c2bf50"
-    },
-    {
       "id": "20260929-DP-22AF3365-1693",
       "title": "합동대응단은 명문대 경영동아리 출신 정보카르텔을 적발하여 압수수색을 실시하고 혐의자 재 - 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -544,71 +874,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "81ccc8542d247531abfc3a1032d26f0687d99c20d606b5abdb54c4a2e4b8ffbf"
-    },
-    {
-      "id": "20260928-FR-71EB8567-1658",
-      "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-28T12:00:00+09:00",
-      "publishedAt": "2026-09-28T12:00:00+09:00",
-      "firstCollectedAt": "2026-09-28T14:10:18+09:00",
-      "updatedAt": "2026-09-29T20:31:02+09:00",
-      "summary": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 - 정책브리핑",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVd0WHJQM0Y3NXNYZFh2OGlfdWlOREdNMmtqaFM3bVRqLXoxZlV0LUVpWE1hVl9WN1hWeG5GTWRVV1pLWDdGaGZjX1FiMF9qSUVKck04VlQzeTlCeEtBalg3RGV2Q2RZSHBHRFJnclQ0ZTJQNXdHeEpLVm5ZR0swV09ZQnZ2RkhRZmZjVS03YWMwdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "명륜당의 부당한 지원행위 및 가맹사업법 위반행위 제재 - 대한민국 정책브리핑",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONEpRVEs3U3V4T2NYQmZISE91SlZWdzhqTjRsWGN2RnhOY2laZUNsdUJGVS1pb2ZJOURJSWtmR3BwamN3UEpkcGw3d3ZXZzNTRFFqdGtMdEhBNWI1NWdUaGdyU1oybk1lSWFXQzhZT3NXbnJfendFN1VZMk1MXzIwRFdENkFEd1lfRW9mUGJzYlhhT1RDcGxyVGtnLUZISEhEN2tBOURVaGZjWXJ2ZU5IOEVFd1NxYVFrSGgtdXhDLXc3SEY4Y2t6YU9jd0tIemhGaXZZZzZON3RBdUlhb1VMNWJBd1FjQWdIWnFkU1VFaw?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "명륜당의 부당지원행위 및 가맹사업법 위반 행위 제재 - 정책브리핑",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yckJWNTNtd3pad09kUEFFWFJJbkRIb3JCWDNmdS1sakJub1FMaVhCN1R0SDNPdThOQTYyZWU5aERvV3lYSDBjd2xldzdtN092b3R2a1VlSHpEYl80TmRZMFdoczRRR0t6OEV4cEJHcW9FRDNtTGJJ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-28T20:55:58+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-29T20:31:02+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "71eb8567a1b7a09c6393492413ecdd98eb41b2dd8b1b548d5c39136a49a1dc19"
     },
     {
       "id": "20260929-DP-BEE4BFAD-1689",
