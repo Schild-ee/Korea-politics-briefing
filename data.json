@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-01T16:40:43+09:00",
-    "nextScheduledUpdate": "2026-10-01T17:10:43+09:00",
+    "lastSuccessfulUpdate": "2026-10-02T00:22:01+09:00",
+    "nextScheduledUpdate": "2026-10-02T00:52:01+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-01T16:40:36+09:00",
-      "finishedAt": "2026-10-01T16:40:43+09:00",
+      "startedAt": "2026-10-02T00:21:55+09:00",
+      "finishedAt": "2026-10-02T00:22:01+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 59,
-      "duplicates": 51,
-      "rejected": 132,
-      "rejectedByDate": 131,
-      "rejectedByRelevance": 1,
+      "acceptedCandidates": 54,
+      "duplicates": 48,
+      "rejected": 137,
+      "rejectedByDate": 134,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 16,
-      "updatedIssues": 1,
+      "newIssues": 11,
+      "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-10-01T15:01:48+09:00",
       "publishedAt": "2026-10-01T15:01:48+09:00",
       "firstCollectedAt": "2026-10-01T16:40:38+09:00",
-      "updatedAt": "2026-10-01T16:40:38+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
       "summary": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -95,176 +95,27 @@
           "date": "2026-10-01",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTZXWk5vVXZ5RFUweW1WaWdtTDhPLWlJbzIzTjZ6X1RGMWllc1hGR29LVFVFbGNFeDNGS1c3VU5rR0tLRWhMRW0zR0ZGSHRKaDNaOEJSenBjZldQdDcyUnpCX0JtZlFUR3UxaS1OV2RpZ0FYNmQ3b2N4d2RxRWx4UHk5RE5RSmMySzNIRlY2cEZuQQ?oc=5",
           "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWxCYUpSYzF0T3BSaTdvZk1ZS09hSGVDNHpKaFo3RWdKYXRHWTI5eVl3TXh0YmtLd2xYTFFMczF0WGxIaGFWNy1nSHVQa0dyQUwxdWxTUlBFZXl2NER0ZWd4WFhaWjN3cU5oejE2NnBnMEMyMDRtUXljNk9teDA0X1RnVExxOS15WGNlUS1pSnM4SDZp?oc=5",
+          "official": true
         }
       ],
-      "revisionHistory": [],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-02T00:21:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
       "corrected": false,
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "8e16bff4ec0907262324c8062a930dab439ebf40d650a8e7cdc90203c4e0e179"
-    },
-    {
-      "id": "20261001-FR-177B5351-1779",
-      "title": "한미 전략투자 1호 '텍사스 가스발전' 추진…알래스카 LNG 검토 착수 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T13:19:11+09:00",
-      "publishedAt": "2026-10-01T13:19:11+09:00",
-      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
-      "updatedAt": "2026-10-01T16:40:38+09:00",
-      "summary": "한미 전략투자 1호 '텍사스 가스발전' 추진…알래스카 LNG 검토 착수 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "한미 전략투자 1호 '텍사스 가스발전' 추진…알래스카 LNG 검토 착수 - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmLVBZZGoycm5LNDMxWUU0QjlDeUhmYXFtenFWMzBQS1VkVjBiamVVTWtHVmcybDRhOWs4dUMtWDY5T1JnbjUzSEY1VmRsRkt4ZWpmUUlnLXJXWk5veWpucW51UFB2TE5sVlktcQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "177b53517b8c28ee5c3ef33ed71e1e3e2f1dca36db7f2ca5bc9f56da3bbf381b"
-    },
-    {
-      "id": "20261001-FR-1C51DA5E-1780",
-      "title": "10월 멸종위기 야생생물로 두드럭조개 선정 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T12:00:00+09:00",
-      "publishedAt": "2026-10-01T12:00:00+09:00",
-      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
-      "updatedAt": "2026-10-01T16:40:38+09:00",
-      "summary": "10월 멸종위기 야생생물로 두드럭조개 선정 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "10월 멸종위기 야생생물로 두드럭조개 선정 - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUE1FNkxPN2d5US1TdXo3UkpmQWJwbG1INU0teGRmZFVWZDNUcXFWRVY0b0Vmd2N4RGRzcmRJMlpIVjltZU5OOERJZVduLTVhNEU3RG53dUVxalBVMXE2aHFHQXB5akJoNGlwanBrYUNlclYzMk1qYjFGVFdNOG5rWWpsN29DQk9SaS1MY3k0TVpYUnJZNmE1VkZzY3FOd0hDWE8xRW0zWlJRckx4RmdrLVRnV001cFBVQThZaEs1VkRyc21SQWxoNWtES2RqM1IwQlhidlY0SXdjcnkzWnNLMnpGNDhfcTlqNFpRM2d6UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1c51da5e84a3301f2af4422214e8c3357c6ee4ebd3cad4bd6560027c73590e67"
-    },
-    {
-      "id": "20260930-DP-B74C2EA6-1781",
-      "title": "2027년 새만금 예산안, 핵심은? - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-30T10:12:00+09:00",
-      "publishedAt": "2026-09-30T10:12:00+09:00",
-      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
-      "updatedAt": "2026-10-01T16:40:38+09:00",
-      "summary": "2027년 새만금 예산안, 핵심은?",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "2027년 새만금 예산안, 핵심은? - 정책브리핑",
-          "date": "2026-09-30",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXZjTk5XNHJhN1ptTldtend4cF9tOWZ2RG1SZHlveVdRdE9zakdhbzVxdVQ1U21ScVdZVTM1YVZLMURnTWtDc2ItNEVVdF90cV85eTBfTHRnRFk2VXJrU0FJOWFHZ2podUMzSzc3bHBBcTlta0UtMzJBdVM4OVVOUXppM1BSdFB1Xzh5c29FekhTbi13UUg3MVlTaDF3RmtjS2c?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b74c2ea67ee7f21a5be3a4eff083e93b38bc59f261a4dd1a1b9d6db59b3ba57d"
-    },
-    {
-      "id": "20260930-FR-83854438-1782",
-      "title": "(보도설명) 환수결정액이 조기에 환수될 수 있도록 부정수급 관리를 강화해 나가겠습니다 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-30T05:47:27+09:00",
-      "publishedAt": "2026-09-30T05:47:27+09:00",
-      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
-      "updatedAt": "2026-10-01T16:40:38+09:00",
-      "summary": "(보도설명) 환수결정액이 조기에 환수될 수 있도록 부정수급 관리를 강화해 나가겠습니다 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "(보도설명) 환수결정액이 조기에 환수될 수 있도록 부정수급 관리를 강화해 나가겠습니다 - 정책브리핑",
-          "date": "2026-09-30",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hSjRsa2QzV1M0YjZTRG1qSFRFRlFDSUtrWXVjRzdNeHNQQXVMWG9OTndMQTJkajlfRGREU3RFTzRNRkpqd0p1VjBtVUJzams5cngzWFZUWU5jX1FxS2JSQnplTlMzcUpSUVhydEc4OA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "838544382dffcd81a80ce32006d90952564759629eace4ac9686199c9c801539"
     },
     {
       "id": "20260810-DP-56AB35E4-225",
@@ -283,7 +134,7 @@
       "occurredAt": "2026-08-10T14:37:13+09:00",
       "publishedAt": "2026-08-10T14:37:13+09:00",
       "firstCollectedAt": "2026-08-10T19:04:32+09:00",
-      "updatedAt": "2026-10-01T16:40:37+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
       "summary": "전국법원 주요판결 대한민국 법원",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -556,6 +407,13 @@
           "date": "2026-10-01",
           "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWWZlZURYOExaZU1va24zSnZqdzhIRUVxTVAzNkZEc2NZaG9UUUZJSTVXaFhLLWJucEc4VzBlYlMtQnAzQlh5d1VqdXg3eVZKWnFmUGpXanhqLUpHXzZ2NFluWDQ0SE92V245VGhvaDFscDY2Z2dFTTFwdHc1Q3J2QktEb3E0cEtXaF91NVJ0N2YwQTFKdnlfVk51cEswdk9WWUtQS3ppMkF0anpTdGNMTURCeU94QmtDNnZ5RG14SEFlalc3anFVdGozbnhDN3dURm13c1hST2Nfb0VTdTA0cXRaODNXSVg3MHZKeUZId1NEQS02cnNVYjh3cndZU0JnblNJMVFyX3FKZ3JyeG5qdU0wOGh5akRMbENESnpvUktlMVVpUDlybGlEWHlLTlF3ZWc?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOX0RkalhTTnN4OWJfYlVoQmhmNkEyX2J5eTM5cHF3cEZNd3JKUzlLN1lkOUVSQy1SQ2dsSDlFbERJRnRUdHNSMktZRVloVmNIYk13ZE5UZWVnVkFLay1teENKZndCVGlsZk9vejlrVjNJM2h3N0Rlb1A5ZmdsdlN6bk9hQS0xZW94Mi1JWFlJcGxZeTU3TmdadGhfZXgzeDdqUXBoWG8wQkFUSGZuMWY2ZzZxeEppcThOZmxMcmdLekNwYjc5M29PVDVqbmRGVFozRHZJSGRfRUdXMWViNllxYzZtUER0dU0zdmo5Nm85dDhDM3BibEZYTUVkODB4bC1fV1F6bFdoRWUxLVBCMWJMeE0tTEQ1THNZXy1oblN2cnY3TGlLbmZnQTFfOV9sOTBnUFE?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -743,6 +601,11 @@
           "updatedAt": "2026-10-01T16:40:37+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 37
+        },
+        {
+          "updatedAt": "2026-10-02T00:21:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 38
         }
       ],
       "corrected": false,
@@ -750,6 +613,715 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
+    },
+    {
+      "id": "20261001-DP-8777167F-1769",
+      "title": "루게릭병 전문요양병원 시범사업 11월 시행 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T16:28:19+09:00",
+      "publishedAt": "2026-10-01T16:28:19+09:00",
+      "firstCollectedAt": "2026-10-01T16:40:37+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "루게릭병 전문요양병원 시범사업 11월 시행 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "루게릭병 전문요양병원 시범사업 11월 시행 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSUNwUVhUV0xLQVNiTlBXNmVrVVlUaXlVZjJPbjZlQWRuTnFZRGpNNTZKcTRnVDY0OU43RW5uaUxkbVRHZXhZbGdod1RCMUdOV3RzazhCY3hkbXhiWGhWUGEzN2tuNklSMDh2Z2Npekhjc3hEdTlPMlo2anU0aEFMX3lkWk5xcEdlU29iSUpYZ20xdVRjZGswU2JPbzMtcmpMUzEybXZoVWVxRVRobi1zVUdjMnllNUlyd1dsblFFTTNpcGtGb2NjcFNXTEFsT2hnWk8ySVY4T1ZJNHBmYUhfQzZiVVlEeHEzeTBHUG1nYw?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "루게릭병 전문요양병원 시범사업 11월 시행 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQclVHTVVqRXQ2WGJqUzByajd3YlJZcVBrSGY3WEFsbHVOZU5RazNodlZkLWdtN19PQzQxS2kyLUJxcnZBTVV1Q1c4YzhIdlNkVmZvdFF3MllJNk5TMXZkb3NaYlhGTXMwczFTZ0w0c2gyTmRjMXJmMi1qQWlMR29FOFZiZzI5OWFBdmNiOEYxLTU4dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-02T00:21:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8777167f1b814f030424851db153838006fea72884beacb9b6ebd4327b471d9f"
+    },
+    {
+      "id": "20261001-DP-3DB72BFE-1770",
+      "title": "국립의학전문대학원 남원 설립 확정, 2029년 개교 본격 추진 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T11:43:27+09:00",
+      "publishedAt": "2026-10-01T11:43:27+09:00",
+      "firstCollectedAt": "2026-10-01T16:40:37+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "국립의학전문대학원 남원 설립 확정, 2029년 개교 본격 추진 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "국립의학전문대학원 남원 설립 확정, 2029년 개교 본격 추진 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLU5aRldLRk9lbnR4cXpQYm9rLVdJaktMdDJLczhsS09Kb0dUUl9TWU5pSXFmb2xxeVBUREt6Y0dIVlMwRk5kT3EtNEZuVkt4bjl5NXJmZ1pJYmU0dGJPMTNjaFNueGtoUlh5YWxaUjhrUjhuM0x6RnBDOXRuVnk4LURzMEVEYk1qYzVJVTdEd3pLN0U2eUZiem11MmJ0djhyMEQzX05ZNWxHeFJZekwwOFUwaUpYdC1GUzd2Q0NDVHJreVdDbGZvYlhxVnZSaVdLN0pZYUp3OV90c0NjR0NPMWlvZFh2akJxbEtJMjBVdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "국립의학전문대학원 남원 설립 확정, 2029년 개교 본격 추진 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSVdSM3ZySW5NcjBoMUpPNkhVZGRKMm5EdVRZVDVnM0ZiZ2VPLU50UnJVZDJFTGVTd2RiTjRRY1NJcWpHLWljejF1TXE0YjJyWTBKT2FWUmo4V3l4UWJ6djJMVlg5WW45OHFNYl9EODItdlV2U0Q4R0tpVUZxa0xTemk1cE5sNW1jT0psMFNrUG5vWnMy?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-02T00:21:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3db72bfea70be64768f53d9d196051b5dcd414b8d50c152f349098897103a0a8"
+    },
+    {
+      "id": "20261001-DP-5AA56B5A-1783",
+      "title": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T19:00:00+09:00",
+      "publishedAt": "2026-10-01T19:00:00+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXAxb3JWUG1BdFlpWllPVjZwQU1nUVBaUTZNY1BsLWFUMkozQUdySzRmeURPWXl5OG40MXJoc2VCTng0Ty1qM1hLZ0g1SVRwY3pRb0tTR2F2akFxSWRMY09uSjkyT25XUUZSRTUtTnk4T0xFc29TMmRwc2xqd1ZtSldDNC1TOWVERFhKUEVXZTYtdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5aa56b5a5b0adcc0876ef059f827c965ce4afcdfa912e5631ce42f73c0b3be73"
+    },
+    {
+      "id": "20261001-DP-19CB5513-1784",
+      "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과- - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T16:32:46+09:00",
+      "publishedAt": "2026-10-01T16:32:46+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과- 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(참고) 산업재해 예방을 위한 노사의 역할 강화 -산업안전보건법 개정안 국회 본회의 통과- - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLXpvZXd0VWlkSHBNN0t1NDRYYzFJN2o0di1JQTNBYnZCVUNxU1pQNUZuTnJpclF3NjhFdlhCOE96STM4aC1pX3BQS2Y5R2JnQV9hUzJIM2VKb1ktc2haYjYwYkJQdHJSR05ZV19HVDJrYVA0bml5WHhfbndxdkR5LUJERVRNcWFRd3BKZWtMeVZkdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "19cb5513bce9c3943360207f462c60c609fe48872b8bc97026eefad30badaaad"
+    },
+    {
+      "id": "20261001-DP-5565170D-1785",
+      "title": "현안 관련 성기홍 홍보소통수석 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T15:19:46+09:00",
+      "publishedAt": "2026-10-01T15:19:46+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "현안 관련 성기홍 홍보소통수석 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "현안 관련 성기홍 홍보소통수석 브리핑 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNm1KWnE5azc0RWhPbmJ6MTQ0anN6UlpPQlBXTzI0d1htZ1dXa1Mxb1c3aXJRNGlCV0ZkVkhBN3p0bHRTa25jckpHOHMtb0pFRk1FZ3hSSzhGOVZjY3J2enZCNjZ2QVpWZkdiTTBWUlo?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5565170dcf556a582d70ca54e65d51b9f069ff3565306f3d1a4e120b49935db8"
+    },
+    {
+      "id": "20261001-DP-6DBAB64D-1786",
+      "title": "수산직불금 지급 요건 현실화... 수산업·어촌의 지속가능한 발전 지원 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T15:05:00+09:00",
+      "publishedAt": "2026-10-01T15:05:00+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "수산직불금 지급 요건 현실화... 수산업·어촌의 지속가능한 발전 지원 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "수산직불금 지급 요건 현실화... 수산업·어촌의 지속가능한 발전 지원 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQmhCa0xRSmQ4ZFhxY1NLeGt3TDBVTFU2OEcxWGtHa0ZpTmNPazdPcDJfQ2Y3bi0yMVF6U1RMY1BZaXlZLXMwNFNzZUNQUmFpVGFERjZVd2M0Skp3aVBpR2JEb3RqNlA1c3M4UFh2dHF5cmctMjhfcTJ0dDAzcFpNbUtIQk02U0ExanY0WGVLUERfTWVucS14elQycjRNYXRwaHQ2c0FUY3pHV3FyTkNpWTctazh6WXAtV0xZSzRfaElyWnp5OVNUOUI0ZTVfNkdFX0lacW9CTWdxZ3R6N3NWaGVWOGM5MXM0bWNqUHJ1Yw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6dbab64dd4cdceaab21834ac8d56960684659b1d298ef52ae2d00cfcdce6b739"
+    },
+    {
+      "id": "20261001-DP-2AFC45F7-1787",
+      "title": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T18:20:16+09:00",
+      "publishedAt": "2026-10-01T18:20:16+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2ppTHZnck94d3d5SzJpMEIxaDBQMnM0ZXh2ODZaUmo3MFhoakVvZHVnV2dva2xHb3gxQWtmeW9jOUxFU2g0MU82QjdFS3FMUk9wNnhmMVQ3Q25DejIxYTkwcVR6N2dBQm9OLWNsYU1qdEFPbWJLUTE4bE9xVWZlZ3NoUm9ud0k?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2afc45f704705d38a9cdcdfd0b73da8016c4402f449ac982117d56775d34fef9"
+    },
+    {
+      "id": "20261001-DP-E86D17D5-1788",
+      "title": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T18:01:36+09:00",
+      "publishedAt": "2026-10-01T18:01:36+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWVwUTNUSUpIb0xjYXdjXy04RWpmOFRfcTZiM0thdnpHSHdkdWdWdkFRS2NuV2hkZkZWUVRaazNOWDJLdW5ZV1RENGRiTlMxTGJva2pvSzF6NU1JbjdOYUNYaFNrUmh0Y09tcDBabThnY0QxS295UzlFZkJTeFhVYk54bmdVa0E3YzZON2lGYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e86d17d559785814e373a99fd35e63a5b99bd795c14d13b3cef728c3142a765d"
+    },
+    {
+      "id": "20261001-DP-047B8CDC-1789",
+      "title": "[보도설명자료][10.1.목 머니투데이] 환자는 모르고 의사는 꺼리고 수술 100건 중 4건도 못찍어 관련 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T17:05:50+09:00",
+      "publishedAt": "2026-10-01T17:05:50+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "[보도설명자료][10.1.목 머니투데이] 환자는 모르고 의사는 꺼리고 수술 100건 중 4건도 못찍어 관련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도설명자료][10.1.목 머니투데이] 환자는 모르고 의사는 꺼리고 수술 100건 중 4건도 못찍어 관련 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoUy1SWnlmcXBCWlFXOTlNWjVEdlgxUGJtTE04dU5CN0tkYUdmeTFUeTBSRzZrU3dsdk5SRVlOMVBHd0FsVm5PV2dMRFdVSEFjdE5oOURuUV9DZ0RCclQ3R25kNmlNMlpWRmUxUFlEYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "047b8cdc045a1ffbf9ef858d1cccb9f3ae75c5de19bcc0953cb70b45fbb3a54e"
+    },
+    {
+      "id": "20261001-FR-A947D1DE-1790",
+      "title": "제9차 국가첨단전략산업위원회 - 포토 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T19:07:57+09:00",
+      "publishedAt": "2026-10-01T19:07:57+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "제9차 국가첨단전략산업위원회 - 포토 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제9차 국가첨단전략산업위원회 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwQmdyUUVPbkNoeUpTaFpCY0drV3kta0NQMVlVSUZQVy1OMjhqZWRDXzhBamYxZEtHYjNsclVLUGZ6c0RwUmcxTjZFUFk4U0c4aU83M2FGVGk3RVN1QnUzc3gzN09BeGZMaGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a947d1dea8427d9cd793262ff9552555fa9b1af96c9df533144da984e2cb3c07"
+    },
+    {
+      "id": "20261001-DP-F4AE1402-1791",
+      "title": "환경분야 정부지원금 부정수급 집중신고기간 운영 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T10:30:00+09:00",
+      "publishedAt": "2026-10-01T10:30:00+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "환경분야 정부지원금 부정수급 집중신고기간 운영 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "환경분야 정부지원금 부정수급 집중신고기간 운영 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxUWxUYm9hS25ieFhWLWdobC1GeTNQS3RhVnJocTlmdGlXX1BHOG5jV2l6b2R5eWx4RS1feGZxNVVwdjlFN3lvR29vT2c3X3FodjRRV09haFVUWXZ6OGNKOGVmX18yeXVrOXR3R2lwZl9GV010N1Jv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f4ae1402fc3350f1a0fccf796482928c78bb73f7818eaa8feceadd328a8cc881"
+    },
+    {
+      "id": "20261001-FR-018F46F4-1792",
+      "title": "국립수목원 DMZ자생식물원, 세계와 함께 '다음 10년' 연다 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T15:38:57+09:00",
+      "publishedAt": "2026-10-01T15:38:57+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "국립수목원 DMZ자생식물원, 세계와 함께 '다음 10년' 연다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "국립수목원 DMZ자생식물원, 세계와 함께 '다음 10년' 연다 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWtIWXVuUzBXLURHTXI3QlZwN1VTNWNyV19IT2FkVE00RzVzNFhTOGRQQUp6WmtWVmpkcDRKU1NDcUFka2JaVDBlU1p5ZDBEQkg5a3ExNkt3R3FMYnVad29JclJsaENFU2d1Qm01WmlWYzVkN1ctYzNxNnBidHA3bWFZS1k1TUt1M0pxeDgxc0FwVVMy?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "018f46f438f31e9190e5cf3e65bd6480bccb3a9dfe20a8e441828c695bbdf70a"
+    },
+    {
+      "id": "20261001-FR-BB66AA9A-1793",
+      "title": "통일의 아침을 준비하는 곳 - 여명학교 조명숙 교장 - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T17:06:22+09:00",
+      "publishedAt": "2026-10-01T17:06:22+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "통일의 아침을 준비하는 곳 - 여명학교 조명숙 교장 - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "통일의 아침을 준비하는 곳 - 여명학교 조명숙 교장 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZTZnQVNzUmtDU01SZDJiMkYwcWhHbUtCVlY5VldTbHRiWWpiUGNSWjMwSnByZVg4X2lfUjBmQlBCWTVkd0FvOHBFemJHUDVQaUNJdGxHckdqeHlzM1lRdVh1YV9lQXh2ektSaHNvZ3lSakw0bU1LVl9GU2NGdzRnRWlibmhfOHNWTl82NQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bb66aa9a08b62dc9655146c8039d2e16d969f14ba721eeef52aeffd28cb94111"
+    },
+    {
+      "id": "20261001-FR-177B5351-1779",
+      "title": "한미 전략투자 1호 '텍사스 가스발전' 추진…알래스카 LNG 검토 착수 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T13:19:11+09:00",
+      "publishedAt": "2026-10-01T13:19:11+09:00",
+      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
+      "updatedAt": "2026-10-01T16:40:38+09:00",
+      "summary": "한미 전략투자 1호 '텍사스 가스발전' 추진…알래스카 LNG 검토 착수 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한미 전략투자 1호 '텍사스 가스발전' 추진…알래스카 LNG 검토 착수 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmLVBZZGoycm5LNDMxWUU0QjlDeUhmYXFtenFWMzBQS1VkVjBiamVVTWtHVmcybDRhOWs4dUMtWDY5T1JnbjUzSEY1VmRsRkt4ZWpmUUlnLXJXWk5veWpucW51UFB2TE5sVlktcQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "177b53517b8c28ee5c3ef33ed71e1e3e2f1dca36db7f2ca5bc9f56da3bbf381b"
+    },
+    {
+      "id": "20261001-FR-1C51DA5E-1780",
+      "title": "10월 멸종위기 야생생물로 두드럭조개 선정 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T12:00:00+09:00",
+      "publishedAt": "2026-10-01T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
+      "updatedAt": "2026-10-01T16:40:38+09:00",
+      "summary": "10월 멸종위기 야생생물로 두드럭조개 선정 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "10월 멸종위기 야생생물로 두드럭조개 선정 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUE1FNkxPN2d5US1TdXo3UkpmQWJwbG1INU0teGRmZFVWZDNUcXFWRVY0b0Vmd2N4RGRzcmRJMlpIVjltZU5OOERJZVduLTVhNEU3RG53dUVxalBVMXE2aHFHQXB5akJoNGlwanBrYUNlclYzMk1qYjFGVFdNOG5rWWpsN29DQk9SaS1MY3k0TVpYUnJZNmE1VkZzY3FOd0hDWE8xRW0zWlJRckx4RmdrLVRnV001cFBVQThZaEs1VkRyc21SQWxoNWtES2RqM1IwQlhidlY0SXdjcnkzWnNLMnpGNDhfcTlqNFpRM2d6UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1c51da5e84a3301f2af4422214e8c3357c6ee4ebd3cad4bd6560027c73590e67"
+    },
+    {
+      "id": "20260930-DP-B74C2EA6-1781",
+      "title": "2027년 새만금 예산안, 핵심은? - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-30T10:12:00+09:00",
+      "publishedAt": "2026-09-30T10:12:00+09:00",
+      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
+      "updatedAt": "2026-10-01T16:40:38+09:00",
+      "summary": "2027년 새만금 예산안, 핵심은?",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "2027년 새만금 예산안, 핵심은? - 정책브리핑",
+          "date": "2026-09-30",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUXZjTk5XNHJhN1ptTldtend4cF9tOWZ2RG1SZHlveVdRdE9zakdhbzVxdVQ1U21ScVdZVTM1YVZLMURnTWtDc2ItNEVVdF90cV85eTBfTHRnRFk2VXJrU0FJOWFHZ2podUMzSzc3bHBBcTlta0UtMzJBdVM4OVVOUXppM1BSdFB1Xzh5c29FekhTbi13UUg3MVlTaDF3RmtjS2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b74c2ea67ee7f21a5be3a4eff083e93b38bc59f261a4dd1a1b9d6db59b3ba57d"
+    },
+    {
+      "id": "20260930-FR-83854438-1782",
+      "title": "(보도설명) 환수결정액이 조기에 환수될 수 있도록 부정수급 관리를 강화해 나가겠습니다 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-30T05:47:27+09:00",
+      "publishedAt": "2026-09-30T05:47:27+09:00",
+      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
+      "updatedAt": "2026-10-01T16:40:38+09:00",
+      "summary": "(보도설명) 환수결정액이 조기에 환수될 수 있도록 부정수급 관리를 강화해 나가겠습니다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(보도설명) 환수결정액이 조기에 환수될 수 있도록 부정수급 관리를 강화해 나가겠습니다 - 정책브리핑",
+          "date": "2026-09-30",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hSjRsa2QzV1M0YjZTRG1qSFRFRlFDSUtrWXVjRzdNeHNQQXVMWG9OTndMQTJkajlfRGREU3RFTzRNRkpqd0p1VjBtVUJzams5cngzWFZUWU5jX1FxS2JSQnplTlMzcUpSUVhydEc4OA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "838544382dffcd81a80ce32006d90952564759629eace4ac9686199c9c801539"
     },
     {
       "id": "20261001-DP-9F7F2306-1767",
@@ -832,86 +1404,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2bc5356bf245797109cfa978dc03e7d454e9ad24209b176e81d671f3efd78811"
-    },
-    {
-      "id": "20261001-DP-8777167F-1769",
-      "title": "루게릭병 전문요양병원 시범사업 11월 시행 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T16:28:19+09:00",
-      "publishedAt": "2026-10-01T16:28:19+09:00",
-      "firstCollectedAt": "2026-10-01T16:40:37+09:00",
-      "updatedAt": "2026-10-01T16:40:37+09:00",
-      "summary": "루게릭병 전문요양병원 시범사업 11월 시행 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "루게릭병 전문요양병원 시범사업 11월 시행 - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSUNwUVhUV0xLQVNiTlBXNmVrVVlUaXlVZjJPbjZlQWRuTnFZRGpNNTZKcTRnVDY0OU43RW5uaUxkbVRHZXhZbGdod1RCMUdOV3RzazhCY3hkbXhiWGhWUGEzN2tuNklSMDh2Z2Npekhjc3hEdTlPMlo2anU0aEFMX3lkWk5xcEdlU29iSUpYZ20xdVRjZGswU2JPbzMtcmpMUzEybXZoVWVxRVRobi1zVUdjMnllNUlyd1dsblFFTTNpcGtGb2NjcFNXTEFsT2hnWk8ySVY4T1ZJNHBmYUhfQzZiVVlEeHEzeTBHUG1nYw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "8777167f1b814f030424851db153838006fea72884beacb9b6ebd4327b471d9f"
-    },
-    {
-      "id": "20261001-DP-3DB72BFE-1770",
-      "title": "국립의학전문대학원 남원 설립 확정, 2029년 개교 본격 추진 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T11:43:27+09:00",
-      "publishedAt": "2026-10-01T11:43:27+09:00",
-      "firstCollectedAt": "2026-10-01T16:40:37+09:00",
-      "updatedAt": "2026-10-01T16:40:37+09:00",
-      "summary": "국립의학전문대학원 남원 설립 확정, 2029년 개교 본격 추진 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "국립의학전문대학원 남원 설립 확정, 2029년 개교 본격 추진 - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLU5aRldLRk9lbnR4cXpQYm9rLVdJaktMdDJLczhsS09Kb0dUUl9TWU5pSXFmb2xxeVBUREt6Y0dIVlMwRk5kT3EtNEZuVkt4bjl5NXJmZ1pJYmU0dGJPMTNjaFNueGtoUlh5YWxaUjhrUjhuM0x6RnBDOXRuVnk4LURzMEVEYk1qYzVJVTdEd3pLN0U2eUZiem11MmJ0djhyMEQzX05ZNWxHeFJZekwwOFUwaUpYdC1GUzd2Q0NDVHJreVdDbGZvYlhxVnZSaVdLN0pZYUp3OV90c0NjR0NPMWlvZFh2akJxbEtJMjBVdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "3db72bfea70be64768f53d9d196051b5dcd414b8d50c152f349098897103a0a8"
     },
     {
       "id": "20261001-DP-699918AC-1771",
