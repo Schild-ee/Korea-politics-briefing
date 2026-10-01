@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-02T00:22:01+09:00",
-    "nextScheduledUpdate": "2026-10-02T00:52:01+09:00",
+    "lastSuccessfulUpdate": "2026-10-02T05:27:15+09:00",
+    "nextScheduledUpdate": "2026-10-02T05:57:15+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-02T00:21:55+09:00",
-      "finishedAt": "2026-10-02T00:22:01+09:00",
+      "startedAt": "2026-10-02T05:27:11+09:00",
+      "finishedAt": "2026-10-02T05:27:15+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 54,
-      "duplicates": 48,
-      "rejected": 137,
-      "rejectedByDate": 134,
-      "rejectedByRelevance": 3,
+      "duplicates": 58,
+      "rejected": 136,
+      "rejectedByDate": 135,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 11,
-      "updatedIssues": 4,
+      "newIssues": 3,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,24 +65,24 @@
   },
   "issues": [
     {
-      "id": "20261001-FR-8E16BFF4-1778",
-      "title": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" - 정책브리핑",
+      "id": "20261002-FR-0A7361CB-1796",
+      "title": "이 대통령 \"자주국방은 곧 주권…전작권 환수로 그 꿈 반드시 이룰 것\" - 정책브리핑",
       "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국방·안보",
       "countries": [],
       "institutions": [
         "정책브리핑"
       ],
       "people": [],
-      "importance": "참고",
+      "importance": "핵심",
       "status": "공식 발표 확인",
       "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T15:01:48+09:00",
-      "publishedAt": "2026-10-01T15:01:48+09:00",
-      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
-      "updatedAt": "2026-10-02T00:21:56+09:00",
-      "summary": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" 정책브리핑",
+      "occurredAt": "2026-10-02T02:32:35+09:00",
+      "publishedAt": "2026-10-02T02:32:35+09:00",
+      "firstCollectedAt": "2026-10-02T05:27:13+09:00",
+      "updatedAt": "2026-10-02T05:27:13+09:00",
+      "summary": "이 대통령 \"자주국방은 곧 주권…전작권 환수로 그 꿈 반드시 이룰 것\" 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
       "positions": [],
@@ -91,31 +91,18 @@
       "sources": [
         {
           "name": "정책브리핑",
-          "title": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTZXWk5vVXZ5RFUweW1WaWdtTDhPLWlJbzIzTjZ6X1RGMWllc1hGR29LVFVFbGNFeDNGS1c3VU5rR0tLRWhMRW0zR0ZGSHRKaDNaOEJSenBjZldQdDcyUnpCX0JtZlFUR3UxaS1OV2RpZ0FYNmQ3b2N4d2RxRWx4UHk5RE5RSmMySzNIRlY2cEZuQQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWxCYUpSYzF0T3BSaTdvZk1ZS09hSGVDNHpKaFo3RWdKYXRHWTI5eVl3TXh0YmtLd2xYTFFMczF0WGxIaGFWNy1nSHVQa0dyQUwxdWxTUlBFZXl2NER0ZWd4WFhaWjN3cU5oejE2NnBnMEMyMDRtUXljNk9teDA0X1RnVExxOS15WGNlUS1pSnM4SDZp?oc=5",
+          "title": "이 대통령 \"자주국방은 곧 주권…전작권 환수로 그 꿈 반드시 이룰 것\" - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nNERlZElzOVgyOFoxY3pFTk5ETGNTdEc1OWVMdVJiSndzTzV3Z1VNTU1rZUhYSWI2MWNYaE9UMk5ST3hoT3o3VW05eWh0UHNqdkkxUHl3QlBuZUxmTzgwRmFvSnRtdm1Oc0FFaQ?oc=5",
           "official": true
         }
       ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-02T00:21:56+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
+      "revisionHistory": [],
       "corrected": false,
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "8e16bff4ec0907262324c8062a930dab439ebf40d650a8e7cdc90203c4e0e179"
+      "contentHash": "0a7361cb42a451dbbd5b230096ff7316c227e6b713b526702edc88d23b303478"
     },
     {
       "id": "20260810-DP-56AB35E4-225",
@@ -134,7 +121,7 @@
       "occurredAt": "2026-08-10T14:37:13+09:00",
       "publishedAt": "2026-08-10T14:37:13+09:00",
       "firstCollectedAt": "2026-08-10T19:04:32+09:00",
-      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T05:27:12+09:00",
       "summary": "전국법원 주요판결 대한민국 법원",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -414,6 +401,13 @@
           "date": "2026-10-01",
           "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOX0RkalhTTnN4OWJfYlVoQmhmNkEyX2J5eTM5cHF3cEZNd3JKUzlLN1lkOUVSQy1SQ2dsSDlFbERJRnRUdHNSMktZRVloVmNIYk13ZE5UZWVnVkFLay1teENKZndCVGlsZk9vejlrVjNJM2h3N0Rlb1A5ZmdsdlN6bk9hQS0xZW94Mi1JWFlJcGxZeTU3TmdadGhfZXgzeDdqUXBoWG8wQkFUSGZuMWY2ZzZxeEppcThOZmxMcmdLekNwYjc5M29PVDVqbmRGVFozRHZJSGRfRUdXMWViNllxYzZtUER0dU0zdmo5Nm85dDhDM3BibEZYTUVkODB4bC1fV1F6bFdoRWUxLVBCMWJMeE0tTEQ1THNZXy1oblN2cnY3TGlLbmZnQTFfOV9sOTBnUFE?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZmlhUUYtWGdJUWItUjRFU0lzaVZ2MlctMHZXdmVYQmVmSTBRVURxc1g2eGJkSFJqRnUzZHNTX2R2ZHRFS1ZkTWFYcDB0czBLVFM2d1pJWG5XWnY4YzVOVXFYWk9nN2ZaVjNEdEhKSVhmZXEzTDh4M25fV0l0dGJtSjlubk5NM3lIZ1cwTlU0NmthUXpONVVfS1daRGkybk04UVZlbGhaNGZWQ092Mm5jb0U3M2JHbXBodWV1LXpfOUZQZWhZczN2RG5qd1lYRGZ0cEg0T2tIWWk3VkI0WUJSWTF0XzNqT2RyakNfT2V6QVFTemZxSlJ3YTQzOEQweHJzVzhNVEctMVcxNkZfTUVJTTRfcFNOdGZCbldPRG9iWFNvYWliV3Y3UnAwRnJ0SE9Ra3c?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -606,6 +600,11 @@
           "updatedAt": "2026-10-02T00:21:56+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 38
+        },
+        {
+          "updatedAt": "2026-10-02T05:27:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 39
         }
       ],
       "corrected": false,
@@ -613,6 +612,257 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
+    },
+    {
+      "id": "20261001-DP-5AA56B5A-1783",
+      "title": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T19:00:00+09:00",
+      "publishedAt": "2026-10-01T19:00:00+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-02T05:27:12+09:00",
+      "summary": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXAxb3JWUG1BdFlpWllPVjZwQU1nUVBaUTZNY1BsLWFUMkozQUdySzRmeURPWXl5OG40MXJoc2VCTng0Ty1qM1hLZ0g1SVRwY3pRb0tTR2F2akFxSWRMY09uSjkyT25XUUZSRTUtTnk4T0xFc29TMmRwc2xqd1ZtSldDNC1TOWVERFhKUEVXZTYtdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaElaWnNYazF4M2VWUkVNMl9QUDREV0J5VlRqU2hLQ2cyM3o1bUVETUUxM3RZQXFPQ0tCY3FETFctck8taDRjX0dFREI3cEs2RFp6UmpIQUk4UUtYYmpVczNmdnNyWXVzbDl3Y0JESlk0Ti0xLXZsRmtzamNpTkpFejBxbE5hbmFFaDRKVk01aVNwUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-02T05:27:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5aa56b5a5b0adcc0876ef059f827c965ce4afcdfa912e5631ce42f73c0b3be73"
+    },
+    {
+      "id": "20260930-DP-BFDE2DBC-1720",
+      "title": "의료계·플랫폼 협력으로 \"실손24\" 연계율 제고 나선다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-30T00:00:00+09:00",
+      "publishedAt": "2026-09-30T00:00:00+09:00",
+      "firstCollectedAt": "2026-09-30T15:34:11+09:00",
+      "updatedAt": "2026-10-02T05:27:12+09:00",
+      "summary": "의료계·플랫폼 협력으로 \"실손24\" 연계율 제고 나선다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "의료계·플랫폼 협력으로 \"실손24\" 연계율 제고 나선다. - 대한민국 정책브리핑",
+          "date": "2026-09-30",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOW4xSDgzYXZLY0VVMHRDNG9qYXc3OUk1ZE1aZnBMSHR1X3BFajVLRjVKN0s0ZTN1dGJxTEc5SWJ0M1c4NEFrbllEaXFUUzBFMmR6VEJGQ2JkbW5rWDJ3ZlRGYzgtU0hrc1kwUWZoNU0tUE5DMHZjN1ltZ0UwMDVVS2tKMm1LakpFZmxLNTBMeU90UWdOSFA4amNaM2N6aHJRQ09idkpqd0pXNnFpRmFDMm1GWDJUOUZqOHF5emxrZWEzRjBsX3lVRDNobmt1N1NGZVlSOTBEVkVDRDFzZFpYbWhES3ZDTk9DNWNuMVlB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다. - 대한민국 정책브리핑",
+          "date": "2026-09-30",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01UTR0MTkta3hmaS1aQkNMdmFfU3c0RHRnVkVpbkRBbEZSQVhTMWlHemRnempSVVZfaHEzcGtJazFvQVFyeUNqNy1iZmhjLUt1M1YwbzFsOVF2WWhxSGdNS0hsX1EtSHhLNy13TnpJTm0yNFFoUlE?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "의료계·플랫폼 협력으로 \"실손24\" 연계율 제고 나선다. - 정책브리핑",
+          "date": "2026-09-30",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQUWRSakpQOFhwSjhiSnVhNUVNcEFsRmoxTERDam8tRkg2WG9yZ2VCRVBoMTU5T2JqTkdGYUJuWnp0ZHdfeW9PS0lhd3VTZnYyZzNsMWxIUkVmUFVTMTZmcEVSRnZRTzhLdGwwcUYtY19hcTdZMC01eVJKcUV3TC1hVUJkNkJQTUlYTWl1QlJrRmRNQVFKelBoOHgyVXhqekxfSlNHWk43UC05RHVxb3pTSnlYenAzeDRpazR6czdRUWtseWhfcU01UXE3aUJtaEh4WVZidVJsTWkxNHkxTDVCN3J5YzNVcjI3TnFJNUM2a2Z2aUQyRDEwcjB6OFl1a0cybklVNEh5LVJZUGxUY09Cag?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-30T21:56:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-02T05:27:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bfde2dbc57df2de2765919af65fa38193b09ec7ffa6a0a611d19b2b539b985ea"
+    },
+    {
+      "id": "20261001-DP-BEBCC3C5-1794",
+      "title": "토큰증권 관련 전자증권법·자본시장법 하위법규 개정안 입법예고 실시 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T09:00:00+09:00",
+      "publishedAt": "2026-10-01T09:00:00+09:00",
+      "firstCollectedAt": "2026-10-02T05:27:12+09:00",
+      "updatedAt": "2026-10-02T05:27:12+09:00",
+      "summary": "토큰증권 관련 전자증권법·자본시장법 하위법규 개정안 입법예고 실시 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "토큰증권 관련 전자증권법·자본시장법 하위법규 개정안 입법예고 실시 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrclRtcW8xVlU2XzQtM2lMY1RZeHg5T0gxTFhoc3FxaGVvTjFOdmtBUzFvRHl5QU4tVjgzQjE3SEk3SXN4ZXA0dDVBT0xyYy04a3hNTU9PS3NTdUNPZzlyQ2pIczV1UGlIY05DT29IbjI0OHpTRXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bebcc3c553dd955019465f90bad1154ddaf9ea727e7727df05046bf27f9aa15a"
+    },
+    {
+      "id": "20261001-DP-532EF8F0-1795",
+      "title": "내년부터 우유팩 분리배출 의무…그냥 버리면 안!돼요 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T18:31:43+09:00",
+      "publishedAt": "2026-10-01T18:31:43+09:00",
+      "firstCollectedAt": "2026-10-02T05:27:12+09:00",
+      "updatedAt": "2026-10-02T05:27:12+09:00",
+      "summary": "내년부터 우유팩 분리배출 의무…그냥 버리면 안!돼요 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "내년부터 우유팩 분리배출 의무…그냥 버리면 안!돼요 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DWUxNOUxXVlY0TGZHR3dGLWlqaFlnZlRhSGNfaWVGSXZ3VzBHRXozNVc2VVJuOWlhQ05yV2M0TEh4aDhkM3JQTktfaGZscmg1T2lXZVdQUG9JYWIyam1XRHVjYng0ZDZUVUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "532ef8f0d3f1a8dc34ca0d6f80b7f975ad4dec2942e3362c344daa6ec3bb298e"
+    },
+    {
+      "id": "20261001-FR-8E16BFF4-1778",
+      "title": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T15:01:48+09:00",
+      "publishedAt": "2026-10-01T15:01:48+09:00",
+      "firstCollectedAt": "2026-10-01T16:40:38+09:00",
+      "updatedAt": "2026-10-02T00:21:56+09:00",
+      "summary": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObTZXWk5vVXZ5RFUweW1WaWdtTDhPLWlJbzIzTjZ6X1RGMWllc1hGR29LVFVFbGNFeDNGS1c3VU5rR0tLRWhMRW0zR0ZGSHRKaDNaOEJSenBjZldQdDcyUnpCX0JtZlFUR3UxaS1OV2RpZ0FYNmQ3b2N4d2RxRWx4UHk5RE5RSmMySzNIRlY2cEZuQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "세계한인주간, 만남 넘어 협력으로...\"'동포 간 연결' 새 장 열었다\" - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYWxCYUpSYzF0T3BSaTdvZk1ZS09hSGVDNHpKaFo3RWdKYXRHWTI5eVl3TXh0YmtLd2xYTFFMczF0WGxIaGFWNy1nSHVQa0dyQUwxdWxTUlBFZXl2NER0ZWd4WFhaWjN3cU5oejE2NnBnMEMyMDRtUXljNk9teDA0X1RnVExxOS15WGNlUS1pSnM4SDZp?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-02T00:21:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8e16bff4ec0907262324c8062a930dab439ebf40d650a8e7cdc90203c4e0e179"
     },
     {
       "id": "20261001-DP-8777167F-1769",
@@ -719,46 +969,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3db72bfea70be64768f53d9d196051b5dcd414b8d50c152f349098897103a0a8"
-    },
-    {
-      "id": "20261001-DP-5AA56B5A-1783",
-      "title": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T19:00:00+09:00",
-      "publishedAt": "2026-10-01T19:00:00+09:00",
-      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
-      "updatedAt": "2026-10-02T00:21:56+09:00",
-      "summary": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "'공공부문 AI 윤리기준' 최종 확정, 공공분야 인공지능 신뢰성 확보한다 - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYXAxb3JWUG1BdFlpWllPVjZwQU1nUVBaUTZNY1BsLWFUMkozQUdySzRmeURPWXl5OG40MXJoc2VCTng0Ty1qM1hLZ0g1SVRwY3pRb0tTR2F2akFxSWRMY09uSjkyT25XUUZSRTUtTnk4T0xFc29TMmRwc2xqd1ZtSldDNC1TOWVERFhKUEVXZTYtdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "5aa56b5a5b0adcc0876ef059f827c965ce4afcdfa912e5631ce42f73c0b3be73"
     },
     {
       "id": "20261001-DP-19CB5513-1784",
@@ -2926,59 +3136,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "829cab4903d7271c4a3cb64246b167c43053e9762fea68edb3c3d5d181ebf249"
-    },
-    {
-      "id": "20260930-DP-BFDE2DBC-1720",
-      "title": "의료계·플랫폼 협력으로 \"실손24\" 연계율 제고 나선다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-30T00:00:00+09:00",
-      "publishedAt": "2026-09-30T00:00:00+09:00",
-      "firstCollectedAt": "2026-09-30T15:34:11+09:00",
-      "updatedAt": "2026-09-30T21:56:27+09:00",
-      "summary": "의료계·플랫폼 협력으로 \"실손24\" 연계율 제고 나선다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "의료계·플랫폼 협력으로 \"실손24\" 연계율 제고 나선다. - 대한민국 정책브리핑",
-          "date": "2026-09-30",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOW4xSDgzYXZLY0VVMHRDNG9qYXc3OUk1ZE1aZnBMSHR1X3BFajVLRjVKN0s0ZTN1dGJxTEc5SWJ0M1c4NEFrbllEaXFUUzBFMmR6VEJGQ2JkbW5rWDJ3ZlRGYzgtU0hrc1kwUWZoNU0tUE5DMHZjN1ltZ0UwMDVVS2tKMm1LakpFZmxLNTBMeU90UWdOSFA4amNaM2N6aHJRQ09idkpqd0pXNnFpRmFDMm1GWDJUOUZqOHF5emxrZWEzRjBsX3lVRDNobmt1N1NGZVlSOTBEVkVDRDFzZFpYbWhES3ZDTk9DNWNuMVlB?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "의료계·플랫폼 협력으로 “실손24” 연계율 제고 나선다. - 대한민국 정책브리핑",
-          "date": "2026-09-30",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01UTR0MTkta3hmaS1aQkNMdmFfU3c0RHRnVkVpbkRBbEZSQVhTMWlHemRnempSVVZfaHEzcGtJazFvQVFyeUNqNy1iZmhjLUt1M1YwbzFsOVF2WWhxSGdNS0hsX1EtSHhLNy13TnpJTm0yNFFoUlE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-30T21:56:27+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "bfde2dbc57df2de2765919af65fa38193b09ec7ffa6a0a611d19b2b539b985ea"
     },
     {
       "id": "20260930-DP-D44E4505-1721",
