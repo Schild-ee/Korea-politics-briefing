@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-02T20:16:50+09:00",
-    "nextScheduledUpdate": "2026-10-02T20:46:50+09:00",
+    "lastSuccessfulUpdate": "2026-10-03T01:47:44+09:00",
+    "nextScheduledUpdate": "2026-10-03T02:17:44+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-02T20:16:42+09:00",
-      "finishedAt": "2026-10-02T20:16:50+09:00",
+      "startedAt": "2026-10-03T01:47:38+09:00",
+      "finishedAt": "2026-10-03T01:47:44+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 63,
-      "duplicates": 48,
-      "rejected": 129,
-      "rejectedByDate": 128,
+      "acceptedCandidates": 61,
+      "duplicates": 61,
+      "rejected": 131,
+      "rejectedByDate": 130,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 18,
-      "updatedIssues": 5,
+      "newIssues": 7,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,339 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261002-FR-2E234775-1836",
+      "title": "[보도설명자료] 재외동포청은 재외동포 기부금 30억 원을 기부 취지에 맞도록 사용하겠습니다. - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T21:03:00+09:00",
+      "publishedAt": "2026-10-02T21:03:00+09:00",
+      "firstCollectedAt": "2026-10-03T01:47:40+09:00",
+      "updatedAt": "2026-10-03T01:47:40+09:00",
+      "summary": "[보도설명자료] 재외동포청은 재외동포 기부금 30억 원을 기부 취지에 맞도록 사용하겠습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도설명자료] 재외동포청은 재외동포 기부금 30억 원을 기부 취지에 맞도록 사용하겠습니다. - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemk4QUZrV3ZGb1RWaWNDU2hPQzdSVlA1NVF1ZGs2RFduQnlJX0JaSlZyTHdBVzljeG14TEo5OGxFLTE4Njc0dUVuTEdYWkxxZWN1Nl81WnVCMmtpbmlKNExWWDk5WXU3c0tKX1pTVWlmVkFOdE0yZVpEWF9Lal9fQUZBVzNsd1BzcGN1Z3JCYUNhQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2e234775c036f15b1029489c78f46404b961216d0ec590cf4a436bb252d31ed7"
+    },
+    {
+      "id": "20261002-FR-7A017C83-1837",
+      "title": "달걀 생산용 토종닭, 농가 보급체계 구축…프리미엄 시장 겨냥 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T16:23:42+09:00",
+      "publishedAt": "2026-10-02T16:23:42+09:00",
+      "firstCollectedAt": "2026-10-03T01:47:40+09:00",
+      "updatedAt": "2026-10-03T01:47:40+09:00",
+      "summary": "달걀 생산용 토종닭, 농가 보급체계 구축…프리미엄 시장 겨냥 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "달걀 생산용 토종닭, 농가 보급체계 구축…프리미엄 시장 겨냥 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSkFDLVpVeHIzMW8zWXRBeFBLZkdmZklKMzFJaFU3TEZhRVlmbEdpOW9qSkJNLTZTSGF0RzJKWE9fdndoallTZmZJMHJIN3FFWUNGbUpBNjh2VkhUb3p1bkJhaXZxNzZSdUdONEoxeUxoczU5U3RrR0VWYlpLc056RmQxdjhlSTZSU2wyalVaNnVWUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7a017c83f8da7f47f5ffc6b1901170d1d8dee3525c98763ba2bb204cd31fd99a"
+    },
+    {
+      "id": "20261002-DP-18E567F5-1838",
+      "title": "농촌진흥청·지방정부 협업, 한우 청년농 사료비 부담 낮췄다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T16:46:45+09:00",
+      "publishedAt": "2026-10-02T16:46:45+09:00",
+      "firstCollectedAt": "2026-10-03T01:47:40+09:00",
+      "updatedAt": "2026-10-03T01:47:40+09:00",
+      "summary": "농촌진흥청·지방정부 협업, 한우 청년농 사료비 부담 낮췄다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "농촌진흥청·지방정부 협업, 한우 청년농 사료비 부담 낮췄다 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjBCRTFYa0IyOGhvdTAzTzZOUEtKQzhIaGF2ZGJsdGt5S3dMdXUwZlFnVVlfSkphdDA2OGF2WXo1TzhSZWhmakp6RGduYUFxSkFVQjgtRktQeWI5TlUzemwtRmdTdnk5azlkT3hrU0NERjc1eVl1RlFBUHE0MHAteDhXeDVZX2hBODJEV0pjTy1Bdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "18e567f5bb164b8f25e77f31134cb383f0a32580cc6979000825188571c717c7"
+    },
+    {
+      "id": "20261002-FR-403EF4CC-1839",
+      "title": "(설명) 보 처리방안은 과학적 근거에 기반한 사회경제적 분석 및 지역 의견을 종합해 마련할 계획임 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T18:29:13+09:00",
+      "publishedAt": "2026-10-02T18:29:13+09:00",
+      "firstCollectedAt": "2026-10-03T01:47:40+09:00",
+      "updatedAt": "2026-10-03T01:47:40+09:00",
+      "summary": "(설명) 보 처리방안은 과학적 근거에 기반한 사회경제적 분석 및 지역 의견을 종합해 마련할 계획임 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(설명) 보 처리방안은 과학적 근거에 기반한 사회경제적 분석 및 지역 의견을 종합해 마련할 계획임 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HSXR6VGl2Smh2cmNNd3RIa2hNVTU5QUlJVVk2UmVoWFgwbFhseDRZNElKUVcwaENHbmdsdUtvdTNsQ0YwRnQwSFJ1SDZjSF9vVTU4UGtJU3VhNkpiZXZUanpsVHZhMlRxck5wZ3RNbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "403ef4ccb8e61b11ff53f367a27e2fb74f2b15f43203cdeeecf042583514b4b3"
+    },
+    {
+      "id": "20261002-FR-D74B0FB0-1840",
+      "title": "농지 전수조사로 맹지·경사지 등 현실적으로 경작이 어려운 농지까지 일률적으로 처분하거나 이행강제금을 부과한다는 것은 사실이 아닙니다. - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T18:22:27+09:00",
+      "publishedAt": "2026-10-02T18:22:27+09:00",
+      "firstCollectedAt": "2026-10-03T01:47:40+09:00",
+      "updatedAt": "2026-10-03T01:47:40+09:00",
+      "summary": "농지 전수조사로 맹지·경사지 등 현실적으로 경작이 어려운 농지까지 일률적으로 처분하거나 이행강제금을 부과한다는 것은 사실이 아닙니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "농지 전수조사로 맹지·경사지 등 현실적으로 경작이 어려운 농지까지 일률적으로 처분하거나 이행강제금을 부과한다는 것은 사실이 아닙니다. - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5ZzMzR1RaNkJhYTZ1WERVelJnSmZvR01wTVllZm9yOEdTblEyM0RrNkRyTGpDZklUZ0hMbXBySlA4NTBoaGVMOW03UWJuTUdGZ1l5RUZrd25XVzR4WldIQS1pdFlVZ1BYUVhqeUhWbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d74b0fb0da97bb945f912709b75c196776fd106dc8780297db22d0a1953aed97"
+    },
+    {
+      "id": "20261002-DP-570E35F6-1841",
+      "title": "[보도자료] 한성숙 국무총리 주재 READY Korea 산불진화 통합훈련 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T16:57:00+09:00",
+      "publishedAt": "2026-10-02T16:57:00+09:00",
+      "firstCollectedAt": "2026-10-03T01:47:40+09:00",
+      "updatedAt": "2026-10-03T01:47:40+09:00",
+      "summary": "[보도자료] 한성숙 국무총리 주재 READY Korea 산불진화 통합훈련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도자료] 한성숙 국무총리 주재 READY Korea 산불진화 통합훈련 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdkVvWGIzaXlzamswYVR5Q0tCZ0RVcVZpMVk3R253dVI3MWNqLWdtcUdXMjRWVWdIRGhoOGdNSlFwZjlNMVl3VS10NktJRXN3aUdzRXJSUDhVNzRrQUt3VHd6a0pSOVFQdDBfZERZSXVsUlpjbmJvVlAwdHEwSHA5ZGlkWHJrWWl0MUthZkJ5T1otQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "570e35f6b67bcdf83b5465bb26a1acac8f0db8541b75f0589e367348ae3b3a72"
+    },
+    {
+      "id": "20261002-FR-1D8ABCC0-1842",
+      "title": "개인정보 유출·침해사고, 더 빠르게 더 공정하게 더 투명하게 조사 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T11:00:00+09:00",
+      "publishedAt": "2026-10-02T11:00:00+09:00",
+      "firstCollectedAt": "2026-10-03T01:47:40+09:00",
+      "updatedAt": "2026-10-03T01:47:40+09:00",
+      "summary": "개인정보 유출·침해사고, 더 빠르게 더 공정하게 더 투명하게 조사 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "개인정보 유출·침해사고, 더 빠르게 더 공정하게 더 투명하게 조사 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcEJwLTdub3BVUlFmbGdsemdFLTRBQkU5aWlxRHhUalVHSnY5MzAwYW0xTGtFZ21QY2l2ZEdvRE9qU292REcyOFNuN1NuSGxDZzBjblhjR2FyNTdxc1ZfcFlmVV9yYWxyTXlsaFIzQ0QyNDlycVJ0OXZUMjBiWFlzN3JQWGo3V3JJU1k2aFhhZ3lMQmZVT1NmdEJzOXVOQTlEQXBPRVk3VmlLcXNlTGR1eHlGaFJ4Vnp2a1BuenRKNS1KRDdVRjQ5ZzdoU3lTeVhDcU9LT2xhdWxQQkY0eU92ZGVBZ3UxM0JXSGNCc2pBcw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1d8abcc09452e3d6ed5019b59c554f560387216146a18491fcaa82d1e1d313c3"
+    },
+    {
+      "id": "20261001-DP-2AFC45F7-1787",
+      "title": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T18:20:16+09:00",
+      "publishedAt": "2026-10-01T18:20:16+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-03T01:47:39+09:00",
+      "summary": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2ppTHZnck94d3d5SzJpMEIxaDBQMnM0ZXh2ODZaUmo3MFhoakVvZHVnV2dva2xHb3gxQWtmeW9jOUxFU2g0MU82QjdFS3FMUk9wNnhmMVQ3Q25DejIxYTkwcVR6N2dBQm9OLWNsYU1qdEFPbWJLUTE4bE9xVWZlZ3NoUm9ud0k?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNLURzX2JkWmQzQXJBZlN0Q2hzbElfY0sxQ3h5VjJYdkE1RGRIdXZUTi1aU3JHTzllMmJZUnFGb2JXVmhUeHg2UmY3TFp4T2dEVmNaN1RWOTZmX3dXeDlpZmpCTVl2T2lwbWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-03T01:47:39+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2afc45f704705d38a9cdcdfd0b73da8016c4402f449ac982117d56775d34fef9"
+    },
     {
       "id": "20261002-DP-57F100B8-1815",
       "title": "[보도자료] 국무조정실장 주재 불법사금융 근절 범정부 TF 회의 보도자료 모두발언 - 정책브리핑",
@@ -3159,46 +3492,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6dbab64dd4cdceaab21834ac8d56960684659b1d298ef52ae2d00cfcdce6b739"
-    },
-    {
-      "id": "20261001-DP-2AFC45F7-1787",
-      "title": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T18:20:16+09:00",
-      "publishedAt": "2026-10-01T18:20:16+09:00",
-      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
-      "updatedAt": "2026-10-02T00:21:56+09:00",
-      "summary": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "올해 더 확대된 어린이 인플루엔자 예방접종, 독한감기 이겨내려면 꼭 맞아요 - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2ppTHZnck94d3d5SzJpMEIxaDBQMnM0ZXh2ODZaUmo3MFhoakVvZHVnV2dva2xHb3gxQWtmeW9jOUxFU2g0MU82QjdFS3FMUk9wNnhmMVQ3Q25DejIxYTkwcVR6N2dBQm9OLWNsYU1qdEFPbWJLUTE4bE9xVWZlZ3NoUm9ud0k?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2afc45f704705d38a9cdcdfd0b73da8016c4402f449ac982117d56775d34fef9"
     },
     {
       "id": "20261001-DP-E86D17D5-1788",
