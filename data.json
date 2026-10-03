@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-04T01:07:40+09:00",
-    "nextScheduledUpdate": "2026-10-04T01:37:40+09:00",
+    "lastSuccessfulUpdate": "2026-10-04T04:21:23+09:00",
+    "nextScheduledUpdate": "2026-10-04T04:51:23+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-04T01:07:37+09:00",
-      "finishedAt": "2026-10-04T01:07:40+09:00",
+      "startedAt": "2026-10-04T04:21:20+09:00",
+      "finishedAt": "2026-10-04T04:21:23+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 39,
-      "duplicates": 40,
-      "rejected": 158,
-      "rejectedByDate": 154,
+      "duplicates": 41,
+      "rejected": 157,
+      "rejectedByDate": 153,
       "rejectedByRelevance": 3,
       "rejectedAsCommentary": 1,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 1,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,100 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261002-FR-32E26057-1843",
+      "title": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.) - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T17:05:56+09:00",
+      "publishedAt": "2026-10-02T17:05:56+09:00",
+      "firstCollectedAt": "2026-10-03T06:15:31+09:00",
+      "updatedAt": "2026-10-04T04:21:22+09:00",
+      "summary": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.) 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.) - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkQtUHlOX3JYQVVGOW9qSE5qZXhINGZFNEVWLVhWb2JNMTZnVzAwQWFSRzl0aXdyUXpRcVREa1hhNUdFbmdzenpqLXh1bkdVN2ZmTzVrWTZhZE9UVTNzZ29lQ3lTQl9GU0JlRURLWmxDcF9SbFRQcEFEUWE1bnVqR0I4RWhCeVFjc0s5RW1ub1lKQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.) - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSGlyVUF6aGZiWTI5b1FwNU94Zk13bk5ESEJYWUkwLUhjRXNBQkpJeld4NF9hT01xOS1qTmVHbzJVRFRmSk9TTjZXV0RaWXN0NkN0ZUZnNVp4VkItdFJHS0ZMb0dMOF9nVHBzZ29Wem85el9LQ1BPUHNDTFJyM0Z3RFBjdmNscWZRVlJ0WERwelFfdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-04T04:21:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "32e2605713f27d7c026993d7296c1bf31f2ac31ce5506103787e61fbc9bef6b4"
+    },
+    {
+      "id": "20261002-FR-4EAD0C3B-1858",
+      "title": "새도약기금, 취약계층 장기 연체채권 4차 소각…18.3만 명 대상 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-02T22:23:04+09:00",
+      "publishedAt": "2026-10-02T22:23:04+09:00",
+      "firstCollectedAt": "2026-10-04T04:21:22+09:00",
+      "updatedAt": "2026-10-04T04:21:22+09:00",
+      "summary": "새도약기금, 취약계층 장기 연체채권 4차 소각…18.3만 명 대상 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "새도약기금, 취약계층 장기 연체채권 4차 소각…18.3만 명 대상 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55R0NmWGxfSldZMVZrLVpEVW5zbUE2b3NYaVdBVGc2U05hN3FvWHMyc2h6RGxQdnROSnYwamxVUUpPakVZUjQwYXozYnVSSDFGcGNFRmVDTnVoVzFURmtremF5ZDFEMkFJWlM1Mg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4ead0c3bfffd1a50e417887e9032fb71c05f052176bae53a5a76ecbe47bd6119"
+    },
     {
       "id": "20261002-FR-2C413DE4-1856",
       "title": "농촌진흥청 연구개발 성과, 기술이전 넘어 사업화 결실 - 정책브리핑",
@@ -371,47 +465,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ee61b04b42038f1e96996acebc6c9b40b767b5ca351924ca1c1dbf8affd1d1ba"
-    },
-    {
-      "id": "20261002-FR-32E26057-1843",
-      "title": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.) - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "외교부",
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-02T17:05:56+09:00",
-      "publishedAt": "2026-10-02T17:05:56+09:00",
-      "firstCollectedAt": "2026-10-03T06:15:31+09:00",
-      "updatedAt": "2026-10-03T06:15:31+09:00",
-      "summary": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.) 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "박윤주 외교부 제1차관, 방글라데시 외교 제1국무장관 면담(10.2.) - 정책브리핑",
-          "date": "2026-10-02",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkQtUHlOX3JYQVVGOW9qSE5qZXhINGZFNEVWLVhWb2JNMTZnVzAwQWFSRzl0aXdyUXpRcVREa1hhNUdFbmdzenpqLXh1bkdVN2ZmTzVrWTZhZE9UVTNzZ29lQ3lTQl9GU0JlRURLWmxDcF9SbFRQcEFEUWE1bnVqR0I4RWhCeVFjc0s5RW1ub1lKQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "32e2605713f27d7c026993d7296c1bf31f2ac31ce5506103787e61fbc9bef6b4"
     },
     {
       "id": "20261002-FR-D3A62EC0-1844",
