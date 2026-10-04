@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-04T10:56:32+09:00",
-    "nextScheduledUpdate": "2026-10-04T11:26:32+09:00",
+    "lastSuccessfulUpdate": "2026-10-04T17:18:34+09:00",
+    "nextScheduledUpdate": "2026-10-04T17:48:34+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-04T10:56:29+09:00",
-      "finishedAt": "2026-10-04T10:56:32+09:00",
+      "startedAt": "2026-10-04T17:18:31+09:00",
+      "finishedAt": "2026-10-04T17:18:34+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 38,
-      "duplicates": 41,
-      "rejected": 158,
-      "rejectedByDate": 155,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 33,
+      "duplicates": 33,
+      "rejected": 163,
+      "rejectedByDate": 161,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 1,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,180 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261001-DP-E86D17D5-1788",
+      "title": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T18:01:36+09:00",
+      "publishedAt": "2026-10-01T18:01:36+09:00",
+      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
+      "updatedAt": "2026-10-04T17:18:32+09:00",
+      "summary": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWVwUTNUSUpIb0xjYXdjXy04RWpmOFRfcTZiM0thdnpHSHdkdWdWdkFRS2NuV2hkZkZWUVRaazNOWDJLdW5ZV1RENGRiTlMxTGJva2pvSzF6NU1JbjdOYUNYaFNrUmh0Y09tcDBabThnY0QxS295UzlFZkJTeFhVYk54bmdVa0E3YzZON2lGYw?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 - 정책브리핑",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hWTJZTm13b2RILXZHeHk3bmFnVU12bi1Jbm9oWkx5ZFZMODNkazdWclM0bUFNb3JVb3J4a0JfeWtnMEpPakJWX0hLcWF0TjdUamxuRHpSUXRDQkY3QTFCRVVwN3hINW1TVURZRkhqTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-04T17:18:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e86d17d559785814e373a99fd35e63a5b99bd795c14d13b3cef728c3142a765d"
+    },
+    {
+      "id": "20261001-DP-EE0742FC-1862",
+      "title": "외국인 관광객용 'K-투어 패스' 첫 출시…부산 시범 운영 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-01T19:56:39+09:00",
+      "publishedAt": "2026-10-01T19:56:39+09:00",
+      "firstCollectedAt": "2026-10-04T17:18:32+09:00",
+      "updatedAt": "2026-10-04T17:18:32+09:00",
+      "summary": "외국인 관광객용 'K-투어 패스' 첫 출시…부산 시범 운영 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "외국인 관광객용 'K-투어 패스' 첫 출시…부산 시범 운영 - 정책브리핑",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41WURiSENRTElZbUt4YTNvUzA2Tjc5S2RSMnZjNVRMbWJ3VjluZUdFV3V1NDRYV0VBNFlsUEZuYUItZmVpMHN2bHJKNUNRVFhKQm9ocnl6RDJjdV9QODNIUC13bDZMSFhWZXRzYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ee0742fca91cf45accbbbc9dc559cb3bb25d2385c4f793f817932b30dc39c47d"
+    },
+    {
+      "id": "20261004-FR-ED7B541A-1863",
+      "title": "K-미식 여정 제3탄! 서울광장시장 명인들이 선사하는 '깊은 맛'을 따라 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-04T11:26:51+09:00",
+      "publishedAt": "2026-10-04T11:26:51+09:00",
+      "firstCollectedAt": "2026-10-04T17:18:32+09:00",
+      "updatedAt": "2026-10-04T17:18:32+09:00",
+      "summary": "서울광장시장 명인들이 선사하는 '깊은 맛'을 따라 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "K-미식 여정 제3탄! 서울광장시장 명인들이 선사하는 '깊은 맛'을 따라 - 정책브리핑",
+          "date": "2026-10-04",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuN2dKaWdNNlhPdHVxUFhsUk84QmhxcTVPc0didTcyeHhCMlNITE1USlR2MWpZSGtPU0ZVUGlueVlvc1VOSldWX2R6c3VRNHNsY2xrWF9NdHczQ3NnejJpdWJqc1d3X2w1SHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ed7b541af3b489a3bed4227ba5241d1c6661d5533e3e32c952be97a39f1eb821"
+    },
+    {
+      "id": "20261003-DP-3D5578EE-1864",
+      "title": "(설명) TV조선, \"'친형 업체' 사망사고 뭉갠 특사경... 오늘부터 검찰 지휘 사라져 '통제 공백'\" 기사 관련 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "검찰",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-03T03:22:30+09:00",
+      "publishedAt": "2026-10-03T03:22:30+09:00",
+      "firstCollectedAt": "2026-10-04T17:18:32+09:00",
+      "updatedAt": "2026-10-04T17:18:32+09:00",
+      "summary": "(설명) TV조선, \"'친형 업체' 사망사고 뭉갠 특사경... 오늘부터 검찰 지휘 사라져 '통제 공백'\" 기사 관련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(설명) TV조선, \"'친형 업체' 사망사고 뭉갠 특사경... 오늘부터 검찰 지휘 사라져 '통제 공백'\" 기사 관련 - 정책브리핑",
+          "date": "2026-10-03",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfMllZODZuT3JqQTl3R3NHMWxYS3RjTTN0OHIxUmp0bFlmWHpvemNPQTVpU3p6WXYtZUdQWHpqSzduOXRUXzF1Q1BNVmNCRG9MTW9UeTNHNFJmX0F4ZjFnWUk2RW5hRVdGaHVfSlk1dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3d5578eeffffd8bccf5d3d7760bbaf56443a419dc3771025f02957495152f62d"
+    },
     {
       "id": "20261001-DP-23416900-1861",
       "title": "인사 발표 관련 성기홍 홍보소통수석 브리핑 - 대한민국 청와대",
@@ -4294,46 +4468,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6dbab64dd4cdceaab21834ac8d56960684659b1d298ef52ae2d00cfcdce6b739"
-    },
-    {
-      "id": "20261001-DP-E86D17D5-1788",
-      "title": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-01T18:01:36+09:00",
-      "publishedAt": "2026-10-01T18:01:36+09:00",
-      "firstCollectedAt": "2026-10-02T00:21:56+09:00",
-      "updatedAt": "2026-10-02T00:21:56+09:00",
-      "summary": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "[설명] 매일경제(9.30.) \"공정위 고무줄 과징금 … 10건 중 9건 최종부과 땐 대폭 깎였다 등\" 기사 관련 - 정책브리핑",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWVwUTNUSUpIb0xjYXdjXy04RWpmOFRfcTZiM0thdnpHSHdkdWdWdkFRS2NuV2hkZkZWUVRaazNOWDJLdW5ZV1RENGRiTlMxTGJva2pvSzF6NU1JbjdOYUNYaFNrUmh0Y09tcDBabThnY0QxS295UzlFZkJTeFhVYk54bmdVa0E3YzZON2lGYw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e86d17d559785814e373a99fd35e63a5b99bd795c14d13b3cef728c3142a765d"
     },
     {
       "id": "20261001-DP-047B8CDC-1789",
