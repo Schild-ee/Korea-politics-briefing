@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-06T00:51:21+09:00",
-    "nextScheduledUpdate": "2026-10-06T01:21:21+09:00",
+    "lastSuccessfulUpdate": "2026-10-06T07:30:36+09:00",
+    "nextScheduledUpdate": "2026-10-06T08:00:36+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-06T00:51:18+09:00",
-      "finishedAt": "2026-10-06T00:51:21+09:00",
+      "startedAt": "2026-10-06T07:30:34+09:00",
+      "finishedAt": "2026-10-06T07:30:36+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 17,
-      "duplicates": 12,
-      "rejected": 180,
-      "rejectedByDate": 180,
+      "acceptedCandidates": 15,
+      "duplicates": 16,
+      "rejected": 183,
+      "rejectedByDate": 183,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 6,
-      "updatedIssues": 2,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,49 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261006-FR-801F44CB-1877",
+      "title": "북한 탄도미사일 발사 관련 국방부 입장 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "국방부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T07:06:02+09:00",
+      "publishedAt": "2026-10-06T07:06:02+09:00",
+      "firstCollectedAt": "2026-10-06T07:30:35+09:00",
+      "updatedAt": "2026-10-06T07:30:35+09:00",
+      "summary": "북한 탄도미사일 발사 관련 국방부 입장 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "북한 탄도미사일 발사 관련 국방부 입장 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWZMWm5OWGlkcFZFblB2OEJFMXpoOG9qT3dKRngteDRYbTE2YTlqV0s4TWczWWs3UVV6cF95NjJ0TklHdnotcFRwekVRd2pZb1Q0ZXd4OE9fXy1qNFU1UzNtMENxNVVoS0dBVkg5TWRvTW9OazlsSG1iaW1DZzNHOHB5R1BvdnJ0alVsRVl2cUlSWVdK?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "801f44cb97b4204beca0a867c3659a8700f97cf9f7329549f7ed0aa7595e3245"
+    },
     {
       "id": "20261005-DP-8B12A194-1867",
       "title": "한국 관광의 샛별 재정 인센티브 규모 확정 - 정책브리핑",
