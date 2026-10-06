@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-06T18:19:04+09:00",
-    "nextScheduledUpdate": "2026-10-06T18:49:04+09:00",
+    "lastSuccessfulUpdate": "2026-10-07T01:13:32+09:00",
+    "nextScheduledUpdate": "2026-10-07T01:43:32+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-06T18:19:01+09:00",
-      "finishedAt": "2026-10-06T18:19:04+09:00",
+      "startedAt": "2026-10-07T01:13:27+09:00",
+      "finishedAt": "2026-10-07T01:13:32+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 6,
-      "duplicates": 15,
-      "rejected": 180,
-      "rejectedByDate": 158,
-      "rejectedByRelevance": 22,
+      "acceptedCandidates": 27,
+      "duplicates": 24,
+      "rejected": 158,
+      "rejectedByDate": 157,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
-      "updatedIssues": 2,
+      "newIssues": 15,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,67 +65,24 @@
   },
   "issues": [
     {
-      "id": "20261006-FR-7B606D0D-1881",
-      "title": "북한 탄도미사일 발사 관련 국방부 입장 - korea.kr",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [
-        "북한"
-      ],
-      "institutions": [
-        "국방부",
-        "korea.kr"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-06T07:06:02+09:00",
-      "publishedAt": "2026-10-06T07:06:02+09:00",
-      "firstCollectedAt": "2026-10-06T18:19:03+09:00",
-      "updatedAt": "2026-10-06T18:19:03+09:00",
-      "summary": "북한 탄도미사일 발사 관련 국방부 입장 korea.kr",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "korea.kr",
-          "title": "북한 탄도미사일 발사 관련 국방부 입장 - korea.kr",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOEhkUkhzelBaUjNGXzlYR3E2NVZEM0c4NDFXMkNSN1V0eTJaNDRQYkx2aEQtLUo3ZVNsUGJ0bElPYzF4YkoySFRzT0JRS0ZvWW5SMlFDLWVXS1V0R1JiQldBWFp1eHJNa0VpMktOMEVZNDJjN25sWF9KRkZubGcydDgyNDFaeWllTW45dFZCZ2hhZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "7b606d0de9c28032da5e759317bf34016df2e66b4c74328f21c57af6aad6364e"
-    },
-    {
-      "id": "20261006-FR-D76762F5-1882",
-      "title": "'압델 파타 알시시' 이집트 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 - korea.kr",
+      "id": "20261006-FR-B21734E0-1879",
+      "title": "「재외동포청 유튜브 99% 유료 광고로 운영」 보도 관련 일부 사실에 대해 추가적으로 알려드립니다. - 정책브리핑",
       "primaryCategory": "외교·대외관계",
       "relatedCategory": "",
       "subcategory": "기타 대외관계",
       "countries": [],
       "institutions": [
-        "korea.kr"
+        "정책브리핑"
       ],
       "people": [],
-      "importance": "핵심",
+      "importance": "참고",
       "status": "공식 발표 확인",
       "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-06T15:19:33+09:00",
-      "publishedAt": "2026-10-06T15:19:33+09:00",
-      "firstCollectedAt": "2026-10-06T18:19:03+09:00",
-      "updatedAt": "2026-10-06T18:19:03+09:00",
-      "summary": "'압델 파타 알시시' 이집트 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 korea.kr",
+      "occurredAt": "2026-10-06T09:18:03+09:00",
+      "publishedAt": "2026-10-06T09:18:03+09:00",
+      "firstCollectedAt": "2026-10-06T11:27:01+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "「재외동포청 유튜브 99% 유료 광고로 운영」 보도 관련 일부 사실에 대해 추가적으로 알려드립니다.",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
       "positions": [],
@@ -133,10 +90,63 @@
       "nextSchedule": "",
       "sources": [
         {
-          "name": "korea.kr",
-          "title": "'압델 파타 알시시' 이집트 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 - korea.kr",
+          "name": "정책브리핑",
+          "title": "「재외동포청 유튜브 99% 유료 광고로 운영」 보도 관련 일부 사실에 대해 추가적으로 알려드립니다. - 정책브리핑",
           "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVN0d4V29FZFJOel9lWnhDNUxuMzNFNGVfdVFCUUNnTGtaUFRHRHlYai1wR0k4T3VUTkNCU0RFWk4tZy1jTmw4N1RwaEtwak4yVUFLNmkxeWVMV0ZhcmlRNG1vTHRmQlJmZzJlVFlralA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNW1qRmxobmdDSHd2RDZOaEVucTdFUXdmUVpsbGRFN0JEc0JXZlhTMk1WN2U5dzBndzVsVk9MVTlmalUtVUVlVUF2U1RtWUhrX0Z3ZmVSYzhEeUt5dVZOTTJvT1RaX1R2dDg3ekpVcEhfd054VzYzSGNOWDVQSmRhUnAxMkk0c1A5WmN4S0ZwYzhmQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "「재외동포청 유튜브 99% 유료 광고로 운영」 보도 관련 일부 사실에 대해 추가적으로 알려드립니다. - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeFBkVmc1V0lwazYxX1ZUdEljc013Q0g1bVRQVjVJQTZhTFZmaTZZT1puaDVhV1ZaRWYwOVQzOHNOMnY4bDQtTEdMdE5KU3VuS0paM0VZRVdtMFFKVmNqNk1FN2lZeWpKMVR0QnZIeE9EQVlGM1d2clRfZHFzamhfeTRMaE84Zm1KZnlF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-07T01:13:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b21734e0575f260a6b6ac24eebfe1d09ddd8f4b39a67f4019db24b05b314810d"
+    },
+    {
+      "id": "20261006-FR-3A03B117-1887",
+      "title": "재외동포 어린이, 그림일기로 한국어 실력을 선보이다 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T12:00:00+09:00",
+      "publishedAt": "2026-10-06T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "재외동포 어린이, 그림일기로 한국어 실력을 선보이다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "재외동포 어린이, 그림일기로 한국어 실력을 선보이다 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ05mTXRIM0dUa1VOM1pydDFCSzZyME42VWRQdTJXTUd3OWN6ZUVWUEpWaVN3S0RONWp6eHEwT1pWbUZkSEtYdndXN0MtUnBKYmxzUXYzZUMyelpRMjJLSFNFNU1VU01kaGpNc0p6eXFrUkplRHF1bHNYMzNleERERnVlMkgyOUYtSExra1RsMVlEQQ?oc=5",
           "official": true
         }
       ],
@@ -145,7 +155,408 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "d76762f5bb83d109f40f52f008e1230b631ee22f8bfead2148f3484bb270e02c"
+      "contentHash": "3a03b117d4f100f5e580baaa45577a5b72e8c83b36b1ee1f4a13de4e59a35f1b"
+    },
+    {
+      "id": "20261006-FR-9B4A1797-1888",
+      "title": "음악으로 만나는 세계의 한인, '2026 코리안 페스티벌' - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T18:02:46+09:00",
+      "publishedAt": "2026-10-06T18:02:46+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "음악으로 만나는 세계의 한인, '2026 코리안 페스티벌' 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "음악으로 만나는 세계의 한인, '2026 코리안 페스티벌' - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uRnJmWXlVZ0dtWnNYRzRDRG5tOWRjZ3FzMXRiLVlwVVN2VnRPcS1CVXVzWkxaa1RjWmZSaW1DNW9nZFhNSDN0MnlIckFuT08wWUx0VHlMYkozUUFFYVJMN045Zms3dXBwZkE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9b4a179758a893a407ada526313ba235aa54b84828b8b0d08634738034c3c9ee"
+    },
+    {
+      "id": "20261006-FR-2FDACEDE-1889",
+      "title": "국방부 일일 정례 브리핑 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "국방부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T19:23:54+09:00",
+      "publishedAt": "2026-10-06T19:23:54+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "국방부 일일 정례 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93X2Q4ckk3RURjcXp3NW9FYU93YlBzdEw0c0o3b1AwNmxRWmdYeTl5X2YzOGl0RHE1bXROMlRCYy15dUlCR0FzbFQyQUpTcGg2dnExcGxXX0JBczhoVm1FX0JaWldYYVlwS0FKM3VwcFFHWVJpVVNr?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2fdacede2a0615d94ffdc3b539069b89721c6354b1217ff9e02b37760e9857cb"
+    },
+    {
+      "id": "20261006-FR-6E8D4F19-1890",
+      "title": "온라인 한국어 학습 플랫폼 '모두의 한국어' - 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T11:08:53+09:00",
+      "publishedAt": "2026-10-06T11:08:53+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "온라인 한국어 학습 플랫폼 '모두의 한국어' - 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "온라인 한국어 학습 플랫폼 '모두의 한국어' - 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tc1FBN1lzYVlCQmJ6V1V1Zi1XcHRGa1ktc1BYOVVMLTE1bWVyLS03d1Mydi1MNUtzbmw2MVVvVXR4bzdfZE80cEN2cW5DcUc0aGR4dW1nM0c1d3BtZ3dfNVpmX3IyMGJuT0tDTTVB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6e8d4f1993149722124ffbb78fad1551cea1a99db3066c6e84e0133d84789f5a"
+    },
+    {
+      "id": "20261006-FR-CDA54ADF-1891",
+      "title": "중장년 구직자들 제2의 인생, '관광산업'에서 답을 찾다 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T16:31:51+09:00",
+      "publishedAt": "2026-10-06T16:31:51+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "중장년 구직자들 제2의 인생, '관광산업'에서 답을 찾다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "중장년 구직자들 제2의 인생, '관광산업'에서 답을 찾다 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51Rjhkc0dZOW1YSDNCbjBZdlByLThLbEg0YkJxcTZxZm1JelloVmt1VlJndGR0MllyZjJudXZHZXRYZGdQVlRKM3VNVE8xS2RPNzFDeGRPQUVwbDNIMXg3LVBkQ2NBQmhmcGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cda54adf95d2124b10209d789eca7420117bec35311c3b0b70fedde21f7785e5"
+    },
+    {
+      "id": "20261006-FR-2FF2F209-1892",
+      "title": "프랑스어로 소개하는 '종묘', 한국어로 소개하는 '생드니대성당' - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T09:27:22+09:00",
+      "publishedAt": "2026-10-06T09:27:22+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "프랑스어로 소개하는 '종묘', 한국어로 소개하는 '생드니대성당' 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "프랑스어로 소개하는 '종묘', 한국어로 소개하는 '생드니대성당' - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaXFNREtRTWpHVVI5eXVyREdQUFAzOHg4ZEdHUEhscVVUdnJ6Wk5aaG1MZmpRUlQzcXZKQnZXX0IxZ0dKdTIzZkxxMUFPTTd6S2swR2NOTDFMVGU0VU9MUmM4YjBabFhSamZGMXI5MEk3WVFFX2gtak1XVm44ZVZZM05YVW9TbW54aS16TGliRVNrQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2ff2f209bcf5145888f77980ea42f30781c78b18165b826a13a65109bb206411"
+    },
+    {
+      "id": "20261006-FR-4C3AF286-1893",
+      "title": "행안부-문체부, 지역관광을 통한 지역경제 활성화 뒷받침 위해 재정인센티브 지원 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T09:00:00+09:00",
+      "publishedAt": "2026-10-06T09:00:00+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "행안부-문체부, 지역관광을 통한 지역경제 활성화 뒷받침 위해 재정인센티브 지원 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "행안부-문체부, 지역관광을 통한 지역경제 활성화 뒷받침 위해 재정인센티브 지원 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcWJNZjF3XzliYmg5R2N6VEFWZ19wcnBKakQ2ZGlzcTYxVVppRUNncHJ3SDdkal9ENU85VWJiV211ZjlXLUdFUkdWRXlEb2xVZExEM2dBYnc2dHFaLXEzcmlpeDZPci1JZDNJalIweHBwQkRTZUZOT21uYnRHNUhaSHhEQkdpNXdfSnNQYWdsTGZwUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4c3af286f23eda9ebb4a25c6bb8e7fb6ac136bde85529e55f4a718df7ede26cf"
+    },
+    {
+      "id": "20261006-FR-57B04FE9-1894",
+      "title": "노동단체 보조금이란? - 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T11:08:53+09:00",
+      "publishedAt": "2026-10-06T11:08:53+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "- 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "노동단체 보조금이란? - 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aWkhrWDRUeHpUeTNhaXdVdzMzeTBJRXNZMTk4alhndkJIRlV3YjlKWTVWVVZHdTc1UUdpNm0zT2R2RThSV3hoeGc1bnZkcXJjNFhveF9WNEpFaGR5QUFzXzI0N3RUcUc3XzVJV3hn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "57b04fe97c8b8ac8f8f35ad47530bc3ce253363fef8c2495dd452aea4f3473bb"
+    },
+    {
+      "id": "20261006-FR-06DC0D1F-1895",
+      "title": "식탁 위 소스류 등, 비치가 전면 금지되나요? - 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T13:05:37+09:00",
+      "publishedAt": "2026-10-06T13:05:37+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "식탁 위 소스류 등, 비치가 전면 금지되나요? - 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "식탁 위 소스류 등, 비치가 전면 금지되나요? - 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iUDlJeXU4UGFYTVlsU2RtWlQ5dUlsS2YwSlRNSE9aTGlJUDl3WnZYaHlnX25PWWljbVlsQlpHOWRkandWM0swNVJfb3Z2enhMbGR6VnVUR1NVbUxTalZudFpJUm82bkQtXzBuT0h3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "06dc0d1f1608cc86e9eee82722bb3fdb8e61cc2f2122498d3a1cf73fcfceb4b1"
+    },
+    {
+      "id": "20261006-FR-6496F0D8-1896",
+      "title": "'구기 종목' 금빛 질주…한국, AG 종합 3위·새 얼굴도 '반짝' - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T17:47:19+09:00",
+      "publishedAt": "2026-10-06T17:47:19+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "'구기 종목' 금빛 질주…한국, AG 종합 3위·새 얼굴도 '반짝' 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'구기 종목' 금빛 질주…한국, AG 종합 3위·새 얼굴도 '반짝' - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VRjk4bnB2cW1JNVlTQTBwbW5tSm8xZDJSeUJuS0p2bm44UHJuT3c4M2tpXy03TzBCcWR2Z3lQLXVGU0stQnVjUUNzUDBzRVNMcU5scWE0d1VpR08yMlkxQjNZNVpnWHQ4NHo4bA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6496f0d82ba2385da8010c179fe66d1f6f1595887cccf54199c0971e404d9e83"
+    },
+    {
+      "id": "20261006-FR-DD6F1CE7-1897",
+      "title": "벤처투자 표준계약서, 이렇게 만들어졌어요! - 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T11:24:58+09:00",
+      "publishedAt": "2026-10-06T11:24:58+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-07T01:13:29+09:00",
+      "summary": "벤처투자 표준계약서, 이렇게 만들어졌어요! - 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "벤처투자 표준계약서, 이렇게 만들어졌어요! - 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43ckpUcE5tUFdlYUhtTmZWUVEyZ0NHbUxWQld3REx0LUotbEZiZmVITlRBbGJWRUxYbnFtOVpaeV9mYXFUcTBaS1RVcjNaX2N4N1hfOUNEbU1SQ250YTV5THk4Y1E2SThuenZuX1d3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dd6f1ce7111ef0c6ed6b69a11a7d5786af2c97ad1136ae84c2d2e537f2a716e6"
     },
     {
       "id": "20260820-DP-44D45057-481",
@@ -164,7 +575,7 @@
       "occurredAt": "2026-08-20T11:18:31+09:00",
       "publishedAt": "2026-08-20T11:18:31+09:00",
       "firstCollectedAt": "2026-08-20T12:13:19+09:00",
-      "updatedAt": "2026-10-06T18:19:02+09:00",
+      "updatedAt": "2026-10-07T01:13:28+09:00",
       "summary": "우리법원 주요판결 대한민국 법원",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -248,6 +659,13 @@
           "date": "2026-10-06",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPcGJ5LWt0NUJQTjNBMWV3eHh2dF9VVVVSdmI5b3BIbHFqcm11c2tsb1BDZFRMWjN0eEFRbkZIWDNzNHQya3BJSGNtNGg4eUQzcmNDSm5veENNSlotUG1pa3hsSWMwYlFCRjdpOTFJYXpWOWVnRHpyUVpZQ1NERksxMVRBcDQxZGttQnZPMDhMaTJUZ2pEWXFremY5Q21SMTl3WGk3RlVjdWZVVHlPSllBRTlBbHlxdGpPTjFZU2JPdXhfQWVhN0RvQWMxWng2T002aEdSQXRMaHlSNEJ3ZVVEcGJ3UTQ4bWpXTl9LMGo4QlZObk0zT09KTTBVVXZFbkxHb05UamdoZXpYclVKX0N6Nw?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "우리법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNOWRhSWVLWnVsbGRGU0tBMHNfc255X3oyc3A3U282ZzVqWGZqdVBzVmFLVE1qZ3FVbkh2LUl2ZXB4V3BISkkyTlh2T05JMHRyR1RIcXNjblVuUmJuM3AyT0U2dHZZYWZ3alZpS1ZHVFFJeUs0a0oyRXE4aUFsOXZfU1RSLUdaeVZveFhLdmJCdUtxSFJxaERyZGRsQlk5ZkxlemJBc0J6VW44ckVfS3hnSEdsM294Y01lNFNZWS0wSm41VnlpWDVjSHdmUTNIRmdPaFUtVWtPcnM0Y09TWTRJSnZWN0Q2RU5iVjA3QW1pamNNX0hCS0VvdjhucHFiLWVGOWZJaXBpbHNRRERxMERjdQ?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -300,6 +718,11 @@
           "updatedAt": "2026-10-06T18:19:02+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 10
+        },
+        {
+          "updatedAt": "2026-10-07T01:13:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 11
         }
       ],
       "corrected": false,
@@ -307,6 +730,314 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "44d450578e14261071708d8626772c62ea0b6b3df4694d4946134d067180240d"
+    },
+    {
+      "id": "20260929-DP-744A3EFB-1683",
+      "title": "제42회 국무회의 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T16:34:00+09:00",
+      "publishedAt": "2026-09-29T16:34:00+09:00",
+      "firstCollectedAt": "2026-09-29T20:31:01+09:00",
+      "updatedAt": "2026-10-07T01:13:28+09:00",
+      "summary": "제42회 국무회의 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제42회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFY4SkVwTjVIOWFEUVk1M0JzNi1UMGxpSTcyVnFXYUIteVhVWWphWURiQlRKUDF3SloydERmakdsUHlFa21VdXZpaXdHM3hsN3JvaVVlS1JJNXM4RDlCX2FVR2h2dXluVzdrYUlyM1E5YWU2Q3VxTWJ5WjJ6eHV2dmE3VmhNOFVUcl80dDhGeWdZeXVB?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제42회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NSHhIZDAwNWE5UkRoallHYUZISG9ER2plY3lwNnVsQ1diQlkydllTZmhmTHlnR1Y4bS1UZ2k2RG9Wc1R1UjdXemQybWRDYW5ZR2c2Q285WUtPMllTTUQ5YjZ3bXd5dkhSSG80bnEzWE9MR244?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제43회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5a3J4YkdUVllKTlNkZHIxdEVDeWVkQ19ObHd0Wkh2WnNYbEFaT3hLdlUwSlhKYTlPSXVWcHJmU3ppcWJRUGQxZGlnVTZoTFZhNzRxdFZETTVXNlRlclJzVWdaMzB2dGlTWWwwbTdzN2VqTGFU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-30T01:58:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-07T01:13:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "744a3efb10e549f19003fffde2c619b275855ceb0b51c0a3b775d9bbe49f11fd"
+    },
+    {
+      "id": "20261006-DP-132DDD39-1883",
+      "title": "약국 이름에 '창고', '마트', '공장', '최대', '특가' 못 쓴다... 「약사법 시행규칙」 개정 추진 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T16:53:24+09:00",
+      "publishedAt": "2026-10-06T16:53:24+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:28+09:00",
+      "updatedAt": "2026-10-07T01:13:28+09:00",
+      "summary": "약국 이름에 '창고', '마트', '공장', '최대', '특가' 못 쓴다... 「약사법 시행규칙」 개정 추진 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "약국 이름에 '창고', '마트', '공장', '최대', '특가' 못 쓴다... 「약사법 시행규칙」 개정 추진 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOE4wTExVTHJnc05xNjBEVXNraTRyN1ZGdmpzekM4ak9xVjdOOHItS2pfLTYwUEt0X3A1bTZ2bFJDbGl6b0txQ0pnMUV2Uk9JR3BxcHU4dXY3cDdYd3p2OGFZNWFPZlZjenhqelhjRjZMcC1HRFpLMmhMb0RhRGtMa3ZmMDVyVDM3aXRsSS1aT0xIQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "132ddd3966637648e8e955c736a6f724596e8263cd1b41c42bb9faadc4041541"
+    },
+    {
+      "id": "20261006-DP-9AAD8273-1884",
+      "title": "전세사기 피해 보증금 '최소 3분의 1 회복' 보장…11월 13일 시행 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T20:11:58+09:00",
+      "publishedAt": "2026-10-06T20:11:58+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:28+09:00",
+      "updatedAt": "2026-10-07T01:13:28+09:00",
+      "summary": "전세사기 피해 보증금 '최소 3분의 1 회복' 보장…11월 13일 시행 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "전세사기 피해 보증금 '최소 3분의 1 회복' 보장…11월 13일 시행 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCVDJjcVpUZVJKaE1UU21VUk5McWEweDB2RDZ2ZjdlbGpYWlNkd0ZXa1V3WWVLZ2R6RmVMbkFPMG5yc1RxOXUyZXViWlFRbEpRYl9VWUlDdHlJa2NTTWk3SkNZeThTMzg0WVctTw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9aad8273320bb42eaedfc108845a940e2e772e621b4d019b84939c6b6777bae9"
+    },
+    {
+      "id": "20261006-DP-89E553B9-1885",
+      "title": "공무원 시험 수수료 면제 대상 확대, 공직 진출 지원 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T12:30:00+09:00",
+      "publishedAt": "2026-10-06T12:30:00+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:28+09:00",
+      "updatedAt": "2026-10-07T01:13:28+09:00",
+      "summary": "공무원 시험 수수료 면제 대상 확대, 공직 진출 지원 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "공무원 시험 수수료 면제 대상 확대, 공직 진출 지원 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdUVRdGs1Y1VQUVhJVDhOTFd0U3VRbGZleG5sWHoyYXNFQzVRQ1JrYUZZczllOG45cVQzLUJaVjktOGhQX1otc3A5cENTRm5xMnRJT080MmllNkpPdkdYTjJ5NXdxWXA0dHFrLVgwTUhkWTdzekpGQXhjSU9rQWlzQTk5WHhJYkl6VUEzSm5XTTFCVndsZXI1czVhZl9RMmYxQ2JwcEE4ZHZ1eXZ5SWtuYUQ0eFNoR3gtNFprdmtPclpTMjVES25ISERua0h4V08zVFd2YVVVOW9sUTFySl9FSUkyWlFxVnJvc0pNN3p2dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "89e553b91e1f4b9d8ae6ab084b157f3e48a312468557da6cf0c4314c86e8cd9c"
+    },
+    {
+      "id": "20261006-DP-048C13BB-1886",
+      "title": "체불임금 대지급금 부정수급 신고포상 '최대 2억 원'으로 상향 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T17:27:14+09:00",
+      "publishedAt": "2026-10-06T17:27:14+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:28+09:00",
+      "updatedAt": "2026-10-07T01:13:28+09:00",
+      "summary": "체불임금 대지급금 부정수급 신고포상 '최대 2억 원'으로 상향 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "체불임금 대지급금 부정수급 신고포상 '최대 2억 원'으로 상향 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nLVFsUVVfSU5hVTl4QmJ4cXB5VXFUbWdrMlczMVEyc1lRR202RHZlS2pvV3dxdDhMMERyTkVrbm1nUGFDdkFOTnJJNUFzY28wcFRHMEVlR253TTNSR0dmek95a09aaTJHdzNOVA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "048c13bb4dba76158d7186c2b183a2918214078559ca6234f5a9227df69697b5"
+    },
+    {
+      "id": "20261006-FR-7B606D0D-1881",
+      "title": "북한 탄도미사일 발사 관련 국방부 입장 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "국방부",
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T07:06:02+09:00",
+      "publishedAt": "2026-10-06T07:06:02+09:00",
+      "firstCollectedAt": "2026-10-06T18:19:03+09:00",
+      "updatedAt": "2026-10-06T18:19:03+09:00",
+      "summary": "북한 탄도미사일 발사 관련 국방부 입장 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "북한 탄도미사일 발사 관련 국방부 입장 - korea.kr",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOEhkUkhzelBaUjNGXzlYR3E2NVZEM0c4NDFXMkNSN1V0eTJaNDRQYkx2aEQtLUo3ZVNsUGJ0bElPYzF4YkoySFRzT0JRS0ZvWW5SMlFDLWVXS1V0R1JiQldBWFp1eHJNa0VpMktOMEVZNDJjN25sWF9KRkZubGcydDgyNDFaeWllTW45dFZCZ2hhZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7b606d0de9c28032da5e759317bf34016df2e66b4c74328f21c57af6aad6364e"
+    },
+    {
+      "id": "20261006-FR-D76762F5-1882",
+      "title": "'압델 파타 알시시' 이집트 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 - korea.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "korea.kr"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T15:19:33+09:00",
+      "publishedAt": "2026-10-06T15:19:33+09:00",
+      "firstCollectedAt": "2026-10-06T18:19:03+09:00",
+      "updatedAt": "2026-10-06T18:19:03+09:00",
+      "summary": "'압델 파타 알시시' 이집트 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 korea.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "korea.kr",
+          "title": "'압델 파타 알시시' 이집트 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 - korea.kr",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVN0d4V29FZFJOel9lWnhDNUxuMzNFNGVfdVFCUUNnTGtaUFRHRHlYai1wR0k4T3VUTkNCU0RFWk4tZy1jTmw4N1RwaEtwak4yVUFLNmkxeWVMV0ZhcmlRNG1vTHRmQlJmZzJlVFlralA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d76762f5bb83d109f40f52f008e1230b631ee22f8bfead2148f3484bb270e02c"
     },
     {
       "id": "20260831-DP-6D25CD17-838",
@@ -580,46 +1311,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e331c305a11677aa832901e79ff6416cfe4d18e49536b0f1046e561629891744"
-    },
-    {
-      "id": "20261006-FR-B21734E0-1879",
-      "title": "「재외동포청 유튜브 99% 유료 광고로 운영」 보도 관련 일부 사실에 대해 추가적으로 알려드립니다. - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-06T09:18:03+09:00",
-      "publishedAt": "2026-10-06T09:18:03+09:00",
-      "firstCollectedAt": "2026-10-06T11:27:01+09:00",
-      "updatedAt": "2026-10-06T11:27:01+09:00",
-      "summary": "「재외동포청 유튜브 99% 유료 광고로 운영」 보도 관련 일부 사실에 대해 추가적으로 알려드립니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "「재외동포청 유튜브 99% 유료 광고로 운영」 보도 관련 일부 사실에 대해 추가적으로 알려드립니다. - 정책브리핑",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNW1qRmxobmdDSHd2RDZOaEVucTdFUXdmUVpsbGRFN0JEc0JXZlhTMk1WN2U5dzBndzVsVk9MVTlmalUtVUVlVUF2U1RtWUhrX0Z3ZmVSYzhEeUt5dVZOTTJvT1RaX1R2dDg3ekpVcEhfd054VzYzSGNOWDVQSmRhUnAxMkk0c1A5WmN4S0ZwYzhmQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b21734e0575f260a6b6ac24eebfe1d09ddd8f4b39a67f4019db24b05b314810d"
     },
     {
       "id": "20261005-DP-8B12A194-1867",
@@ -9660,59 +10351,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "86a45cdd3035511397813a540553501bcc15b283749619b862fb8d280d89d212"
-    },
-    {
-      "id": "20260929-DP-744A3EFB-1683",
-      "title": "제42회 국무회의 브리핑 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-29T16:34:00+09:00",
-      "publishedAt": "2026-09-29T16:34:00+09:00",
-      "firstCollectedAt": "2026-09-29T20:31:01+09:00",
-      "updatedAt": "2026-09-30T01:58:41+09:00",
-      "summary": "제42회 국무회의 브리핑 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "제42회 국무회의 브리핑 - 정책브리핑",
-          "date": "2026-09-29",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFY4SkVwTjVIOWFEUVk1M0JzNi1UMGxpSTcyVnFXYUIteVhVWWphWURiQlRKUDF3SloydERmakdsUHlFa21VdXZpaXdHM3hsN3JvaVVlS1JJNXM4RDlCX2FVR2h2dXluVzdrYUlyM1E5YWU2Q3VxTWJ5WjJ6eHV2dmE3VmhNOFVUcl80dDhGeWdZeXVB?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "제42회 국무회의 브리핑 - 정책브리핑",
-          "date": "2026-09-29",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NSHhIZDAwNWE5UkRoallHYUZISG9ER2plY3lwNnVsQ1diQlkydllTZmhmTHlnR1Y4bS1UZ2k2RG9Wc1R1UjdXemQybWRDYW5ZR2c2Q285WUtPMllTTUQ5YjZ3bXd5dkhSSG80bnEzWE9MR244?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-30T01:58:41+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "744a3efb10e549f19003fffde2c619b275855ceb0b51c0a3b775d9bbe49f11fd"
     },
     {
       "id": "20260929-DP-731DAC84-1685",
