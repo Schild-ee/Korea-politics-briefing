@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-07T09:58:17+09:00",
-    "nextScheduledUpdate": "2026-10-07T10:28:17+09:00",
+    "lastSuccessfulUpdate": "2026-10-07T16:06:09+09:00",
+    "nextScheduledUpdate": "2026-10-07T16:36:09+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-07T09:58:13+09:00",
-      "finishedAt": "2026-10-07T09:58:17+09:00",
+      "startedAt": "2026-10-07T16:06:03+09:00",
+      "finishedAt": "2026-10-07T16:06:09+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 26,
-      "duplicates": 35,
-      "rejected": 159,
-      "rejectedByDate": 158,
+      "acceptedCandidates": 34,
+      "duplicates": 40,
+      "rejected": 149,
+      "rejectedByDate": 146,
       "rejectedByRelevance": 1,
-      "rejectedAsCommentary": 0,
-      "newIssues": 6,
+      "rejectedAsCommentary": 2,
+      "newIssues": 11,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,447 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261007-FR-70B74E1C-1907",
+      "title": "한-캐나다 외교장관통화(10.7.) 결과 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T11:15:44+09:00",
+      "publishedAt": "2026-10-07T11:15:44+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "한-캐나다 외교장관통화(10.7.) 결과 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한-캐나다 외교장관통화(10.7.) 결과 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0xUTEhBUkhMdkdtWEROVjhmQ2x1MU1rQjZTcDByaFJBSGVmUDN4azMwQ0c4dlMyLTZrTGFzRGhtbldQS1pVVVFGOENxS0Y5SEw0MkdndnlyVFU4ckJsMlREZGo2Rlk1YkJtRlpUTzM2OE9JUWJBdmRLRXFaVmhOV0ZBelFUMnN1bWN1MzVPenkxdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "70b74e1c686955edda1bf315fee859f7eb8a109ea902fcc152143193443fc944"
+    },
+    {
+      "id": "20261007-FR-BC7806B1-1908",
+      "title": "아세안+3 에너지장관회의, 역내 에너지 안보 공조와 전력망 협력 논의 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T12:00:00+09:00",
+      "publishedAt": "2026-10-07T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "아세안+3 에너지장관회의, 역내 에너지 안보 공조와 전력망 협력 논의 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "아세안+3 에너지장관회의, 역내 에너지 안보 공조와 전력망 협력 논의 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOLXhWQ3EtVzE0NU1kOTItNzZhTThPLUZ1eGJ4NjlsRzYwczctcFM0LVFxY3loT3o5d1IyY2lvVC1nd3Vfb3hZNHVIN1lTTV80ODZhQU8zUWRxVGRWNlJCLXZ4TW5sRk5SSC1VNmpTdnRmUTdDanpfWE9ZYkllRzhVRmRhSkt2RmZiVjlkenNvbGctNXhBYTFnbjFDTXQwd0ZZTmxLZ0ZKdEdIV01KelVoSm9kU004NnlHMWhSUEF4R3lwTUppNWppeVRrMmVYMGYydzIxWlZUeG9icEZBMmxnZjVIY25tY2hiNTV6MmxLQmJMc0lsdnhZNUh5UE9ici1Zdmd2djg5ZTQ2TXpwRUV6TQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bc7806b171bb15b17732668b9d85f98901cfebc4a4a70e3c79cab26a079696db"
+    },
+    {
+      "id": "20261007-FR-975F2699-1909",
+      "title": "청년미래적금 2차 신청부터 프리랜서 세금 환급까지…청년 짠테크 직접 점검 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T13:36:28+09:00",
+      "publishedAt": "2026-10-07T13:36:28+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "청년미래적금 2차 신청부터 프리랜서 세금 환급까지…청년 짠테크 직접 점검 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "청년미래적금 2차 신청부터 프리랜서 세금 환급까지…청년 짠테크 직접 점검 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMjFhTlJTcENpWHlQUGk2N3JpdkxOeEJtckJhY00wV0V2UFBfSU1ZYjhBeS1lU2NDUTVqelRyNFFxNzBlbmtDeEpTTngzZEloZlpUOXlxc1ZqMVVaMHhOOUs3NE1xWUttcFcwZDhIQVBVUy1TMWNRNDdMMEpON3hWaU1jaWpDQ19LYWVucHlCeTBBSzhSSUJCbVNR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "975f2699b3475a87da223175c30915e8bfcb395e32a71ba8c8090d187799551c"
+    },
+    {
+      "id": "20261007-FR-8AA2C66F-1910",
+      "title": "외교부, 인도양위원회(IOC)와 협력기금 운영의 새 틀 마련 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T13:51:59+09:00",
+      "publishedAt": "2026-10-07T13:51:59+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "외교부, 인도양위원회(IOC)와 협력기금 운영의 새 틀 마련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "외교부, 인도양위원회(IOC)와 협력기금 운영의 새 틀 마련 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlFpRkIxVUo5Q2hNYUk5ZmhEUHI2U2V4UGZJQUhRVjVTY3hQTHhqQnZKbEFaV1hBZE1JdTUtNzVOOEhSTDJPMkgxR2trTFpCcmVWSFBGSzhmS0RhMklaV3E0LTN1dkJRZURjY0xPclhESEZqaUhOYTJWV1VrclpxRzF6VmJ4QkY1YzFYb3oxNVBJdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8aa2c66f1ecf53bf3b75a3377eebceba45d83fd79f7dcf63908805558af7250e"
+    },
+    {
+      "id": "20261007-FR-0CEF9752-1911",
+      "title": "쌀쌀해지는 날씨, 코로나19 국가예방접종 챙겼나요? - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T13:36:28+09:00",
+      "publishedAt": "2026-10-07T13:36:28+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "쌀쌀해지는 날씨, 코로나19 국가예방접종 챙겼나요?",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "쌀쌀해지는 날씨, 코로나19 국가예방접종 챙겼나요? - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1RYUWViRlI5QnFwa0FqcXJPYVpTZ2lYSmducVZSVVh1M2I4N0MwZ2hTLVRzWDJnNU5EUW5QcTBGZ2pxd0lPV05aelQzMVktNEEtZWZ3Nkx6SktnUW5JYVdrT2NwQmp0UG5wSEN1YU9DM1ZJOWJ0NjFyZXlmNFFfWTB6dnB1QUhrV2Zqa1BWaHl1QW83YnBrXzdn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0cef9752f8f2800013b4caf78fe45faf019f864f08e8a1c7a53dc253eb7d643d"
+    },
+    {
+      "id": "20261007-FR-AE0AA9F3-1912",
+      "title": "\"보고, 맛보고, 즐기는 K-미식의 정수 … 제1회 한식의 날, 국립중앙박물관에서 사흘간 축제 연다\" - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T11:00:00+09:00",
+      "publishedAt": "2026-10-07T11:00:00+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "\"보고, 맛보고, 즐기는 K-미식의 정수 … 제1회 한식의 날, 국립중앙박물관에서 사흘간 축제 연다\" 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "\"보고, 맛보고, 즐기는 K-미식의 정수 … 제1회 한식의 날, 국립중앙박물관에서 사흘간 축제 연다\" - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEZCM29LdHpEZV84cVV0NWxuOWpaa0dPTC1LckJTcHpPOEc4SFR0THZUNEZ4N3B4WlJqd0Fld1pZQUlYVV90V2tHOUJkbmJYRXB0MnlDSzFJVGdYUzNYejZxdnVYejJrQVFJSzhyZTVabUtia0RyMjZtc0R6QmJCVkxZT1EybVdhZUV1YXdka2Rqdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae0aa9f3809d83a902eeb2086b420b843c6135548038456f536d502da65f29fa"
+    },
+    {
+      "id": "20261007-FR-66482BC0-1913",
+      "title": "시민의 기록으로 완성하는 대한민국 가을 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T11:25:51+09:00",
+      "publishedAt": "2026-10-07T11:25:51+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "시민의 기록으로 완성하는 대한민국 가을 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "시민의 기록으로 완성하는 대한민국 가을 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb1BPWGNFZGtiY2JWbFRTbGFPLXdUWVR6bFY2ZHExODZEV2thRl9IYnVlODJMTkY0akNITndZc3E5eEk4dXVnRjE2cHNCcUZkYldKZENLZ1RsdHpFaVc4cE9zamY0LWxLdml2Q1ZQMzgyX2tuT2JpbzlLQTNDNnpDRkhDLThjVDMxbndsX0lXLUlsZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "66482bc00e4ba9f60062b795525949f33b270753e53d743299be0efcd75760b4"
+    },
+    {
+      "id": "20261007-FR-D63FA4AD-1914",
+      "title": "10월 낭만 가득 가을축제·행사 - 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T11:37:30+09:00",
+      "publishedAt": "2026-10-07T11:37:30+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:05+09:00",
+      "updatedAt": "2026-10-07T16:06:05+09:00",
+      "summary": "10월 낭만 가득 가을축제·행사 - 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "10월 낭만 가득 가을축제·행사 - 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlNiemFFYUdOZXlTc2xBbnA5WElobUpVQXEycWJNbFQ0UEtKNDd5b1hjY29DZHVzUXNvaTg3eUk4YjQxbERIRDZfN09hMVo3UU5OLW1lNlFITUNQbE1HaFJqOF9rcXlON3lzeWVvRlRhci02QWNsTllXSjZTQ09mZGw2R1FCMkdvUHo4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d63fa4ad1936ea3302d68c86a02b80813ac3db70a87526cd1aeb87644dfbf6fd"
+    },
+    {
+      "id": "20261007-DP-953D16BB-1904",
+      "title": "가습기살균제 배상제도 시행, 국가 주도 배상체계 본격 가동 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T14:00:00+09:00",
+      "publishedAt": "2026-10-07T14:00:00+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:04+09:00",
+      "updatedAt": "2026-10-07T16:06:04+09:00",
+      "summary": "가습기살균제 배상제도 시행, 국가 주도 배상체계 본격 가동 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "가습기살균제 배상제도 시행, 국가 주도 배상체계 본격 가동 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb29QYXpheENEVEJKNndpV1hBVFZBZmg1RktYNFRvUkZucFdBbmpDMk5oZ0pSV0kxLWM4TjdBZlAzVVctejltTW9TMC1hSEt5Y2VXTmc4a1FEUnF5TVBlSkNmYnd1SmE5cUx0eThPWXhaVWFUeVg1aDU4ZnRqTW5fbW9NN0Q5c25kZFNROTV0dXFnZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "953d16bb31bb81772e0d37152052916045e2e9a2c93c73eef20e986da49d4cd8"
+    },
+    {
+      "id": "20261007-DP-420140D5-1905",
+      "title": "민·관이 함께 대응하는 「K-브랜드 정부인증제도」 본격 시행! - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T13:32:57+09:00",
+      "publishedAt": "2026-10-07T13:32:57+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:04+09:00",
+      "updatedAt": "2026-10-07T16:06:04+09:00",
+      "summary": "민·관이 함께 대응하는 「K-브랜드 정부인증제도」 본격 시행!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "민·관이 함께 대응하는 「K-브랜드 정부인증제도」 본격 시행! - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMmNrSE1PRmpuem5EODc4dnR5OEd3NGR2M2ItVFlkanQ4RFZlZWVTQkVBNzIwQ2NyS3MtTnJGUk41ZjlBc0pxblVDNHNmcjhiVnFJNGR1TlRqSGRwSmVUT19PNUhUVE9CWDljZUp3aXlQeDFZZGlwbVZzRFlvbnZGY3pHRGtycjNscVAtUVJUNkZraTVvOTEwRGxGNGN2MXhBTmpPVWNmckdxc2N6ZVFIcGM0SktTRGVLdVlLemliamVkcURJbFJjZk9VSm1FMjk3LUZsYWJsMzBQT1RSTzdqVHF2enItejdmSGtTZTB5Yw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "420140d53c12221dedd545754229d1e486b1c971990ec020e6990b3f820351fb"
+    },
+    {
+      "id": "20261007-DP-7AE613A8-1906",
+      "title": "재해 예방의 핵심 참고자료 「재해조사보고서」 117건 추가 공개 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T12:57:08+09:00",
+      "publishedAt": "2026-10-07T12:57:08+09:00",
+      "firstCollectedAt": "2026-10-07T16:06:04+09:00",
+      "updatedAt": "2026-10-07T16:06:04+09:00",
+      "summary": "재해 예방의 핵심 참고자료 「재해조사보고서」 117건 추가 공개 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "재해 예방의 핵심 참고자료 「재해조사보고서」 117건 추가 공개 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWHRBal9qVkdFVUFGRVNRenZUOGlQTlNib1BLTXJWWWdmUjJPNlA2cjV4S2lwTXUwNExjUmR2ekZWWmE2cUVycWc1Wi15ck5MRncwNFV3Y2RiLU94cTZjOThNaFVoZ0RZSV9LU1h1WEdXRkYyb1ZxYkZyOGZCX0dXemkyNHUwNENJYi1aQVM2c3Vkdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7ae613a82e3321b2fdac0c9b769a3962d03c734504d9db12775c910d069b6de9"
+    },
     {
       "id": "20261006-FR-36EE2761-1900",
       "title": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 - 정책브리핑",
