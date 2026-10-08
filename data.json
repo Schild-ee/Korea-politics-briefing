@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-08T22:55:42+09:00",
-    "nextScheduledUpdate": "2026-10-08T23:25:42+09:00",
+    "lastSuccessfulUpdate": "2026-10-09T04:47:32+09:00",
+    "nextScheduledUpdate": "2026-10-09T05:17:32+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-08T22:55:31+09:00",
-      "finishedAt": "2026-10-08T22:55:42+09:00",
+      "startedAt": "2026-10-09T04:47:27+09:00",
+      "finishedAt": "2026-10-09T04:47:32+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 70,
-      "duplicates": 40,
-      "rejected": 123,
-      "rejectedByDate": 115,
-      "rejectedByRelevance": 8,
+      "acceptedCandidates": 67,
+      "duplicates": 61,
+      "rejected": 127,
+      "rejectedByDate": 120,
+      "rejectedByRelevance": 7,
       "rejectedAsCommentary": 0,
-      "newIssues": 27,
-      "updatedIssues": 10,
+      "newIssues": 8,
+      "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,622 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261008-DP-81A37AC8-1961",
+      "title": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T17:14:16+09:00",
+      "publishedAt": "2026-10-08T17:14:16+09:00",
+      "firstCollectedAt": "2026-10-08T22:55:31+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTVubFdERmtncE1MMXRFRHROWlJEOWxxV1BOdDdvM3pKMFVDVUZCMmdtT1lNaXNObnFkVk9OR01nTWpfRDVKVjNPMThOay1HSkR0R3JOLW1ielctc0NYZjZ4YnJ3WDUyanNVRTd2SGd6alpCdGhPNDBlV24wX0NCUk9RWTRWZVhOeF9rSVFR?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jcjZrdW9jME5Fa2hGczRDOFk0ZDRCWXRIQ0xYUlFiM2hyLWI0bHpiQjJsMk9MYzVGLXFUWGJUTmFRU2REa1ZlTklsY2ZWSlFOR2JvQkRrNjB0MXRHTkgxdGdTT3RNMFI4U1Zfcg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-09T04:47:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "81a37ac8b82bee3e037a48c703f1b31b83a77abc4af229853f650262e50c2e0b"
+    },
+    {
+      "id": "20261007-DP-30039778-1937",
+      "title": "'가습기살균제 피해자' 국가 주도 배상체계 가동…8일부터 신청 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-07T18:02:09+09:00",
+      "publishedAt": "2026-10-07T18:02:09+09:00",
+      "firstCollectedAt": "2026-10-08T09:08:18+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "'가습기살균제 피해자' 국가 주도 배상체계 가동…8일부터 신청 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'가습기살균제 피해자' 국가 주도 배상체계 가동…8일부터 신청 - 정책브리핑",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmdSdlhwSlVzc0EyWmVwMFE1UXA5cFNoRThiVk1ybWtjN1lqQ3A1Y0ZReXZMQzYwY2FmaHcyOHEyLUdyS0xnblhKTGFCeGRhTlplSGRNQzVCS0ljSFc4TGpvRUE0YjUweml0X2tnV2phYVp5RnpYUExJMHg0bWNXY2tUR1hvSUlFSzExZQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "'가습기살균제 피해자' 국가 주도 배상체계 가동…8일부터 신청 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jMHJXWGYxNTFKWTRnbDZTX19uelI3OHVmQkdvMWlyRU9Rc1hxb2JmR0w2ZTdXbTh6Sk1Fak14ZlFKeHRsb3NaWldPeExmSndyVWVkeFRndVN1VzFZM2ttMW5zY3RBb3VZcDlQYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-09T04:47:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "30039778bfcbddaaec1b8c03e157471969192eca06f7e669c9309b5191f9fb51"
+    },
+    {
+      "id": "20261006-FR-36EE2761-1900",
+      "title": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T19:25:06+09:00",
+      "publishedAt": "2026-10-06T19:25:06+09:00",
+      "firstCollectedAt": "2026-10-07T09:58:15+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjlpYkU5QUdfSFVGcWZMT1FDS1UwVHpONEtjZlJvdFUzSDEzN1A2aDcwaHJSd3BkUDN5QTUzVm5xcjN6YUoxTXhvcUN5VjZlR1BzVlBoUi1idTJEdGhFM21KU1E1TGpBbXZsTWRiZ3M5YWtfRTh4N3ppaFUyNEpEclJZRlBTOFE?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80ZlhQekZGS2lNRE5fNkhLQWl0MHdEWHhpWGlsaUVsMG1kc0FiS0Z1SFBiZTl4MC1LazRDNDVmRW9QdTFSaS1IQk1ua2o3emdfQ0RjVmRhWU1hM1RsTEFnTnliel9ocnJNcWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-09T04:47:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "36ee2761ff828add95ad4f0f923a8830eec3d1a24a2f4edf7ee3bce98c114a44"
+    },
+    {
+      "id": "20260801-DP-9A43D474-079",
+      "title": "주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-01T23:23:03+09:00",
+      "publishedAt": "2026-08-01T23:23:03+09:00",
+      "firstCollectedAt": "2026-08-02T16:56:19+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "주요판결 - 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDU1THBPS2hwV18wVXRkNGlTTzZRSU1UdW81cnhva0NvMndsSEVicFJseVlQSWIxS0lHcmo1SHBWM0RDVlpuQWFHcUNfRGNNbkhxSGJrdHZvc29UT0VLZEJCcjVPTE1OOFRCeEUycUxVaUpKb3B4dGk1aHZPUWlvUW5XMk9HSzhfYVphM2wyU0hYeTVCeURXSTdsemM0MU5CTHpneFk1TEM?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INGdvcWhkUU9ONnRwcnNYOWZic281QWt2b0M1TWFnM3hZem1QRG9RZmhCR2FtWkZTREFCbWprTDBVVXAweDZHY3AxNWFuUjlLZmVVQm1VWjZqdkJJaGRyTDdXT2UtakRwRS1ka1F0RWZBbWlyZ2QwQTlLc2FIVWs?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-22",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXl4V1lSaGIzLTd3Q0pSVHU3cThqamxEcWdoUG5IQXJFZ0s1UVJKOERxOFZTT0hsOWotbVNpQzMzbUFUTGF4SWxXSkNPSkVVRl9Nak9rd2hDWUItMlFUS09TYlFTUS1BYkFXTUhMRkFYRE5IdDZxcGdxWVEzeVp2X3JrSDFGbDlVUmdDSENCMTBfOWRaZ0M1eHluMk1WZmZVNW5xZTFHYw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEY3bWxYalFlenEyTXFyWTlrcml2VjRwcGJPRVowaThnVnM2RGlHZ2JuMUxfRGdNQzVobnk0Qk1SdnYyd0ttYmhNLVVhUnk4dUZVOGVEOFZPZkRKZU1zUndyN201MnU2bzJpT3BEMnB0SkNkOTBrVk5xQkFMOW9rUTg1RjZTTWdNcDNuUFdsVldYU3QzMjctQWxnSk1Vb2NmSjFCZG8tbGI?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU0t3Y2U1SHhZYXNKejRsSVROOFc3VG1aZGlPSDE2M2RRaF9BMDE4czRuSHp0QU56aXhkZWpBS21iR2ViYlNrZURPa0hJQU50dTQ4MnZDZlhmTk03ODZ5LXBrZkdjVW9hLWh0SU8zdnRjWWthN2JKal82dmw3NmcxN1lrSHB5cG5vLWtJNEg4NDFGaDcta016bzdFMTltY0JiMGxyTGdMV3I3ZUNCUWtKdlBFQkFlQ2RPZEtjdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3h5VGR4Y0R4MER2M192UUxLTndnNnpwS1VKR0JSUkctcDZTalpsb0F1UFBZWDB0S09XYktaVDdJeE9JeU55MTBfcVIybTRoUXhOZVZVTG0xYmcxNy1ZODNuc1poSFdkRXBoNG0xTHozSUQzOTJ4WmtOMWt3U204ay1iMW9wRWIwMHEzazZsdzBnNUFIVDA0Z3FFMFJKQU1DcVZxZ040WGpyVjFTdXhVV2hzSXl5bHpma1BnTw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd0pkN0VjTExuQXFKSTRPY3Q3bHloNEF0a1FiQ0JhRWRVamVPczRRN1d6cUlneVhnSk5ycFRPQjFDN0hxS00tY08tTnJtMjY5Y1YzUFRWQ3A3aGVIelBhMnhZWnV3T2tIdHdYRy02YXo1aUtDVWk4Q3MtRGY1R1FzWFN4LVFVemFRNEppX3hEb1NsUmxmUkV2RDZTX0RpT1lHaE5yMDJ2aw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1dEVGttcnFXWDRrQ2pTRFk5OHNlS003ampZcDAwcGpqWVJhbjVIX0NuazVKQ3lfRW5rWjVPcXVrTnlPYkZvZ0p1Y1RYUmVKZ3ZndURKT050MnhwdTB0SHlncUZOQ2E5TTNJTXdDUko4STVtN01YeWZmVUZ3bVRwOXFaMnJtV2JlSDJidFV0VnVqcF90V0ZLSlJzNS1yOGJSbVNTTXJ0ODE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "주요판결 - 대한민국 법원",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObzRNYXc3TDZwd0xrNFl4cXhUQkMxeXJVYlh4UTNGeGh2WWtDVUx2b3NUZmNZdGxIZ1VBS3BUMEpKTXRJRm9ZdTBsdVdTMTNiVHZZRDdHVExXREtvV3pDd0hLNlFmN3NDM2R3a20tQjJ5WUx4ODVRa3pTUnMxVEpTWFJmWE1oQ0hhaEY3enpuckprRWMzRW04TzBuQUduVUdLZzVURlM3aw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-22T02:15:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-22T22:44:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-28T09:57:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-11T04:36:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-11T06:49:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-09-30T15:34:11+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-10-02T20:16:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        },
+        {
+          "updatedAt": "2026-10-09T04:47:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 8
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9a43d4745f655805d5837f00b7461f386b80a9919d0f100fbb7cd2ca355cc95f"
+    },
+    {
+      "id": "20261008-DP-C83D0FFA-1987",
+      "title": "'밍글링'이 뭔지 아세요? 쉬운 우리말 사용하면 더 빠르게 이해됩니다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T13:37:57+09:00",
+      "publishedAt": "2026-10-08T13:37:57+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "쉬운 우리말 사용하면 더 빠르게 이해됩니다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'밍글링'이 뭔지 아세요? 쉬운 우리말 사용하면 더 빠르게 이해됩니다 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk9WNXBFUWg4TjBKeG5GT0Z5b2lfbXJsQ0JacWZiczFFRDNtR0pRZ0htMmtPaGlhU1RGVDJtd25JYWdfNnlkX0V3NmZrTnBoVTJuS0syM2pYbWtFR3dZbWdQaWdZM05fMUR5bHBzMWM3OGlPRV9ockY5Vmh3ZmtBY3hsZW5HWjFnMU5OVTZzVExLRmw4Z29BNE1B?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c83d0ffa7e065a744b6fd27481905810298e11737e7e91dd65b3ac1fd6c7140e"
+    },
+    {
+      "id": "20261008-FR-0F104875-1988",
+      "title": "한·이집트 협정·양해각서 체결식 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T22:57:10+09:00",
+      "publishedAt": "2026-10-08T22:57:10+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "한·이집트 협정·양해각서 체결식 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한·이집트 협정·양해각서 체결식 - 대한민국 청와대",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QZlF0c3pWM1h4UXA4VDhCR3VjSUp2MUNPSlRwT1Awdmo2eDJHNnQ4SjJjenNDNFd4OFNVZnQ5cDY2bU1zeTdTLWF2dWFJSV83LUZuWFpSbkJ1Y0gwMHZxMXU0VQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f104875ea7911af5b58fa38efca2dbe1439d89fd7854d1eb8e5a0943001a417"
+    },
+    {
+      "id": "20261008-FR-8888621D-1989",
+      "title": "주우크라이나 한국대사 소환 상세보기|보도자료 - Mofa.go.kr",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "Mofa.go.kr"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T18:16:02+09:00",
+      "publishedAt": "2026-10-08T18:16:02+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "주우크라이나 한국대사 소환 상세보기|보도자료 Mofa.go.kr",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "Mofa.go.kr",
+          "title": "주우크라이나 한국대사 소환 상세보기|보도자료 - Mofa.go.kr",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zMXFnWWZ1MWF1MXZxdU9qXzZVR0c4UHdlQ2k1UlV2cjR3Q0hqYVhOT3VURUtxSmUwMkptSGhOdEotUEhNamU3T1RobjJvMmVQdU52LTVtUHJDc25qUXYtTU5LWU4wcnp2X3h6Mk1BQnNxRHBNQklVVVpKaVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8888621d8d847587d34e73e4536c37aaf1089779cd6fd73847c81ee3addead7e"
+    },
+    {
+      "id": "20261009-FR-E11BFD69-1990",
+      "title": "서울 독립문 영천시장 방문 - 포토 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T00:41:18+09:00",
+      "publishedAt": "2026-10-09T00:41:18+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "서울 독립문 영천시장 방문 - 포토 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "서울 독립문 영천시장 방문 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBES1JfSmpCZndWMkR1TTVjd1RTUTNERVUxcU5QLTdTVHJRX05ja0M5bjBtZjIxODNPenR5Qkp0SW9hcjNSYzFieWU4cEVFTTJWNzFTaEM4Y2kycmNPUnNKTE9WbmVlenF0WlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e11bfd69fc746c2309500d40e2f7b54eccf0b022ad83c2428b81c5afe15bcf03"
+    },
+    {
+      "id": "20261009-FR-D4BA0073-1991",
+      "title": "제30회 노인의 날 기념식 - 포토 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T00:41:17+09:00",
+      "publishedAt": "2026-10-09T00:41:17+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "제30회 노인의 날 기념식 - 포토 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제30회 노인의 날 기념식 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DNVcybk5fbG5nNHRaQmYxY0ZYY0ZmNkpLWEtVSm8wRVpfOEF5ZkFPM3FCOExxZUlmY0xBazdhWU1qVmVNZGJkNzVTcEZFMXVfOGhzbGxmV2VfX013LTZWQnVaTkM3dklsUHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d4ba0073d0be341620fb0dab44847dfeddeda98778704825e510b9c45853b384"
+    },
+    {
+      "id": "20261009-FR-623941F1-1992",
+      "title": "민원 혁신 사례보고회 - 포토 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T00:41:17+09:00",
+      "publishedAt": "2026-10-09T00:41:17+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "민원 혁신 사례보고회 - 포토 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "민원 혁신 사례보고회 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrakUyUVd4S0QzY3B4cm1fSGhWY19qaG5DN21oUW1CR3pETThvcXZ3elhMenYyYXpreEpaeFlSa0ZrdDBXcDZuN29jaDhtUWhzQTlkYlVmLXdNMGNwZjdvTlBKeHhKYlFsM3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "623941f1ad97b5d66ccbe1c096aec75fe674d02106cb2dbe06fdcd2c12aa48e4"
+    },
+    {
+      "id": "20261008-FR-ECEEB51B-1993",
+      "title": "동물보호의 날, 성수동 '1004빌리지'에서 만난 '1004(천사)들' - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T17:52:24+09:00",
+      "publishedAt": "2026-10-08T17:52:24+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "동물보호의 날, 성수동 '1004빌리지'에서 만난 '1004(천사)들' 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "동물보호의 날, 성수동 '1004빌리지'에서 만난 '1004(천사)들' - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oam81MG1MUDNSbHFFMG45VjBfSWZtNHIxOWg2b0lGWlVWdEFYNlNVS2hSdXBFd2dJM3V0Y1FjUHVIT2stMW5EWTM5TnZvWThmNGpvSHgyR2U3YnduYmdjSGttRWNiVzhYT2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eceeb51bbe172b89630c5895af4b9a326d8c46e757863fcde9ba4082a44874d1"
+    },
+    {
+      "id": "20261008-FR-08433B2D-1994",
+      "title": "'누리호' 초소형군집위성 2~6호기 모두 교신 성공 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T23:25:23+09:00",
+      "publishedAt": "2026-10-08T23:25:23+09:00",
+      "firstCollectedAt": "2026-10-09T04:47:28+09:00",
+      "updatedAt": "2026-10-09T04:47:28+09:00",
+      "summary": "'누리호' 초소형군집위성 2~6호기 모두 교신 성공 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'누리호' 초소형군집위성 2~6호기 모두 교신 성공 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXQ19aY1NVQVpFUVczRmZiQlNmMGFiVVJ4OGk5dWE5VHNWbXVTdTNvb082Zy13bElWaUVwZ0JfWEgteGlNMDRXcXVlLU95UFg2ekI4QmJ2WWdIbjV3NHhsQzFuaUZHM1NkTl90Uw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "08433b2dd85776b178b625868f8c7efab2e49c125c8bcc600b9c68f89e74ce8c"
+    },
     {
       "id": "20261008-FR-E4E29DC1-1952",
       "title": "바다 위의 스마트한 눈, 인공지능 기반 항공 채증영상 분석 시스템으로 해양 감시 체계 혁신한다 - 정책브리핑",
@@ -1609,46 +2225,6 @@
       "contentHash": "2a5528b0ed374df1254a0baa3ccac5e1c31d6fb157b50278097cac945494737f"
     },
     {
-      "id": "20261008-DP-81A37AC8-1961",
-      "title": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-08T17:14:16+09:00",
-      "publishedAt": "2026-10-08T17:14:16+09:00",
-      "firstCollectedAt": "2026-10-08T22:55:31+09:00",
-      "updatedAt": "2026-10-08T22:55:31+09:00",
-      "summary": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 - 정책브리핑",
-          "date": "2026-10-08",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTVubFdERmtncE1MMXRFRHROWlJEOWxxV1BOdDdvM3pKMFVDVUZCMmdtT1lNaXNObnFkVk9OR01nTWpfRDVKVjNPMThOay1HSkR0R3JOLW1ielctc0NYZjZ4YnJ3WDUyanNVRTd2SGd6alpCdGhPNDBlV24wX0NCUk9RWTRWZVhOeF9rSVFR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "81a37ac8b82bee3e037a48c703f1b31b83a77abc4af229853f650262e50c2e0b"
-    },
-    {
       "id": "20261006-DP-84A3061E-1962",
       "title": "제2차 국민참여성장펀드 판매 결과 잔여물량 현황(10.2일) - 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -2680,46 +3256,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "393f5c61322892ff4af5fa229939713462b5e1ae76bd06cda3e0cb292f444b05"
-    },
-    {
-      "id": "20261007-DP-30039778-1937",
-      "title": "'가습기살균제 피해자' 국가 주도 배상체계 가동…8일부터 신청 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-07T18:02:09+09:00",
-      "publishedAt": "2026-10-07T18:02:09+09:00",
-      "firstCollectedAt": "2026-10-08T09:08:18+09:00",
-      "updatedAt": "2026-10-08T09:08:18+09:00",
-      "summary": "'가습기살균제 피해자' 국가 주도 배상체계 가동…8일부터 신청 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "'가습기살균제 피해자' 국가 주도 배상체계 가동…8일부터 신청 - 정책브리핑",
-          "date": "2026-10-07",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmdSdlhwSlVzc0EyWmVwMFE1UXA5cFNoRThiVk1ybWtjN1lqQ3A1Y0ZReXZMQzYwY2FmaHcyOHEyLUdyS0xnblhKTGFCeGRhTlplSGRNQzVCS0ljSFc4TGpvRUE0YjUweml0X2tnV2phYVp5RnpYUExJMHg0bWNXY2tUR1hvSUlFSzExZQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "30039778bfcbddaaec1b8c03e157471969192eca06f7e669c9309b5191f9fb51"
     },
     {
       "id": "20261007-DP-D8E8FC2E-1934",
@@ -4187,46 +4723,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "7ae613a82e3321b2fdac0c9b769a3962d03c734504d9db12775c910d069b6de9"
-    },
-    {
-      "id": "20261006-FR-36EE2761-1900",
-      "title": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-06T19:25:06+09:00",
-      "publishedAt": "2026-10-06T19:25:06+09:00",
-      "firstCollectedAt": "2026-10-07T09:58:15+09:00",
-      "updatedAt": "2026-10-07T09:58:15+09:00",
-      "summary": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "2026 산불진화 통합훈련 - 포토 | 멀티미디어 - 정책브리핑",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjlpYkU5QUdfSFVGcWZMT1FDS1UwVHpONEtjZlJvdFUzSDEzN1A2aDcwaHJSd3BkUDN5QTUzVm5xcjN6YUoxTXhvcUN5VjZlR1BzVlBoUi1idTJEdGhFM21KU1E1TGpBbXZsTWRiZ3M5YWtfRTh4N3ppaFUyNEpEclJZRlBTOFE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "36ee2761ff828add95ad4f0f923a8830eec3d1a24a2f4edf7ee3bce98c114a44"
     },
     {
       "id": "20261007-FR-7B5602A2-1901",
@@ -7878,131 +8374,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "154734b72f44b74ea54de425d677a9abd381823bd1e5be44ba349a678ed61689"
-    },
-    {
-      "id": "20260801-DP-9A43D474-079",
-      "title": "주요판결 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-01T23:23:03+09:00",
-      "publishedAt": "2026-08-01T23:23:03+09:00",
-      "firstCollectedAt": "2026-08-02T16:56:19+09:00",
-      "updatedAt": "2026-10-02T20:16:42+09:00",
-      "summary": "주요판결 - 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZDU1THBPS2hwV18wVXRkNGlTTzZRSU1UdW81cnhva0NvMndsSEVicFJseVlQSWIxS0lHcmo1SHBWM0RDVlpuQWFHcUNfRGNNbkhxSGJrdHZvc29UT0VLZEJCcjVPTE1OOFRCeEUycUxVaUpKb3B4dGk1aHZPUWlvUW5XMk9HSzhfYVphM2wyU0hYeTVCeURXSTdsemM0MU5CTHpneFk1TEM?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INGdvcWhkUU9ONnRwcnNYOWZic281QWt2b0M1TWFnM3hZem1QRG9RZmhCR2FtWkZTREFCbWprTDBVVXAweDZHY3AxNWFuUjlLZmVVQm1VWjZqdkJJaGRyTDdXT2UtakRwRS1ka1F0RWZBbWlyZ2QwQTlLc2FIVWs?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-08-22",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXl4V1lSaGIzLTd3Q0pSVHU3cThqamxEcWdoUG5IQXJFZ0s1UVJKOERxOFZTT0hsOWotbVNpQzMzbUFUTGF4SWxXSkNPSkVVRl9Nak9rd2hDWUItMlFUS09TYlFTUS1BYkFXTUhMRkFYRE5IdDZxcGdxWVEzeVp2X3JrSDFGbDlVUmdDSENCMTBfOWRaZ0M1eHluMk1WZmZVNW5xZTFHYw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEY3bWxYalFlenEyTXFyWTlrcml2VjRwcGJPRVowaThnVnM2RGlHZ2JuMUxfRGdNQzVobnk0Qk1SdnYyd0ttYmhNLVVhUnk4dUZVOGVEOFZPZkRKZU1zUndyN201MnU2bzJpT3BEMnB0SkNkOTBrVk5xQkFMOW9rUTg1RjZTTWdNcDNuUFdsVldYU3QzMjctQWxnSk1Vb2NmSjFCZG8tbGI?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU0t3Y2U1SHhZYXNKejRsSVROOFc3VG1aZGlPSDE2M2RRaF9BMDE4czRuSHp0QU56aXhkZWpBS21iR2ViYlNrZURPa0hJQU50dTQ4MnZDZlhmTk03ODZ5LXBrZkdjVW9hLWh0SU8zdnRjWWthN2JKal82dmw3NmcxN1lrSHB5cG5vLWtJNEg4NDFGaDcta016bzdFMTltY0JiMGxyTGdMV3I3ZUNCUWtKdlBFQkFlQ2RPZEtjdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU3h5VGR4Y0R4MER2M192UUxLTndnNnpwS1VKR0JSUkctcDZTalpsb0F1UFBZWDB0S09XYktaVDdJeE9JeU55MTBfcVIybTRoUXhOZVZVTG0xYmcxNy1ZODNuc1poSFdkRXBoNG0xTHozSUQzOTJ4WmtOMWt3U204ay1iMW9wRWIwMHEzazZsdzBnNUFIVDA0Z3FFMFJKQU1DcVZxZ040WGpyVjFTdXhVV2hzSXl5bHpma1BnTw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd0pkN0VjTExuQXFKSTRPY3Q3bHloNEF0a1FiQ0JhRWRVamVPczRRN1d6cUlneVhnSk5ycFRPQjFDN0hxS00tY08tTnJtMjY5Y1YzUFRWQ3A3aGVIelBhMnhZWnV3T2tIdHdYRy02YXo1aUtDVWk4Q3MtRGY1R1FzWFN4LVFVemFRNEppX3hEb1NsUmxmUkV2RDZTX0RpT1lHaE5yMDJ2aw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "주요판결 - 대한민국 법원",
-          "date": "2026-10-02",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1dEVGttcnFXWDRrQ2pTRFk5OHNlS003ampZcDAwcGpqWVJhbjVIX0NuazVKQ3lfRW5rWjVPcXVrTnlPYkZvZ0p1Y1RYUmVKZ3ZndURKT050MnhwdTB0SHlncUZOQ2E5TTNJTXdDUko4STVtN01YeWZmVUZ3bVRwOXFaMnJtV2JlSDJidFV0VnVqcF90V0ZLSlJzNS1yOGJSbVNTTXJ0ODE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-22T02:15:33+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-22T22:44:22+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-28T09:57:56+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-11T04:36:02+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-11T06:49:54+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-09-30T15:34:11+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        },
-        {
-          "updatedAt": "2026-10-02T20:16:42+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 7
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9a43d4745f655805d5837f00b7461f386b80a9919d0f100fbb7cd2ca355cc95f"
     },
     {
       "id": "20260819-DP-100C572B-444",
