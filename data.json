@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-09T09:14:30+09:00",
-    "nextScheduledUpdate": "2026-10-09T09:44:30+09:00",
+    "lastSuccessfulUpdate": "2026-10-09T15:34:36+09:00",
+    "nextScheduledUpdate": "2026-10-09T16:04:36+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-09T09:14:26+09:00",
-      "finishedAt": "2026-10-09T09:14:30+09:00",
+      "startedAt": "2026-10-09T15:34:33+09:00",
+      "finishedAt": "2026-10-09T15:34:36+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 66,
-      "duplicates": 64,
-      "rejected": 131,
-      "rejectedByDate": 126,
+      "acceptedCandidates": 61,
+      "duplicates": 60,
+      "rejected": 137,
+      "rejectedByDate": 132,
       "rejectedByRelevance": 5,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
-      "updatedIssues": 0,
+      "newIssues": 2,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,139 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261009-FR-C87B6622-2000",
+      "title": "한·이집트 협력 새로운 장으로 - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T10:25:32+09:00",
+      "publishedAt": "2026-10-09T10:25:32+09:00",
+      "firstCollectedAt": "2026-10-09T15:34:34+09:00",
+      "updatedAt": "2026-10-09T15:34:34+09:00",
+      "summary": "한·이집트 협력 새로운 장으로 - 전체 | 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한·이집트 협력 새로운 장으로 - 전체 | 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2SkJxWWNaV2Niei1oZlFUVVRUWWFMbnZsUlJOMlBCejJ4SjA5clVhaEpqT3lDQkVac2JkVXZrNUxOOEtjSWZRM3NBZ09TU2hBU0ZCdW5GVnRnaGQ1SV9XM2tsRXVicjQwVlVWRHR3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c87b6622569941708d8fa35a62b816b43feab98d0dc5ee5c1645bbedfc5be872"
+    },
+    {
+      "id": "20261009-FR-A14090E3-2001",
+      "title": "한·이집트 공동언론발표 - 포토 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T10:14:15+09:00",
+      "publishedAt": "2026-10-09T10:14:15+09:00",
+      "firstCollectedAt": "2026-10-09T15:34:34+09:00",
+      "updatedAt": "2026-10-09T15:34:34+09:00",
+      "summary": "한·이집트 공동언론발표 - 포토 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한·이집트 공동언론발표 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xbWpzcmVtV0NzblRuNm1OZXlfZG5VdDU1QkE0dmlVT3NwZlRYZVBRaHlIcmhoODFzZ0Mwclk5OTBjOUxNb0ZFbWRma0d2LUFwdGoybXd5bFR3ZU85dlF2UWZvdmc5aTN4NTZEa3lxTlVRY2g3NmVRbzh3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a14090e36e59d66f388a4a263c16e340c56a26a49269bbc8502be08a942cfba5"
+    },
+    {
+      "id": "20261008-DP-2A5528B0-1960",
+      "title": "젠더폭력 피해자 권리보호·지원 방안 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T19:13:23+09:00",
+      "publishedAt": "2026-10-08T19:13:23+09:00",
+      "firstCollectedAt": "2026-10-08T22:55:31+09:00",
+      "updatedAt": "2026-10-09T15:34:33+09:00",
+      "summary": "젠더폭력 피해자 권리보호·지원 방안 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "젠더폭력 피해자 권리보호·지원 방안 브리핑 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TTk5aZXpVN1dYbWdvTTNsalV5Q2FGQWhpcUFjWWJKZEdrTUZscWRwTi03RDlYbUs4V21CczRLUWJIOF9kYVR4YnJsR1NLeVY0VUdWc2RsLW5DRGVlZzZCak9pSHJXVE0?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "젠더폭력 피해자 권리보호·지원 방안 브리핑 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44NTJwUC11M243TVY3OHpRUXBCUVJpNHRTOFh0RzdJUlF1eHRzdGNRem1wQzVsaDBwS2VKUjQxclg3V09KMi16bWdqbjNYdl9pZGwybl9fd2p1QlBOSEVfVFQxU294N1k?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-09T15:34:33+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2a5528b0ed374df1254a0baa3ccac5e1c31d6fb157b50278097cac945494737f"
+    },
     {
       "id": "20261009-FR-05902C1F-1996",
       "title": "한·이집트 정상회담 확대 회담 - 대한민국 청와대",
@@ -2383,46 +2516,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9c2995ccf01869471a405eb70acabc1032982fe756bf596a19d05e5667a326a2"
-    },
-    {
-      "id": "20261008-DP-2A5528B0-1960",
-      "title": "젠더폭력 피해자 권리보호·지원 방안 브리핑 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-08T19:13:23+09:00",
-      "publishedAt": "2026-10-08T19:13:23+09:00",
-      "firstCollectedAt": "2026-10-08T22:55:31+09:00",
-      "updatedAt": "2026-10-08T22:55:31+09:00",
-      "summary": "젠더폭력 피해자 권리보호·지원 방안 브리핑 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "젠더폭력 피해자 권리보호·지원 방안 브리핑 - 정책브리핑",
-          "date": "2026-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9TTk5aZXpVN1dYbWdvTTNsalV5Q2FGQWhpcUFjWWJKZEdrTUZscWRwTi03RDlYbUs4V21CczRLUWJIOF9kYVR4YnJsR1NLeVY0VUdWc2RsLW5DRGVlZzZCak9pSHJXVE0?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2a5528b0ed374df1254a0baa3ccac5e1c31d6fb157b50278097cac945494737f"
     },
     {
       "id": "20261006-DP-84A3061E-1962",
