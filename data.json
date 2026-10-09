@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-09T04:47:32+09:00",
-    "nextScheduledUpdate": "2026-10-09T05:17:32+09:00",
+    "lastSuccessfulUpdate": "2026-10-09T09:14:30+09:00",
+    "nextScheduledUpdate": "2026-10-09T09:44:30+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-09T04:47:27+09:00",
-      "finishedAt": "2026-10-09T04:47:32+09:00",
+      "startedAt": "2026-10-09T09:14:26+09:00",
+      "finishedAt": "2026-10-09T09:14:30+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 67,
-      "duplicates": 61,
-      "rejected": 127,
-      "rejectedByDate": 120,
-      "rejectedByRelevance": 7,
+      "acceptedCandidates": 66,
+      "duplicates": 64,
+      "rejected": 131,
+      "rejectedByDate": 126,
+      "rejectedByRelevance": 5,
       "rejectedAsCommentary": 0,
-      "newIssues": 8,
-      "updatedIssues": 4,
+      "newIssues": 5,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,206 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261009-FR-05902C1F-1996",
+      "title": "한·이집트 정상회담 확대 회담 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T02:57:01+09:00",
+      "publishedAt": "2026-10-09T02:57:01+09:00",
+      "firstCollectedAt": "2026-10-09T09:14:27+09:00",
+      "updatedAt": "2026-10-09T09:14:27+09:00",
+      "summary": "한·이집트 정상회담 확대 회담 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한·이집트 정상회담 확대 회담 - 대한민국 청와대",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB1Y3Jielo3Yk9SejV4N3hDYWp3eWtRYW01UENqQjM0MU1rQllVRHNsOHhUVG5OVEpCOTNjQzg1TF9yZml1U0FHQjJsaHVyelRaNVhZWUh1RnFydFVLeVZ6Wmh0QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "05902c1f9eb9c06966d1d18dc408defac2ddd71f64b51b1076005852bd13ff4d"
+    },
+    {
+      "id": "20261006-FR-B51CE927-1997",
+      "title": "다행이와 부리부리가 알려주는 산사태 국민행동요령 - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T17:58:58+09:00",
+      "publishedAt": "2026-10-06T17:58:58+09:00",
+      "firstCollectedAt": "2026-10-09T09:14:27+09:00",
+      "updatedAt": "2026-10-09T09:14:27+09:00",
+      "summary": "다행이와 부리부리가 알려주는 산사태 국민행동요령 - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "다행이와 부리부리가 알려주는 산사태 국민행동요령 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZSmEyR3ZhUHkwcFBFZFRLWEpsQ283MGRXallvek0ySFY2cUJIb1YyUDJOVGhMQ2V4clRva1JLd1FoR3dPQmtVanNJdFBDb1p6MHp6YWs2WEtTeVptcjAwNGxmOU82T0I1Yl9xdg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b51ce9270cb18ff6adc9544f4ad0fa005e188d391898a760da2a51e5ef926024"
+    },
+    {
+      "id": "20261008-FR-3F90EB47-1998",
+      "title": "한글날은 예전에 OOO으로 불렸다? - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T17:02:08+09:00",
+      "publishedAt": "2026-10-08T17:02:08+09:00",
+      "firstCollectedAt": "2026-10-09T09:14:27+09:00",
+      "updatedAt": "2026-10-09T09:14:27+09:00",
+      "summary": "한글날은 예전에 OOO으로 불렸다? - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한글날은 예전에 OOO으로 불렸다? - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MVDVwX2hMR0xRalZFZ2k1TzVKTTEybEZXZE9ZVkpfQTBaM1dhQmU5UlVrOTRPVjVTSmF1NHkxbExOcHBsbVBsdldoY3NNWG5NOGtxYnFTUk5CZ0Q3cVhvXzJqN3NIa013WTNrNA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3f90eb4738fe7aeaa3ebfa98e0945851b6585f34d66291112dbeb8cf91fd1aad"
+    },
+    {
+      "id": "20261008-DP-3547DB8F-1999",
+      "title": "이재명 대통령, 안흥포구 방문 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T19:34:35+09:00",
+      "publishedAt": "2026-10-08T19:34:35+09:00",
+      "firstCollectedAt": "2026-10-09T09:14:27+09:00",
+      "updatedAt": "2026-10-09T09:14:27+09:00",
+      "summary": "이재명 대통령, 안흥포구 방문 관련 강유정 수석대변인 서면 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "이재명 대통령, 안흥포구 방문 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nX3FRSDl4MlF5WEpONWpPaDBOaTAtRWxzM0JfOUd4Wkg3WERsQmhlM1dreE04V1F5b0VpMWI2V3hpejlBWXFpNTZNeThxQWZndmt6aEJaYXQyZFdvRV9fRjdJRGRNbjZTamRfZW9td3Q?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3547db8f1a653970a57232bfc95164ff59ee09ffcc16bc0166f28f1bd0c569dc"
+    },
+    {
+      "id": "20261006-DP-66DDAC3C-1995",
+      "title": "온라인 다크패턴 규제 관련 가이드라인 배포 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T10:00:00+09:00",
+      "publishedAt": "2026-10-06T10:00:00+09:00",
+      "firstCollectedAt": "2026-10-09T09:14:26+09:00",
+      "updatedAt": "2026-10-09T09:14:26+09:00",
+      "summary": "온라인 다크패턴 규제 관련 가이드라인 배포 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "온라인 다크패턴 규제 관련 가이드라인 배포 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaDB5bG40UzJXZ1BGNS0wc0ZjWVRDT1V2aXNuWDgzLVZNS1BGUkhrWlJPOHVjODN4a2kwYktHM0VfalItbjZpZ1AzXzNHSEJ5T211Y2YyLXZ3eUZOQlNoeEY5VlZvMHB2cUFiSFRPakRyaTc3VjdGNWxBNUJKRW5ieXVSUWJmVlFVMzNDRWlqelhtOW9D?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "66ddac3cb410db1ad3b567c38f62640190612eaecfc1141878ed5a902ecb5e66"
+    },
     {
       "id": "20261008-DP-81A37AC8-1961",
       "title": "정부, 젠더폭력 피해자 보호·지원 강화…'권리체크 10' 배포 - 정책브리핑",
