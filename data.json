@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-10T11:38:05+09:00",
-    "nextScheduledUpdate": "2026-10-10T12:08:05+09:00",
+    "lastSuccessfulUpdate": "2026-10-10T18:41:51+09:00",
+    "nextScheduledUpdate": "2026-10-10T19:11:51+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-10T11:38:01+09:00",
-      "finishedAt": "2026-10-10T11:38:05+09:00",
+      "startedAt": "2026-10-10T18:41:48+09:00",
+      "finishedAt": "2026-10-10T18:41:51+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 46,
-      "duplicates": 47,
-      "rejected": 151,
-      "rejectedByDate": 149,
-      "rejectedByRelevance": 2,
+      "acceptedCandidates": 40,
+      "duplicates": 37,
+      "rejected": 159,
+      "rejectedByDate": 156,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,193 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261010-FR-8F23869E-2020",
+      "title": "국힘 \"北김여정 조롱에도 저자세 정동영, 사퇴해야…안보 해악\" - 연합뉴스",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "연합뉴스"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-10-10T11:16:17+09:00",
+      "publishedAt": "2026-10-10T11:16:17+09:00",
+      "firstCollectedAt": "2026-10-10T18:41:50+09:00",
+      "updatedAt": "2026-10-10T18:41:50+09:00",
+      "summary": "국힘 \"北김여정 조롱에도 저자세 정동영, 사퇴해야…안보 해악\" 연합뉴스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "title": "국힘 \"北김여정 조롱에도 저자세 정동영, 사퇴해야…안보 해악\" - 연합뉴스",
+          "date": "2026-10-10",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FdmlOdldYelFhNHJldmx6WnBLdExzblRNYTZCaVVuQlJISWw5VThIWkJkalh4LXYwSGtVdWI0ZjhQaWY4XzBmRE9TSTRFUDc1Y3JDa0ZvaExTaUJNODk0a9IBYEFVX3lxTE1FdmlOdldYelFhNHJldmx6WnBLdExzblRNYTZCaVVuQlJISWw5VThIWkJkalh4LXYwSGtVdWI0ZjhQaWY4XzBmRE9TSTRFUDc1Y3JDa0ZvaExTaUJNODk0aw?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8f23869e9ef08069e6ee6415c6f51d9990998ab1cd450e2402abf5fad0482ab9"
+    },
+    {
+      "id": "20260922-FR-1B7C44D7-1519",
+      "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국제기구",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-22T08:15:12+09:00",
+      "publishedAt": "2026-09-22T08:15:12+09:00",
+      "firstCollectedAt": "2026-09-22T08:59:34+09:00",
+      "updatedAt": "2026-10-10T18:41:49+09:00",
+      "summary": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmVURi1PT2NseVpldy14alIyeUpfN3Z5NXA4ZnNHTFk2SjRMclJlaVhDRVZtaTdMWXVDMHFVdFNKRDJTY01JSHpPVE5SUmE4NldmMkNYZkQtdmxLXzFvTzJlVkdsZ3ZQTXk5cl9VNXpLVUZSblBRRGV1Ulk5U0w4a25OMW9VNndRWkFldkVUX1Zrdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRG83eDU4WXRHUjRIcWJaVFpjVmwya3Mtb1Bta1dObWY1MDQxVjlrdEhYd3dQZ2xPcmxsQWlLMkFyMmpVRVZDUDktdWg0R2EtZ1lQdm4zcUNoODZ1TlNpYkkydXh6TUdqZHNma2JtLURCdnRfeENqSmMtcEEwcUp0R2RzWUNqVTVhdHRTbS15YUNsUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 정책브리핑",
+          "date": "2026-10-10",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3E2N3VoWktrdnVuM1pSN0EzazhtRm9HVzlvRTBDXzRxVXFxc05HNkxQNUY3eElzQWctOWozdkN2UGdqYklYY3ktNkQtTXg4cmRNRnZnUWN3Z0ZqVk1GMWZtdTFLX05QWVQ3LXBTbC0ybk5zaks2NXgzdEplS3lQN1hMQkM2VWhnZXZB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-22T23:39:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-10T18:41:49+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1b7c44d79f01e8022021271a00f23365ddc60936b713bb53024c84f60966c136"
+    },
+    {
+      "id": "20261010-FR-9300F496-2018",
+      "title": "Dive into K-Seafood | 광어·굴·전복·김 - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-10T04:41:58+09:00",
+      "publishedAt": "2026-10-10T04:41:58+09:00",
+      "firstCollectedAt": "2026-10-10T18:41:49+09:00",
+      "updatedAt": "2026-10-10T18:41:49+09:00",
+      "summary": "Dive into K-Seafood | 광어·굴·전복·김 - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "Dive into K-Seafood | 광어·굴·전복·김 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nNDEyZi00YjdhaktJaUJyMGpzcFJ4S3pBOEpxaG5SNGducVhlVEpjaHlEbUN0WlZFdFdoTjhhNHVsTEkyRVUtSlhxTXJpRzRyVG1jT0lTX1h3SVNMTmdVTW1yem42YjdObFA4UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9300f496046284052b041d8bec7ba99eb35b3a7d47446c95b6c0dcf12bdf2290"
+    },
+    {
+      "id": "20261008-FR-4CAE1A89-2019",
+      "title": "파이어족을 꿈꾼다면? 배당 투자 3가지는 꼭 챙기세요 - 영상 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T11:34:37+09:00",
+      "publishedAt": "2026-10-08T11:34:37+09:00",
+      "firstCollectedAt": "2026-10-10T18:41:49+09:00",
+      "updatedAt": "2026-10-10T18:41:49+09:00",
+      "summary": "배당 투자 3가지는 꼭 챙기세요 - 영상 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "파이어족을 꿈꾼다면? 배당 투자 3가지는 꼭 챙기세요 - 영상 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZQ3ZsT0NNZ1ZRUS1aYkU3VmtOVXE4Z3N1WjVaRGQ2SXpFWGZKMThPcThPa3ZRTjJoREY4NElYdmJnSW11NDNrZ0lSeGF4ZmpfY2d2cjYzMGRWaFQwOG5GakFjTkx2MFQ2blNLTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4cae1a89b5bb78d503cbf4901715c6fc30a3445ba9b2bd9810c6e01dc9321a3f"
+    },
     {
       "id": "20261008-FR-286A471A-2016",
       "title": "누리호 5차 발사 성공! 우주로 간 '이 카메라'를 만든 기업 - 영상 | 멀티미디어 - 정책브리핑",
@@ -22483,61 +22670,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "a79de3b128806b386b077f792a2a69c7f51f4a4b605f519d6bd25d06c5941e65"
-    },
-    {
-      "id": "20260922-FR-1B7C44D7-1519",
-      "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "국제기구",
-      "countries": [
-        "유엔"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-22T08:15:12+09:00",
-      "publishedAt": "2026-09-22T08:15:12+09:00",
-      "firstCollectedAt": "2026-09-22T08:59:34+09:00",
-      "updatedAt": "2026-09-22T23:39:00+09:00",
-      "summary": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYmVURi1PT2NseVpldy14alIyeUpfN3Z5NXA4ZnNHTFk2SjRMclJlaVhDRVZtaTdMWXVDMHFVdFNKRDJTY01JSHpPVE5SUmE4NldmMkNYZkQtdmxLXzFvTzJlVkdsZ3ZQTXk5cl9VNXpLVUZSblBRRGV1Ulk5U0w4a25OMW9VNndRWkFldkVUX1Zrdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "조현 외교장관, 차기 유엔 사무총장 후보자 4명과 면담 - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRG83eDU4WXRHUjRIcWJaVFpjVmwya3Mtb1Bta1dObWY1MDQxVjlrdEhYd3dQZ2xPcmxsQWlLMkFyMmpVRVZDUDktdWg0R2EtZ1lQdm4zcUNoODZ1TlNpYkkydXh6TUdqZHNma2JtLURCdnRfeENqSmMtcEEwcUp0R2RzWUNqVTVhdHRTbS15YUNsUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-22T23:39:00+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1b7c44d79f01e8022021271a00f23365ddc60936b713bb53024c84f60966c136"
     },
     {
       "id": "20260921-DP-31062021-1537",
