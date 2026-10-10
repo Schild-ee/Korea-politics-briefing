@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-11T00:49:28+09:00",
-    "nextScheduledUpdate": "2026-10-11T01:19:28+09:00",
+    "lastSuccessfulUpdate": "2026-10-11T04:58:34+09:00",
+    "nextScheduledUpdate": "2026-10-11T05:28:34+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-11T00:49:24+09:00",
-      "finishedAt": "2026-10-11T00:49:28+09:00",
+      "startedAt": "2026-10-11T04:58:30+09:00",
+      "finishedAt": "2026-10-11T04:58:34+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 42,
-      "duplicates": 40,
-      "rejected": 157,
-      "rejectedByDate": 154,
+      "acceptedCandidates": 44,
+      "duplicates": 42,
+      "rejected": 155,
+      "rejectedByDate": 152,
       "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
-      "updatedIssues": 0,
+      "newIssues": 2,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,139 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261008-FR-393F5C61-1941",
+      "title": "아바타의 숲은 현실에도 있다?! 영화 속 식물에 숨겨진 진짜 의미 - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T09:05:31+09:00",
+      "publishedAt": "2026-10-08T09:05:31+09:00",
+      "firstCollectedAt": "2026-10-08T09:08:19+09:00",
+      "updatedAt": "2026-10-11T04:58:32+09:00",
+      "summary": "아바타의 숲은 현실에도 있다?! 영화 속 식물에 숨겨진 진짜 의미 - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "아바타의 숲은 현실에도 있다?! 영화 속 식물에 숨겨진 진짜 의미 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU3pnMENMWmt3ZXRyWHRIbnpscE5yQ0VCUS1BNzNPZDhGWlhkUE5ubW1mSzRKVXJHanNhTVM0NjktMmVsY3liSEF5MlRGVGlFVnE4Xy1MMlBFVEZ5ZkFlN3AxTjdYaFlpNkZGcjd0R0x1N3lkcGlSMURJNFl4VmZfYk84QXk2Z1dBWEE?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "아바타의 숲은 현실에도 있다?! 영화 속 식물에 숨겨진 진짜 의미 - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01YVBtLXVMRDZaZ3AxVVF2dFplMnBsM1I2NFpuNGVVaHA1R3lyeHZxUkFMZXlFeEpBRzhEUEZ1X3UtRGUyaHUydEJjUTYyUV84VU1xdXRYT3Y0MXdqR1gwZTVpU0xkWTVZT3JHeg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-11T04:58:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "393f5c61322892ff4af5fa229939713462b5e1ae76bd06cda3e0cb292f444b05"
+    },
+    {
+      "id": "20261009-FR-0E4E9FA4-2025",
+      "title": "(설명) 전기차 구매보조금은 전기차 성능 향상 등을 통해 전기차 보급 확대 및 관련 산업 경쟁력 강화를 유도하도록 설계 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T21:03:43+09:00",
+      "publishedAt": "2026-10-09T21:03:43+09:00",
+      "firstCollectedAt": "2026-10-11T04:58:32+09:00",
+      "updatedAt": "2026-10-11T04:58:32+09:00",
+      "summary": "(설명) 전기차 구매보조금은 전기차 성능 향상 등을 통해 전기차 보급 확대 및 관련 산업 경쟁력 강화를 유도하도록 설계 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(설명) 전기차 구매보조금은 전기차 성능 향상 등을 통해 전기차 보급 확대 및 관련 산업 경쟁력 강화를 유도하도록 설계 - 정책브리핑",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fMjlGU0VET2VDMTUyVGFtMWFNTExoWHA5RVdsYndaU0s1TGxFZGZWSG9rWWNjblF6endHMlFJdEZSbi0tZC02eFhaNEpvRjNfOGdRSUx4TVZJUk5uTkR6Tm1VZDhVNXljZWdZdV9tZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0e4e9fa44f6c1f1ac88c0fd1a5f843595e4f39e1c68d72294a8bfb36cd2b6fce"
+    },
+    {
+      "id": "20261009-DP-606B4DD6-2024",
+      "title": "[정책 바로보기] 'AI 보안 예산' 전액 삭감? 사실은 - 정책뉴스 | 뉴스 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-09T09:07:49+09:00",
+      "publishedAt": "2026-10-09T09:07:49+09:00",
+      "firstCollectedAt": "2026-10-11T04:58:31+09:00",
+      "updatedAt": "2026-10-11T04:58:31+09:00",
+      "summary": "[정책 바로보기] 'AI 보안 예산' 전액 삭감? 사실은 - 정책뉴스 | 뉴스 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[정책 바로보기] 'AI 보안 예산' 전액 삭감? 사실은 - 정책뉴스 | 뉴스 - 정책브리핑",
+          "date": "2026-10-09",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrTVdac1R6SmZXakZ1NG12ZGZRb0lxbTM3WlZEZm56M0NfUFptSXI5bXVMS2Z4VE5LaDFubW5ReHFIMmxoOTFXSDlrQlJiMWxPb180S3h1Q3h6SzQ4TDZVRHE3NW5IMms1NGhYWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "606b4dd63da19f5173e1fde0663d623effac8c6725d039112f547bb071d36e94"
+    },
     {
       "id": "20261009-FR-049A79AF-2022",
       "title": "10월 9일 한글날, 이 말도 우리말이었어?! - 카드/한컷 | 멀티미디어 - 정책브리핑",
@@ -4548,46 +4681,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "30717f813d8b78ce2cc6cb7953c668ada5afd4358c73d63e86954c3b2cbe72a2"
-    },
-    {
-      "id": "20261008-FR-393F5C61-1941",
-      "title": "아바타의 숲은 현실에도 있다?! 영화 속 식물에 숨겨진 진짜 의미 - 영상 | 멀티미디어 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-08T09:05:31+09:00",
-      "publishedAt": "2026-10-08T09:05:31+09:00",
-      "firstCollectedAt": "2026-10-08T09:08:19+09:00",
-      "updatedAt": "2026-10-08T09:08:19+09:00",
-      "summary": "아바타의 숲은 현실에도 있다?! 영화 속 식물에 숨겨진 진짜 의미 - 영상 | 멀티미디어 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "아바타의 숲은 현실에도 있다?! 영화 속 식물에 숨겨진 진짜 의미 - 영상 | 멀티미디어 - 정책브리핑",
-          "date": "2026-10-08",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU3pnMENMWmt3ZXRyWHRIbnpscE5yQ0VCUS1BNzNPZDhGWlhkUE5ubW1mSzRKVXJHanNhTVM0NjktMmVsY3liSEF5MlRGVGlFVnE4Xy1MMlBFVEZ5ZkFlN3AxTjdYaFlpNkZGcjd0R0x1N3lkcGlSMURJNFl4VmZfYk84QXk2Z1dBWEE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "393f5c61322892ff4af5fa229939713462b5e1ae76bd06cda3e0cb292f444b05"
     },
     {
       "id": "20261007-DP-D8E8FC2E-1934",
