@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-12T18:42:33+09:00",
-    "nextScheduledUpdate": "2026-10-12T19:12:33+09:00",
+    "lastSuccessfulUpdate": "2026-10-13T04:45:00+09:00",
+    "nextScheduledUpdate": "2026-10-13T05:15:00+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-12T18:42:24+09:00",
-      "finishedAt": "2026-10-12T18:42:33+09:00",
+      "startedAt": "2026-10-13T04:44:56+09:00",
+      "finishedAt": "2026-10-13T04:45:00+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 40,
-      "duplicates": 21,
-      "rejected": 157,
+      "acceptedCandidates": 36,
+      "duplicates": 33,
+      "rejected": 159,
       "rejectedByDate": 152,
-      "rejectedByRelevance": 5,
-      "rejectedAsCommentary": 0,
-      "newIssues": 19,
+      "rejectedByRelevance": 6,
+      "rejectedAsCommentary": 1,
+      "newIssues": 5,
       "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,368 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261012-FR-899973A8-2038",
+      "title": "국방부차관, 방일 및 한일 국방차관회담 실시 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "일본"
+      ],
+      "institutions": [
+        "국방부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-12T06:23:04+09:00",
+      "publishedAt": "2026-10-12T06:23:04+09:00",
+      "firstCollectedAt": "2026-10-12T08:34:11+09:00",
+      "updatedAt": "2026-10-13T04:44:57+09:00",
+      "summary": "국방부차관, 방일 및 한일 국방차관회담 실시 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "국방부차관, 방일 및 한일 국방차관회담 실시 - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXBlTVhLZ2dOSFlBOHEzSlZQZlF1WlFzMmxmVDRFTHVGcnVzd0JmWnJyX1NFejhmZF9ncnFRa0V2VkpvSktGdGtyczc0R1RQXzBXRllxSWoteG9XaXNacWJDV0lmMHVjYTlDSnVYQjgtQVUwSEEyTERmNHBaeHdJbVByc2pvV2FjMkxXVmI3YXVmQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "국방부차관, 방일 및 한일 국방차관회담 실시 - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORldYQ3pkYlVzQ0ViOERuT19ULTUxY0lXTVYtNkhnOWthYlNXQjdaOC1USnB6RlAyb004OFZYOGhRWnVITnZyTFNXdmN5dWs2VUJTYm5wR1FhLUl3eDBHQkhSOF9iRlZhMktQRnFlaHk0NWlnXzRRUlVGLWQzU2Z4X1VSS1hHVERiSGlXby1jNXdOQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-13T04:44:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "899973a8cd71d4c28ea18b8a0efce7a9f0ad0bd8430d4d857c1a18db9bf5a6eb"
+    },
+    {
+      "id": "20261011-FR-162ABC8E-2032",
+      "title": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11) - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "재외국민",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-11T19:57:41+09:00",
+      "publishedAt": "2026-10-11T19:57:41+09:00",
+      "firstCollectedAt": "2026-10-12T00:32:30+09:00",
+      "updatedAt": "2026-10-13T04:44:57+09:00",
+      "summary": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11) 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11) - 정책브리핑",
+          "date": "2026-10-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1RPUTZTZTh0WEkxelFsSUMtTmpnUHgwUU84bmR5MWsySG04aFR6WFF4ZEhkYktJaWVqbTBoTVI3N0wwRFVlaHZ1MUJIWm5CMk90c2ZuSXdqWVdLQlNLSGUwUWlYZ2FvSGNSd3pIdUgwQnlqOXFfX29iWktyaklORGtXcVBjMnVBYzZXX21kRHB6QQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11) - 정책브리핑",
+          "date": "2026-10-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qZjNsZlB1M0wweGhQTE1DZUlRRG1Ha1M0ak50blIyMVphWHVMeGZaV1hUZGxMTEhabmdZdUN1elh5UmVyTzdqeDJHcXFxaXRIY0N3X3hTNFdHWFVlTW8tRU1uTjJtTUJMRlZHSVdEdHpxY1ho?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-13T04:44:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "162abc8eb2833c92de42c8de3ec2aff753d2b13854a3b50e7bc05d3d89ef9596"
+    },
+    {
+      "id": "20261012-FR-D6C4457E-2074",
+      "title": "한-칠레 정상회담(2026.7.30.) - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-12T15:21:18+09:00",
+      "publishedAt": "2026-10-12T15:21:18+09:00",
+      "firstCollectedAt": "2026-10-13T04:44:57+09:00",
+      "updatedAt": "2026-10-13T04:44:57+09:00",
+      "summary": "한-칠레 정상회담(2026.7.30.) 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한-칠레 정상회담(2026.7.30.) - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JWTJOODFPYWZQRjl2M3RWdW1KYThuVXd2bnpOT0p0cDE2RjI5MUotLW0wNnFuOTR3ZWdGQWh4UHNHUVp6M2dVUXJ0TXNJNHFubURZbWpSV2hibzY0MWRvSGU1b1FzT1NsQ2V5WA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d6c4457e3ab41407a7b35609173583fbe4cb919097fd2201a1fb062f29ff31d2"
+    },
+    {
+      "id": "20261012-FR-78B9A090-2075",
+      "title": "한글, 광화문에서 예술과 신명으로 피어나다 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-12T19:26:21+09:00",
+      "publishedAt": "2026-10-12T19:26:21+09:00",
+      "firstCollectedAt": "2026-10-13T04:44:57+09:00",
+      "updatedAt": "2026-10-13T04:44:57+09:00",
+      "summary": "한글, 광화문에서 예술과 신명으로 피어나다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한글, 광화문에서 예술과 신명으로 피어나다 - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0drMDIyZGtpbENJT2ZEYkdFTWJTVGE4d1hRTk4yQkJFT283QjVCaWlqcW52OUdhUHM5VEpEQjRRT19OUmVfU2NFZHlBYTJOcWhvT1FEX280dUxHTGNUeDJUWWxCUzcxcV9XbEIwbVdaNHRHaURyLWhzUWkzVzFEVkJ1NV8wMEk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "78b9a090a9c93b148c2b76bd5b499ffcba5fad2c128daa66dbe8ccb7a2a94ee2"
+    },
+    {
+      "id": "20261010-FR-B214A17E-2076",
+      "title": "안흥포구 방문 - 포토 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-10T16:01:30+09:00",
+      "publishedAt": "2026-10-10T16:01:30+09:00",
+      "firstCollectedAt": "2026-10-13T04:44:57+09:00",
+      "updatedAt": "2026-10-13T04:44:57+09:00",
+      "summary": "안흥포구 방문 - 포토 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "안흥포구 방문 - 포토 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-10",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yWXRtbklMaXczb3lGcmRvVEo1c2MwN2ZURlIxelpEUFNUcTBQMnlIZlhEaXVESXFDaklDbS1lbkpGdmY1YjFZZ010a0pHMkpyZGJGb093YWtNS1FpOTV4QXhPWVZmQW1HbkE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b214a17ee9cfd8a736cbcdd7e295c05e242b4eca277a4cdcff2721d1ba33710c"
+    },
+    {
+      "id": "20261012-DP-0E564990-2059",
+      "title": "조달청 평가, 위원 선발부터 사후관리까지 더 촘촘하게 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-12T09:20:37+09:00",
+      "publishedAt": "2026-10-12T09:20:37+09:00",
+      "firstCollectedAt": "2026-10-12T18:42:25+09:00",
+      "updatedAt": "2026-10-13T04:44:56+09:00",
+      "summary": "조달청 평가, 위원 선발부터 사후관리까지 더 촘촘하게 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "조달청 평가, 위원 선발부터 사후관리까지 더 촘촘하게 - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZF91cFdmN3lBODdNUVRZQUgtd3dYTzJTMS1ER0VmRUFtUDNkUkpJUHVuSlFHVldDLU9yTGI4YjF5SkM4dl9UVEZYZGo5SUZFdjVxWkhQbFdsazVSYVlhRTI5dVRyWDR5TGljQ2tTbDRadW9ndzhqRFFmb2h3Z2d4bUxDeTJRN3BhREZaSDJkWEN3UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "조달청 평가, 위원 선발부터 사후관리까지 더 촘촘하게 - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGktall1dmxqV25vaGh4NGpMSVB5WjlpVlFDTzZPVmdHcEFYd3BwQ0U1ZmNYckxGdmVhNnJlZTFzV2pUM2FQS0ZRdUVMNjlZRDVkTnU5Q29wR09KdW14enpGNEZLMDR5dWI4bU00R0FaM2pkdXczdFBYVWxBVXc5VmVKcHpMSXBJdTZnVjdidTJJdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-13T04:44:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0e564990108e893261b530bdc0416ef3910fb9201bf3f4e6db2704f8ddabdbf2"
+    },
+    {
+      "id": "20261012-DP-0F2018E1-2072",
+      "title": "[보도자료] 한성숙 국무총리 주재 제11차 자살예방정책위원회 위촉식 및 회의 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-12T16:45:14+09:00",
+      "publishedAt": "2026-10-12T16:45:14+09:00",
+      "firstCollectedAt": "2026-10-13T04:44:56+09:00",
+      "updatedAt": "2026-10-13T04:44:56+09:00",
+      "summary": "[보도자료] 한성숙 국무총리 주재 제11차 자살예방정책위원회 위촉식 및 회의 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도자료] 한성숙 국무총리 주재 제11차 자살예방정책위원회 위촉식 및 회의 - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNU5NNHZQS3RPYnRoVlVpQjg5ODlCZ2lnSGdFbzNKMl93WUpTWU9XX1JQa3BldHNiaGxOaE5QcVFsUUF2VGowSFVsT1ZsUE5zMlZ6eWdTVjEzOHhFbTBGb1BIZUlQNW1FLWwxaUQtdnBtMVI2cks3U1VGUHlLQ214YjNYNnQ1WHRKdm1jWU12c1BYQlBmaUItYVVwTGJiSUNxTHlKdmpqMzNSZE9qSHEyd3pyZWNSYWlhYWZleE5DaU5TNGJjTkxYeXhDbU1ta29fNldNeEd5cjlYQ1BGNWpjWUE5S0JtU3ZKQTBZRUNMWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f2018e17f079caa1fe801d590fd30cb6d587eff2658889aaf827e84c98c7603"
+    },
+    {
+      "id": "20261013-DP-E1FDBBCB-2073",
+      "title": "종이팩, 이제부터 따로 배출해요 - 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-13T00:11:15+09:00",
+      "publishedAt": "2026-10-13T00:11:15+09:00",
+      "firstCollectedAt": "2026-10-13T04:44:56+09:00",
+      "updatedAt": "2026-10-13T04:44:56+09:00",
+      "summary": "종이팩, 이제부터 따로 배출해요 - 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "종이팩, 이제부터 따로 배출해요 - 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLaVVIWnhrcktHcFVkMG9TX3RVR1RNSUFoR3JPaDRNZXJKbjVyanFuQ21CZ2t0eEs4Ny1IdDJTb3pxd0JlVzhvWjN2LS1IQ2RBUnJ4R3JNSEcwamEzakhLQTdsX3JkYXlkZWtsV3pR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e1fdbbcb6d9b46f47b978fe99a35dbb86958db02d3f192763d5effb8017e39d2"
+    },
     {
       "id": "20261012-FR-743E77DC-2049",
       "title": "불법하도급 신고, 문턱은 낮아지고 보상은 커집니다 - 카드/한컷 | 멀티미디어 - 정책브리핑",
@@ -476,46 +838,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "73dfd1e1836b224166c45b91ef1cf224d152c921083bc5ebb88d3712fe6f4de6"
-    },
-    {
-      "id": "20261012-DP-0E564990-2059",
-      "title": "조달청 평가, 위원 선발부터 사후관리까지 더 촘촘하게 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-12T09:20:37+09:00",
-      "publishedAt": "2026-10-12T09:20:37+09:00",
-      "firstCollectedAt": "2026-10-12T18:42:25+09:00",
-      "updatedAt": "2026-10-12T18:42:25+09:00",
-      "summary": "조달청 평가, 위원 선발부터 사후관리까지 더 촘촘하게 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "조달청 평가, 위원 선발부터 사후관리까지 더 촘촘하게 - 정책브리핑",
-          "date": "2026-10-12",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZF91cFdmN3lBODdNUVRZQUgtd3dYTzJTMS1ER0VmRUFtUDNkUkpJUHVuSlFHVldDLU9yTGI4YjF5SkM4dl9UVEZYZGo5SUZFdjVxWkhQbFdsazVSYVlhRTI5dVRyWDR5TGljQ2tTbDRadW9ndzhqRFFmb2h3Z2d4bUxDeTJRN3BhREZaSDJkWEN3UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0e564990108e893261b530bdc0416ef3910fb9201bf3f4e6db2704f8ddabdbf2"
     },
     {
       "id": "20261012-DP-647C1868-2060",
@@ -1660,49 +1982,6 @@
       "contentHash": "10973a3403e803983a32bbb52d3aae9cb8c73c09e98fbaded774264f97bf6b31"
     },
     {
-      "id": "20261012-FR-899973A8-2038",
-      "title": "국방부차관, 방일 및 한일 국방차관회담 실시 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [
-        "일본"
-      ],
-      "institutions": [
-        "국방부",
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-12T06:23:04+09:00",
-      "publishedAt": "2026-10-12T06:23:04+09:00",
-      "firstCollectedAt": "2026-10-12T08:34:11+09:00",
-      "updatedAt": "2026-10-12T08:34:11+09:00",
-      "summary": "국방부차관, 방일 및 한일 국방차관회담 실시 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "국방부차관, 방일 및 한일 국방차관회담 실시 - 정책브리핑",
-          "date": "2026-10-12",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXBlTVhLZ2dOSFlBOHEzSlZQZlF1WlFzMmxmVDRFTHVGcnVzd0JmWnJyX1NFejhmZF9ncnFRa0V2VkpvSktGdGtyczc0R1RQXzBXRllxSWoteG9XaXNacWJDV0lmMHVjYTlDSnVYQjgtQVUwSEEyTERmNHBaeHdJbVByc2pvV2FjMkxXVmI3YXVmQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "899973a8cd71d4c28ea18b8a0efce7a9f0ad0bd8430d4d857c1a18db9bf5a6eb"
-    },
-    {
       "id": "20261012-FR-7F7DDD4A-2039",
       "title": "광화문 현판, 한글 미디어파사드 - 포토 | 멀티미디어 - 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -2086,46 +2365,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b14c33b29682de1cd99659f82fc3e9385559356c819d359ea9373c45dabde638"
-    },
-    {
-      "id": "20261011-FR-162ABC8E-2032",
-      "title": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11) - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "재외국민",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-11T19:57:41+09:00",
-      "publishedAt": "2026-10-11T19:57:41+09:00",
-      "firstCollectedAt": "2026-10-12T00:32:30+09:00",
-      "updatedAt": "2026-10-12T00:32:30+09:00",
-      "summary": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11) 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "조현 장관, 중동 지역 공관들과 중동 상황 관련 재외국민 안전대책 점검(10.11) - 정책브리핑",
-          "date": "2026-10-11",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN1RPUTZTZTh0WEkxelFsSUMtTmpnUHgwUU84bmR5MWsySG04aFR6WFF4ZEhkYktJaWVqbTBoTVI3N0wwRFVlaHZ1MUJIWm5CMk90c2ZuSXdqWVdLQlNLSGUwUWlYZ2FvSGNSd3pIdUgwQnlqOXFfX29iWktyaklORGtXcVBjMnVBYzZXX21kRHB6QQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "162abc8eb2833c92de42c8de3ec2aff753d2b13854a3b50e7bc05d3d89ef9596"
     },
     {
       "id": "20261011-FR-3D206093-2033",
