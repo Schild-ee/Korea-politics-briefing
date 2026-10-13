@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-14T02:05:36+09:00",
-    "nextScheduledUpdate": "2026-10-14T02:35:36+09:00",
+    "lastSuccessfulUpdate": "2026-10-14T06:47:37+09:00",
+    "nextScheduledUpdate": "2026-10-14T07:17:37+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-14T02:05:32+09:00",
-      "finishedAt": "2026-10-14T02:05:36+09:00",
+      "startedAt": "2026-10-14T06:47:34+09:00",
+      "finishedAt": "2026-10-14T06:47:37+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 42,
-      "duplicates": 44,
-      "rejected": 149,
-      "rejectedByDate": 143,
+      "acceptedCandidates": 41,
+      "duplicates": 49,
+      "rejected": 150,
+      "rejectedByDate": 144,
       "rejectedByRelevance": 5,
       "rejectedAsCommentary": 1,
-      "newIssues": 4,
-      "updatedIssues": 3,
+      "newIssues": 0,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,59 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260929-DP-81CCC854-1694",
+      "title": "제42회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T15:49:47+09:00",
+      "publishedAt": "2026-09-29T15:49:47+09:00",
+      "firstCollectedAt": "2026-09-30T01:58:41+09:00",
+      "updatedAt": "2026-10-14T06:47:35+09:00",
+      "summary": "제42회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제42회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KM2RSUDZuWjdRVnA3a1YwakZPYWlFNHR5TjlNWDQ4QzJGMXNDMmFQMFFqOTVQeDN4Vnd6YWJERV9qcHRheVNSYnJvWUE0YmU4dGtYdEtsYzJJc3RWbHVRdmxkaTdUSUVyTUFEYm9XSkM?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제44회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTeXgzWTMyaDF1Y2FyQ2ZGM0FsZ1ZFWUtrNUJVTFpWeXpuaTJ2QnZaalk0YXRLZ3VfQUFEMWp6OGV0NTFuSkxsbERmdlVnRzlZOC13eGZfUGsyeGxuRXh2X2VtZTk5YnhqZnhtV0dlRG0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-14T06:47:35+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "81ccc8542d247531abfc3a1032d26f0687d99c20d606b5abdb54c4a2e4b8ffbf"
+    },
     {
       "id": "20261013-DP-2010147E-2087",
       "title": "뮤직비디오 '자체등급분류' 시대 열린다 - 정책브리핑",
@@ -19681,46 +19734,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "22af3365ae957586b61f656e4cec17c64fcfaa09648517cf414652ea0c34a769"
-    },
-    {
-      "id": "20260929-DP-81CCC854-1694",
-      "title": "제42회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-29T15:49:47+09:00",
-      "publishedAt": "2026-09-29T15:49:47+09:00",
-      "firstCollectedAt": "2026-09-30T01:58:41+09:00",
-      "updatedAt": "2026-09-30T01:58:41+09:00",
-      "summary": "제42회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "제42회 국무회의 결과 관련 강유정 수석대변인 서면 브리핑 - 정책브리핑",
-          "date": "2026-09-29",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KM2RSUDZuWjdRVnA3a1YwakZPYWlFNHR5TjlNWDQ4QzJGMXNDMmFQMFFqOTVQeDN4Vnd6YWJERV9qcHRheVNSYnJvWUE0YmU4dGtYdEtsYzJJc3RWbHVRdmxkaTdUSUVyTUFEYm9XSkM?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "81ccc8542d247531abfc3a1032d26f0687d99c20d606b5abdb54c4a2e4b8ffbf"
     },
     {
       "id": "20260929-DP-BEE4BFAD-1689",
