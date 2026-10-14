@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-15T02:00:49+09:00",
-    "nextScheduledUpdate": "2026-10-15T02:30:49+09:00",
+    "lastSuccessfulUpdate": "2026-10-15T05:33:21+09:00",
+    "nextScheduledUpdate": "2026-10-15T06:03:21+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-15T02:00:43+09:00",
-      "finishedAt": "2026-10-15T02:00:49+09:00",
+      "startedAt": "2026-10-15T05:33:17+09:00",
+      "finishedAt": "2026-10-15T05:33:21+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 64,
-      "duplicates": 63,
-      "rejected": 125,
-      "rejectedByDate": 116,
-      "rejectedByRelevance": 7,
+      "acceptedCandidates": 55,
+      "duplicates": 64,
+      "rejected": 135,
+      "rejectedByDate": 127,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 2,
-      "newIssues": 7,
-      "updatedIssues": 5,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261014-FR-7E4F6963-2135",
+      "title": "기차는 떠났지만 낭만은 철로 위에…나만의 명소 '전북의 감성 기차역' - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-14T18:46:48+09:00",
+      "publishedAt": "2026-10-14T18:46:48+09:00",
+      "firstCollectedAt": "2026-10-15T05:33:19+09:00",
+      "updatedAt": "2026-10-15T05:33:19+09:00",
+      "summary": "기차는 떠났지만 낭만은 철로 위에…나만의 명소 '전북의 감성 기차역' 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "기차는 떠났지만 낭만은 철로 위에…나만의 명소 '전북의 감성 기차역' - 정책브리핑",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NZ25hMENCb0hFRHViSHQybUd4WTRFOUgyT3UwdlMtMmZvaFR4YjZ0eFVCeHlJaHdyVXlaSktlOHI1V3lmYUlPXzVBSmhBeWZOV19fVEUxSV9LZFN3NDZMTjQtcGZzeVlJSkE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7e4f6963c7bdf57114260b3c6246f77403ef3eb9f01bc13453c02322c0c4eff1"
+    },
     {
       "id": "20261014-FR-DB601EEE-2120",
       "title": "캐나다에 한국학 뿌리 내린 故유재신 교수, 10월 '이달의 재외동포' 선정 - 정책브리핑",
