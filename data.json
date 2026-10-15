@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-16T02:42:48+09:00",
-    "nextScheduledUpdate": "2026-10-16T03:12:48+09:00",
+    "lastSuccessfulUpdate": "2026-10-16T06:15:32+09:00",
+    "nextScheduledUpdate": "2026-10-16T06:45:32+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-16T02:42:45+09:00",
-      "finishedAt": "2026-10-16T02:42:48+09:00",
+      "startedAt": "2026-10-16T06:15:28+09:00",
+      "finishedAt": "2026-10-16T06:15:32+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 54,
-      "duplicates": 56,
-      "rejected": 141,
+      "acceptedCandidates": 56,
+      "duplicates": 53,
+      "rejected": 139,
       "rejectedByDate": 134,
-      "rejectedByRelevance": 6,
+      "rejectedByRelevance": 4,
       "rejectedAsCommentary": 1,
-      "newIssues": 2,
-      "updatedIssues": 1,
+      "newIssues": 3,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,441 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261014-DP-3C21949B-2119",
+      "title": "밀가루 부산물 가격담합 사건 심의 절차 개시 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-14T12:00:00+09:00",
+      "publishedAt": "2026-10-14T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-14T20:39:08+09:00",
+      "updatedAt": "2026-10-16T06:15:30+09:00",
+      "summary": "밀가루 부산물 가격담합 사건 심의 절차 개시 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "밀가루 부산물 가격담합 사건 심의 절차 개시 - 정책브리핑",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2Nma1pUZzA5Ykk3WEhQRFRiZ1JYTGpsUVFpMWVlM1V5TTRoSldqME14U3d5WUZhb19FS2s4bHJabTNMMW9oRXBNTlExclpOd01aeWhhNUdyMm81RkhzLVpBN2w3QWZpVFVPYlptUC13c1RlOGkyNXRGdURqbmxFZWZ5V2VhTjhRRE9kM0FmaC1TUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "밀가루 부산물 가격담합 사건 심의 절차 개시 - 정책브리핑",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xY1ZuUFlFajM3eGJtNGppeGtHN1gzVDUwRFpWbW9SV2pNUnU0bFZyV09HY1A1RjFhc1hLSmZIOHBjVTNDbUdrR1F2LTUxV1VBb3ZLYXBfQjlDN1JkUV9OV245bllELWZRS0I0UDQxdW5jbldPYmNv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-16T06:15:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3c21949b91d6486843b05f7bca221cef647c39c34044525da6ab40977b65fac2"
+    },
+    {
+      "id": "20261006-FR-2FDACEDE-1889",
+      "title": "국방부 일일 정례 브리핑 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "국방부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-06T19:23:54+09:00",
+      "publishedAt": "2026-10-06T19:23:54+09:00",
+      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
+      "updatedAt": "2026-10-16T06:15:30+09:00",
+      "summary": "국방부 일일 정례 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93X2Q4ckk3RURjcXp3NW9FYU93YlBzdEw0c0o3b1AwNmxRWmdYeTl5X2YzOGl0RHE1bXROMlRCYy15dUlCR0FzbFQyQUpTcGg2dnExcGxXX0JBczhoVm1FX0JaWldYYVlwS0FKM3VwcFFHWVJpVVNr?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iVlZKQWZOZlhxd0V0Ym9kSWgyeDJiRGtoVXp5OWhubU52WS0xeUUtcnlhVFBrdGtqN0ZBNExDZGxaQVJ1OTlWaFlrcVlhVG9FTWgwb1B1Z0ctRVhmSnhIVnluSVM0Y1U2U2szUHBCZHNpcTFUaTRZ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lbkstelhpdVJXeFdiTGN2b29CeWtNQWxDSWtRNUg3emYwWUNCZEsyOVUwQzRtd2QzXzhlWGd5empucVRFRkpVTE9JV1VOdGFnUzZDMVNwaFd2c04tdHRzc3NtbUpCbUJPazBMZGMwcTBKYlU2UHpJ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VOThFazdrMjRfVk5yT20xdzRxYURLRVVYNXZPbm9wdU12Yld6cFRKUWJ5clphN3N3d3NmWXZ4a0tQYTBLNnc2VHBHZEhXV280ME9DZmV5LUplZExkMEJkTWp0ak9OTUljcHh2M1JrbjBOY0J4NUV3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-12T18:42:25+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-13T18:16:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-10-16T06:15:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2fdacede2a0615d94ffdc3b539069b89721c6354b1217ff9e02b37760e9857cb"
+    },
+    {
+      "id": "20261008-FR-D8B7994C-1966",
+      "title": "외교부 대변인 정례브리핑 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-08T14:30:00+09:00",
+      "publishedAt": "2026-10-08T14:30:00+09:00",
+      "firstCollectedAt": "2026-10-08T22:55:32+09:00",
+      "updatedAt": "2026-10-16T06:15:30+09:00",
+      "summary": "외교부 대변인 정례브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 정책브리핑",
+          "date": "2026-10-08",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pUDA4bkxWdHF4X2RWZ2NjaXlkYnpWTWRUenkxQlk5WXhhaF9tYy1zUm5MT3YzYUZjbXZrWVE1QjV5VWpkYTIyTm5BSmFMbGI0bFpUSVhZY3lNVDZ1NWhOMmRPQzZpby02LXpFaUh1eVh0di1CQWY4?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 정책브리핑",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyNVdSMjlRd1Q1Z2VuZEllem5USW1fQldQel96M0EwUm9tcjBZT21SRVpYTzItZVh2cFFwTEYxSDdhd2o2TlU5QmREZkcxOVBSS3MxZ2hXM3F1QkFfTmN6S0o3LXI3NTdjVklIUlBmLV9zTERTOWRZ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMHFMVHF3LVdXWkhfWGFpY3BHUllPQU5lZnR1QjJOTmpQQ1gxWmNZNEp3Xzh3VTJ6djduRGpWbk1EUndHVlkwMVVTMDNzSTNjYjdfSGJaTjQ2MF93Sm5KeHlraVBSNjZpZTFWV3lpQTFwRFNqUkRV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-13T18:16:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-16T06:15:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d8b7994c3e35f8159e26ff3e75385c4b52d43feea9bbcfc6fd2d398472eee2fb"
+    },
+    {
+      "id": "20261015-DP-467E70B2-2142",
+      "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T15:30:00+09:00",
+      "publishedAt": "2026-10-15T15:30:00+09:00",
+      "firstCollectedAt": "2026-10-15T16:17:19+09:00",
+      "updatedAt": "2026-10-16T06:15:29+09:00",
+      "summary": "제 2026-16 회 원자력안전위원회 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUZWdHRzd19zWTZmUDRFanN3WXZtd0tUQmhJVVFveGxieG5wRUk2dy1MY0VmNThUNWVYSGdvSHhKMzNMcGlIeEw0XzBMTkVTeHQ4RUJiaE9QdHFZUzE3TmtvaWdFNzQ4dTJ4WGNOaXctQ3Vqb1Fnb1dkTGZtRm4zaXRIcURnOE9VdlJNd0FRa0J3UnY4UmgwZjM5S2FIZkJ3VTVQZEJZczZHTFdMcVJweThhcUJwZ2FpQ1BCTkpYbElNNkp4U2hNS2dibW0xX0plRHV3UUI3a0pmMVhoVVQ5UDM5OEF0M2tvUGNpZVNzTQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlduNUVWbS16SjJRWUp0cjl0TmVMSWhQR0Y4R19OT0hiUzZXTk93ZTc0cVVkN2ZFYnEwRlVUQWJuMk1WMHlkbWMyOGEtOUhtX2Y5cTJabGV4LU1EZ2RzNEtCM0pNSG9Cak82Vm9BYWVscjhzY2NibkgwbmtMRFNid0l2cHU4dTVUSjFPV29OUVZWR1BW?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGIxWVdCck1sc1JvNThyZGljZE9GZlViZlhyTTJXN0h0c0g5VXgzZGZlQmRtSUVlTkJ3Zlp4LWlaMzlSczVUQ2xheU1fTV82RnFhV3ZmZnhIcDh2eU05MlEwRFVtU2xINVRpNHExVTJqZE80MUtaVjBnWUJJRXdzeGRfVHpSUmFfUHc5ZzRFMDRMVy1o?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-15T21:48:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-16T06:15:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "467e70b272e9923eb445a5849152a9e3da8e8bab40f514aebbdec0c6260d4fc6"
+    },
+    {
+      "id": "20261015-DP-8A5ED149-2144",
+      "title": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로! - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T16:00:00+09:00",
+      "publishedAt": "2026-10-15T16:00:00+09:00",
+      "firstCollectedAt": "2026-10-15T16:17:19+09:00",
+      "updatedAt": "2026-10-16T06:15:29+09:00",
+      "summary": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로! - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmI1X2J2b0VMMUVCcVczZWlITmJGNEFzdVhpX1l4bnlad2ZFR2Z4OEtTLVVVRXBVZ1hkV0tVYnRzQlVHTHpoUVhZOWFlN1dQaWhHeVhvaUJfLWNwRnNWSmFGUWlHRnhvWDdzeGQ0SDB6VXdqSWh2TEhMYjZacllMLU9xVzVtU1V4MU42MXFWWjlXQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로! - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV1YwR0JLSUZmYUFUZld5YkZXZmpjbTE5ZzhuOTMxQ1ptZm9NS3drT1lLbW1WaUlmQ2M3dDJCSzkxb01rQ1dmOWZGMzltRlRmNVBvNjdUYkNhdUg2Wjhlb0hTd0t2YmpnT1dxLUloS1BLTm40b3VCZDl1X0RpdldFR004dkQ4Y255TDRjd3Q4LVI4Tl9tQXlsWEZ3c2EwdVJ0YXZ6M01JNTlvNXozbzN3eDVWSW9xUE1yd2ZHdTFndTg0djRjMzk5OWRmNThVOW1WbVhBT21pM2VmSnhxMzNoQWZpVFpySWV3WkFLRFVCYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-16T06:15:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8a5ed14968c0bfae2edc9b12b88681a97bad52ab7ac4c462390004dfd86d9382"
+    },
+    {
+      "id": "20261016-DP-F8A2CD2A-2167",
+      "title": "(보도설명)예비타당성조사는 사업의 경제성뿐만 아니라 정책성, 균형성장효과 등 다양한 가치를 종합적으로 평가하고 있습니다. - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-16T05:15:00+09:00",
+      "publishedAt": "2026-10-16T05:15:00+09:00",
+      "firstCollectedAt": "2026-10-16T06:15:29+09:00",
+      "updatedAt": "2026-10-16T06:15:29+09:00",
+      "summary": "(보도설명)예비타당성조사는 사업의 경제성뿐만 아니라 정책성, 균형성장효과 등 다양한 가치를 종합적으로 평가하고 있습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(보도설명)예비타당성조사는 사업의 경제성뿐만 아니라 정책성, 균형성장효과 등 다양한 가치를 종합적으로 평가하고 있습니다. - 정책브리핑",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CY3o0Y1h5enpwSHpLM2h2S09nODRsa3hJcVdQNjVDaVV5VjdyLWRXaEUzdkhGaDllZVRhSzJya3dmbmpzYldpVVJ0a09sNU1LRkRJMFVFZDAyN09KUGdGM2MxMlRTZm5adVJTejVnVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f8a2cd2a5e7b863e1cce96f29074c2133edaab36ecca180a27d59bd5fb7e1026"
+    },
+    {
+      "id": "20261015-DP-449A7B72-2168",
+      "title": "재개발·재건축 특별현장점검 19일 착수…조합원 피해 예방 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T05:26:33+09:00",
+      "publishedAt": "2026-10-15T05:26:33+09:00",
+      "firstCollectedAt": "2026-10-16T06:15:29+09:00",
+      "updatedAt": "2026-10-16T06:15:29+09:00",
+      "summary": "재개발·재건축 특별현장점검 19일 착수…조합원 피해 예방 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "재개발·재건축 특별현장점검 19일 착수…조합원 피해 예방 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01b0dYQlgwUGtaOHo2Q0ZxNFVENFk3SWs2Ym9odXhYQTUwWGYxNEhnb3ZIS1p2Rzlrd0hDRnF4UUhwcy1CNnBDYVhGaVBwLXZwTzZzdm1lVDFJdUJ0TENacmNYMmlIZ1Zwb21mbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "449a7b722e5ac982cb5e1fbe1f7e06916daf0361bb1281d3e2e343d1e55d5bcc"
+    },
+    {
+      "id": "20261015-DP-97203E7A-2169",
+      "title": "한성숙 총리 \"돌봄은 개인 아닌 사회가 함께 풀어야 할 과제\" - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T23:48:45+09:00",
+      "publishedAt": "2026-10-15T23:48:45+09:00",
+      "firstCollectedAt": "2026-10-16T06:15:29+09:00",
+      "updatedAt": "2026-10-16T06:15:29+09:00",
+      "summary": "한성숙 총리 \"돌봄은 개인 아닌 사회가 함께 풀어야 할 과제\" 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "한성숙 총리 \"돌봄은 개인 아닌 사회가 함께 풀어야 할 과제\" - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EenRaU1QxMkdFa1Y5TjdueU1ieGczYXQwckdiZXNLS2JmeVZvNkZYWGstVXFCbTJ2ZC10eTlOODhRTjZaN1pFYmlWeWhUT1NpOXd4aU4tc3pZZWdwZmxXSWg5SkVGcGhwRXJRXw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "97203e7ab2c9099f7ec5a138d9b22d220e4bd6dff8871e7f9eea2881adacbd2f"
+    },
     {
       "id": "20261014-FR-4F3733C5-2129",
       "title": "한-싱가포르 외교장관 통화(10.14.) 결과 - 정책브리핑",
@@ -248,59 +683,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "361e68bcb6611ec02b8b7019b9239bfe5595b9362054056fb4bd372822370f6f"
-    },
-    {
-      "id": "20261015-DP-467E70B2-2142",
-      "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-15T15:30:00+09:00",
-      "publishedAt": "2026-10-15T15:30:00+09:00",
-      "firstCollectedAt": "2026-10-15T16:17:19+09:00",
-      "updatedAt": "2026-10-15T21:48:12+09:00",
-      "summary": "제 2026-16 회 원자력안전위원회 개최 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUZWdHRzd19zWTZmUDRFanN3WXZtd0tUQmhJVVFveGxieG5wRUk2dy1MY0VmNThUNWVYSGdvSHhKMzNMcGlIeEw0XzBMTkVTeHQ4RUJiaE9QdHFZUzE3TmtvaWdFNzQ4dTJ4WGNOaXctQ3Vqb1Fnb1dkTGZtRm4zaXRIcURnOE9VdlJNd0FRa0J3UnY4UmgwZjM5S2FIZkJ3VTVQZEJZczZHTFdMcVJweThhcUJwZ2FpQ1BCTkpYbElNNkp4U2hNS2dibW0xX0plRHV3UUI3a0pmMVhoVVQ5UDM5OEF0M2tvUGNpZVNzTQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlduNUVWbS16SjJRWUp0cjl0TmVMSWhQR0Y4R19OT0hiUzZXTk93ZTc0cVVkN2ZFYnEwRlVUQWJuMk1WMHlkbWMyOGEtOUhtX2Y5cTJabGV4LU1EZ2RzNEtCM0pNSG9Cak82Vm9BYWVscjhzY2NibkgwbmtMRFNid0l2cHU4dTVUSjFPV29OUVZWR1BW?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-15T21:48:12+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "467e70b272e9923eb445a5849152a9e3da8e8bab40f514aebbdec0c6260d4fc6"
     },
     {
       "id": "20261014-DP-1EBA673D-2112",
@@ -1634,46 +2016,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "757307170bfeee98281010804d537d7e52517b1a0ce8e2e01e949f727302534c"
-    },
-    {
-      "id": "20261015-DP-8A5ED149-2144",
-      "title": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로! - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-15T16:00:00+09:00",
-      "publishedAt": "2026-10-15T16:00:00+09:00",
-      "firstCollectedAt": "2026-10-15T16:17:19+09:00",
-      "updatedAt": "2026-10-15T16:17:19+09:00",
-      "summary": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로!",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "농식품부-군수협의회, 신뢰와 소통을 기반으로 농정 협력 강화키로! - 정책브리핑",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmI1X2J2b0VMMUVCcVczZWlITmJGNEFzdVhpX1l4bnlad2ZFR2Z4OEtTLVVVRXBVZ1hkV0tVYnRzQlVHTHpoUVhZOWFlN1dQaWhHeVhvaUJfLWNwRnNWSmFGUWlHRnhvWDdzeGQ0SDB6VXdqSWh2TEhMYjZacllMLU9xVzVtU1V4MU42MXFWWjlXQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "8a5ed14968c0bfae2edc9b12b88681a97bad52ab7ac4c462390004dfd86d9382"
     },
     {
       "id": "20261015-DP-9612030D-2145",
@@ -3314,46 +3656,6 @@
       "contentHash": "22d302ced87cea0775e9f68e5b822c369a513cacdb4daf78a3a850955d907184"
     },
     {
-      "id": "20261014-DP-3C21949B-2119",
-      "title": "밀가루 부산물 가격담합 사건 심의 절차 개시 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-14T12:00:00+09:00",
-      "publishedAt": "2026-10-14T12:00:00+09:00",
-      "firstCollectedAt": "2026-10-14T20:39:08+09:00",
-      "updatedAt": "2026-10-14T20:39:08+09:00",
-      "summary": "밀가루 부산물 가격담합 사건 심의 절차 개시 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "밀가루 부산물 가격담합 사건 심의 절차 개시 - 정책브리핑",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2Nma1pUZzA5Ykk3WEhQRFRiZ1JYTGpsUVFpMWVlM1V5TTRoSldqME14U3d5WUZhb19FS2s4bHJabTNMMW9oRXBNTlExclpOd01aeWhhNUdyMm81RkhzLVpBN2w3QWZpVFVPYlptUC13c1RlOGkyNXRGdURqbmxFZWZ5V2VhTjhRRE9kM0FmaC1TUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "3c21949b91d6486843b05f7bca221cef647c39c34044525da6ab40977b65fac2"
-    },
-    {
       "id": "20261013-FR-9E0B0878-2092",
       "title": "3개 지역 교복 입찰 담합 제재 - 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -4285,126 +4587,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ef7585f32dcd1d7089ae3fad98c384517ba1cf3c2f1caff013b9c05fede1ee60"
-    },
-    {
-      "id": "20261006-FR-2FDACEDE-1889",
-      "title": "국방부 일일 정례 브리핑 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "국방부",
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-06T19:23:54+09:00",
-      "publishedAt": "2026-10-06T19:23:54+09:00",
-      "firstCollectedAt": "2026-10-07T01:13:29+09:00",
-      "updatedAt": "2026-10-13T18:16:28+09:00",
-      "summary": "국방부 일일 정례 브리핑 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93X2Q4ckk3RURjcXp3NW9FYU93YlBzdEw0c0o3b1AwNmxRWmdYeTl5X2YzOGl0RHE1bXROMlRCYy15dUlCR0FzbFQyQUpTcGg2dnExcGxXX0JBczhoVm1FX0JaWldYYVlwS0FKM3VwcFFHWVJpVVNr?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
-          "date": "2026-10-12",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iVlZKQWZOZlhxd0V0Ym9kSWgyeDJiRGtoVXp5OWhubU52WS0xeUUtcnlhVFBrdGtqN0ZBNExDZGxaQVJ1OTlWaFlrcVlhVG9FTWgwb1B1Z0ctRVhmSnhIVnluSVM0Y1U2U2szUHBCZHNpcTFUaTRZ?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "국방부 일일 정례 브리핑 - 정책브리핑",
-          "date": "2026-10-13",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lbkstelhpdVJXeFdiTGN2b29CeWtNQWxDSWtRNUg3emYwWUNCZEsyOVUwQzRtd2QzXzhlWGd5empucVRFRkpVTE9JV1VOdGFnUzZDMVNwaFd2c04tdHRzc3NtbUpCbUJPazBMZGMwcTBKYlU2UHpJ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-12T18:42:25+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-10-13T18:16:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2fdacede2a0615d94ffdc3b539069b89721c6354b1217ff9e02b37760e9857cb"
-    },
-    {
-      "id": "20261008-FR-D8B7994C-1966",
-      "title": "외교부 대변인 정례브리핑 - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "외교부",
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-08T14:30:00+09:00",
-      "publishedAt": "2026-10-08T14:30:00+09:00",
-      "firstCollectedAt": "2026-10-08T22:55:32+09:00",
-      "updatedAt": "2026-10-13T18:16:28+09:00",
-      "summary": "외교부 대변인 정례브리핑 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 정책브리핑",
-          "date": "2026-10-08",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pUDA4bkxWdHF4X2RWZ2NjaXlkYnpWTWRUenkxQlk5WXhhaF9tYy1zUm5MT3YzYUZjbXZrWVE1QjV5VWpkYTIyTm5BSmFMbGI0bFpUSVhZY3lNVDZ1NWhOMmRPQzZpby02LXpFaUh1eVh0di1CQWY4?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 정책브리핑",
-          "date": "2026-10-13",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyNVdSMjlRd1Q1Z2VuZEllem5USW1fQldQel96M0EwUm9tcjBZT21SRVpYTzItZVh2cFFwTEYxSDdhd2o2TlU5QmREZkcxOVBSS3MxZ2hXM3F1QkFfTmN6S0o3LXI3NTdjVklIUlBmLV9zTERTOWRZ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-13T18:16:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d8b7994c3e35f8159e26ff3e75385c4b52d43feea9bbcfc6fd2d398472eee2fb"
     },
     {
       "id": "20260929-DP-744A3EFB-1683",
