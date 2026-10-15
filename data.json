@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-15T16:17:24+09:00",
-    "nextScheduledUpdate": "2026-10-15T16:47:24+09:00",
+    "lastSuccessfulUpdate": "2026-10-15T21:48:16+09:00",
+    "nextScheduledUpdate": "2026-10-15T22:18:16+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-15T16:17:18+09:00",
-      "finishedAt": "2026-10-15T16:17:24+09:00",
+      "startedAt": "2026-10-15T21:48:11+09:00",
+      "finishedAt": "2026-10-15T21:48:16+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 56,
-      "duplicates": 54,
-      "rejected": 136,
-      "rejectedByDate": 129,
-      "rejectedByRelevance": 5,
-      "rejectedAsCommentary": 2,
-      "newIssues": 8,
+      "acceptedCandidates": 62,
+      "duplicates": 50,
+      "rejected": 132,
+      "rejectedByDate": 125,
+      "rejectedByRelevance": 6,
+      "rejectedAsCommentary": 1,
+      "newIssues": 16,
       "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,754 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261014-DP-361E68BC-2164",
+      "title": "[청와대 비서실장 임명] 이재명 대통령, 신임 비서실장 임광현 임명…강훈식 499일 마무리·민생 성과 이어간다 - 전국뉴스",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "전국뉴스"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-10-14T18:09:05+09:00",
+      "publishedAt": "2026-10-14T18:09:05+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:13+09:00",
+      "updatedAt": "2026-10-15T21:48:13+09:00",
+      "summary": "[청와대 비서실장 임명] 이재명 대통령, 신임 비서실장 임광현 임명…강훈식 499일 마무리·민생 성과 이어간다 전국뉴스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "전국뉴스",
+          "title": "[청와대 비서실장 임명] 이재명 대통령, 신임 비서실장 임광현 임명…강훈식 499일 마무리·민생 성과 이어간다 - 전국뉴스",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHZUtMTUUtQTBCQVdHT0lTZ2VrZEx5N0F3Q3NPVnBTdFI4VTZVLUJkczBxbGludU91WjJFNjBGdm5fRThqMzNjYzZ6dk5EOUZvRWxicHVNQUtvRmJwOXd6bVVyWXB4WEJwRlE4UkI5M3U?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "361e68bcb6611ec02b8b7019b9239bfe5595b9362054056fb4bd372822370f6f"
+    },
+    {
+      "id": "20261015-DP-467E70B2-2142",
+      "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T15:30:00+09:00",
+      "publishedAt": "2026-10-15T15:30:00+09:00",
+      "firstCollectedAt": "2026-10-15T16:17:19+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "제 2026-16 회 원자력안전위원회 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUZWdHRzd19zWTZmUDRFanN3WXZtd0tUQmhJVVFveGxieG5wRUk2dy1MY0VmNThUNWVYSGdvSHhKMzNMcGlIeEw0XzBMTkVTeHQ4RUJiaE9QdHFZUzE3TmtvaWdFNzQ4dTJ4WGNOaXctQ3Vqb1Fnb1dkTGZtRm4zaXRIcURnOE9VdlJNd0FRa0J3UnY4UmgwZjM5S2FIZkJ3VTVQZEJZczZHTFdMcVJweThhcUJwZ2FpQ1BCTkpYbElNNkp4U2hNS2dibW0xX0plRHV3UUI3a0pmMVhoVVQ5UDM5OEF0M2tvUGNpZVNzTQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTlduNUVWbS16SjJRWUp0cjl0TmVMSWhQR0Y4R19OT0hiUzZXTk93ZTc0cVVkN2ZFYnEwRlVUQWJuMk1WMHlkbWMyOGEtOUhtX2Y5cTJabGV4LU1EZ2RzNEtCM0pNSG9Cak82Vm9BYWVscjhzY2NibkgwbmtMRFNid0l2cHU4dTVUSjFPV29OUVZWR1BW?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-15T21:48:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "467e70b272e9923eb445a5849152a9e3da8e8bab40f514aebbdec0c6260d4fc6"
+    },
+    {
+      "id": "20261014-DP-1EBA673D-2112",
+      "title": "'가짜 구급차' 뿌리 뽑는다…민간구급차 운행정보 실시간 확인 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-14T17:30:08+09:00",
+      "publishedAt": "2026-10-14T17:30:08+09:00",
+      "firstCollectedAt": "2026-10-14T20:39:08+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "'가짜 구급차' 뿌리 뽑는다…민간구급차 운행정보 실시간 확인 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "'가짜 구급차' 뿌리 뽑는다…민간구급차 운행정보 실시간 확인 - 정책브리핑",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVdHdVdJNlVGaTBlMjZ1elBuU1lma0VHc2FkTDB5OVo3YS1OTzN0TDBEb29lNkVTdkdMYkktMDlzNWhkMmd4c1BSV0hVQjI2S215NG54MGVKakMzNldweVpxQWc0eUtXX3dJRm1majI0UGVaZXRWSmY4UlZCeDkyRXlydnZLcWNoNVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "'가짜 구급차' 뿌리 뽑는다…민간구급차 운행정보 실시간 확인 - 정책브리핑",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45ek0zQkU3Sm9jNldpVVhiOG1PTzF2LVN6YUJtNFhmSUVaWHZNUHEwWEdTMWhidTRlWjVBR1RrcEpIemxxNFZiWkU3UTlmZUxtcTJCNHEzNEhHR0JTX2xabGo4djVCekc0REFvbg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-15T21:48:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1eba673d890acf7ee672cff7afe92282b4a89619d9d43499ff4f7cca0ed3f103"
+    },
+    {
+      "id": "20261015-DP-174539EA-2149",
+      "title": "공영방송 이사 임명제청·임명 및 EBS 감사 임명 의결 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T16:21:00+09:00",
+      "publishedAt": "2026-10-15T16:21:00+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "공영방송 이사 임명제청·임명 및 EBS 감사 임명 의결 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "공영방송 이사 임명제청·임명 및 EBS 감사 임명 의결 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmd4NUpyeml0M0JQSzIweDFINloxWnk5NlJvYzJNb3IwWlcteFVJVTctT2tGVG5wQXFRQ1VmQkNfdEFMeVc0b0tzajBENGdTOVp0U3V4MkRKSENQLWx1U0FQUUw3TndxTTFsS1ZyQkNLVWt4aDdGZzlMZmhmUVdRdFZEblhNLXQyTFJVTERPRkFJZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "174539ead38ac4647c1c39f038c1363ce0ccf54a9ed8089a17a901b6e912c5c3"
+    },
+    {
+      "id": "20261015-DP-75DD62EE-2150",
+      "title": "특허심판원-대한변리사회, 지식재산심판제도 발전 위해 머리 맞댄다 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T10:19:33+09:00",
+      "publishedAt": "2026-10-15T10:19:33+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "특허심판원-대한변리사회, 지식재산심판제도 발전 위해 머리 맞댄다 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "특허심판원-대한변리사회, 지식재산심판제도 발전 위해 머리 맞댄다 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcGpnQ3dKWXRaTFJiOUc5YW14aXVuXzB2RnZWXzdMYlk3MEhWNU1lSmlmR3FkUHdDUWFwYlRHZTQ1ZGVtZllSN21mVHZxYnRGMGYzSG45NVhfMWY2MUpfQ1BZcWhxYURoUjRhbHY1MTNJcTlNVWdQdllpOHBtblJQQkZKSmJTQzBQbGR1WjIwcUNVdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "75dd62eec578d4fa4bc549c33b16c0c17cf8e7ca5e1664fe49e05fd068a0bad7"
+    },
+    {
+      "id": "20261015-DP-48B80113-2151",
+      "title": "[보도자료] 경사노위,「청년일자리 희망 위원회」3차 라운드 테이블 개최 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T16:03:00+09:00",
+      "publishedAt": "2026-10-15T16:03:00+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "[보도자료] 경사노위,「청년일자리 희망 위원회」3차 라운드 테이블 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도자료] 경사노위,「청년일자리 희망 위원회」3차 라운드 테이블 개최 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORWROcno2YXJxZ2hXVlNydWJMenpXdklyNDRWUDFaWGZiWTA0VW1WNDluUWpxNmFKdFBxU2hsWlBtQ2QtdnVZVHdaV3Q2XzlySHJiSi1nM0FBbmZYTnUzZjB1U3B4MU5sRTI1Uko3azdDaW9ZWUd2bHZIWHZ3OTVjTm5hNXdwenQwOXNYU2pmV0pKUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "48b8011371ecee3dac300424b2b3a1f14e462c85d869bb89efc84b15f54fac13"
+    },
+    {
+      "id": "20261015-DP-8DCE92B4-2152",
+      "title": "[보도설명자료][10.15.목 중앙일보] 40대 복지 사각지대 5년새 32% 급증...사망원인 1위가 자살 관련 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T17:26:15+09:00",
+      "publishedAt": "2026-10-15T17:26:15+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "[보도설명자료][10.15.목 중앙일보] 40대 복지 사각지대 5년새 32% 급증...사망원인 1위가 자살 관련 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도설명자료][10.15.목 중앙일보] 40대 복지 사각지대 5년새 32% 급증...사망원인 1위가 자살 관련 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyVjk4alR0aHdScnhVSFd0ZUtTWlB3eE1TcEtpa1NENDZQcEdHcW45b1RrbHZZZ2l2N05QWTdxZW5hZTluLWFfSDFaVUFDX3FrbkV5N2N3TDU2MnFKQS0xOHNCSnU4VkFid1kwLTZROA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8dce92b40de6f7d2007824935b88924b99b6e0948770f014ed76ab965dc17160"
+    },
+    {
+      "id": "20261015-DP-EA088F66-2153",
+      "title": "7일 쏴 올린 초소형군집위성, 발사 14시간 만에 첫 영상 전송 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T17:24:06+09:00",
+      "publishedAt": "2026-10-15T17:24:06+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "7일 쏴 올린 초소형군집위성, 발사 14시간 만에 첫 영상 전송 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "7일 쏴 올린 초소형군집위성, 발사 14시간 만에 첫 영상 전송 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41SWVuRWE5QkZzajdjYjctbXRMQkVtdlU0QXBwa20zMGhsY1hwc2FTckpFTllSUjhmbFVXRGlSRVpPaXJmZUFEYU1talZocGFuWTR0bTVObzJZUElpbTJYbWtvdUM1WlZxcjlxRA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ea088f6606c50e750d0cd182d6dafc496354f9e4d182d39b09ea093709e17b57"
+    },
+    {
+      "id": "20261015-DP-EE895D45-2154",
+      "title": "이형일 부총리, 日 가타야마 재무장관 면담에서 한일 통화스왑 연장에 합의 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [
+        "일본"
+      ],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T17:14:57+09:00",
+      "publishedAt": "2026-10-15T17:14:57+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "이형일 부총리, 日 가타야마 재무장관 면담에서 한일 통화스왑 연장에 합의 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "이형일 부총리, 日 가타야마 재무장관 면담에서 한일 통화스왑 연장에 합의 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUVhTUVZ6V2Q1aWdUVTJZdkoyRENyUG5MWjhsQXh0aDZPRnBmdlhLSndGLW9pYS1ndFJJbkVJNVVyVEc2dmZ0S0hSZWlqTEN4TnlwMUxpbmZDY0Jsb0UxYjNxVExySkk5WWlhRTQ0eTM4MHg1RTZCendqLWxKNXVrYWlOdUdQaWNJcHd3OHQ5MVhXZlE4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ee895d459ce4528c58051bb6ca8fbe0c995e77e28c098daeb830fc5ab26770f0"
+    },
+    {
+      "id": "20261015-FR-4FF9B5E6-2155",
+      "title": "사회서비스 전자바우처 부정수급 막는다…결제 위치정보 확인 등 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T16:34:46+09:00",
+      "publishedAt": "2026-10-15T16:34:46+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "사회서비스 전자바우처 부정수급 막는다…결제 위치정보 확인 등 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "사회서비스 전자바우처 부정수급 막는다…결제 위치정보 확인 등 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15SmEzUjRFaEdNUlRmUXlWZDdCbWZLUXg4S1c1MzdlMXJkVklVUlhBbU4wbXNCNUtzcEF5SXJZZ3RoczBpVzM3ZmsxbkFFSXdpWU9Mc2dfVHhOY0pfWjZ0dVYwQkJlNlU2MzAxdQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4ff9b5e608677b6c00ed512ad3b558d4f2d4693b2b6b9c819caa885c132e925b"
+    },
+    {
+      "id": "20261015-FR-34A50B2F-2156",
+      "title": "마포의 역사로 빚어낸 '맛'…조선 물류 중심지 양화나루에서 즐긴 풍류 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T18:21:37+09:00",
+      "publishedAt": "2026-10-15T18:21:37+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "마포의 역사로 빚어낸 '맛'…조선 물류 중심지 양화나루에서 즐긴 풍류 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "마포의 역사로 빚어낸 '맛'…조선 물류 중심지 양화나루에서 즐긴 풍류 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tUHhJSWZhOEo4RndQX3JKTFNfOFRQbHpfMzlTQWM5RlNuNVI5VzNtZ2hVUDVERl9WZFZWMlhpbEE2NW5wTGxSZXYwTXJoSS1CbGlTckR5ak9jdlFJMkhiQkw4QnpaYldVcEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "34a50b2fdadf27fd9cdf313d85d57183d51466542e5c955dd8c0b1b776ebad8f"
+    },
+    {
+      "id": "20261015-FR-4A5FE470-2157",
+      "title": "[보도자료] 생명지킴추진본부, 천명지킴 워크숍 개최 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T17:04:20+09:00",
+      "publishedAt": "2026-10-15T17:04:20+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "[보도자료] 생명지킴추진본부, 천명지킴 워크숍 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도자료] 생명지킴추진본부, 천명지킴 워크숍 개최 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPS2hCa3VXMTNBZEJKM2FSeThzV05ScTdrdVZNVjV6ald6ZDNtbFRTZVJXTU1ZSnU5MFZDV0U1SlAxSVQ1eU1yWFZlWU9qZVE2NkxIWE1scHJjeHUyTVc1dmV5RW5lS3hBTHN4N1pidWFFYlRRM05DaUgtN1JuVTJkNE9FUzZ0cUt4dHFSQ3JOVU41N3lxRkJMZG5UT1VacjY2RHdVb1BEZHl0b3dhOEVCbFhOaWFwR0ZlV0h3UlkwMm5CNEgzd1VnN0llc0xPUTZpMC1hNVRoSHhlNmpLZ3lNNXBPRndBekRJNHVTOE9kSQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4a5fe470ad786bbe17d162a481d06a746d894e83a24bf7d6cefa3e7a43c6c23c"
+    },
+    {
+      "id": "20261015-FR-8400CE72-2158",
+      "title": "아플 때 대체인력 지원을 받을 수 있다고? - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T17:20:13+09:00",
+      "publishedAt": "2026-10-15T17:20:13+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "아플 때 대체인력 지원을 받을 수 있다고? - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "아플 때 대체인력 지원을 받을 수 있다고? - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTmdtdXdJSklwbTl4RDV2anNBYXhUeFNoUVJRYnp1YUJwSkUtdzIzbXZoT0NQNUY1dTB3X1RQNHF0M3dsNHAwb19TMG8zVEl4NHpDSkV1SkVZV0V1TmZ4aTlXVEFLeE1fVFBKNzZJaG5XbXd4SE1QSVNnSnZ3NExncmpPNkpJeWdNaFRsWg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8400ce720cd15b6788214bbda014420f5c983fe405448af64f9c4d825b68eb6f"
+    },
+    {
+      "id": "20261015-DP-89C7F5B9-2159",
+      "title": "합천 해인사의 세계유산, 함벽루 K-단청 스웨그로 눈부셨던 가을여행 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T18:25:40+09:00",
+      "publishedAt": "2026-10-15T18:25:40+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "합천 해인사의 세계유산, 함벽루 K-단청 스웨그로 눈부셨던 가을여행 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "합천 해인사의 세계유산, 함벽루 K-단청 스웨그로 눈부셨던 가을여행 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPemVWb2dST1NmbHlSRmNSRHdwOXQwakpZeW1qNXpRdUVTX0tTODR5eGZhSmtFaDZaLTdhNk5uLVlucHpjZDN4ZmYyaGNxR3RUWXZyeWNqUnprNDZGNU1ZU1pROUVMQVdOTklraDgxUGhZY0V0NndQR2NKRjRhZWpZakwtbGgtSXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "89c7f5b955b4d2db9615a5d6bbf70b1a5ae4186529c60c5f4cc0b8b2a5f4fd69"
+    },
+    {
+      "id": "20261015-FR-6FF5D02D-2160",
+      "title": "선선한 가을 날씨 속 궁의 매력에 푸욱 빠져요 '2026 가을 궁중문화축전' - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T13:27:01+09:00",
+      "publishedAt": "2026-10-15T13:27:01+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "선선한 가을 날씨 속 궁의 매력에 푸욱 빠져요 '2026 가을 궁중문화축전' 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "선선한 가을 날씨 속 궁의 매력에 푸욱 빠져요 '2026 가을 궁중문화축전' - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DM0VWNzBKdUc1eXNfOTRzNFg3cHNDdnlMRVVQLXdtQjhHcFZqak1BOGFGTlZQT1ZkQkpQZzVyd29WY2VlLUVjcDZ1cjJteEZfS1dJeU5yVUpzenAyYWM1NkpHeTFMSlNwd3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6ff5d02dc3a7727018b7be566674b06bc685fcd2c677eba5ac73fb61456d4b36"
+    },
+    {
+      "id": "20261013-DP-FA7A35AF-2161",
+      "title": "이 대통령 \"북극항로 시대 대비, 부산·동남권 미래 함께 열어가겠다\" - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-13T20:40:06+09:00",
+      "publishedAt": "2026-10-13T20:40:06+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "이 대통령 \"북극항로 시대 대비, 부산·동남권 미래 함께 열어가겠다\" 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "이 대통령 \"북극항로 시대 대비, 부산·동남권 미래 함께 열어가겠다\" - 정책브리핑",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81Q1ZoM2JvZTlBNWE0akI2UlpodWZtWlZyaGV1eEtHLWllWjBtRkcwdDhhMmhycWF4bl9CbE1lVzczZzhWbU9RZHdydlo2QlA0WGd5ei1KWU5pU0ZBbHliY1pGQ1gxVVRMZzR4SA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fa7a35af4956b8a7236274f635fcecb2ced05b47b642ebc3a55b833a2334bc41"
+    },
+    {
+      "id": "20261015-FR-8F0C21DA-2162",
+      "title": "나만 기다리던 동생이 달라졌다! - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T10:12:36+09:00",
+      "publishedAt": "2026-10-15T10:12:36+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "나만 기다리던 동생이 달라졌다! - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "나만 기다리던 동생이 달라졌다! - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzTlhIWnJFSXdoSkZIT2UwUzJfMWc0ZXNkc0ZfemZsVDl2LVE1WkhXcXlWUERIUGlVYW1jTXpudjNtekpaSDJnaVBSODcyWVU4WEFzME1qdEdPaHFCTG9scHJqaGNOcEstZThqVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8f0c21da80830caf0eadb0dcb46e710cd42190ee2389dcb2e77dbaed439427c7"
+    },
+    {
+      "id": "20261015-FR-43D7E876-2163",
+      "title": "500% 수익 보장? 500% 사기입니다! - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T17:34:49+09:00",
+      "publishedAt": "2026-10-15T17:34:49+09:00",
+      "firstCollectedAt": "2026-10-15T21:48:12+09:00",
+      "updatedAt": "2026-10-15T21:48:12+09:00",
+      "summary": "- 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "500% 수익 보장? 500% 사기입니다! - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DRkQyb2RZbnowb0hXV21TMDY1RkVfdldxbklVSWxnMDhTdjd3U2JpU3prc2dxSHJWblJlS3RSakRwTFZrV0pfaGRPcUxxX19kNUw4d3pGN3JfYWNBS0dQVXZuNEtwYU5tN3ZmNQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "43d7e8764a3465f5863d9f9c86fef90cdb63f00a14dc9db78f9cce27bb894e23"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -701,46 +1449,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "92fde999a670f3af5e42ddfc364fa4754518db1243788a7dfa4d0d750a1371bd"
-    },
-    {
-      "id": "20261015-DP-467E70B2-2142",
-      "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-15T15:30:00+09:00",
-      "publishedAt": "2026-10-15T15:30:00+09:00",
-      "firstCollectedAt": "2026-10-15T16:17:19+09:00",
-      "updatedAt": "2026-10-15T16:17:19+09:00",
-      "summary": "제 2026-16 회 원자력안전위원회 개최 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "제 2026-16 회 원자력안전위원회 개최 - 정책브리핑",
-          "date": "2026-10-15",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaUZWdHRzd19zWTZmUDRFanN3WXZtd0tUQmhJVVFveGxieG5wRUk2dy1MY0VmNThUNWVYSGdvSHhKMzNMcGlIeEw0XzBMTkVTeHQ4RUJiaE9QdHFZUzE3TmtvaWdFNzQ4dTJ4WGNOaXctQ3Vqb1Fnb1dkTGZtRm4zaXRIcURnOE9VdlJNd0FRa0J3UnY4UmgwZjM5S2FIZkJ3VTVQZEJZczZHTFdMcVJweThhcUJwZ2FpQ1BCTkpYbElNNkp4U2hNS2dibW0xX0plRHV3UUI3a0pmMVhoVVQ5UDM5OEF0M2tvUGNpZVNzTQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "467e70b272e9923eb445a5849152a9e3da8e8bab40f514aebbdec0c6260d4fc6"
     },
     {
       "id": "20261015-DP-75730717-2143",
@@ -2312,46 +3020,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "d1a016fcdc5e33969aa4d4f953cca580ac3adaa8cbfe118672e886fb8cceec17"
-    },
-    {
-      "id": "20261014-DP-1EBA673D-2112",
-      "title": "'가짜 구급차' 뿌리 뽑는다…민간구급차 운행정보 실시간 확인 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-14T17:30:08+09:00",
-      "publishedAt": "2026-10-14T17:30:08+09:00",
-      "firstCollectedAt": "2026-10-14T20:39:08+09:00",
-      "updatedAt": "2026-10-14T20:39:08+09:00",
-      "summary": "'가짜 구급차' 뿌리 뽑는다…민간구급차 운행정보 실시간 확인 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "'가짜 구급차' 뿌리 뽑는다…민간구급차 운행정보 실시간 확인 - 정책브리핑",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVdHdVdJNlVGaTBlMjZ1elBuU1lma0VHc2FkTDB5OVo3YS1OTzN0TDBEb29lNkVTdkdMYkktMDlzNWhkMmd4c1BSV0hVQjI2S215NG54MGVKakMzNldweVpxQWc0eUtXX3dJRm1majI0UGVaZXRWSmY4UlZCeDkyRXlydnZLcWNoNVE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1eba673d890acf7ee672cff7afe92282b4a89619d9d43499ff4f7cca0ed3f103"
     },
     {
       "id": "20261014-DP-5C476FD8-2113",
