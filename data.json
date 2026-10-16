@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-16T23:09:41+09:00",
-    "nextScheduledUpdate": "2026-10-16T23:39:41+09:00",
+    "lastSuccessfulUpdate": "2026-10-17T03:17:06+09:00",
+    "nextScheduledUpdate": "2026-10-17T03:47:06+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-16T23:09:35+09:00",
-      "finishedAt": "2026-10-16T23:09:41+09:00",
+      "startedAt": "2026-10-17T03:17:03+09:00",
+      "finishedAt": "2026-10-17T03:17:06+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 47,
-      "duplicates": 39,
-      "rejected": 151,
-      "rejectedByDate": 149,
+      "acceptedCandidates": 44,
+      "duplicates": 46,
+      "rejected": 152,
+      "rejectedByDate": 150,
       "rejectedByRelevance": 1,
       "rejectedAsCommentary": 1,
-      "newIssues": 9,
+      "newIssues": 1,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -65,6 +65,99 @@
   },
   "issues": [
     {
+      "id": "20261016-FR-3EDECED7-2196",
+      "title": "브라질산 계란 수입은 국민 물가 부담을 완화하기 위한 계란 수입선 다변화 조치로 추진되었습니다. - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-16T19:37:26+09:00",
+      "publishedAt": "2026-10-16T19:37:26+09:00",
+      "firstCollectedAt": "2026-10-16T23:09:37+09:00",
+      "updatedAt": "2026-10-17T03:17:04+09:00",
+      "summary": "브라질산 계란 수입은 국민 물가 부담을 완화하기 위한 계란 수입선 다변화 조치로 추진되었습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "브라질산 계란 수입은 국민 물가 부담을 완화하기 위한 계란 수입선 다변화 조치로 추진되었습니다. - 정책브리핑",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWdUVXl2M0lXNWJNcTVlUE5xSEVhUUIySnptSERPQmRvSHhZN3pzb3BJY2ZOLVpjVjZiWFBteUZLNmtFVTZsWTdteXEtRy1tY0NQLVdaelVIc0ZYdnFybDRiZU44VU1tck1iT0tRWVJpS0tjTGQwbGNDQko0YXlJZjdPakE4cExV?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "브라질산 계란 수입은 국민 물가 부담을 완화하기 위한 계란 수입선 다변화 조치로 추진되었습니다. - 대한민국 정책브리핑",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1Z0hOY2pMRXVuUXpRMWYwenl6TGFCeGk5SzNlR2FzNU9UdmNfeDA3aUdISmUxa0JfRGE3cGYwYjZGcTdLbEFBLWJ3VEpORGVaLTdnMTN0emJxSzJZVE1UUW9aVWc4TjItRWdqUk9xTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-17T03:17:04+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3edeced75a8d959ea30f49e85f15c43c929ccf5f52bf67ea6ed120b41e0181c0"
+    },
+    {
+      "id": "20261014-FR-51DBA683-2199",
+      "title": "(보도설명) '26년 11~12월 국채발행 추가 축소 여부 및 규모는 정해지지 않았습니다. - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-14T18:51:56+09:00",
+      "publishedAt": "2026-10-14T18:51:56+09:00",
+      "firstCollectedAt": "2026-10-17T03:17:04+09:00",
+      "updatedAt": "2026-10-17T03:17:04+09:00",
+      "summary": "(보도설명) '26년 11~12월 국채발행 추가 축소 여부 및 규모는 정해지지 않았습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "(보도설명) '26년 11~12월 국채발행 추가 축소 여부 및 규모는 정해지지 않았습니다. - 정책브리핑",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sak9mZWxwWDNuQnJmRjdIY3hpVXdvTE5UcDQ1Y3BUUS14aloxUFVhdXZBanNFQ2tEbDBBdGlVaVZTMUZfenpBMy1SMjBBbEl3Z0hXZ0lGY0NtMF9Jd1RCU3o4ZEdwaWhqbkFVRVU4Yw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "51dba6832839e640040586c390e89cf9a0e7009c96a843ccf8ca514488cf9d5b"
+    },
+    {
       "id": "20261016-FR-3F758A47-2195",
       "title": "중앙 북극해 공해상 비규제 어업 방지 협정(CAOFA) 당사국총회 참석 - 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -103,46 +196,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3f758a4708a11ce570e411869fb19e98437d427f5d7c84cde0279e7c87459a5e"
-    },
-    {
-      "id": "20261016-FR-3EDECED7-2196",
-      "title": "브라질산 계란 수입은 국민 물가 부담을 완화하기 위한 계란 수입선 다변화 조치로 추진되었습니다. - 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-16T19:37:26+09:00",
-      "publishedAt": "2026-10-16T19:37:26+09:00",
-      "firstCollectedAt": "2026-10-16T23:09:37+09:00",
-      "updatedAt": "2026-10-16T23:09:37+09:00",
-      "summary": "브라질산 계란 수입은 국민 물가 부담을 완화하기 위한 계란 수입선 다변화 조치로 추진되었습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "브라질산 계란 수입은 국민 물가 부담을 완화하기 위한 계란 수입선 다변화 조치로 추진되었습니다. - 정책브리핑",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWdUVXl2M0lXNWJNcTVlUE5xSEVhUUIySnptSERPQmRvSHhZN3pzb3BJY2ZOLVpjVjZiWFBteUZLNmtFVTZsWTdteXEtRy1tY0NQLVdaelVIc0ZYdnFybDRiZU44VU1tck1iT0tRWVJpS0tjTGQwbGNDQko0YXlJZjdPakE4cExV?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "3edeced75a8d959ea30f49e85f15c43c929ccf5f52bf67ea6ed120b41e0181c0"
     },
     {
       "id": "20261015-FR-7B0ABC45-2197",
