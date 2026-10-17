@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-17T17:44:53+09:00",
-    "nextScheduledUpdate": "2026-10-17T18:14:53+09:00",
+    "lastSuccessfulUpdate": "2026-10-17T21:53:19+09:00",
+    "nextScheduledUpdate": "2026-10-17T22:23:19+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-17T17:44:50+09:00",
-      "finishedAt": "2026-10-17T17:44:53+09:00",
+      "startedAt": "2026-10-17T21:53:16+09:00",
+      "finishedAt": "2026-10-17T21:53:19+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 35,
-      "duplicates": 36,
-      "rejected": 161,
-      "rejectedByDate": 159,
+      "acceptedCandidates": 37,
+      "duplicates": 38,
+      "rejected": 159,
+      "rejectedByDate": 157,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 2,
-      "newIssues": 2,
-      "updatedIssues": 1,
+      "newIssues": 3,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,126 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261017-FR-61F1060B-2208",
+      "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-17T17:44:44+09:00",
+      "publishedAt": "2026-10-17T17:44:44+09:00",
+      "firstCollectedAt": "2026-10-17T21:53:17+09:00",
+      "updatedAt": "2026-10-17T21:53:17+09:00",
+      "summary": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 대한민국 정책브리핑",
+          "date": "2026-10-17",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPNzRfbkR2eXZST2U4RVdOWlVuTDJ3VU00NElNZENpem15YnFlMmVNbE04dnIyakhJNGFsQnJHc1FDcTVyOFAyOE1YYTFYTFVCNFlUal9XcUgxZUl1YXNXWlA4Vzg5WDVKMzJnS0xadw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "61f1060b9fb9df53749f48fa4dafa60cb694e517e17c1b8884ec97479cd779e4"
+    },
+    {
+      "id": "20261016-FR-57EBFBC7-2209",
+      "title": "포도 수출 1억 달러 시대 연다…생산·물류·마케팅 전방위 지원 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-16T16:43:26+09:00",
+      "publishedAt": "2026-10-16T16:43:26+09:00",
+      "firstCollectedAt": "2026-10-17T21:53:17+09:00",
+      "updatedAt": "2026-10-17T21:53:17+09:00",
+      "summary": "포도 수출 1억 달러 시대 연다…생산·물류·마케팅 전방위 지원 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "포도 수출 1억 달러 시대 연다…생산·물류·마케팅 전방위 지원 - 정책브리핑",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40NW9URGNFaEl0dXZfNU1KZlo0MmN5N2I1YVY0Y1ZjdkdQTzQ2Y05TanJhSXdrTlA1Skl0cEJTcUU3c3VRcjZWbndlVUg4OEN5OXlVOUNWYzYyY0luMVNBNVdhQTlXMmRJT0dXeA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "57ebfbc7411a1f80839281c35593ae0b016261de209dde7be2d3fcbbde3ff7cd"
+    },
+    {
+      "id": "20261016-DP-6042098F-2207",
+      "title": "생애 말 의료현장 어려움 덜고 환자 권리 높인다 연명의료결정제도 개선 방향 논의 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-16T16:52:24+09:00",
+      "publishedAt": "2026-10-16T16:52:24+09:00",
+      "firstCollectedAt": "2026-10-17T21:53:16+09:00",
+      "updatedAt": "2026-10-17T21:53:16+09:00",
+      "summary": "생애 말 의료현장 어려움 덜고 환자 권리 높인다 연명의료결정제도 개선 방향 논의 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "생애 말 의료현장 어려움 덜고 환자 권리 높인다 연명의료결정제도 개선 방향 논의 - 정책브리핑",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQjBoMmVheHl5QXliVUg5NlBsOGVTZHB3a3JFMjgwUTVEeVUwazQ0WEdfYnR4TEZEYzhPWnFoU2Z3Wm50M2tUb2ZkeXpaT3UtWFF5MGhocjhCeUtrTlpCREx0ZlNUa2xoM3RSNGZUWmtlZFJyend0bWs0emxSNDhrMWMxdTQtYjFGZGt1NEMxazgxY1ZSR2lKekxrQXdybS1XT0oyQ0UzYlo2dGk0LU9jdy1tbWd0Z1NMUWlqUGlSS1JmZmFzMm9VX2xlTVFlaVF3OXFBNTlVN0hfVjFHcF9aUTRzV2xGVnk2bHZCVmhFNA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6042098fe36cedaee6f81493a98daff4e8802ea54248916e9984f3c3ca1bd084"
+    },
     {
       "id": "20261015-DP-75730717-2143",
       "title": "편의점 김밥 12종 품질 비교 정보 제공 - 정책브리핑",
