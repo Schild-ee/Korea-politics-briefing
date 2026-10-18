@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-18T08:20:11+09:00",
-    "nextScheduledUpdate": "2026-10-18T08:50:11+09:00",
+    "lastSuccessfulUpdate": "2026-10-18T10:27:07+09:00",
+    "nextScheduledUpdate": "2026-10-18T10:57:07+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-18T08:20:08+09:00",
-      "finishedAt": "2026-10-18T08:20:11+09:00",
+      "startedAt": "2026-10-18T10:27:04+09:00",
+      "finishedAt": "2026-10-18T10:27:07+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 38,
-      "duplicates": 39,
-      "rejected": 159,
+      "acceptedCandidates": 36,
+      "duplicates": 38,
+      "rejected": 161,
       "rejectedByDate": 159,
       "rejectedByRelevance": 0,
-      "rejectedAsCommentary": 0,
-      "newIssues": 0,
-      "updatedIssues": 2,
+      "rejectedAsCommentary": 2,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261015-FR-CEF64A8E-2213",
+      "title": "불법 가상자산 취급업자 인터넷 사이트 국내 접속 차단 - 카드/한컷 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-15T13:13:52+09:00",
+      "publishedAt": "2026-10-15T13:13:52+09:00",
+      "firstCollectedAt": "2026-10-18T10:27:05+09:00",
+      "updatedAt": "2026-10-18T10:27:05+09:00",
+      "summary": "불법 가상자산 취급업자 인터넷 사이트 국내 접속 차단 - 카드/한컷 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "불법 가상자산 취급업자 인터넷 사이트 국내 접속 차단 - 카드/한컷 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-15",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52dlVxdTBWMklmQnhsc25VcHVkZGtKdE8zUUlvYmFWWW1VZ2RUeWs4aUVOV2dDclVndkl1bGtBNmxldUlLbEtSYWNPbHVHU3c1UlJCY3J1SmUtdTN3eTFZVkVyYjJGSEZYVXJ6V3ZR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cef64a8e3b075371fa8595616f2957ac6d3b8deb15974a733bcfbf2b2fa92f10"
+    },
     {
       "id": "20261015-DP-48B80113-2151",
       "title": "[보도자료] 경사노위,「청년일자리 희망 위원회」3차 라운드 테이블 개최 - 정책브리핑",
