@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-18T10:27:07+09:00",
-    "nextScheduledUpdate": "2026-10-18T10:57:07+09:00",
+    "lastSuccessfulUpdate": "2026-10-18T15:30:21+09:00",
+    "nextScheduledUpdate": "2026-10-18T16:00:21+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-18T10:27:04+09:00",
-      "finishedAt": "2026-10-18T10:27:07+09:00",
+      "startedAt": "2026-10-18T15:30:18+09:00",
+      "finishedAt": "2026-10-18T15:30:21+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 36,
-      "duplicates": 38,
-      "rejected": 161,
-      "rejectedByDate": 159,
+      "acceptedCandidates": 28,
+      "duplicates": 26,
+      "rejected": 170,
+      "rejectedByDate": 170,
       "rejectedByRelevance": 0,
-      "rejectedAsCommentary": 2,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "rejectedAsCommentary": 0,
+      "newIssues": 3,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,179 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261017-FR-61F1060B-2208",
+      "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-17T17:44:44+09:00",
+      "publishedAt": "2026-10-17T17:44:44+09:00",
+      "firstCollectedAt": "2026-10-17T21:53:17+09:00",
+      "updatedAt": "2026-10-18T15:30:19+09:00",
+      "summary": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 대한민국 정책브리핑",
+          "date": "2026-10-17",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPNzRfbkR2eXZST2U4RVdOWlVuTDJ3VU00NElNZENpem15YnFlMmVNbE04dnIyakhJNGFsQnJHc1FDcTVyOFAyOE1YYTFYTFVCNFlUal9XcUgxZUl1YXNXWlA4Vzg5WDVKMzJnS0xadw?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 정책브리핑",
+          "date": "2026-10-17",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pUnp4bEw0LUk3VXEyUC1fcFJsUDNaMktkN2ZOcXQ0WEowR2J3QTlmSTQyT3pUTktoWFZVQWdrRXVrazN2MVB1UmdURFc0U29YMXBGSWtWejJFZ3hYdUpiWWk4RnZHbjg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-18T15:30:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "61f1060b9fb9df53749f48fa4dafa60cb694e517e17c1b8884ec97479cd779e4"
+    },
+    {
+      "id": "20261018-DP-E278A2E8-2214",
+      "title": "비대면진료 실시·처방기준 구체화하여 입법예고 6개월 내 같은 증상은 같은 의료기관에서 비대면진료 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-18T12:05:00+09:00",
+      "publishedAt": "2026-10-18T12:05:00+09:00",
+      "firstCollectedAt": "2026-10-18T15:30:19+09:00",
+      "updatedAt": "2026-10-18T15:30:19+09:00",
+      "summary": "비대면진료 실시·처방기준 구체화하여 입법예고 6개월 내 같은 증상은 같은 의료기관에서 비대면진료 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "비대면진료 실시·처방기준 구체화하여 입법예고 6개월 내 같은 증상은 같은 의료기관에서 비대면진료 - 대한민국 정책브리핑",
+          "date": "2026-10-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVm5aUnV4UVN3SG1HaU9ycDdjb2ZNLUZpWk54TzZDcDFnbjE3V1M0RUxTXzJtcVlBSklSWmNhbmRoWVZRUHJZakVHbjR4aG5tUDM0RDR5QlpNeml0ZU1IRGhFZnNNY0xySDB6UlI0UnV3aS0ybTB4b0pnT1dLSWgtZnlZejZCUmhSNWZPRHhoUGM1Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e278a2e83e12e39245fcde924d5ba05192d63dc458afc1e2c8b7272df1325852"
+    },
+    {
+      "id": "20261016-DP-91883319-2215",
+      "title": "고용동향의 청년층 연령 기준은 변경된 것이 아닙니다. - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-16T21:44:17+09:00",
+      "publishedAt": "2026-10-16T21:44:17+09:00",
+      "firstCollectedAt": "2026-10-18T15:30:19+09:00",
+      "updatedAt": "2026-10-18T15:30:19+09:00",
+      "summary": "고용동향의 청년층 연령 기준은 변경된 것이 아닙니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "고용동향의 청년층 연령 기준은 변경된 것이 아닙니다. - 정책브리핑",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MSmk3QlM4SFlWYXpCU2dHWHBfN1BFcFNQbDlacVZfY3ZjOWxNZmdPMjlmcm1weHhDRUt3b3J0dkpoNTBuU25HNENvUy00aEFZNXBaRG9HZnRDNmdFdkpSMTBXQ3NWandGdUtrZ1RVTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "918833191f18fe75cf7d6186c012d7cd0d944ed7d333272b74ef06dc48bd41ae"
+    },
+    {
+      "id": "20261018-FR-95D121C6-2216",
+      "title": "[참고] 강남 3구 중심 서울 집값 상승률 둔화, 공급 확대 등 시장안정 기반 강화에 총력 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-18T14:55:00+09:00",
+      "publishedAt": "2026-10-18T14:55:00+09:00",
+      "firstCollectedAt": "2026-10-18T15:30:19+09:00",
+      "updatedAt": "2026-10-18T15:30:19+09:00",
+      "summary": "[참고] 강남 3구 중심 서울 집값 상승률 둔화, 공급 확대 등 시장안정 기반 강화에 총력 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[참고] 강남 3구 중심 서울 집값 상승률 둔화, 공급 확대 등 시장안정 기반 강화에 총력 - 대한민국 정책브리핑",
+          "date": "2026-10-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXdaOWJqalEyMjF3SDV6WVB6MjQwTWF4UHd6RDFHd0NuOGF3SWY0eG1lbFJEZm96WDRYcV9rOUwzdUp3NWlKM05CYjdRZDlFSnQxN1NQUlVpOWxXSTEwbXR6T3M3cUtvMHR6TEpfelBSdnI0c2NoUDk4UXcyMUpGUkVHNjZIZHhFUV8xR0FzbzNmdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "95d121c6d9e61ed38774f3f63d2550aa0a3b4f825904cf5e631c3499d874b88c"
+    },
     {
       "id": "20261015-FR-CEF64A8E-2213",
       "title": "불법 가상자산 취급업자 인터넷 사이트 국내 접속 차단 - 카드/한컷 | 멀티미디어 - 정책브리핑",
@@ -447,46 +620,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "fe8e67ab178c3da1fa7336299dfef76f0ed69f76985a2af761390f5e848dacb7"
-    },
-    {
-      "id": "20261017-FR-61F1060B-2208",
-      "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-17T17:44:44+09:00",
-      "publishedAt": "2026-10-17T17:44:44+09:00",
-      "firstCollectedAt": "2026-10-17T21:53:17+09:00",
-      "updatedAt": "2026-10-17T21:53:17+09:00",
-      "summary": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 대한민국 정책브리핑",
-          "date": "2026-10-17",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPNzRfbkR2eXZST2U4RVdOWlVuTDJ3VU00NElNZENpem15YnFlMmVNbE04dnIyakhJNGFsQnJHc1FDcTVyOFAyOE1YYTFYTFVCNFlUal9XcUgxZUl1YXNXWlA4Vzg5WDVKMzJnS0xadw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "61f1060b9fb9df53749f48fa4dafa60cb694e517e17c1b8884ec97479cd779e4"
     },
     {
       "id": "20261016-FR-57EBFBC7-2209",
