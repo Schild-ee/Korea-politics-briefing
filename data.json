@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-18T15:30:21+09:00",
-    "nextScheduledUpdate": "2026-10-18T16:00:21+09:00",
+    "lastSuccessfulUpdate": "2026-10-18T20:36:16+09:00",
+    "nextScheduledUpdate": "2026-10-18T21:06:16+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-18T15:30:18+09:00",
-      "finishedAt": "2026-10-18T15:30:21+09:00",
+      "startedAt": "2026-10-18T20:36:14+09:00",
+      "finishedAt": "2026-10-18T20:36:16+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 28,
-      "duplicates": 26,
-      "rejected": 170,
-      "rejectedByDate": 170,
+      "acceptedCandidates": 23,
+      "duplicates": 22,
+      "rejected": 176,
+      "rejectedByDate": 176,
       "rejectedByRelevance": 0,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
+      "newIssues": 1,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,99 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261016-FR-4D786CFB-2203",
+      "title": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-16T16:22:38+09:00",
+      "publishedAt": "2026-10-16T16:22:38+09:00",
+      "firstCollectedAt": "2026-10-17T13:08:51+09:00",
+      "updatedAt": "2026-10-18T20:36:15+09:00",
+      "summary": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대 - 대한민국 정책브리핑",
+          "date": "2026-10-16",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82MkFKSUlrTzVybnNudnNRZmdDWkpLNWRxRTMxQk9jV0pXeGcyZkV6eGxvMFJ1UDB6aldITXNSbDVKYVlnNEYxSUVGLWtCWElhYXQzMkE3YW1xY2NnOThzLVNnRm1HVWF5ZkFQMzRqeE4yMnkt?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대 - 정책브리핑",
+          "date": "2026-10-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlM2RjhIbkVtRzBucUkybUQ4U1dGazgzbUl5ZGpubGQ0dFdqcmhqdzBKU3otZEt5TjdXaTh2UlBLVUZQZGZ6bDZWRmhvUTAxZFZpazJ2Q2liSW1LaWZiVmNwY3hKTVRIVTF0blJjYWczTGpHSkNPV3pzTDlQeHJ2dG5vNi1JVTRkZldKeWpuTG9aUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-18T20:36:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4d786cfbe8544f8b9f4215adb393e537add3b664f428ca40c4a7d467c6e43e96"
+    },
+    {
+      "id": "20261018-FR-776BB0C7-2217",
+      "title": "\"10년의 결실, 세계로 뛰는 K-종자\" 2026 국제종자박람회 개최!! - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-18T11:00:00+09:00",
+      "publishedAt": "2026-10-18T11:00:00+09:00",
+      "firstCollectedAt": "2026-10-18T20:36:15+09:00",
+      "updatedAt": "2026-10-18T20:36:15+09:00",
+      "summary": "\"10년의 결실, 세계로 뛰는 K-종자\" 2026 국제종자박람회 개최!!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "\"10년의 결실, 세계로 뛰는 K-종자\" 2026 국제종자박람회 개최!! - 정책브리핑",
+          "date": "2026-10-18",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMjNVQW9NZVRDYWJrNUl6UXJQQlBUbFFsOWZYc0VTenNIeTNRak93MHVlQXRZNDhNeHBUUUxlcG02d29TRlVBYm92eWtDRW5ubmI1bHpUMERXNHp1TmhYOTFvR2JtVFBscmVadkdyQzI4NlkzSnl0amVJNTdZWlRtZC0zZ05FRjF1aTBtSzZwUE95bmwzNnByeWRDcHhDWS1CUDdSNnJsazJpVG12YlFHeDBkTXhTT2ZMN3QxS1lsdkJRNW5lLVZ6RUVIRXZGd0hsN1JldEVTZVRxYzRKSVZTUndMWllHZkNaNFFtODZ6RQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "776bb0c71238ed055ebf2ea9ef7e2e3dd17e07e22abb99bb2949de8b57919725"
+    },
     {
       "id": "20261017-FR-61F1060B-2208",
       "title": "(설명) [단독] 안보 부처 세종 이전, 지난달엔 검토 안 해(조선, MBC) - 대한민국 정책브리핑",
@@ -834,46 +927,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "fd0aba3c36cf5c1e266fda4c17282d3f78237c6a56b9f6331f67748ea1bb9b52"
-    },
-    {
-      "id": "20261016-FR-4D786CFB-2203",
-      "title": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-16T16:22:38+09:00",
-      "publishedAt": "2026-10-16T16:22:38+09:00",
-      "firstCollectedAt": "2026-10-17T13:08:51+09:00",
-      "updatedAt": "2026-10-17T13:08:51+09:00",
-      "summary": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"제주서 배우고 취업까지\" 재외동포 청년 취업정착 지원, 제주와 지역 협력 확대 - 대한민국 정책브리핑",
-          "date": "2026-10-16",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82MkFKSUlrTzVybnNudnNRZmdDWkpLNWRxRTMxQk9jV0pXeGcyZkV6eGxvMFJ1UDB6aldITXNSbDVKYVlnNEYxSUVGLWtCWElhYXQzMkE3YW1xY2NnOThzLVNnRm1HVWF5ZkFQMzRqeE4yMnkt?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4d786cfbe8544f8b9f4215adb393e537add3b664f428ca40c4a7d467c6e43e96"
     },
     {
       "id": "20261015-FR-F232AE91-2204",
