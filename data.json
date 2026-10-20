@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-20T20:59:35+09:00",
-    "nextScheduledUpdate": "2026-10-20T21:29:35+09:00",
+    "lastSuccessfulUpdate": "2026-10-21T05:25:40+09:00",
+    "nextScheduledUpdate": "2026-10-21T05:55:40+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-20T20:59:27+09:00",
-      "finishedAt": "2026-10-20T20:59:35+09:00",
+      "startedAt": "2026-10-21T05:25:36+09:00",
+      "finishedAt": "2026-10-21T05:25:40+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 49,
-      "duplicates": 37,
-      "rejected": 142,
+      "acceptedCandidates": 46,
+      "duplicates": 50,
+      "rejected": 143,
       "rejectedByDate": 142,
-      "rejectedByRelevance": 0,
+      "rejectedByRelevance": 1,
       "rejectedAsCommentary": 0,
-      "newIssues": 17,
-      "updatedIssues": 4,
+      "newIssues": 4,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,362 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261019-FR-D5F04F76-2230",
+      "title": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-19T11:00:06+09:00",
+      "publishedAt": "2026-10-19T11:00:06+09:00",
+      "firstCollectedAt": "2026-10-19T14:10:53+09:00",
+      "updatedAt": "2026-10-21T05:25:38+09:00",
+      "summary": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원 - 대한민국 정책브리핑",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXE4dWdIZVJ5TzY2TU4tYzI2VDBSdUswdUNmRzdCSTRLNm5ZcGJtdlhxLW54TXRsTWJrLXlPUUQzUEVyVzBtTmNMSlhPd3ZwZG96bGFxRmJHQ0dveTZjNDFzUXZIT0ptYlY2ZHdhSVAxa0poUWRwM0VWVFJvTUZFVW9mYTBGYnZ3eFRidXNHT0Z1cGU0TjVManZuaWxQaDZSRFhUWkJNakExWVBaZHB3SXdLbl9FVGszTHVYLWdXMmFLOHlRTXg2R1d3bWxNckdzS20xZ0NMUHQ3V1l5dnozc3ZmMWpEcFV2WWlQcWllbw?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원 - 정책브리핑",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CNzRJZFJJcW96bjl2NVZodDBhVlM4Vjg0Nk9yZXRqTTBEa21mQTZ3V2JFMF9IT3QyR1RUSl9oSDZiTWtIWWthbnpvZ3NCTXFXaUU1X0pOT3p3dS1XSW1fWm9IWGF3YXVYS2FYa1F3S01lUUZn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-21T05:25:38+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d5f04f76456d3180eb064fe165b4d0dfec3d1d98fa2e1bd4bf23e586f7cb6f6d"
+    },
+    {
+      "id": "20260908-FR-850B7D5B-1115",
+      "title": "\"해외에서도 24시간 카톡으로 민원 상담\"...'재외동포 365민원콜센터', 공공혁신 우수사례 선정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-08T14:32:10+09:00",
+      "publishedAt": "2026-09-08T14:32:10+09:00",
+      "firstCollectedAt": "2026-09-08T18:01:12+09:00",
+      "updatedAt": "2026-10-21T05:25:38+09:00",
+      "summary": "\"해외에서도 24시간 카톡으로 민원 상담\"...'재외동포 365민원콜센터', 공공혁신 우수사례 선정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"해외에서도 24시간 카톡으로 민원 상담\"...'재외동포 365민원콜센터', 공공혁신 우수사례 선정 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUJHR0RWQmNVRTF3cU5XcUFKeWI0VDZzNjdDZC0xZUpaVkItc2pEdGNHZlVHeURxc0RmV2dQRlR5czBCSzJ2VVFJbVo1S2J4Q01VMkNpTWVLdDVlbDc3eGdqMjZTQjNtRHFXdzlEM0c1RWVQZVZsNEZsc3QyNTdTZTc0cWxJbm1SQktlZU5ZTzh4UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "\"해외에서도 24시간 카톡으로 민원 상담\"...'재외동포 365민원콜센터', 공공혁신 우수사례 선정 - 정책브리핑",
+          "date": "2026-10-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbFFKS1lmMXE3LWFuZGtJSXRmLXNQa0FZRWZaNnFfRmtTTnlNRHBkRGVXR0NSbDBLRXRQSWdlRVdnd01oUm94UEY3MURCNmhQM0xZZnFmNlVOSE52bXUtOEhScS04dmgtMUw1UFcyMTFfMW42UWJuTkxPV25IaVY5ZGZ4OXB0ZHU2TEhV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-21T05:25:38+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "850b7d5b908b1c35f9e7cc57385a2895dfcd6150da3653124a825bda2d4a4974"
+    },
+    {
+      "id": "20261021-FR-032D83BF-2286",
+      "title": "여권은 알겠는데… - 영상 | 멀티미디어 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T03:22:30+09:00",
+      "publishedAt": "2026-10-21T03:22:30+09:00",
+      "firstCollectedAt": "2026-10-21T05:25:38+09:00",
+      "updatedAt": "2026-10-21T05:25:38+09:00",
+      "summary": "여권은 알겠는데… - 영상 | 멀티미디어 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "여권은 알겠는데… - 영상 | 멀티미디어 - 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSEJPMEh4bG1kQlFLM1hjdFdTX3VWYTlmRnBlTnhoQVB1bll5cExZck0wNmFtRnRmMW1ORWJPVWtkLWtlWGRoQWNJSHpvalI4Zzh6eEF1Z282c0xfcVNJRTQ0UHg2R0hiNW5LTURxbEVlZWo4bWVnMXhyWUowbzdzRy0tSTAwRW0yZ0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "032d83bf5427313d3debca87e957f8323788eee8ef70b99f4f735adca7825ed2"
+    },
+    {
+      "id": "20261020-FR-A0B88E05-2287",
+      "title": "외교부, 유럽 지역 대규모 시위 관련 본부-공관 합동 상황점검회의(10.20.) 개최 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-20T19:54:03+09:00",
+      "publishedAt": "2026-10-20T19:54:03+09:00",
+      "firstCollectedAt": "2026-10-21T05:25:38+09:00",
+      "updatedAt": "2026-10-21T05:25:38+09:00",
+      "summary": "외교부, 유럽 지역 대규모 시위 관련 본부-공관 합동 상황점검회의(10.20.) 개최 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "외교부, 유럽 지역 대규모 시위 관련 본부-공관 합동 상황점검회의(10.20.) 개최 - 정책브리핑",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeGNzcWNnRVN1d3VEWHRjb0YxY2hmVFFaTGtkZTliSUhKRndON0d4Y25xOFZxQ2hWSGxKNS1mVHJiRnZyandRckdKX01SS2RVaUtNYzVaenFzLXRnTXg0RFoxOUJ2NGg5Wk5CYXNDMzh5UHg1Y3hGLUZaN3hYWnZhemRJLXBjbGVUTDVmX0Rzbzdwdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a0b88e05b3236db72087c39f0a98991ada99878a1e3484e9124b02107ece7f2d"
+    },
+    {
+      "id": "20261020-FR-2CF47A5C-2288",
+      "title": "토종오리 정액·정자 특성 최초 확인…보존·증식 기초 자료 확보 - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-20T17:52:41+09:00",
+      "publishedAt": "2026-10-20T17:52:41+09:00",
+      "firstCollectedAt": "2026-10-21T05:25:38+09:00",
+      "updatedAt": "2026-10-21T05:25:38+09:00",
+      "summary": "토종오리 정액·정자 특성 최초 확인…보존·증식 기초 자료 확보 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "토종오리 정액·정자 특성 최초 확인…보존·증식 기초 자료 확보 - 정책브리핑",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNHJwX3NMWWZHekdLeFBaaVZWMFRMU1FXc2ZYcEhOV3pOalV3TFpRaXhoNWt0T09jUl82REJpcjF1MzVkZVE1enZQSGYzNU1QblQ2aWNTQmVoNHVCNk1hbGpzNkctVGV3d3gyWTFKbjQxd3pkaVpzZ2pPc0EyNDJXNXh5SHhtVjJEV2RPOVVJbTl3MzAzcjZFdWFKb2VFbmp6eFJsWHRBQzUyaVU5RmFqTGhoZFltT2l4SElLaElRNkdza2ZlWnMxYmhxN25UX0s3dF9hNVBFMzhNNk84Q1NiTGJMTmdaOGRmT1U0X1NEcw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2cf47a5cf24814f0b2f1ab9914a2770a106581a1ff6aa239151e3c69321c6299"
+    },
+    {
+      "id": "20261020-DP-B5525A51-2289",
+      "title": "[보도자료] 정부업무평가위원회 위촉식 및 회의 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-20T18:01:15+09:00",
+      "publishedAt": "2026-10-20T18:01:15+09:00",
+      "firstCollectedAt": "2026-10-21T05:25:38+09:00",
+      "updatedAt": "2026-10-21T05:25:38+09:00",
+      "summary": "[보도자료] 정부업무평가위원회 위촉식 및 회의 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "[보도자료] 정부업무평가위원회 위촉식 및 회의 - 정책브리핑",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1lFR19KRkFzeGUwYlIxczRubjRIZ1Fqa2ZINHZfRjVWYTNJWUZaMERVdGdUemw1U2xTOGNWWHA4QzdBWjRSRmxQdmVfZWw2VE5sTndWWUpnbWNOYk53MUxPNkp5RDBfd2huWEg1Yy1hWERFRHNNWnROdm9RZ1R5alMyLWw2Z0t6OXBHcmxyUVhUQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b5525a515dbd133887c15c566d28de737b275541acd713bb65be1e485beb6d08"
+    },
+    {
+      "id": "20260929-DP-744A3EFB-1683",
+      "title": "제42회 국무회의 브리핑 - 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-29T16:34:00+09:00",
+      "publishedAt": "2026-09-29T16:34:00+09:00",
+      "firstCollectedAt": "2026-09-29T20:31:01+09:00",
+      "updatedAt": "2026-10-21T05:25:37+09:00",
+      "summary": "제42회 국무회의 브리핑 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "제42회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFY4SkVwTjVIOWFEUVk1M0JzNi1UMGxpSTcyVnFXYUIteVhVWWphWURiQlRKUDF3SloydERmakdsUHlFa21VdXZpaXdHM3hsN3JvaVVlS1JJNXM4RDlCX2FVR2h2dXluVzdrYUlyM1E5YWU2Q3VxTWJ5WjJ6eHV2dmE3VmhNOFVUcl80dDhGeWdZeXVB?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제42회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-09-29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NSHhIZDAwNWE5UkRoallHYUZISG9ER2plY3lwNnVsQ1diQlkydllTZmhmTHlnR1Y4bS1UZ2k2RG9Wc1R1UjdXemQybWRDYW5ZR2c2Q285WUtPMllTTUQ5YjZ3bXd5dkhSSG80bnEzWE9MR244?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제43회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5a3J4YkdUVllKTlNkZHIxdEVDeWVkQ19ObHd0Wkh2WnNYbEFaT3hLdlUwSlhKYTlPSXVWcHJmU3ppcWJRUGQxZGlnVTZoTFZhNzRxdFZETTVXNlRlclJzVWdaMzB2dGlTWWwwbTdzN2VqTGFU?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제44회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-10-13",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GRVJ4LXRkbm4tbDhvcXJabXpUMGEyLURDOWxfaWdqenZraFJCQktGT1o3OTdLTU5iT05oYnhPSnM0TGdTdGFUZ2syNW4wM3k1U0JtYkk3TDJnOTNhMW9WSk8xMnhvUGsxeVJZR0h4NTZSZlJ6?oc=5",
+          "official": true
+        },
+        {
+          "name": "정책브리핑",
+          "title": "제45회 국무회의 브리핑 - 정책브리핑",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uMGxNc2JQOUFvQlRtVzVYaExaZ3p4UV9LNTFYMkhzWEszSXJKYjh5YWpvcVU5d0NCWW5iUHplS2lGVm8zWTN0OXBsTXdLR29URTJMaV9oZW80Z0VSM21DdmhKNFdBNTBaUzVrd0lQYUVGRm5y?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-30T01:58:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-07T01:13:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-10-13T18:16:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-10-21T05:25:37+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "744a3efb10e549f19003fffde2c619b275855ceb0b51c0a3b775d9bbe49f11fd"
+    },
     {
       "id": "20261008-DP-63E2C822-1943",
       "title": "2026년 제41차 위원회 결과 - 정책브리핑",
@@ -2677,46 +3033,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6ecd730d0f5ee3efad655e62d636215d38bd92d7a2b89f405698794bff8df337"
-    },
-    {
-      "id": "20261019-FR-D5F04F76-2230",
-      "title": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-19T11:00:06+09:00",
-      "publishedAt": "2026-10-19T11:00:06+09:00",
-      "firstCollectedAt": "2026-10-19T14:10:53+09:00",
-      "updatedAt": "2026-10-19T14:10:53+09:00",
-      "summary": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "전국체전 찾은 재외동포청장…18개국 동포 선수 1,500여 명 응원 - 대한민국 정책브리핑",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSXE4dWdIZVJ5TzY2TU4tYzI2VDBSdUswdUNmRzdCSTRLNm5ZcGJtdlhxLW54TXRsTWJrLXlPUUQzUEVyVzBtTmNMSlhPd3ZwZG96bGFxRmJHQ0dveTZjNDFzUXZIT0ptYlY2ZHdhSVAxa0poUWRwM0VWVFJvTUZFVW9mYTBGYnZ3eFRidXNHT0Z1cGU0TjVManZuaWxQaDZSRFhUWkJNakExWVBaZHB3SXdLbl9FVGszTHVYLWdXMmFLOHlRTXg2R1d3bWxNckdzS20xZ0NMUHQ3V1l5dnozc3ZmMWpEcFV2WWlQcWllbw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d5f04f76456d3180eb064fe165b4d0dfec3d1d98fa2e1bd4bf23e586f7cb6f6d"
     },
     {
       "id": "20261019-FR-B025F215-2231",
@@ -10301,83 +10617,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ef7585f32dcd1d7089ae3fad98c384517ba1cf3c2f1caff013b9c05fede1ee60"
-    },
-    {
-      "id": "20260929-DP-744A3EFB-1683",
-      "title": "제42회 국무회의 브리핑 - 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-29T16:34:00+09:00",
-      "publishedAt": "2026-09-29T16:34:00+09:00",
-      "firstCollectedAt": "2026-09-29T20:31:01+09:00",
-      "updatedAt": "2026-10-13T18:16:28+09:00",
-      "summary": "제42회 국무회의 브리핑 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "정책브리핑",
-          "title": "제42회 국무회의 브리핑 - 정책브리핑",
-          "date": "2026-09-29",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFY4SkVwTjVIOWFEUVk1M0JzNi1UMGxpSTcyVnFXYUIteVhVWWphWURiQlRKUDF3SloydERmakdsUHlFa21VdXZpaXdHM3hsN3JvaVVlS1JJNXM4RDlCX2FVR2h2dXluVzdrYUlyM1E5YWU2Q3VxTWJ5WjJ6eHV2dmE3VmhNOFVUcl80dDhGeWdZeXVB?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "제42회 국무회의 브리핑 - 정책브리핑",
-          "date": "2026-09-29",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NSHhIZDAwNWE5UkRoallHYUZISG9ER2plY3lwNnVsQ1diQlkydllTZmhmTHlnR1Y4bS1UZ2k2RG9Wc1R1UjdXemQybWRDYW5ZR2c2Q285WUtPMllTTUQ5YjZ3bXd5dkhSSG80bnEzWE9MR244?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "제43회 국무회의 브리핑 - 정책브리핑",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5a3J4YkdUVllKTlNkZHIxdEVDeWVkQ19ObHd0Wkh2WnNYbEFaT3hLdlUwSlhKYTlPSXVWcHJmU3ppcWJRUGQxZGlnVTZoTFZhNzRxdFZETTVXNlRlclJzVWdaMzB2dGlTWWwwbTdzN2VqTGFU?oc=5",
-          "official": true
-        },
-        {
-          "name": "정책브리핑",
-          "title": "제44회 국무회의 브리핑 - 정책브리핑",
-          "date": "2026-10-13",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GRVJ4LXRkbm4tbDhvcXJabXpUMGEyLURDOWxfaWdqenZraFJCQktGT1o3OTdLTU5iT05oYnhPSnM0TGdTdGFUZ2syNW4wM3k1U0JtYkk3TDJnOTNhMW9WSk8xMnhvUGsxeVJZR0h4NTZSZlJ6?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-30T01:58:41+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-10-07T01:13:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-10-13T18:16:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "744a3efb10e549f19003fffde2c619b275855ceb0b51c0a3b775d9bbe49f11fd"
     },
     {
       "id": "20261002-FR-A80018B6-1821",
@@ -53519,46 +53758,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "d3aba42093c769eb28a0addb7e8039bb5dd126b9a1e0276418cedd3b00f172a8"
-    },
-    {
-      "id": "20260908-FR-850B7D5B-1115",
-      "title": "\"해외에서도 24시간 카톡으로 민원 상담\"...'재외동포 365민원콜센터', 공공혁신 우수사례 선정 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-08T14:32:10+09:00",
-      "publishedAt": "2026-09-08T14:32:10+09:00",
-      "firstCollectedAt": "2026-09-08T18:01:12+09:00",
-      "updatedAt": "2026-09-08T18:01:12+09:00",
-      "summary": "\"해외에서도 24시간 카톡으로 민원 상담\"...'재외동포 365민원콜센터', 공공혁신 우수사례 선정 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"해외에서도 24시간 카톡으로 민원 상담\"...'재외동포 365민원콜센터', 공공혁신 우수사례 선정 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWUJHR0RWQmNVRTF3cU5XcUFKeWI0VDZzNjdDZC0xZUpaVkItc2pEdGNHZlVHeURxc0RmV2dQRlR5czBCSzJ2VVFJbVo1S2J4Q01VMkNpTWVLdDVlbDc3eGdqMjZTQjNtRHFXdzlEM0c1RWVQZVZsNEZsc3QyNTdTZTc0cWxJbm1SQktlZU5ZTzh4UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "850b7d5b908b1c35f9e7cc57385a2895dfcd6150da3653124a825bda2d4a4974"
     },
     {
       "id": "20260907-FR-B457C817-1116",
