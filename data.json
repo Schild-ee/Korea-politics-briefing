@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-23T04:23:02+09:00",
-    "nextScheduledUpdate": "2026-10-23T04:53:02+09:00",
+    "lastSuccessfulUpdate": "2026-10-23T07:39:45+09:00",
+    "nextScheduledUpdate": "2026-10-23T08:09:45+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-23T04:22:59+09:00",
-      "finishedAt": "2026-10-23T04:23:02+09:00",
+      "startedAt": "2026-10-23T07:39:41+09:00",
+      "finishedAt": "2026-10-23T07:39:45+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
-      "acceptedCandidates": 59,
-      "duplicates": 62,
+      "acceptedCandidates": 57,
+      "duplicates": 63,
       "rejected": 136,
       "rejectedByDate": 133,
       "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
       "newIssues": 1,
-      "updatedIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261022-FR-3105D869-2357",
+      "title": "열두 가지 색으로 되살아난 가야 왕성의 기억, '채색, 봉황' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T17:35:21+09:00",
+      "publishedAt": "2026-10-22T17:35:21+09:00",
+      "firstCollectedAt": "2026-10-23T07:39:43+09:00",
+      "updatedAt": "2026-10-23T07:39:43+09:00",
+      "summary": "열두 가지 색으로 되살아난 가야 왕성의 기억, '채색, 봉황' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "열두 가지 색으로 되살아난 가야 왕성의 기억, '채색, 봉황' - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdVlmTWdKU0VObjYzU2RzSEFzSk1yQkZxUFB3WmwwazRlT3JXQ0Fpc0cwZnNsZ3B2TlBQZndtcjlRSHRtdWFsRXlWajlTVjVzSzRhMVUxN2lFZl9lS0xkeWJ3VHp4V1FKRjMyTHJLZkJYVzAwSnZaa09ZRzBfSjlJT0hHNS1RTkU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3105d869980690b1b3611b540c5b2482038fa0fab41f716c14a06a7a11b5ebb5"
+    },
     {
       "id": "20261022-FR-646FBA33-2356",
       "title": "국민의 건강과 일상을 함께 지키는 사회대응, 전문가와 매월 논의한다(10.22.목) - 대한민국 정책브리핑",
