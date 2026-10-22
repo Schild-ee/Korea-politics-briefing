@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-22T09:34:12+09:00",
-    "nextScheduledUpdate": "2026-10-22T10:04:12+09:00",
+    "lastSuccessfulUpdate": "2026-10-22T14:16:27+09:00",
+    "nextScheduledUpdate": "2026-10-22T14:46:27+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-22T09:34:09+09:00",
-      "finishedAt": "2026-10-22T09:34:12+09:00",
+      "startedAt": "2026-10-22T14:16:20+09:00",
+      "finishedAt": "2026-10-22T14:16:27+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 52,
-      "duplicates": 59,
-      "rejected": 139,
-      "rejectedByDate": 135,
-      "rejectedByRelevance": 4,
+      "fetchedCandidates": 185,
+      "acceptedCandidates": 54,
+      "duplicates": 46,
+      "rejected": 125,
+      "rejectedByDate": 117,
+      "rejectedByRelevance": 8,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "newIssues": 13,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 35,
           "error": ""
         },
         {
@@ -64,6 +64,591 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261021-FR-AF5E978D-2306",
+      "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T15:00:00+09:00",
+      "publishedAt": "2026-10-21T15:00:00+09:00",
+      "firstCollectedAt": "2026-10-21T16:25:56+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXFxMjZvZXFDbFB2dnJPbTJ3ZDRxMFp5MEM0OGQ4a1QxZWNjaGxzWTJGY01GLUJXQ0IwUHdlYjhEVGVqU2xKM25vVnhpcnFqd3FROFZfQUJOUFdaVG9za2xLMWtQeG9ZTERuMlE4Znh1RjBlR1dJUG5ta0pWRm5sTmZGbWlGZFBqMThTa0Y5ejQtdGpWYl82UG9mY0pxNlRkVUdXampUYTV4YnJxM29PbHhNNnltVjNpb05xazc3TkJIZkIxdDMwbFhZUURwVXo5R3d4OWhSQzJtTlVpMm5CQ1phTVBnMWZZSVh5T20zNA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjdScGJRd04yU29yRWVkTVYtRTQ2V0xuVlAxWHJqWU5wSENObVN4RVFwWGZwOTVXVlh4aVVVeGE2cTdwb2ZDMFpKcGhGMk10ZWFKSUdwV2w0dkVpYllLQnNkZlFtVmxKaUV4QkYyN2dYODI3VlpfVmpjTzRTalZrTzI5UTJGd1F6QjdGejZUSGdUQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1FOTzkyMzNYSmM3ZlJxSlN1SjJiS1ZzbGRrZGJhSnFaak5JZmM3RmE3WkZUQk05QmdCaFdwdUllTk9mMHl4NDVrcThTOUtzcklzUkk5UDJCU3FRTHZjWkhOVlk5YzluSUJYODRQaXdhSzJLQU9GbEo4OEdDTkNjWXpzejBFTUxFRTJV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-22T03:12:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-22T14:16:21+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "af5e978d647f85660f44b04e9823f839c233f1ec976d80f0c9836503e60ec887"
+    },
+    {
+      "id": "20261022-DP-C0DE4C69-2334",
+      "title": "문신사법 시행 앞두고 현장 실태 파악 나선다, '문신업소 설문조사' 실시 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T10:34:43+09:00",
+      "publishedAt": "2026-10-22T10:34:43+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "문신사법 시행 앞두고 현장 실태 파악 나선다, '문신업소 설문조사' 실시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "문신사법 시행 앞두고 현장 실태 파악 나선다, '문신업소 설문조사' 실시 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSlIwZUxReXZpM090X25LdmJ0X0ZSVjVNd2EtdVBJRHAyX1JSbF9PTFpZckFwSEludTRWMExiRHg5bnh2dXBtNUpsM3VUODViTHhuLS1DeFU2Y0w4anB0ZWdfVjE3SS1zSWJ3R3VtZS0tdGRoaGRERlpNc1U2WmJNQ2NVTV9qX3pCelA4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c0de4c699bd87f6403e7ffa48af1f13cb3a6a8d214a68ce35c54ced3aa57c4b5"
+    },
+    {
+      "id": "20261021-DP-DC1CE448-2335",
+      "title": "\"보증금 기반 비대면 신용카드 발급 서비스\" 등 혁신금융서비스 4건 신규 지정 의결 - 신규 혁신금융서비스 지정 4건 및 규제개선 요청 수용 1건 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T00:00:00+09:00",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "\"보증금 기반 비대면 신용카드 발급 서비스\" 등 혁신금융서비스 4건 신규 지정 의결 - 신규 혁신금융서비스 지정 4건 및 규제개선 요청 수용 1건 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"보증금 기반 비대면 신용카드 발급 서비스\" 등 혁신금융서비스 4건 신규 지정 의결 - 신규 혁신금융서비스 지정 4건 및 규제개선 요청 수용 1건 의결 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPWGZXeGRiTEV4Y3JZSUJfUE5hR3ZETzJGUGsyaWw4NjROdDBadU80dDFVdlZDcHJVUWRTbzZQSWM2UnRfdm1wcWxDR1JCRUdSb1hjcmRZeFc2XzVBb2Q4TW5wZnZYTHJlTjY4a0Z3M3dTbzRaamRSUEFkU1hjRG5Sbm9KS2tVV3JPaVZEdTdsd3JJaDZabERsVEVPcXNMOGRxT1hjQlZpQXJYcUpPUlpneG1OR2g4WWZ2MGxybVhsM2sycVFQdmZ0SmF4eHBVR29mTlF6WkZkUnFpUldtMjQ0NmltT2pyZDJlUGx0QW1mNEF6VFpHalZ2ZHR6YmNlWHhjWGRzT2NlTTdONENEYlBraA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dc1ce44833aa7b1a38c3862dafe1228a0b5b50c980eee096397ab18b62d6cafe"
+    },
+    {
+      "id": "20261022-DP-7B8AAEB3-2336",
+      "title": "법원행정처 사법행정담당직위[일반임기제공무원, 연봉등급 4호(서기관)] 경력경쟁채용시험 시행계획 공고 - 새소식 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T10:27:03+09:00",
+      "publishedAt": "2026-10-22T10:27:03+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "법원행정처 사법행정담당직위[일반임기제공무원, 연봉등급 4호(서기관)] 경력경쟁채용시험 시행계획 공고 - 새소식 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "법원행정처 사법행정담당직위[일반임기제공무원, 연봉등급 4호(서기관)] 경력경쟁채용시험 시행계획 공고 - 새소식 - 대한민국 법원",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMGF5b0FmZ0lkQnpaUkhYc1N2a0x6cGZKTlZna1JQZFUta3pJUDYzbFB2djE2dzlteHhhS0ZZMGFxUGw2UUJjbDQ0emNzZlNZZUM5X09zalZES042UmlqVThSX3lldUU2VVZzU3pYSi1LYzhRbjMtRXVpRzBfM3g2RXZLTjJKWDhZZjlUZkR4S29YbXZVWGtIZmV3d2pSazBXeUtOcTZnRnNsQ045NmpmM1FMVjUyM0YyRW9ONDZCaFRZNDN5bkdVcXhpdHc4alJ4Sk1QNGlCR0ZIS2R5ak9IQkY4NVp2WDN3dWRJQ0FGSWFNTTk4QmRlcWllYnVHYXlYWWdreVpIWUg3ZW5hTDBqemY3aVNUSE1CajkyMmpCTldzVExxWkkzcGtUTWxLdTh1d3BBbTh6LWE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7b8aaeb32f3a49b6cc35378b7458475a8e27ba7fb2e6c09f431a86bb283ca624"
+    },
+    {
+      "id": "20261022-DP-60CFBDC8-2337",
+      "title": "국산목재, 공공분야가 앞장서서 쓴다··· '국유림법' 개정 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T11:10:01+09:00",
+      "publishedAt": "2026-10-22T11:10:01+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "국산목재, 공공분야가 앞장서서 쓴다··· '국유림법' 개정 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국산목재, 공공분야가 앞장서서 쓴다··· '국유림법' 개정 시행 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd1FnTzJiY0lfc01nWDV5cEN5c0JQVFIxczRaMC1CcjJnd2RYMTJxcVE3bXk2QXZna24zeDZBc2ttM0RjeWZ2QXp2TU9NRHplbFRzcXdUUFhUenI0bDhKUVIwLU1aMGQ4SWJOZVcyd1JrZmNvVUpVQ2ozUjNKRDJZQVZiN0V1akNQT3E0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "60cfbdc8e3d572fe74ecfd44743bb22a40450aa1944bb47bfe9749df679a705d"
+    },
+    {
+      "id": "20261022-DP-D466E2FE-2338",
+      "title": "원전 공론화위원회, 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T10:00:00+09:00",
+      "publishedAt": "2026-10-22T10:00:00+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "원전 공론화위원회, 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "원전 공론화위원회, 전문위원회 구성 및 시민참여단 숙의토론 12월 11일~13일 개최 확정 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb0M5M1JqOVl2WnhpMDgzSFFib015cFpZXzZMcTZXYUNPRzBYc2c2RnFQSGZ1dmlPTXFSdTNFUVA3RjA2amYwTGdkNGdOanRKbW0tOG4ydExScGhiZGs1VjFWR0t6cFRsQUJ1T0liLUpOUnNFajROUWFoQjFnOUZ0NC10Xzltekw5SjJ6czV6dDVIOFpEdWdHdEVjMUZIYk1TMElUY3JuOTNBWmJfQjh4NmpVdGlLQTlkSE11bmlrU0xSYmEzWVFfM0tubG1oOFpid2R4NXhzclFLSVNYbUJSTFRsenVmNGRvOUdGcWFWNA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d466e2fe7c993b711487f1692569818c7a21220613e24f9d26325530be82241b"
+    },
+    {
+      "id": "20261021-DP-B8712B68-2339",
+      "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T00:00:00+09:00",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQT2JJaGd4SEZzeUdwWEZubV9RNzJsS1k2TTFtQUxhSzBBcld5R1NhckFZQlQ3MU45a2NIQVJycFowVWR5SUdfTm51R0ozSWtrRF9qa0xvYU11VXJGQnBRTjZianFxY19oMGViWEl0QmVTNWw3ZWxFeGx4T19vNFJZZWp6UDh3aGpUdXhMNE1oZFc3aW5Ea0ROSkNpMGt4cW9RMXBkSURfWi1CQWtta1ZyNzByZThfa1FrNE42d3ZSb2hFMlFILXEzbEs1aWtuYmZsX2ltQkhSR1E5a191cHdHX0p1STRuLVhYUzV5TnBLa0ZucjkxMWpLVWtqWDdHbWhRbXRIYkpxbW5iMVVQXzJaUw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b8712b68d27e43b3715a3be504c83f9bda7344bc9155bb452fe235fdcb03d7eb"
+    },
+    {
+      "id": "20261022-DP-90B64FCA-2340",
+      "title": "2025년 사회보장기본계획 120개 세부과제 추진실적 점검·평가, 제5차 사회보장 평가전문위 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T10:33:31+09:00",
+      "publishedAt": "2026-10-22T10:33:31+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "2025년 사회보장기본계획 120개 세부과제 추진실적 점검·평가, 제5차 사회보장 평가전문위 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2025년 사회보장기본계획 120개 세부과제 추진실적 점검·평가, 제5차 사회보장 평가전문위 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSng5ZFdLQXQ1ajFMZDhiWFk1OFRkUnl1NlBIclE2dnpGa0ZGVmpUNDlwaVBtdklNNW13dm9UbjdHS1NuQk11cG1DVGlkeGRlX3dCeUh4WXdsSlRGTjJMUVpfTWtwcVprMlpyVUJrcElpa0dqdGlZQ1prVWl0RFFtbWFrTHFyTl91aVRF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "90b64fcadcb23a57b546c706371a3c77f593e098490c3bac352fcd44fdd1999e"
+    },
+    {
+      "id": "20261022-DP-FF5E12EA-2341",
+      "title": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T12:00:00+09:00",
+      "publishedAt": "2026-10-22T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlFPRFdtdzJYTlQwRXJRYkE5WXpMTjVwZmhRbVhFWk00QVhkR1pIZEJNUzZBOGg5cGUtSWM2Yk1QaUhRXzJBVE1BMjZzWnNqaDlIUzRER201YldTLXIzWElYNVhyVGNfYVJpZEVVVzc1R1F1YlQ2Z2Yycm5vUU50LV9jNmtKVFVFQU9R?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ff5e12ea763c7ebf0b85c13858da7f0b4f19f85c871bddd43e2d3abd05378dc3"
+    },
+    {
+      "id": "20261022-DP-7455BF0B-2342",
+      "title": "지역사회 통합돌봄, 이제는 지역 격차 줄일 때 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T10:41:15+09:00",
+      "publishedAt": "2026-10-22T10:41:15+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "지역사회 통합돌봄, 이제는 지역 격차 줄일 때 - 오피니언 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지역사회 통합돌봄, 이제는 지역 격차 줄일 때 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYXU5VFdlTGx6WlU2RUlaQ2VpZ1lvQ3IyeUc1NDY2UndhSzUtbEw0RFhHNjdSVGdNNGIxeDk3NjdBUmVTb09mdEZxU1NOZ1phUFZsS0RSdjM5QUU2dmtqRXRFZDhZanRuQ1htMlNLUkQ5QllobWowX19CU01vd1AzdkVHSExGLV82T0JQVlFJNjc1UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7455bf0b6098e40096c3030ca83226d6bfafa33d8dc4833adc24ba2ed40bf102"
+    },
+    {
+      "id": "20261022-FR-E60FB564-2343",
+      "title": "10·29이태원참사 4주기 시민추모대회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T12:00:00+09:00",
+      "publishedAt": "2026-10-22T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "10·29이태원참사 4주기 시민추모대회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "10·29이태원참사 4주기 시민추모대회 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXNLbjBIWnIzZTY3S2xJOE8tWDFHaDcySEZHSWZjb0tkMjNJSnJpcm5Sb0c0REpSOG1lX2JaenY4MkJrRzdBWUhzMlJiYVFUWHI2N2J6QUZ3YjNRVDZrNTBDODU2ME9MbkJLUkhwS1RGb2tkWVdXUnREalRpc0NkOHZuWlZ4TjZFZl83b0ZhbVNwUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e60fb5643fd3b48c115fcd94699d67d63ec11a353fb016e334d242bee3cf37ab"
+    },
+    {
+      "id": "20261022-FR-5B50AF32-2344",
+      "title": "팔만대장경·거북선·가야금, 나무부터 달랐다! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T09:35:32+09:00",
+      "publishedAt": "2026-10-22T09:35:32+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "팔만대장경·거북선·가야금, 나무부터 달랐다! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "팔만대장경·거북선·가야금, 나무부터 달랐다! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY1ZoQ0Rmd0NpSmFYSXV3aHltS2VVbHEwMFRBWnhKZ25hVm9RNFloN1lZVml4UWNFajlzRTd0Ml9jcnlzV0R1YzFYQ1lpRVUtNWpyZldycTVId0xuVl9VN3ljbEs5YzBrS2REZGhPX1VtVEpvRS1sV3NiQlZMSU1FU1RSdXV6WlRVMFU0dA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b50af32186bb6ab4dcb2de52ba9e01eaf6c3174ca3ed946d9f85f11435ef8dc"
+    },
+    {
+      "id": "20261021-FR-9E5AC19B-2345",
+      "title": "농지은행 임대수탁 신청 간소화…서류 없애고 처리시간 절반 단축 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T21:15:34+09:00",
+      "publishedAt": "2026-10-21T21:15:34+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "농지은행 임대수탁 신청 간소화…서류 없애고 처리시간 절반 단축 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농지은행 임대수탁 신청 간소화…서류 없애고 처리시간 절반 단축 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZEFDMXVvTHJxelVtcFVkUW1zYS1ZRVNpeExvZjRib0xGclJLWF9NUnk1UGRhZ09DTVBsbjgyREthaXhvczdDVGxHQmlZeTIzUmM4REtpelZid29peHRKd3dQdl9uWTMxcTVoVUpTWDU2aWwwZ3l0N2pmdlIyX3VFMUJCUWZOYVAwWEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9e5ac19b3b01f4369d550fde6f394e9322f4b56ba462ebc28a817df4e57551e0"
+    },
+    {
+      "id": "20261022-FR-94457AC5-2346",
+      "title": "겨울 난방비 걱정? 단열·창호·보일러 최대 330만 원 지원받으세요 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T13:12:09+09:00",
+      "publishedAt": "2026-10-22T13:12:09+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T14:16:21+09:00",
+      "summary": "단열·창호·보일러 최대 330만 원 지원받으세요 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "겨울 난방비 걱정? 단열·창호·보일러 최대 330만 원 지원받으세요 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GYzV3aHNzeHNtd2lXTjhpZnEwN2pzeUtwTS1ER3hNd3pEWFE1WUlNeVBWUks3Yzh1eDU1dU4zbEFfakVvbWJ2NWVwNEpDZGJhSGh2dTA4bWdsM05FNGg1enR6VE1lRF9rdlNkSw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "94457ac5958478acf806d6e092f5766211bc33c7ed7b0f4d655684c92f45745c"
+    },
     {
       "id": "20261022-FR-C6417842-2333",
       "title": "김혜경 여사, 한복 바르게 입기 캠페인 현장 방문 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
@@ -263,59 +848,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b5426473ba67746d3ca3a9e6c53160639ef1121ce8f33ada8a0d288ccaaab8a6"
-    },
-    {
-      "id": "20261021-FR-AF5E978D-2306",
-      "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-21T15:00:00+09:00",
-      "publishedAt": "2026-10-21T15:00:00+09:00",
-      "firstCollectedAt": "2026-10-21T16:25:56+09:00",
-      "updatedAt": "2026-10-22T03:12:48+09:00",
-      "summary": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시!",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTXFxMjZvZXFDbFB2dnJPbTJ3ZDRxMFp5MEM0OGQ4a1QxZWNjaGxzWTJGY01GLUJXQ0IwUHdlYjhEVGVqU2xKM25vVnhpcnFqd3FROFZfQUJOUFdaVG9za2xLMWtQeG9ZTERuMlE4Znh1RjBlR1dJUG5ta0pWRm5sTmZGbWlGZFBqMThTa0Y5ejQtdGpWYl82UG9mY0pxNlRkVUdXampUYTV4YnJxM29PbHhNNnltVjNpb05xazc3TkJIZkIxdDMwbFhZUURwVXo5R3d4OWhSQzJtTlVpMm5CQ1phTVBnMWZZSVh5T20zNA?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjdScGJRd04yU29yRWVkTVYtRTQ2V0xuVlAxWHJqWU5wSENObVN4RVFwWGZwOTVXVlh4aVVVeGE2cTdwb2ZDMFpKcGhGMk10ZWFKSUdwV2w0dkVpYllLQnNkZlFtVmxKaUV4QkYyN2dYODI3VlpfVmpjTzRTalZrTzI5UTJGd1F6QjdGejZUSGdUQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-22T03:12:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "af5e978d647f85660f44b04e9823f839c233f1ec976d80f0c9836503e60ec887"
     },
     {
       "id": "20261021-FR-4AEB9415-2308",
