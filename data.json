@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-22T14:16:27+09:00",
-    "nextScheduledUpdate": "2026-10-22T14:46:27+09:00",
+    "lastSuccessfulUpdate": "2026-10-22T19:31:50+09:00",
+    "nextScheduledUpdate": "2026-10-22T20:01:50+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-22T14:16:20+09:00",
-      "finishedAt": "2026-10-22T14:16:27+09:00",
+      "startedAt": "2026-10-22T19:31:45+09:00",
+      "finishedAt": "2026-10-22T19:31:50+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 185,
-      "acceptedCandidates": 54,
-      "duplicates": 46,
-      "rejected": 125,
-      "rejectedByDate": 117,
-      "rejectedByRelevance": 8,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 58,
+      "duplicates": 53,
+      "rejected": 136,
+      "rejectedByDate": 130,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 13,
-      "updatedIssues": 1,
+      "newIssues": 9,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,472 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261022-FR-D82B63F1-2352",
+      "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T16:16:30+09:00",
+      "publishedAt": "2026-10-22T16:16:30+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:46+09:00",
+      "updatedAt": "2026-10-22T19:31:46+09:00",
+      "summary": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWktYcUxHZV9sRVpwS1FMMnVIMGN1Sk5SalhBei11aXNvMVZwdGlJWUo4dFdVTmxCakxjSDhueTl1aldFTm43N05Eb1pSS1dBTkpyRnpjQ2N5bjIxRm92UU9hX0NGN1dHVlNfZklLZWs0alNRLUMtbmVhd09BUHlRX3EzSTg2Z2ZCZzgw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d82b63f10e6a240699e1be9a0bf0c3d69cac1132a75b96e91f06391e70e5cc5f"
+    },
+    {
+      "id": "20261022-FR-B63FA77C-2353",
+      "title": "한반도클럽·평화클럽 초청 한반도 정세 간담회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T15:14:51+09:00",
+      "publishedAt": "2026-10-22T15:14:51+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:46+09:00",
+      "updatedAt": "2026-10-22T19:31:46+09:00",
+      "summary": "한반도클럽·평화클럽 초청 한반도 정세 간담회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한반도클럽·평화클럽 초청 한반도 정세 간담회 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkJYRkc5U2dyUkFfYWJWV2VzOFNoSEJMT3pDZENWc0JEY25rUVViUUxrb3hSNWI5TTdtNWFzQ2dxMnlfcnZGR0ZnTXVMRjlXU01CXzUxWkQyX200TThHWnh0b25tY0FNNF8yZW9ndUxVbXR2cFZRQnpobk5LdFBOWVcxbnYwYV9FbEpZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b63fa77ca76ed363941308652a25a50c24c95a144559f889d795f52362a6573d"
+    },
+    {
+      "id": "20261022-FR-0F657F50-2354",
+      "title": "해병대 다녀오면, 정말 달라질까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T17:30:22+09:00",
+      "publishedAt": "2026-10-22T17:30:22+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:46+09:00",
+      "updatedAt": "2026-10-22T19:31:46+09:00",
+      "summary": "해병대 다녀오면, 정말 달라질까? - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "해병대 다녀오면, 정말 달라질까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUHlpODl0RzlRam8zaHhtbmllRG9SZHdRdXVxM0xyRlFiQ01SQ2l1MUR6Tl9RNTRmN1dhZk1lRi1qRFJJd2FTQUdweXVaUjdiWEhPb3pidXJtY2tpd3JwQy13Zzk3ZnhhLTlIT1JoMWhMVnJva1ZzXzIwYXdxMjlHa2thb3pzV3ZBNUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f657f50bbd4300f9e34061939621157cb4deaebcee845e4522793151c303a30"
+    },
+    {
+      "id": "20261022-FR-8B948CF0-2355",
+      "title": "섬에서 육지까지, 충남 지역 의료 현장 목소리 듣는다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T14:04:42+09:00",
+      "publishedAt": "2026-10-22T14:04:42+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:46+09:00",
+      "updatedAt": "2026-10-22T19:31:46+09:00",
+      "summary": "섬에서 육지까지, 충남 지역 의료 현장 목소리 듣는다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "섬에서 육지까지, 충남 지역 의료 현장 목소리 듣는다 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWi1ZSVR6Wm1jZ2l1V2JSSmJQQTdETTBiWDRBMW1qNUhzX1U0NHZwcHVLc1BiYUpXZUFXX2VjOU9BS24zNFFHaFE0SGJkR3pxS3dabVcwdkxhOWlXWHc4ZWk5WjNZWDBRellUZTJHS1BSVWZaWnRJb1ZEY1hwX0xETlVqb0ZzdVdEY3JuTk1uY2UyNXBZ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8b948cf0678c5a74fcf5a1a46ba7c98169088bed5a5d48a5593e9691eb6ff434"
+    },
+    {
+      "id": "20261021-DP-B8712B68-2339",
+      "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T00:00:00+09:00",
+      "publishedAt": "2026-10-21T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T19:31:45+09:00",
+      "summary": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQT2JJaGd4SEZzeUdwWEZubV9RNzJsS1k2TTFtQUxhSzBBcld5R1NhckFZQlQ3MU45a2NIQVJycFowVWR5SUdfTm51R0ozSWtrRF9qa0xvYU11VXJGQnBRTjZianFxY19oMGViWEl0QmVTNWw3ZWxFeGx4T19vNFJZZWp6UDh3aGpUdXhMNE1oZFc3aW5Ea0ROSkNpMGt4cW9RMXBkSURfWi1CQWtta1ZyNzByZThfa1FrNE42d3ZSb2hFMlFILXEzbEs1aWtuYmZsX2ltQkhSR1E5a191cHdHX0p1STRuLVhYUzV5TnBLa0ZucjkxMWpLVWtqWDdHbWhRbXRIYkpxbW5iMVVQXzJaUw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNVVBQRUVCLVNJQU55M0gtWUFZa2RYRHFFdW02VmdzMmFWcTdxUXBTZlRhSDY0ZElDcG5lQm5hRkpUUHpNeV8zcjdPYmV1eGw5SFF4WlVKeDRXdnA2VXFGQ0RwSnBJUHBPcGRZWTM1MUNQWU5vNGhrT0tzbUlhSWp2YWpMUlJYQU04UlJ3OTdWOV81U3NpXzNCZWNCUVAtUmVLNk1mMFlmVC1qajhkUzlqRjBQMndWRmtkdmMzdlZqenR6LXgzU3ZHekl5TDcyV0piNTNEQ09FV0VDUmZPWkJybHNKS24tWElVWG5KakFuS3BQbGpJUlBPSHZuMUUtMGZDaDF3NjFSckt2Q2RESnA5RA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-22T19:31:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b8712b68d27e43b3715a3be504c83f9bda7344bc9155bb452fe235fdcb03d7eb"
+    },
+    {
+      "id": "20261022-DP-FF5E12EA-2341",
+      "title": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T12:00:00+09:00",
+      "publishedAt": "2026-10-22T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
+      "updatedAt": "2026-10-22T19:31:45+09:00",
+      "summary": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlFPRFdtdzJYTlQwRXJRYkE5WXpMTjVwZmhRbVhFWk00QVhkR1pIZEJNUzZBOGg5cGUtSWM2Yk1QaUhRXzJBVE1BMjZzWnNqaDlIUzRER201YldTLXIzWElYNVhyVGNfYVJpZEVVVzc1R1F1YlQ2Z2Yycm5vUU50LV9jNmtKVFVFQU9R?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeElJSlI4Um45eWZHTWQ3WW8xN05ack9DY1A4MC1lOUxuell2OGJmajdNWlplak84WU5rc3RESnZoTVVKcU9fY202SlNBaThzcWtaSDU3ajRpWHhSVUhwRzZPanlLVkJiMEQ3Zmlvczc1cG0yZURJcFpTbHIyQTBFcTMwcEtwTFRHd1Y4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-22T19:31:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ff5e12ea763c7ebf0b85c13858da7f0b4f19f85c871bddd43e2d3abd05378dc3"
+    },
+    {
+      "id": "20261022-DP-17FF65A1-2347",
+      "title": "외국 통상조치 피해기업도 지원…개정 '통상변화대응법' 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T15:20:27+09:00",
+      "publishedAt": "2026-10-22T15:20:27+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:45+09:00",
+      "updatedAt": "2026-10-22T19:31:45+09:00",
+      "summary": "외국 통상조치 피해기업도 지원…개정 '통상변화대응법' 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외국 통상조치 피해기업도 지원…개정 '통상변화대응법' 시행 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWGNtdExaWXNLR0JneHBxaW9WWU1IZE9hLWtIdmQwTGhxS2pKUnB6bE82OTM0bGJoWldfcFhUYmZkT1haa1o0LVp5VVZXMURNbzJvR1NWcVg1blFQQ3NjMndqNnhnUW5UaWVzSnpPR2xXQktPZy15djB0R09uNTM1bkYtYTJmaHRndnc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "17ff65a197a12ef55a452d11bb9809b4c30b6563cd4978e8814987054c4191d0"
+    },
+    {
+      "id": "20261022-DP-CF61F237-2348",
+      "title": "법원에 바란다 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T15:43:12+09:00",
+      "publishedAt": "2026-10-22T15:43:12+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:45+09:00",
+      "updatedAt": "2026-10-22T19:31:45+09:00",
+      "summary": "법원에 바란다 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "법원에 바란다 - 대한민국 법원",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdmdsUUpfMDl6eGpqNnpXVXhpR1VLTTQ4WGJhZkROVmFGN215SEVabjJUeGpObTZVNmdxSlJEUURBZTBkV1JfcmFLSmZyb1BTc1VZR0JMVXVVbUN4UElCV29XcXF2b25fWmpoaFlxa0ZWYnpwMi0xMVhkbi00R2doN2M4dTFFd1c4aU40YXhkWmRPV19tdXZhNG1OdW5zLU1XRlpGdHVLY1F5c1paS1p5amhZMFZsbXhQNENpN3pFQW15VTMwS2pVM2FwZlhwRXlUYkdFaA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cf61f2374784530473cd5e25277b9d808b1252d4b48b490487a8fa00a46ff162"
+    },
+    {
+      "id": "20261022-DP-3F9E4BBD-2349",
+      "title": "\"오래 일하면서 정주까지 이어지는 제도로\" 법무부, 숙련기능인력(E-7-4) 제도 개선 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T15:45:32+09:00",
+      "publishedAt": "2026-10-22T15:45:32+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:45+09:00",
+      "updatedAt": "2026-10-22T19:31:45+09:00",
+      "summary": "\"오래 일하면서 정주까지 이어지는 제도로\" 법무부, 숙련기능인력(E-7-4) 제도 개선 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"오래 일하면서 정주까지 이어지는 제도로\" 법무부, 숙련기능인력(E-7-4) 제도 개선 추진 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1labG16akhkR0lCS09CXzNrY2oyaWdqSkJjLUFLbnFnUGI5OUlfUEg5NVotUzg4aDEycnFGYnpHYzEtZk9hamRrSUpKNHN2bFIxVVlROFJiR3BDNlJvazdMYVQyNExOcXliMzIxSm9FUktLdjRCaUdtRi1ydXF6LU4xSENyZ2lQS1FCdHE5Z0ZWX1pQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3f9e4bbdefbc6000d3e8dfd86c1c14971394bb19267cb66ef123b0a38cd1f5c3"
+    },
+    {
+      "id": "20261022-DP-363F836C-2350",
+      "title": "정부, 론스타펀드가 제기한 약 2,800억원 상당 부당이득반환청구소송 파기환송심서 전부 승소 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T13:04:16+09:00",
+      "publishedAt": "2026-10-22T13:04:16+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:45+09:00",
+      "updatedAt": "2026-10-22T19:31:45+09:00",
+      "summary": "정부, 론스타펀드가 제기한 약 2,800억원 상당 부당이득반환청구소송 파기환송심서 전부 승소 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 론스타펀드가 제기한 약 2,800억원 상당 부당이득반환청구소송 파기환송심서 전부 승소 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnY0c01FcC1qcWhwMHRQSjI5REZxT2tnTUQzZXpBWEFJS3drTXpyczlaWWJSRWV3T3BuZ0tjckNRSklKamxLT2dOUm9SX3RFTUhnVHh1aXlXWnM5NjZmWVZzLXNCck8yTlBUQWplcDV3emZtNnJBNGQ0S2daRjg0NUx3ZzdqLXYyRnlPbGJhejlwVjF5?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "363f836c82716d97fc4c48636af5b87bad3ee57bb89e3f026fe571bdae08ead8"
+    },
+    {
+      "id": "20261022-DP-D43C4E5B-2351",
+      "title": "정부, 론스타 2800억 원대 법인세 반환소송 파기환송심서 전부 승소 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T16:30:00+09:00",
+      "publishedAt": "2026-10-22T16:30:00+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:45+09:00",
+      "updatedAt": "2026-10-22T19:31:45+09:00",
+      "summary": "정부, 론스타 2800억 원대 법인세 반환소송 파기환송심서 전부 승소 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부, 론스타 2800억 원대 법인세 반환소송 파기환송심서 전부 승소 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOTVlWWVyNmNlQ3kxY0wtMW8xOEYzNnhZeUpnWFJYdGR0c0NpOEZrek5ZYjJjb1UzVGZpZ3ZDOW1CbkRlcGpQZldKcVZMWGNHR0NYRXZtOEpnVERwa01zR3BSeFJVb3ktUUVoTktvSUhQWnYyME9MQ2RDdVJTN0dQczRRUFYybzFyd1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d43c4e5b49c875d896ac22a7d994d848a73d62fa4de78fb0808809b1607671c1"
+    },
     {
       "id": "20261021-FR-AF5E978D-2306",
       "title": "한-베트남 정상회담 후속 성과로 베트남에 K-닭고기가공품 수출 개시! - 대한민국 정책브리핑",
@@ -330,46 +796,6 @@
       "contentHash": "d466e2fe7c993b711487f1692569818c7a21220613e24f9d26325530be82241b"
     },
     {
-      "id": "20261021-DP-B8712B68-2339",
-      "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-21T00:00:00+09:00",
-      "publishedAt": "2026-10-21T00:00:00+09:00",
-      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
-      "updatedAt": "2026-10-22T14:16:21+09:00",
-      "summary": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "신용정보법 과징금 부과의 예측 가능성을 한층 높였습니다. - ｢신용정보업감독규정｣ 개정안 제18차 정례 금융위원회 의결 - 대한민국 정책브리핑",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQT2JJaGd4SEZzeUdwWEZubV9RNzJsS1k2TTFtQUxhSzBBcld5R1NhckFZQlQ3MU45a2NIQVJycFowVWR5SUdfTm51R0ozSWtrRF9qa0xvYU11VXJGQnBRTjZianFxY19oMGViWEl0QmVTNWw3ZWxFeGx4T19vNFJZZWp6UDh3aGpUdXhMNE1oZFc3aW5Ea0ROSkNpMGt4cW9RMXBkSURfWi1CQWtta1ZyNzByZThfa1FrNE42d3ZSb2hFMlFILXEzbEs1aWtuYmZsX2ltQkhSR1E5a191cHdHX0p1STRuLVhYUzV5TnBLa0ZucjkxMWpLVWtqWDdHbWhRbXRIYkpxbW5iMVVQXzJaUw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b8712b68d27e43b3715a3be504c83f9bda7344bc9155bb452fe235fdcb03d7eb"
-    },
-    {
       "id": "20261022-DP-90B64FCA-2340",
       "title": "2025년 사회보장기본계획 120개 세부과제 추진실적 점검·평가, 제5차 사회보장 평가전문위 개최 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -408,46 +834,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "90b64fcadcb23a57b546c706371a3c77f593e098490c3bac352fcd44fdd1999e"
-    },
-    {
-      "id": "20261022-DP-FF5E12EA-2341",
-      "title": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-22T12:00:00+09:00",
-      "publishedAt": "2026-10-22T12:00:00+09:00",
-      "firstCollectedAt": "2026-10-22T14:16:21+09:00",
-      "updatedAt": "2026-10-22T14:16:21+09:00",
-      "summary": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "농지은행 임대수탁, 서명 한 번이면 끝! - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-22",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUlFPRFdtdzJYTlQwRXJRYkE5WXpMTjVwZmhRbVhFWk00QVhkR1pIZEJNUzZBOGg5cGUtSWM2Yk1QaUhRXzJBVE1BMjZzWnNqaDlIUzRER201YldTLXIzWElYNVhyVGNfYVJpZEVVVzc1R1F1YlQ2Z2Yycm5vUU50LV9jNmtKVFVFQU9R?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ff5e12ea763c7ebf0b85c13858da7f0b4f19f85c871bddd43e2d3abd05378dc3"
     },
     {
       "id": "20261022-DP-7455BF0B-2342",
