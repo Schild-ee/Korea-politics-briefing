@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-23T07:39:45+09:00",
-    "nextScheduledUpdate": "2026-10-23T08:09:45+09:00",
+    "lastSuccessfulUpdate": "2026-10-23T10:22:56+09:00",
+    "nextScheduledUpdate": "2026-10-23T10:52:56+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-23T07:39:41+09:00",
-      "finishedAt": "2026-10-23T07:39:45+09:00",
+      "startedAt": "2026-10-23T10:22:51+09:00",
+      "finishedAt": "2026-10-23T10:22:56+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 57,
-      "duplicates": 63,
-      "rejected": 136,
-      "rejectedByDate": 133,
-      "rejectedByRelevance": 3,
+      "fetchedCandidates": 183,
+      "acceptedCandidates": 59,
+      "duplicates": 59,
+      "rejected": 118,
+      "rejectedByDate": 112,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 5,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 33,
           "error": ""
         },
         {
@@ -64,6 +64,259 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261021-FR-F5088F19-2316",
+      "title": "수확철 농기계 사고 주의하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T10:57:19+09:00",
+      "publishedAt": "2026-10-21T10:57:19+09:00",
+      "firstCollectedAt": "2026-10-21T16:25:56+09:00",
+      "updatedAt": "2026-10-23T10:22:53+09:00",
+      "summary": "수확철 농기계 사고 주의하세요! - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "수확철 농기계 사고 주의하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmFJazlmd1lsNnIwN2VnVXhoanpTa2dXQzNFenp0TksySGdNSW9OUmcybHVEc29rSDd5TURUdUllRXFvTlplVWpsZ0pKRUdpeTNQS3FzN0k1U09BdEhndkhMejRja0lsaGZtYWdXNVdxcXprZHNFR1libFJuZy13V2RZNUdXZmV6U09v?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "수확철 농기계 사고 주의하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOelZwQ0FhT3dMdld2UVhtaUowM2g2T2hwbmRjdmVFT1FQS2RrYjI1cHl2SVJvUl9TejJJd0xkdDJzRzZ1NElZaHp4LTlHYVQtMUhyak92QUR4MFA1bTJtSzR4T3NUX2FYVThTR05uT2FJQW04NWlXZ2dTTVBfc2c3bndxc0dhU3dyeGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-23T10:22:53+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f5088f19f53edd0eb7d20779c253f8215644c01b544785d157354f37e4a45f2e"
+    },
+    {
+      "id": "20261023-FR-1DFFB3B7-2359",
+      "title": "도둑 잡으려다 벌금 200만 원? 무인점포 절도, 어떻게 대응할까 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-23T09:35:16+09:00",
+      "publishedAt": "2026-10-23T09:35:16+09:00",
+      "firstCollectedAt": "2026-10-23T10:22:53+09:00",
+      "updatedAt": "2026-10-23T10:22:53+09:00",
+      "summary": "도둑 잡으려다 벌금 200만 원? 무인점포 절도, 어떻게 대응할까 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "도둑 잡으려다 벌금 200만 원? 무인점포 절도, 어떻게 대응할까 - 대한민국 정책브리핑",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNkE1Y1p2bnpLOWo3R1dlLVJ2MUY2bUVpdXN2Tzl1SlExdXNSdnB3Y0hPWDdFb1dWOWU3bXp3Rks5Yy1mZmUwSUlaUmV6dlNSWHR2YWlmd3k2SXl3MlNFd0c3dHktZHRqT0RsY2Y1V0JSLU9POHg0Z2p4TWhYZjU0emZWNkJ0V2JkbUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1dffb3b7d84f157c75cff54f58bfc06126723d6921e46756997fdb7f895354da"
+    },
+    {
+      "id": "20261023-FR-378924D1-2360",
+      "title": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-23T04:23:32+09:00",
+      "publishedAt": "2026-10-23T04:23:32+09:00",
+      "firstCollectedAt": "2026-10-23T10:22:53+09:00",
+      "updatedAt": "2026-10-23T10:22:53+09:00",
+      "summary": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방세 환급금, 12월부터 민간 앱에서 조회·청구 한 번에 - 대한민국 정책브리핑",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jck03QWZ4ZVVnRXlTRldTWS1oQ1ZkYl9kRy1tVDV4bG5saEgyTzdIUnRRaWZ0eHlxcUIyaWxUaVRHeWdmZ3BzYUdyUHFsa1lhdThjWTJFRDV5Z1lNUHhNeWNSeFNNQ3U4Slg2Rw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "378924d1c51d09c51b608c82aa22ddcf422150c08203b8a5a816b3e60044d31f"
+    },
+    {
+      "id": "20261021-FR-9D56C7FB-2361",
+      "title": "오늘의 호황을 내일의 초격차로, K-반도체 새로운 도약 다짐 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T11:11:30+09:00",
+      "publishedAt": "2026-10-21T11:11:30+09:00",
+      "firstCollectedAt": "2026-10-23T10:22:53+09:00",
+      "updatedAt": "2026-10-23T10:22:53+09:00",
+      "summary": "오늘의 호황을 내일의 초격차로, K-반도체 새로운 도약 다짐 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "오늘의 호황을 내일의 초격차로, K-반도체 새로운 도약 다짐 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRVotOUZTVXRRcVhnUUtDbmV4NHh2OW1VRVFSaS0tSGpSZDEzVnJxOTdRN3E1SmhISUluaWw2YjlNclc1WHVMMWpGM01pQld1Skh5R252ZUtLYUJ4XzFCOV85QmdtVHlnX1p6QWNHVWlmZjBjNEVnMXY3bG8xTXpnNXVWTEdIWWJVWlNF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9d56c7fb9c6fc7ea0f5f2a1cc05fc2e2bdf1c7324589460b8a5a9b5d325afcf9"
+    },
+    {
+      "id": "20261020-FR-61FD14BB-2362",
+      "title": "서울 집값 상승세 둔화, 주택공급은 얼마나 늘었을까? - 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-20T13:25:14+09:00",
+      "publishedAt": "2026-10-20T13:25:14+09:00",
+      "firstCollectedAt": "2026-10-23T10:22:53+09:00",
+      "updatedAt": "2026-10-23T10:22:53+09:00",
+      "summary": "서울 집값 상승세 둔화, 주택공급은 얼마나 늘었을까?",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "정책브리핑",
+          "title": "서울 집값 상승세 둔화, 주택공급은 얼마나 늘었을까? - 정책브리핑",
+          "date": "2026-10-20",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOWJFSWZBbWVfWWl0bU1EUnN6dEVIYXVFR2p2N3gtTlVkdHNsVXlEN2JyazB0VmllYnc1UHhtd1ZfajdnOVdWenZMcG9qMnFHc3FQcDhHSld6RXNJMWlUYlpoUVdIeEh3Nk52ajkyQlo1TWdyS19aT2NGaHN1VklmRHFaS1huVXBlR2dv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "61fd14bb57cccb7ff3962cbbf76e78c80b7116820e59551a1d72f595d3fa21f1"
+    },
+    {
+      "id": "20261022-DP-4A943BB8-2358",
+      "title": "지방에 더 두터운 지원! '지방우대지수' 마련 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T11:39:38+09:00",
+      "publishedAt": "2026-10-22T11:39:38+09:00",
+      "firstCollectedAt": "2026-10-23T10:22:52+09:00",
+      "updatedAt": "2026-10-23T10:22:52+09:00",
+      "summary": "'지방우대지수' 마련 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방에 더 두터운 지원! '지방우대지수' 마련 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzY4UWNzM2RXZW11czkzdE1kZTY5VTFxQUc4UXFVeEY1TjBZb0txeXYwWGI1aW1VWHh6dVpMUGxPV2R0Yzh3cEcwR2hKT0dIQ01WUTlMd1VmY3hlSjFFM1NRMVBudy1KUkkwYVpQZHNhenRQQ1ZCaGVzbUpReVB5c18yMm1wX2J4SHZv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4a943bb8ed038a69f117cc23b68cd9093301f37da0bdefe05747f6b2cb06f770"
+    },
     {
       "id": "20261022-FR-3105D869-2357",
       "title": "열두 가지 색으로 되살아난 가야 왕성의 기억, '채색, 봉황' - 대한민국 정책브리핑",
@@ -2414,46 +2667,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "39f9afe73b51b4faa3b5526c81f4f54750a96f34db6374f44a1fbc1096d9a439"
-    },
-    {
-      "id": "20261021-FR-F5088F19-2316",
-      "title": "수확철 농기계 사고 주의하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-21T10:57:19+09:00",
-      "publishedAt": "2026-10-21T10:57:19+09:00",
-      "firstCollectedAt": "2026-10-21T16:25:56+09:00",
-      "updatedAt": "2026-10-21T16:25:56+09:00",
-      "summary": "수확철 농기계 사고 주의하세요! - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "수확철 농기계 사고 주의하세요! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWmFJazlmd1lsNnIwN2VnVXhoanpTa2dXQzNFenp0TksySGdNSW9OUmcybHVEc29rSDd5TURUdUllRXFvTlplVWpsZ0pKRUdpeTNQS3FzN0k1U09BdEhndkhMejRja0lsaGZtYWdXNVdxcXprZHNFR1libFJuZy13V2RZNUdXZmV6U09v?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f5088f19f53edd0eb7d20779c253f8215644c01b544785d157354f37e4a45f2e"
     },
     {
       "id": "20261021-FR-9A3062B8-2317",
