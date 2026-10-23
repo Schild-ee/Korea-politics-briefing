@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-24T05:17:25+09:00",
-    "nextScheduledUpdate": "2026-10-24T05:47:25+09:00",
+    "lastSuccessfulUpdate": "2026-10-24T08:23:30+09:00",
+    "nextScheduledUpdate": "2026-10-24T08:53:30+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-24T05:17:21+09:00",
-      "finishedAt": "2026-10-24T05:17:25+09:00",
+      "startedAt": "2026-10-24T08:23:27+09:00",
+      "finishedAt": "2026-10-24T08:23:30+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 50,
-      "duplicates": 55,
-      "rejected": 142,
-      "rejectedByDate": 139,
-      "rejectedByRelevance": 3,
+      "fetchedCandidates": 183,
+      "acceptedCandidates": 49,
+      "duplicates": 54,
+      "rejected": 127,
+      "rejectedByDate": 122,
+      "rejectedByRelevance": 5,
       "rejectedAsCommentary": 0,
       "newIssues": 2,
-      "updatedIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 33,
           "error": ""
         },
         {
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261022-FR-138F14A6-2379",
+      "title": "2026 국방인공지능 추진평가 회의 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T15:37:10+09:00",
+      "publishedAt": "2026-10-22T15:37:10+09:00",
+      "firstCollectedAt": "2026-10-24T08:23:28+09:00",
+      "updatedAt": "2026-10-24T08:23:28+09:00",
+      "summary": "2026 국방인공지능 추진평가 회의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 국방인공지능 추진평가 회의 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkh0b29EQTk5akxaQ1kyUjRRVUNObHhldmR2TVRIOF81aEttVWtHUTJWY1lfSTFQOVRiQm5uZ3ltMGZ1cV9nMGVnbzdFOV9WVEY2MFNrRnBsZUdrSDNld3JiMnA0WVR4aDBwbkJ6UzB5V092Y3RwR3ZFWE9CbkpWN2g1Z18zM0xKVjVr?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "138f14a68b699b6cd7b0fc32912550c7e50a48f184df82fad4a33ceb632087f3"
+    },
+    {
+      "id": "20261021-FR-37C929EC-2380",
+      "title": "김혜경 여사, 2026 한복문화주간 기념행사 관련 안귀령 부대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T18:34:38+09:00",
+      "publishedAt": "2026-10-21T18:34:38+09:00",
+      "firstCollectedAt": "2026-10-24T08:23:28+09:00",
+      "updatedAt": "2026-10-24T08:23:28+09:00",
+      "summary": "김혜경 여사, 2026 한복문화주간 기념행사 관련 안귀령 부대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "김혜경 여사, 2026 한복문화주간 기념행사 관련 안귀령 부대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdWp6ak9KamtDRDlGSl9BOHBvaDNPX0NaWDNvTi1XWWFfV2dYaTFYQTBKTS1qMXFXcHBPbXQySGhfcklpNlN2dzZmcUl6eDhJdk5GQVh6UGlQeFNwOVd3QW9ZVmFsT3FMZmxQbVdwQjhiaW9yQmt1S1MwNnZFUGV1QzZzeTJVcG9UVDZ1Rg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "37c929ec8c10da7be5512662df6380b53b8a3031ccc5cab4e19f0230ce9d6ef0"
+    },
     {
       "id": "20261022-FR-D82B63F1-2352",
       "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
