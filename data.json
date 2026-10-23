@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-24T01:55:26+09:00",
-    "nextScheduledUpdate": "2026-10-24T02:25:26+09:00",
+    "lastSuccessfulUpdate": "2026-10-24T05:17:25+09:00",
+    "nextScheduledUpdate": "2026-10-24T05:47:25+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-24T01:55:21+09:00",
-      "finishedAt": "2026-10-24T01:55:26+09:00",
+      "startedAt": "2026-10-24T05:17:21+09:00",
+      "finishedAt": "2026-10-24T05:17:25+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 185,
-      "acceptedCandidates": 51,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 50,
       "duplicates": 55,
-      "rejected": 126,
-      "rejectedByDate": 119,
-      "rejectedByRelevance": 7,
+      "rejected": 142,
+      "rejectedByDate": 139,
+      "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
-      "updatedIssues": 0,
+      "newIssues": 2,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,151 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261022-FR-D82B63F1-2352",
+      "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-22T16:16:30+09:00",
+      "publishedAt": "2026-10-22T16:16:30+09:00",
+      "firstCollectedAt": "2026-10-22T19:31:46+09:00",
+      "updatedAt": "2026-10-24T05:17:22+09:00",
+      "summary": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWktYcUxHZV9sRVpwS1FMMnVIMGN1Sk5SalhBei11aXNvMVZwdGlJWUo4dFdVTmxCakxjSDhueTl1aldFTm43N05Eb1pSS1dBTkpyRnpjQ2N5bjIxRm92UU9hX0NGN1dHVlNfZklLZWs0alNRLUMtbmVhd09BUHlRX3EzSTg2Z2ZCZzgw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR3ZjWnBmanBxVkszOUJ0dmxNdGYwR0FzQlVsSDdybm5RX3lNODA1TVN1QkNBOFB4OVlPVlp4MngzWEstb1ZwZlY5UFVEZ2ZreHRaTkZENm5QVXZkdzRRMFFwcUtiQTh4bzN3aUcyR0ZWZ0NWcHpZNWNUbjFFRnNrWGtOai1TSVBnWTFrQ0E0UDVkel9ZcVRrTUhqcmx2STN0X0VpcFpMMDItV3hCM1J6UGJzMlYtTXdVVVFObVFHN19nVW5yZ3RVQ1Jsek1QVEEzcE80OVBwdlJkay16RHBLZzlqVU5KU1pvaF84TGdIaw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
+          "date": "2026-10-22",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyeVNkejRVYmkyMVRjLWpnN3ItcWNWRjJaN1RRNmpTb2VrWTdJT2I1YnkzcFQ4LUZ0cVh0VnBpQmt3YU9kckcwMnFsXzNaVmctMmdjajlHRDE2UDV4N1E1Qk9ZNkxYTDY1dXdyYXN6MTRuYVoz?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-23T00:31:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-24T05:17:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d82b63f10e6a240699e1be9a0bf0c3d69cac1132a75b96e91f06391e70e5cc5f"
+    },
+    {
+      "id": "20261023-DP-7DA62205-2377",
+      "title": "[보도자료] 규제합리화위원회 제2차 전체회의 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-23T14:07:17+09:00",
+      "publishedAt": "2026-10-23T14:07:17+09:00",
+      "firstCollectedAt": "2026-10-24T05:17:22+09:00",
+      "updatedAt": "2026-10-24T05:17:22+09:00",
+      "summary": "[보도자료] 규제합리화위원회 제2차 전체회의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 규제합리화위원회 제2차 전체회의 - 대한민국 정책브리핑",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KYnN4RHNpdk9kdnN2QlN4ZUJqRDdHZnJOTXJSQS1EemptLU03LV94X1dFNjN5ZF96VzBkSWpEMTd5TGlucElaY0RDUG42SWZlUy0tanhHUmE4LWNRT1oyVThqbzNHYUgyNUhTYXdVRWRxR3BT?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7da6220571226eefea2f05935f9c4d4d0661dd2ff57a27387ac44472f0172633"
+    },
+    {
+      "id": "20261024-FR-CE379FBD-2378",
+      "title": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-24T04:18:45+09:00",
+      "publishedAt": "2026-10-24T04:18:45+09:00",
+      "firstCollectedAt": "2026-10-24T05:17:22+09:00",
+      "updatedAt": "2026-10-24T05:17:22+09:00",
+      "summary": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "행안부, 태풍 '참피'·호우 대비 강풍 취약시설 사전 점검 지시 - 대한민국 정책브리핑",
+          "date": "2026-10-24",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaTMyR2wzQ25jRTZxRl9yMkExeGFvQkhMSF9xOUVhSzNZNnc0elZGOHpRaGplTVlzMzNhQnoyRTdzYXE4clV0NTFfX0RaMFJFYmtWLS1hRWFjS3NOUVIwcnMyOVhpMmZPX19UOVlRcjkwMXhLQlc4eGg4VlZmcExzWXVsZUpJM1FNc3c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ce379fbd3e29824dc6a014d979a2ccfe2771eb84b854d3b7f390a1bd35f8145b"
+    },
     {
       "id": "20261023-FR-4BFE7554-2375",
       "title": "프리드리히 메르츠 독일 총리 공식 방한 관련 강유정 수석대변인 서면브리핑 - 대한민국 청와대",
@@ -1845,59 +1990,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "d43c4e5b49c875d896ac22a7d994d848a73d62fa4de78fb0808809b1607671c1"
-    },
-    {
-      "id": "20261022-FR-D82B63F1-2352",
-      "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-22T16:16:30+09:00",
-      "publishedAt": "2026-10-22T16:16:30+09:00",
-      "firstCollectedAt": "2026-10-22T19:31:46+09:00",
-      "updatedAt": "2026-10-23T00:31:45+09:00",
-      "summary": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
-          "date": "2026-10-22",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWktYcUxHZV9sRVpwS1FMMnVIMGN1Sk5SalhBei11aXNvMVZwdGlJWUo4dFdVTmxCakxjSDhueTl1aldFTm43N05Eb1pSS1dBTkpyRnpjQ2N5bjIxRm92UU9hX0NGN1dHVlNfZklLZWs0alNRLUMtbmVhd09BUHlRX3EzSTg2Z2ZCZzgw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "재외동포청·인천시, '재외동포교육문화센터' 조성 업무협약 체결 - 대한민국 정책브리핑",
-          "date": "2026-10-22",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOR3ZjWnBmanBxVkszOUJ0dmxNdGYwR0FzQlVsSDdybm5RX3lNODA1TVN1QkNBOFB4OVlPVlp4MngzWEstb1ZwZlY5UFVEZ2ZreHRaTkZENm5QVXZkdzRRMFFwcUtiQTh4bzN3aUcyR0ZWZ0NWcHpZNWNUbjFFRnNrWGtOai1TSVBnWTFrQ0E0UDVkel9ZcVRrTUhqcmx2STN0X0VpcFpMMDItV3hCM1J6UGJzMlYtTXdVVVFObVFHN19nVW5yZ3RVQ1Jsek1QVEEzcE80OVBwdlJkay16RHBLZzlqVU5KU1pvaF84TGdIaw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-23T00:31:45+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d82b63f10e6a240699e1be9a0bf0c3d69cac1132a75b96e91f06391e70e5cc5f"
     },
     {
       "id": "20261022-DP-17FF65A1-2347",
