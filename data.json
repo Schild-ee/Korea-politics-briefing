@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-24T08:23:30+09:00",
-    "nextScheduledUpdate": "2026-10-24T08:53:30+09:00",
+    "lastSuccessfulUpdate": "2026-10-24T10:53:41+09:00",
+    "nextScheduledUpdate": "2026-10-24T11:23:41+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-24T08:23:27+09:00",
-      "finishedAt": "2026-10-24T08:23:30+09:00",
+      "startedAt": "2026-10-24T10:53:38+09:00",
+      "finishedAt": "2026-10-24T10:53:41+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 183,
-      "acceptedCandidates": 49,
-      "duplicates": 54,
-      "rejected": 127,
-      "rejectedByDate": 122,
-      "rejectedByRelevance": 5,
+      "fetchedCandidates": 185,
+      "acceptedCandidates": 46,
+      "duplicates": 52,
+      "rejected": 132,
+      "rejectedByDate": 123,
+      "rejectedByRelevance": 9,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -41,14 +41,14 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 35,
           "error": ""
         },
         {
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 33,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,47 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261024-FR-D93C5642-2381",
+      "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "재외국민",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-24T09:15:33+09:00",
+      "publishedAt": "2026-10-24T09:15:33+09:00",
+      "firstCollectedAt": "2026-10-24T10:53:39+09:00",
+      "updatedAt": "2026-10-24T10:53:39+09:00",
+      "summary": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부, 해외 치안관계자 초청하여 재외국민보호 네트워크 강화 - 대한민국 정책브리핑",
+          "date": "2026-10-24",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX2JJektSNGY0bU5mQjVKNTAzMUhTaG44UzE5VktrWnJFa0FTNzVxU29sb2NmTmRBMEczdlFvcUxhLUxVZUhMM2wwc0s4OE5kWHM3c2daY1RRbXBUTjJMQXZ3OVlMLVR4RThhcUNxZkhWRVR4ZjhGMVo0WW1yeVNxQ205VGc2WUxKZGVyUld3RUhKdWFh?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d93c56424a3dcd7ea15d38a6a5a0e9a2569f8d0b57d294d4745c95499d4a4146"
+    },
     {
       "id": "20261022-FR-138F14A6-2379",
       "title": "2026 국방인공지능 추진평가 회의 - 대한민국 정책브리핑",
