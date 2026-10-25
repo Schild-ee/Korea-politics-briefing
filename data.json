@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-26T04:30:02+09:00",
-    "nextScheduledUpdate": "2026-10-26T05:00:02+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-10-26T06:59:46+09:00",
+    "nextScheduledUpdate": "2026-10-26T07:29:46+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-26T04:29:59+09:00",
-      "finishedAt": "2026-10-26T04:30:02+09:00",
+      "startedAt": "2026-10-26T06:59:43+09:00",
+      "finishedAt": "2026-10-26T06:59:46+09:00",
       "activeSources": 4,
       "fetchedCandidates": 200,
       "acceptedCandidates": 22,
-      "duplicates": 25,
-      "rejected": 175,
-      "rejectedByDate": 172,
+      "duplicates": 23,
+      "rejected": 174,
+      "rejectedByDate": 171,
       "rejectedByRelevance": 3,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 3,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,126 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261023-DP-A29B3B14-2404",
+      "title": "엑셀의 신을 만나 퇴근이 빨라졌습니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-23T13:27:08+09:00",
+      "publishedAt": "2026-10-23T13:27:08+09:00",
+      "firstCollectedAt": "2026-10-26T06:59:44+09:00",
+      "updatedAt": "2026-10-26T06:59:44+09:00",
+      "summary": "엑셀의 신을 만나 퇴근이 빨라졌습니다 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "엑셀의 신을 만나 퇴근이 빨라졌습니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UTHc5RXVEa2VPTDdYSFhrVERtdThJVHpnVmFJbXVCenVVVWdkYUdTM2o0dHcyVjBCMUdKek5HQlhVbG96R3RJTUpWLU1xcHZsc3lkUHNOSS04RVZzTVhNTDRFdDlQRDJ3NDhDUw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a29b3b1403331b54c653c4537525f0224406ac9b02b7a9a53bb71f005ae2890d"
+    },
+    {
+      "id": "20261026-FR-D33621B0-2405",
+      "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T06:11:13+09:00",
+      "publishedAt": "2026-10-26T06:11:13+09:00",
+      "firstCollectedAt": "2026-10-26T06:59:44+09:00",
+      "updatedAt": "2026-10-26T06:59:44+09:00",
+      "summary": "제주 로컬 크라우드펀딩 판매전 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdFZKa0hiV20zVnAzUnpYa1pySDl6ZVNTU0NISWphV3JuMWhJbnZrdEc5R3EyZnJlSm95R3JWel9wQUlfMjlwUGJUVXl0YXk4MTNhdlE4MVRzd0oyU25EUHhwZHhKSHV2ZFdYYjZ1aUlGaEpDNnpwVXRiWXI1bVdlQmNIc2M5Vk5nS1RZWHB2UUpGdmhTUzBndjdpR1A0UTU1ZEFfTWg3d3JoUVVtVlQ2M05jVmNaVXFhd21XVk9waF82bGlFbTY3MW9lM0I1VkhtOXRiNkplX19OcDRmTVg2ZWdkaXV6eXdHOWwtSlI0Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d33621b074edacdb3d058854ebee2c26919aa3d217568ab86a0f597e9b457cd0"
+    },
+    {
+      "id": "20261023-DP-D6032284-2406",
+      "title": "이재명 대통령 주재 초안전사회 범정부 대응회의 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-23T14:34:56+09:00",
+      "publishedAt": "2026-10-23T14:34:56+09:00",
+      "firstCollectedAt": "2026-10-26T06:59:44+09:00",
+      "updatedAt": "2026-10-26T06:59:44+09:00",
+      "summary": "이재명 대통령 주재 초안전사회 범정부 대응회의 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령 주재 초안전사회 범정부 대응회의 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtMF9wakRtVXBQeXlkcDZTX2FkOXU2d1cyR1dpelJoajl0SHA2ZksyckhvMzNNcmMxT3FyLTAtNzljUnpXNWREMEY0eUZQUUJ3dm5LWVVzcXBkajE1dW1uSXRRajJpOGJYcXB3S1NhVjQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d6032284997f23df250dc3f40f4d335eba5539a73c0a33471d24606526d89fd7"
+    },
     {
       "id": "20261025-FR-1BFAABF5-2402",
       "title": "'하나의 바다, 하나의 안전' 해양모빌리티의 미래를 부산에서 만난다 - 대한민국 정책브리핑",
