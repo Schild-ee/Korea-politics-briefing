@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-27T01:54:56+09:00",
-    "nextScheduledUpdate": "2026-10-27T02:24:56+09:00",
+    "lastSuccessfulUpdate": "2026-10-27T09:43:04+09:00",
+    "nextScheduledUpdate": "2026-10-27T10:13:04+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-27T01:54:48+09:00",
-      "finishedAt": "2026-10-27T01:54:56+09:00",
+      "startedAt": "2026-10-27T09:42:59+09:00",
+      "finishedAt": "2026-10-27T09:43:04+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 39,
-      "duplicates": 27,
-      "rejected": 154,
-      "rejectedByDate": 151,
-      "rejectedByRelevance": 3,
+      "fetchedCandidates": 185,
+      "acceptedCandidates": 45,
+      "duplicates": 43,
+      "rejected": 132,
+      "rejectedByDate": 130,
+      "rejectedByRelevance": 2,
       "rejectedAsCommentary": 0,
-      "newIssues": 15,
-      "updatedIssues": 4,
+      "newIssues": 8,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 35,
           "error": ""
         },
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-10-26T16:41:46+09:00",
       "publishedAt": "2026-10-26T16:41:46+09:00",
       "firstCollectedAt": "2026-10-26T19:25:20+09:00",
-      "updatedAt": "2026-10-27T01:54:49+09:00",
+      "updatedAt": "2026-10-27T09:43:01+09:00",
       "summary": "이 대통령 \"농어업은 생존 위한 안보·전략산업…일방적 손실·피해 강요 안 돼\" 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -102,11 +102,318 @@
           "date": "2026-10-26",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wSG92ZnVNMmthcmdmQ1FWQXJDRFlHeDVMNXo5dnphQ2JpOVFjRkMtRDhaQTNiaU40c1M1blU5X3dtVndPTzJiQXJYclJOUXV0V0gzVkxKQ3QybWFSVjVYTFJ3Z1JTMVBBUXU0Y1F2R0E2V3BEOUpyX080LWw?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"농어업은 생존 위한 안보·전략산업…일방적 손실·피해 강요 안 돼\" - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YNEc1SzJud29KWmtoekVPV0dBSlM1SzcyRy11UXZXNE0wVHlXaXBVS1l3djlOSFBxdVhjYjVvanRGajk1QzM5Unc5Mml0Z082ZFBZVC1MaGZ5TF9CanppZmZNOV9wLUlPcVFiaw?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
         {
           "updatedAt": "2026-10-27T01:54:49+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-27T09:43:01+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "facb25db9216917de055a851d694f44deb6a6257623254282eb8e3ecb3acd692"
+    },
+    {
+      "id": "20261027-DP-5F6BDAAB-2452",
+      "title": "\"과징금 처분을 업무정지로 바꿔달라고?\" 적법·정당하게 이뤄진 처분, 변경할 수 없어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정당",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T08:32:13+09:00",
+      "publishedAt": "2026-10-27T08:32:13+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:01+09:00",
+      "updatedAt": "2026-10-27T09:43:01+09:00",
+      "summary": "\"과징금 처분을 업무정지로 바꿔달라고?\" 적법·정당하게 이뤄진 처분, 변경할 수 없어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"과징금 처분을 업무정지로 바꿔달라고?\" 적법·정당하게 이뤄진 처분, 변경할 수 없어 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMDRPc296TkRTaHNvS1ZxVmhoTjN3Y3JBTzJmSGU0blpaQjQ5bXlzWG1MRTJNR2MzcFc4VTZ2b1l2TXFRUThldFZDc3JFbWp4MUJ0Zm40Zmg0S2RTaWdnblRaOGNRdlV4aHc5dGRqcnpubXlyeTRPaUZtenYteHRkOVM4Q1k2ZmQtY0lzX1c2bG16QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5f6bdaabf06640452d20444629750028fe38a223979c3f26032fd9a4d6646249"
+    },
+    {
+      "id": "20261027-FR-D6FD51FD-2453",
+      "title": "\"낙엽이 떨어질수록 민원은 폭증\"… 낙엽 관련 '민원주의보' 발령 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T08:34:21+09:00",
+      "publishedAt": "2026-10-27T08:34:21+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:01+09:00",
+      "updatedAt": "2026-10-27T09:43:01+09:00",
+      "summary": "\"낙엽이 떨어질수록 민원은 폭증\"… 낙엽 관련 '민원주의보' 발령 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"낙엽이 떨어질수록 민원은 폭증\"… 낙엽 관련 '민원주의보' 발령 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGh3TEdVUzF6a2JvRG1uUHZIRVBWdkZBeDZaU0JaUlBpTUQ2S04zakNNTVNfSU9EZ1JhbWg3WHU0TURfTm9KdmpIMk5pTWZPWXp5czlGU0RQRjJ4UVdNMmhBYVdZQTZ3bnRJRVU3MVZHZ1NvbWNIMk52Mm9pbGlPVnVVcnVMM0RINUpUMm0weWVKckMx?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d6fd51fdb0b71c8c6c86552aedd80c56ebd337a9663d7b0ae6637801618ed87d"
+    },
+    {
+      "id": "20261026-FR-8FA58D1E-2454",
+      "title": "'모두의 AI' 정책 브랜드명·슬로건, 국민이 직접 만든다 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T23:18:50+09:00",
+      "publishedAt": "2026-10-26T23:18:50+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:01+09:00",
+      "updatedAt": "2026-10-27T09:43:01+09:00",
+      "summary": "'모두의 AI' 정책 브랜드명·슬로건, 국민이 직접 만든다 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'모두의 AI' 정책 브랜드명·슬로건, 국민이 직접 만든다 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tb1FUTWN6aDA2NGMzS1IzVHdkbzdLaG1sWkt1amY3TjRRNmtId2ZmbU5hcUhiLVNNUzh3QnJVYWlsMkZsaFVaWF9jTHhIQk4tVm9WTzI4RWJTUzE1Q1VDNnNTQ1VQdVpRbVJuYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8fa58d1e345ad674235c0efa3521c8097d0f33f70f0964573c3c3375a4b9b60e"
+    },
+    {
+      "id": "20261026-DP-EC15877E-2455",
+      "title": "정부 '내년 지출효율화 TF' 조기 가동…국민참여단 청년 비중 40%로 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T21:23:59+09:00",
+      "publishedAt": "2026-10-26T21:23:59+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:01+09:00",
+      "updatedAt": "2026-10-27T09:43:01+09:00",
+      "summary": "정부 '내년 지출효율화 TF' 조기 가동…국민참여단 청년 비중 40%로 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정부 '내년 지출효율화 TF' 조기 가동…국민참여단 청년 비중 40%로 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12WTJFakhHUnJQeUs0MnJWOXJXNHJtamJSMXlxM2lhS0taOWt5OWRfQzJUcmRWLTFnUERFRkdaekYyaC1ubUp2UjJRMUc0MWZOREdqRjZnNWZUUWlpTnVUVXp0dTF4bTBkMVVoVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ec15877e9d77ed33ea8d989014f029d35851967387201fc59190356dfea4bc26"
+    },
+    {
+      "id": "20261026-DP-4C7AFBA6-2456",
+      "title": "오세훈, 박정희 추모식서 이례적 인사말… 무죄 판결 후 달라진 위상 - 천지일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "인사",
+      "countries": [],
+      "institutions": [
+        "천지일보"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-10-26T16:20:46+09:00",
+      "publishedAt": "2026-10-26T16:20:46+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:01+09:00",
+      "updatedAt": "2026-10-27T09:43:01+09:00",
+      "summary": "오세훈, 박정희 추모식서 이례적 인사말… 무죄 판결 후 달라진 위상 천지일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "천지일보",
+          "title": "오세훈, 박정희 추모식서 이례적 인사말… 무죄 판결 후 달라진 위상 - 천지일보",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQLTVsMnhLdnoteENpVFlaN21BaHFqcWpVdjh1LXE0TGxkQVBtc3k2bUhVLVNzV1JTZndYTjl3N1NCeThxLTVoLUlraVZOTDdZYnUwTjRLb3F2cUVwX1AzYXR5aFAwT3FGNXc?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4c7afba6209f62302b7c5229da246a0006248daf2b8e64e4c08a059b68062d77"
+    },
+    {
+      "id": "20261027-DP-832D086A-2457",
+      "title": "유엔사, 군정위 수석대표 곧 임명... 김화종 연합사 작전차장 유력 - 한국일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "인사",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "한국일보"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-10-27T04:30:00+09:00",
+      "publishedAt": "2026-10-27T04:30:00+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:01+09:00",
+      "updatedAt": "2026-10-27T09:43:01+09:00",
+      "summary": "유엔사, 군정위 수석대표 곧 임명... 김화종 연합사 작전차장 유력 한국일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "유엔사, 군정위 수석대표 곧 임명... 김화종 연합사 작전차장 유력 - 한국일보",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Qkl5VGRsRWJnRVZJWnJpY1ZtY244ZjV5TVpMcGlLek82dmtKdkwyM1ROV3FIZWw0ZEJKUGQ0akZVLUI2RnN6WERhYTZZdmFmV3o4S2hmN1pPLURMMzRLRUttbXkwVkpHMXY1X3V30gFzQVVfeXFMT2lycUlMTnMwZlktWXlsRVBxTGFyTk9SU0RWZlRJdzV5WFF0Y1NuN282RzluRTRCeThVSWJGX1loU2oxandjVS1LX3A2aEdIYnlJNVAteHdxaEN0dTctSTJfTlQxY1BzemtfeWtFaE9QWGFLbw?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "832d086af549551c9068007c03e6e0f9d508c27d9e597682caefc8b214659b1e"
+    },
+    {
+      "id": "20261026-FR-41ED874C-2445",
+      "title": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T13:56:24+09:00",
+      "publishedAt": "2026-10-26T13:56:24+09:00",
+      "firstCollectedAt": "2026-10-27T01:54:49+09:00",
+      "updatedAt": "2026-10-27T09:43:00+09:00",
+      "summary": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSlFFaDg4OXE1OUtFSVRfN1E3aEJDUjFjTDZPSlpQY05yaUZ4YzE3eE1zd285cXNnRTV5TWo3dWV6RTBhUHRjTmt2TFBrUnhPWGJ2b05JT21NT0JiV2s0OEViSXpod0FxS2Z4ZW55YlFFQ2dQYm55WHlpR09naDlmNWs5Z09tY29QMVNDd05nQ2hHX3JUS09wVmE5LWNla3B5OFVqa040MzNBTWNYSlhrdjRkbTVqbnR0Zmt4R2prU0l0eFJtSEtOTTdEZDJPdnpHMTl5UkItbGs4V1QzVE9QaURuMEEzeWQ4ZkFQMzc2UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkxPMFpibnZZY085QTJlenRoYXN0OEtvd1hDLU1RbWhtdE5DY3ZoSENSRXBGT3BwWGJXaU4tYTBXM1JVZE4wQmg5Ty1fZU1QdEk4VEYtWG84ZjByc05VQzJPclo1d1ZNLXhyS0xpcUhSUjBUemx0dWFZNHNaekJZVGFHclVfVThrTW90c2JrOW1QZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-27T09:43:00+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
         }
@@ -115,7 +422,87 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "facb25db9216917de055a851d694f44deb6a6257623254282eb8e3ecb3acd692"
+      "contentHash": "41ed874ca6fb75de38018c46996ebdeb43796e4386cbc7c0d77e05fe53ee9139"
+    },
+    {
+      "id": "20261027-DP-708AB557-2450",
+      "title": "내년부터 농업인·전문가·소비자가 친환경농업 정책 결정에 참여 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T02:48:45+09:00",
+      "publishedAt": "2026-10-27T02:48:45+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:00+09:00",
+      "updatedAt": "2026-10-27T09:43:00+09:00",
+      "summary": "내년부터 농업인·전문가·소비자가 친환경농업 정책 결정에 참여 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년부터 농업인·전문가·소비자가 친환경농업 정책 결정에 참여 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pYncwMWhqdF9Lb1BsSjBfYXdDZEZPMnpRNGx1LVUyRG1waDltZFlGaGJETGw5cXJhMURlOElNRFZvaUJyOHNoWGRMR1pha3hrdTRIdVp1SjJlZlJJNV9yVzVIQWZNbHdPaWdNaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "708ab55770ed1f6794500d823461609cecb426a56ed99b34341f200b4233931a"
+    },
+    {
+      "id": "20261027-DP-350B2C9E-2451",
+      "title": "(설명) 한국경제(온라인), \"지방노동감독관 '반쪽 출범' 위기\" 기사 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T02:08:52+09:00",
+      "publishedAt": "2026-10-27T02:08:52+09:00",
+      "firstCollectedAt": "2026-10-27T09:43:00+09:00",
+      "updatedAt": "2026-10-27T09:43:00+09:00",
+      "summary": "(설명) 한국경제(온라인), \"지방노동감독관 '반쪽 출범' 위기\" 기사 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 한국경제(온라인), \"지방노동감독관 '반쪽 출범' 위기\" 기사 관련 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNG1ZR3E3WFU2bHl0Z2dQN21MNVdCVlE2VXVmMWRmUUFqMThvQTlHcFB4aWN0NWpvTGRzOXdCWTNndHQzZ3l4bERTcVQ1enZRQVpYRWsxeXVQb3Uta1BLQ0VDOUpkeUplSHlZRUpRRndMUWxBZFlPeDJ5dzlDN2x1R3hCTjFlOV9jeFVoOWcyMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "350b2c9e93f09439768757864ec1859ce6bd53042ec5d46e2869dc146cd40956"
     },
     {
       "id": "20261026-DP-EB996A9C-2410",
@@ -422,46 +809,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "410d71af3a6636b6781a7a497818727c7e0e839dfa43e94685f70e02cb3e9c5f"
-    },
-    {
-      "id": "20261026-FR-41ED874C-2445",
-      "title": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T13:56:24+09:00",
-      "publishedAt": "2026-10-26T13:56:24+09:00",
-      "firstCollectedAt": "2026-10-27T01:54:49+09:00",
-      "updatedAt": "2026-10-27T01:54:49+09:00",
-      "summary": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국민과 함께 성장하는 새만금청, SNS 대상 최우수상 수상 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSlFFaDg4OXE1OUtFSVRfN1E3aEJDUjFjTDZPSlpQY05yaUZ4YzE3eE1zd285cXNnRTV5TWo3dWV6RTBhUHRjTmt2TFBrUnhPWGJ2b05JT21NT0JiV2s0OEViSXpod0FxS2Z4ZW55YlFFQ2dQYm55WHlpR09naDlmNWs5Z09tY29QMVNDd05nQ2hHX3JUS09wVmE5LWNla3B5OFVqa040MzNBTWNYSlhrdjRkbTVqbnR0Zmt4R2prU0l0eFJtSEtOTTdEZDJPdnpHMTl5UkItbGs4V1QzVE9QaURuMEEzeWQ4ZkFQMzc2UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "41ed874ca6fb75de38018c46996ebdeb43796e4386cbc7c0d77e05fe53ee9139"
     },
     {
       "id": "20261026-FR-44B44FC1-2446",
