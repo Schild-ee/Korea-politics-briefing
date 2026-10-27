@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-27T21:36:12+09:00",
-    "nextScheduledUpdate": "2026-10-27T22:06:12+09:00",
+    "lastSuccessfulUpdate": "2026-10-28T03:13:04+09:00",
+    "nextScheduledUpdate": "2026-10-28T03:43:04+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-27T21:36:06+09:00",
-      "finishedAt": "2026-10-27T21:36:12+09:00",
+      "startedAt": "2026-10-28T03:13:00+09:00",
+      "finishedAt": "2026-10-28T03:13:04+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 184,
+      "fetchedCandidates": 200,
       "acceptedCandidates": 58,
       "duplicates": 56,
-      "rejected": 116,
-      "rejectedByDate": 113,
-      "rejectedByRelevance": 3,
-      "rejectedAsCommentary": 0,
-      "newIssues": 8,
-      "updatedIssues": 4,
+      "rejected": 134,
+      "rejectedByDate": 131,
+      "rejectedByRelevance": 2,
+      "rejectedAsCommentary": 1,
+      "newIssues": 5,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 34,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,471 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261027-FR-8CF7ECD5-2492",
+      "title": "가을로 물든 '행복도시', 아이와 손잡고 걷다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T17:42:37+09:00",
+      "publishedAt": "2026-10-27T17:42:37+09:00",
+      "firstCollectedAt": "2026-10-27T21:36:07+09:00",
+      "updatedAt": "2026-10-28T03:13:01+09:00",
+      "summary": "가을로 물든 '행복도시', 아이와 손잡고 걷다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가을로 물든 '행복도시', 아이와 손잡고 걷다 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVZDd1E5RC1lb3J0LVdzdTNwTnFfalQxQUJJbGJLVzhwQjhsell3VC0xeFdZN3p0YjhUTGdYOTBXLUtYWkVjSFpmUUphanVhbXBoTkFjMUNjQWoybWVNcGh3cndzNGU2WXdDWDAtanMzSWZjNlo1TmhFNlFjNTFhSmNmV2YxT1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가을로 물든 '행복도시', 아이와 손잡고 걷다 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00MGtUUUNrRVAzV05ZZ01DeUQ1VklzNFhNSFZnUEFtWTNwNmJDcWNVSU8tUEctZ0w1WG94alpvMHA3S25FNnVQOHBOYnpzcDNyc2RWbFBrTjNrTE5pcUtFd01pU3J1UGhpemc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T03:13:01+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8cf7ecd573a8c02a0b204d4bc9df3d5d5ed8af790a5096e1713165e1f86dc699"
+    },
+    {
+      "id": "20261026-FR-F1685E1F-2441",
+      "title": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T17:28:00+09:00",
+      "publishedAt": "2026-10-26T17:28:00+09:00",
+      "firstCollectedAt": "2026-10-27T01:54:49+09:00",
+      "updatedAt": "2026-10-28T03:13:01+09:00",
+      "summary": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmFYLWNjc1BmR1pvUm82YW4tX0FTNUZVdUFZQTRRdV9jY2Z4YTRrSzJCNU9heHJORy1PMldCbUZ5dzBndVZUQTUzXzRyNkwtN21IUWoxWGVqNGFXZmdGeXpZNS1hVzlZc3dNREVlWnRia1hpR2FEN2FZRVBCT3plTldLaWRTMks3NlZmQ3hWSU5sUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXNzhKTERpdEZvM1l6cmhGM1Vmc1Q5MmxOM1dleHhsODFfRGxmNFA1ekFPZW96aU5pWnFEZmxyNFlpcTdndjhrSlQxaGx4bDhKM2E0cnNtRkhxdzVKXzhBVVBwbUFmdmtiV3lJZGRIZHNBSTVP?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T03:13:01+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f1685e1f43b312e021b75664e4f54079d52ff9a4c21127f9bcf6fa61d07c2bc4"
+    },
+    {
+      "id": "20261026-FR-8062C8E6-2496",
+      "title": "이태원참사 4주기 시민추모대회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T22:06:06+09:00",
+      "publishedAt": "2026-10-26T22:06:06+09:00",
+      "firstCollectedAt": "2026-10-28T03:13:01+09:00",
+      "updatedAt": "2026-10-28T03:13:01+09:00",
+      "summary": "이태원참사 4주기 시민추모대회 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이태원참사 4주기 시민추모대회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52SUdhQjl4TGRtTmpZaGkzYW5aS21YaDczODRocmlJOGtqaF93RGNlZEZTVEN4Y3JDRHZaWWVIazV3SHJ4R2oyZlF3QnY0TGVtcGtKcHRxckIxR2YzaVJjQko0aEJDbmtKa0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8062c8e67f9058a965fd8ddf0bfa75d3ad3069109a6dfca5e6d6321d3d1e6096"
+    },
+    {
+      "id": "20261028-FR-EACF835C-2497",
+      "title": "자동차 점프 실화? 우리는 날아다닐 준비 완료…하늘길 열어갈 UAM 등장이오 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T00:11:15+09:00",
+      "publishedAt": "2026-10-28T00:11:15+09:00",
+      "firstCollectedAt": "2026-10-28T03:13:01+09:00",
+      "updatedAt": "2026-10-28T03:13:01+09:00",
+      "summary": "우리는 날아다닐 준비 완료…하늘길 열어갈 UAM 등장이오 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "자동차 점프 실화? 우리는 날아다닐 준비 완료…하늘길 열어갈 UAM 등장이오 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xSU9mMnd1aUNLT3dRaERCQW85NmNfOUgzdnlObzZxV040b2pHU3Q3T3JoOHVadi10cFg4S292ai1PcjNqUVdxZWFPUlBGa1hxU0diMV9veWRZUnNzUGYtVmlsRUZZcWVjYXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eacf835c303931c1a54dbc0e401fb63153807aec6a4b3a3c4c37ad0fe35feecd"
+    },
+    {
+      "id": "20261025-FR-D8D56260-2498",
+      "title": "농식품부, 농촌융복합산업 창업기업 투자 유치 지원을 위한 행사 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-25T11:00:00+09:00",
+      "publishedAt": "2026-10-25T11:00:00+09:00",
+      "firstCollectedAt": "2026-10-28T03:13:01+09:00",
+      "updatedAt": "2026-10-28T03:13:01+09:00",
+      "summary": "농식품부, 농촌융복합산업 창업기업 투자 유치 지원을 위한 행사 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농식품부, 농촌융복합산업 창업기업 투자 유치 지원을 위한 행사 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-25",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00V1VWTjdmUUdWakF4WkR5QndPTHoyeWxIYjNkZzlLMlNlVDZhWTVtcERCLU5WMF9pR2xkM1pFWHczZkVIS3JINHVFM3VobnI4ZWJwLWJZdk5FS3kzZUF6SElVbTRlSDRrWnMzRTlHVHFBSzJk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d8d56260b82947b08b680b8f4fc442dca41394e73cf3c0bda26d57e0369b682f"
+    },
+    {
+      "id": "20261026-FR-2F041807-2499",
+      "title": "\"취업 준비도 똑똑하게\" 청년 취뽀(취업 뽀개기) 돕는 공공서비스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T22:37:13+09:00",
+      "publishedAt": "2026-10-26T22:37:13+09:00",
+      "firstCollectedAt": "2026-10-28T03:13:01+09:00",
+      "updatedAt": "2026-10-28T03:13:01+09:00",
+      "summary": "\"취업 준비도 똑똑하게\" 청년 취뽀(취업 뽀개기) 돕는 공공서비스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"취업 준비도 똑똑하게\" 청년 취뽀(취업 뽀개기) 돕는 공공서비스 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2bHl3MUR0U25VVW5ObG5wUzRXaXRKLUJGRFRxc3IwdC1tZkdxMEdxcXBlQWRoQUVoU1hKODI5R0RaVkJoNzFaWDVfS002MEczclJuSjlBcTh6REFiWUlrNl9QdW1CMjJNaFdOX3FfOHZ4Wi16?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2f041807abf297c60ab63d4fba0ceee29d9dea3b61c49ff2980a60204424b3c1"
+    },
+    {
+      "id": "20261027-DP-41A42585-2464",
+      "title": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T13:18:33+09:00",
+      "publishedAt": "2026-10-27T13:18:33+09:00",
+      "firstCollectedAt": "2026-10-27T15:09:09+09:00",
+      "updatedAt": "2026-10-28T03:13:00+09:00",
+      "summary": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlpWbi05WXo3SjFNSFpJY0cwZ2QtUWJoVldZSEtkSmpIbmF0em5yZHNrdWpqTzNkbXVoUjBfMmNzV2VfeENmMFQxTTBwMFR0N3d5UzN0WVFwc0dacHNub2Q1N3RXWmM2UVZjRE9kOFplQWlRUlR0bkg5MFlQSlFHTFF0MHloeWFXakVFeDliUkxZQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGZLdlg1MmpJdXZWMjRKMExVMDJqQU1IbEtGNTd5RTQxM3dhbHpZUGZLY1p4ZGg5elM2OFRXbHBjM0NGeWIweGc1UzR0djVSQjg5cXlCNUd3Tlp1YlVIVUpJVFpZdmF4SExwc050amZyekdfZXFCWW1RZ1JDdG9oamVtU2hBY3VzV2JpRTczY0RjVzhk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T03:13:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "41a42585a061100d48827003431ae35a555fdbded0bf402720f52478c375b497"
+    },
+    {
+      "id": "20261026-DP-3E8F9470-2435",
+      "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T11:00:00+09:00",
+      "publishedAt": "2026-10-26T11:00:00+09:00",
+      "firstCollectedAt": "2026-10-27T01:54:48+09:00",
+      "updatedAt": "2026-10-28T03:13:00+09:00",
+      "summary": "현장중심 「친환경농어업법」 개정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVHNoa282cG9XVmVZYVY0d2l3OXRYekZiRTVyaFQ5ejE4eE0wb2piY0FOUTUtRmRlY214SjJBTjVfZ0Z3U19GZFNIZno0N3FMeW9pUllTVDE3VVdZaWExWDlMdzUwNV92SkxrNGlWQ0xSNmVlemRwRks0eTIxd0RMWmpzbE92ZEV0ZmxrNU9uYmF6MkNPT0lkaFo2WXp2dGt1elNBMXdINHUwRzU1WDZITnF5NHpDSE1xeHQ0MkFSSG1NaXhsNmZlall5Qm5fZ2Rzckl0bVdqTXlSWVJ3ek0xcnRuNWdmSUZkVnBhdmNObw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zYVlScHAxT2pYT2VDT19qekZPUEZXMm9YWGhLNnRwc2lyZms4Nl9vRy05R2c0VzVzRUFYaEszQVBaa0NLRHJZbzRNM1dFSTJSd3hHQXlYcy13NkZpTWp5OWJtbmMwN0ZyaWg5a3lPbEthblk5?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T03:13:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3e8f947039100ac0953ad3182d44239ed68b85fdfda09f8000a29ac798174a8e"
+    },
+    {
+      "id": "20261026-DP-F1C696B0-2420",
+      "title": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T11:00:00+09:00",
+      "publishedAt": "2026-10-26T11:00:00+09:00",
+      "firstCollectedAt": "2026-10-26T19:25:20+09:00",
+      "updatedAt": "2026-10-28T03:13:00+09:00",
+      "summary": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmQ5aU5zelBRYjNyMUw2WXJsaE5CN1pGUzFiWU1HR1pBZi0wT1VxUkY4aktDdnBPejRWcVB5Q0MySWlyblZkYjFnUFFEeVMwaGluanZiY1ZjRWVET185U2s1eFZlMnVLbFZDdzZuSmF3Qmg3czhobUdZMXN4aS1rM3lBT21jWkFUaTR4dzctOFhzQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBraTZJQmJuU1NQRW5fOGpUc0dUYlgxbzBrMXpqLTVmbi1mUFp4V1RuVFFaaHBfNTlNTkFsb08tendMcnBlZWJldXQ1R0Fvek8yaEJxTFBSOExkUDBOV2hjWWZ4OXFlOGxyZkpXQ0R0SGpuVjZN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T03:13:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f1c696b0e785280957aeda283438b6d8016c98979fb13c2c6c83a7a69ae1137d"
+    },
+    {
+      "id": "20261027-DP-BB800FC2-2495",
+      "title": "대학 등록금 올리면 증액분 어디에 쓰나…등록금심의위가 확인 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T21:32:06+09:00",
+      "publishedAt": "2026-10-27T21:32:06+09:00",
+      "firstCollectedAt": "2026-10-28T03:13:00+09:00",
+      "updatedAt": "2026-10-28T03:13:00+09:00",
+      "summary": "대학 등록금 올리면 증액분 어디에 쓰나…등록금심의위가 확인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대학 등록금 올리면 증액분 어디에 쓰나…등록금심의위가 확인 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zbWFobncwZ0ZySDRIUTJKSTBHdVhka21YejQ1TTgwZnhLMFhQM0tMUnNQQU5HUm5hX0YtMzR4aE4zcGhMWkp5OEx6dHNVWjMtSXFyZmJmaldNRF9UQm0zWk1LcUJ3ZEZaV2IxdA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bb800fc259e73f2852a687df88ec29d71df15423b0d4debaad5a4faac5364be4"
+    },
     {
       "id": "20261026-FR-0F373342-2411",
       "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
@@ -644,46 +1109,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6906945d35d7794bf75f5fe3e43eef10a43d2a7cce1aafd4b2d9669280d03725"
-    },
-    {
-      "id": "20261027-FR-8CF7ECD5-2492",
-      "title": "가을로 물든 '행복도시', 아이와 손잡고 걷다 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-27T17:42:37+09:00",
-      "publishedAt": "2026-10-27T17:42:37+09:00",
-      "firstCollectedAt": "2026-10-27T21:36:07+09:00",
-      "updatedAt": "2026-10-27T21:36:07+09:00",
-      "summary": "가을로 물든 '행복도시', 아이와 손잡고 걷다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "가을로 물든 '행복도시', 아이와 손잡고 걷다 - 대한민국 정책브리핑",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeVZDd1E5RC1lb3J0LVdzdTNwTnFfalQxQUJJbGJLVzhwQjhsell3VC0xeFdZN3p0YjhUTGdYOTBXLUtYWkVjSFpmUUphanVhbXBoTkFjMUNjQWoybWVNcGh3cndzNGU2WXdDWDAtanMzSWZjNlo1TmhFNlFjNTFhSmNmV2YxT1E?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "8cf7ecd573a8c02a0b204d4bc9df3d5d5ed8af790a5096e1713165e1f86dc699"
     },
     {
       "id": "20261027-DP-11D8ECD9-2493",
@@ -2518,46 +2943,6 @@
       "contentHash": "c4204332a6b07a2b5fc2d29f095cf313084c380bca40274c0f0a80da59bd0bc4"
     },
     {
-      "id": "20261027-DP-41A42585-2464",
-      "title": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-27T13:18:33+09:00",
-      "publishedAt": "2026-10-27T13:18:33+09:00",
-      "firstCollectedAt": "2026-10-27T15:09:09+09:00",
-      "updatedAt": "2026-10-27T15:09:09+09:00",
-      "summary": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "실무경력 인정 범위를 넓혀, 청년의 사회진출 돕는다 - 대한민국 정책브리핑",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVlpWbi05WXo3SjFNSFpJY0cwZ2QtUWJoVldZSEtkSmpIbmF0em5yZHNrdWpqTzNkbXVoUjBfMmNzV2VfeENmMFQxTTBwMFR0N3d5UzN0WVFwc0dacHNub2Q1N3RXWmM2UVZjRE9kOFplQWlRUlR0bkg5MFlQSlFHTFF0MHloeWFXakVFeDliUkxZQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "41a42585a061100d48827003431ae35a555fdbded0bf402720f52478c375b497"
-    },
-    {
       "id": "20261027-DP-191EAC46-2465",
       "title": "로또복권 우선계약 대상 확대 추진 및 전자복권 관련 수탁사업자 위약벌 부과 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -3251,46 +3636,6 @@
       "contentHash": "4492444073e7c5c5a55fbb3b79fb8ff37703a692c2db93956def30b6850d43ee"
     },
     {
-      "id": "20261026-FR-F1685E1F-2441",
-      "title": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "통상·경제외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T17:28:00+09:00",
-      "publishedAt": "2026-10-26T17:28:00+09:00",
-      "firstCollectedAt": "2026-10-27T01:54:49+09:00",
-      "updatedAt": "2026-10-27T01:54:49+09:00",
-      "summary": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(동정) 남재헌 차관, 노르웨이 통상산업수산부 수산해양정책장관과 면담 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmFYLWNjc1BmR1pvUm82YW4tX0FTNUZVdUFZQTRRdV9jY2Z4YTRrSzJCNU9heHJORy1PMldCbUZ5dzBndVZUQTUzXzRyNkwtN21IUWoxWGVqNGFXZmdGeXpZNS1hVzlZc3dNREVlWnRia1hpR2FEN2FZRVBCT3plTldLaWRTMks3NlZmQ3hWSU5sUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f1685e1f43b312e021b75664e4f54079d52ff9a4c21127f9bcf6fa61d07c2bc4"
-    },
-    {
       "id": "20261026-FR-294592B0-2442",
       "title": "'우주쓰레기 청소선 '승리호'가 현실로' 우주물체 능동제어 위성 조립 전 최종상태 점검 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -3624,46 +3969,6 @@
       "contentHash": "b627a46ec246f11e50c6ab7412b69f61bd7410ee13e1d8831b0f6f4613d7d340"
     },
     {
-      "id": "20261026-DP-3E8F9470-2435",
-      "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T11:00:00+09:00",
-      "publishedAt": "2026-10-26T11:00:00+09:00",
-      "firstCollectedAt": "2026-10-27T01:54:48+09:00",
-      "updatedAt": "2026-10-27T01:54:48+09:00",
-      "summary": "현장중심 「친환경농어업법」 개정 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "현장중심 「친환경농어업법」 개정 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVHNoa282cG9XVmVZYVY0d2l3OXRYekZiRTVyaFQ5ejE4eE0wb2piY0FOUTUtRmRlY214SjJBTjVfZ0Z3U19GZFNIZno0N3FMeW9pUllTVDE3VVdZaWExWDlMdzUwNV92SkxrNGlWQ0xSNmVlemRwRks0eTIxd0RMWmpzbE92ZEV0ZmxrNU9uYmF6MkNPT0lkaFo2WXp2dGt1elNBMXdINHUwRzU1WDZITnF5NHpDSE1xeHQ0MkFSSG1NaXhsNmZlall5Qm5fZ2Rzckl0bVdqTXlSWVJ3ek0xcnRuNWdmSUZkVnBhdmNObw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "3e8f947039100ac0953ad3182d44239ed68b85fdfda09f8000a29ac798174a8e"
-    },
-    {
       "id": "20261027-DP-1DAAC5F1-2436",
       "title": "[설명] 한국일보(10.26.) ''돌려준 과징금만 2000억인데... 공정위 승소율 90%대 뻥튀기'' 기사 관련 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -3942,46 +4247,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "88d8318d412e37550dc2c5293a9faaabdfdd25d9e7de10ad5e5ef675603721ef"
-    },
-    {
-      "id": "20261026-DP-F1C696B0-2420",
-      "title": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T11:00:00+09:00",
-      "publishedAt": "2026-10-26T11:00:00+09:00",
-      "firstCollectedAt": "2026-10-26T19:25:20+09:00",
-      "updatedAt": "2026-10-26T19:25:20+09:00",
-      "summary": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "가축전염병 보상 강화, 국경검역·현장방역 기반 확충 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmQ5aU5zelBRYjNyMUw2WXJsaE5CN1pGUzFiWU1HR1pBZi0wT1VxUkY4aktDdnBPejRWcVB5Q0MySWlyblZkYjFnUFFEeVMwaGluanZiY1ZjRWVET185U2s1eFZlMnVLbFZDdzZuSmF3Qmg3czhobUdZMXN4aS1rM3lBT21jWkFUaTR4dzctOFhzQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f1c696b0e785280957aeda283438b6d8016c98979fb13c2c6c83a7a69ae1137d"
     },
     {
       "id": "20261026-DP-D9C1FDC1-2421",
