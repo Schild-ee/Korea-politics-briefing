@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-28T07:32:41+09:00",
-    "nextScheduledUpdate": "2026-10-28T08:02:41+09:00",
+    "lastSuccessfulUpdate": "2026-10-28T10:36:00+09:00",
+    "nextScheduledUpdate": "2026-10-28T11:06:00+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-28T07:32:38+09:00",
-      "finishedAt": "2026-10-28T07:32:41+09:00",
+      "startedAt": "2026-10-28T10:35:55+09:00",
+      "finishedAt": "2026-10-28T10:36:00+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 184,
-      "acceptedCandidates": 57,
-      "duplicates": 62,
-      "rejected": 120,
-      "rejectedByDate": 116,
-      "rejectedByRelevance": 3,
-      "rejectedAsCommentary": 1,
-      "newIssues": 2,
-      "updatedIssues": 0,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 58,
+      "duplicates": 53,
+      "rejected": 136,
+      "rejectedByDate": 134,
+      "rejectedByRelevance": 2,
+      "rejectedAsCommentary": 0,
+      "newIssues": 6,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 34,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,667 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261026-FR-0F373342-2411",
+      "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T12:00:00+09:00",
+      "publishedAt": "2026-10-26T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-26T13:32:14+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFXSTZSZ3E5bkxWZ3dhVGZRRFNmOTVISDlVRjRMME9adUdLUXY4ZFRCQ2ZIOEFSVFNHRklrZ1d0Unp2Q05FYmlzMWR0dXNPTUZTUW9oSVItYzJVaEM3UkRHaGlLSG1qeG5ZNy1mLWdpUFBHaHhQV3NaRVhFOHEyc2pNYW9CdDFtM1I3UmstSzBadw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LdE52aU9QTXlwVzQ1SF9RVTFCb3dzS1BrcGtxaGFYUDV5Y1VPUjFTZGxoLW42QWkyYkctWnE5eFF3cnZUb2F2c0dfcGFtNktJVGFfVjVER2ZoZkZBN3EwdTc3dkRRVmdmRmh3NEhUcTRjR2JR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMzgyVDZJSmRQX1RqeEJVU1JhcEo0YXFyMTduWFBFNGVGMHhraEZyRjQ2X1BWSktUMlNmYW1uTUpHcHV4OWJnbnFhSUZSTWRFNjhyWEpNbG5lUTdNSkRZdlZjYUU4RHJnbzFWWjRDeHFtTVR4dXo1c1JjNUkwbm12czZ3M0dMNmtfSWNhbk5IZk10X0xpVDhkX3JTMm9FNm4yT2JGWnFJYWpEeWZ3eEYwYkpNclpVV0RaU0sxWkdBNEJ5X0d1TUFfR0F3LWNRSE5VYXNieXd3a0kzMG9LRVZUZVdMOHFiOVk3bUUzQ3BxNjNKUHRiQmJiZkJvNmVSVTlEekxmZTdrbDU3TkJpS1ktUGFR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQdWVfZklraHpMUGkwZHRoZlVHS2hFSTZaWVd4dG5uSFFyOEQ0M0VLNGdaLS1XaF9ibk5TaENmb2dFaEZqMDZCZ0gzZ2ZfN09JcEt4YVN0cTA5ZnFhSnZxWm0zcHN6SzhWUXpWQjFMZTloVmZlNkdRRU9lT0poemY4cW9kbmJFaXFVekc4aDRaa3ppRjhPRHdBdHRiSkRvWnN6amNDRUI0U21pTjh3WTdCUkN5QlhTWlZ6c2NSN0xmLXYxLXpvWGNOSmJXWHJ0dllzTW1kcGpsOVNiX01RdV9vRDU3SDNQczV0cTNlUTBLTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-27T15:09:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-27T21:36:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-10-28T10:35:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f373342aa270d9c652cfea6bbd3d213aababf55339d405443b20b2de75a35c1"
+    },
+    {
+      "id": "20261026-FR-D33621B0-2405",
+      "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T06:11:13+09:00",
+      "publishedAt": "2026-10-26T06:11:13+09:00",
+      "firstCollectedAt": "2026-10-26T06:59:44+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "제주 로컬 크라우드펀딩 판매전 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdFZKa0hiV20zVnAzUnpYa1pySDl6ZVNTU0NISWphV3JuMWhJbnZrdEc5R3EyZnJlSm95R3JWel9wQUlfMjlwUGJUVXl0YXk4MTNhdlE4MVRzd0oyU25EUHhwZHhKSHV2ZFdYYjZ1aUlGaEpDNnpwVXRiWXI1bVdlQmNIc2M5Vk5nS1RZWHB2UUpGdmhTUzBndjdpR1A0UTU1ZEFfTWg3d3JoUVVtVlQ2M05jVmNaVXFhd21XVk9waF82bGlFbTY3MW9lM0I1VkhtOXRiNkplX19OcDRmTVg2ZWdkaXV6eXdHOWwtSlI0Zw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xb2V5MGFZM3Fxd3YwS0tjR2I3dzBwVGI3cFh3d0pyLXFORW9xWkZ2NVJNOWtwdFFBOU9ZcEpJMHU1YnBRbVdWdjZ3Z1FQZHZHaVlCaWtkUmJJeUl6ek0wQjNEMkdtOTRFbW5YSmFUX2hMY3Rs?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T10:35:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d33621b074edacdb3d058854ebee2c26919aa3d217568ab86a0f597e9b457cd0"
+    },
+    {
+      "id": "20261027-FR-2677F984-2502",
+      "title": "이스탄불에서 온 여행객, '전쟁기념관'에서 걸음을 멈춘 이유 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T13:32:46+09:00",
+      "publishedAt": "2026-10-27T13:32:46+09:00",
+      "firstCollectedAt": "2026-10-28T10:35:57+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "이스탄불에서 온 여행객, '전쟁기념관'에서 걸음을 멈춘 이유 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이스탄불에서 온 여행객, '전쟁기념관'에서 걸음을 멈춘 이유 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0bkpYQ09oaFJVTTNabWJzR0d0cUVfam51RW50UlM0cktoY1E3OC1MNVFOUVNQblJkY05KXzBMWFNUTEdmdEVGMldHbF9Xd3pMZXF1SVpLUnhMTDgyY2xod3BmNlZ4amc4dnc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2677f9849ed9707758d347b35bf882f1de5746462a02f96c21cb0f17bb288cb1"
+    },
+    {
+      "id": "20261026-FR-EB1B696B-2503",
+      "title": "제1차 국민참여성장펀드 자산운용보고서 공시 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T00:00:00+09:00",
+      "publishedAt": "2026-10-26T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-28T10:35:57+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "제1차 국민참여성장펀드 자산운용보고서 공시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제1차 국민참여성장펀드 자산운용보고서 공시 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9yeEUwTnVpTDhjV09KNURwaURkbEJydTdlRjNWM3lZRWxpal9vcFRId0pfNVpfRnRfSE9PQW5HdnhCVkpOTGRJdUFhNkJ0NjZPTFFWNkgxcXd0Z0lmX1hQR1gzUnp2cVhHNzYtbl9iczBsUlow?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eb1b696b5df17081309aac63ae219ac9b3dbfdb9702d64a5787323156eabf5c5"
+    },
+    {
+      "id": "20261026-FR-E983DED1-2504",
+      "title": "산림청, 아시아 산림협력 성과 공유하고 첨단기술 활용 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T16:38:01+09:00",
+      "publishedAt": "2026-10-26T16:38:01+09:00",
+      "firstCollectedAt": "2026-10-28T10:35:57+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "산림청, 아시아 산림협력 성과 공유하고 첨단기술 활용 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "산림청, 아시아 산림협력 성과 공유하고 첨단기술 활용 확대 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85c3JqRVpVbXB1MnZnRUtod2FWc2N6aXFBdnJTMjhrTlB2RVFzcVRxRlBWdF9oTkJLT0FkX2JkVGhwYklrSDFSeHlfeDhONGxWOHVHS3RpWkRoSEVDS3BGbTdoSnIzNXgxc2xMQTBfMElTVUlk?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e983ded1c602278c74d111f9ead6924880a188bd8872e58878a53303c9cbbf05"
+    },
+    {
+      "id": "20261027-FR-1AC033B4-2505",
+      "title": "(우행시) 우리들의 행정서류를 위한 시간 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T17:58:05+09:00",
+      "publishedAt": "2026-10-27T17:58:05+09:00",
+      "firstCollectedAt": "2026-10-28T10:35:57+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "(우행시) 우리들의 행정서류를 위한 시간 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(우행시) 우리들의 행정서류를 위한 시간 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vSlQzNkstTVY0eHc0Unc2V1lXZXk4dXNOYTJVVktiTUc3Z2dkUkN3QzZydUd2dmtBNkZPRVhya1JaVGZsMHdoNW11bVhqeV9CbFMySUg2Q3hNTU14UUt2TTVCRWcyZF84Z0l0Sg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1ac033b49d8e11bbcd6f82bb599a9ba53422f0edcc565c7ca3f456ac1f77e81a"
+    },
+    {
+      "id": "20261026-FR-02D2A134-2506",
+      "title": "[10.27.화.조간] 쉽게 낫지 않는 소아 식품 알레르기, 태반의 유전자 조절 변화와 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T12:00:00+09:00",
+      "publishedAt": "2026-10-26T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-28T10:35:57+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "[10.27.화.조간] 쉽게 낫지 않는 소아 식품 알레르기, 태반의 유전자 조절 변화와 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[10.27.화.조간] 쉽게 낫지 않는 소아 식품 알레르기, 태반의 유전자 조절 변화와 관련 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2bHY4YXBpWVM0NHdCdUxGVWtjMkV3M1Z6ckdtR1VFZkxybEJRTjFwTXhCZTlpWHo4bFowZG4zVXZJc3lrWmUxNzJtREN4V1psWm4xQ2RHQmJWWnVDS2dxc1Q0MFhZZFpDOW9lSTdxOC1ZMkc1?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "02d2a13498f31d4d19f56c34fce11e18a248cca3fb3a54087c770b314a585ff9"
+    },
+    {
+      "id": "20261026-FR-6ED011BF-2507",
+      "title": "제3차 기후위기대응 권역별 포럼 개최(경남) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T21:47:40+09:00",
+      "publishedAt": "2026-10-26T21:47:40+09:00",
+      "firstCollectedAt": "2026-10-28T10:35:57+09:00",
+      "updatedAt": "2026-10-28T10:35:57+09:00",
+      "summary": "제3차 기후위기대응 권역별 포럼 개최(경남) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제3차 기후위기대응 권역별 포럼 개최(경남) - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80RlVvNzNuZkt3ZlVfR3dqR1NTano4RjNzdzJUTEJLSEs5RjhwZ1RzMVM0ckRsdzMtMml2ald3TUoycm53QTJ0bGg2Slp1RFVuQkNma09wV3ctZDZ6cV8zdEZUT014NDhhMGswazBmdmNrSkFN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6ed011bf1008cec162d07a8d044ca9761c1c19bfcc96541ea74e8bf406951510"
+    },
+    {
+      "id": "20261026-DP-61A1A376-2416",
+      "title": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T19:03:49+09:00",
+      "publishedAt": "2026-10-26T19:03:49+09:00",
+      "firstCollectedAt": "2026-10-26T19:25:20+09:00",
+      "updatedAt": "2026-10-28T10:35:56+09:00",
+      "summary": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU1laVRMS2llZnMtZXE1X3drNkFoZWRUY3BPUFIwd2NFSjczaF9CbmZHdU5yRVhGdGk3LWNNaXd3czh5RFlpaUloeS1PeEhrVHRBX1FPWXhBdXZIamVFbUhmR2RteE5ZQXRMUnlsQTA0d05Vci1lc1pXYzJWeXd4b1BoMWtxbmhwU0kzM0hKc09zdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONThPTXVPSTR2V0JvaHVDRDB6M0RUT0VNSEs2Z01ScWxGUm5WZUNMVmNzSXN4c3dtVmFtVnZhR0Z5clp2YjJkQjNYcE5yU2JCTUx3aU9BSXhnWkNBZFBTSzVKMnA3WnVPRFdzblF5QWRIWmJjVzBBWUh3QmxacTRxWjAtekk5S0RyQ0tJZmtrNUNfTzVy?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T10:35:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "61a1a376a1b3985c311c83330c13169201771d6c3bc70d18ee4c57013793191c"
+    },
+    {
+      "id": "20261026-DP-5DD72C2D-2407",
+      "title": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-26T09:48:59+09:00",
+      "publishedAt": "2026-10-26T09:48:59+09:00",
+      "firstCollectedAt": "2026-10-26T13:32:14+09:00",
+      "updatedAt": "2026-10-28T10:35:56+09:00",
+      "summary": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해! - 대한민국 정책브리핑",
+          "date": "2026-10-26",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1BQa0t1S1RNR0J2ZkNHckFKeGwzX2dwVHc3SVVzclNiRFVQNE5BM2lrQXE5REd4RmVuazJTVUhtWHQyWXp4X2pXdjlWbkZSeTRSTDU0RzlHdFpEZ3ZXam1BLXVuSVZpa1A1eWlEVWJ3VnV2cUxON3gtbGJYSXJlYlJLblpvOWs?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해! - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TNUdSWktUa2hMb0FWQi14VDgyU1BJcUctMVZEUk1mTUxtUzZBM3ZXQ2ttdzNnT2t4cndWQ2tDRmQwLWU1Vy1hTThFUlNOSzlfU3pHbm5XbHpHWk54Vm5lUmRwdVNVeTRyUUE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T10:35:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5dd72c2ddf5e5d98ed75e35f0786e284c7c760f612e9f9a980061b1926bc428d"
+    },
+    {
+      "id": "20260831-DP-6D25CD17-838",
+      "title": "새소식 - 상세보기 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-31T21:14:28+09:00",
+      "publishedAt": "2026-08-31T21:14:28+09:00",
+      "firstCollectedAt": "2026-08-31T22:29:47+09:00",
+      "updatedAt": "2026-10-28T10:35:56+09:00",
+      "summary": "새소식 - 상세보기 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHZNaE5QTjI2elExekk1TGI3eXFnNFlRUF9mOHEtZUdKR3l1Z1F5ZU5vUlRWUVd2dnBRMExBdWlzNWxBUXBoWWpmck5WcHBjejY4bW11TlhySENuaE1lQmlnaHl3QVRzVjUxZXZLX0gyU0EyMVlEMU9zOE44ZEJjQzg3S3Y5dXZHVUQw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkRCOEoxTGFBUkhhTkE5M0g0SHp5M2ZPM2VnVUFZZUVHc2JtZUNVVGhmTVBqSWZmV2VXZWxfVUhvM0JyWVBmekd1NWUteTRJcGlsSkJJZ3AwNkRSdUJWeTdjbjlBMHBsUzhSYlFmX0hYSUtmdjViRXEzdWNvczhjYXZVWWthU0o0aDg4?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0JUOElKeUFieDJpQTVDNnIwRGxJek5TZ2hTSDFYMm96WjJ2clJjdG5VNVNTa3VPZ1JkckJzcnRpSVJxUjNrVkhRQkZBRERLWW9DVEQza3gxclFmSHNvdkY2NE82OWhyN1oyUjR5a1ZpNjhHOTlNc2sxWTE2ZjZJQkM1RFRkNVU4UVY5WQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlBXM2haSnFZeXVmTl9ZYV9zaDY0d2VJWjhjTFhBaVlfZE1yU0tvUjJSbmQxOXFtVlkwbXZqTHBOT2VQMXloUm5CQVBDTzJpWkxkQnEwWENXT3J4d1JYUTFMSzU0SFdtUGpEVU9zZmFwT0dhOFcxQ0NYdVlYajd6a3ZScVVuUGtKd0Y4?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-07",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFJwYmNSblJlWVhTYWJCMU9HWUxqNlVJTUJQMFVoeUxzZ3RzcTJJQVhqcXVtbWQ0NHJmeUJIc1dteHdQcnVJVkVnaTVxZjMxQ1dtUHZFaWt1cm9YNlcxdlpVQ3NZSWdXZWRSUkc3ejMxVDFSWjNBMk1zaFlYTXNQaHhpNzZoOE1sajJVTg?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmxGdWkyaGl2cHhxRjI3SHJDX0lsRDkwS1gzc1RuUGJUa3dmZE1FWVM3ckdPVEV1a0dsVzJoU0ZqNGFmUlJwVHBjRXJCR3lpRlo4cjdlSHBZbnc0TmpPcWFFcWlBV045NDVOOHljM2M4VDRUeFFPTWdYV2tyaFF5NXJoTzNURm9rRTRr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0ZneUdSTm9BU24wVS1fMmpmcTJ6UnhZRDBBbnN4WUtxU052YVNhbW1rNUNnb210RmpYeHFHVERrUGJ2YzhUbm05VXhpVGc1d2tSUnVUTFdXUG1NYTdzMUhJWmFybnhqSjd5MndETWFYRkFuekVZWHF6S3l3UEJJU2MwWmNBVHE4R3pr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-09-30",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRk1ZRmgzc0RhbHB2V2V0bHpzYVFvNTVxYVFmYnNOdHNpMno5NmR1VnJDYnpNRU1KWmxieWJvOHNPY2JjOXlXYUNWeVB2MWcydGp4RXh4WlAyTFFlOUl2dmtiTXBXTG9vT0JfRkUzVlMtVmNZM0hTZjc2Q0t6S0JHd3JRanNGOTJwX3dn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-10-06",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnZYRkxGQUZTX0tlLW9VNC1sSW5uaERvNkVvcW1ZQ1ZpN2todjJBMUFDNmQ2T0xiRks1T3paTk42NktwcjdvRC1qbzBWNHJCVElIZWxyRk8wTndKM3o4R3pKdm01TVNEQm9uTVZxdnBjREJTdXU2ZjNKRGVWUldjdmlZWDE2M2ZVaGFF?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-10-07",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1dzQVVaSU1xdkp3VExEejdiVjNpdmJ3ekZpXzhxdUhtaHZDNzRQSC1GWHVQMEtoaU9vV1Zhczh3MllVaGozNVRVMmFuZDNtTlZ3dElqZEdCekYzNm0yZDdQR1R0SEJDbVRrcWxkeVpmdXF4WW5Na2lqaDFsSEYtdmMxVXp3b01SNzJF?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-10-12",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWU9yUVZCN2hwREdIZDZJcVJxN0lzMDJIazF5UTVXRl9GTUFPc0tJaUtELXUzdVh6cEdVTkcyM3NCQ2p1aTNCOE1TeXZxeUZ0QzZ1MkEwMm8zNXdaVUxFOUU2NWNwTG9jVENOUkZpdUtZUzJUQ3JOdXd3OHlNR0NwckF6LVF5ZFQ3U1pJ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9ZRkFiRjc3Ukk3eGlnVFI4TDdWSW5mVDJYVGZia0stTkwwd25BY1M4N1NfOU9Ib01qbTBmMVVTTXVvaXgtM2g3dWlHV2oxYVZnMnA0N2tPRXpSTkRjZGV2MWwzQzVYTEd0b0VTMldnYlltc2pSa2pOd05faUJrNDlITTZKbUNIcjFZ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "새소식 - 상세보기 - 대한민국 법원",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN0xNdUFRdDRpeVc2U1g3RkVhUlQ1OVREcG5XSENJSTNsSFJPMmdrcHduRmlHTXpObVNLQktvVko2RGJfTzZsQ1pQUmY0bmFsVkVvM0otV0VIRFRhRjByMUpNeFgyTW5vYWVSTkU5LTQxWjFnenhFRTB0MmQ0NnlPd3ZZVkZldnFpaVBqUFBn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-04T13:17:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-05T17:32:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-07T09:54:59+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-08T02:52:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-22T23:39:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-09-28T20:55:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-10-01T03:22:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        },
+        {
+          "updatedAt": "2026-10-06T18:19:02+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 8
+        },
+        {
+          "updatedAt": "2026-10-07T23:26:18+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 9
+        },
+        {
+          "updatedAt": "2026-10-12T11:36:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 10
+        },
+        {
+          "updatedAt": "2026-10-14T15:01:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 11
+        },
+        {
+          "updatedAt": "2026-10-28T10:35:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 12
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6d25cd170abbff98d33bf0f1c491f766f03ba992d53805652db1813c19ac1224"
+    },
     {
       "id": "20261028-DP-E870AE9C-2500",
       "title": "2026년도 제46회 국무회의 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
@@ -608,71 +1269,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "bb800fc259e73f2852a687df88ec29d71df15423b0d4debaad5a4faac5364be4"
-    },
-    {
-      "id": "20261026-FR-0F373342-2411",
-      "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T12:00:00+09:00",
-      "publishedAt": "2026-10-26T12:00:00+09:00",
-      "firstCollectedAt": "2026-10-26T13:32:14+09:00",
-      "updatedAt": "2026-10-27T21:36:07+09:00",
-      "summary": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzFXSTZSZ3E5bkxWZ3dhVGZRRFNmOTVISDlVRjRMME9adUdLUXY4ZFRCQ2ZIOEFSVFNHRklrZ1d0Unp2Q05FYmlzMWR0dXNPTUZTUW9oSVItYzJVaEM3UkRHaGlLSG1qeG5ZNy1mLWdpUFBHaHhQV3NaRVhFOHEyc2pNYW9CdDFtM1I3UmstSzBadw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LdE52aU9QTXlwVzQ1SF9RVTFCb3dzS1BrcGtxaGFYUDV5Y1VPUjFTZGxoLW42QWkyYkctWnE5eFF3cnZUb2F2c0dfcGFtNktJVGFfVjVER2ZoZkZBN3EwdTc3dkRRVmdmRmh3NEhUcTRjR2JR?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "4개 민간임대아파트 건설 사업 시행사의 부당광고 제재 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOMzgyVDZJSmRQX1RqeEJVU1JhcEo0YXFyMTduWFBFNGVGMHhraEZyRjQ2X1BWSktUMlNmYW1uTUpHcHV4OWJnbnFhSUZSTWRFNjhyWEpNbG5lUTdNSkRZdlZjYUU4RHJnbzFWWjRDeHFtTVR4dXo1c1JjNUkwbm12czZ3M0dMNmtfSWNhbk5IZk10X0xpVDhkX3JTMm9FNm4yT2JGWnFJYWpEeWZ3eEYwYkpNclpVV0RaU0sxWkdBNEJ5X0d1TUFfR0F3LWNRSE5VYXNieXd3a0kzMG9LRVZUZVdMOHFiOVk3bUUzQ3BxNjNKUHRiQmJiZkJvNmVSVTlEekxmZTdrbDU3TkJpS1ktUGFR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-27T15:09:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-10-27T21:36:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0f373342aa270d9c652cfea6bbd3d213aababf55339d405443b20b2de75a35c1"
     },
     {
       "id": "20261027-FR-49CF7C78-2469",
@@ -4209,46 +4805,6 @@
       "contentHash": "d43bdd99de433f18fb097c27bb8654536c7636842401fd1db690fcc6b743cb68"
     },
     {
-      "id": "20261026-DP-61A1A376-2416",
-      "title": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T19:03:49+09:00",
-      "publishedAt": "2026-10-26T19:03:49+09:00",
-      "firstCollectedAt": "2026-10-26T19:25:20+09:00",
-      "updatedAt": "2026-10-26T19:25:20+09:00",
-      "summary": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "「국제상사중재위원회(ICCA) 2030 총회」 서울 유치 확정 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU1laVRMS2llZnMtZXE1X3drNkFoZWRUY3BPUFIwd2NFSjczaF9CbmZHdU5yRVhGdGk3LWNNaXd3czh5RFlpaUloeS1PeEhrVHRBX1FPWXhBdXZIamVFbUhmR2RteE5ZQXRMUnlsQTA0d05Vci1lc1pXYzJWeXd4b1BoMWtxbmhwU0kzM0hKc09zdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "61a1a376a1b3985c311c83330c13169201771d6c3bc70d18ee4c57013793191c"
-    },
-    {
       "id": "20261026-DP-3533B4E4-2417",
       "title": "동물학대 재발 막고, 동물보호망 확충한다 ｢동물보호법｣ 개정안 공포 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -4918,46 +5474,6 @@
       "contentHash": "984c6051112b3f5dc797381f979cb801551b62b1a82617512d3c4ddc3e7a2df2"
     },
     {
-      "id": "20261026-DP-5DD72C2D-2407",
-      "title": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해! - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T09:48:59+09:00",
-      "publishedAt": "2026-10-26T09:48:59+09:00",
-      "firstCollectedAt": "2026-10-26T13:32:14+09:00",
-      "updatedAt": "2026-10-26T13:32:14+09:00",
-      "summary": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해!",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "군 경력도 사회로 잇다…국군 장병 우리 아들, 알찬 군 생활을 응원해! - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1BQa0t1S1RNR0J2ZkNHckFKeGwzX2dwVHc3SVVzclNiRFVQNE5BM2lrQXE5REd4RmVuazJTVUhtWHQyWXp4X2pXdjlWbkZSeTRSTDU0RzlHdFpEZ3ZXam1BLXVuSVZpa1A1eWlEVWJ3VnV2cUxON3gtbGJYSXJlYlJLblpvOWs?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "5dd72c2ddf5e5d98ed75e35f0786e284c7c760f612e9f9a980061b1926bc428d"
-    },
-    {
       "id": "20261026-DP-553C6217-2408",
       "title": "북극항로 열리면 우리나라 바닷길이 달라진다? - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -5156,46 +5672,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "a29b3b1403331b54c653c4537525f0224406ac9b02b7a9a53bb71f005ae2890d"
-    },
-    {
-      "id": "20261026-FR-D33621B0-2405",
-      "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-26T06:11:13+09:00",
-      "publishedAt": "2026-10-26T06:11:13+09:00",
-      "firstCollectedAt": "2026-10-26T06:59:44+09:00",
-      "updatedAt": "2026-10-26T06:59:44+09:00",
-      "summary": "제주 로컬 크라우드펀딩 판매전 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제주 로컬 크라우드펀딩 판매전 개최 - 대한민국 정책브리핑",
-          "date": "2026-10-26",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdFZKa0hiV20zVnAzUnpYa1pySDl6ZVNTU0NISWphV3JuMWhJbnZrdEc5R3EyZnJlSm95R3JWel9wQUlfMjlwUGJUVXl0YXk4MTNhdlE4MVRzd0oyU25EUHhwZHhKSHV2ZFdYYjZ1aUlGaEpDNnpwVXRiWXI1bVdlQmNIc2M5Vk5nS1RZWHB2UUpGdmhTUzBndjdpR1A0UTU1ZEFfTWg3d3JoUVVtVlQ2M05jVmNaVXFhd21XVk9waF82bGlFbTY3MW9lM0I1VkhtOXRiNkplX19OcDRmTVg2ZWdkaXV6eXdHOWwtSlI0Zw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d33621b074edacdb3d058854ebee2c26919aa3d217568ab86a0f597e9b457cd0"
     },
     {
       "id": "20261023-DP-D6032284-2406",
@@ -19119,179 +19595,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9e0b0878be524541dd61db7b8f3718596c3c343a5946cdbbd13556c2b7d7641f"
-    },
-    {
-      "id": "20260831-DP-6D25CD17-838",
-      "title": "새소식 - 상세보기 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-31T21:14:28+09:00",
-      "publishedAt": "2026-08-31T21:14:28+09:00",
-      "firstCollectedAt": "2026-08-31T22:29:47+09:00",
-      "updatedAt": "2026-10-14T15:01:42+09:00",
-      "summary": "새소식 - 상세보기 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaHZNaE5QTjI2elExekk1TGI3eXFnNFlRUF9mOHEtZUdKR3l1Z1F5ZU5vUlRWUVd2dnBRMExBdWlzNWxBUXBoWWpmck5WcHBjejY4bW11TlhySENuaE1lQmlnaHl3QVRzVjUxZXZLX0gyU0EyMVlEMU9zOE44ZEJjQzg3S3Y5dXZHVUQw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdkRCOEoxTGFBUkhhTkE5M0g0SHp5M2ZPM2VnVUFZZUVHc2JtZUNVVGhmTVBqSWZmV2VXZWxfVUhvM0JyWVBmekd1NWUteTRJcGlsSkJJZ3AwNkRSdUJWeTdjbjlBMHBsUzhSYlFmX0hYSUtmdjViRXEzdWNvczhjYXZVWWthU0o0aDg4?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-05",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0JUOElKeUFieDJpQTVDNnIwRGxJek5TZ2hTSDFYMm96WjJ2clJjdG5VNVNTa3VPZ1JkckJzcnRpSVJxUjNrVkhRQkZBRERLWW9DVEQza3gxclFmSHNvdkY2NE82OWhyN1oyUjR5a1ZpNjhHOTlNc2sxWTE2ZjZJQkM1RFRkNVU4UVY5WQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUlBXM2haSnFZeXVmTl9ZYV9zaDY0d2VJWjhjTFhBaVlfZE1yU0tvUjJSbmQxOXFtVlkwbXZqTHBOT2VQMXloUm5CQVBDTzJpWkxkQnEwWENXT3J4d1JYUTFMSzU0SFdtUGpEVU9zZmFwT0dhOFcxQ0NYdVlYajd6a3ZScVVuUGtKd0Y4?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-07",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOFJwYmNSblJlWVhTYWJCMU9HWUxqNlVJTUJQMFVoeUxzZ3RzcTJJQVhqcXVtbWQ0NHJmeUJIc1dteHdQcnVJVkVnaTVxZjMxQ1dtUHZFaWt1cm9YNlcxdlpVQ3NZSWdXZWRSUkc3ejMxVDFSWjNBMk1zaFlYTXNQaHhpNzZoOE1sajJVTg?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORmxGdWkyaGl2cHhxRjI3SHJDX0lsRDkwS1gzc1RuUGJUa3dmZE1FWVM3ckdPVEV1a0dsVzJoU0ZqNGFmUlJwVHBjRXJCR3lpRlo4cjdlSHBZbnc0TmpPcWFFcWlBV045NDVOOHljM2M4VDRUeFFPTWdYV2tyaFF5NXJoTzNURm9rRTRr?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0ZneUdSTm9BU24wVS1fMmpmcTJ6UnhZRDBBbnN4WUtxU052YVNhbW1rNUNnb210RmpYeHFHVERrUGJ2YzhUbm05VXhpVGc1d2tSUnVUTFdXUG1NYTdzMUhJWmFybnhqSjd5MndETWFYRkFuekVZWHF6S3l3UEJJU2MwWmNBVHE4R3pr?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-09-30",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRk1ZRmgzc0RhbHB2V2V0bHpzYVFvNTVxYVFmYnNOdHNpMno5NmR1VnJDYnpNRU1KWmxieWJvOHNPY2JjOXlXYUNWeVB2MWcydGp4RXh4WlAyTFFlOUl2dmtiTXBXTG9vT0JfRkUzVlMtVmNZM0hTZjc2Q0t6S0JHd3JRanNGOTJwX3dn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-10-06",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnZYRkxGQUZTX0tlLW9VNC1sSW5uaERvNkVvcW1ZQ1ZpN2todjJBMUFDNmQ2T0xiRks1T3paTk42NktwcjdvRC1qbzBWNHJCVElIZWxyRk8wTndKM3o4R3pKdm01TVNEQm9uTVZxdnBjREJTdXU2ZjNKRGVWUldjdmlZWDE2M2ZVaGFF?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-10-07",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ1dzQVVaSU1xdkp3VExEejdiVjNpdmJ3ekZpXzhxdUhtaHZDNzRQSC1GWHVQMEtoaU9vV1Zhczh3MllVaGozNVRVMmFuZDNtTlZ3dElqZEdCekYzNm0yZDdQR1R0SEJDbVRrcWxkeVpmdXF4WW5Na2lqaDFsSEYtdmMxVXp3b01SNzJF?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-10-12",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWU9yUVZCN2hwREdIZDZJcVJxN0lzMDJIazF5UTVXRl9GTUFPc0tJaUtELXUzdVh6cEdVTkcyM3NCQ2p1aTNCOE1TeXZxeUZ0QzZ1MkEwMm8zNXdaVUxFOUU2NWNwTG9jVENOUkZpdUtZUzJUQ3JOdXd3OHlNR0NwckF6LVF5ZFQ3U1pJ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "새소식 - 상세보기 - 대한민국 법원",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUF9ZRkFiRjc3Ukk3eGlnVFI4TDdWSW5mVDJYVGZia0stTkwwd25BY1M4N1NfOU9Ib01qbTBmMVVTTXVvaXgtM2g3dWlHV2oxYVZnMnA0N2tPRXpSTkRjZGV2MWwzQzVYTEd0b0VTMldnYlltc2pSa2pOd05faUJrNDlITTZKbUNIcjFZ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-04T13:17:05+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-05T17:32:05+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-09-07T09:54:59+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-08T02:52:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-22T23:39:00+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-09-28T20:55:57+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        },
-        {
-          "updatedAt": "2026-10-01T03:22:14+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 7
-        },
-        {
-          "updatedAt": "2026-10-06T18:19:02+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 8
-        },
-        {
-          "updatedAt": "2026-10-07T23:26:18+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 9
-        },
-        {
-          "updatedAt": "2026-10-12T11:36:52+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 10
-        },
-        {
-          "updatedAt": "2026-10-14T15:01:42+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 11
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6d25cd170abbff98d33bf0f1c491f766f03ba992d53805652db1813c19ac1224"
     },
     {
       "id": "20261014-DP-B804A4F9-2099",
