@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-29T04:47:31+09:00",
-    "nextScheduledUpdate": "2026-10-29T05:17:31+09:00",
+    "lastSuccessfulUpdate": "2026-10-29T08:58:02+09:00",
+    "nextScheduledUpdate": "2026-10-29T09:28:02+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-29T04:47:27+09:00",
-      "finishedAt": "2026-10-29T04:47:31+09:00",
+      "startedAt": "2026-10-29T08:57:55+09:00",
+      "finishedAt": "2026-10-29T08:58:02+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 63,
-      "duplicates": 59,
-      "rejected": 134,
-      "rejectedByDate": 132,
+      "fetchedCandidates": 184,
+      "acceptedCandidates": 72,
+      "duplicates": 63,
+      "rejected": 109,
+      "rejectedByDate": 105,
       "rejectedByRelevance": 2,
-      "rejectedAsCommentary": 0,
-      "newIssues": 4,
+      "rejectedAsCommentary": 2,
+      "newIssues": 9,
       "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 34,
           "error": ""
         },
         {
@@ -64,6 +64,537 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261028-DP-20C457EC-2520",
+      "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T16:50:48+09:00",
+      "publishedAt": "2026-10-28T16:50:48+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONF9JUVRIbHdkdlRkaFJaVWlKX21SQmpqOEFTVWVkbFF6NElHanR6bEhpV0dnZFgtM0ZCcFNhQnk5N0lPdmMtTnduV2hhbkJaSzd5QjRKUnozUTNac0FqcFhMcFNoU0loaS1YWGI2cmNyVkM3S2FQdTJSLUVFdWJrVWpFem5NbFJrU1NFQWdYWnpYRm9W?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHNfVW9YR0VUZzR5ZTc0RnlOZU1VYlRxSnoyZEYyRlZ5NkJzREZmS2JZZklXWXlYaHhhcHhIdTlTTEVEMFRpWHByY3BueUJWUXRzWUZkMU1OOTBURG1HWE53NlpnTTRfczgyUmo2YUxjOXRwWkFFNmdrenBoSjdrbEJ6YmlTQUZUMU9RalFJeEtJZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-29T08:57:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "20c457ecea0d0f0b78a7e8733cf1884df51740d6dadcb65652e34906dadce22a"
+    },
+    {
+      "id": "20261027-FR-49CF7C78-2469",
+      "title": "삼성전자(주)의 부당한 광고행위 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T12:00:00+09:00",
+      "publishedAt": "2026-10-27T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-27T15:09:10+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "삼성전자(주)의 부당한 광고행위 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "삼성전자(주)의 부당한 광고행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzgwczFmZVRxMXBZTmVnX3BJeDdpaHlvS25tWEotUWExOFpxYUJhdTgxV0o0RDBzM0JCZEQzR3lsaUMxZ21FeFUyNDhGcjh3N3JsRVpkZlZoaFcxbnVYdFBqYVRJbUFmcktCTFNsN1k4eDhSTHUySjB1MzM2eVlMdXh4T1FiSjVfZFNOMEhRdVVqdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "삼성전자(주)의 부당한 광고행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kZUJDdlp5Z0pMOXAwZmFUbnUybnFNb1ltQ3FFM0JQamxaR18weHBBaGRXZGdaTDhlQTVPMHJnWVZsSzZHQ1FmUGtsOXpYYktta19mSXRLMWJKZEdMVVg3MXVRUENsc3VyYXVfWUw2LUhVcVR4emlr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "삼성전자(주)의 부당한 광고행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vbDh4QkhIbnZqU2M2N050Rjl0dzZLQXdLU0E3YmtNNWcxZ0JIblpsZFNNV0luUXFJaHJIVnNwTjNzalhnQlNaRzVZV3hLZDk1X0dwRGlJTGdUendKTTVUZy1TTUpENWNkTEh3cnpTVmszSjNj?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-27T21:36:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-29T08:57:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "49cf7c785a312b914fefd2ff27a153da213b2e0a4e778da639a74980af04bf26"
+    },
+    {
+      "id": "20261027-DP-6AF7B15E-2489",
+      "title": "제2026-17회 원자력안전위원회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-27T17:23:10+09:00",
+      "publishedAt": "2026-10-27T17:23:10+09:00",
+      "firstCollectedAt": "2026-10-27T21:36:07+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "제2026-17회 원자력안전위원회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제2026-17회 원자력안전위원회 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDYxaW5hYlY1OXZuT05uVGllc2ptVlRadEhOWEQxQU9ZUGJuV3VtTGJybmhscU1rLWE3MXFZQXVWbzU4SHJNeWdoOFg5LWw0NXAwZ3htcTBqd2dNYjhmUHdZWGt1bFprZjFQaUFXMVdHQmJ6SFp5TjJKaDRKanFzQV9NR3ZyX2tPdDBQVHdIS1MzUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제 2026-17 회 원자력안전위원회 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCaFRmd3FxNzZtSjNyb3JyWVh6WWtyb292bTRWTmdpaWJ1VkIybHVEUEw3NnlaS1l4b0wzc1IxVWJkT2JzSnJxaGNUY2stRDVuZEhIOTUwdDlLUUZwWG1oaHJFR0l3MTk5MnFleUplY2t3UkdO?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-29T08:57:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6af7b15e79b05eace0f24644f324bee6a06eca641a886f246dbbc32724c9963e"
+    },
+    {
+      "id": "20261028-DP-17936314-2538",
+      "title": "10월 29일부터 달라지는 주민등록 제도... \"재혼가정 사생활 보호·외국인 신원증명 편의 제고\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T12:00:00+09:00",
+      "publishedAt": "2026-10-28T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "10월 29일부터 달라지는 주민등록 제도... \"재혼가정 사생활 보호·외국인 신원증명 편의 제고\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "10월 29일부터 달라지는 주민등록 제도... \"재혼가정 사생활 보호·외국인 신원증명 편의 제고\" - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzdi1kMVNCX0tGM01PdXVjZm5CQm4zRWlOTjJBSTlHaFo0ZFBCRE1CcWQwc2FEWmZ3TW5mVVU1S2wySWNHdHRhd25KTVVRcmFyWEJYVzFaSWRDNmR3dERGaV9Gc3JielczYjcxeklON1gtX25S?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "179363142e85692eb9eb185702eabc2ca87bbd3ff9c3e59a4e7d4b1b94248826"
+    },
+    {
+      "id": "20261029-DP-59BFAA5D-2539",
+      "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T00:00:00+09:00",
+      "publishedAt": "2026-10-29T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORG8wOTZIOENOVVFKUFdidDQtZHh0SUFPb2pjQ0M4cjZ3YWxVM0ljU2NrTjVGTUV3cjhqX2xUdF9oSjUwc2h0THRqSUlNeFE4TkZ5dkpkQ3VVVDN1bUt0Y3JJSUlNU3R5R1RzWVZpSkxHdGtrYlJ3ZmdFeUFKX1c3VW9vTXpRaEZEbzM3ZWVvbmRNUTdoeUk0UnVuMkdlNURGZUx4aTNYNUlMem5PZldLV0RSd0E0RGVibnJKVURVRVROS0lOT1VhRWpXZU9LVTBUcG9qbVhxSjd5RktzTEZ3STVWOGE4QkJTbjMycV9zWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "59bfaa5df7889df9c6ae9c53c3da8aec9e2d8bc35e204df55143394c5ae909e6"
+    },
+    {
+      "id": "20261028-DP-D3A09689-2540",
+      "title": "\"출생아 및 청년 인구 수도권 집중 현상 지속\" 출생아 수 증가세 지속, 지역간 인구불균형은 여전 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T00:00:00+09:00",
+      "publishedAt": "2026-10-28T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "\"출생아 및 청년 인구 수도권 집중 현상 지속\" 출생아 수 증가세 지속, 지역간 인구불균형은 여전 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"출생아 및 청년 인구 수도권 집중 현상 지속\" 출생아 수 증가세 지속, 지역간 인구불균형은 여전 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnVnJpa3hrWUZxNlpZMXBYRl9CaTh2WUdhdEh3WmxOY2tFeVQ4QVhXWHVnZDNQOGF4aHptOVlFLTJVUnhlSk9fY3ZxdlBFYk5JS1hpMGp0bEZCcTQtaWg0ZUd1U20zcENCbXpoVWhqaTRPckcz?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d3a096895bee8dfab5135cd88e127cd94050a4d694f0f8205c678916c98124d3"
+    },
+    {
+      "id": "20261028-DP-BB92289D-2541",
+      "title": "가을철 산불방지대책 추진계획 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T10:00:00+09:00",
+      "publishedAt": "2026-10-28T10:00:00+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "가을철 산불방지대책 추진계획 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가을철 산불방지대책 추진계획 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXSVp1Q2djVWNDTkFCNV95NUl0YzRmeFdfZ0xvQXdOZDFYLXladFh2WUdWSnFXNExWRFQ3c0lCMzhZc09MS2VqNkZmV0lBMzg2WWlkS1ltd0FtQk9oaE1VcUNXZHlkZUlKdzkwME5sOXo3X3RJM2Vn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bb92289dd9f552d4ba652c2e7b118bc697d1df55e28f6e62f35dab209d6b952b"
+    },
+    {
+      "id": "20261028-FR-682AC1DA-2542",
+      "title": "전통공예품을 우리 집에! 'K-CRAFT, 일상이 되다' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T18:35:59+09:00",
+      "publishedAt": "2026-10-28T18:35:59+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "'K-CRAFT, 일상이 되다' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전통공예품을 우리 집에! 'K-CRAFT, 일상이 되다' - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00LXRKcjM4d254VGs4QzBVTXRFSUZNMFl3QVlDZDdIcnJ0eDBQelp3VUg1RFU0N196TmtsWVBYcHl1ZlFoRjBwR05sam5oZnBkbXF3TXB6RDNORjJfdWxGRWF5eHRNOG56X2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "682ac1da2e3e8ca2efa57bdb8dc25354f0be9834e6d09878b1868d5de27103b3"
+    },
+    {
+      "id": "20261028-FR-27A9B771-2543",
+      "title": "\"재건축 시급한 아파트, 행정 문턱에 좌절\"… '조정' 통해 정비사업 진행 가능해지다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T13:25:17+09:00",
+      "publishedAt": "2026-10-28T13:25:17+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "\"재건축 시급한 아파트, 행정 문턱에 좌절\"… '조정' 통해 정비사업 진행 가능해지다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"재건축 시급한 아파트, 행정 문턱에 좌절\"… '조정' 통해 정비사업 진행 가능해지다 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzeWxRSE44LTJfajMzZE4xZ3BwWUVtY0JkOVFQSmFQVlN1NDFhSzZWd3ozMHYxeWJrdHoxTDVyUFM2ZlJNZnZXYTVjMHpzZkdkSjdYZTdRa1V2STNnWVJCOFdUMFFnSFVkOVlqOGxpTDRvbDNa?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "27a9b771f5faf0922fca2f1ddd914dbc0e53d57b3e8dc589566d2903332cb675"
+    },
+    {
+      "id": "20261028-DP-A475284C-2544",
+      "title": "(참고) 고용노동부, 인사혁신 경진대회에서 인공지능 행정 혁신사례로 대상 수상 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T16:24:11+09:00",
+      "publishedAt": "2026-10-28T16:24:11+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "(참고) 고용노동부, 인사혁신 경진대회에서 인공지능 행정 혁신사례로 대상 수상 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(참고) 고용노동부, 인사혁신 경진대회에서 인공지능 행정 혁신사례로 대상 수상 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1UblVQUW9TSmtROFBMRmV6QzdrMmJ3NjQtajJRSVhqNTZkci1FNnh1V2NBSnRPNXlTRmExZWhBUXV5U2VPeW5LcnRhWjRIZWdRM1VtZUkycFpnanVBNVlLV1Z5WkVJaFdRaFZvb3FxQ3JQMHFJ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a475284ca2f182e7470c85cdf04af43d3cb5ee45f309bd52fce9a61699c63e9d"
+    },
+    {
+      "id": "20261028-FR-BDD53540-2545",
+      "title": "관세청, 가짜 '메이드 인 코리아(Made in Korea)'로부터 '지역 중소 제조업' 지킨다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "통상·경제외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T13:54:24+09:00",
+      "publishedAt": "2026-10-28T13:54:24+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "관세청, 가짜 '메이드 인 코리아(Made in Korea)'로부터 '지역 중소 제조업' 지킨다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "관세청, 가짜 '메이드 인 코리아(Made in Korea)'로부터 '지역 중소 제조업' 지킨다 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPazhYVWdpSnRTYmp6STBxeHdMalRBTHVmZU85ZVBEN0lRbDR5RGMzd081aC15b1VJSkwtZlEzazhxNFhMcXNnaHZmRHVhdWxWUW51S0N4X3o4NkVJdk8zRGdCb2RfdDZ1bW00NEVGMlFWcWl6bTUwZGdzVDNoTWpYNjhuNHNVVFdYMTBXUE5IeVV2dHdC?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bdd5354053b6feac9903a83905b3df7ca69471f9b146898de85905bf0e1b9719"
+    },
+    {
+      "id": "20261028-FR-E7D065B5-2546",
+      "title": "(참고)고용노동부, 자체 개발 '재난대응 훈련 시뮬레이터' 소스코드·제작방법 전면 공개 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T19:48:31+09:00",
+      "publishedAt": "2026-10-28T19:48:31+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-29T08:57:56+09:00",
+      "summary": "(참고)고용노동부, 자체 개발 '재난대응 훈련 시뮬레이터' 소스코드·제작방법 전면 공개 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(참고)고용노동부, 자체 개발 '재난대응 훈련 시뮬레이터' 소스코드·제작방법 전면 공개 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ySFJJSjhxZU9EeWdVbEZyZWxUWUZ1SVREUXI5LXp4V2xVeERQOW9vT291SkVqTFY1RWR3VU83WkM5blkzME9VcnVxd3ZNazA3NkFlY2RKODF2cGZMV0NsRFFRN1o2OVBPekxqX1h2Sl9tbXpD?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e7d065b51083aca75174ee0dbbe66abe689bf7fbba45fa2e3a7a943830d417ce"
+    },
     {
       "id": "20261028-FR-7F1B798A-2530",
       "title": "아세안 확대 국방장관회의(ADMM-Plus) 계기 한·필리핀 국방장관회담 개최 - 대한민국 정책브리핑",
@@ -739,46 +1270,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "1666cd355057b48eb7e34a215c69c01a4fbe6ed537188900ff988c285d0bae64"
-    },
-    {
-      "id": "20261028-DP-20C457EC-2520",
-      "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-28T16:50:48+09:00",
-      "publishedAt": "2026-10-28T16:50:48+09:00",
-      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
-      "updatedAt": "2026-10-28T23:22:42+09:00",
-      "summary": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONF9JUVRIbHdkdlRkaFJaVWlKX21SQmpqOEFTVWVkbFF6NElHanR6bEhpV0dnZFgtM0ZCcFNhQnk5N0lPdmMtTnduV2hhbkJaSzd5QjRKUnozUTNac0FqcFhMcFNoU0loaS1YWGI2cmNyVkM3S2FQdTJSLUVFdWJrVWpFem5NbFJrU1NFQWdYWnpYRm9W?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "20c457ecea0d0f0b78a7e8733cf1884df51740d6dadcb65652e34906dadce22a"
     },
     {
       "id": "20261028-DP-6C2E512F-2521",
@@ -3539,59 +4030,6 @@
       "contentHash": "bb800fc259e73f2852a687df88ec29d71df15423b0d4debaad5a4faac5364be4"
     },
     {
-      "id": "20261027-FR-49CF7C78-2469",
-      "title": "삼성전자(주)의 부당한 광고행위 제재 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-27T12:00:00+09:00",
-      "publishedAt": "2026-10-27T12:00:00+09:00",
-      "firstCollectedAt": "2026-10-27T15:09:10+09:00",
-      "updatedAt": "2026-10-27T21:36:07+09:00",
-      "summary": "삼성전자(주)의 부당한 광고행위 제재 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "삼성전자(주)의 부당한 광고행위 제재 - 대한민국 정책브리핑",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQzgwczFmZVRxMXBZTmVnX3BJeDdpaHlvS25tWEotUWExOFpxYUJhdTgxV0o0RDBzM0JCZEQzR3lsaUMxZ21FeFUyNDhGcjh3N3JsRVpkZlZoaFcxbnVYdFBqYVRJbUFmcktCTFNsN1k4eDhSTHUySjB1MzM2eVlMdXh4T1FiSjVfZFNOMEhRdVVqdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "삼성전자(주)의 부당한 광고행위 제재 - 대한민국 정책브리핑",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kZUJDdlp5Z0pMOXAwZmFUbnUybnFNb1ltQ3FFM0JQamxaR18weHBBaGRXZGdaTDhlQTVPMHJnWVZsSzZHQ1FmUGtsOXpYYktta19mSXRLMWJKZEdMVVg3MXVRUENsc3VyYXVfWUw2LUhVcVR4emlr?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-27T21:36:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "49cf7c785a312b914fefd2ff27a153da213b2e0a4e778da639a74980af04bf26"
-    },
-    {
       "id": "20260813-DP-E931D17D-300",
       "title": "보도자료/언론보도해명 - 대한민국 법원",
       "primaryCategory": "국내 정치",
@@ -3933,46 +4371,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "aab9943c8cad59ee459b1a785661eba0c465c6365779ea464ee3502720651309"
-    },
-    {
-      "id": "20261027-DP-6AF7B15E-2489",
-      "title": "제2026-17회 원자력안전위원회 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-27T17:23:10+09:00",
-      "publishedAt": "2026-10-27T17:23:10+09:00",
-      "firstCollectedAt": "2026-10-27T21:36:07+09:00",
-      "updatedAt": "2026-10-27T21:36:07+09:00",
-      "summary": "제2026-17회 원자력안전위원회 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제2026-17회 원자력안전위원회 개최 - 대한민국 정책브리핑",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZDYxaW5hYlY1OXZuT05uVGllc2ptVlRadEhOWEQxQU9ZUGJuV3VtTGJybmhscU1rLWE3MXFZQXVWbzU4SHJNeWdoOFg5LWw0NXAwZ3htcTBqd2dNYjhmUHdZWGt1bFprZjFQaUFXMVdHQmJ6SFp5TjJKaDRKanFzQV9NR3ZyX2tPdDBQVHdIS1MzUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6af7b15e79b05eace0f24644f324bee6a06eca641a886f246dbbc32724c9963e"
     },
     {
       "id": "20261026-FR-B02C4B98-2490",
