@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-28T16:20:00+09:00",
-    "nextScheduledUpdate": "2026-10-28T16:50:00+09:00",
+    "lastSuccessfulUpdate": "2026-10-28T23:22:50+09:00",
+    "nextScheduledUpdate": "2026-10-28T23:52:50+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-28T16:19:54+09:00",
-      "finishedAt": "2026-10-28T16:20:00+09:00",
+      "startedAt": "2026-10-28T23:22:41+09:00",
+      "finishedAt": "2026-10-28T23:22:50+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 168,
-      "acceptedCandidates": 57,
-      "duplicates": 47,
-      "rejected": 107,
-      "rejectedByDate": 103,
-      "rejectedByRelevance": 3,
-      "rejectedAsCommentary": 1,
-      "newIssues": 12,
-      "updatedIssues": 2,
+      "fetchedCandidates": 184,
+      "acceptedCandidates": 65,
+      "duplicates": 51,
+      "rejected": 115,
+      "rejectedByDate": 113,
+      "rejectedByRelevance": 2,
+      "rejectedAsCommentary": 0,
+      "newIssues": 14,
+      "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 34,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,924 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261028-DP-631E40E6-2510",
+      "title": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T16:08:36+09:00",
+      "publishedAt": "2026-10-28T16:08:36+09:00",
+      "firstCollectedAt": "2026-10-28T16:19:55+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1kta2hkUjZSSjVQX0dIeDlGbXMwb19WZWl1YWFOX0NIT0QycGFMb3EwMDkxODZ2M013bnlfaXZ3ZWJJNE83Y0lGUXlFTUFSbVhhQS1fZi02SFhpTlg0aXA2ckVUb19yRTJ1emJqVzh3V0s0UGhjcEdUVXV4NzZSNG52dWVacDZJSVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44LTlDZjNnOF9iM3cyTXFydFlQUUZFNWUyWDQyS0pKMm0xZmJkY1ZsQzVEVTJERXdCU0tnWmozdG9XeGhBLU5LUm13Tk1FZFVTX1BaR0lDNDc1ZjVXdU9xYkhZUzdSQV8yQnU0Ug?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-28T23:22:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "631e40e6279c60531ea0928353bf8e7765999ccaa759dd8709707352204a2551"
+    },
+    {
+      "id": "20260824-FR-102EDF20-622",
+      "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T18:00:00+09:00",
+      "publishedAt": "2026-08-24T18:00:00+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "2026년 제30차 위원회 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTBsSzlhY3VmUkk4eWJMcnFsR3NPOVVXTV9fN1RvdC1rSldsNXVrZTFEaWFKcWc3azR0SDN5Q1hadExZQjJCZXp2WmZWT1FlckhpUkw3YmVuZE04R3VCRXJPUUltam9qSVBhME1JWVE0bjBNOXA1UlktdFY0S01Vd3M0SDh5d0ZwT3A0Z2FBQk1jNjZDdzJfSVNqRmUyX3FkRkpZZHp2bkJORXhYZGpUQjNpb09sdUd3d0FNdDgzNjA0LVV3R2VISHZIamZWNU43Y0ZfakwxbkNkdUdnazVzRUZpM3JLRVd0MmhBUzFTWQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pQkd3MmF0aC1FRmlsNzMteGRzeGJDTk03bjNNYzNadkF3dzB4TzFlNW9wS1I5NzhCMzZ0NGlVTGlZeHVCSjkwNUZlNDdNamxjdDNHaHBBcjd6dXVjT0s1c09tOHJkdnJBLURRWHRnUXhkc05X?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제33차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcjQ2SWZ1bWdLYU9tRmFmeGo5NExuWEpfd1VYQ3Y5aGRpUTJaZ1FxWTdlMEtEODZZZE1TM3NXUWVNdTAwOUNIQllkYXE3OEozdHpIbUYxVVRqWlNiYXlhOWh0VGtsQUlmM25yMTFzZWU3eXU2b0NWVXl6bzMtMXl2eW4ya3Nwczd6dkhWZ3E4TXVINEJMVUl4M1M0aHJfUGRoaVlWcTZMY05pTWJxQ2NnYkpFVDdVZjNyZG9rNG04M0Ryc2hfc05CNGdKcGlWelBNSGdyc082QUxWeFFvel82d0FnLTRmSGN4MHJVMThlTQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제35차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zTVdTTlFCcWJnY1lNTVl3bHdxOHQwMm15RzMzUHU4a01OcnRjTklPeHdEVkJSaG9SWGJWY01rVGY0UDVzSlVUVFpRYjhDM2s1SXo1d3lSQi1hRjByaGx4dTF3Nm1TelBWLVFuajNEWTVyYlFs?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제38차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVFIVy1yc3FfZHBVcGozMlRsUzVpTjhxbDdTNjBMNUt5blk3Tm5qUWhZdVBPdExnclh0VDdTanVucHVJZmNqWjdMbS1DWmkyLWNqTS1hblpTSlQwTElIZjBMVjJDaGpfNGJqU2RkRWJpRXZMS1NIVWlZdGRGakc1MVBlcTN5NzhGdzZPZlVSdnNlUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제39차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-09-30",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDBJRHdVS2Nwc1pjN2RfS0RJSmpHc284OU5kY2hKY0pHNXo1ODlwdzhqdlFJSmQ1b012djZJZXJkQTVxUHB5bUpQOC1IWF8wMTkwdkw5S3UzYVNRcEZVR1o4ZWstcTR3Y2tqTW5MOVlqZkJZU1ZFVGhrYjJWcThWU2tFRThfVXRZalpLc3hMTVNHRWxoUy1xZVQtbVRpWm8zS2lXUm12Qi12cFBnZFMzSHRBNVZuaXR6T0dKQXpwOHhPblZ3OTdJVXdYclhpWl81bnRoOFMwV2hSM3RLWVQ0YVRqZXpkNnUxN1BYcWtLcw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제42차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-17",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02aEZvcV9CVVNMeWktWjlfeDNGc2tMSGpQTjlVUU1Tc3FzX1pEWjhndE1oNWZEdG80bmVvSm9iaW94WHpnanZEaWVRbzBaU2kyRVFkdllrS2hmcjR6NUdFejhORVBOclJfZ2ZURHFkelZYc3JD?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제46차 위원회 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT1N4d0dmb25xRUdoaDd0anVyeTRpSjdScmp1UU42dW1sbVUtTnUtNTJRamhfczdhSHVDU2dWUDh6bjZ4YkU4NHZsUDRCdWZtOFBOaFBaUXp5R0RJQklBU3FOVk52NjFVR2lQSTI2UFdudUxmckFyRFhxVmlhZ3FXNUNNdHpoQVQ2OXVGVHN5Qm9iUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-25T23:28:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-05T06:44:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-18T08:01:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-28T20:55:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-30T21:56:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-10-17T13:08:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-10-28T23:22:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "102edf20f2687a855812157ff88c286870d657f86fa931993c96868131ec1ee9"
+    },
+    {
+      "id": "20260729-DP-90BDBD99-001",
+      "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-29T21:03:27+09:00",
+      "publishedAt": "2026-07-29T21:03:27+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "제26차 방송미디어통신위원회 전체회의 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-07-29",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zc1N4bDhOeHZGR1pZSndaWlZJUXRJYTVQU0FSeEo4S05aYVZUcjUwTUdBYVk2R3QyMkUwX3E1bmtfTUQ2WFRnVHNncmlaT29tMlFPRzJWX3R0LTczUkJ4dzR4WXEzVjE3Q0RIc2JaTGc2THQwMTdN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제27차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2gycWZBaGdoV3FhUzNqbndrVTlid29uSEF2c2lsTklMMV93UTR4REotU2cwaldOQ3o2Z1hPTHZWd1dzZjY0UXdUcWtkSE45SHZ0M0lqcnBqQTRLOFgwTEpVOGZ1Q004cEhjRDNUdFBTVWV0Vk10aFB3WG1nel9DaTc1dmxtWWdoNkhmVzNoQ1NwU3hD?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제27차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVFJOYndYWVFHdndZemg1UGRGdTAtUW9CVVhDQ0Z1NG4yU2dlbUtFU05aNkVFZ1JkZWQ5S0thdmk0b2dYc2JfUjBFTEQ0N1gta01jVkdvYWhxTGhvd3FBSUJZUU5mV2wzdmZMZ3NRR2YzcHNBQ0Vv?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제29차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MNlM2ZFQ3akQ3THYwNTB3N2Y2S2FYZnBtSXpXRG9VbFpEbU5iRVJINnVXSGhteVB6eDBJbHJROXMtcEdjWHExeXJSNnFPMUpEZzZVTk84ZExWcElTbTZwY0ZJdjh5NDd1V0k5ZnJza3ZKamtMR1pZ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제31차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-28",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ISDFnZW85Y1NJVHRHbUw1ZDJYVmRvODZrWHh6U0RwMmh0dFFZSHE3c25JTHZ5Y091cUNLblRKQ3k3VVJ0YmgwYVllRmJMWWg5UlJQY1daWUt2Ry1mOEF5UGVybHNYa2dlS2p3TTJIaEpiNzJrWHBF?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제35차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00aGd1cWNBRXpUclpuSHZ3WG84ZTF0Mlp2ZWN4OG9JTlNpd1VHRzVDdloxLUR0bC1yLWRJSXptZXNqY3ZFT1U0SGlmdldCX0Jud0FpREZUbldOcGhTZjdYUnZ5R1dDUU1oSUNUcHRwenRZTWtWSWU0?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제46차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QZGV2cGd0X2Nub2xZVkFXYTM0S1l0Y21VSEtXcFFiNG56UGVhS2YzZE5zQXlfYWg1NjhucFBZeFQ2TU1ZOUxLYnE1bFF1YXBYZTcwby1lSTBZMWxCQTZPYXdnNFJXT3JPWVBEZlRONTlSOTRoZ3kw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-13T00:44:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-14T00:43:49+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-21T20:02:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-08-29T06:52:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-16T20:59:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-10-28T23:22:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "90bdbd993bd328457824b8231b14a2c3c02edecdf5de00555e7396af86ca6e8d"
+    },
+    {
+      "id": "20260903-DP-1666CD35-966",
+      "title": "대법원 2026. 9. 2. 선고 중요판결 요지 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-03T18:30:23+09:00",
+      "publishedAt": "2026-09-03T18:30:23+09:00",
+      "firstCollectedAt": "2026-09-03T20:38:08+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "선고 중요판결 요지 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "대법원 2026. 9. 2. 선고 중요판결 요지 - 대한민국 법원",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQSTFWNFRxamQ0UXlLOUd5NlRrM0ZEZWtTZVZ4dFpvX0ZmT2REay1SQnhsSjBtV04tUGNoNW9adTZaWlZZb2cyYXI0VE9jOHpRakFhTGFnNUtVOEl3UmlScmZFTDBPM2RiQ29sNG1BWTJDM2RnNUs0eC1hZEI3eWtrUGdhNkpQUWM1Q0hEcE5rSG1ibUFkemx3czlsVzZJbW01WUs4WjNCdzNBMGduOUg0X0tqYk9tRDI1TkZvS01CRUgwc3RDVGlkMUw4ZFpmNkJsLTkyTGtZU3JyZkYzaUNnTnJyNGNUM3BMVlUyZ0YxeXFPRGdjV0dRQUZmYlNoakxoTDl5aFFkZjZpU0lrMVY0bXNad0IxM2dEclRhYXlJQWVRVlVObXVUbjJCdWhwT2E3SEt5ZnAyaUF4S0g3OHhEbkdjdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "대법원 2026. 9. 3. 선고 중요판결 요지 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPYUdNelIwcTRaUEcyV1A2TnFIdnlzYTI4cGpmRmtQc1prRmwwR2FhMGNEUU52NWZ2N3ppTkpQZXRtSmY4eTRSMUtZSFh0R3R0VXkzOEtORGZ0akswdFhDSHE5b1BRSWpnbXFuZ0g2eGl5ZE5nSmtMb0x2RXVTdlE2ZzBMZ2pkeGlzUHJ6Y3lRcjdmcUlHc2NUNVR0QnlpZE9NZFhLOWpMdzZJUXRLRW1HR1h3aVF5RHE1VXZMaG1rZDZ1QndQMVFKa3l2MW1JenZST2hSZTF6SWFmYTAzNVhvcE82eEtVODNydllId3ZGaENwUnc2Y1g5d2lvX2ZyZEFkQlVxN0hLV2dsQXEtR2RVS1I1ckpuclFra3pOMGVPd0NJTTJEZk1LVXp6QjFQVWV6VGhKYncyM2Y5Vl9oS2lFTk5TUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "대법원 2026. 10. 27. 선고 중요판결 요지 - 대한민국 법원",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVRLV3lPak4wNUxQZi1KMWFIaFZPSUx1X2JGRTlTeXExNC1JVlBxUUVjdVRFZ3RXdGd2Vjk2SXBXWlF0YTN5S3FCcHZDSVNLbHlEZFZZTmRhNmtscFNXN2N0OW5FOXRtYkJZUU5DYUl3ZFhXYlFyWEM1alZPNXR5TGdJUV9zTUQxYlBIN0dQTXFIT3BQNllrUzM4bFNDOTd4ZGtiOU5QN25zZzh6VVFMRXY0VGxVMFhwakdWcDFhcw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-04T18:00:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-28T23:22:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1666cd355057b48eb7e34a215c69c01a4fbe6ed537188900ff988c285d0bae64"
+    },
+    {
+      "id": "20261028-DP-20C457EC-2520",
+      "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T16:50:48+09:00",
+      "publishedAt": "2026-10-28T16:50:48+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지역·필수의료 수가 2.7조 원 우선 투입, '27년 1월부터 본격 수가 구조 혁신 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONF9JUVRIbHdkdlRkaFJaVWlKX21SQmpqOEFTVWVkbFF6NElHanR6bEhpV0dnZFgtM0ZCcFNhQnk5N0lPdmMtTnduV2hhbkJaSzd5QjRKUnozUTNac0FqcFhMcFNoU0loaS1YWGI2cmNyVkM3S2FQdTJSLUVFdWJrVWpFem5NbFJrU1NFQWdYWnpYRm9W?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "20c457ecea0d0f0b78a7e8733cf1884df51740d6dadcb65652e34906dadce22a"
+    },
+    {
+      "id": "20261028-DP-6C2E512F-2521",
+      "title": "구글·애플, 외부결제 허용하고 수수료 체계 개선해야 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T16:30:00+09:00",
+      "publishedAt": "2026-10-28T16:30:00+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "구글·애플, 외부결제 허용하고 수수료 체계 개선해야 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "구글·애플, 외부결제 허용하고 수수료 체계 개선해야 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaHlaOEpkRE9kcnFFSUl6OEJxZ3BDcW0wandsN3RIMHBvamRRa2ZVZ1lPbkZla25GbDQ0R1NHTUxwU3NOVHFBcFNhaWc5WGMtZ3phdGV2dWd6UlhhQzRjZnNBNEJRWWtFMXJyTXR2Smd0dEpVM3JRV3MxLWNtMlUxZXZrZVRra2xPZnZ4V0lOMmtMdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6c2e512fefd82f75e1673b8f9800a4a4eae24dadb8f948bb3dc3f8919a0eb1d6"
+    },
+    {
+      "id": "20261028-DP-BDBA4E09-2522",
+      "title": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다. - 이억원 금융위원장, 제7차 포용적 금융 대전환 회의 주재 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T00:00:00+09:00",
+      "publishedAt": "2026-10-28T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다. - 이억원 금융위원장, 제7차 포용적 금융 대전환 회의 주재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "포용금융이 금융권에 뿌리내리도록 평가체계를 도입하고, 공공부문이 앞장서서 부실채권 관리체계를 개편하겠습니다. - 이억원 금융위원장, 제7차 포용적 금융 대전환 회의 주재 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMURLT3BKdHdrV1JuUFlRRTRDUDRIQTlsWVFNQkJGaWNGd3U4dlkwN1RGS1RZVHpmUzZFdmFiNmFUU2lIQXFqTVNDekhvZUVJZXlMemJIVnBSM2J2R216ZHpSd0dhckVwZXNIb1BDcks2UVZkMGg0X2tZZXBlTTU3SllISWtLZ19FcjlKSU9IZW5QN2Y2SXQzY1ZRcjh3cGZpVng0aVlvWkhIeWVpMVQ5UUVRS2VqRGZCclBfQ2RaakhFdl9HYjVCTlVDSGNEd1NObEEtNnNBRlVyVzd0TEljbHhaMlNFZmh2TGUtMHBvN1dodjVQTWpvcnJGcFBvaS1CNUJnM3I5QW5KQVd2bG13OA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bdba4e0914cbca5ada0187ef64c27f6535281dd66850c13de9e1b06f8c8b90c4"
+    },
+    {
+      "id": "20261028-DP-FD6FF6EC-2523",
+      "title": "은행 '포용금융 종합평가체계' 도입…등급별 과징금·출연금 차등화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T17:49:57+09:00",
+      "publishedAt": "2026-10-28T17:49:57+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "은행 '포용금융 종합평가체계' 도입…등급별 과징금·출연금 차등화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "은행 '포용금융 종합평가체계' 도입…등급별 과징금·출연금 차등화 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ob2hrVVFUQ2xCS1VwZVMxbWhuTWhmelZyT0FjZ2Q3Y2hydkl4NWpUUFppQzJycjFLdU9lcVJFOC1xMFBka01OMDR0Y1ZYM0RRMkdVOVBoZ0VWcmlHZ0FEVWJTeWZHMjJXMFQ5YQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fd6ff6ec1dade39b6003f5485b1209bdf8b4e44d327bb047b929d07965aa68dc"
+    },
+    {
+      "id": "20261028-FR-8E81BFCA-2524",
+      "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T16:24:51+09:00",
+      "publishedAt": "2026-10-28T16:24:51+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMk9pWWlOT0swS1BTMzR6QktUR2pOVm0zb1dOemphWHNuZTFtelNDUUNoWG0xSEhySEd2eElnQWF1TVhoejZKYTh6akliRjNaR3lWRHpDVUxsRTdmOFVzUWdjdlg4YUFTQ09IMGV5Y0ZWT2pDVlNzaXl1T3FiSDFsSDZNbXZQY1N4WnJIelNsX1NqQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8e81bfca0850c45bad2ff163a093517f0200e77d60e85ec13443d3987147f5b1"
+    },
+    {
+      "id": "20261028-DP-71D205E9-2525",
+      "title": "261028 (설명) 이데일리(10.28.) 李 질책에 엄단.. 심판 독립성 흔드는 국무회의 기사 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T20:03:45+09:00",
+      "publishedAt": "2026-10-28T20:03:45+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "261028 (설명) 이데일리(10.28.) 李 질책에 엄단.. 심판 독립성 흔드는 국무회의 기사 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "261028 (설명) 이데일리(10.28.) 李 질책에 엄단.. 심판 독립성 흔드는 국무회의 기사 관련 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SeFB3Rm54OW12cmhjVXFnTnNWRmlvX2hVdEtmRUlyeHZFc1VnRzZyNFZrUkkyUWhSSDZuSWlUcXFGYm1OTkJ6UEVzeWQzak9DR2pUQTZaRlROMVB6UEpwOVRoSWNZMm1vdWRIZkpMRQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "71d205e9a5a09982ca6ffe9c7fef162ad24a534e1345d4b82468ae0b7e9c2254"
+    },
+    {
+      "id": "20261028-FR-47826BC0-2526",
+      "title": "AI 시대, 한-메콩 경제협력의 새로운 도약을 모색하다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T18:11:13+09:00",
+      "publishedAt": "2026-10-28T18:11:13+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "AI 시대, 한-메콩 경제협력의 새로운 도약을 모색하다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "AI 시대, 한-메콩 경제협력의 새로운 도약을 모색하다 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcm1nWXZ5WGRsUl9DVU5KYlhMaERxMWxkRjAxRVdXNVl4ekd2Q3dic3NFakZQRm9qOFRJSnZhdEVTM3dKcGk3WER3U08taEFjZWp2cmEycUczSmo1VTJhdjBYQTEzX0kxMnNnRkw4OTRGZ3BQT1RsaS1tVnVIcldhRVc4Wmc5cm9UQ3pwbWdkY2FhQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "47826bc05aab8524b35578f5705c69babb4ede963b99c5bf83aa224cef1a1084"
+    },
+    {
+      "id": "20261028-FR-7B975FCD-2527",
+      "title": "이번 주말 어디 가지? 행복도시 단풍 명소 여기 다 있음 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T15:41:55+09:00",
+      "publishedAt": "2026-10-28T15:41:55+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "행복도시 단풍 명소 여기 다 있음 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이번 주말 어디 가지? 행복도시 단풍 명소 여기 다 있음 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzhtSFBaSU84RDJOdGprU0dyb1BxSkJkQlV1V2Z1cWk4VjlHM25DQUF1aUJ5RDZBeUw0dEZoREVQOVNqa0NjTlRKVVpnbWZaTTFJSVA2ZVZYTm56ZUZYemg1TVU0a2R3R3lQcXN3MWNRLWwwbWRMTkRCZU5vMzBUNl9TczNHQ2FENXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7b975fcd37535c96265a02c1b4f58692b07af41468fe20565a5a9decdaa8f229"
+    },
+    {
+      "id": "20261028-FR-3119A45D-2528",
+      "title": "새싹을 지켜나가는 따스한 연결고리 '새싹지킴이병원' - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T18:40:27+09:00",
+      "publishedAt": "2026-10-28T18:40:27+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "새싹을 지켜나가는 따스한 연결고리 '새싹지킴이병원' 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "새싹을 지켜나가는 따스한 연결고리 '새싹지킴이병원' - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZndaX0tFSmFIclZfN2hvRVpNcUxQdTZwSnRfNmY4NU5PMjFrOTF2NjhhVUdJMnNHUGhfQmRiQUtSQW1Bd05UTXJjY3hHZnlQSE1XWUFrLVpoRWx2T2NNQndYSmxXRU9pZXhVNFd0NlQ3S0RaZ045dm4yZ2NINnpUQ1I1TEpzaU0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3119a45d1659f4cff06687a19dbf28c0ac4a5d5d70e180e1fd26e27f0218738d"
+    },
+    {
+      "id": "20261028-FR-BEEBA649-2529",
+      "title": "중소기업 수출을 선도할 혁신제품 한자리에 - '26년 K-수출전략품목 출범식 개최 - - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T15:00:48+09:00",
+      "publishedAt": "2026-10-28T15:00:48+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "중소기업 수출을 선도할 혁신제품 한자리에 - '26년 K-수출전략품목 출범식 개최 - 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중소기업 수출을 선도할 혁신제품 한자리에 - '26년 K-수출전략품목 출범식 개최 - - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeVljcHkxRUVrM0l1bmVrTm5SYlRoSlFFeHotZjMwSDdVMW5mR3JfVDJaUF82TUVWTUV4OHJ5dW5JZVZvLWdjZnY2eG9kWl9UaTU4NldGQmQ3S2lPSW81Yi0ycVRfaUlFbnRPYXUyTFZsYjliTjk2c2tZQnRNeVNEMXVBcFNIUi1VWWExRHUzbnA1QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "beeba649346d3b35df651016a62a24cf85c57e9ed1acef2025c8fca5590e5022"
+    },
+    {
+      "id": "20261028-FR-7F1B798A-2530",
+      "title": "아세안 확대 국방장관회의(ADMM-Plus) 계기 한·필리핀 국방장관회담 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T22:27:42+09:00",
+      "publishedAt": "2026-10-28T22:27:42+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "아세안 확대 국방장관회의(ADMM-Plus) 계기 한·필리핀 국방장관회담 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아세안 확대 국방장관회의(ADMM-Plus) 계기 한·필리핀 국방장관회담 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOT0t4cFpUMHR2aExFRVpwSVhIOE5kamlpSFFxel9XbnE3akJKTWZHQWF5TDBlYWFRTnY3YmNUcmI0ZlM0eVhaVGRNMVppemM1ek5COE9iV3BwWDJ5MlRES25YZnpvYnl4R2g3VURVZDk1bS1xNlZFcVRhRE1lR090Q29wRUlSUjB6b19qLU9QV25UUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7f1b798a737ce2b13bbebd8c6ee155adfcc01448cbef203693f3ebb4437c252f"
+    },
+    {
+      "id": "20261028-FR-CB2A9D3B-2531",
+      "title": "카이스트에 돌아온 이독실, 이번엔 전과 도전?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T17:37:30+09:00",
+      "publishedAt": "2026-10-28T17:37:30+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "카이스트에 돌아온 이독실, 이번엔 전과 도전?! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "카이스트에 돌아온 이독실, 이번엔 전과 도전?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM1lyLUlWSThmMGRUekhndGVNTS1YRkl2aXFUdno4a1ZHSnB4ZE40d3JvWllvY0QweVB5anRfUlIwLUJmRUFNZDRacTlrWEpWZDhSZy05Unc0YjhBM2xreC0xNTF4YnJESTlmYXY4eHVjMDBFdmxEZkxTWGZIcXBtR2hZSmkwVjBmaWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cb2a9d3bb2592b247c3569a1d3d45b23ec7d749bebc1f135cdc5f07945951da7"
+    },
+    {
+      "id": "20261028-FR-87A63EF2-2532",
+      "title": "2026 코리아 그랜드 페스티벌 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T17:28:17+09:00",
+      "publishedAt": "2026-10-28T17:28:17+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "2026 코리아 그랜드 페스티벌 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 코리아 그랜드 페스티벌 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xYzRMeVh2SGtFY2FtV3dwc0dybE9IdHNlbEFwd1BiU0hJaXhxcXNValoxRjcyaGpBU3JLX2h3QjB3a3JDc1N6NHU1eU1xd0hfYlh5NzdJMlBZUjQyWHZKME5tX2Vrb19Uc2hDaQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "87a63ef28865063c3d3524993eafad338e3410c8f60608a27a9fe76e53ea020b"
+    },
+    {
+      "id": "20261028-DP-6BF31B9B-2533",
+      "title": "미 국방부, 전작권 논의할 “SCM 내년 초로” 한국 정부 “일정 확정 안돼” - 경향신문",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "국방부",
+        "경향신문"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-10-28T10:59:00+09:00",
+      "publishedAt": "2026-10-28T10:59:00+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-28T23:22:42+09:00",
+      "summary": "미 국방부, 전작권 논의할 “SCM 내년 초로” 한국 정부 “일정 확정 안돼” 경향신문",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "경향신문",
+          "title": "미 국방부, 전작권 논의할 “SCM 내년 초로” 한국 정부 “일정 확정 안돼” - 경향신문",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BYVJVQjRmNzFzTmcxQURfN0ZWR0oxV1pPRERtaHloa1o1V2ptYU5ZTm5tZWdPMUs1am52c01JR0Noc0FlZGpoWUdLeUhjRnhKY2VsQUpkSGNxUdIBX0FVX3lxTFBKeExGMUVUTHF2MFBnZVFRUXZBMWhnREw2ZndNV040c0RpdjFENGc4aE9wY3pzbVVESERHMG5nSEpaQzZMZ2RtVjloaVVGUzZrMEYtWHhhNVpqWGpjSzFZ?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6bf31b9b2509f9a59f80706bc1354579223e5a8bdb322eb8c8185b14c5c84e3f"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -813,46 +1731,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "935d3aad7d8d6c6f44d476d692f04551d0a32a8610ae2b366b8e641a5d84804a"
-    },
-    {
-      "id": "20261028-DP-631E40E6-2510",
-      "title": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-28T16:08:36+09:00",
-      "publishedAt": "2026-10-28T16:08:36+09:00",
-      "firstCollectedAt": "2026-10-28T16:19:55+09:00",
-      "updatedAt": "2026-10-28T16:19:55+09:00",
-      "summary": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이달 29일부터 주민등록 등·초본에 '계부·계모' 대신 '세대원' 표시 - 대한민국 정책브리핑",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU1kta2hkUjZSSjVQX0dIeDlGbXMwb19WZWl1YWFOX0NIT0QycGFMb3EwMDkxODZ2M013bnlfaXZ3ZWJJNE83Y0lGUXlFTUFSbVhhQS1fZi02SFhpTlg0aXA2ckVUb19yRTJ1emJqVzh3V0s0UGhjcEdUVXV4NzZSNG52dWVacDZJSVE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "631e40e6279c60531ea0928353bf8e7765999ccaa759dd8709707352204a2551"
     },
     {
       "id": "20261028-DP-C5C00521-2511",
@@ -15605,119 +16483,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "174539ead38ac4647c1c39f038c1363ce0ccf54a9ed8089a17a901b6e912c5c3"
-    },
-    {
-      "id": "20260824-FR-102EDF20-622",
-      "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-24T18:00:00+09:00",
-      "publishedAt": "2026-08-24T18:00:00+09:00",
-      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
-      "updatedAt": "2026-10-17T13:08:50+09:00",
-      "summary": "2026년 제30차 위원회 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLTBsSzlhY3VmUkk4eWJMcnFsR3NPOVVXTV9fN1RvdC1rSldsNXVrZTFEaWFKcWc3azR0SDN5Q1hadExZQjJCZXp2WmZWT1FlckhpUkw3YmVuZE04R3VCRXJPUUltam9qSVBhME1JWVE0bjBNOXA1UlktdFY0S01Vd3M0SDh5d0ZwT3A0Z2FBQk1jNjZDdzJfSVNqRmUyX3FkRkpZZHp2bkJORXhYZGpUQjNpb09sdUd3d0FNdDgzNjA0LVV3R2VISHZIamZWNU43Y0ZfakwxbkNkdUdnazVzRUZpM3JLRVd0MmhBUzFTWQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pQkd3MmF0aC1FRmlsNzMteGRzeGJDTk03bjNNYzNadkF3dzB4TzFlNW9wS1I5NzhCMzZ0NGlVTGlZeHVCSjkwNUZlNDdNamxjdDNHaHBBcjd6dXVjT0s1c09tOHJkdnJBLURRWHRnUXhkc05X?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제33차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcjQ2SWZ1bWdLYU9tRmFmeGo5NExuWEpfd1VYQ3Y5aGRpUTJaZ1FxWTdlMEtEODZZZE1TM3NXUWVNdTAwOUNIQllkYXE3OEozdHpIbUYxVVRqWlNiYXlhOWh0VGtsQUlmM25yMTFzZWU3eXU2b0NWVXl6bzMtMXl2eW4ya3Nwczd6dkhWZ3E4TXVINEJMVUl4M1M0aHJfUGRoaVlWcTZMY05pTWJxQ2NnYkpFVDdVZjNyZG9rNG04M0Ryc2hfc05CNGdKcGlWelBNSGdyc082QUxWeFFvel82d0FnLTRmSGN4MHJVMThlTQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제35차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zTVdTTlFCcWJnY1lNTVl3bHdxOHQwMm15RzMzUHU4a01OcnRjTklPeHdEVkJSaG9SWGJWY01rVGY0UDVzSlVUVFpRYjhDM2s1SXo1d3lSQi1hRjByaGx4dTF3Nm1TelBWLVFuajNEWTVyYlFs?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제38차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVFIVy1yc3FfZHBVcGozMlRsUzVpTjhxbDdTNjBMNUt5blk3Tm5qUWhZdVBPdExnclh0VDdTanVucHVJZmNqWjdMbS1DWmkyLWNqTS1hblpTSlQwTElIZjBMVjJDaGpfNGJqU2RkRWJpRXZMS1NIVWlZdGRGakc1MVBlcTN5NzhGdzZPZlVSdnNlUQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제39차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-09-30",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSDBJRHdVS2Nwc1pjN2RfS0RJSmpHc284OU5kY2hKY0pHNXo1ODlwdzhqdlFJSmQ1b012djZJZXJkQTVxUHB5bUpQOC1IWF8wMTkwdkw5S3UzYVNRcEZVR1o4ZWstcTR3Y2tqTW5MOVlqZkJZU1ZFVGhrYjJWcThWU2tFRThfVXRZalpLc3hMTVNHRWxoUy1xZVQtbVRpWm8zS2lXUm12Qi12cFBnZFMzSHRBNVZuaXR6T0dKQXpwOHhPblZ3OTdJVXdYclhpWl81bnRoOFMwV2hSM3RLWVQ0YVRqZXpkNnUxN1BYcWtLcw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "2026년 제42차 위원회 결과 - 대한민국 정책브리핑",
-          "date": "2026-10-17",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02aEZvcV9CVVNMeWktWjlfeDNGc2tMSGpQTjlVUU1Tc3FzX1pEWjhndE1oNWZEdG80bmVvSm9iaW94WHpnanZEaWVRbzBaU2kyRVFkdllrS2hmcjR6NUdFejhORVBOclJfZ2ZURHFkelZYc3JD?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-25T23:28:56+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-05T06:44:00+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-09-18T08:01:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-28T20:55:57+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-30T21:56:27+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-10-17T13:08:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "102edf20f2687a855812157ff88c286870d657f86fa931993c96868131ec1ee9"
     },
     {
       "id": "20261016-FR-5D7ED9E4-2202",
@@ -51790,107 +52555,6 @@
       "contentHash": "7f2d8c1f8d43e94d8460dc0e1ab251836d73660fbaa9e9fd133d032f785e01fd"
     },
     {
-      "id": "20260729-DP-90BDBD99-001",
-      "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-29T21:03:27+09:00",
-      "publishedAt": "2026-07-29T21:03:27+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-09-16T20:59:20+09:00",
-      "summary": "제26차 방송미디어통신위원회 전체회의 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-07-29",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zc1N4bDhOeHZGR1pZSndaWlZJUXRJYTVQU0FSeEo4S05aYVZUcjUwTUdBYVk2R3QyMkUwX3E1bmtfTUQ2WFRnVHNncmlaT29tMlFPRzJWX3R0LTczUkJ4dzR4WXEzVjE3Q0RIc2JaTGc2THQwMTdN?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제27차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2gycWZBaGdoV3FhUzNqbndrVTlid29uSEF2c2lsTklMMV93UTR4REotU2cwaldOQ3o2Z1hPTHZWd1dzZjY0UXdUcWtkSE45SHZ0M0lqcnBqQTRLOFgwTEpVOGZ1Q004cEhjRDNUdFBTVWV0Vk10aFB3WG1nel9DaTc1dmxtWWdoNkhmVzNoQ1NwU3hD?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제27차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zVFJOYndYWVFHdndZemg1UGRGdTAtUW9CVVhDQ0Z1NG4yU2dlbUtFU05aNkVFZ1JkZWQ5S0thdmk0b2dYc2JfUjBFTEQ0N1gta01jVkdvYWhxTGhvd3FBSUJZUU5mV2wzdmZMZ3NRR2YzcHNBQ0Vv?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제29차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MNlM2ZFQ3akQ3THYwNTB3N2Y2S2FYZnBtSXpXRG9VbFpEbU5iRVJINnVXSGhteVB6eDBJbHJROXMtcEdjWHExeXJSNnFPMUpEZzZVTk84ZExWcElTbTZwY0ZJdjh5NDd1V0k5ZnJza3ZKamtMR1pZ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제31차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-28",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ISDFnZW85Y1NJVHRHbUw1ZDJYVmRvODZrWHh6U0RwMmh0dFFZSHE3c25JTHZ5Y091cUNLblRKQ3k3VVJ0YmgwYVllRmJMWWg5UlJQY1daWUt2Ry1mOEF5UGVybHNYa2dlS2p3TTJIaEpiNzJrWHBF?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제35차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00aGd1cWNBRXpUclpuSHZ3WG84ZTF0Mlp2ZWN4OG9JTlNpd1VHRzVDdloxLUR0bC1yLWRJSXptZXNqY3ZFT1U0SGlmdldCX0Jud0FpREZUbldOcGhTZjdYUnZ5R1dDUU1oSUNUcHRwenRZTWtWSWU0?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-13T00:44:03+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-14T00:43:49+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-21T20:02:19+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-08-29T06:52:46+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-16T20:59:20+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "90bdbd993bd328457824b8231b14a2c3c02edecdf5de00555e7396af86ca6e8d"
-    },
-    {
       "id": "20260916-DP-AFF1A983-1398",
       "title": "갑자기 생긴 팀장님의 일주일 휴가?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -68446,60 +69110,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b7f3483277adc0e10a251d55815e9baf58a96e2744a2d6ee4f73a3991256e36b"
-    },
-    {
-      "id": "20260903-DP-1666CD35-966",
-      "title": "대법원 2026. 9. 2. 선고 중요판결 요지 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대법원",
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-03T18:30:23+09:00",
-      "publishedAt": "2026-09-03T18:30:23+09:00",
-      "firstCollectedAt": "2026-09-03T20:38:08+09:00",
-      "updatedAt": "2026-09-04T18:00:14+09:00",
-      "summary": "선고 중요판결 요지 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "대법원 2026. 9. 2. 선고 중요판결 요지 - 대한민국 법원",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQSTFWNFRxamQ0UXlLOUd5NlRrM0ZEZWtTZVZ4dFpvX0ZmT2REay1SQnhsSjBtV04tUGNoNW9adTZaWlZZb2cyYXI0VE9jOHpRakFhTGFnNUtVOEl3UmlScmZFTDBPM2RiQ29sNG1BWTJDM2RnNUs0eC1hZEI3eWtrUGdhNkpQUWM1Q0hEcE5rSG1ibUFkemx3czlsVzZJbW01WUs4WjNCdzNBMGduOUg0X0tqYk9tRDI1TkZvS01CRUgwc3RDVGlkMUw4ZFpmNkJsLTkyTGtZU3JyZkYzaUNnTnJyNGNUM3BMVlUyZ0YxeXFPRGdjV0dRQUZmYlNoakxoTDl5aFFkZjZpU0lrMVY0bXNad0IxM2dEclRhYXlJQWVRVlVObXVUbjJCdWhwT2E3SEt5ZnAyaUF4S0g3OHhEbkdjdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "대법원 2026. 9. 3. 선고 중요판결 요지 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPYUdNelIwcTRaUEcyV1A2TnFIdnlzYTI4cGpmRmtQc1prRmwwR2FhMGNEUU52NWZ2N3ppTkpQZXRtSmY4eTRSMUtZSFh0R3R0VXkzOEtORGZ0akswdFhDSHE5b1BRSWpnbXFuZ0g2eGl5ZE5nSmtMb0x2RXVTdlE2ZzBMZ2pkeGlzUHJ6Y3lRcjdmcUlHc2NUNVR0QnlpZE9NZFhLOWpMdzZJUXRLRW1HR1h3aVF5RHE1VXZMaG1rZDZ1QndQMVFKa3l2MW1JenZST2hSZTF6SWFmYTAzNVhvcE82eEtVODNydllId3ZGaENwUnc2Y1g5d2lvX2ZyZEFkQlVxN0hLV2dsQXEtR2RVS1I1ckpuclFra3pOMGVPd0NJTTJEZk1LVXp6QjFQVWV6VGhKYncyM2Y5Vl9oS2lFTk5TUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-04T18:00:14+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1666cd355057b48eb7e34a215c69c01a4fbe6ed537188900ff988c285d0bae64"
     },
     {
       "id": "20260904-DP-17370886-996",
