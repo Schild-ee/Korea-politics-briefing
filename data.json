@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-29T20:41:18+09:00",
-    "nextScheduledUpdate": "2026-10-29T21:11:18+09:00",
+    "lastSuccessfulUpdate": "2026-10-30T03:23:02+09:00",
+    "nextScheduledUpdate": "2026-10-30T03:53:02+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-29T20:41:06+09:00",
-      "finishedAt": "2026-10-29T20:41:18+09:00",
+      "startedAt": "2026-10-30T03:22:53+09:00",
+      "finishedAt": "2026-10-30T03:23:02+09:00",
       "activeSources": 4,
       "fetchedCandidates": 184,
-      "acceptedCandidates": 77,
+      "acceptedCandidates": 75,
       "duplicates": 59,
-      "rejected": 101,
-      "rejectedByDate": 98,
-      "rejectedByRelevance": 1,
-      "rejectedAsCommentary": 2,
-      "newIssues": 21,
-      "updatedIssues": 3,
+      "rejected": 102,
+      "rejectedByDate": 96,
+      "rejectedByRelevance": 5,
+      "rejectedAsCommentary": 1,
+      "newIssues": 15,
+      "updatedIssues": 8,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,14 +41,14 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 34,
           "error": ""
         },
         {
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 34,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,1067 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261029-FR-06389E5A-2597",
+      "title": "이재명 대통령, 메르츠 독일 총리 공식 방한 환영…한독 정상회담 통해 첨단산업·경제안보 협력 강화 - 외교문화뉴스",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "외교문화뉴스"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-10-29T21:38:42+09:00",
+      "publishedAt": "2026-10-29T21:38:42+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:55+09:00",
+      "updatedAt": "2026-10-30T03:22:55+09:00",
+      "summary": "이재명 대통령, 메르츠 독일 총리 공식 방한 환영…한독 정상회담 통해 첨단산업·경제안보 협력 강화 외교문화뉴스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "외교문화뉴스",
+          "title": "이재명 대통령, 메르츠 독일 총리 공식 방한 환영…한독 정상회담 통해 첨단산업·경제안보 협력 강화 - 외교문화뉴스",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NNmUwM0JQbXN3QzQ3eGFWeTZxaUdXRWhXYXFCRlB6T1dxZzB5SmpyYWJ3cVkwZU9tZEhmQkF2QVdIU0JaRDNKVmk5cUI5Nmh4MHZISllWUDd5TkMxUDZSdF9NZ2o?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "06389e5ac063e3a3aa19d6693c0f2efbcbab32ccb2473d651b4a9fc59da1794c"
+    },
+    {
+      "id": "20261029-FR-864600AF-2566",
+      "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "경찰청",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T17:36:39+09:00",
+      "publishedAt": "2026-10-29T17:36:39+09:00",
+      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFN1eF9SUDI1QWxfX2tUdWJYZnltdG8yX1BaYTlIRFdlUU5nOWNkUjJmbTlEUTNxYXg5MS1lXy0tVnU1MDNxWXE0X1FSRDBPN0tCYW5SMkRmREVTdk5GbkNKLTlheGJ2VUtkdmcyRmtWenlYWno3a29YajhMNHJIQlV3TlFkWmxyeWpR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVJMV0t3VU10My1RY2hZMi01dWl0M0RiQnI5UTVEWmt3VnAzcHRPLVFqWWdZOWRySnNlSWc3LW1sUEMwd01samgwWlhXeWhSNUstcEtQWWhUT1BEVjNDSHR0ZUNiQkJubmw0Qzk1aV9vcFA2aE5MNVBwZl9ZS1pQRy1XdTlnS0hUY2FXb2FNclZjdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "864600af7ed540eed00ba66d57f83bc0c4b0902f1340fe05cf17f2b1023d29d3"
+    },
+    {
+      "id": "20261029-FR-AF21F46A-2572",
+      "title": "제35차 새만금위원회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T15:38:32+09:00",
+      "publishedAt": "2026-10-29T15:38:32+09:00",
+      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "제35차 새만금위원회 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제35차 새만금위원회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nYW02M2l2eWlGWlM0QlNjb2k0ZDhHU1YxSFVfcFhiZHNNQmNqWVJpSlp2LW9jc1h6dzBtSkFoVncwamFFbDlvcl9yak50akFnMFlWaGFadmRxa1B4MGFmbnJMb0R4WXBwUjBMOTV0bmpHcTlieklLWjdn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제35차 새만금위원회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YZ2otRGZQWGx6YUJmenB1RTJjcTdvalJZa2xtUjhWRlFHV21uN3QwMEw5Q0Q5b0VJNW11eGlqbGk1VWVpaU1aUmEtc1pldUJKTHBWMTRXS3dDcS1KenFNUWdNZ1k0eFdzRmc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "af21f46a2ad0b949dd28c5fb2948c71042278d0b57d691b10b3a06b7d6b1485f"
+    },
+    {
+      "id": "20261029-FR-88CA1C38-2578",
+      "title": "아동용 섬유제품, 완구 등 48개 제품 리콜명령 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T11:27:08+09:00",
+      "publishedAt": "2026-10-29T11:27:08+09:00",
+      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "아동용 섬유제품, 완구 등 48개 제품 리콜명령 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아동용 섬유제품, 완구 등 48개 제품 리콜명령 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmlFUnYtNFNTSml4RUtCUjVEazQ0ZVRuMTcxODFXTnotdllKcnp6TlU2WGdaYWVzb3JhR1RVaDhXMVZ1RnZYandsanlma3FQUzlMTl9yT0NDWVBpdUpTSzhjZkx6OW13X3BXb3hWalhkZEJGeWZ2WVFUem8tUmdMNER6Ymh5d0FacjlwZ1VGT09Mdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아동용 섬유제품, 완구 등 48개 제품 리콜명령 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1JwSjNUVnMzLVFCZlAyOThrWV9Jajl2OU9KR1UzS0oyUEMyVy11dDJ4SlNoQVFDc09fSEl4dHJIZGdsaTlqX2trUzVmcXhlWkJqaV96Uy1WejBXQTFJWnR5RTRqVVREMld6R2tPLS1NTWcwaEFKMnlvX2lUaGdjY1VncUNQRGZ0NUpoNmVEc0w4QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "88ca1c385f75a86d53b19942ec1b2c744b28460c4cad267813b1146f5fbde4b0"
+    },
+    {
+      "id": "20261029-DP-8B953683-2564",
+      "title": "부실 금융회사 '신속정리제' 도입…'150일→3~4일'로 단축 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T16:30:00+09:00",
+      "publishedAt": "2026-10-29T16:30:00+09:00",
+      "firstCollectedAt": "2026-10-29T20:41:07+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "부실 금융회사 '신속정리제' 도입…'150일→3~4일'로 단축 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "부실 금융회사 '신속정리제' 도입…'150일→3~4일'로 단축 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRfQk1JYlNBLVhEeHRmWFBzQXNoUjR3RXVQejZjMGhpM2V2WUppRk5UbmVnNFZqMGJCRU42ZEVuVlN2U1VWOXYxVV9QMWxVNlotc2R6WktIY3hnRlQyNktRQTQ4WS1GcUJEV2pqekhoLU4yX0Jrdk1EeGkyb2VKUGszYmdMellpWXc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "부실 금융회사 '신속정리제' 도입…'150일→3~4일'로 단축 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUktfX0tvNXZYdkpmTjIzVnkzbDBNOF9wYmJ5dHBwRXZCbXlObFVhWUxwRG5HRVgzOE5RNXFjRUp0M0l2UDkzWHVBVVc5NWxqelpWeFhwcnVJbks3bTd1b3hIZ0w0QUdLbnh5TA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8b953683259f474967319b0f4406d0c4c24d2e6a4e89ebca664bb2ee0e1ed8b3"
+    },
+    {
+      "id": "20261029-FR-033E7C66-2552",
+      "title": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T08:57:27+09:00",
+      "publishedAt": "2026-10-29T08:57:27+09:00",
+      "firstCollectedAt": "2026-10-29T14:32:35+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkgzV2poWUNhb2pkVXVNOGI0MzlSMHlibEV4azZzTnhvWHVWaVlEOGFnRV9icDRnTFJZeFFVSjg2UjdrX3FFYXQyenE3dWZwTWNpdExoMHg1Zld5bUp2NWRnWWJic09kM0tpcEMxRDc5RFBxRl9TYW5wRUR1aFNwT0JsdDdpaDYwc2JDVkd0dEw1UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMjgwTlVzZEVKcDY5QnhXcWJSLTNycms1b28zOFRKSmd4UUlPSkF1RFdfMU8wQkh6cTFjSW96MlVoMVR6TXRLTFVFYjE1Q0J3UUhMaWNGS041TnJrOGxSbzEtV2xqbDMyNDVVSVFOeGpQcmRKTmItZ1NuRlRUZlJhZDBJMGRvdmlZZVZJVWJZTVpCQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "033e7c66323c853b767a7b0cfac28c71cc765aa7a081968502fd9c007193d1fd"
+    },
+    {
+      "id": "20261029-DP-DE42DB7A-2553",
+      "title": "이재명 대통령, ‘메르츠’ 독일 총리 공식방한 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T11:37:20+09:00",
+      "publishedAt": "2026-10-29T11:37:20+09:00",
+      "firstCollectedAt": "2026-10-29T14:32:35+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "이재명 대통령, ‘메르츠’ 독일 총리 공식방한 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령, ‘메르츠’ 독일 총리 공식방한 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUXR0aHNtdEFsaGZ4QTJzeHBPNXlQMFZIN2RHdGNyTUlXd3Nha1ltRjhUa2ZyX3lNMktXelBWV0xFUFZqNTQ2UFgwODh6cVpfWlFZbklVeU41UQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, '메르츠' 독일 총리 공식방한 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhbGJTRWk1d3drajJrdFV2RHMyQXFpcERiUC1aM3YyREJ1Y0ZVWnpvQzFEMUV1ck5MZmRVWnJvNWQ2RE5DZUtTaEQ3QUFOTUpfSzFVaGVhSnI0enQ1dFg1V0QxZXdraXR5Y3JjMk9iWGY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "de42db7a0319415f83c3e360534f58267116eb4692865c075c6c75bd92b7e4f4"
+    },
+    {
+      "id": "20261028-FR-8E81BFCA-2524",
+      "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-28T16:24:51+09:00",
+      "publishedAt": "2026-10-28T16:24:51+09:00",
+      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMk9pWWlOT0swS1BTMzR6QktUR2pOVm0zb1dOemphWHNuZTFtelNDUUNoWG0xSEhySEd2eElnQWF1TVhoejZKYTh6akliRjNaR3lWRHpDVUxsRTdmOFVzUWdjdlg4YUFTQ09IMGV5Y0ZWT2pDVlNzaXl1T3FiSDFsSDZNbXZQY1N4WnJIelNsX1NqQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BbnhwTTRORm8xWURrZ0dWcjlvX0owQ3RYQ09oQXh1X19hOWdKcmU1dTJjLS0xMExpSEpOSGNoT0l2Nk9VeVFrNXhRcUhvZkhURGM3ZWF0VG9DUWdVVmRMUFprRnB6VWIwMWdXOFRDWVlueEd3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8e81bfca0850c45bad2ff163a093517f0200e77d60e85ec13443d3987147f5b1"
+    },
+    {
+      "id": "20260915-FR-B6AA2188-1345",
+      "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-15T14:34:43+09:00",
+      "publishedAt": "2026-09-15T14:34:43+09:00",
+      "firstCollectedAt": "2026-09-15T15:36:48+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTRpQXJ4aXlkNTZoZHlfNVoxdFFTZlhxV2hCWWxYR1JwQTlucjFuYWJFUnpoYlNaRTVfZUZUQmMySGxGaDM1bldCU0NUOTh5TmlkSkpwTHR3VzY1eVllWUoxTE1aRFVxYlFObmNKVlBfQTFDVkZrWmJXQl9tZ2dSdzFFc0NwVm9iMnhOOExn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpenZfQ293MGZqSUVnODdnVjM2QUZhbW9OMEFVRExMek8wNzdyQWFUY01nNFRYajJlUlRwaFRDcWVEMjEwUEo5SmZybE51b2RFekNOaDZqS0xhdlFLamQ3NkhCSGxfZFJnVXE1X1ZaNDk?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjNwNHlRT3pibm9mRkNmc1NGR0Y4MDdKVGZRVGdscjBnaFJ0SktLaDVnLWd5VmYtTkJ1akxrNVlZTWxScERMUi1mMnlqSnVGall3ajJycHdmby1uN1otYUVscG9weFctbGc2NEMwNnlnQlRUMktPY0V2WGV3OTdfYndXQU52TTBfb1I4LUhB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 청와대",
+          "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94MjNTdGNtZHZ6Z2dsT2hnSFZNUEhwVDRjU3pLaEx3Tm9TcVFHSnNHVHpFN3pFMXFhdmg0Z293UGhJN3Blcy1sX2hfc3pVZ183N0JrT012SHZTZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xN0l6Yzc0QzN0WWE3MGFVTnZfRzlsMnk3a3hpV2IzcnVkaExscVR6Tm9USUxjWlFVazF1dXFUaGRUVDIxVHo5cXFpcXAzVE9hNk5acWhrU1BfUHd4cEFkVXZMX1R4Uy1yclFER01Lb1o?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-09-15T21:03:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-09-16T08:07:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-16T20:59:21+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b6aa21887b279c1351416e0d68dc440bafd463f66c724076a4965c3cfd1c32f9"
+    },
+    {
+      "id": "20261029-DP-3E30DA3C-2583",
+      "title": "농어촌 기본소득 관련 현장 간담회 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T12:06:18+09:00",
+      "publishedAt": "2026-10-29T12:06:18+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "농어촌 기본소득 관련 현장 간담회 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농어촌 기본소득 관련 현장 간담회 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BcS1RYmhIZEhleDJIZE45amJaSndOMGdxZFVYS25oY3o2WmJDMTJwTTRXeHVJQ1RCMHNpQ09sRUVvTFNGVHFhSzNabWdJTWtuR2Jic0VVQnBvRmc1RjRYTUFuZVRRcVJEMHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3e30da3cda085f00a9a315a5aaf902052540e0a4a3fb5f0c3493de771df6ee4a"
+    },
+    {
+      "id": "20261029-DP-B0BCFDAE-2584",
+      "title": "\"공영주차장 차량 부제로 이용일수 줄면\"… 정기주차권 요금·이용기간 조정해야 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T08:35:55+09:00",
+      "publishedAt": "2026-10-29T08:35:55+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "\"공영주차장 차량 부제로 이용일수 줄면\"… 정기주차권 요금·이용기간 조정해야 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"공영주차장 차량 부제로 이용일수 줄면\"… 정기주차권 요금·이용기간 조정해야 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFN3MmxiT1BkQU14U05DLWY3MWpnVlpRSXFISXBnaHpTa0xwY2JxR2E1RUJhNWxEZTZqNzh0NmZDOHhNeEg1X1V3aUZ2NEV1dzJtaFljZWJDWU9GYlZVYVQ2LTFEUG1tSnRObEI0dUtHbEFmWVJjbVc0RzltVlFTVEJMX0REYWl0c2R3UWlBNU5aQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b0bcfdae5a08abf48ea2fe3e1f23a7811cf8f03ae4cefb64179b8dec39b64b89"
+    },
+    {
+      "id": "20261029-DP-8E482117-2585",
+      "title": "원전 공론화위원회, 공론화평가단 운영한다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T10:00:00+09:00",
+      "publishedAt": "2026-10-29T10:00:00+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "원전 공론화위원회, 공론화평가단 운영한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "원전 공론화위원회, 공론화평가단 운영한다 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZnJoQ0Fkc2dEVVAtWXh5a2FFQjhlQVVqaWFHYVJMc3N5MGRSRXpaTml5NDJ3MUtveFhRRDlpS05xUTdoNmZtcHZ3NkxydmppU0M0MjN5LXZ6ZmVDU0UwdzJFR3l2NzFmV242WGY2Y2FjN3NqUWFPY0R0SjcxTXNNRXhrSXNJaGhzQzB2OFZtSHhQeXFSSWE1dUJ1NmVnSkNlWUJkbVo4ZzhkMDg3eXlkcGhxR0JiYm4yX2hZSmw3Ukd4ZXFJS19xNXJsWEpFT1RmRXByQ2ZacGJlUGZROFhVNm10UkR2NXRyTjZoUTVNYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8e48211746c2b23b8f8f7f7c7be6c1f387f8f8579913a30e324c399498133809"
+    },
+    {
+      "id": "20261029-FR-DD7BF807-2586",
+      "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T20:54:21+09:00",
+      "publishedAt": "2026-10-29T20:54:21+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "한-독일 이중과세방지협정 개정의정서 서명 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUHpOTy1BQ2hhcjd4V01XaVpFeDJDT2xuekxOa0VkZ0pYUFdvRWVFSjhHeEFLcHlMQTNidlhLRm5QVlN3a1JhMThrWmVGaTlXTHFLQThmbEJXVHYxQk81Y3N3RW1tU1p0d2tlTV96Yi0zVUY5Vi1QU3RZTmd0Z2tFc2UyR3VZeHUzT2hXaEdSWUlzQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dd7bf8077986e8901a0d6c0015bca73645f3787e8965eb1aac599c0ceaf84cc0"
+    },
+    {
+      "id": "20261029-FR-BD9AE193-2587",
+      "title": "한·독일 정상회담 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T20:09:02+09:00",
+      "publishedAt": "2026-10-29T20:09:02+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "한·독일 정상회담 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한·독일 정상회담 - 대한민국 청와대",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14b1dESkd5M2Z6UnV3SzhMcUE4RnJoTi1wTXF0WnBvUnRFSXVsQ3ZWaEplb0RkRGZXZzhZRUhHRFNfb2hiUXFsbHM1QU9pSkVlM3FrVDBkY1BMMWtqR2lQU2ZJOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bd9ae19328769f4bdd6574e80f71a9dc8880200212322f880905544786123509"
+    },
+    {
+      "id": "20261029-DP-57240649-2588",
+      "title": "[정부합동] 백해무익(百害無益)한 '담배'...유해성분 검사 확대, 정보 제출 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T14:00:00+09:00",
+      "publishedAt": "2026-10-29T14:00:00+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "[정부합동] 백해무익(百害無益)한 '담배'...유해성분 검사 확대, 정보 제출 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[정부합동] 백해무익(百害無益)한 '담배'...유해성분 검사 확대, 정보 제출 강화 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNT0c1b3VQQ09GTGp2MElmOVUyRHZObThtaFFpd0liTkZlQ1ZPc2w5bVdMbHBmNXlzOEQ0STIxNHN0YUNjb0ZubFp3M2NJM3p6by1SQjZlRC1PUF9EUmJGZThjaVZyajhOaW9DbkZLSkNhYnJvUG53QWw0SDNRMFc2Z0FkbkdBc0E4ZG56TUtWTkxVYURYTkpNcWFTWGp4a01hcXlEUnR5RXdnMjY4VTNPRDRhdS12ZUtsQTNpY2ZCTTludUxRaHVjVlhrMUNEaS1QRk4wSG1WRUpScHkyV1dSWDQ1X0t2Q3hBTFNyaWxONXZEMU91WnRuU1hkcGttcHdPWjlyVVNkTG5XcE9VcXNKVktR?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "57240649c80393591da2a120bc5889cdf018afc0fe282303534da9303b0decb0"
+    },
+    {
+      "id": "20261029-FR-C0CFFDC9-2589",
+      "title": "[정책 바로보기] 달라진 형사절차…폭력 피해자 지원 공백? - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T23:56:09+09:00",
+      "publishedAt": "2026-10-29T23:56:09+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "[정책 바로보기] 달라진 형사절차…폭력 피해자 지원 공백? - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[정책 바로보기] 달라진 형사절차…폭력 피해자 지원 공백? - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiSlEwa2JiMVZhMUJsOVlOak9QZk9Vb3FiLVcwTTFOandnOVZJWHc5bVhYS25rMloySWZLTWRfNjExSHRKMVhGdUxXWEtnam0xelFxY1hhdnVJY0g1STM3MnkzRXpLV3h0Z29RQg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c0cffdc96cd81edff64b7c709c2de691f7a27387b2069d3319983fb3512a8cc1"
+    },
+    {
+      "id": "20261029-FR-541F7D07-2590",
+      "title": "[설명] 국토부는 관련 법령에 따라 주택통계를 관리·운영하고 있습니다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T22:52:30+09:00",
+      "publishedAt": "2026-10-29T22:52:30+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "[설명] 국토부는 관련 법령에 따라 주택통계를 관리·운영하고 있습니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[설명] 국토부는 관련 법령에 따라 주택통계를 관리·운영하고 있습니다 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GV1ktZjJxNTlfZExYXzB3MkZXLTBaQklvNnBDVENQa0EyYThSaFVpUXhVLU9OYTZOdFZsS2loUXE4Qm94NDBaRW1iWXA3Vm80azFiQXgycW1DQXU2NU5MQ2xLTmFZMnUtdk1RMlM4RQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "541f7d074e7201748849b978c25ac94f87c0942f1809c46bcce90212e0df8175"
+    },
+    {
+      "id": "20261029-FR-A152D851-2591",
+      "title": "89개 방송사, 장애인방송 의무편성 지정 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T10:09:00+09:00",
+      "publishedAt": "2026-10-29T10:09:00+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "89개 방송사, 장애인방송 의무편성 지정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "89개 방송사, 장애인방송 의무편성 지정 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUWgtT1NMbTZKZkh5SXpZTklrZXdpeUF5RzQxTHp1eUFGaW9ET195T0RET25yU20xdm1kRE1rRFk4OFZuN053M2FBRnE4TkpEVWlGN2oycklZRDNYSU4xRjUxY1ZNNmh5Q0VuT09HVEJZQWhTUjRGNlpCODRQbkZFX3RhQkJJa2pLUmtTbDEzcUxVUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a152d851608a70d9cb3204bebb1682a42d5765b0eff583d4217abc21c41ff915"
+    },
+    {
+      "id": "20261029-FR-7BE820BF-2592",
+      "title": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T20:26:49+09:00",
+      "publishedAt": "2026-10-29T20:26:49+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중소 제조현장에 피지컬 AI 확산…2030년까지 5조 원 이상 투입 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jdy1wTndwYk83WXA0V2NfWjY5NjhLS1ZPVkVDdmNpT1V5U1BFaFVrNDMwME91ZXk4elhPc2hBeHoyTld1ZmQzdzR5SmVKSTNFOHFBckMzczBlTHdBSVcwVjNJWmJ4eC0wR1hUTw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7be820bf08d2558bfcd17843c841ac23838fbfc5eb401e9b5ef7d1e727669383"
+    },
+    {
+      "id": "20261029-FR-C80CCEEB-2593",
+      "title": "보고 싶은 공연도, 타야 할 열차도…암표 때문에 놓치지 않으려면 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T23:48:45+09:00",
+      "publishedAt": "2026-10-29T23:48:45+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "보고 싶은 공연도, 타야 할 열차도…암표 때문에 놓치지 않으려면 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "보고 싶은 공연도, 타야 할 열차도…암표 때문에 놓치지 않으려면 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kT05GRzNnQmdNNnhnaEpzc0FscTVhVVYxN0lvUTVlMzUwb0lkWnJEUGc5b0JTZ1pUVTBaaVRuX0tPREtSdTRLM1RDSElyWm1jc29YUXpxUGp2c3VpMzV4dGlhQVMtSmF5bHc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c80cceebdafec393049759b187e8c426dccedccdc627572f4f2ff41979e0cfbe"
+    },
+    {
+      "id": "20261029-FR-C24A42E0-2594",
+      "title": "제조데이터로 자라는 M.AX, M.AX 얼라이언스 ｢데이터 분과｣ 출범 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T09:08:27+09:00",
+      "publishedAt": "2026-10-29T09:08:27+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "제조데이터로 자라는 M.AX, M.AX 얼라이언스 ｢데이터 분과｣ 출범 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제조데이터로 자라는 M.AX, M.AX 얼라이언스 ｢데이터 분과｣ 출범 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbi1vckRyR1h0MWc1Z0VBOEJMeDJBcERFMVhTajYxc0NfTHpoNUtLVkRyVDltOW13NFVzXzNBdldsb2NQbktBampGM25qRjRNOW55QjlONS00T3R6cTRMRWd3ek9DUTRBTVIzQ2drd3ZFamNQa0ZuZy1ZQmhXOXFKcURxRzdCdEIyaUpGTnQ1YzBudw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c24a42e000b82defdcacbd40ddfd46c61edbb746a53c12ae49256a29592a8f4f"
+    },
+    {
+      "id": "20261029-FR-87C7B3AB-2595",
+      "title": "2026년 공정거래 학술연구 지원사업 최종발표회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T13:30:00+09:00",
+      "publishedAt": "2026-10-29T13:30:00+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "2026년 공정거래 학술연구 지원사업 최종발표회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 공정거래 학술연구 지원사업 최종발표회 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxONUF0enlDd1k0RWd2QUlBRXQ0OTZ5djNWLXJ5S01IMUYxdFFCRlYyWjlwb0xWZjRxVUkwZHQ1czYxX2xLcTJRbkhNbGNfM1NRWUJQSVZuOXFHeGJuYkNuMU9KUTV4Y1piSE0wc0lhVkFUVmhKVHdRem02WlBKblRCUTV1ZTBXdlV1eGg1eVFYdlpGNi1uMThjdjUzXzlNZlpESlhPdmZ3eC1LQXNCVWFpUUx0b1c0d1FWNlZhN3l2OGtpZ24weUhCWG9xOGtoVHJXS0kwTHlsVXA2ekVtbTYwRFloeU1GNm9adURQUC1mdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "87c7b3ab44ebe17349ac4f1248e45a621d1b7606336b0df06e3b6723ad732377"
+    },
+    {
+      "id": "20261029-FR-464C9455-2596",
+      "title": "한국형 녹색대전환 이끌 기후테크 혁신기업, 기술부터 시장까지 전방위 육성 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T15:00:00+09:00",
+      "publishedAt": "2026-10-29T15:00:00+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-30T03:22:54+09:00",
+      "summary": "한국형 녹색대전환 이끌 기후테크 혁신기업, 기술부터 시장까지 전방위 육성 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국형 녹색대전환 이끌 기후테크 혁신기업, 기술부터 시장까지 전방위 육성 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT2NMdWVDQms2UWFzYkJPTlEwQ1VoY1ZvTkZFOXllZ0FjeTZCaG12T2lhNmVLMDF3aTMwUzRNMkdQX0dicTh4SFNoSjZuTDVNaW04cmd5bE51RWctTkMzckxHNXpSVy11OHh2ZTExSE5za0d2dXJFalBVUkZNdGpObWFWTUl1SEpvYWQ1UlhuR05jQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "464c945525c7f662c21ede6631129c038a2c5f7f183238750eb3f1d98c22bd0e"
+    },
     {
       "id": "20261027-FR-B0B0CDB6-2471",
       "title": "변화하는 통상환경, 민간 전문가와 대응방안 모색 - 대한민국 정책브리핑",
@@ -230,47 +1291,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6ad80037ae7738d6d47b41d19e065cfacea935878d51ca7a18bcd6ec9fcdb106"
-    },
-    {
-      "id": "20261029-FR-864600AF-2566",
-      "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "경찰청",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T17:36:39+09:00",
-      "publishedAt": "2026-10-29T17:36:39+09:00",
-      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
-      "updatedAt": "2026-10-29T20:41:08+09:00",
-      "summary": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFN1eF9SUDI1QWxfX2tUdWJYZnltdG8yX1BaYTlIRFdlUU5nOWNkUjJmbTlEUTNxYXg5MS1lXy0tVnU1MDNxWXE0X1FSRDBPN0tCYW5SMkRmREVTdk5GbkNKLTlheGJ2VUtkdmcyRmtWenlYWno3a29YajhMNHJIQlV3TlFkWmxyeWpR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "864600af7ed540eed00ba66d57f83bc0c4b0902f1340fe05cf17f2b1023d29d3"
     },
     {
       "id": "20261029-FR-8294EE06-2567",
@@ -474,46 +1494,6 @@
       "contentHash": "741ab7d236f9b84355f01deb6dd794bef679a471d03a141b3f6f5a2183baf5dd"
     },
     {
-      "id": "20261029-FR-AF21F46A-2572",
-      "title": "제35차 새만금위원회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T15:38:32+09:00",
-      "publishedAt": "2026-10-29T15:38:32+09:00",
-      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
-      "updatedAt": "2026-10-29T20:41:08+09:00",
-      "summary": "제35차 새만금위원회 - 포토 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제35차 새만금위원회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nYW02M2l2eWlGWlM0QlNjb2k0ZDhHU1YxSFVfcFhiZHNNQmNqWVJpSlp2LW9jc1h6dzBtSkFoVncwamFFbDlvcl9yak50akFnMFlWaGFadmRxa1B4MGFmbnJMb0R4WXBwUjBMOTV0bmpHcTlieklLWjdn?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "af21f46a2ad0b949dd28c5fb2948c71042278d0b57d691b10b3a06b7d6b1485f"
-    },
-    {
       "id": "20261029-FR-3A795568-2573",
       "title": "18일간 펼쳐지는 역대급 할인 혜택! - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -712,46 +1692,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3593a0b170d10666ec82c156b835ec922e43c7f16577d56d6330b246d12803a5"
-    },
-    {
-      "id": "20261029-FR-88CA1C38-2578",
-      "title": "아동용 섬유제품, 완구 등 48개 제품 리콜명령 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T11:27:08+09:00",
-      "publishedAt": "2026-10-29T11:27:08+09:00",
-      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
-      "updatedAt": "2026-10-29T20:41:08+09:00",
-      "summary": "아동용 섬유제품, 완구 등 48개 제품 리콜명령 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "아동용 섬유제품, 완구 등 48개 제품 리콜명령 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMmlFUnYtNFNTSml4RUtCUjVEazQ0ZVRuMTcxODFXTnotdllKcnp6TlU2WGdaYWVzb3JhR1RVaDhXMVZ1RnZYandsanlma3FQUzlMTl9yT0NDWVBpdUpTSzhjZkx6OW13X3BXb3hWalhkZEJGeWZ2WVFUem8tUmdMNER6Ymh5d0FacjlwZ1VGT09Mdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "88ca1c385f75a86d53b19942ec1b2c744b28460c4cad267813b1146f5fbde4b0"
     },
     {
       "id": "20261029-FR-5555DB10-2579",
@@ -1045,46 +1985,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4d98e77d5ec8447984e4f0403904263990e8d11399201f2cb974ecc667bccbc7"
-    },
-    {
-      "id": "20261029-DP-8B953683-2564",
-      "title": "부실 금융회사 '신속정리제' 도입…'150일→3~4일'로 단축 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T16:30:00+09:00",
-      "publishedAt": "2026-10-29T16:30:00+09:00",
-      "firstCollectedAt": "2026-10-29T20:41:07+09:00",
-      "updatedAt": "2026-10-29T20:41:07+09:00",
-      "summary": "부실 금융회사 '신속정리제' 도입…'150일→3~4일'로 단축 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "부실 금융회사 '신속정리제' 도입…'150일→3~4일'로 단축 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSzRfQk1JYlNBLVhEeHRmWFBzQXNoUjR3RXVQejZjMGhpM2V2WUppRk5UbmVnNFZqMGJCRU42ZEVuVlN2U1VWOXYxVV9QMWxVNlotc2R6WktIY3hnRlQyNktRQTQ4WS1GcUJEV2pqekhoLU4yX0Jrdk1EeGkyb2VKUGszYmdMellpWXc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "8b953683259f474967319b0f4406d0c4c24d2e6a4e89ebca664bb2ee0e1ed8b3"
     },
     {
       "id": "20261029-DP-2FFAB036-2565",
@@ -1711,86 +2611,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6e74e3beb76d4e851a26d33721e9fef2532b70da0fa11d48634275de26ead073"
-    },
-    {
-      "id": "20261029-FR-033E7C66-2552",
-      "title": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T08:57:27+09:00",
-      "publishedAt": "2026-10-29T08:57:27+09:00",
-      "firstCollectedAt": "2026-10-29T14:32:35+09:00",
-      "updatedAt": "2026-10-29T14:32:35+09:00",
-      "summary": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "해외에서도 '전역증 재발급' 손쉽게, 재외공관 서비스 확대 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORkgzV2poWUNhb2pkVXVNOGI0MzlSMHlibEV4azZzTnhvWHVWaVlEOGFnRV9icDRnTFJZeFFVSjg2UjdrX3FFYXQyenE3dWZwTWNpdExoMHg1Zld5bUp2NWRnWWJic09kM0tpcEMxRDc5RFBxRl9TYW5wRUR1aFNwT0JsdDdpaDYwc2JDVkd0dEw1UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "033e7c66323c853b767a7b0cfac28c71cc765aa7a081968502fd9c007193d1fd"
-    },
-    {
-      "id": "20261029-DP-DE42DB7A-2553",
-      "title": "이재명 대통령, ‘메르츠’ 독일 총리 공식방한 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T11:37:20+09:00",
-      "publishedAt": "2026-10-29T11:37:20+09:00",
-      "firstCollectedAt": "2026-10-29T14:32:35+09:00",
-      "updatedAt": "2026-10-29T14:32:35+09:00",
-      "summary": "이재명 대통령, ‘메르츠’ 독일 총리 공식방한 관련 강유정 수석대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "이재명 대통령, ‘메르츠’ 독일 총리 공식방한 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RUXR0aHNtdEFsaGZ4QTJzeHBPNXlQMFZIN2RHdGNyTUlXd3Nha1ltRjhUa2ZyX3lNMktXelBWV0xFUFZqNTQ2UFgwODh6cVpfWlFZbklVeU41UQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "de42db7a0319415f83c3e360534f58267116eb4692865c075c6c75bd92b7e4f4"
     },
     {
       "id": "20261029-FR-E4C3532D-2554",
@@ -3305,46 +4125,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "fd6ff6ec1dade39b6003f5485b1209bdf8b4e44d327bb047b929d07965aa68dc"
-    },
-    {
-      "id": "20261028-FR-8E81BFCA-2524",
-      "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-28T16:24:51+09:00",
-      "publishedAt": "2026-10-28T16:24:51+09:00",
-      "firstCollectedAt": "2026-10-28T23:22:42+09:00",
-      "updatedAt": "2026-10-28T23:22:42+09:00",
-      "summary": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "K-팔란티어, 신안보 혁신기업 육성 본격화…전략분야 선정계획 및 펀드 조성방안 등 논의 - 대한민국 정책브리핑",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMk9pWWlOT0swS1BTMzR6QktUR2pOVm0zb1dOemphWHNuZTFtelNDUUNoWG0xSEhySEd2eElnQWF1TVhoejZKYTh6akliRjNaR3lWRHpDVUxsRTdmOFVzUWdjdlg4YUFTQ09IMGV5Y0ZWT2pDVlNzaXl1T3FiSDFsSDZNbXZQY1N4WnJIelNsX1NqQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "8e81bfca0850c45bad2ff163a093517f0200e77d60e85ec13443d3987147f5b1"
     },
     {
       "id": "20261028-DP-71D205E9-2525",
@@ -54389,83 +55169,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "926ac25e723f8ac075c46d8482af153f49bdceb615f69cf973bc3a4fc9188602"
-    },
-    {
-      "id": "20260915-FR-B6AA2188-1345",
-      "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-15T14:34:43+09:00",
-      "publishedAt": "2026-09-15T14:34:43+09:00",
-      "firstCollectedAt": "2026-09-15T15:36:48+09:00",
-      "updatedAt": "2026-09-16T20:59:21+09:00",
-      "summary": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeTRpQXJ4aXlkNTZoZHlfNVoxdFFTZlhxV2hCWWxYR1JwQTlucjFuYWJFUnpoYlNaRTVfZUZUQmMySGxGaDM1bldCU0NUOTh5TmlkSkpwTHR3VzY1eVllWUoxTE1aRFVxYlFObmNKVlBfQTFDVkZrWmJXQl9tZ2dSdzFFc0NwVm9iMnhOOExn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-카자흐스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpenZfQ293MGZqSUVnODdnVjM2QUZhbW9OMEFVRExMek8wNzdyQWFUY01nNFRYajJlUlRwaFRDcWVEMjEwUEo5SmZybE51b2RFekNOaDZqS0xhdlFLamQ3NkhCSGxfZFJnVXE1X1ZaNDk?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-카자흐스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjNwNHlRT3pibm9mRkNmc1NGR0Y4MDdKVGZRVGdscjBnaFJ0SktLaDVnLWd5VmYtTkJ1akxrNVlZTWxScERMUi1mMnlqSnVGall3ajJycHdmby1uN1otYUVscG9weFctbGc2NEMwNnlnQlRUMktPY0V2WGV3OTdfYndXQU52TTBfb1I4LUhB?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 청와대",
-          "title": "한-투르크메니스탄 정상회담 결과 관련 강유정 수석대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94MjNTdGNtZHZ6Z2dsT2hnSFZNUEhwVDRjU3pLaEx3Tm9TcVFHSnNHVHpFN3pFMXFhdmg0Z293UGhJN3Blcy1sX2hfc3pVZ183N0JrT012SHZTZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-09-15T21:03:30+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-09-16T08:07:12+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-09-16T20:59:21+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b6aa21887b279c1351416e0d68dc440bafd463f66c724076a4965c3cfd1c32f9"
     },
     {
       "id": "20260915-FR-2EE44330-1332",
