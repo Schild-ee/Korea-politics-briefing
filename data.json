@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-31T00:47:28+09:00",
-    "nextScheduledUpdate": "2026-10-31T01:17:28+09:00",
+    "lastSuccessfulUpdate": "2026-10-31T05:38:55+09:00",
+    "nextScheduledUpdate": "2026-10-31T06:08:55+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-31T00:47:22+09:00",
-      "finishedAt": "2026-10-31T00:47:28+09:00",
+      "startedAt": "2026-10-31T05:38:51+09:00",
+      "finishedAt": "2026-10-31T05:38:55+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 63,
-      "duplicates": 67,
-      "rejected": 125,
-      "rejectedByDate": 115,
-      "rejectedByRelevance": 10,
+      "fetchedCandidates": 162,
+      "acceptedCandidates": 64,
+      "duplicates": 68,
+      "rejected": 87,
+      "rejectedByDate": 74,
+      "rejectedByRelevance": 13,
       "rejectedAsCommentary": 0,
-      "newIssues": 6,
-      "updatedIssues": 2,
+      "newIssues": 4,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,14 +41,14 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 35,
           "error": ""
         },
         {
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 27,
           "error": ""
         },
         {
@@ -81,7 +81,7 @@
       "occurredAt": "2026-07-31T13:25:12+09:00",
       "publishedAt": "2026-07-31T13:25:12+09:00",
       "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-10-31T00:47:24+09:00",
+      "updatedAt": "2026-10-31T05:38:53+09:00",
       "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -151,6 +151,13 @@
           "date": "2026-10-30",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjZFQ1otOGFkbVVjVVhTQmFhOUpKVGVfenRIM0Q4NC04X1pqSXFIMFVHUDBPRjMwYkhoaVpVVmpudU84ajJESVVoRHdtOVJYNjNTbjFmZjFOYkpMOXNiRHpXanVvSS1pZnktTlJQcEM3dVkwdjREMDFrZXVIMzBSZ2hqWHR2eld6OVJv?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFVNclFTTXlGMXNMN0dZUVFFdVlEd1k5REZOTERvVlo0aUNtQnlJSEl3b215TjlUcERaeE9mWld3UG81Unc4YWF6aUVSdHpVVHh3czBpMmM4UjJlM2ljWHV3TXo1REdPWkZTMFJhZm12MURETmFmLUEtM3FCVXBqdjJSWXNYcUZ0Y3kw?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -193,6 +200,11 @@
           "updatedAt": "2026-10-31T00:47:24+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 8
+        },
+        {
+          "updatedAt": "2026-10-31T05:38:53+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 9
         }
       ],
       "corrected": false,
@@ -200,6 +212,285 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
+    },
+    {
+      "id": "20261029-FR-864600AF-2566",
+      "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "경찰청",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T17:36:39+09:00",
+      "publishedAt": "2026-10-29T17:36:39+09:00",
+      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
+      "updatedAt": "2026-10-31T05:38:53+09:00",
+      "summary": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFN1eF9SUDI1QWxfX2tUdWJYZnltdG8yX1BaYTlIRFdlUU5nOWNkUjJmbTlEUTNxYXg5MS1lXy0tVnU1MDNxWXE0X1FSRDBPN0tCYW5SMkRmREVTdk5GbkNKLTlheGJ2VUtkdmcyRmtWenlYWno3a29YajhMNHJIQlV3TlFkWmxyeWpR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVJMV0t3VU10My1RY2hZMi01dWl0M0RiQnI5UTVEWmt3VnAzcHRPLVFqWWdZOWRySnNlSWc3LW1sUEMwd01samgwWlhXeWhSNUstcEtQWWhUT1BEVjNDSHR0ZUNiQkJubmw0Qzk1aV9vcFA2aE5MNVBwZl9ZS1pQRy1XdTlnS0hUY2FXb2FNclZjdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGZpdmU2UHg5OUFIcEFoaGVyMHNJcGhodG5xOGVYZXRUS19rQ3lWZ21EYnNWOGVvRUpWbktGcDFSTndrMEhUTUVobE5sZXRaY3VwcktWRFQzaWVteC02M1RBMEdGd1hsX1RzdnlGYXlPVW9pbVdWbTl1bERpTlc2WGJwR3MxY2dyalFr?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T03:22:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-31T05:38:53+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "864600af7ed540eed00ba66d57f83bc0c4b0902f1340fe05cf17f2b1023d29d3"
+    },
+    {
+      "id": "20261029-FR-FEDB436B-2640",
+      "title": "(주)셀트리온의 하도급법 위반행위 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T12:00:00+09:00",
+      "publishedAt": "2026-10-29T12:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T05:38:53+09:00",
+      "updatedAt": "2026-10-31T05:38:53+09:00",
+      "summary": "(주)셀트리온의 하도급법 위반행위 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(주)셀트리온의 하도급법 위반행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByRW5uQ0EyTVpVUmdhUktoWW81U1ZyWVZnMFgycUxUUTR5ck9BQ3ZfYlN4d2t4cFBuM1dUb1hvT2MwVmZWZXlQU0ZhTUVCUVQzbHdGQTR1b0ZnMkFNNmctQUo0R1dUd29IUDF1RkQyWUpDeUx4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fedb436b835ae2d80cda2fe82a7b249d4be0b3a35042776867ed6ec9ef9f80c4"
+    },
+    {
+      "id": "20261031-FR-4D2A275E-2641",
+      "title": "제8차 주택공급 현장 점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T04:25:33+09:00",
+      "publishedAt": "2026-10-31T04:25:33+09:00",
+      "firstCollectedAt": "2026-10-31T05:38:53+09:00",
+      "updatedAt": "2026-10-31T05:38:53+09:00",
+      "summary": "제8차 주택공급 현장 점검 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제8차 주택공급 현장 점검 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBveTdTRl85X2NRZTR6RWIwS1UxQUUtNjVrUlh3RFBDRktvRGxETTdyQnByVnRzSHFUdF9tYlc5UVdvZUp2WnZVSXg4QzFDU0tDMXhjTFk5S0otaFJWdnZZRnZ4RHdBNU5KWHVMbVU0aFpub05aVDZvMTZn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4d2a275ee1f0e6cc020dd5c2a041793a982c66e1072f767b1e29c5be97bf4784"
+    },
+    {
+      "id": "20261030-FR-82DF7B73-2642",
+      "title": "AI 발전 속도에 발맞춰 보건의료데이터 안전 활용법 교육한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T14:12:47+09:00",
+      "publishedAt": "2026-10-30T14:12:47+09:00",
+      "firstCollectedAt": "2026-10-31T05:38:53+09:00",
+      "updatedAt": "2026-10-31T05:38:53+09:00",
+      "summary": "AI 발전 속도에 발맞춰 보건의료데이터 안전 활용법 교육한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "AI 발전 속도에 발맞춰 보건의료데이터 안전 활용법 교육한다 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQmlRdHdGc2NsUEJlVl9Va1dHQUw5UmJIRjZ5RExJLVQwNDR1OHp2bnZ0VUNIVXR3Y19FQzd0dEtvX01HRDNkN21nOU9vSEIxVVV5Z3NzS1hucVI2VlY5Umg4bU82eVBsZUNKdE92Y0NzeUY3TVpXMGRYcVpkdnRxV0F4ZXZZcUs2V3FKSlZfbG91QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "82df7b739edbf355cc28859e3ff946cce642554b1df84b510461e090d959134e"
+    },
+    {
+      "id": "20261029-DP-59BFAA5D-2539",
+      "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T00:00:00+09:00",
+      "publishedAt": "2026-10-29T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
+      "updatedAt": "2026-10-31T05:38:52+09:00",
+      "summary": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORG8wOTZIOENOVVFKUFdidDQtZHh0SUFPb2pjQ0M4cjZ3YWxVM0ljU2NrTjVGTUV3cjhqX2xUdF9oSjUwc2h0THRqSUlNeFE4TkZ5dkpkQ3VVVDN1bUt0Y3JJSUlNU3R5R1RzWVZpSkxHdGtrYlJ3ZmdFeUFKX1c3VW9vTXpRaEZEbzM3ZWVvbmRNUTdoeUk0UnVuMkdlNURGZUx4aTNYNUlMem5PZldLV0RSd0E0RGVibnJKVURVRVROS0lOT1VhRWpXZU9LVTBUcG9qbVhxSjd5RktzTEZ3STVWOGE4QkJTbjMycV9zWQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "양육비 선지급제 소득기준 폐지 \"한부모가족 지원 대상 확대\" - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yaTFJQlVqY0gtbm5KeHhGTGZoNlp3NWNZUHpGdVV1amN2a2luWXVOeTlBRW1XeGlkOXJ6VGI3M1lpb29QSDlacVpPamN2cW9WXzdWT0o3akhGUWNveGZscS1GZE1VYlFNSWRVeg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-31T05:38:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "59bfaa5df7889df9c6ae9c53c3da8aec9e2d8bc35e204df55143394c5ae909e6"
+    },
+    {
+      "id": "20261030-DP-FE9BB875-2639",
+      "title": "고준위위원회, 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T16:00:00+09:00",
+      "publishedAt": "2026-10-30T16:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T05:38:52+09:00",
+      "updatedAt": "2026-10-31T05:38:52+09:00",
+      "summary": "고준위위원회, 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "고준위위원회, 고준위 방사성폐기물 관리시설 부적합지역 배제기준 확정 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEx2ejNzczZ6aWxnbHlUU0pRaHhWWWh0MGtkemZXV1BmRVhiQkVYWjhyWDFZa2I2WXgyNzlHc0hxaTNaOFlsV1VmYWdiaFdHV2tERnpheDNPNDg2V1JJdk1QNWtQY1VSdDNzT3QtZFpyUVU0NXVaN29mbEx3ZGxUMTZ1SXg3TGtRMjFBdFZaLXIyZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fe9bb875707bfabb6c2281636effffe0c56498164012a8b73d7ed4ec03ee1998"
     },
     {
       "id": "20260925-FR-04BBB967-1607",
@@ -2980,60 +3271,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "06389e5ac063e3a3aa19d6693c0f2efbcbab32ccb2473d651b4a9fc59da1794c"
-    },
-    {
-      "id": "20261029-FR-864600AF-2566",
-      "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "경찰청",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T17:36:39+09:00",
-      "publishedAt": "2026-10-29T17:36:39+09:00",
-      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
-      "updatedAt": "2026-10-30T03:22:54+09:00",
-      "summary": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaFN1eF9SUDI1QWxfX2tUdWJYZnltdG8yX1BaYTlIRFdlUU5nOWNkUjJmbTlEUTNxYXg5MS1lXy0tVnU1MDNxWXE0X1FSRDBPN0tCYW5SMkRmREVTdk5GbkNKLTlheGJ2VUtkdmcyRmtWenlYWno3a29YajhMNHJIQlV3TlFkWmxyeWpR?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "경찰청, 「2026 안보지킴이 공모전」 시상식 개최 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQVJMV0t3VU10My1RY2hZMi01dWl0M0RiQnI5UTVEWmt3VnAzcHRPLVFqWWdZOWRySnNlSWc3LW1sUEMwd01samgwWlhXeWhSNUstcEtQWWhUT1BEVjNDSHR0ZUNiQkJubmw0Qzk1aV9vcFA2aE5MNVBwZl9ZS1pQRy1XdTlnS0hUY2FXb2FNclZjdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-30T03:22:54+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "864600af7ed540eed00ba66d57f83bc0c4b0902f1340fe05cf17f2b1023d29d3"
     },
     {
       "id": "20261029-FR-AF21F46A-2572",
@@ -5858,46 +6095,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "179363142e85692eb9eb185702eabc2ca87bbd3ff9c3e59a4e7d4b1b94248826"
-    },
-    {
-      "id": "20261029-DP-59BFAA5D-2539",
-      "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T00:00:00+09:00",
-      "publishedAt": "2026-10-29T00:00:00+09:00",
-      "firstCollectedAt": "2026-10-29T08:57:56+09:00",
-      "updatedAt": "2026-10-29T08:57:56+09:00",
-      "summary": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "양육비 선지급 소득기준 전면 폐지 한부모가족 지원 대상 확대 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORG8wOTZIOENOVVFKUFdidDQtZHh0SUFPb2pjQ0M4cjZ3YWxVM0ljU2NrTjVGTUV3cjhqX2xUdF9oSjUwc2h0THRqSUlNeFE4TkZ5dkpkQ3VVVDN1bUt0Y3JJSUlNU3R5R1RzWVZpSkxHdGtrYlJ3ZmdFeUFKX1c3VW9vTXpRaEZEbzM3ZWVvbmRNUTdoeUk0UnVuMkdlNURGZUx4aTNYNUlMem5PZldLV0RSd0E0RGVibnJKVURVRVROS0lOT1VhRWpXZU9LVTBUcG9qbVhxSjd5RktzTEZ3STVWOGE4QkJTbjMycV9zWQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "59bfaa5df7889df9c6ae9c53c3da8aec9e2d8bc35e204df55143394c5ae909e6"
     },
     {
       "id": "20261028-DP-D3A09689-2540",
