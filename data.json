@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-31T05:38:55+09:00",
-    "nextScheduledUpdate": "2026-10-31T06:08:55+09:00",
+    "lastSuccessfulUpdate": "2026-10-31T09:38:02+09:00",
+    "nextScheduledUpdate": "2026-10-31T10:08:02+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-31T05:38:51+09:00",
-      "finishedAt": "2026-10-31T05:38:55+09:00",
+      "startedAt": "2026-10-31T09:37:58+09:00",
+      "finishedAt": "2026-10-31T09:38:02+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 162,
-      "acceptedCandidates": 64,
-      "duplicates": 68,
-      "rejected": 87,
-      "rejectedByDate": 74,
-      "rejectedByRelevance": 13,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 66,
+      "duplicates": 74,
+      "rejected": 123,
+      "rejectedByDate": 116,
+      "rejectedByRelevance": 7,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
-      "updatedIssues": 3,
+      "newIssues": 3,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,14 +41,14 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 50,
           "error": ""
         },
         {
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 27,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,128 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261030-DP-977CB593-2643",
+      "title": "제1차 자살예방 정례브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T18:00:00+09:00",
+      "publishedAt": "2026-10-30T18:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T09:37:59+09:00",
+      "updatedAt": "2026-10-31T09:37:59+09:00",
+      "summary": "제1차 자살예방 정례브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제1차 자살예방 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByUnlQWVVpck5kUi1zTVkwQVlRRnotMnEteHVDWHNaMlZaakF5XzI5cVBKc09ZMmVScnBxekhMZDNwZURXRDFseWpaLWVXbDN3WEFxSXNZczh0RlRSWmhFZUZFYnJHQ2dnWGRnQUcydGc1OF8zWFZF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "977cb593bcee4eef2e9fd0f1dc2c47a4619d4005add66f8aa01e7522646c6835"
+    },
+    {
+      "id": "20261031-FR-6D2BBB90-2644",
+      "title": "한미일 외교장관회의(10.30.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T09:00:00+09:00",
+      "publishedAt": "2026-10-31T09:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T09:37:59+09:00",
+      "updatedAt": "2026-10-31T09:37:59+09:00",
+      "summary": "한미일 외교장관회의(10.30.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미일 외교장관회의(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTFuNHlPZnhDZjVXZHY1dndiUzdFcHp4OW8yZ1NDTWd3TGhEa0MwX1ViYnVzT29pWFhIYk5lZjF6T1ZVeTJ1VEl0TFlPdXl2QmpvQWR0X3Uycm91RVhzd1hvd19ZY3NSd1VYZzNxaVhzN0RIc0EyOUhFZl9XQlpjTTJuZC1ObVloT3hCWVhEQ1dLQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6d2bbb906822f7ce27d35b5da3805bdc9e0edb4dabf55797a292ec30e8651dbb"
+    },
+    {
+      "id": "20261031-DP-B3E106CC-2645",
+      "title": "(설명) 한국일보(온라인), \"'임금6억' 떼먹고 정부지원금 받은 회사...32곳 뒤늦게 퇴출\" 기사 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T05:15:00+09:00",
+      "publishedAt": "2026-10-31T05:15:00+09:00",
+      "firstCollectedAt": "2026-10-31T09:37:59+09:00",
+      "updatedAt": "2026-10-31T09:37:59+09:00",
+      "summary": "(설명) 한국일보(온라인), \"'임금6억' 떼먹고 정부지원금 받은 회사...32곳 뒤늦게 퇴출\" 기사 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 한국일보(온라인), \"'임금6억' 떼먹고 정부지원금 받은 회사...32곳 뒤늦게 퇴출\" 기사 관련 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EUE5qSVg3eVltc0ZXNTljeTAyT182M3pOdVFIeXlTSjFNQlJsX1g0S01acFh4RV9YVVdlbzdrZkd2SUplTnBlNWE5N0Z4eFFkWTQ1MFd6dTJISTI5QlV6YnpDbXBaRmVjOGhtdzhyaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b3e106ccdb908e11f33d79ea7380312ee6da05d6e193f2b0d69e670384016cb1"
+    },
     {
       "id": "20260731-FR-5B63EBA8-019",
       "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
