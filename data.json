@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-31T15:52:50+09:00",
-    "nextScheduledUpdate": "2026-10-31T16:22:50+09:00",
+    "lastSuccessfulUpdate": "2026-10-31T22:32:23+09:00",
+    "nextScheduledUpdate": "2026-10-31T23:02:23+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-31T15:52:45+09:00",
-      "finishedAt": "2026-10-31T15:52:50+09:00",
+      "startedAt": "2026-10-31T22:32:18+09:00",
+      "finishedAt": "2026-10-31T22:32:23+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 185,
-      "acceptedCandidates": 65,
-      "duplicates": 60,
-      "rejected": 116,
-      "rejectedByDate": 105,
-      "rejectedByRelevance": 11,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 61,
+      "duplicates": 62,
+      "rejected": 133,
+      "rejectedByDate": 127,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 7,
-      "updatedIssues": 2,
+      "newIssues": 4,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,219 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261030-FR-E0EA2B01-2626",
+      "title": "한·독, 경제안보·첨단산업 협력 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T11:24:10+09:00",
+      "publishedAt": "2026-10-30T11:24:10+09:00",
+      "firstCollectedAt": "2026-10-30T17:54:10+09:00",
+      "updatedAt": "2026-10-31T22:32:20+09:00",
+      "summary": "한·독, 경제안보·첨단산업 협력 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·독, 경제안보·첨단산업 협력 강화 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTk1WLWxwUE5hWXZHQms1UG9FaXR2b0ZCN2o3TUMwcUtsZFpYbkRSNzFuNTVsTkhTYS1XamFnOHlrWE9kMkNyemxhSFhrLWlEdFNaLWdjbUZmSzlYVnMxSlZ5bU83clNGbmVjaXBvS3BELVFvQ0F1cTAxaWJGblFySktwMlJReXRFaHp2OEwwbGFFQ0ZhREptT00tQnJZZkxNcUFlZ2lSNExPZ1JZRk1icUNsazhFT2JwOFViN19ubWN2OXd1YzJ2OWI0VUhVZjJSOXhmWk8xaWVkNVBHRjNOVm4zQkdmNGJWbmNWaE9OWQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·독, 경제안보·첨단산업 협력 강화 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEwxX09qVmJDQUY1blNJS2NyMmw4SkhWVDVoSVJTWDMzaVBYM29WcW9tUFBkVUJ6YVN6a04yaGxOSDZrR3puU1RwZ0FSQXh2ZlZacEFZa3VGbURUQ3FOUTd4RE9ORVl0cGZXN3NyT3FJY1F5cjFQWWM5TE90dG9yeDFiczJuQ3hraEd3WUlpa0N1TzVSLU90S3RsM3lEVVhPSm8zMnA1QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-31T22:32:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e0ea2b014d99d10b83c26eb23bfc4953c8e8665dbfca95fc3e8099ef96c40962"
+    },
+    {
+      "id": "20261031-FR-614F0C43-2655",
+      "title": "한-폴란드 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T20:22:42+09:00",
+      "publishedAt": "2026-10-31T20:22:42+09:00",
+      "firstCollectedAt": "2026-10-31T22:32:20+09:00",
+      "updatedAt": "2026-10-31T22:32:20+09:00",
+      "summary": "한-폴란드 외교장관회담(10.30.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-폴란드 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFlNdHhmekxPcVhKRHV4UHVhcFJwLURUdHZWOUNWeFZPM1BaOFg0TGZlbmZpWTVQZ2hiRGFVcXBmUzZnTDhVVktOZ3d2dmpWd0FKaFRmNE5FUlpIeHl2RExfbWtabmsyQW5YOHpqODhIWXlyT1lnbjZKT1pTeHd3T0djXzVFRE84bU83S2pXd3kzQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "614f0c43eefa203badeeca5d6e07c2a595af447d57f79a857bf501d42b8a6cee"
+    },
+    {
+      "id": "20261030-FR-F10CB310-2656",
+      "title": "10/30(금) 국가안보실장-스위스 외교장관 회담 결과 | 알립니다 | 뉴스룸 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T16:00:00+09:00",
+      "publishedAt": "2026-10-30T16:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T22:32:20+09:00",
+      "updatedAt": "2026-10-31T22:32:20+09:00",
+      "summary": "10/30(금) 국가안보실장-스위스 외교장관 회담 결과 | 알립니다 | 뉴스룸 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "10/30(금) 국가안보실장-스위스 외교장관 회담 결과 | 알립니다 | 뉴스룸 - 대한민국 청와대",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mc3p1R2tOTXZ3cGctMHN6VGg0UUhxVVpmU29Ha1pHY3dFTWpHYnhSV1BoTVdKR2J6eUJQcDBnZE5ucFFielVtZjBMdjlHakVVOUctb1FEQUU?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f10cb31094f76db6e996be389580cb21b290c25f09d8e1c3aacb83ccbb814afe"
+    },
+    {
+      "id": "20261030-DP-97E85D89-2653",
+      "title": "담배 유해성 관리 강화…무연담배·물담배까지 검사대상 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T21:54:47+09:00",
+      "publishedAt": "2026-10-30T21:54:47+09:00",
+      "firstCollectedAt": "2026-10-31T22:32:19+09:00",
+      "updatedAt": "2026-10-31T22:32:19+09:00",
+      "summary": "담배 유해성 관리 강화…무연담배·물담배까지 검사대상 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "담배 유해성 관리 강화…무연담배·물담배까지 검사대상 확대 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UOFdrZXpVX3V3LW5iLU9GYUt2TjVDR0NaM3VwNDVTSWh2a3pyUjhUaHJlQmxXZURCXzZHLWFKUjhoVFk1TmdGbnBQYnVwU0pra0xsenZ0WVRDTHpIMkRUSFVtS2lSNUJyNy1oeQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "97e85d8927adba7ca3bf260751b39472b8e464f6149a01198a695f8f53b535c2"
+    },
+    {
+      "id": "20261030-DP-63397058-2654",
+      "title": "20261029 [설명] 국민일보(10.29.) 기업 때리니 로펌대박 공정위 發 기이한 호황 등 기사 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T05:19:55+09:00",
+      "publishedAt": "2026-10-30T05:19:55+09:00",
+      "firstCollectedAt": "2026-10-31T22:32:19+09:00",
+      "updatedAt": "2026-10-31T22:32:19+09:00",
+      "summary": "20261029 [설명] 국민일보(10.29.) 기업 때리니 로펌대박 공정위 發 기이한 호황 등 기사 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "20261029 [설명] 국민일보(10.29.) 기업 때리니 로펌대박 공정위 發 기이한 호황 등 기사 관련 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE82MWVGdWxhcFE1MGhGLVZXeThmeVNpRElGRkY3QnBiUFJsb0tlaDVTdl80NTZqd2FaVEhSc0p3QU1GTFMyRTlmbGMzS2lQT2ZKcTVSb2ZJWFRHYU00bUN2dUhDZDdJc3RCUVhLRjhDOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "63397058f5b59479f467f33abcd7730b8b881855d08f56da06de868204f8c889"
+    },
     {
       "id": "20261029-FR-DD7BF807-2586",
       "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
@@ -2397,46 +2610,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "eb2fdf017f506dc9bae880cd2896f008301f8523a8ff8ebe1a28a9907909f6a2"
-    },
-    {
-      "id": "20261030-FR-E0EA2B01-2626",
-      "title": "한·독, 경제안보·첨단산업 협력 강화 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국방·안보",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-30T11:24:10+09:00",
-      "publishedAt": "2026-10-30T11:24:10+09:00",
-      "firstCollectedAt": "2026-10-30T17:54:10+09:00",
-      "updatedAt": "2026-10-30T17:54:10+09:00",
-      "summary": "한·독, 경제안보·첨단산업 협력 강화 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한·독, 경제안보·첨단산업 협력 강화 - 대한민국 정책브리핑",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTk1WLWxwUE5hWXZHQms1UG9FaXR2b0ZCN2o3TUMwcUtsZFpYbkRSNzFuNTVsTkhTYS1XamFnOHlrWE9kMkNyemxhSFhrLWlEdFNaLWdjbUZmSzlYVnMxSlZ5bU83clNGbmVjaXBvS3BELVFvQ0F1cTAxaWJGblFySktwMlJReXRFaHp2OEwwbGFFQ0ZhREptT00tQnJZZkxNcUFlZ2lSNExPZ1JZRk1icUNsazhFT2JwOFViN19ubWN2OXd1YzJ2OWI0VUhVZjJSOXhmWk8xaWVkNVBHRjNOVm4zQkdmNGJWbmNWaE9OWQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e0ea2b014d99d10b83c26eb23bfc4953c8e8665dbfca95fc3e8099ef96c40962"
     },
     {
       "id": "20261030-FR-AA146A09-2627",
