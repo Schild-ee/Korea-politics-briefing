@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-10-31T09:38:02+09:00",
-    "nextScheduledUpdate": "2026-10-31T10:08:02+09:00",
+    "lastSuccessfulUpdate": "2026-10-31T15:52:50+09:00",
+    "nextScheduledUpdate": "2026-10-31T16:22:50+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-10-31T09:37:58+09:00",
-      "finishedAt": "2026-10-31T09:38:02+09:00",
+      "startedAt": "2026-10-31T15:52:45+09:00",
+      "finishedAt": "2026-10-31T15:52:50+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 200,
-      "acceptedCandidates": 66,
-      "duplicates": 74,
-      "rejected": 123,
-      "rejectedByDate": 116,
-      "rejectedByRelevance": 7,
+      "fetchedCandidates": 185,
+      "acceptedCandidates": 65,
+      "duplicates": 60,
+      "rejected": 116,
+      "rejectedByDate": 105,
+      "rejectedByRelevance": 11,
       "rejectedAsCommentary": 0,
-      "newIssues": 3,
-      "updatedIssues": 0,
+      "newIssues": 7,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 35,
           "error": ""
         },
         {
@@ -64,6 +64,409 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261029-FR-DD7BF807-2586",
+      "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T20:54:21+09:00",
+      "publishedAt": "2026-10-29T20:54:21+09:00",
+      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "한-독일 이중과세방지협정 개정의정서 서명 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUHpOTy1BQ2hhcjd4V01XaVpFeDJDT2xuekxOa0VkZ0pYUFdvRWVFSjhHeEFLcHlMQTNidlhLRm5QVlN3a1JhMThrWmVGaTlXTHFLQThmbEJXVHYxQk81Y3N3RW1tU1p0d2tlTV96Yi0zVUY5Vi1QU3RZTmd0Z2tFc2UyR3VZeHUzT2hXaEdSWUlzQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhHcEdReEhjLUs3VFN0alI1UlBHX250Z3o0SUpuRVZ3WmJiVHl4Ui1jYnczVVJUU05mYTJSazhYUHdfSE9QbmlwM3QzeWJmUnhJVzVrMDNCSXdQaTJUY0FIelZMeFFwODVjQVd6NHQyZDJIT2NBdXlHWkxqQnI5YXhfdlZPTTNIbjJTODZYelkwUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qdXVnOVpCSlhFNWlsczdQclVZRUZpejM1aTlGSjY5VGdJcEgxSWtWcFVpUHNlUzhVYVZPRklGMjZEdWtfY1Q5NUxNTGhab0hkRkFJWkd2U05yQ1YyRVVhNW5sU1hLenlFWmwwOEdSaTUzVnlY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-30T17:54:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-10-31T15:52:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dd7bf8077986e8901a0d6c0015bca73645f3787e8965eb1aac599c0ceaf84cc0"
+    },
+    {
+      "id": "20261029-FR-A213F46D-2580",
+      "title": "못 말리는 울 아빠 열정, 그 끝에는… - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T17:20:33+09:00",
+      "publishedAt": "2026-10-29T17:20:33+09:00",
+      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "못 말리는 울 아빠 열정, 그 끝에는… - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "못 말리는 울 아빠 열정, 그 끝에는… - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmtYNEd0OTZoc0QyZlp5bjJ3dElleFVSVlJ3SFduem1NdnVuOGFPUXo0dkttWG5kVWpPN2c0ZHkzMkQ0OUszRTRxRUl4TUNlZnE1Z1BSZlpRVDZwUl82eHljOEd1YlVlT3VwcHdidzIxM2dGWGxzTHVfZ2pMR0luWkxLclNPdi1rQnc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "못 말리는 울 아빠 열정, 그 끝에는… - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2REdpSDhjTUNmM2FJdW1mUDFENFUxbEs5M243dUh0NVhjVDQ2R29PLXZONmNDTHBvbTJfd1lSZDVSNG91Y25Fbk5DbEhTemZiTDN2ZUljVEt6ZUVoMWwyNGlDVFFLWkwxcjhaRA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-10-31T15:52:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a213f46db3a14fed60f9aa284f3177f14411cb2e281bddbd14d0d5b68c10b150"
+    },
+    {
+      "id": "20261029-DP-894B74E5-2646",
+      "title": "2026년 제6회 민간투자사업심의위원회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T18:28:04+09:00",
+      "publishedAt": "2026-10-29T18:28:04+09:00",
+      "firstCollectedAt": "2026-10-31T15:52:46+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "2026년 제6회 민간투자사업심의위원회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 제6회 민간투자사업심의위원회 개최 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYmFMM1RpSUYyTkh2Wk04dkRvR3BvWFJ6cjEtUzR0VnAyZEJLTUh1Y2dOcTVDX1ptZ0xpLW9haUtBckpIZzlrc0p4TXR3UHh6cFltanlaVmxocHhEemV0bmp3U0lrbHNLTVVUeXVBQnJ3bnpBWTJVUkVkNG90a1NaaHJGc1M5a2JfendIY2ZUVUlUZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "894b74e57a030b46dd70b9b290ed511639299855a2b9da98c65ecff76e942c98"
+    },
+    {
+      "id": "20261029-FR-B4C51227-2647",
+      "title": "보험사기 연루 보험업종사자에 대한 등록취소·업무정지 등 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-29T00:00:00+09:00",
+      "publishedAt": "2026-10-29T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T15:52:46+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "보험사기 연루 보험업종사자에 대한 등록취소·업무정지 등 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "보험사기 연루 보험업종사자에 대한 등록취소·업무정지 등 제재 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12N3ItR2xIWjBieDI1dy1NeE80c2hXWjI4bTlQMXUxOTRRc2xDR2NlRlJiT2ZhaHV2N1JpQkpnbGtKZk5ycmt4XzNONlJJcnZyeVhtcndUamRNVXB0TnE0MkFYQmNwREpXT1VOT2E1UlNTa19x?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b4c51227ca965a876758ea7ebc68598e8b03c0c5b90e34b9496e7900107d3f76"
+    },
+    {
+      "id": "20261030-FR-6A5B60B0-2648",
+      "title": "파독 광부·간호사 한자리에...지난 헌신에 감사하고 오늘의 어려움 듣는다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T00:00:00+09:00",
+      "publishedAt": "2026-10-30T00:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T15:52:46+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "파독 광부·간호사 한자리에...지난 헌신에 감사하고 오늘의 어려움 듣는다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "파독 광부·간호사 한자리에...지난 헌신에 감사하고 오늘의 어려움 듣는다 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CZlRpRk50MVJSeEhzTFlDWmVIcWhOUTFYaGJmakRDNEdFTS1PX1VCWlRHZ2RMMmZyczNqcEZrOVBTUWdkT2dPVUVGVVl5OGUwSl9uWUhJdjJDaDZweDRPc2tLWTNraFRNR1VWWXgwalhtSk80?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6a5b60b0873754878b6f253e15a807b7833aa1a49a0860a424a382b7badba247"
+    },
+    {
+      "id": "20261031-FR-511DEC0D-2649",
+      "title": "우리나라 주도 '군사분야 AI' 유엔 결의 3년 연속 채택 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T10:40:52+09:00",
+      "publishedAt": "2026-10-31T10:40:52+09:00",
+      "firstCollectedAt": "2026-10-31T15:52:46+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "우리나라 주도 '군사분야 AI' 유엔 결의 3년 연속 채택 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "우리나라 주도 '군사분야 AI' 유엔 결의 3년 연속 채택 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaWszY1dXcW1EOGZJSDkySm9lU00xTGNKT0VQRkxsWFAtRnQ4QjByU1FOZzlBSXpZZURmMEFVYWU1aUJEVDVEdFhzR2J3cDliZnh1UjktSFV5R0V4c2Nhck90dy1XNDBQNWkxQTZCTms3c0NQbUVpeVRFbXJGTXhCMEN4S3BuOWR5R19hNENoU0YtcjRWYlFpcmlIZlFQME1kVDc5aXVTY0FhWkdjNERhMWRxSDZlVWhiMFVWT3lObUZ3ak5iWkdkeVpxeXlEdmIyTTYyWFo4M2xjTjhtNGMyQUUwdU0wMUtscGRyWDhGOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "511dec0dbf1ae9405ad6c7fdef0398e7f1bf9d17b2c1e6dd91bcb4a8a269c88b"
+    },
+    {
+      "id": "20261030-FR-6762F66A-2650",
+      "title": "박윤주 외교부 제1차관, 미국 외교정책위원회 대표단 면담(10.30.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T18:51:00+09:00",
+      "publishedAt": "2026-10-30T18:51:00+09:00",
+      "firstCollectedAt": "2026-10-31T15:52:46+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "박윤주 외교부 제1차관, 미국 외교정책위원회 대표단 면담(10.30.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "박윤주 외교부 제1차관, 미국 외교정책위원회 대표단 면담(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xM2ttWDlIMGtFNmpxWVVIOHQ4YXN6RmFrR0VkeE84Znc2SjkwZDNiLXF0aEFybUZ1R2VHMDVuY0xKNkxXNDFuSnk2N0d0aUNhN0YyQkRybWRpeEdZc1BJRE5xbklJZkJVS0RaVzlaUjM0Wk9U?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6762f66aa7463914d87bad5a452ef1c2e48655964eb00fb47fef2f562d5a9a8d"
+    },
+    {
+      "id": "20261031-FR-FB866618-2651",
+      "title": "제복근무자 감사케이크 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T11:58:08+09:00",
+      "publishedAt": "2026-10-31T11:58:08+09:00",
+      "firstCollectedAt": "2026-10-31T15:52:46+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "제복근무자 감사케이크 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제복근무자 감사케이크 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43S2Q4RnVtekF4MUZkUGFLZkRWeks5dVQ1TEtINmVwTzdwNjhHdlliTF9wMVBlZjBqQkstNUIwWG8yRk55YnRhc2VFeGRQR1BkWWtENTVEU1E0bkpmdTN6VFNWV0llVFlweUtqRA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fb86661899b7f5e7d574a6d4044903e70d2a2563ef849713eff1c5ffd6c606bf"
+    },
+    {
+      "id": "20261031-FR-2C83C945-2652",
+      "title": "기관사칭 사기, 이렇게 시작됩니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T12:54:27+09:00",
+      "publishedAt": "2026-10-31T12:54:27+09:00",
+      "firstCollectedAt": "2026-10-31T15:52:46+09:00",
+      "updatedAt": "2026-10-31T15:52:46+09:00",
+      "summary": "기관사칭 사기, 이렇게 시작됩니다 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기관사칭 사기, 이렇게 시작됩니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vZVdqM1NaOV9zLVpOSGVBN2ZOZGRidGgyQVZ2OTlqUlUzLTd3eFJlWHVBWmZ6ajVwZVkxeUt6eUtrQzNZVUFwZ2hRV2l2SGNkMkhwRV8wTnpJQXg5UkZDOENqdEhvbEZjdVQtZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2c83c9458060eb6ae2132892235f94994eb41c9f51482a831cfe706f26e20ddb"
+    },
     {
       "id": "20261030-DP-977CB593-2643",
       "title": "제1차 자살예방 정례브리핑 - 대한민국 정책브리핑",
@@ -1535,59 +1938,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
-    },
-    {
-      "id": "20261029-FR-DD7BF807-2586",
-      "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T20:54:21+09:00",
-      "publishedAt": "2026-10-29T20:54:21+09:00",
-      "firstCollectedAt": "2026-10-30T03:22:54+09:00",
-      "updatedAt": "2026-10-30T17:54:10+09:00",
-      "summary": "한-독일 이중과세방지협정 개정의정서 서명 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUHpOTy1BQ2hhcjd4V01XaVpFeDJDT2xuekxOa0VkZ0pYUFdvRWVFSjhHeEFLcHlMQTNidlhLRm5QVlN3a1JhMThrWmVGaTlXTHFLQThmbEJXVHYxQk81Y3N3RW1tU1p0d2tlTV96Yi0zVUY5Vi1QU3RZTmd0Z2tFc2UyR3VZeHUzT2hXaEdSWUlzQQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-독일 이중과세방지협정 개정의정서 서명 - 대한민국 정책브리핑",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelhHcEdReEhjLUs3VFN0alI1UlBHX250Z3o0SUpuRVZ3WmJiVHl4Ui1jYnczVVJUU05mYTJSazhYUHdfSE9QbmlwM3QzeWJmUnhJVzVrMDNCSXdQaTJUY0FIelZMeFFwODVjQVd6NHQyZDJIT2NBdXlHWkxqQnI5YXhfdlZPTTNIbjJTODZYelkwUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-10-30T17:54:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "dd7bf8077986e8901a0d6c0015bca73645f3787e8965eb1aac599c0ceaf84cc0"
     },
     {
       "id": "20261029-FR-A3C76E02-2568",
@@ -4847,46 +5197,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "5555db105a2afd68a87641cdd9c05570ef332795f5001e4eac9943c24cbcc94b"
-    },
-    {
-      "id": "20261029-FR-A213F46D-2580",
-      "title": "못 말리는 울 아빠 열정, 그 끝에는… - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-29T17:20:33+09:00",
-      "publishedAt": "2026-10-29T17:20:33+09:00",
-      "firstCollectedAt": "2026-10-29T20:41:08+09:00",
-      "updatedAt": "2026-10-29T20:41:08+09:00",
-      "summary": "못 말리는 울 아빠 열정, 그 끝에는… - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "못 말리는 울 아빠 열정, 그 끝에는… - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmtYNEd0OTZoc0QyZlp5bjJ3dElleFVSVlJ3SFduem1NdnVuOGFPUXo0dkttWG5kVWpPN2c0ZHkzMkQ0OUszRTRxRUl4TUNlZnE1Z1BSZlpRVDZwUl82eHljOEd1YlVlT3VwcHdidzIxM2dGWGxzTHVfZ2pMR0luWkxLclNPdi1rQnc?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "a213f46db3a14fed60f9aa284f3177f14411cb2e281bddbd14d0d5b68c10b150"
     },
     {
       "id": "20261029-FR-AB76C4CE-2581",
