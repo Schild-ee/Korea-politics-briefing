@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-01T23:12:48+09:00",
-    "nextScheduledUpdate": "2026-11-01T23:42:48+09:00",
+    "lastSuccessfulUpdate": "2026-11-02T04:05:47+09:00",
+    "nextScheduledUpdate": "2026-11-02T04:35:47+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-01T23:12:44+09:00",
-      "finishedAt": "2026-11-01T23:12:48+09:00",
+      "startedAt": "2026-11-02T04:05:45+09:00",
+      "finishedAt": "2026-11-02T04:05:47+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 164,
-      "acceptedCandidates": 31,
-      "duplicates": 30,
-      "rejected": 129,
-      "rejectedByDate": 119,
-      "rejectedByRelevance": 10,
+      "fetchedCandidates": 183,
+      "acceptedCandidates": 25,
+      "duplicates": 27,
+      "rejected": 151,
+      "rejectedByDate": 144,
+      "rejectedByRelevance": 7,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
-      "updatedIssues": 1,
+      "newIssues": 1,
+      "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 31,
+          "count": 50,
           "error": ""
         },
         {
@@ -83,7 +83,7 @@
       "occurredAt": "2026-11-01T06:49:22+09:00",
       "publishedAt": "2026-11-01T06:49:22+09:00",
       "firstCollectedAt": "2026-11-01T09:21:51+09:00",
-      "updatedAt": "2026-11-01T23:12:45+09:00",
+      "updatedAt": "2026-11-02T04:05:46+09:00",
       "summary": "한국-EU 외교장관 회담(10.31.) 결과 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -111,6 +111,13 @@
           "date": "2026-11-01",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWdOaXRidzdEdm9mdWZta1U4X3RkLWlCMmhQbmNZWTB1cHhtTHNFU1BEZUFMNlVmRWxtdnVVQ1VaN25RZ3JCWGlHM1dpMkdCTnVFWUFVQ005VUw2ZGZQdnQtcW1oTDBacDFwMnFGNGhSTDc3eDBEWGExTFB5T2dZXzFLcHdvUkFJLWQzQ2tocEtWdw?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국-인도 외교장관 회담(10.31.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHMwSEo3SWh3Z2RGQ1BacEhfN3NUVFBnRTZiY1RqWGxleTlkdnJFOXFPaFloQ2lkM1I1TlRpZFY4MEloWkltSjIzdGRyTndIUEYtUGtFSktzeldvZkw5RGtfbEV1OUMxaGtaRXpSdnA0R19hWHEwQ1hSSm9pcU5KUDJvSFFOUTdlblB0cjh3SXZuZw?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
@@ -123,6 +130,11 @@
           "updatedAt": "2026-11-01T23:12:45+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-11-02T04:05:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
         }
       ],
       "corrected": false,
@@ -130,6 +142,217 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "393d9d4f3f521a55ee342388b907d66623d7aefd783cd976cc1a1593b75a19b3"
+    },
+    {
+      "id": "20261101-FR-746B96F1-2663",
+      "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-01T07:50:37+09:00",
+      "publishedAt": "2026-11-01T07:50:37+09:00",
+      "firstCollectedAt": "2026-11-01T09:21:51+09:00",
+      "updatedAt": "2026-11-02T04:05:46+09:00",
+      "summary": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석 - 대한민국 정책브리핑",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjVIZ08wNjdWMlhJTzk5VnZFOHl3QzR3cVdIMDAzNmVoTTlRb2FLUHdXWHdlOGFCckpNQkVTMlVGUDNzY1NndmtTSW9TaU1sT2RzOV9ndDRzTUxEa2ZjMm9nQVRCMHRYQWExc1MyRHpBbjEzejBXOGFQX2Nfb29CR2R3WFNtSXg3ZWcwVmY0TF9HeEZV?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석 - 대한민국 정책브리핑",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLXNMSUJIUm16MmRWRExTWHd3T3BaU0l5dEhLN3AweExCYUwxNVFnbmFUOTdhb2p1ZzdxejJ3UUpBb3JiUmlmendHc1d4TnlMVEpLM3VSdWVnMG1CbEhfX3BzdEUtV1Q2Z3JYWjBEWEV5dlllRmprRU42OXc2WktZaHRnZjhnRWI3SDV3YjJHaXBqdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-02T04:05:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "746b96f191a9ff8a6c1bfdec3b3424d38bc48aefea0a52807fed9ccb865124d9"
+    },
+    {
+      "id": "20261031-FR-614F0C43-2655",
+      "title": "한-폴란드 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T20:22:42+09:00",
+      "publishedAt": "2026-10-31T20:22:42+09:00",
+      "firstCollectedAt": "2026-10-31T22:32:20+09:00",
+      "updatedAt": "2026-11-02T04:05:46+09:00",
+      "summary": "한-폴란드 외교장관회담(10.30.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-폴란드 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFlNdHhmekxPcVhKRHV4UHVhcFJwLURUdHZWOUNWeFZPM1BaOFg0TGZlbmZpWTVQZ2hiRGFVcXBmUzZnTDhVVktOZ3d2dmpWd0FKaFRmNE5FUlpIeHl2RExfbWtabmsyQW5YOHpqODhIWXlyT1lnbjZKT1pTeHd3T0djXzVFRE84bU83S2pXd3kzQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHRwV1RNeTFvY2F1RG9DU2k5a09wejRfbUN3SUROSEF6T1BjRU5GMDBoRnV6R0sxZFBmN08yRmZlcE5VbkxybThBeWQyQ2Qyc0w3dmszcmFlQ2xhbFZPV0dZWnhUeWFrOVVLaENfZzQ4OS1SZTVzazdqLUlyc1g3TXREdWxQSGtid3VPbGxNdWJqUQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjdqVEFSS0hIUzdsRmF6MGEwM2NYdXVWekgxSWxnM1lMX2hILVc0V2xwV01Lc3JQRlF3TFJxMEU5UEt3UFNlRWpFSmlaZTRQVjBWeU5LZkdMd2tnRmdpZ3FVaVZMZ3JTc1YxdTJjRFk1RDI0WEtobl9mOWFVQXNTamhxLTRBUmsyX0RtZVVuUXlNdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-01T02:52:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-02T04:05:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "614f0c43eefa203badeeca5d6e07c2a595af447d57f79a857bf501d42b8a6cee"
+    },
+    {
+      "id": "20261030-FR-BF91F73C-2634",
+      "title": "외교전략정보본부장, 스위스 외교장관 만찬 협의(10.30.) - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-30T21:36:43+09:00",
+      "publishedAt": "2026-10-30T21:36:43+09:00",
+      "firstCollectedAt": "2026-10-31T00:47:24+09:00",
+      "updatedAt": "2026-11-02T04:05:46+09:00",
+      "summary": "외교전략정보본부장, 스위스 외교장관 만찬 협의(10.30.) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교전략정보본부장, 스위스 외교장관 만찬 협의(10.30.) - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc1p5aGt5NjNoRHhDa2thZ0dSWmR2QWtFVEphUU1fVzllbjU0bnNMUk1WQ254cExQN0VqQ2J3ZlVVdTNqMUtuN21hTnUwMmtSRm9oOHdDeTlyNXhYWVpvZ0ZPbjh6emRTOW9qelEzZktHcEJLd1hqNE1sZ3B0SkU3SnRjTjJadWxrcTZLc3BqOC1aTjZGaW9Gb25LR0NfSDdwbjRGR2J0RlBmZEhCMFhuS1NqUGdSc0wyc1NmZWt4MVE1VktfcXhrdktPZFNYbEpNbEtHdnI4RnQzd0NPMGlXelFrZTdkRGVEU2xILXBYQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교전략정보본부장, 스위스 외교장관 만찬 협의(10.30.) - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXZ0WjlpcTNnTXZvOTgyU2tXbWJWVjNFejBCME9Sbnh2d0doUGFnTUVoQmFLbFc0NEZ1Q29Ia3B2UU5LajdQRTdRYmJPRGh5R05TZmdQMVBRbFRBZHhTY1ZwMHVmUm1SMUpWRGtRcmRYQzFBY3B2QVJzYThNRkhuLThhSEg5blRPOVRz?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-02T04:05:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bf91f73c10f1060edd4d8ffcfec90352e837d33f79218d73a72810747c0b8075"
+    },
+    {
+      "id": "20261101-DP-FCCF2BA6-2669",
+      "title": "'레젭 타입 에르도안' 튀르키예 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-01T18:19:23+09:00",
+      "publishedAt": "2026-11-01T18:19:23+09:00",
+      "firstCollectedAt": "2026-11-02T04:05:46+09:00",
+      "updatedAt": "2026-11-02T04:05:46+09:00",
+      "summary": "'레젭 타입 에르도안' 튀르키예 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'레젭 타입 에르도안' 튀르키예 대통령 국빈 방한 관련 강유정 수석대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-01",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SN1NHa19VWHFlOEhQdDF6c3dmSTdnMzhkUjlDOHB2SFJpMlozRVhudWdiMS03ZXRMd0NpbEJfWFI0a0FmZlVaaE04NWRlUWVGVVpfZkpRQXF4bVNQSTZHWDJpN1NDLVNaRjk4TGl0VU8?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fccf2ba6c04e93478748c85f48bff0400597993aef81582aab69e0fa16c907fa"
     },
     {
       "id": "20261101-DP-E42B6185-2665",
@@ -385,46 +608,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "243f90bcea05fb2a35c98851bd34a0735e2782442297185489aa066f0da45af1"
-    },
-    {
-      "id": "20261101-FR-746B96F1-2663",
-      "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "다자외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-01T07:50:37+09:00",
-      "publishedAt": "2026-11-01T07:50:37+09:00",
-      "firstCollectedAt": "2026-11-01T09:21:51+09:00",
-      "updatedAt": "2026-11-01T09:21:51+09:00",
-      "summary": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "조현 장관, G20 외교장관회의(10.30-31, 애틀랜타) 참석 - 대한민국 정책브리핑",
-          "date": "2026-11-01",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYjVIZ08wNjdWMlhJTzk5VnZFOHl3QzR3cVdIMDAzNmVoTTlRb2FLUHdXWHdlOGFCckpNQkVTMlVGUDNzY1NndmtTSW9TaU1sT2RzOV9ndDRzTUxEa2ZjMm9nQVRCMHRYQWExc1MyRHpBbjEzejBXOGFQX2Nfb29CR2R3WFNtSXg3ZWcwVmY0TF9HeEZV?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "746b96f191a9ff8a6c1bfdec3b3424d38bc48aefea0a52807fed9ccb865124d9"
     },
     {
       "id": "20261029-FR-864600AF-2566",
@@ -703,59 +886,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9216a25e115132e31c054c7abdbe926491f863be491e11862154abe2218157a1"
-    },
-    {
-      "id": "20261031-FR-614F0C43-2655",
-      "title": "한-폴란드 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "양자외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-31T20:22:42+09:00",
-      "publishedAt": "2026-10-31T20:22:42+09:00",
-      "firstCollectedAt": "2026-10-31T22:32:20+09:00",
-      "updatedAt": "2026-11-01T02:52:50+09:00",
-      "summary": "한-폴란드 외교장관회담(10.30.) 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-폴란드 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-10-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFlNdHhmekxPcVhKRHV4UHVhcFJwLURUdHZWOUNWeFZPM1BaOFg0TGZlbmZpWTVQZ2hiRGFVcXBmUzZnTDhVVktOZ3d2dmpWd0FKaFRmNE5FUlpIeHl2RExfbWtabmsyQW5YOHpqODhIWXlyT1lnbjZKT1pTeHd3T0djXzVFRE84bU83S2pXd3kzQQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-독일 외교장관회담(10.30.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-10-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHRwV1RNeTFvY2F1RG9DU2k5a09wejRfbUN3SUROSEF6T1BjRU5GMDBoRnV6R0sxZFBmN08yRmZlcE5VbkxybThBeWQyQ2Qyc0w3dmszcmFlQ2xhbFZPV0dZWnhUeWFrOVVLaENfZzQ4OS1SZTVzazdqLUlyc1g3TXREdWxQSGtid3VPbGxNdWJqUQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-01T02:52:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "614f0c43eefa203badeeca5d6e07c2a595af447d57f79a857bf501d42b8a6cee"
     },
     {
       "id": "20260731-FR-5B63EBA8-019",
@@ -1879,46 +2009,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "df00785bc749c46c48e1fa2cf837fa189050b1f606939311c50042c13568090e"
-    },
-    {
-      "id": "20261030-FR-BF91F73C-2634",
-      "title": "외교전략정보본부장, 스위스 외교장관 만찬 협의(10.30.) - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-30T21:36:43+09:00",
-      "publishedAt": "2026-10-30T21:36:43+09:00",
-      "firstCollectedAt": "2026-10-31T00:47:24+09:00",
-      "updatedAt": "2026-10-31T00:47:24+09:00",
-      "summary": "외교전략정보본부장, 스위스 외교장관 만찬 협의(10.30.) 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교전략정보본부장, 스위스 외교장관 만찬 협의(10.30.) - 대한민국 정책브리핑",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPc1p5aGt5NjNoRHhDa2thZ0dSWmR2QWtFVEphUU1fVzllbjU0bnNMUk1WQ254cExQN0VqQ2J3ZlVVdTNqMUtuN21hTnUwMmtSRm9oOHdDeTlyNXhYWVpvZ0ZPbjh6emRTOW9qelEzZktHcEJLd1hqNE1sZ3B0SkU3SnRjTjJadWxrcTZLc3BqOC1aTjZGaW9Gb25LR0NfSDdwbjRGR2J0RlBmZEhCMFhuS1NqUGdSc0wyc1NmZWt4MVE1VktfcXhrdktPZFNYbEpNbEtHdnI4RnQzd0NPMGlXelFrZTdkRGVEU2xILXBYQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "bf91f73c10f1060edd4d8ffcfec90352e837d33f79218d73a72810747c0b8075"
     },
     {
       "id": "20261030-FR-728EF783-2635",
