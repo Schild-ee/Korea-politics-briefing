@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-03T18:57:38+09:00",
-    "nextScheduledUpdate": "2026-11-03T19:27:38+09:00",
+    "lastSuccessfulUpdate": "2026-11-04T02:41:25+09:00",
+    "nextScheduledUpdate": "2026-11-04T03:11:25+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-03T18:57:30+09:00",
-      "finishedAt": "2026-11-03T18:57:38+09:00",
+      "startedAt": "2026-11-04T02:41:20+09:00",
+      "finishedAt": "2026-11-04T02:41:25+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 168,
-      "acceptedCandidates": 38,
-      "duplicates": 27,
-      "rejected": 121,
-      "rejectedByDate": 109,
-      "rejectedByRelevance": 12,
+      "fetchedCandidates": 185,
+      "acceptedCandidates": 37,
+      "duplicates": 39,
+      "rejected": 137,
+      "rejectedByDate": 124,
+      "rejectedByRelevance": 13,
       "rejectedAsCommentary": 0,
-      "newIssues": 14,
-      "updatedIssues": 6,
+      "newIssues": 8,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 33,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,381 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261103-FR-800AB0B8-2716",
+      "title": "한-튀르키예 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T19:49:17+09:00",
+      "publishedAt": "2026-11-03T19:49:17+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:22+09:00",
+      "updatedAt": "2026-11-04T02:41:22+09:00",
+      "summary": "한-튀르키예 정상회담 결과 관련 김성완 대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-튀르키예 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdjdiNm1iRUV1dlljMGF6U2lBdVZtQl83RktReTlvOFNNUWxXNWIzeVZwX2hCRDM2MEJtYzl6b2xZTVJqRDZwdHlTMlVoS19ROXJTc0lYRl8xX05GZ1BGaHZNaXlEWnJ1emhVLUg0RGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "800ab0b86898b16d51f38c74e94b8f7c5c40834212f0c259888ddc657d3595e7"
+    },
+    {
+      "id": "20261103-FR-3B135EC8-2717",
+      "title": "한-튀르키예 정상회담 결과, 국민께 보고드립니다 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T23:07:27+09:00",
+      "publishedAt": "2026-11-03T23:07:27+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:22+09:00",
+      "updatedAt": "2026-11-04T02:41:22+09:00",
+      "summary": "한-튀르키예 정상회담 결과, 국민께 보고드립니다 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-튀르키예 정상회담 결과, 국민께 보고드립니다 - 대한민국 청와대",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZQkRydU1SaEd1aTR6aGZlelo2RkNHQWVBNWhKMGxEb0tJbkZyS2lxNVlfYXpOdnJGbW0wZnByRWtISF9hY2xsNHFUTVdWSkRLQ3pQUUtJR2FOZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3b135ec827cbb90b3b97feb5b8e1253918bd85d1325c101cc629d9e65c6c331d"
+    },
+    {
+      "id": "20261103-DP-FF6C4304-2718",
+      "title": "이 대통령 \"한·튀르키예 전략적 동반자 관계 심화…원전·방산 협력 확대\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T21:39:58+09:00",
+      "publishedAt": "2026-11-03T21:39:58+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:22+09:00",
+      "updatedAt": "2026-11-04T02:41:22+09:00",
+      "summary": "이 대통령 \"한·튀르키예 전략적 동반자 관계 심화…원전·방산 협력 확대\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"한·튀르키예 전략적 동반자 관계 심화…원전·방산 협력 확대\" - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jekYxRTlnTk4zWHJsdXctLVdaMUJ4eU1IeXJ6c0NIYlgzNVF5THZCWW5iUWNfbWVEOEprSFYxbEppVEtwZkNtc3o3TWdXSUY3YjEyRnNsRVktY0gtVE00eU1yMldRWlFLb2FyYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ff6c4304d641267abb003aac83cf8d158b2d5b794944dd140c8a7f035fa69228"
+    },
+    {
+      "id": "20261103-FR-62B1C99B-2719",
+      "title": "한-튀르키예, 원전·핵심광물 등 협력 강화 MOU 4건 체결 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T21:00:00+09:00",
+      "publishedAt": "2026-11-03T21:00:00+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:22+09:00",
+      "updatedAt": "2026-11-04T02:41:22+09:00",
+      "summary": "한-튀르키예, 원전·핵심광물 등 협력 강화 MOU 4건 체결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-튀르키예, 원전·핵심광물 등 협력 강화 MOU 4건 체결 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCak41ejMweHpqaU4wQjJmdGZlbXJOR0RkdlBhTzZNcjVzZ2RaWWU4TEVVbk9UdVBvcm5JOUV1VHRMaVVSMm01RW1vSENHb2FGcms3TmQwU1R5TEQ2N2E0Nnp3cDg0aDB0UFFZMQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "62b1c99b25efde2daa25ed6f38e798511a16677f53e9e5132b362ac9a6ba4a48"
+    },
+    {
+      "id": "20261103-DP-AE270849-2720",
+      "title": "국회 운영위, 여당 주도로 '초광역특구 특위' 의결…국힘 퇴장 - 매일일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "매일일보"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-03T16:02:12+09:00",
+      "publishedAt": "2026-11-03T16:02:12+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:22+09:00",
+      "updatedAt": "2026-11-04T02:41:22+09:00",
+      "summary": "국회 운영위, 여당 주도로 '초광역특구 특위' 의결…국힘 퇴장 매일일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "매일일보",
+          "title": "국회 운영위, 여당 주도로 '초광역특구 특위' 의결…국힘 퇴장 - 매일일보",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCT3NxM3VJNTVQLXp6dFpqbWdqUGdfSTBoZDdiMGxLUGFLTTg5a1hKUFppVlc5SVlFVEZlY3VmbzhEYkN0ZTdTQ2p1Y01pS0VraWVWajJXZS1ibi03MExOejQ4TC0?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae270849fa6a23eea6724c80a624007ca517b5889999231ecdc892d9d55af52b"
+    },
+    {
+      "id": "20261103-DP-F0427A10-2721",
+      "title": "국회 운영위, ‘초광역특구 특위’ 구성 의결...국힘 “졸속 추진” 반발 퇴장 - M이코노미뉴스",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "M이코노미뉴스"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-03T15:09:07+09:00",
+      "publishedAt": "2026-11-03T15:09:07+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:22+09:00",
+      "updatedAt": "2026-11-04T02:41:22+09:00",
+      "summary": "국회 운영위, ‘초광역특구 특위’ 구성 의결...국힘 “졸속 추진” 반발 퇴장 M이코노미뉴스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "M이코노미뉴스",
+          "title": "국회 운영위, ‘초광역특구 특위’ 구성 의결...국힘 “졸속 추진” 반발 퇴장 - M이코노미뉴스",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1Q1pIQnVKVmJpUGsybzhxQlp0ekVmLWpBMUVWamFTMW56cjhfVTRJMEpsZDh3WHlmMDdfRnRDUFBQd1FGYjhwdEhKSWdmNllHWXZkNGpyNmRSWVJDRlBuSWY4TWdxUHc?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f0427a10a8b014d89e8fc112bbcaf22b165f0e2356f17ec50d70a0e8ff78b39b"
+    },
+    {
+      "id": "20261103-DP-081E28F9-2722",
+      "title": "국힘, 與 '조작기소 특검법' 추진에 \"5일 본회의 상정시 모든 법안 필버\" - 메트로신문",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "메트로신문"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-03T18:55:57+09:00",
+      "publishedAt": "2026-11-03T18:55:57+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:22+09:00",
+      "updatedAt": "2026-11-04T02:41:22+09:00",
+      "summary": "국힘, 與 '조작기소 특검법' 추진에 \"5일 본회의 상정시 모든 법안 필버\" 메트로신문",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "메트로신문",
+          "title": "국힘, 與 '조작기소 특검법' 추진에 \"5일 본회의 상정시 모든 법안 필버\" - 메트로신문",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FaWliQ1VEVlFkMDE0TlRhQWNXRS1TX2U0QnFYc1kzTmFERDlDT1Z3ZDdhcVFEcmNodlhfblM2VDVSc1ZGMkVuX0RGb2VpNVcxOVlhT1R0SlNkOWR4MEFTUA?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "081e28f92b4d06df3454bc7acf41a0df2a6e3bffe2fc4024ab7cc9dc6dd35e23"
+    },
+    {
+      "id": "20261103-DP-E53F1059-2702",
+      "title": "[보도자료] 행정규제기본법 시행령 개정안 국무회의 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T13:20:00+09:00",
+      "publishedAt": "2026-11-03T13:20:00+09:00",
+      "firstCollectedAt": "2026-11-03T18:57:31+09:00",
+      "updatedAt": "2026-11-04T02:41:21+09:00",
+      "summary": "[보도자료] 행정규제기본법 시행령 개정안 국무회의 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 행정규제기본법 시행령 개정안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVHRFbHdLTEpnbVcydWhMblRJWWxHci1BQ204RzIxbFhrNHVMdEhmT1Z6U1d6TkI1SUFzTDZYNFdwNWpfTmVraTRxVEE4SlRXd1YzRmVDZ0JqM0c4SWxZYlZFeHYyX0VvNzZnU1BsSmtGUXBZdDIzUjZ6eXVJdXBodFFkaHNid1lyOG5ualJxVFd5YTRsQkpha2NvTW02LVByMUdDMW1hdEJzV0RhOTZNaENTQ1BlaGNBLTR3eGNnbGs4YXNmcGlQbVMweWRpenowSzVEcm5RaG40LTJReTM1UFRJblJETlc4eXZOc0d6UFI0WlgwREZTdHY4MDRYWm9RYlJMU0VhZkc5NjFDTTZ5NS1n?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 행정규제기본법 시행령 개정안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPcVA5cWVVTVd6dlFTSkkyRGpfNThRMmJhX004Q2lWeVhpdU5wM3REOWVnWW5GUGQzVFpFOFNZeENFZUs4bjhZSEZqV2tKZGJTWUxfRER5cHk4UElhc0RUSm44Q1QxcXNGRVZLZHY1QnM5aHk0MEYyZTdRRU1HYjh4WlZraTNabWxoaFNqTS11MUJ2QThsZDJVNGF3NEc4dXFieFN1SFJGdjJjajg4ZjV2RDVQSHh2UHAtblRZd042S0d0SGRiRS1CSW42U1UxanVBeVhVanlyX181REFFRnh4N09BT3otM2JDVldXYTBnQ2VlZnZSZzJYS2VxVjJOc3dFbVhMWmlxSmdzTEtENWJObjdn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-04T02:41:21+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e53f10596cccb7b7d186a77d2611f052b4a0f4ff3a34edee4142deba442e8325"
+    },
+    {
+      "id": "20261103-DP-2AF69314-2715",
+      "title": "보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T13:13:13+09:00",
+      "publishedAt": "2026-11-03T13:13:13+09:00",
+      "firstCollectedAt": "2026-11-04T02:41:21+09:00",
+      "updatedAt": "2026-11-04T02:41:21+09:00",
+      "summary": "보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV0tZX1pDNHZ6TTBGMm9ncEYwSFZzZWpwdEJ2Zm9TZDZPckI5X2J1bGlFSjNZVlJPNDdBWmlmSXpXTWpBUTBMdkRrRVZNSG1KZWhvTmZIQ0VRRllmdWxkSEJOaGJqbHZldUFyZ3BqcDBJLUFqd0tnZDBsMHNyT09mMjZDZ0ZfSkNRQkJHODk4WjN0TDZEcVNmNTk2NVhMUXFVbkNFUVpWbWp6bVNMREZzVUU4T2J6bWhoUmdGclJZMFk0Y0MtbzFBa1l3N1JiU1FIMHIzdkhMLUZpV3RUVkNucHRhX0N1RkFmNHlmbE90Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2af6931422c1c005090db2b4d85bd3760cfc65ce37661792fdce4ff6eeaa3f66"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -1153,46 +1528,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "99eee1f18c3682b6ea56f3d9de418b66b91ec8dcd0b013668b8d82a76bc7b3d8"
-    },
-    {
-      "id": "20261103-DP-E53F1059-2702",
-      "title": "[보도자료] 행정규제기본법 시행령 개정안 국무회의 의결 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-03T13:20:00+09:00",
-      "publishedAt": "2026-11-03T13:20:00+09:00",
-      "firstCollectedAt": "2026-11-03T18:57:31+09:00",
-      "updatedAt": "2026-11-03T18:57:31+09:00",
-      "summary": "[보도자료] 행정규제기본법 시행령 개정안 국무회의 의결 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[보도자료] 행정규제기본법 시행령 개정안 국무회의 의결 - 대한민국 정책브리핑",
-          "date": "2026-11-03",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNVHRFbHdLTEpnbVcydWhMblRJWWxHci1BQ204RzIxbFhrNHVMdEhmT1Z6U1d6TkI1SUFzTDZYNFdwNWpfTmVraTRxVEE4SlRXd1YzRmVDZ0JqM0c4SWxZYlZFeHYyX0VvNzZnU1BsSmtGUXBZdDIzUjZ6eXVJdXBodFFkaHNid1lyOG5ualJxVFd5YTRsQkpha2NvTW02LVByMUdDMW1hdEJzV0RhOTZNaENTQ1BlaGNBLTR3eGNnbGs4YXNmcGlQbVMweWRpenowSzVEcm5RaG40LTJReTM1UFRJblJETlc4eXZOc0d6UFI0WlgwREZTdHY4MDRYWm9RYlJMU0VhZkc5NjFDTTZ5NS1n?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e53f10596cccb7b7d186a77d2611f052b4a0f4ff3a34edee4142deba442e8325"
     },
     {
       "id": "20261103-DP-762BF0DC-2703",
