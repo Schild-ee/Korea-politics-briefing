@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-04T12:08:55+09:00",
-    "nextScheduledUpdate": "2026-11-04T12:38:55+09:00",
+    "lastSuccessfulUpdate": "2026-11-04T20:28:30+09:00",
+    "nextScheduledUpdate": "2026-11-04T20:58:30+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-04T12:08:44+09:00",
-      "finishedAt": "2026-11-04T12:08:55+09:00",
+      "startedAt": "2026-11-04T20:28:19+09:00",
+      "finishedAt": "2026-11-04T20:28:30+09:00",
       "activeSources": 4,
       "fetchedCandidates": 168,
-      "acceptedCandidates": 61,
-      "duplicates": 44,
-      "rejected": 96,
-      "rejectedByDate": 82,
-      "rejectedByRelevance": 14,
+      "acceptedCandidates": 73,
+      "duplicates": 61,
+      "rejected": 84,
+      "rejectedByDate": 71,
+      "rejectedByRelevance": 13,
       "rejectedAsCommentary": 0,
-      "newIssues": 25,
+      "newIssues": 20,
       "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,969 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261104-DP-F7DC9FEF-2769",
+      "title": "나경원 “국회가 대통령 범죄 세탁소냐…조작기소 특검법 철회해야” - 경기일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "경기일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-04T11:42:44+09:00",
+      "publishedAt": "2026-11-04T11:42:44+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:21+09:00",
+      "updatedAt": "2026-11-04T20:28:21+09:00",
+      "summary": "나경원 “국회가 대통령 범죄 세탁소냐…조작기소 특검법 철회해야” 경기일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "경기일보",
+          "title": "나경원 “국회가 대통령 범죄 세탁소냐…조작기소 특검법 철회해야” - 경기일보",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSVVdqQVZSRWdIV09tcllYdjFOR1JVS3hiMy1OSEpBSXplYWlkWnVyMkRaQjJRZmIzVHY0VFJ1NVVmeVFiVlpsX3pKUXU0RXlobW82UXl3V19RemM?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f7dc9feff262a4ef5b822551e885e4478e647357edd394998032fe2a4c98c499"
+    },
+    {
+      "id": "20261104-DP-76A52E15-2770",
+      "title": "국회 법사위, 與 주도 '조작기소 특검법' 상정…국힘 집단 퇴장 - 경기일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "경기일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-04T11:27:38+09:00",
+      "publishedAt": "2026-11-04T11:27:38+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:21+09:00",
+      "updatedAt": "2026-11-04T20:28:21+09:00",
+      "summary": "국회 법사위, 與 주도 '조작기소 특검법' 상정…국힘 집단 퇴장 경기일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "경기일보",
+          "title": "국회 법사위, 與 주도 '조작기소 특검법' 상정…국힘 집단 퇴장 - 경기일보",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUYUlTaWlIcThzSnZIc1c4TWo2MnF6NmtNa21wM0h0b3hDVk5aSE1rQXhRbUg4ZkpSSThUSDY0ZVNyMTgwQXE0S0FNZG1zelFrVldZNXl4ckFEdjA?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "76a52e15d4bbd3403b1dd188c4c4ba375ed96e4d3029de33a68d780e623000d5"
+    },
+    {
+      "id": "20261104-DP-A7EC2333-2771",
+      "title": "與 \"선거비용 397억 반환\"…野 \"조작기소 특검법 철회\" - 국제뉴스",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "선거",
+      "countries": [],
+      "institutions": [
+        "국제뉴스"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-04T15:48:03+09:00",
+      "publishedAt": "2026-11-04T15:48:03+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:21+09:00",
+      "updatedAt": "2026-11-04T20:28:21+09:00",
+      "summary": "與 \"선거비용 397억 반환\"…野 \"조작기소 특검법 철회\" 국제뉴스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "국제뉴스",
+          "title": "與 \"선거비용 397억 반환\"…野 \"조작기소 특검법 철회\" - 국제뉴스",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fRUd5bTZpdHJLY2s5dUdOSENlbjhsYjZCX3U3U1lwZnFxbmpNaHNaZzg0V25oeFprcWFZQkhVUmVZX2o3QVNOem5QVERhc2EzaHI5M28xZWhtcW5Ic0lFRG9ZNXNLZi1URk80UWp3?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a7ec23338803c0bb827fea144cb701bf8cebb051adaa2d1a1969970388202570"
+    },
+    {
+      "id": "20261104-FR-E3A73B49-2734",
+      "title": "전략적 동반자 관계 심화, 더 큰 번영의 미래로 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T09:28:02+09:00",
+      "publishedAt": "2026-11-04T09:28:02+09:00",
+      "firstCollectedAt": "2026-11-04T12:08:45+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "전략적 동반자 관계 심화, 더 큰 번영의 미래로 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전략적 동반자 관계 심화, 더 큰 번영의 미래로 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnFqRVZCTlg4UVNLUEw5d0x0R0FlQWFld1kxRmtfVjFxcFUwamNKMTZuNDRQY08yV2dUWW8wNG1vYnBVWFFCT1dPMkhUV0xzZ1BKUnh2dVVrMUZ4dGxWSVFxd1lFaks0N2lkYVV2V0ZzR3ZBN0o0YmtUcDV6TDNRcnpEQm9WNXZ2bFRJ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전략적 동반자 관계 심화, 더 큰 번영의 미래로 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vVDk1b2RNRlQ5N05NRWpiVi1ZMVZBLXdMeVQtbDA5cU5aSjZMRElaazg4bEx3ZjRVcDA0bEEwSGs2ZGRrbmdFeHlTWDRDR2tMMEhEbkRjakk4V2RDdXlTRU5nQzRPY3dRX2xVNjl3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-04T20:28:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e3a73b49f0fd5687f9e8a3e58143c2aea49bbd136f035abe049346ba1f4cb07a"
+    },
+    {
+      "id": "20261103-DP-CCBA42E7-2711",
+      "title": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T16:31:18+09:00",
+      "publishedAt": "2026-11-03T16:31:18+09:00",
+      "firstCollectedAt": "2026-11-03T18:57:31+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1dLRC1rNjV0NEJaMEZhQ1plWDJxS0dxTDV0cEVHbzhIWEZLcHZLdW1rLTlHM09JWnpvR1VaZkNvbHh5emxwVmQ5bVRiTS16UnNzbXJHMEZuMnBqV1lUUVJoWllmaHVvTG55WktlSDlHaHdTU3Zwam5qNy1ranRaR2V2QWRQODRKVVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EMEJpVU5Sb2NsSEJ2MVBWV2ozMVFSVVhGNG5OWGoyZEpEQTlWZk5DOGZReXM5OTctaWJ5N0prTmJmUnNidmhhVXhvT0dvYmpBaEh4TVVXSndZX0pwSHZaZy0zOG0yYmJOZnhabA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-04T20:28:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ccba42e75c053c44ad5e0ac751994dea4f26aa6ecb2507a88db66128953fa38f"
+    },
+    {
+      "id": "20261102-FR-2993F0A9-2675",
+      "title": "우즈벡에서 고구려인을 만났습니다 (고려인은 X) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-02T10:10:43+09:00",
+      "publishedAt": "2026-11-02T10:10:43+09:00",
+      "firstCollectedAt": "2026-11-02T11:17:59+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "우즈벡에서 고구려인을 만났습니다 (고려인은 X) - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "우즈벡에서 고구려인을 만났습니다 (고려인은 X) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmdLUnNGeFNIVDVuNlJvZC01eEFhYWZIbktXd2pjSTRRbzNidUpXZ3JNNjVEU1FVZkFNVUNhMlMxSm1UX3dTOVFDbEgyWThOZHZaWXVvT25fSzVsNy1BUXluUV9PM1ZDVVpBd0d2MzAyUkpteTU3V2EyTW9WZk5KR3ZSdkowR3Zha040dA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "우즈벡에서 고구려인을 만났습니다 (고려인은 X) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WVm5vMnBZQ1NrbFVkbzNXRTA4RUlyNzU3UGJRNFpRSHRvRUM3Mk1WaEg1NFZHSTAxMDIwRDJNQnFYY1dxcEhfc2ZOaTFDRTdxbXlXRkdRbThDRkFXZG9Hdl9NRm1obzhpWm9MMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-04T20:28:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2993f0a91e5cf174d1feacee1ad8abc86bbefa728bff52a3040696d30c772556"
+    },
+    {
+      "id": "20261104-DP-ECED9D88-2752",
+      "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T16:21:53+09:00",
+      "publishedAt": "2026-11-04T16:21:53+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "중기부, 티메프 피해 중소기업 특별만기연장 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjJxSkc2eVRPQzNmRW14LUhGLVB1ekt0NzNGY3pRQkZQZ0tMQ2dSYUxvbzFWNmFJVjhMTTVtQllEeDdIRjVXUGx4ZHZ6azZDSldZeUZ0cnFUdENjZUpBRHpfNUZOcWtYY0F3TnVRTFpWQ3VUVUJadmt3ck9nOHJ1LThBQmRSTkFZSnFXOUt6ZGVaRkFY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eced9d88047aa3281d852fed86ba8138474b5f01465299e51e666317f6c3c541"
+    },
+    {
+      "id": "20261104-DP-C2E426E3-2753",
+      "title": "관계성 범죄 수사사건 32% '고위험'…경찰, 가해자 격리 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T17:44:25+09:00",
+      "publishedAt": "2026-11-04T17:44:25+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "관계성 범죄 수사사건 32% '고위험'…경찰, 가해자 격리 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "관계성 범죄 수사사건 32% '고위험'…경찰, 가해자 격리 강화 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeGtMOUFCbTJYQ3liMHZLbGdLZzNNY2VJTFlkSGt1V3RrdjR2amRnRzNVNWtzVDJIeFE3RUtIUVlzU3djUk4tc2tTWkZoSHlqXzAzOGtCSmhhOFZzeThybTVERndrZy1yUTlOZzI4a1JUMGVMTlNxdTVSTTlRT1d6cjloNTRCQ0hxN1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c2e426e308f3c594929ea92acb1d3298b147f571414861363d58598520bdbff8"
+    },
+    {
+      "id": "20261104-DP-BE3405A4-2754",
+      "title": "'안전한 오늘'이 있기까지…하반기 재난대응 안전한국훈련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T18:20:09+09:00",
+      "publishedAt": "2026-11-04T18:20:09+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "'안전한 오늘'이 있기까지…하반기 재난대응 안전한국훈련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'안전한 오늘'이 있기까지…하반기 재난대응 안전한국훈련 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAya09qeldJOTVXcTZsRFFkUlVYMFVDV3pVU3ZGTnBkLUltbUZoQTBaVE03MjVxZmNuck5xblVFVkM1Rnk4cmJ6R1JpdHdMcFJLTUU4NUl3WXFrU28td3ZPNXgxV1ByMmVEbGc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "be3405a43ce768ec842bec1311e961767aee0f351c3f8f9aaab5aee90588b20d"
+    },
+    {
+      "id": "20261104-DP-C94ED1A2-2755",
+      "title": "희귀？중증난치질환자 건강보험 본인부담률 10% → 7% 인하 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T09:33:14+09:00",
+      "publishedAt": "2026-11-04T09:33:14+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "희귀？중증난치질환자 건강보험 본인부담률 10% → 7% 인하 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "희귀？중증난치질환자 건강보험 본인부담률 10% → 7% 인하 추진 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTDh6eE5iSTdva0stWUxsMnhVUTY0UXFCSEoxd0xFeElUMXZfcENBSWRuNXJuMVc2Nk8wTXZUUnBJZS14OWdlNlJmRExHaFBka28zZlhPVUFZd0lKeUkwNHJQYjM2MXQ2UjZEazdjTE9ZLTFLQ0FLby1wVXJDOTY2MTlKY0tDZlp2cllWelc2eTJ0cHNkWFFXRWdQcnU4WFkxUWNOZ1kydmJycDJRZ0lqd3h4dzB3SmRfMFQ3a3lqcGFkX3RMQS1yQW15V3NlR18yTm9waWZJTTlLYVNwVWZ3eEREUWZaWElXZDFBc1VNbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c94ed1a25f3a29423042dc2406084fd3d9f3941b55e43466d41e065f0ec538a1"
+    },
+    {
+      "id": "20261104-DP-73DB5C5C-2756",
+      "title": "교육일정 - 상세보기 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T17:41:05+09:00",
+      "publishedAt": "2026-11-04T17:41:05+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "교육일정 - 상세보기 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "교육일정 - 상세보기 - 대한민국 법원",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkZ6cnlRMXFiVS1hbzBHODMzdnJPdEdXSjNxXy1pbGpaSHROdC1JMHp6YWVSMmloM2RBX05kMEZwMi1FZEk2NVBuSnlCaE5UVWRJRVYxVWktdlNkYjVtUUQtMkNtZFk2Q0Z5aTNxSVZVOTEzLW9qdWRncHFWWHY5RWpuVTNsNGVMZ0JQcl9taTBfMGFaUmtRcUxzMmpjUTd1ZXlCN0Vvbms1ZDlvWV84dWRhWUFiUUo5U2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "73db5c5c2599301a8507d01f9bd748d10e463a404ee9620901f4f4055199d00b"
+    },
+    {
+      "id": "20261104-DP-AD23FAC7-2757",
+      "title": "첫 통합돌봄 지역계획 수립 위한 중앙-지방 협력방안 논의 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T14:04:32+09:00",
+      "publishedAt": "2026-11-04T14:04:32+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "첫 통합돌봄 지역계획 수립 위한 중앙-지방 협력방안 논의 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "첫 통합돌봄 지역계획 수립 위한 중앙-지방 협력방안 논의 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFAtQ01XVlhYUXN2NWV4QUlpdVIzal9wY0luWlMxVC1VOWxxczZqZ1ZDQ2RibmJ6TkpZMlpsVmV4YUhndnZjb2VxMWpzVUJVUFltNGxtaW1Oc1lJQnc3Y3JYalVIM1c2TTlwcUd6QW1ZS0tzeVlZMXpmVkNOX0hWNzhNTVliZ0Z1blhGa0RieW5lQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ad23fac7838da62b27efb1859c2803f64d962c58f51c5956eb9c94b1730d3996"
+    },
+    {
+      "id": "20261104-DP-410E9451-2758",
+      "title": "한글 점자 100주년, 국내 첫 점자 교원 20명 배출 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T18:22:30+09:00",
+      "publishedAt": "2026-11-04T18:22:30+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "한글 점자 100주년, 국내 첫 점자 교원 20명 배출 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한글 점자 100주년, 국내 첫 점자 교원 20명 배출 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NeGxTMmJYcHlrcVp0dlUxRWRSVE9sN3VWT1I3T2FjUXJDaUFRUEFwbHNGaXAybjVUZU9Tam8wdmJBRVFzTnBYM1B6bFRpQ1pmdUhQaTZZajFCZGg2UElkakdGLWxldFQwOHVScg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "410e9451ff8b4fcd4c70a8caef35380f831c0781be531929308642341958098e"
+    },
+    {
+      "id": "20261104-FR-E124E5F2-2759",
+      "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "다자외교",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T06:00:00+09:00",
+      "publishedAt": "2026-11-04T06:00:00+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 아시아태평양경제협력체(APEC) 외교통상합동각료회의 참석 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzBGOGptTnZLSVhYSWR3eExrVWFfM28xcnU5N3V5amZVZktoTjZlWGg5TzRNMTZEb0xkanFuT2l4NnVWWTZxMUc4ZzFla1BydVBOYWdvbjdfN3hfcFZCOTNIN2tkZnBqdTFFMmNqVTN3MVVDMlFYcS10cVFuakoxMlo3VXhIT2k1d3RTMWVIbmFSQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e124e5f234681edb76872505810084484273df69f32abfc135ca33206040d461"
+    },
+    {
+      "id": "20261102-FR-1888DDB8-2760",
+      "title": "안동에서 시작하는 소비축제, 「제2회 코리아 그랜드 페스티벌」 개막 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-02T06:06:31+09:00",
+      "publishedAt": "2026-11-02T06:06:31+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "안동에서 시작하는 소비축제, 「제2회 코리아 그랜드 페스티벌」 개막 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "안동에서 시작하는 소비축제, 「제2회 코리아 그랜드 페스티벌」 개막 - 대한민국 정책브리핑",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGF4OEhGUEpMRTNpTUVFb1FTRGVMSzExZ0NzLXh3NENMYkVpQWtwZnVrcE5CNmdPUkxJUksyRmFadW9uLW1ScEpfQmRTUnRiQVkwTzloZ0pUSlJEMzhpZnoyUDJHaVM0U1BwRXR1SndRTlJ5YUY5WVhEdTZyMnNocXlhT0RlZ0JwMEljOS11alBiUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1888ddb83b3888eceaf77581fdfd2fd297e23f412e7e1ab46ec502e30cae14c2"
+    },
+    {
+      "id": "20261102-DP-04E1601D-2761",
+      "title": "[인사] 산림청 인사발령(2026년 11월 1일자) - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-02T10:16:01+09:00",
+      "publishedAt": "2026-11-02T10:16:01+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "[인사] 산림청 인사발령(2026년 11월 1일자) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[인사] 산림청 인사발령(2026년 11월 1일자) - 대한민국 정책브리핑",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWdsNWw2U3A0b0t1RGZ1eXVUUFpYTFNxRFRZQ3pPanRjNTF6UFJYSEpLTHdwQ0ZKV09aUzluTGpOVVJ3Zlg4cHJhYkV6eURHcVlaNFM2azd6bnJZQWF6ZV9TUTl4Y1BfaGxFRmpBa2FpWHd0eC1qWjhac3lUYzF3OHVkdGItVlFqNm5PMDNGckxVZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "04e1601dceec845c8d463afeb5bcca465034f7be137698d0f01e85d1961a7799"
+    },
+    {
+      "id": "20261103-DP-8EDF9984-2762",
+      "title": "이재명 대통령, 에르도안 튀르키예 대통령 국빈 방한 관련 김성완 대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T09:34:16+09:00",
+      "publishedAt": "2026-11-03T09:34:16+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "이재명 대통령, 에르도안 튀르키예 대통령 국빈 방한 관련 김성완 대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 에르도안 튀르키예 대통령 국빈 방한 관련 김성완 대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqWl9QY3c5N0c5MVctVnBOaXZuWHJwcVoxdkVYcXZnMktkaWl1OGc0OWZEd1NibmhLLVliZEF2SGV6UVZuWDQ5Z2ZjRkxsRmUxTUZqX2cweXlUUVFoNXh2VDR4NVVFM3Y5dk0wRFlMV3Y?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8edf998443c6c63251c02594a68f698783c23e581a1f46e7e341bbff53b723f8"
+    },
+    {
+      "id": "20261103-FR-CE94F591-2763",
+      "title": "너에겐 있어, 1초능력 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T11:03:44+09:00",
+      "publishedAt": "2026-11-03T11:03:44+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "너에겐 있어, 1초능력 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "너에겐 있어, 1초능력 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGNXQUxIS1RWQkJMdmVIYUN0X2NKUGxwd2MteTRxVHZUWnlBRnp3ZXhWRWota25zUUlpZm10cDI1NEJSdzdWMElHN3VoMmxXd05VMm5CVUx4NjdYZjFEVDNLUnhuMGVUTXhVMkxaYzEtTEFkUlcyZjlIZDB6ZHFRTnptV1NfYXFISFVyUw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ce94f591263b1968c75a5be82e58038e46e8a4974b9174e4243d9ed4bae0e5b0"
+    },
+    {
+      "id": "20261102-FR-ABFA7F49-2764",
+      "title": "국가 드론·대드론 전략 추진단 출범…드론산업 정책과제 발굴 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-02T22:26:41+09:00",
+      "publishedAt": "2026-11-02T22:26:41+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "국가 드론·대드론 전략 추진단 출범…드론산업 정책과제 발굴 - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국가 드론·대드론 전략 추진단 출범…드론산업 정책과제 발굴 - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZRnN5ZFYyVVU3THdHTlJ6bGlrd1B3UndvRWZTeTJ6QzJQSWlSMkRYZUFzaGJnN0ZjNlRmdW00NVNBYXlQOGJtNlFSb3gtYlpKUmc3RUYwMUZ2S3ZWRUNqUF91SWE4dnVwSllfdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "abfa7f4973f6b2d0485f0170b6d2e21395cb973c3779b8cb120a9f60b1defdda"
+    },
+    {
+      "id": "20261102-FR-C95A8975-2765",
+      "title": "스마트 안경, 착용만 해도 부정행위일까? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-02T10:54:58+09:00",
+      "publishedAt": "2026-11-02T10:54:58+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "스마트 안경, 착용만 해도 부정행위일까? - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "스마트 안경, 착용만 해도 부정행위일까? - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-02",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwb1Q0dlFieGpLQ1pkSkhBcldWckVIQlo1MjZqenR6TDNlajFWZ2t5dDh5SlcxSmxrUHoybmh4aXBHZENxd1A4V1JYSFh1b2ktQXJmTHR6ekF4QzdaY1ZNLW5kWlV1N1lTNkQwcWpn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c95a89753a0ab0085f4180b05eb2ebd631956d86a0a43c9dfa28514ab83ee442"
+    },
+    {
+      "id": "20261103-DP-007AB290-2766",
+      "title": "불법사이트·대형화재·산불복구 등 현안에 R&D 예산 긴급 투입 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T22:04:34+09:00",
+      "publishedAt": "2026-11-03T22:04:34+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "불법사이트·대형화재·산불복구 등 현안에 R&D 예산 긴급 투입 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "불법사이트·대형화재·산불복구 등 현안에 R&D 예산 긴급 투입 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kVl9vVDFYc2JCdmlBQXpLalQtMnk4aUpONUFkR2V0emgtcmVRMUVKNUM1N3NVTU1CQWdCM2xEYjdVazRMeVdFeS1iZFRyQVU1SVI3Y0FyUFBiMG9VWUpueWJjd2VXaF9uQnZTMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "007ab29021740e6708ff1ac82cc234851a31bdb52d122f17f357a43a6cd54cba"
+    },
+    {
+      "id": "20261104-DP-447FC448-2767",
+      "title": "[보도자료] 한성숙 국무총리, 경기 연천군 고병원성 조류인플루엔자 발생 관련 긴급지시 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T18:48:16+09:00",
+      "publishedAt": "2026-11-04T18:48:16+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "[보도자료] 한성숙 국무총리, 경기 연천군 고병원성 조류인플루엔자 발생 관련 긴급지시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 한성숙 국무총리, 경기 연천군 고병원성 조류인플루엔자 발생 관련 긴급지시 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeDZTRi1IQTMwZ3cxenNpNGpSeElqQzhQNTNjYWxVN2x0dEs2NmdzWE5qdlBFcV9SaDZ0cklvYm9pTHQ2QmpSb1U2Zk1tNzk4RUY2UXpIRUtzejFaSUg2VjBYc0pZdV91LUVqN1lhenkwVEpiVDFqQV9ZLUpQTmE1VVJIWGpUdl9wUmUxR0xUSXVRQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "447fc448b1227d1625f9cbad2e782fa104b6ef5f1410b94b663ec7330dd29023"
+    },
+    {
+      "id": "20261103-FR-89ABDE93-2768",
+      "title": "역대급 슈슈슈퍼컴 등장! 국가 슈퍼컴퓨터 6호기 '한강' - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-03T13:41:50+09:00",
+      "publishedAt": "2026-11-03T13:41:50+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-04T20:28:20+09:00",
+      "summary": "국가 슈퍼컴퓨터 6호기 '한강' - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "역대급 슈슈슈퍼컴 등장! 국가 슈퍼컴퓨터 6호기 '한강' - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ibXlzeVB1Q1I3VnBFb2IwWnBiNDFQUkNpcXZhTUN4bkZiMUdzOXB0WndDUkVVU21OWVozcXdmZThzMk5uRHNPZFJlejREbnZHQUVaYi1XZ3FsMERZd0lkYU0tcXE3ZG0wWEh3bw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "89abde93f2d9d0d4e3642f1e67a180161526b59ca697e434bd1a190b83481a87"
+    },
     {
       "id": "20261104-DP-EDD60B1F-2750",
       "title": "‘조작기소 특검법안’ 처리 땐…수사 12건 중 8건이 李대통령 사건 - 경기일보",
@@ -703,46 +1666,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "5464ccb4b928cfca13375ebd597a981dcf7a9eaf9ca50a2fc245dd532c628573"
-    },
-    {
-      "id": "20261104-FR-E3A73B49-2734",
-      "title": "전략적 동반자 관계 심화, 더 큰 번영의 미래로 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-04T09:28:02+09:00",
-      "publishedAt": "2026-11-04T09:28:02+09:00",
-      "firstCollectedAt": "2026-11-04T12:08:45+09:00",
-      "updatedAt": "2026-11-04T12:08:45+09:00",
-      "summary": "전략적 동반자 관계 심화, 더 큰 번영의 미래로 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "전략적 동반자 관계 심화, 더 큰 번영의 미래로 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-04",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUnFqRVZCTlg4UVNLUEw5d0x0R0FlQWFld1kxRmtfVjFxcFUwamNKMTZuNDRQY08yV2dUWW8wNG1vYnBVWFFCT1dPMkhUV0xzZ1BKUnh2dVVrMUZ4dGxWSVFxd1lFaks0N2lkYVV2V0ZzR3ZBN0o0YmtUcDV6TDNRcnpEQm9WNXZ2bFRJ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e3a73b49f0fd5687f9e8a3e58143c2aea49bbd136f035abe049346ba1f4cb07a"
     },
     {
       "id": "20261104-DP-ED08DAC4-2735",
@@ -3343,46 +4266,6 @@
       "contentHash": "bd157d66d9ec1267e41ff6e7089534635ec20d0d99ecc50603dec632fbed74da"
     },
     {
-      "id": "20261103-DP-CCBA42E7-2711",
-      "title": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-03T16:31:18+09:00",
-      "publishedAt": "2026-11-03T16:31:18+09:00",
-      "firstCollectedAt": "2026-11-03T18:57:31+09:00",
-      "updatedAt": "2026-11-03T18:57:31+09:00",
-      "summary": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "30년 묶인 다세대·다가구 규제 완화…주택공급 확대 기대 - 대한민국 정책브리핑",
-          "date": "2026-11-03",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOU1dLRC1rNjV0NEJaMEZhQ1plWDJxS0dxTDV0cEVHbzhIWEZLcHZLdW1rLTlHM09JWnpvR1VaZkNvbHh5emxwVmQ5bVRiTS16UnNzbXJHMEZuMnBqV1lUUVJoWllmaHVvTG55WktlSDlHaHdTU3Zwam5qNy1ranRaR2V2QWRQODRKVVE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "ccba42e75c053c44ad5e0ac751994dea4f26aa6ecb2507a88db66128953fa38f"
-    },
-    {
       "id": "20261103-FR-CBA6802E-2712",
       "title": "11/2(월) 한-인도 경제안보대화 출범 | 알립니다 | 뉴스룸 - 대한민국 청와대",
       "primaryCategory": "외교·대외관계",
@@ -5335,46 +6218,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "a106c47547f9316f7edf7db3ac3e214e0f0d1387cb23e9b9f696ad08d83ec917"
-    },
-    {
-      "id": "20261102-FR-2993F0A9-2675",
-      "title": "우즈벡에서 고구려인을 만났습니다 (고려인은 X) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-02T10:10:43+09:00",
-      "publishedAt": "2026-11-02T10:10:43+09:00",
-      "firstCollectedAt": "2026-11-02T11:17:59+09:00",
-      "updatedAt": "2026-11-02T11:17:59+09:00",
-      "summary": "우즈벡에서 고구려인을 만났습니다 (고려인은 X) - 영상 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "우즈벡에서 고구려인을 만났습니다 (고려인은 X) - 영상 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-02",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRmdLUnNGeFNIVDVuNlJvZC01eEFhYWZIbktXd2pjSTRRbzNidUpXZ3JNNjVEU1FVZkFNVUNhMlMxSm1UX3dTOVFDbEgyWThOZHZaWXVvT25fSzVsNy1BUXluUV9PM1ZDVVpBd0d2MzAyUkpteTU3V2EyTW9WZk5KR3ZSdkowR3Zha040dA?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2993f0a91e5cf174d1feacee1ad8abc86bbefa728bff52a3040696d30c772556"
     },
     {
       "id": "20261102-FR-95568E15-2676",
