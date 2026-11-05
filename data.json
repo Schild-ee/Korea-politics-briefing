@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-05T16:16:14+09:00",
-    "nextScheduledUpdate": "2026-11-05T16:46:14+09:00",
+    "lastSuccessfulUpdate": "2026-11-06T00:44:28+09:00",
+    "nextScheduledUpdate": "2026-11-06T01:14:28+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-05T16:16:02+09:00",
-      "finishedAt": "2026-11-05T16:16:14+09:00",
+      "startedAt": "2026-11-06T00:44:14+09:00",
+      "finishedAt": "2026-11-06T00:44:28+09:00",
       "activeSources": 4,
       "fetchedCandidates": 168,
-      "acceptedCandidates": 73,
-      "duplicates": 66,
-      "rejected": 83,
-      "rejectedByDate": 74,
-      "rejectedByRelevance": 9,
+      "acceptedCandidates": 74,
+      "duplicates": 53,
+      "rejected": 85,
+      "rejectedByDate": 69,
+      "rejectedByRelevance": 16,
       "rejectedAsCommentary": 0,
-      "newIssues": 19,
-      "updatedIssues": 0,
+      "newIssues": 25,
+      "updatedIssues": 5,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -65,6 +65,1980 @@
   },
   "issues": [
     {
+      "id": "20261105-DP-E615E3F5-2835",
+      "title": "홍익표 \"조작기소특검, 대통령 보호 아닌 검찰의 권한남용에 대한 수사\" - 한국일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "검찰",
+        "한국일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-05T19:09:00+09:00",
+      "publishedAt": "2026-11-05T19:09:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:16+09:00",
+      "updatedAt": "2026-11-06T00:44:16+09:00",
+      "summary": "홍익표 \"조작기소특검, 대통령 보호 아닌 검찰의 권한남용에 대한 수사\" 한국일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "홍익표 \"조작기소특검, 대통령 보호 아닌 검찰의 권한남용에 대한 수사\" - 한국일보",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43eVFGSDd5NF9idkFtX3RFc1A3QnE4cExwUlAxNkFyTGNMYWszN3JHby12cHBKRWo4Z2FmT3BjTHB4ZnlUTGZnbG84cVo5bkpPQ0ppbkt1OHBieG5mZWQ4Y2dHU2JCU0xBbjBJS25B0gFzQVVfeXFMTW1OaUdTRHhpZkNMbW5tRVdfQWk4ZzIzRGx5Z1Y2YmhwODZQRDMwUXBsQVRJUkJMdzZqX2JRTkhpTmJ5Q01FWTJmVXduNDB3X2VaM0NSQ0NWM3hUMkJMNUlpX1gxbVBfbGx5eTdBdmpYYndyTQ?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e615e3f547b054986ebac69f2e5579077ce25c93110c7ac7315e984ca9201137"
+    },
+    {
+      "id": "20261105-DP-954FB2DE-2836",
+      "title": "국회 본회의 ‘조작기소 특검법’ 상정…국힘, 무제한토론 돌입 - 한겨레",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "한겨레"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-05T16:37:00+09:00",
+      "publishedAt": "2026-11-05T16:37:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:16+09:00",
+      "updatedAt": "2026-11-06T00:44:16+09:00",
+      "summary": "국회 본회의 ‘조작기소 특검법’ 상정…국힘, 무제한토론 돌입 한겨레",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "한겨레",
+          "title": "국회 본회의 ‘조작기소 특검법’ 상정…국힘, 무제한토론 돌입 - 한겨레",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjNnNIVFpYU3MzMHdiaEVZYk5pb2FmQU9QdTNSM2VwNzNFZVBnN1VVREhlT2d4T0Uya1J3bGtiY190eUZkaW1YMGd2VkFfTmR4X045c2J5QjBRb1l0cjB4SUxkM1kxeVpmWVE?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "954fb2de38f2fd0c9879e7304c146e19790fd8dfa19af1c144b8ba82ab1931e0"
+    },
+    {
+      "id": "20261105-DP-F82CCE61-2837",
+      "title": "靑 \"조작기소 특검법, 국회 의결 중 사안…의견 밝히는 것 부적절\" - 뉴스핌",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "뉴스핌"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-05T16:55:00+09:00",
+      "publishedAt": "2026-11-05T16:55:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:16+09:00",
+      "updatedAt": "2026-11-06T00:44:16+09:00",
+      "summary": "靑 \"조작기소 특검법, 국회 의결 중 사안…의견 밝히는 것 부적절\" 뉴스핌",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "靑 \"조작기소 특검법, 국회 의결 중 사안…의견 밝히는 것 부적절\" - 뉴스핌",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mbzB1bnVSQ1JFTGk1MUpXQ3JfT2pYaUo3SzlOZVFnLTBRSjBqVU84VzRTMWNfM1ROeHpGem9NMFpla25tbmJ6S1NiTHNvREowUXhmRko2X1c0TnZX?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f82cce612496a2f809067c188a4a6c753cb8954811cb7a29dd2ced1efbd0fd9d"
+    },
+    {
+      "id": "20261105-FR-DD0763DC-2799",
+      "title": "결혼분야 모니터링 최종결과 및 위반 사업자에 대한 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T12:00:00+09:00",
+      "publishedAt": "2026-11-05T12:00:00+09:00",
+      "firstCollectedAt": "2026-11-05T16:16:04+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "결혼분야 모니터링 최종결과 및 위반 사업자에 대한 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "결혼분야 모니터링 최종결과 및 위반 사업자에 대한 제재 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbk9od1BBX1Y3bllPWlFFSE9FcUVKSHRKallYZW9JZ2NMMl9CTWdQNEx4Z00yRDBnWFltWWp0d2N3OV95aDBpM2c0TnF3eldVUnV1bHcyVzhSRnZzcHFXX1E0YUg1MlBiaDQ3aDVmbFhPWU1rVGF5bENvbFNCOWZoUkpKb2lyZU9mZHpibXE3bUZadw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "결혼분야 모니터링 최종결과 및 위반 사업자에 대한 제재 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbS05d0JLMDV1QTh5QmV6TGtTMHFJMERkWFFwa19hWURucnpiNW42V2tNcVhvQ0U3RGhtZHBhbFIyajYxYkNYY0VYOFYwZmNoQWFQajU5ZjU0VjVBQVh5V2hCSXRUVnB2dVVkX2NHZFYyTmk1YnBTMFd1V0JVYV94S0tqd1M4Ny1LeVZPX1FOOHRQQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-06T00:44:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dd0763dc1da8d88239098e9cd9a290715554a3e99dc6b0411be0f929b90cb0d1"
+    },
+    {
+      "id": "20261104-DP-ECED9D88-2752",
+      "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T16:21:53+09:00",
+      "publishedAt": "2026-11-04T16:21:53+09:00",
+      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "중기부, 티메프 피해 중소기업 특별만기연장 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjJxSkc2eVRPQzNmRW14LUhGLVB1ekt0NzNGY3pRQkZQZ0tMQ2dSYUxvbzFWNmFJVjhMTTVtQllEeDdIRjVXUGx4ZHZ6azZDSldZeUZ0cnFUdENjZUpBRHpfNUZOcWtYY0F3TnVRTFpWQ3VUVUJadmt3ck9nOHJ1LThBQmRSTkFZSnFXOUt6ZGVaRkFY?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY19GQV8tQlNMaDkxMTVfd3RaU0ZpWXozWFpPR3BCOTlmZmplZUw3UUxhLTdmc05BWnJnRlhyRlBWcC0tbzBVWllxTzV0UGxZN1Y0ZW52TThpLVJWYXdDbUxPS0JPX2cwTlQxM08zdFlNTkU4dXRhbDJZSTlmZ00yMnlSbDZ5dFB2ZC13eFVDbWtvQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMGtlcUxJS05URlVjNzR4YnZaVGgzWFVGTTM5UVdCVkxKbGtJaG81d1Qxa2NQVmlObmFxdjJGNzVIYnkwTjk5QUFfdDk4QkRWZEtGVWtzdzEyMC15MEtjdEFQNGdIQy1Qd0ZubkUzNGNaZ3BPWlB4elRPc25sWS1VN1JzaE9uN2xXV3lHTDJiSmJWMkZQaW4xcm0zNl9GalZXQlNUZTdoV2FtRnMxXzRMTlBMSlNVMElRN2lkNnhBeml4b0ZmdXNubFhHSjNRbTZEWDhqOHpzeC1HTEp6WHhtUjdlLWhSY3FDdkEtM3FDdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-05T03:47:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-06T00:44:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eced9d88047aa3281d852fed86ba8138474b5f01465299e51e666317f6c3c541"
+    },
+    {
+      "id": "20261105-DP-0C6ADEEF-2772",
+      "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T00:00:00+09:00",
+      "publishedAt": "2026-11-05T00:00:00+09:00",
+      "firstCollectedAt": "2026-11-05T03:47:48+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "내년도 공직적격성평가·국가공무원 시험 일정 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTd1clF1d19GWGtTbjlkMGRKMEt2QmZWc0hISWFqbklIekc3bFVJaUZETThGY0JRSkRvcGEzVGlqZFdIcEpZNUdWR1Ruc1haNm45ME1KRkE1LTRlZEFwOWlpWnZNOGkwYjJCZlRwRTVSeFQxVm85bjB0MldMUmxWUXN3UXE3SG5SbWVR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGdSV1hfZFN4anc4S1pFUjJLVW1MaHNSS0NGekl4Ml84c1ZvNUduMmF0LTN1aFlVbGZtTDlMQlEtSmhwaEotOWZsaW1zSVhZcl9RUnRVcjh1WHlKMjVOVlZTa0VXbUJESTVFck5JampNYnZBdjcwYTU5UGpoQUlLeVhwcm9naTFqeVZrM25HdU1NdHNp?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-06T00:44:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0c6adeef21d91851deb2f23dd03f10ae3f8c2e317d088d6b2f9535506fce518f"
+    },
+    {
+      "id": "20260810-DP-56AB35E4-225",
+      "title": "전국법원 주요판결 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-10T14:37:13+09:00",
+      "publishedAt": "2026-08-10T14:37:13+09:00",
+      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "전국법원 주요판결 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-10",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOQUJKSC05TzBvSm5XT2JjWDdUU2l6QWdhdm1fbjgyYVljMmFYS0pIcXpVRm52SF9BenkxMGF5UEpaaTZiaXVBc1A3WW5BY2gwRVB0YXdGeEEzY3YtRWNXV25Seng5WW4zcWFrSkVYak1pRWtMck5GWEVEM3lzM2JHdjBHTFNJUmM0QTgtTXpLQmswbVF3b2NVNlZ5ZmQ2WWllcVh4T0Z5UXR6X2VRVUI1VFRzODZBamlCV3R6dGc4OEIyX3NkZUxIQk5YaTdXZ2piSTFTRHBCb2puYnRsNzRaYl9oblpDU0JwLU5BMWZmQm9GaEVlVmJSWENTbkNYVTNhVGZXR1ZtVFV0bDlOQmQ3MHdSbUg5SG9NV1k0MlJ3UlJZTXJyOEVSd2RfUVdvS2hQU0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOTUE4SnpCNWRoNEw2WnJwZlJ4dGFpd0dkTXNhUnlXS2lCd3p5RWdGc1QyVEpVSTZnZjZiVEVyaHBXS1U5RGVzTnN0c2RmZ2RMcy1vS0NaS1lPdEdmVUFTbm8xN0VRemVzX2RUbGJwM0pmRm5sWmtWSjA4Z3hFeW9UU1h3RlNXdzhWWjVsbnNkbHZzZ0plOVZPcUl0WWVDRkZqWll5OFJYa1VkZUpNM2t1RVpWcXJlY1lJUnRpVS1MSXAybFkzX24ydWNaNXFFTk4wUmZYSk44ZGxrVzdoWHhUZ1RsaXlfWTZCZHd3TVZzM2dKdmpjRHFsMDNuQVhXVElGNGFrV1lvb3c0d2p3RU4tU0stMlhBcEswMVFjV0JCU0VxV0xVZmNTQWV4a3VJQzNLOGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-12",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOck5wN3cxUklyOXFHWFhYcGQ5YlRnanY2Ni1DWElBR3NoZ1FjUFRPNXRSNndPRFZVRy1zRW1JWXU0SE9scnVJRllvMjV5Zjg3eGJoVFRZb2phXzY2NXEwOFNsakNTNlJPWjVzYXFTVkQwOWZWcUw5R0JuVk80YW9LSm8zZlFRU3cyVTk0RjY5dlB4cUE4Qk5pYlFmUTY0VXo2NEFzaHR4OW5lMW40RmRVQ2NwVHItOXh2NGdRa3puaUYwQlA3azBrdHVod3dBQ2c4VlVqd2tqTzRWM0hBTDlxRUVXVFREQzJsMXBSNEZnRlZiMVYtWWE2NW9KNlpDU09tNDMtUFNDZ01TVXlHVDZRYTRPZHp1TlM2TEtvRnRBdkp2bk8xOHMxZVNkOFRDTFg1MWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPd1pkbUJrSnZfdzhPNmtCek1PWUhfYXpLRWZOYkdHbV94b0NnQVkxNE1xdTUydGYyV1NhU3pya1VuNjdZelNiU0lPam04T2JTVlNiWXdnNFdTa1I4X1k4MmlBQnp4N3Vab3lhTjVxNEItNXo3SC1qR2lpal9rLVJoNXBqQTNKZ01jRjZncEgwdXV2M2hRMERsUUVwV1FxQ3RrTV92RmVXVEVLY3FIQWVVOUF2QlVrVU4tMGxjbWlYMkxRWWt1OURYZUh2Q3BINUl1UUZlNU9CZkluZ1R2bjk0bVdibWxibVlkWjNuZ1pFSl9ESzBuRVozVzdMNWJjZ0owUFFzOUNCNmRHOXprQUtYOWpLLVNlZG5yeHlSUkRGcDFGWVU1V2VaZWJzdGdJaWlBWGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUkhNVGdZeHM5Ynh3cng1aWJ0VXNQc0ZRZzgxXzhzN1A4dVFOQUYzS2F6a0YxbzNzT0VTeFVJUjlSa3h5bzJPa3VFSGxqVmdrUU1pb055M2s3RFZYeVpfNi11alVCOTQyX2N3WkVmXzZrTkxlbUo2QXg0bHEzbnpKeC1BS0FoUDdLMnd2R0RvcVZrU2ZTZ2FKdEhiYWFSZEZ2azZTaFhGREVCc1BFZE1OY0xiSy1RS19FcERWdy1iV241Q0cyeHJJZmpQUzV4cF9qRGZLNG5FTDdNY1RoSEpocHJadEp5NmJTaDdObzV1Z2ExQW8tYmllbk5hMDd3WU9qWUlwREZIV09ka1ZzVkhUcC0wQTFaUkFGeEp0OWlWUVUyUWxnNDZaT2pUa2JSQlRRN2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPY2lWQ1JMQzNNQkdKaTJxNVFLM0NkbVI4czB5SUxWZ1pKLXo5YkxONktJYjM0enNVdjFyamo1Z3NDVHl3YUlTdl8yWWE2OTNmckRKcDRpVi0xbC1xb0NHTlF6Vnl4Smc0Tm1VYlpjcXdVWVowZzFlbHRzNS01YnBqczI5SUpFVVJQWnVjU1NQQ1ZuR3JJLXQwTHg2VTBxeEF2LWRjellzdWtCMWQwc05JSW9uNjc2Q2JEQnZ4NjUzaTRxdENHa2hxU29OVjBYRzRmeHh0NXdhX1FUUDF0MURZMGZybTZhVmE1eTcyczBMLXphY19OUVdodmpsTWJ1QjgyWi1pT05JZEMyOFgwMkxUZk9IQ3FRNXdMSmlzcUx3cDdGX0hiLXN1bmRxekZNMmJzZ2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-20",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQQktkcVczenFybEhvVGdVRVN2RFRpZVVSdUhUZmc0NElNZXNyUHpGS1VBd0haa3Y2aUgtOEhkVU9PMi1maUU3UFlidmFNZ1ViNUxLcWMyTVY3N2xiM3dfM1RUZVNJUW5CcDI0bmtJa0FhbEFOQ18tVDRocHJrRU5XcE84R2RxQWhVMEIxWjRfOERhRW1zUUZIdkFOSVpULVI4SEZJMXB0cEhobWdJU2hsc05OM1lSQ3RDYUxnMHBxb0dGU2x6cEwzZGtuYl91UGtGY3JSaHVGS21CZGs3QWMwRnhUejlDX2N2ZEtfRjAwQW5qRzQyRTVLSmh1R0pkSUxrSUdIVWE5b0F4NGFmRWI1RTNWaUJLVmVTaDhwZjNFXzhLaUIzbGduT3FBaVpKcjVzN1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSXJrekJocVRmcm5zOXNoWlZ1bFJvRlVaNmpVX3czSExfQjBqdDVJX2h2WFRYbDEtQWNIcWU2OTN5UXBSeDRUVUI2Z2lJNUVOQWxUVWRTTms4OER0MTIyaXFyaHJpU0xHaEZjU3Uzd2xOb1FWVVFSanNkb1VyYkd6SlMzVUMtU19leUtESGdKQlA5ck5SUkctWDZKeVF1UE1jSDZDOXo0U2c3dzU0UEVkb1NtZmUwUk4xQVN2czNSdWdWMFo4TjU3aGRuVlN3VXBHcXNNUEJaTDNFUWhIVGxtYWgxRUx5ay1kWnBaYlZYcHpMQWhxQWxtaVROVUhJSEpSYi05d3lDWDQ3eGwxdTY2Um15aXVTd0VjSl9sSzJvMzl4UjBXM3BqUk5mRnZIVGZEb1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ29sek5Sd2hqXzA3eTVUMkFUbTR3ekQ0cXpkcG12RE94Sm9rR052TEZJMHAwX056cTRGTkNPcnRwWlBGWnZSN1hFa1lUVDVYeVlPRDU5NE4yNEpNNUFKcW1FTkZCSXFoYXV2VG1yQkVJcEdFU2ZFRXpNV3AzNFVFWkQ4ODdrRjlPUnpXYUVTR1J6QjhpUmhGUGZBSnBrMFB4TEVPTTlTZEpQY3V1cFp2eTlBcDFEWnM0ZjVMeXZJUkJVNE1WdkJtbVlaSzlDN3k2WWJJT3NmM00yOXZuazZwTlJtQ0JWSUxCbWo4OG00dmdTU181S0N2aDE1RXVaTlJIRTNEVDJZalQ5TDJrQUVyYW50SzhXQjkxSlFjdDZITEFtSElaNVZkRGp5bmFFeG5JbGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNLUVvUTQ3VUotN0ZyVEdZSkVSaHRzUkJady1oaHBLQ29HZDU4SzIwTUxhdjNQVVlnWWdfRHZETUZtbHMtejJYVEVDOXh1MW1yRGlsdTdFQ0g3dVJ4ZEl4NlFDaW40dzRvR3JaZTJNTHFZYmJOQ0NJMGpFWWJTWHhZZUdHX3REOUdQVVlud2lHVEhST29RNWJaNkRKZ3NUdE5KZ20xSUZfdTM1OFQwakpXQ3lfbFhkS1haR3hEN3BjNHFpRk4ydE5uVHVRbDNFOFJOaVZob2prUmlZd0JxS2ZBeXlqWnJNY2NLdFM3Tm9mZlhwSWtIMUllVDl1OGVyWFgzS1R5VC1wUjVYaXJtNjExb2w2bDFLby0zaWhWNjZ1MWN4Y2IyY3lnelkwd0JYSnNpTVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcFBlR0JlNV9qaVUwOWROOXhJbldheHhjZDFPQUxVV2pBQVJEdXR5R3ItM1JVWmFHUGRrTnl0X2JsalE3QXRfMERYWWVncG5fSWJaWnhNNlg4cHhxcS1DZDN1NkdvS0hKYXdwcS1oakgzNVROYnQwbGZCb3VjTWhhOWliLTNGaU44U2FNMFZJQkJwTVRwLXJMLXFJa09aSDc2T0x5azFkVnh6WEVkMURrYXVYSEUxckpJRVhNSFdNenBDTXA5SE5DLTNITHY5Q2VrN0ZweFhaeEpHdWE2dG1tajBLRDhDbmdJRWRDTVZKSkVNcEpXbExwYkYtcDFtQnhpdll4UUZsemFZWDlob2pJRHNfNld4bzRWN3ZqMzhKcnBQNmxub1FjU2YyUUQ2Y0JKTHc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-08-31",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbnN4SVZ6ejJxRThQQVFMX2FEODkyM2FlUFVEM0VPVEJHVWxneTRvdFFaa2NLdnc2R3VCQ2N4UVFTYmNkWXhlZTJITlBpcldzOENMcExIZXZTaTduTHhINlJBanR3M2VsVVVrcVppOUpFaFJlSWtMZGQ4R3prZGM1RmVXNl8yVzk4NGdCVXdDVktoRDJxX0xCOEEtYW5RNjkzNzFtRjZ6WVpQRW05NjVIc2FnbWs2bG1oWEstLXN6WjBJbmFFel9HMWtVSG1nY0VZM2ZfdFJfNVJONGVaMHlIM3lFWTUzcGhYREJLS01SbGdidVE4RGpVNy12LXRJOWRBWi1ZTWo1SmdJUTZjZUx4Ulp5RTlYZjlsNHlKT0gwN1ZBLXZYVmhoTzRROGpiVHBRcWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcUx0TW5GTWtWUXRsS3k4SjhuLU1vcVN1VmdOeGVZNV8zYTVDYW5zMlNCNUc1Nk1MSWpRQVhXNlJPbmI1cFhJQXpCbzBrWnRVdjNmRzV6Y2NjTlVtdFVUbDM2cERLaG40UGhvMWktZzU4MnpNWDZ4ZW83MnNIaFJmNHNpVlpsTW5WNmZQU0ExMjFDNktNYnJTZ3htNTZfX3hSUENBcVVTZVVSY3o0b2U5amJPVEtZSnI2ZUZIT1JNamQ3WEQ3cFdTN2dFaS0td2VON3cySm04R3VvcFVxeUN1c25FWkxvWnp5RnJLVEVmNWQxZmdsdTRLZlc3bnJxSFM2VDQwa25Pa0VYQzJFWnB5ZnVwTmhsZ2dHVU9XaFk5Yk5zR1o3WmZ2Vm5Ibk5fMXR5R3c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-02",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOT2FJVFVrMGpfa0NwZURmdEFIUDBHWm9DbFl1a2tvNUZGMUt0TlRVNEl2VTB2WXctUHVGaHBoMU5FV2J0YjI4RWN1aWlMOUZNTlBEU2U3VzczM2hjOWRVSGNoejNJMXJraElDb0Q4SmJBRDZwQU5TY3h6bHlyME94NkpSZkZ3NzdlMmhNVldOSUxFYXU1X05YTGJNUW55TzhBNkYyVzRCTkE1TTdVTDFKcVUzWExOMEMwWUk1dmxWQks1YTNxR2pxRWlTSC1BZFgyU0lsLUtlbW9ENUoxbGNzc29UQ3d4eld0VFZ0QTYzcDZTVGNzUVk5SWNFcHZmdmZwUmlwbzZMMk44ZmE2ZlVIZURwS1lWYUxPb25ja21vZi1RWHRvU1VTbUdfaEFaVFhLU1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUDdlV0pQd2J0NTlHclNLVWVRSmladm1yazJuODlpclZRajNyRU5lNWJKNGpHLUJVdDEyRGt0aVBKcEdPYWpMaXE5QmF0cHpVem52YUdUeEVOZnhqQTVMWEx6b2dUb1E5MmhxbGN4TXNYM1Q5MkxDNkNkMmZwNVc5WFlVaDd0WU82UHF4U2JxbGE0Vk02b29fQmhwZ0d2d3M5ekg0YXA5ZTNaM0d6UUlVUXdPa3Z5aWhrTFI1M1N4WXdLM1VSRjhTLTUtenVTN3kzSHlOdWg1Q3dvYmltN3QtYlJfcjVNN0FVbUFkaVJXNldQWUw5Y3JuYmh0bGRMMlpjZ3RZUWY4LS11dzZXck5GWDF0YkhNTWotaHZEdEx6OUtEQjZaSnVXdmh1MExMcE5nb2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-03",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNQnlFX1JNYVU1N0p4cXd2LWRiRndCOS1VWTAzSnRsZmI4cHdNbUZ5anlUbVdQQ2EtNEVfVk5abEpnaXRZTlZ6Ymh0TDZvRmYwOThHZzEzTmVnQl9ZdTRGa050STlOYi1XaHI5ZXFjS0R2akRxV0VSYm1BaFFLWk9DNzNBaWR1clI5TXp3ZFh5YmdCb1h0S21zYVhDSllEYmMyYnBxQUdsc3A4amRqWF8wT1NPYmRFZzJfVFFqYWh2RDlxX21EQk1HTm1UMDlzTElZVVpNdHMxMXRuMzlvNVFqZnJMTzhfS1RnbkxOZWJGNERJV1lQSlFCZGMtUWd1bjFxeUk1d3Zfc1puRWNsalBST0F4cjNoeGtucUdBUF9EZ0tMYm1lMEdJRUdVUFVyUTIyRnc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOT3dITng4azRSb0prWmR1YjgxMm5fS3VaNUlnb3RqMGlLUFdqT3BLbmdpZnFiOE03S0NQYTFDd3hwRUwyWW9vSmFDNUgwOVlpR1RqUFVrTk5WRzRCOWxkVTc1X2M1SHR6cVduVUpRLThVdUN5TVhQeHJGTGV1WHk0cnJPdVBMWTJzV01TUnctRDVRaGRwMUgwcnZFN3V3YXZpZl9jaTI5anYtY3Z0aURpTnN3aWllbFB5SXNIZHhPM21HZmVYNTlkSjFpOWJ1Z215MFA3QlhTQkN3a3JCTlRpOU03LWV6TWpxWklZWlc3dGhxQjJEUFpkWU1QX0ZmT3ZfRWFTTVZaOElTQ1VmWEZrUTd1aUd4elZQTXpMSlNtX212bTgxeEo5bUZlNjl4cWVfdlE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQV0dsbjdmU3NXdXVYN25PNy1PRkp0cU56R3hoUHg3aExmMWR2bjNTODVXVWFFSmVxTDFMdDJXY3lacUVjeXRTVU44djFVbHVJX3ZHbXVXOVFHSDZ4TDdXMEhPOWZXMHVHOWREZ1YwczNJX2tMUkZXc0E1Q3Yzcm1XU3VwNHVYT05GLXE0MTZIQWdFNHRiS3VncUFRVEtiUGFhZlJPaWJ0VzVmWE1hVk83WVpoQlk3NlRYWThsakRmVU9CdEpYTkZ1Y3I0WTFQczd3dGpUVUw5bWFGS0R4RG9oR3JySFhnMkw3eWZ5RFJPRGdSajEtRWNBSDVfRFAtT2tWTWsyNzB3ekVsVXFyWmJGWFk3YzJQcWstU2FWcHdHN2x2LWpPYXlORk5YOC1vZ0N3REE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNRnpZT3hMUjhIWGlWa2UxV2ZiTURMcmdoa213RFJUbWJKNGZaeEpRdVN5UGFjV2d3Ukp4Y1k5ZFU3TkUtNTB2bmo2NVZLNDhHZUF1Mzk3RkdNWWlBSWk0ZUZyYzlQTjdIaU02VnBzN3NINFBpTWdsdGE2NWJMM3VmaEY5eTFOVHItam9tZkxkZzNhTk14RDRFd3BVblZKaV9HR0pDQm44UjJhc1NDd0gwVzJ2WmhQWWNYRlkzQ0ZQcTM0Z1VVY09qamlkeFpzUk9UUmRyZzZxd3NRSnlQdmVzLUxWU1BOWFVJN2hXal82eGJrd3czTzRXcldYalZqSlJWUVgxaTcwVDd2d3hDLW42ZVJ0RXY4SzJlRG9oOVhGS3owaHh2eW02S2VFQU1kbGxHamc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-05",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1Rjb2FUeVVuTFlfY3lmTWE4a1ZMNkJxNThUaTF3NWFGM0Mzdzd0VVJpbDhkVndDQWNJOE1JX3BCQUo4VUhYdEc3cmg3czBEOEVuNE1uc3RwWUZPMEJHNVRzbENkUm90SjdWZEplbF9semhiTVY1OGJfQ2tTbTRndmhyYldwdkstUFJVbHB6UXpCd3BmVzVCZS1EZUdhWU1BdlZlcC1ORFpiaHJSRXVHQ2FWSVkxRVBya29sNkY4NFJveHhWQW9DRmthazgwOTR5a3lqU2t5NWFDMkhyYmZKMmphMGpJTVlQMXVVaFhEWFBPbkhtMGVmamFpUnVpeVliUXRhcFhOWl9PdzRMQVFZVk1qN0djZk8yX09feFVuNXJFeVkzRXR6YXVORDJoalhiMXc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMzM2U25vSUtvM1JQbmtFZWNlN2g5TU5CZG56d3BJTURlSkVvZWxvblJucXdRZFJaZXIycDItUDRlTk1lYWZ1cndDcm5sdmt6QlFRYlB6Ymg5ajZ5ZG1aSGlyM0lOajJ0aVFCRmFIcXNPZUNvQkZNTnpBT1NkUDFzRHNiY0JMVFBtOXBvVGl6NVN5Wkt0YUxPU1NSTTUtY05GYkZyalR0elZPMG5TV0ZMUGcyYUtOMk0wS3V3Mk9jTFpONDJhcWNsbkRJblhHVFR5Ykp3RTRTQVBsQXJ2Q2h1SklGSWo1QU5kcFlJV2dpWVU0dWQ3bDUwcjVrdkpLQzVGakpJOS03SmtfaDhadTI2TWhFRVBuczB0SEV3aDVKUVZ4ZmdTNWRQYVd3V2dRNnNRVFE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-04",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVVRQdGluS19FV1BpU252ank4WWMzWmxkb2lSZzdLRFQxV1ZYQ1ZBQmhlaDNhRXZvSHhFaUJBc2p2TV9PZ0FNeDRja293YnJCb3lmbDllS2xrT3k2MjJWMVR5azlVZmhIQW1JY0xxNHNYLVdIb2NnZmZJSGpKUzdtNDZWaENueVM3Nl91WEVyaXE4N0RmNl9OVWxpLU9VRmVSb0s2dEJaeDMzMG9FRFZUMHBPMU53YWlITmJCS3RDXzQwdHE1S3BpRHc4WXd0ZVp1WVBJUWdFMjhqUGpKT282THlsZ1JfbGdYOGZMUk1YZVBCbzFLWllFc0ZPLXBPN2FDRDdTVmcwc2RyRXhOTkoxMUt0UjdhWVRjdFEyV0JvZjBHSEhUV1FmTTNmNC0tX3Z5V2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMUdkTkpmRFJFTDNxMU9IeWpxNUtRbTlZLUdzT3Z4SElfZUhwLVBBeUMySHdWVlhhMVBlRDVEcnJZVE9TMUlad0F1dm1RSVNWZ2g3QlM1MlVsTnlYWUpPclpKVXpyb0xLZWs5bkozT3hQQ2ZYVnp5RUdjcFQ1b2dlOTRGRllzbGliUXYwNnZxVGlrSXEybUFCV0hmTmRkOElFN2dWRE5FbzI5OVRDV3gxa05aUzRaLW9aLVlHQVBGSzVkTEtrYXk2Zm9hY3pkZW5zb2tOZEd0eEtCbE1VV0x3N3VmUHAyZV9NcVRQSUEwZXRLSURoZlZzbEtITkZqb3JhMi1RSjJMckFsdjJoRmdvOVVwa01hR2RTSTU4YkJCclBfcVE0aUZ5Q1hOWnJBRVNRMEE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQaWlVLTgxOXpwSjJGQktaSWZmVUJucExFMWF0dkJscHJnc2Q4WmRzM0pDYUxMbm9YZ0F2bXJQZ0sxOEpZdXN6Uk9IdUlwZm5yb21mTlRNZ0xEUUNxTWJRQzdxbV9PeVR6V05HRmljX0ZxZzRCSmFuMVBQQlBsOXEyOWRjbEpJQ1g4X3VRcG1ONDBqRE5LN2luc3BMOWg4SzJVdU5GZ1J4YWJpMkRzV3ZFV3BLUWRsYXdCb0lxdTNQVFVkenpDREhjbEhNM2ZQNTlWeWNSbUNBekNpSXJkLWdwRXpfaEdHWUZkY1B2bnV3bkpYeExvSUtzamRqLWNKYzJUUHFaMDd2NVZ3a1NPX08tRk5yZnNUQl9KalJZLVJMZzJDMlpGOG5hSVJwcnU3Tnk0REE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNQm41a3l0WnpldU1rZ3RwMl90d2JFUWVHNUJydHJiTmxva2Vvc1Y3cWxLbW9RQjZUcXFrcFBfSEt0cHpNS3ZsMXJZbHdlVXh3aDdMR2pFX2lIQW45NlJJSGY1Y3N6RVZQRUVLM0YyWnh4enpZSGtETlJoZEZ1bkk3VVUxdVFnbUk5NDJPNHFpU25oS1NNRkVLMnpqNnR3NTQ5Z01pVlZZNGRpRHhnalBWM0pWdFY5dU9MNWtkNGQxX29BdTFzbWFsTVpRTmlEcmtDaEdHSXRpN0d1WTBMMlVfZWY2RXhqN2JaVVBUTzJHMUJIdVlCUV9NTEJzUFZXQks5a1Z2azJmbGd1WjVJXzRVSndod2k0QlN1TzdBMUJaMTZ5YlJGdHZ2TWNfZ1F5YTV4YWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNQXFLT1Jad1BnOFpybnBsVWMzeVJULUdwdThwR254dXVkWm9hTm9WaDZaazNRREZQd3NtRkIyWjZnTG5BUFE3ZWlFNTUwWHMyRTh1M2VHTVlIeEpYSnB4UG5FaU5CQWtwb3JuSy01NHpOeUtBY1JVQ1laaFpTWjRSNVdjaUpKdmJhTkdJYTRrY0V2NHZGa1ZqcnNJQjM3cEE5UkhyRDQwWnhoRkNHZFlLelB3NDA2bFE2a0xuVTljWGx6Y1JWVGdrb05qMkc4VS1uOEtCUlVrTE11N0p4Y3JrN0RkendGY0JtbGlDbE50MHdxTEZHZmI2emFyLU1ueDFhWFJlXzJPVFE3endITURYcFBoaDAwbzFNUWY0aUIyQkdBOVgxam80bjRGZ2UzN3NsVVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQOTAwMm10QW04cUp1TFd1MVdWTVJKRVNDYzR4ZEd3U0w2b0tZSFphMjhOSjZJVm1IZWEtcGRNRXNoek5nWFU4ZTJqbE1JT1NQUERKVUU3VDAxZ2xHdUdOcVdzTWsyTnpIM3RPbTYtWWFjM2psOFNDZDl3NFp4ams5RXhoRzdubFRpc1Q4WWdjUW5SamdZdERWLURKelA4M2gxcS1GUEF4RmRNWmRnMURPUmMwU20zOU5TRnZSeGZlMjlsb1lTcEdWWmwxeGpickgxWXdOaG56bmp6UDBSTDRXNHJ2aTdFWTdpWW9feXpjNDJ1LUljdXBsMEdmMU9yaVNZTi1sM1dzbE5teTZGamprNGF2TUJGaV9mOER6Z2VkcTNRUmxlNVRyN0hsSDVyamVWZmc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-10",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPYUZGSjZFUHZUYlVQQmZMUFlmMmlxb2VrY3dDUlJHTFc5eDF2QWdBemw5WkpvQTRqSnFqZEc0YXFJSHNTQkZzeUNhWUZVTS16c0JIYjVzTDhZQzgyZURuX0dsMmhKSnFRSWkzMFBCTERiMmNCUE5JMm9fLWtxVXBmQktlQmdQLXAtc05Wa2RiSlBFVU5TeEVMczQ4MVBhNmpyb3RCdzlSa3M5N1JVd3lGQUxSUU5jMjAxNG82VGh0Yjk0YTI1cFV5Q0xnbFlpOXJ2SnA4SjJjb2IyVmEtOEpROEhPZzRuZV92NTJ0OENWXzA5T2JWOHcwem8yUGdaZzh3NXRHQ3dWdlRwRHdGWXVaN09NbE9pVGw0WHNPS0toY0ttS18zLUcxUUJzaUNNZWlzT0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQUkg5RDZGdGwySEVjMVJ1ZGZGUjY0eFo2bDJHandBVkY4UXppWHVIZWF6Nk4zbjJEc0pUTUxDY1JXNFlKcm9xeHhNVThocFR6VjJMV21SOFpCQ3Z5SXJPcV93Zl9LZFAtMjNqRnIya1Y3VHI5djM4Ylh6RmFrRFlUTG1IVDVTZVVKdlozcW1SVlNOWElTcDJmUmY1bVVlQ01ZOVk5dl9jOUFjR01ZQnhmRVN4RTV2cmxzLW1oTWlsQmR0YW91bG1qVzhpZkNNWGd1eGI1R0p5LUJUNFFaSzJYZjZTMTdpcTFUVHgxVHpnbVhJekhRR0hPcnVOajhnSFo1ZWdDMTJUTWcyTEhkMGRQZ3RKMTZuejRPRVNPQl95TmNMaXdrZVJMTDc5RXl2bXAzQlE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOTHZEZnRZY2o3NnJFckRLdTVZb1NxNGtuTG9iaU0wdVBhVVFPNU4zV1R6aVFaS242WmJzbGpvZVdRN2ZVV3R5MldBSDlaNGF0UGtNQXMtamhsSzQzYlNVOFFYb19keWxEdG1VbVFMajJFb2oySjgtTlZiUWE5Mm9NdVZnSWRsem5NUlZkWWdlOGxUV2ZZNEJsQzlpZXBsOGgtbXRlN0RGZ2RtZVduek5kR3FEMFdpdS0yWG5ROEJGSlhBbEVQMWc4RDI5c3V0YndpczNlTXQ5VHY5S2NXV3llUk9vSkNTMWJ0STZTM0JCSi1oQ2ZCa2c4TmJrMUF0dC1NeHRMTnZjRTNNWmFhNWVKdnJrcGZZNUV6TFVmNTh4ckY2S0k5c1NXNFNSdFhaQ0JyVmc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeERHOFFORUxESWFHZHZRVHJEenlhNDZfOFVfcXNzdFBiVWZGN3F1dW4ydnlEaGJGS3hmRHdtZnVTWUNHVjg1M3dvR1JReFdXdFFMY2w1cHJ3aTcxT0E1S3ZtTmpNZFBwZnA1c3FaaTdPXy1rT0ZMRndfMlNZSUtXQ2VNUVF5YWxzUWhVeXE0MlJyMXpieklnVWRzT0h2aUtBTlZ0cEhxZFZ1bEZKNVE3bk1aUnY0ZEtlX3BqbVBjMDFFVHBtUjB2dXRXUHNrTk9Ed0xFV1JuLTZ2NExncl91OWJKS1NZeW1TS09pSU9jNXpfcDhRWmtlaGxxT29JZE15X3Iwb3doaF84MTh3V1J2eVIxNk9yNXF6X3prTEE4djFOdlZnNi1xSWNBR0prZ2M0LWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWV9mQVNOYldsODhEVjJleXVYYlhTYUZlaWMwRmQ2LXdYSkdfY0dVY0ZZeE5lU2VuTHpXZ0w4RFJmcXpTMFBCamdiNHl6Tmp1ajdJYlNRWUN4VGF6RjQ3SENkVWUxdVR3SHB1dWgxRHZlOTZpVGRmVDRxWnNRU25hYV9tUnB1Y2R4M1NFc1dMcGtQMnZKeXVwQUhzaHhpM2pTd0pHOEN0VGxrNHp4elJJLVpIcXpHVm1GMXV3TWE4UnFvUTNQTDVJbW1FNWJkbXBHT0dfb1lYaUVrZ0NuUk5KZFJJc2pKeFhXSWZyZ25Pb0tWS1RSTmFYVnJIVHJfb0JfeWN0RjZWWV9wTUhvSzdLUHpVMS1pM2hOY21QS0FQQXRYMEkyVXBfZkgtX1U1Ym0xOUE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQdFZQQ3JuREQ2UWhhSTNrVHBOSS1vUGpGUFBJYk04WGxCMFhnLXptbE1uMEFRU2EzWldqQ3UtZlV0ZEhBdUtfUlJGakNMWkRJc1N4MzU0OUtBNnFLMTNQUGRUbzJ5dUZ5NlJldVJtRGRvbThHR1JNeTNiZzF6YXRhUHo3NzdNSXptazJfSkVnZTFMUERjRV9BOWprcWgyVmltNVBPTVBoLTZCV3hhSG1BdmJfbWIyUUJHYmpaNEp6SVhwdFdoc2lmSVlVX1ZDMDBoQ3FZSWpZZTc2dmJXRWtDcU5oRFp6OGhmMVRqdUZfbnN6MHJVTjZEVkV4b204bE8zUG9TT2g5Ylo1YjRab0kxa01uRjVPZWc5dmRWTXU0RXVSZzYtTmdlaDB0aXVValFnS3c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQY2VRVnhVTUo0eWxQVjZoXzVNbTdVYzFDUDRXSUkwUHFvNWI1bHZFNFRDekh6TjBpaDE3UUFlS0NxeHJLd2xISmJHRE9lSjdHM0tWMEZLN3VTbGZFN2JWeU9zMFBiUUJrYkJZby1mNWxWNC1UN3Q5TjVFaUxEX1g1eUl4THdxVXlZOXU1OXA3QmVwUzFHbjFaT3VSUEVBRkhyN29YaEZpeW15enFRd2M3WUg0aFdyVjR1ZmtXYnR2NEhNMk03aWFrTVBFN1VNX05qVi1rcllNRmdJVC0wSzZZeTBMWWliM2tfQzRaVDhvSUVaU0xQLWd4RnBBb1VuYW1JdjcwUGs1YkR4Q0hEV3RIbW5NZnZFbVBXN283VE9Oc280dDNlMlFWRFRFalVVSTR4a0E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-21",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRl9CajNTb05CNTNGUmc1TkthNE9HdmRBQzFhMXktLWJrTDlGcVBtazBYbDllMG1wcTZpRWpSUV9nVGoxYlZFcmxiaG51UGlIV0hKdmVuSzQ0TFJadHJheGtHbnYzOUhjbjhEd2VfR19McDJHMVNqRmNpR0VoUVZGSnB4OExyb2djT2g5dTk3dDJ4Y1RNVmxjQzZpRFZPZVhSTWx4UzI2Z3BDU3VadS0wY0dZRkxjVWdtb3pFTnNQTldIMmstN2N3Y0hGMnZQbkJfSWFCSERxS2V1Yk5LVlFvbGJVV2c2Yk1OUG52ajcwdEJpZlFfeFV1b29WZTJNa01RTUFlR1JvejNFaWk3QlhpWkJtMEpITVR4UUdSTGpWTDJzUUlkT2lwbzVJRGJHUUJURVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRnQ2R1lENDUwQlUwLTdrN1V3ZGFOQzdEWVdrb2F5aEVaa2Y5eVZZZWpwYkNWcDkzVmJEd2RwWUxVbUlkMGljSkZqOTI5NHNYZkRpSVZzaXA0VnZsaFpPdHlLTEY5NGRFMkFKemxLQ09aQ2EtLXFoWGIzZko2TUxFX01EVktpV2s4RHBwdkRVQWl5OWFybUZVT2U3bGZ6Si01TGthZEl3ZGNOMEhNcGo2d3RranBNSkRPR0pOay1mT0FWc0hYaTJrdk82VjZSNkZMV21qRDI2bGNIY21mOXF0QjhhS3NfYnhhenRGZjNTYjUyRlotemx3NnZRTjRJOUlCSzZ2T0RyLTltR0NLYnE0dXpQVFVyWjB0cG5qaG1kdlJNMko4blRmNkgyeldaLWQ2bHc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-09-28",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOVTFJbUx4V2hzaENSa2hMeVJST29uenBDbmtiRDNwMzNZR3lKVEU2NWRlcGdYaEtkS3JPRVp5SDlSNC1sMUI5UXJfeXpxby1pc1lteHduM2Zma2Fobmg4eU14bmpKOW00ZDlkZWtCNFBoTWV5S0cxVjNQOTBkSjhScG03bWlNRXhKWHZLd056UF91WUs3TlhDLVkwZmpxV2lpRk5iNFlTNS1XdXBCZ3R5T1pzRHgwdW1DU0dMN3JudlZPTWlKc2Q4NzFWcXRaSmY5c3Jyalo4Z1JfRUR0SEtCNlFiMlZfZlpPQ2VUWFJsR2V2WDhGM3ZzU2ZFSjBJRTZETndQbE1xajNTSzFUM1VEalFOVlB3eGU3c1RRV01yM1VEbVhpcDFyRE1NZEhQLWpGa2c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWWZlZURYOExaZU1va24zSnZqdzhIRUVxTVAzNkZEc2NZaG9UUUZJSTVXaFhLLWJucEc4VzBlYlMtQnAzQlh5d1VqdXg3eVZKWnFmUGpXanhqLUpHXzZ2NFluWDQ0SE92V245VGhvaDFscDY2Z2dFTTFwdHc1Q3J2QktEb3E0cEtXaF91NVJ0N2YwQTFKdnlfVk51cEswdk9WWUtQS3ppMkF0anpTdGNMTURCeU94QmtDNnZ5RG14SEFlalc3anFVdGozbnhDN3dURm13c1hST2Nfb0VTdTA0cXRaODNXSVg3MHZKeUZId1NEQS02cnNVYjh3cndZU0JnblNJMVFyX3FKZ3JyeG5qdU0wOGh5akRMbENESnpvUktlMVVpUDlybGlEWHlLTlF3ZWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOX0RkalhTTnN4OWJfYlVoQmhmNkEyX2J5eTM5cHF3cEZNd3JKUzlLN1lkOUVSQy1SQ2dsSDlFbERJRnRUdHNSMktZRVloVmNIYk13ZE5UZWVnVkFLay1teENKZndCVGlsZk9vejlrVjNJM2h3N0Rlb1A5ZmdsdlN6bk9hQS0xZW94Mi1JWFlJcGxZeTU3TmdadGhfZXgzeDdqUXBoWG8wQkFUSGZuMWY2ZzZxeEppcThOZmxMcmdLekNwYjc5M29PVDVqbmRGVFozRHZJSGRfRUdXMWViNllxYzZtUER0dU0zdmo5Nm85dDhDM3BibEZYTUVkODB4bC1fV1F6bFdoRWUxLVBCMWJMeE0tTEQ1THNZXy1oblN2cnY3TGlLbmZnQTFfOV9sOTBnUFE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-01",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZmlhUUYtWGdJUWItUjRFU0lzaVZ2MlctMHZXdmVYQmVmSTBRVURxc1g2eGJkSFJqRnUzZHNTX2R2ZHRFS1ZkTWFYcDB0czBLVFM2d1pJWG5XWnY4YzVOVXFYWk9nN2ZaVjNEdEhKSVhmZXEzTDh4M25fV0l0dGJtSjlubk5NM3lIZ1cwTlU0NmthUXpONVVfS1daRGkybk04UVZlbGhaNGZWQ092Mm5jb0U3M2JHbXBodWV1LXpfOUZQZWhZczN2RG5qd1lYRGZ0cEg0T2tIWWk3VkI0WUJSWTF0XzNqT2RyakNfT2V6QVFTemZxSlJ3YTQzOEQweHJzVzhNVEctMVcxNkZfTUVJTTRfcFNOdGZCbldPRG9iWFNvYWliV3Y3UnAwRnJ0SE9Ra3c?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-02",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNVDdRWlJxejdhM0p6YkltU0k0cFRxY3FKVkNSZHpsT1lkQWtFcWM1b0VQVFZWYTBUYVM5dFFIZElTNWE0YTFFMHdIVlo2cHU4SUxRcnZKZ29heGtUVlNtZ1dVSlZ0aENySHZDYUVJa080ZmVUbnJDRm1RRWFHYlYwc1M0ZGR6OS1XVmxkSk9fdDlJS1NQOVhETFpxc2lOR0VQaUxpS1hGMk9oWFFuTzBvN2VMN0lLWmlzV2lfa3VmZHA0MGFETVVvWkZGZmdKdjB4bDJQN3d4aHp0YjhBM1gxbzIzRXMxcENyWUJqbl81MmFlOTdMT1NZcWsxYWdPMVkwRTdEam9oVjB1dEl5LW5sQ0w2SUhIb2RMWjAxYnRnMVVsSUJpYmFiQkJ5OFhOeDRWeEE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQTnZXS0tsMkhxR0xsZHlQVmk2NVZObHhiY1VadEZlVHdEcXFqRi1YaWxaR3lXd0RiZk80SW5xaXl6aGJwN1haVjFNc3JaX0xDdnVIcDRRT29zVy1SQ1BUX1lkSDRvUmhsUDhzWDZDcXNHREdJekZFTHBLNEM1ZzkzOXhCMDFscmNMUEZ1eHZWQVhnMWZuWi1JcGFmYmZJdkZRWGpIRFlYNlhiczdxYjdLZE9Zblp5aWNjM3ZDVzZydE9DVFdxeUo4TU9WUG1yWkNIRGVSY3dXSlZ0NWVxWHNpbGYxQWw0RS1pQjBzUU9LdExEOExlUWpMbmxZTl9tUEg0TmtnVlNqbEJVTmFXQlB3ZHdkWFNUU05KLUhfU1lQSldsN2gxcUNXdWU2NUhVNGp4RVE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-14",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOd3pWQk1vSXdGemhQRnh0N1Eta3JwQXhyTlBQbzNJT2RmSnkxbDZaRDBlVkVtM2JibzFYWmo5ckVaLVdIS09XQ29ycWpKTFptdFBnQ29YXzVOSVByM2NCZ05SclpaVlpCV3hKUmpIZmg5aGNQazR4S3dILXRZYnRPNVJCcEloemtpUk1ncjBoQlE0Y2tkRlh2c25YdGY2VGJXT2dGMllobkpoS3lBYXI1RlM0YnlSX1ZUMFhZbVBTQmJSRFAxZDFiYXQzY1VkU20xS1pCbU00UzJXaGp3X25aRlIwbm5ROFdnaVI2am5EUW82UFIycVVXd3RxWlFXZ3ZoUkdKYmZnWU9jWmU3Y0pxV0w1aVZlcW5uNVVNbEVRQkFHX3FVS0JBeUdPWUNwTVFBYUE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-19",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNSUJveG1CcnN4WnFSR203Mks3eExjRUlmZE4xS2pfMnBOcGk4dkplZC1HUEVMUUZZMW9uc2FBZ3MxU3dEY3lRbkc1U3l0UjM0RWFQcHJ4bnd1a3lLcVo5TUI5S3Brb010aWJKZmtlX24wYTVnMUhDVXNwdkpSLXlXN3otNFg5M3BMZDVUbmUwTGo0SXQxRmVuT1E0VG5rR2VRWjVWMlItZU42U1hZT0NTQUl1RXZ4dUlrdmxzVmxQSXNtSWVtZXZMUWlobXBlRDREZWxtbHl0OW4xaGFfUUlFMGNwb2YtZHhvREZBT1R2ZEZMUng1NElkaXBMcUdjekNvajBITUNVdllZc3lsdWh3Yi1iWDZSMUYtUk9zNnRiLUwzYmhZaHNxWU9kVDZBb1NreGc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSmlrdS1EbHRpaVdPYWFHU2ZiOGJvSndiakVUTlJObHI5QmgwbHluWkVkUDJQZWdYcFF3d1pSUGJtaUNIZDBxc3R4MURsODNRM1AwZDU4MGZXR3F2V2U4NlloQkloNk9fWGhoRDJJSnAwclF6T09WSnFpdEc1SG9MdzYzanlnU2lxV3U3YkgyeVpla3dYeXNfazJpWkV4bDkwYWt4c0RCSHVIeC1oMExUVEZiTVcxbzBmLTN0VUVZSE5hbVFULVhRZTBWWGh2ZGRGRlVOaXI2bmZmX0l3OGRlMElTQXZCVk1raUtHYi1qclprblRKd05hTDdYWkNWUk5aenFzRE1kaF9JczIxcC1xckNJQnJVTWpiRTF0MzhqLWIzXzctVmR3UERwRFY1MEpPWUE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-23",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNa0k2QlNjelg2RURhczFYZHBQQmJPUTVyT3BCSk9XdklOT2RJMnBqbVcwX1FvV2dDUUpvZUtHS1VZbk14YUMtTllqdGhTZ2tXLWxXaE8zVVhBOUFxTlhXSTd1TUxSYjVPanY5OHFZUVZ2em45THU3aXRDMktxT3Y0ckVjZnRNQmNaV3lEcHdxMmFLNkFPekJxLUFoSWlWMW8wTjFOTVlzLXFWUktyM2J6Z1N4Ni1FZlVteW9KLThtczNIRjlNamhFcDBJMV9MUlk2SFIyQzByQWlXNTBaVXFrNnVEdUtENkxUOW9fUHlfMUlwV1FpYTltUnVlbDloVWozOWhFcWNzNDNsejB4SFdzVjJpSjVZbklmd2ZGQTB0QndGcXlmMy1waVhhdjJMS3dBVFE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-27",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWTFJSS1fX1hET1NaLVB2NFpnNTJoSEstWEVHQ1lhWW1LeDVfM2hydHJnTkFKcjNmdlNZWUlYMVpUX3NxVzZnd3ZYb1dQbG15SGg0REdMZ3RmRlV6b2xMMFJYUjhHazJkNTd3VHNLRFZiYkJzOVhWWkpkaEdYRUtoZXRacXFzVFh5X19DZHN4X3FVQ0JDamtFVzROOGdUTmx1QTVMUEpLREpOUll3V2dNWGV1NFl3TUxORHk0c0VzV1RRZmlfb0pNLW5nQm41YWJZeHpzNXR0UGFFN19RUlRxSnZtZGVxQ0tEeGhDNDFvcDR4TE9VaUlIZFNhaFk1Y3MxTDRxbmozeUtaUlIxUG4tM2FKYTdyd3RMYkhPdGlFNW9WeDJZWUlhSnN5WmRsMFM1NWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQclFMdmgwMTgwNzJYbUFwdE5XSVFONUtvWXhxRGNQbkNhZG9scGFtRGNzTkxnZFAwY2NVM25NREMwZGFGYUdUbE9hUkxDOTF4RTBnb1drVHZKcFl3Yl9zWmVjTTBaNFFoWW41Z29SUlQwZnVLQ3VEcWZLV1pvVlN0NFNPWF84QUZ0d2VIUG5KY0VRdldJQ3JGLUxWM3VQWXd2Y0VfQ1hqM2FORUlISFBlRUdOb3dnUlY2NkFZUzlIRk5jTzI5U1V2VWcwTHBaMVU0SjZVVXNvZVRzYkdSa0t6Vm16dmw4dWJDWm5SalVkc3hESkxYNkFjemRnZFluXy1wRGpsRGhYNmI0WVpxN1FCU0s4VjJDNkNaUDRvN2tDdFBOMDdzNThqaV90UG5pQURsZnc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-28",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNFItZ1BxdXNnc084Z1UwR2RBN3BhTGVXVm1ZbGNSQ3ZUdWVWa25nNnQxRjRXdDdnenlGMFBKLU5FR0ZuZ0JHaG8wNFgzWDJZN1dWTlZPNmJ2MHN3U2xlX2ZjMmE0NGVKbVFFLWRYZGwzb2s5R3ZSRF8xNllBdzJTbTJaa1dkV1hDUHc2dVR2OFQ2Ri0zcnRjR2x5OXlYME9acERNTnE3Um15NjFKNVJMZFJmTi15Snp6cU15Y3VmR2EtM0dkc2RkaTc2MkRBeFNTNlZ6cXdNT1M3RVp0czM4SUY5TU13YXRUbzRwczdCOVRlR1JhWkRFbFNCZjFBMXM3djlyeE9JNUtZR2ltNlUyNThrVHNzNjBwMFppMkl1dzlRSnFBbTY3XzNQUWJtb25tQWc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPdHl5Vm9Fb3h2TVN1eHlVY3JSUEpzQUZRWnpGZnJUeXF5aTNRWDkyQzBZdXBYbVVkMDFCMzgyb2hTRHNOeV9MYWZNZXNFVElaOTRYN2lpclBvM1otZlI1Zmh3WWRzaW15N1dSWmtLVllSb1dLWk13dE1tcE54MkxDUkpmM182ZlVOV1FsNzBRTUljc2VnODNNVlI5Yjd5ZVBnSW55OFhhT0dIb3B1X3lyTEtibWxvZ2FNcDJyaE9LRDZUdG9rMDZ4b2U1akQwNDZObnQ3dW1EMk9nMGF6V3dVZ2xsWUx0amFoZEp0MFNwNGc2dmlKcEg1M3RybGxBeW9wMjlsbXdSRDl3SVk2UmJ5SXBCdk1rc2dsOE9uWG9PVUZ5NkJVcnVCbm1UaG4wOW9lN1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQM1BiLWdwYVhNQ05PdndXejJ4R3BoM3g4QzFFb1k4NHBlcmFodldXRDFXX09yV2FldUpvWjZqc08tWEhjVWVZMmpVbk4zcHBCY3BUbVhuZnlkZ0c4Zlo3M1ZsYllvM3FOVlZOeVBVczRJVHkyNU1oN2NFYWxGR2NET1RoeGx1N2tUb3J5bjJtT2hBeG9VZFY4Q1k2QkpKdy1uNl9UT3dUR0p2enFjVWtRdkl6VGRxbzlQdG82VS14aldyVjFKZ3QzU2Jwd0d6d2ltRExmRWw2UWp4ZERWWl9wd3FwZFpYaVkxcEtHeWM3YW1FR0NsYTQ1SGI0SFNnQ3dWb0tuSUU4NjhMbE1wZV83amVwLVhzblVhMDZRMjZtNjJXOXZiVGFMVDF5MnpEWmFIdlE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQMzktVy1mSnpteVQ0YW9raWtjREtGaUhmaWxER29ZNjJ0ZFVMTWF3RjNrYkpyQjhra1dKRHhGaDZDeG9XdVl4WUpfTXh3WUxGX3lmV2hLbF85UkpYcFZ4Z05NN0hxOVRld0ZaeGJQX2llWFF3b2JKUTlPOHV1cUpjeFlJc3BPS3VpUXdObWVXemg4dFVnZ0pPVjhldkZIbjhmMTB5Z0tER2hKdXlvMGxKVnViTHoxb2x0Sm5YeTV5aUNUVGNmS040d2JMLWo5MFdFd2JydWVCbWthTEhJejRTajd4cHloWVZvMmVsV2t3ZnNHUkhuXzltQVVDOXNfWDRvbV8xUTZncnBRWGtfbW9lWnBHTkthREpBQmoyNzRSTjRGN1I5aVJYSGFWMHprbl85clE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "전국법원 주요판결 - 대한민국 법원",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQR1hSRW1lWFRrdV80OXRxeDg1RFJsMldvaHlJdmNDcC1lNXJHdF9ZZXQ4NUFla2NMR0gwTzB0MEdCSlFKY2F5MjRlMHlCdE1FYjR6NVpkVG1NNEJ5aGZyUHNBMzhDOHNFYzU1ZE9CcjhlMEltczdnVF9nbF9FOU1hODhSZUs0NXhHUUJzeXdneWRNMUp5ZnhrX054OVpQZWRDRUh6Q1A2Q3JOeWFQRTY5T0cxSkRITTVKM1pmTVFFckEzUFFRclU5R3hXUGlpSTlMWEtja2l1OFB6WTFiRm9xa3daS1JYRzIxMWh2bVlMYUFLX21QZVNsYXMxX2Vza3FhZ1VGMlZHYUxiaFhhNUhHcXI3RThxWF9QaDh6V2lzaFBvVXVZX0dDRjJGN0Y2WlY2V1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-11T13:08:03+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-12T18:43:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-18T14:05:37+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-08-18T15:00:32+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-08-18T23:07:09+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-08-21T02:15:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-08-21T08:54:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        },
+        {
+          "updatedAt": "2026-08-24T12:33:34+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 8
+        },
+        {
+          "updatedAt": "2026-08-24T17:09:23+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 9
+        },
+        {
+          "updatedAt": "2026-08-25T14:18:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 10
+        },
+        {
+          "updatedAt": "2026-08-31T14:59:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 11
+        },
+        {
+          "updatedAt": "2026-09-02T13:57:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 12
+        },
+        {
+          "updatedAt": "2026-09-02T18:26:59+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 13
+        },
+        {
+          "updatedAt": "2026-09-03T15:23:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 14
+        },
+        {
+          "updatedAt": "2026-09-03T20:38:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 15
+        },
+        {
+          "updatedAt": "2026-09-04T13:17:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 16
+        },
+        {
+          "updatedAt": "2026-09-04T18:00:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 17
+        },
+        {
+          "updatedAt": "2026-09-05T08:54:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 18
+        },
+        {
+          "updatedAt": "2026-09-05T17:32:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 19
+        },
+        {
+          "updatedAt": "2026-09-06T04:21:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 20
+        },
+        {
+          "updatedAt": "2026-09-06T20:16:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 21
+        },
+        {
+          "updatedAt": "2026-09-09T02:23:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 22
+        },
+        {
+          "updatedAt": "2026-09-09T15:34:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 23
+        },
+        {
+          "updatedAt": "2026-09-10T13:25:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 24
+        },
+        {
+          "updatedAt": "2026-09-10T18:05:37+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 25
+        },
+        {
+          "updatedAt": "2026-09-12T18:10:36+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 26
+        },
+        {
+          "updatedAt": "2026-09-13T06:21:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 27
+        },
+        {
+          "updatedAt": "2026-09-15T15:36:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 28
+        },
+        {
+          "updatedAt": "2026-09-16T15:37:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 29
+        },
+        {
+          "updatedAt": "2026-09-16T20:59:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 30
+        },
+        {
+          "updatedAt": "2026-09-18T10:12:26+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 31
+        },
+        {
+          "updatedAt": "2026-09-19T09:07:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 32
+        },
+        {
+          "updatedAt": "2026-09-21T14:20:35+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 33
+        },
+        {
+          "updatedAt": "2026-09-21T20:01:25+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 34
+        },
+        {
+          "updatedAt": "2026-09-28T14:10:18+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 35
+        },
+        {
+          "updatedAt": "2026-09-28T20:55:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 36
+        },
+        {
+          "updatedAt": "2026-10-01T16:40:37+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 37
+        },
+        {
+          "updatedAt": "2026-10-02T00:21:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 38
+        },
+        {
+          "updatedAt": "2026-10-02T05:27:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 39
+        },
+        {
+          "updatedAt": "2026-10-02T14:26:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 40
+        },
+        {
+          "updatedAt": "2026-10-14T15:01:42+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 41
+        },
+        {
+          "updatedAt": "2026-10-15T16:17:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 42
+        },
+        {
+          "updatedAt": "2026-10-19T14:10:52+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 43
+        },
+        {
+          "updatedAt": "2026-10-21T16:25:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 44
+        },
+        {
+          "updatedAt": "2026-10-23T15:25:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 45
+        },
+        {
+          "updatedAt": "2026-10-27T15:09:09+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 46
+        },
+        {
+          "updatedAt": "2026-10-28T16:19:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 47
+        },
+        {
+          "updatedAt": "2026-10-30T11:30:16+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 48
+        },
+        {
+          "updatedAt": "2026-10-30T17:54:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 49
+        },
+        {
+          "updatedAt": "2026-11-03T11:34:35+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 50
+        },
+        {
+          "updatedAt": "2026-11-03T18:57:31+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 51
+        },
+        {
+          "updatedAt": "2026-11-06T00:44:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 52
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
+    },
+    {
+      "id": "20260811-FR-6AD80037-254",
+      "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-11T21:22:30+09:00",
+      "publishedAt": "2026-08-11T21:22:30+09:00",
+      "firstCollectedAt": "2026-08-11T23:47:29+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "외교부 대변인 정례브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDNVAyTHdLa3AyUE5ObnN5a2E2SkltSmlMYTMwX1VfNnJVQ09uUTdUMXpyTWZTU3lmVTM1R3B6dnVrQlJEbXE3UGVuMnJGVTRuOTVPV0U4d1J0RW5FV0lDUjZ6ZDFLaXBodWpjUG9fNjBUd20wSUww?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-14",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQjFpMTJFMkJHSDBDamE1M056cVRRdU41MW5NWTR0eC1NZTZJNEVHT0RQWFBxUUp1WUpvaEhQU2kyLUZvT3Y0ZnN6XzRoendWX2lqSlZWS0FKOXJpejRhTzI2b1NocG5wRUJxYjh3RVNTUTZtTHdn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-27",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GNjcyOVp5SXB6aUFqT1NiUVlUX2xSUXF6andKMFYwLW5zMm51aWNubms1RjdyY3VJTGswTk12Z25rTmlSRVExSGFKQlg1ZEppd25scW9YZ2wwWWlJdlZBLWVWd2xkcEo3SXFxQWNmUFFFTDlMRjhn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UQjFhVU14dm9lZ0U5Q2xsekVvdU5kZEp0Q1UwUHJTdG1HRDFLMmxYR0piekJySGpuVnZId29pSlh2TDhXbnZPazZ4SUVXOFhIYTVDU0lZQkdiaEtheGxVTmljZXFYcGRzZndXc1JNTUV6d0w4X1lj?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51cnUzbk5oYzhmcVF3Tl8yNmtnWkpiNmtYWEZSTm1ITVdDSDBob050YWdKOXRwaExHcGd4cl9rLWhDSW1PelkwTURJenpDVmhqUFhDNkVEMDNTenhmczNlOFB4R3NRMmxTQmEyQTAzSktKR2EzTUVz?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wR0xxcE9rVWkxUDd6OFl5ZTBJQTBFLXJoR1dKTi1lX21yYzd1ZXJBR2UxMVJRZnVvLTZFbkNpOHVSemY5VlZDbUZQbTVwVGtyMmJPWkc1WXUzQzBqM1ctS2RFRklGb242RmE4Q2Z2TU1INllsX3pR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-10-29",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBadlozUmhySnVUT2hwdC1uX1VBY0pGa0FtcmVoQUQtS3NNdFRrRGxlWnJZM3MxSWliajVVZHJJazJCZXNsUnpYb0JtaUxTNGhkVWl3X2JjeHV5TFdycW9PTzJmYWtRY2o2TGpkN0pGanVsbHZfX1B3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KQU5heXZUTkQ5aDJoQlVSTnFCbVBaUVFLejVMZHVWSjZOdDlBWldiOS1hNmdwTVhaR0V6dDVVTVZzMkdSMmpCS3hkSDB2dTM1YTNSVG9iNFRleklEOVllS2k4dTE3MFZUNm5UcW43djhGbjdIa2I0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-14T04:44:30+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-28T09:57:57+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-04T01:19:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-08T18:01:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-22T18:49:46+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-10-29T20:41:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-11-06T00:44:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6ad80037ae7738d6d47b41d19e065cfacea935878d51ca7a18bcd6ec9fcdb106"
+    },
+    {
+      "id": "20261105-DP-529B50D5-2813",
+      "title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T22:32:14+09:00",
+      "publishedAt": "2026-11-05T22:32:14+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가상자산 소득과세 2년 유예 추진…2029년 시행 기반 마련 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsT2pOaG81QmxZdV9nQ0RLd054T043bDNlRXdhQV9LVVFIZDZIemJ1M2pkck1EaGY5UThzX2xvQnl4UXV3Y2FKUU1sWm9zcS1iU1hmeGdwTEVwNVdpQlNqa1dUR29leDRzY2xsVA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "529b50d59fc0756efde35654ff71df9dd77990c313b499dea2fdf6077c053058"
+    },
+    {
+      "id": "20261105-DP-39AC8FDA-2814",
+      "title": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 시드(SEED) 프로젝트 뒷받침 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T18:00:00+09:00",
+      "publishedAt": "2026-11-05T18:00:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 시드(SEED) 프로젝트 뒷받침 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 시드(SEED) 프로젝트 뒷받침 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNUJrb1JwVU1tU1F1LXBSUUFVT3NRRlpJY2RBVjN0RzlLY1A2RUlGVnBZRy00UzZGSDFvOUtHb1A5Y1RqVHdzdkdBVk9zcWJXbkoyb1U5V29aLUNrZFEzTi0xLVRiWm1rS2xZcGtDRHZKaUM0OFhtb2U0RTRFM0tRQWVYZlJfT2RoSE1BWk5yeVYtQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "39ac8fda4af609dc1445c2532e8ecbcaae97c34358bdbfb92d035e122f567c4a"
+    },
+    {
+      "id": "20261105-DP-AC06E84E-2815",
+      "title": "내년 공무원 시험 바뀐다…'PSAT' 첫 시행, 2월·7월 실시 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T17:51:46+09:00",
+      "publishedAt": "2026-11-05T17:51:46+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "내년 공무원 시험 바뀐다…'PSAT' 첫 시행, 2월·7월 실시 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년 공무원 시험 바뀐다…'PSAT' 첫 시행, 2월·7월 실시 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OTWNHQkpZOW90ZVNOdlh6SnVCd2I0cE01X1BSUTNLbDB6VUdVTDdCbFREbmFSVl9zYldEbmUwanpSRVlVQ1VnQmxSZ1VpNjNnS2tPMllHdThwSkE4Qndpd2Vpa3Uwd3pSRHFrdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ac06e84ed6f406edb40130aa6c1026de21ba17793fd153f456fe81ecc9786111"
+    },
+    {
+      "id": "20261105-DP-1577212A-2816",
+      "title": "증인의 위증을 이유로 매매대금 청구 확정판결에 대한 재심을 구하는 사건[대법원 2026. 10. 30. 선고 중요판결] - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T20:23:45+09:00",
+      "publishedAt": "2026-11-05T20:23:45+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "증인의 위증을 이유로 매매대금 청구 확정판결에 대한 재심을 구하는 사건[대법원 2026. 선고 중요판결] 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "증인의 위증을 이유로 매매대금 청구 확정판결에 대한 재심을 구하는 사건[대법원 2026. 10. 30. 선고 중요판결] - 대한민국 법원",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVFdzTXVQVTJMdnNuVm14WDBkS0IybVZoZlBjRS01SmdBRmhxM3F1OHlqVFptTlhseHNnR2ZwMDRLb1ZiNllpQi05aEtfZ2lNMDFzTUo4NWNCSEV6SnNsVFRqTGd6VW91Y0h2WmlhY0U4UmRpcGZlOHpOVmRtZC05MGNURF81N2FDS2pBMnZqQlRyMTI3UnZhVlpxdk9JbEMzQmlNTWFpaGlEeUZVSl84bTB1S3JSZkc3MmQ0Szdic0lMYTVrRm9UV3dvZDJoOGpFaDZtN2NWQVBtbXhvc0JRZHBHUFl2Wjhackk4QVk2U3N3TXZzQUlCY1BFNHcxQzFpWV9Md2d5OE1KYkx3Wlh1UlJqbm9ZODFOWHkzSDNHbXR2LXhYaTc1d0lkVnd4RTlncFVxN3NxRmVta2loaTduZ29xdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1577212a9032f8d2f88fb0744c4040ae1bfd01da595c59f0aff04fd5ad7f3752"
+    },
+    {
+      "id": "20261105-DP-13B01107-2817",
+      "title": "美 중간선거 후 국내외 금융시장 동향 점검 - KDI 경제교육·정보센터",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "선거",
+      "countries": [],
+      "institutions": [
+        "KDI 경제교육·정보센터"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T14:00:00+09:00",
+      "publishedAt": "2026-11-05T14:00:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "美 중간선거 후 국내외 금융시장 동향 점검 KDI 경제교육·정보센터",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "KDI 경제교육·정보센터",
+          "title": "美 중간선거 후 국내외 금융시장 동향 점검 - KDI 경제교육·정보센터",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLYW5BZVRjcUtpSno1SlFUQ0xxaWMxQ0NZcVFxMU5PaTBtSEFsTkY5NHRWN2llekpBTzlFTG5UT0dMaW1MTUtOM1dERFN0dTdreW9sZ2Qwbmo5Q2lEMFRQT1NJdjN0aldVbzBRakY1SVRGWDVXTVE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "13b01107bbcf15578e7e6f0a23aa2efbd25de6606f8b8e908f6b076c63d133cf"
+    },
+    {
+      "id": "20261105-DP-8F8A4056-2818",
+      "title": "(참고자료)「첨단 디스플레이 국가연구플랫폼 구축사업」 예비타당성 조사 통과 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T18:25:42+09:00",
+      "publishedAt": "2026-11-05T18:25:42+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "(참고자료)「첨단 디스플레이 국가연구플랫폼 구축사업」 예비타당성 조사 통과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(참고자료)「첨단 디스플레이 국가연구플랫폼 구축사업」 예비타당성 조사 통과 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjV3WmpGQVJBenMtLW5hVnhaWEUtVFROT3huSXFMcXU5cEw1SURWZFl3S3pDTVNUd2YyM2RzM2FEVjItNGJvM21VRm41TUlabW51aDhGVk1wMlNPN1l0SDZpYzlyVk1VaFBGelpVYVkwOXRPNml0UnliX2lSV21EZnNkN0d3U0RuaERydnloS3F6UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8f8a4056a6ae6370523e5d65e4c6d60da490e22e238d3de0cc06e3d81d6ec584"
+    },
+    {
+      "id": "20261105-DP-8B192CB8-2819",
+      "title": "분할합병에 따른 의제배당소득을 산정할 때 분할법인 주식의 취득가액을 안분하는 기준이 문제 된 사건[대법원 2026. 10. 30. 선고 중요판결] - 판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T20:23:46+09:00",
+      "publishedAt": "2026-11-05T20:23:46+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "분할합병에 따른 의제배당소득을 산정할 때 분할법인 주식의 취득가액을 안분하는 기준이 문제 된 사건[대법원 2026. 선고 중요판결] - 판례속보 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "분할합병에 따른 의제배당소득을 산정할 때 분할법인 주식의 취득가액을 안분하는 기준이 문제 된 사건[대법원 2026. 10. 30. 선고 중요판결] - 판례속보 - 대한민국 법원",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNNzJSZGd6NDllM2ZKak9WRnNpMXYwLU0wOGNubjhIV1ZoMjZoQ3Bpb2lua0lpV2RKbHhpVE9rM3NBT1g1V3E5Q2YzWUlBUVlWMlJYNjVmUGRoZnNiUkFOSDR4SlNlZlJBekJ4WVBiS1NWQzFQT0VYOVByRG56RXl3VjdVclBMZF9ZRVlkWUxodlVPQzNlT2Y1TWlKaXJCMWI5aEliQ0Z5UjI3ZHdGLTJoYVZaUDcwbVlaQzNxY1NQNkx0eHJHQWNfVWdrcVVPdW9ucmdFT3BtSGYwZWtzR1RsR2c5a3ZZMmJuRXlnMGR5OUtzcEtFTnZJU25WTUhGWFdSRzhreUhTT3RjZmI2dTJROEw0NmZTTUNRbjl2c0NFRldNeW9DTjlFb0pFRFFkMHkzcndOeDlyWktYS0VGTjNSV01qcw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8b192cb8c8ba4db5b0638b84bab0aa479b96d6281b3e5af6c39205482c8bd11c"
+    },
+    {
+      "id": "20261105-DP-B01C99DB-2820",
+      "title": "국가별 외국납부세액 공제한도금액을 계산함에 있어 ‘국가’의 의미가 문제 된 사건[대법원 2026. 10. 30. 선고 중요판결] - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T20:23:46+09:00",
+      "publishedAt": "2026-11-05T20:23:46+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "국가별 외국납부세액 공제한도금액을 계산함에 있어 ‘국가’의 의미가 문제 된 사건[대법원 2026. 선고 중요판결] 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "국가별 외국납부세액 공제한도금액을 계산함에 있어 ‘국가’의 의미가 문제 된 사건[대법원 2026. 10. 30. 선고 중요판결] - 대한민국 법원",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPN3hvV3F4SzRmWjhON2lxZmpha3JDZUhPMmNNdUhzTTBqNWtYdGpmczF1czFuZ3labnJ4RFBoZDNiYUp4OXdIZWdTeHhlY2ZkR3JGRkN2WXYzaTJocjRvNEJZckZycDNLbWVtbndXNDBkZXhXNVotdkxxUGhGYjdIUFV0THF6WDAtZnBEVEFkWUJQSVQ0c0xoamFsSDFrc1J0U2NmRTdGT1Y2WUtSRkdiMzFBbkZQbmxNcXFmTmNlakpRbzFFa3dJQldiS3M5ZnptNWIwdG94VzFPWmRHa3ZUVHlHc0tZS0V2dTVKMlBZaXVqb3RSd1F5bTd6ZHk0dE9Rc1hRZ3JvZnNmYUZIYWFybDJZT2JRbXJ2U3dyemwzVGJ2cG0yN2JQbHpaOF9CeHUtR0NjdHlhcV9BYlRzVHJCVUZZRQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b01c99db79b992e98c4c5ec03e368220149bf49c4473aa6cbef2e29b77b07d1f"
+    },
+    {
+      "id": "20261105-DP-91BD8A44-2821",
+      "title": "법인이 분식회계로 과다 납부한 세액의 감액경정 및 환급을 청구한 후 환급방법에 관한 법률조항이 개정된 경우 과세관청이 감액경정을 하면서 관련 부칙규정에 따라 개정 후 법률조항에 따른 환급방법을 적용한 것이 적법한지 여부 등이 문제 된 사건[대법원 2026. 10. - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T20:23:45+09:00",
+      "publishedAt": "2026-11-05T20:23:45+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "법인이 분식회계로 과다 납부한 세액의 감액경정 및 환급을 청구한 후 환급방법에 관한 법률조항이 개정된 경우 과세관청이 감액경정을 하면서 관련 부칙규정에 따라 개정 후 법률조항에 따른 환급방법을 적용한 것이 적법한지 여부 등이 문제 된 사건[대법원 2026.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "법인이 분식회계로 과다 납부한 세액의 감액경정 및 환급을 청구한 후 환급방법에 관한 법률조항이 개정된 경우 과세관청이 감액경정을 하면서 관련 부칙규정에 따라 개정 후 법률조항에 따른 환급방법을 적용한 것이 적법한지 여부 등이 문제 된 사건[대법원 2026. 10. - 대한민국 법원",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPcThrRDZaODE2emJ6Zl9tUGp3NndLT3RNajVPTXduYlJodkVEeFdWbHdtUzF3ZXlmOFgxcGdoVkFyVVFoTF8zbDZPMlBJUjFtaG9tWHc2dFUyVG0ybDNEMzBIZHhfbnBOeUxTNVhiNHY5aUd5Nlp6SlN0R0IwVWRWQi1RMTctUmhCX1RYenp4Vkxub0pNZXMtc1VHUUg1LVNpTVN4WG4yeksxTU9VZTZCZkZTdm1xak1KdnJyQnhxbVh3OGtNOUJZemRtUzVBR2JYU2hMT3MwZDZLVkpXMnpIS05BM2RlOVczdVhNOWwxNV9DRkRtc19sdFZqbkRNS3BWNklGcVZXSnZyZXJ6XzZtemRWeUc4X3JVaXRYMlFaVjRzYkJJTThtMVZfQ2d0SGZTRGlZcUFxd2pZTzB0T3BXbGhJZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "91bd8a44354c75f62e5c38c07f0e54aeee8ab12e64ba916da691a5dc86956a42"
+    },
+    {
+      "id": "20261105-DP-DBEDDF6E-2822",
+      "title": "「제3자 부당개입 문제해결 TF」 7차 회의 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T18:19:18+09:00",
+      "publishedAt": "2026-11-05T18:19:18+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "「제3자 부당개입 문제해결 TF」 7차 회의 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「제3자 부당개입 문제해결 TF」 7차 회의 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZV9pTFZNckRMOUY2NzB1Qnowd2QyYjk2MGZ5VkNjQkY4Zmpzem0xbVpKX3VvenJNQlJzekRqeGxaQ0pRUE5FZ1FlMDFNaFpveGd0UFJvZGFDMnpMVk9pV1ZHVzl0elVuclpEZnVLMmh4YnZ6ak80eFpaa0FaQWJFUV91VE9KR1A2UWFDRzJQcnVqZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dbeddf6e054418e43a838e175a2982f867b883f631ffe86f9f48ece96d75c814"
+    },
+    {
+      "id": "20261105-DP-57E7B615-2823",
+      "title": "곧 아빠가 됩니다…배우자 지원 3종 세트로 준비 완료! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T18:19:36+09:00",
+      "publishedAt": "2026-11-05T18:19:36+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "곧 아빠가 됩니다…배우자 지원 3종 세트로 준비 완료!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "곧 아빠가 됩니다…배우자 지원 3종 세트로 준비 완료! - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ycmtKa3VXRFB4bW82b0ZIWXNKb1NJX3Jybk1JeUJjcU1LY21xYVA3aXZrWmJzdlV3T2xSQTc3RXBjdHdUX2Itd3F3UXNxWWtmb29MU2FwUTFGNDd1am5ycTJOQzZhUzZWLWc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "57e7b61544f3e07eeac2fde58698f3fa26edfbb24c77a5c8e6e48a1c30e8532b"
+    },
+    {
+      "id": "20261104-DP-82551782-2824",
+      "title": "대통령의 Y 1회 [소통] - 대한민국 청와대",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T10:45:00+09:00",
+      "publishedAt": "2026-11-04T10:45:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "대통령의 Y 1회 [소통] 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "대통령의 Y 1회 [소통] - 대한민국 청와대",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VNVlBTzU4a3UtSWNsZ0puUVFiZ0Z4N2YtM0haeTAyTnpLc3R5Y3VvQUFEaW9fYURjNTl3ekpmeldvc04zT0lWMlVzZ1JFUGw3NmlVQXVn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "825517828aeb91152127147f3b6870da5e86e5fd66069ac4687b47befc8ca61a"
+    },
+    {
+      "id": "20261105-DP-E15BCD32-2825",
+      "title": "[보도설명자료] 「전남광주통합특별시 지원위원회 민간위원 반도체 전문가 없어」(11.5.,조선, 중앙, 한경 등) 보도 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T21:20:18+09:00",
+      "publishedAt": "2026-11-05T21:20:18+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "[보도설명자료] 「전남광주통합특별시 지원위원회 민간위원 반도체 전문가 없어」(11.5.,조선, 중앙, 한경 등) 보도 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료] 「전남광주통합특별시 지원위원회 민간위원 반도체 전문가 없어」(11.5.,조선, 중앙, 한경 등) 보도 관련 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5JbEM0bjBJOXkwVE9PZDE0aFBaSXZrNUk3ZjdWUjYtTkdqRWJ4VkRjdkNTZHRLYngtUlJ5YUVpbWRkT2E5UHpEYU9JemhkaXlkeC14d1lEd05keE9fcENERmJ5TGhzYnVsdWE1bFpONA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e15bcd323225df6db42f0a1a30d8cf3746656a2559a98dba8598299adb178068"
+    },
+    {
+      "id": "20261105-DP-36504583-2826",
+      "title": "[보도참고] 국민 다소비 의료기기 해외직구 등 온라인 부당광고 156건 적발 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T08:12:32+09:00",
+      "publishedAt": "2026-11-05T08:12:32+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "[보도참고] 국민 다소비 의료기기 해외직구 등 온라인 부당광고 156건 적발 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도참고] 국민 다소비 의료기기 해외직구 등 온라인 부당광고 156건 적발 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaWpCWXV0cW1ZVEZJOHdFM3otOUlBQ0Nkcm1nUUdNRzBuUmhlRUZKNmlrTDdKWlhNdk9lN1N5ZDg5VENhenRRc1FqLXlNb1RKSkk5dXlGX1RtaDZsMWpEY085c3dRSGVJQ1JSbnYzYVljVFFqdl9uMFlCaGNDT2FwMWdlcWVWNVhZbGhpYm91QVlxdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "365045830005c88dfd53ffca33db10018a052a50b70937dff3d92e291d83fb3d"
+    },
+    {
+      "id": "20261105-DP-9F5DEF4C-2827",
+      "title": "북부지방산림청, 강원특별자치도 양구군 소나무재선충병 신규발생에 따른 긴급 중앙방제대책회의 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T17:57:19+09:00",
+      "publishedAt": "2026-11-05T17:57:19+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "북부지방산림청, 강원특별자치도 양구군 소나무재선충병 신규발생에 따른 긴급 중앙방제대책회의 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "북부지방산림청, 강원특별자치도 양구군 소나무재선충병 신규발생에 따른 긴급 중앙방제대책회의 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54bjZJTjQ2NWsyaDE3dDBGVU1xVkdVLTN6d0VqX0QtR3NUOTFlVzBMRnBMdHdRUElxaGpzTzFQRnRPYzBKTkwtZmhFdXQwRUM5ZGw5WUlzcjJ1SG4yaGNla3FKcWlaYkJkQnZKM0dnMGZyNHZY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9f5def4cb62c22cce513309c5a7a9d3db17765f97708f2547c976083876bacb0"
+    },
+    {
+      "id": "20261105-FR-8154A82D-2828",
+      "title": "해수부, 포괄적·점진적 환태평양경제동반자협정(CPTPP) 관련 어업인 현장 목소리 듣는다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T11:00:00+09:00",
+      "publishedAt": "2026-11-05T11:00:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "해수부, 포괄적·점진적 환태평양경제동반자협정(CPTPP) 관련 어업인 현장 목소리 듣는다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "해수부, 포괄적·점진적 환태평양경제동반자협정(CPTPP) 관련 어업인 현장 목소리 듣는다 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUjZEa0Fna3BGWGNtNEJwMjJ6QmtZbUJrT3pCQmNLRXdRMUVRVnpPMm9EQU5NblIzaU80VFhTdzNreVd4eE5Fb0c3SGxibl9aQnB4OXY5U19MLWcyUFN0S3pBLWdPelJrMjBYS1dTVWhMejY4TFI2Tk0wS01xRmhJeEcwYlQ1bER0dDZTakhqLXUwUmhkYTBpZkdIUVQ0WmtaUW9SNWd0andzQnRqcUtWSDFRb1R5X0NWN25MeEo1NGhZanNiUFVySkxPcG9NNjJ5TVFURElYR1k1SlMyeVdUU043TTlKcW5oYjkwS01nYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8154a82db09b73bb6b82bcd0b7e9c4fd0aefce35e90921970e28d76c75092a74"
+    },
+    {
+      "id": "20261105-FR-55E9902C-2829",
+      "title": "한국, 싱가포르 및 뉴질랜드 3국, 복수국간 그린경제협정 주요진전 평가 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T10:57:40+09:00",
+      "publishedAt": "2026-11-05T10:57:40+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "한국, 싱가포르 및 뉴질랜드 3국, 복수국간 그린경제협정 주요진전 평가 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한국, 싱가포르 및 뉴질랜드 3국, 복수국간 그린경제협정 주요진전 평가 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNY3Axc0M4N0MxcjkxVlhxb0ZHWlUwdXFmVmx2MnRyOVd6RGMtOUw5YlAtYnJ0RXFjSlpMM1YwamRRak9TMFIyeU12SWJ2OXl6NjZQa2FMMmZ6WjRDZEdKZnRwR2VaRF83WmQ4Z1ZoTWplZW5VSUliaDdqT0NRWEF5LW1xcmtuMFJPcEJnSWxqcTNGUXpuUEI4WlRoSGZwbm5VV0lfRWhNOW5vRXFNbmpBLVdpUE1pX21RN190d0ZrX1pJTG5INnhLWlBxZnVUZjZCRjhfR0VwUmEzSXNYUmZfMV9Oa3UxZmFOQ040bXp4bw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "55e9902cd32b4cc00963197124aed21b8ec6a1823724679ce182cc266716ef3b"
+    },
+    {
+      "id": "20261105-FR-E0590DFF-2830",
+      "title": "외교부 중남미국장 베네수엘라 방문 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T17:55:37+09:00",
+      "publishedAt": "2026-11-05T17:55:37+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "외교부 중남미국장 베네수엘라 방문 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 중남미국장 베네수엘라 방문 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVBSd3FSMHJfWlVnUENKWkM3NDJhcENETHFyX25MZ0VEcTVqOTlaYnZjRGVTSHVwVWs0U1o1emhFRHBOWTJuMTZSUG9ma3B3QUgtQmxBempLcjJ0WnY1YnBlSWFaeXU4ZTRlUEZnbjVFazJtMF9Wa0tEYmxHcDR1eU5JMzFMN0FDaVhuX1JYNTdXUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e0590dff12a85a077520ebd4dbc89b8af26dcab9c1aea7c8163d3305dd4fd70d"
+    },
+    {
+      "id": "20261105-FR-2F163ABB-2831",
+      "title": "농촌진흥청은 농업기상재해 조기경보 정보의 현장 활용을 높여 나가겠습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T16:40:47+09:00",
+      "publishedAt": "2026-11-05T16:40:47+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "농촌진흥청은 농업기상재해 조기경보 정보의 현장 활용을 높여 나가겠습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농촌진흥청은 농업기상재해 조기경보 정보의 현장 활용을 높여 나가겠습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTXFfVUgxNjlHQkEtcDRxTEZnYzdhWGZnbEhrUWViY29wYURXQ0gwQ2dnMHRxNU9xS3NDX2JYVlEwaS1peVlLbmd4SUo1QndFd2tmSklxS2NROWppZ0hOTVg4cUhOa2FidGpseDd3WmZ0b29zQzdmeHRfRnh4aVhWVGVESVlhZWIycnE4Vg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2f163abb9e516994287947a42ff1b464d4429afe0bfec347995a0b7c04423878"
+    },
+    {
+      "id": "20261105-FR-B2618325-2832",
+      "title": "청년 기술인재 여러분이 대한민국의 미래입니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T18:15:00+09:00",
+      "publishedAt": "2026-11-05T18:15:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "청년 기술인재 여러분이 대한민국의 미래입니다 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "청년 기술인재 여러분이 대한민국의 미래입니다 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSVgzSTZINms5RGI0eUpoVUROM01mWlBrbjZfTDVTaGVxZ2Nwd054UElDNUd6Qm1QdjdXSElYYkhsTE1wblhjYTZGVlVPV01FMzB2ODk3eWZVN1JoaW52RTA4X2xqU2JuMk00RXRtYlVQdDktTFc1ZWpYQ0JKT1BDbERMZ2RTNTRtb1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b26183258f1f5a37c08b8e0de206fe8a91d8bc3c2d192c643cc2631706674ad4"
+    },
+    {
+      "id": "20261105-FR-1E6E7795-2833",
+      "title": "스트리밍의 미래는? '국제 OTT포럼' 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T11:35:00+09:00",
+      "publishedAt": "2026-11-05T11:35:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "'국제 OTT포럼' 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "스트리밍의 미래는? '국제 OTT포럼' 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN19nZlZXTlRUMmlRM1BoVmdoY3RaLXEzWUY3ZjNvNmdVNmx2eWJzakFaZnR0RWplRld4WkhJclUycGZzdURLQ3MxbHJ2bFhYWmhjMXFlQ2ZoSXV5anZpMEZNcTc4T3lPMzlrcEVzSEdoSGZQWlJFVnJIZUVsT0NNRkVndksxMldWSC1N?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1e6e7795e2b110e625dea8a1e036653d1a43c119ad128cac1951e0b003f3a4b1"
+    },
+    {
+      "id": "20261105-FR-8F4BCF5A-2834",
+      "title": "\"영구임대주택 임차인의 권익 보호는 현재 진행 중\"… 이번에는 여수로 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T08:31:51+09:00",
+      "publishedAt": "2026-11-05T08:31:51+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-06T00:44:15+09:00",
+      "summary": "\"영구임대주택 임차인의 권익 보호는 현재 진행 중\"… 이번에는 여수로 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"영구임대주택 임차인의 권익 보호는 현재 진행 중\"… 이번에는 여수로 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRjlqX1BLNFlsa1lVR19OVnVyMWdlRmlobFY2MU10OVFvZ29hRTdvYkd0LWFPSzRkQjY1cWhwSEVURVFyWDhpX0ctemhyNENvTThnMUVtdVAzdWhrV0RDMVc1R1NiWFFnRWgzUTNkTkEzeU04YnNBWjJ1aDdLRUhhY21sZ3J4MTJodHRvdElaWDV2dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8f4bcf5a26eea1a3e00c72b6f0248ae96a653728069f3a7ddf6ce8648a737e09"
+    },
+    {
       "id": "20261105-FR-B83024C3-2798",
       "title": "재외공관 재외국민 보호 등 운영실태 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -103,46 +2077,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b83024c3907c9256ddaf4f7490af7e88c55f007be0e4cfad4734bf1ef0743276"
-    },
-    {
-      "id": "20261105-FR-DD0763DC-2799",
-      "title": "결혼분야 모니터링 최종결과 및 위반 사업자에 대한 제재 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-05T12:00:00+09:00",
-      "publishedAt": "2026-11-05T12:00:00+09:00",
-      "firstCollectedAt": "2026-11-05T16:16:04+09:00",
-      "updatedAt": "2026-11-05T16:16:04+09:00",
-      "summary": "결혼분야 모니터링 최종결과 및 위반 사업자에 대한 제재 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "결혼분야 모니터링 최종결과 및 위반 사업자에 대한 제재 - 대한민국 정책브리핑",
-          "date": "2026-11-05",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbk9od1BBX1Y3bllPWlFFSE9FcUVKSHRKallYZW9JZ2NMMl9CTWdQNEx4Z00yRDBnWFltWWp0d2N3OV95aDBpM2c0TnF3eldVUnV1bHcyVzhSRnZzcHFXX1E0YUg1MlBiaDQ3aDVmbFhPWU1rVGF5bENvbFNCOWZoUkpKb2lyZU9mZHpibXE3bUZadw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "dd0763dc1da8d88239098e9cd9a290715554a3e99dc6b0411be0f929b90cb0d1"
     },
     {
       "id": "20261105-FR-B04EA045-2800",
@@ -1876,59 +3810,6 @@
       "contentHash": "09ff47f8a0555797ef7f3da64e3cecf66711110c9d33d99c6cfd7f8a08c3737b"
     },
     {
-      "id": "20261104-DP-ECED9D88-2752",
-      "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-04T16:21:53+09:00",
-      "publishedAt": "2026-11-04T16:21:53+09:00",
-      "firstCollectedAt": "2026-11-04T20:28:20+09:00",
-      "updatedAt": "2026-11-05T03:47:48+09:00",
-      "summary": "중기부, 티메프 피해 중소기업 특별만기연장 시행 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
-          "date": "2026-11-04",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVjJxSkc2eVRPQzNmRW14LUhGLVB1ekt0NzNGY3pRQkZQZ0tMQ2dSYUxvbzFWNmFJVjhMTTVtQllEeDdIRjVXUGx4ZHZ6azZDSldZeUZ0cnFUdENjZUpBRHpfNUZOcWtYY0F3TnVRTFpWQ3VUVUJadmt3ck9nOHJ1LThBQmRSTkFZSnFXOUt6ZGVaRkFY?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "중기부, 티메프 피해 중소기업 특별만기연장 시행 - 대한민국 정책브리핑",
-          "date": "2026-11-04",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY19GQV8tQlNMaDkxMTVfd3RaU0ZpWXozWFpPR3BCOTlmZmplZUw3UUxhLTdmc05BWnJnRlhyRlBWcC0tbzBVWllxTzV0UGxZN1Y0ZW52TThpLVJWYXdDbUxPS0JPX2cwTlQxM08zdFlNTkU4dXRhbDJZSTlmZ00yMnlSbDZ5dFB2ZC13eFVDbWtvQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-05T03:47:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "eced9d88047aa3281d852fed86ba8138474b5f01465299e51e666317f6c3c541"
-    },
-    {
       "id": "20261104-DP-C94ED1A2-2755",
       "title": "희귀？중증난치질환자 건강보험 본인부담률 10% → 7% 인하 추진 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -2223,46 +4104,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "102edf20f2687a855812157ff88c286870d657f86fa931993c96868131ec1ee9"
-    },
-    {
-      "id": "20261105-DP-0C6ADEEF-2772",
-      "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-05T00:00:00+09:00",
-      "publishedAt": "2026-11-05T00:00:00+09:00",
-      "firstCollectedAt": "2026-11-05T03:47:48+09:00",
-      "updatedAt": "2026-11-05T03:47:48+09:00",
-      "summary": "내년도 공직적격성평가·국가공무원 시험 일정 발표 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "내년도 공직적격성평가·국가공무원 시험 일정 발표 - 대한민국 정책브리핑",
-          "date": "2026-11-05",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVTd1clF1d19GWGtTbjlkMGRKMEt2QmZWc0hISWFqbklIekc3bFVJaUZETThGY0JRSkRvcGEzVGlqZFdIcEpZNUdWR1Ruc1haNm45ME1KRkE1LTRlZEFwOWlpWnZNOGkwYjJCZlRwRTVSeFQxVm85bjB0MldMUmxWUXN3UXE3SG5SbWVR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0c6adeef21d91851deb2f23dd03f10ae3f8c2e317d088d6b2f9535506fce518f"
     },
     {
       "id": "20261104-DP-F7DC9FEF-2769",
@@ -4894,659 +6735,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2af6931422c1c005090db2b4d85bd3760cfc65ce37661792fdce4ff6eeaa3f66"
-    },
-    {
-      "id": "20260810-DP-56AB35E4-225",
-      "title": "전국법원 주요판결 - 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "헌법·사법",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-10T14:37:13+09:00",
-      "publishedAt": "2026-08-10T14:37:13+09:00",
-      "firstCollectedAt": "2026-08-10T19:04:32+09:00",
-      "updatedAt": "2026-11-03T18:57:31+09:00",
-      "summary": "전국법원 주요판결 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-10",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOQUJKSC05TzBvSm5XT2JjWDdUU2l6QWdhdm1fbjgyYVljMmFYS0pIcXpVRm52SF9BenkxMGF5UEpaaTZiaXVBc1A3WW5BY2gwRVB0YXdGeEEzY3YtRWNXV25Seng5WW4zcWFrSkVYak1pRWtMck5GWEVEM3lzM2JHdjBHTFNJUmM0QTgtTXpLQmswbVF3b2NVNlZ5ZmQ2WWllcVh4T0Z5UXR6X2VRVUI1VFRzODZBamlCV3R6dGc4OEIyX3NkZUxIQk5YaTdXZ2piSTFTRHBCb2puYnRsNzRaYl9oblpDU0JwLU5BMWZmQm9GaEVlVmJSWENTbkNYVTNhVGZXR1ZtVFV0bDlOQmQ3MHdSbUg5SG9NV1k0MlJ3UlJZTXJyOEVSd2RfUVdvS2hQU0E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOTUE4SnpCNWRoNEw2WnJwZlJ4dGFpd0dkTXNhUnlXS2lCd3p5RWdGc1QyVEpVSTZnZjZiVEVyaHBXS1U5RGVzTnN0c2RmZ2RMcy1vS0NaS1lPdEdmVUFTbm8xN0VRemVzX2RUbGJwM0pmRm5sWmtWSjA4Z3hFeW9UU1h3RlNXdzhWWjVsbnNkbHZzZ0plOVZPcUl0WWVDRkZqWll5OFJYa1VkZUpNM2t1RVpWcXJlY1lJUnRpVS1MSXAybFkzX24ydWNaNXFFTk4wUmZYSk44ZGxrVzdoWHhUZ1RsaXlfWTZCZHd3TVZzM2dKdmpjRHFsMDNuQVhXVElGNGFrV1lvb3c0d2p3RU4tU0stMlhBcEswMVFjV0JCU0VxV0xVZmNTQWV4a3VJQzNLOGc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-12",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOck5wN3cxUklyOXFHWFhYcGQ5YlRnanY2Ni1DWElBR3NoZ1FjUFRPNXRSNndPRFZVRy1zRW1JWXU0SE9scnVJRllvMjV5Zjg3eGJoVFRZb2phXzY2NXEwOFNsakNTNlJPWjVzYXFTVkQwOWZWcUw5R0JuVk80YW9LSm8zZlFRU3cyVTk0RjY5dlB4cUE4Qk5pYlFmUTY0VXo2NEFzaHR4OW5lMW40RmRVQ2NwVHItOXh2NGdRa3puaUYwQlA3azBrdHVod3dBQ2c4VlVqd2tqTzRWM0hBTDlxRUVXVFREQzJsMXBSNEZnRlZiMVYtWWE2NW9KNlpDU09tNDMtUFNDZ01TVXlHVDZRYTRPZHp1TlM2TEtvRnRBdkp2bk8xOHMxZVNkOFRDTFg1MWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPd1pkbUJrSnZfdzhPNmtCek1PWUhfYXpLRWZOYkdHbV94b0NnQVkxNE1xdTUydGYyV1NhU3pya1VuNjdZelNiU0lPam04T2JTVlNiWXdnNFdTa1I4X1k4MmlBQnp4N3Vab3lhTjVxNEItNXo3SC1qR2lpal9rLVJoNXBqQTNKZ01jRjZncEgwdXV2M2hRMERsUUVwV1FxQ3RrTV92RmVXVEVLY3FIQWVVOUF2QlVrVU4tMGxjbWlYMkxRWWt1OURYZUh2Q3BINUl1UUZlNU9CZkluZ1R2bjk0bVdibWxibVlkWjNuZ1pFSl9ESzBuRVozVzdMNWJjZ0owUFFzOUNCNmRHOXprQUtYOWpLLVNlZG5yeHlSUkRGcDFGWVU1V2VaZWJzdGdJaWlBWGc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUkhNVGdZeHM5Ynh3cng1aWJ0VXNQc0ZRZzgxXzhzN1A4dVFOQUYzS2F6a0YxbzNzT0VTeFVJUjlSa3h5bzJPa3VFSGxqVmdrUU1pb055M2s3RFZYeVpfNi11alVCOTQyX2N3WkVmXzZrTkxlbUo2QXg0bHEzbnpKeC1BS0FoUDdLMnd2R0RvcVZrU2ZTZ2FKdEhiYWFSZEZ2azZTaFhGREVCc1BFZE1OY0xiSy1RS19FcERWdy1iV241Q0cyeHJJZmpQUzV4cF9qRGZLNG5FTDdNY1RoSEpocHJadEp5NmJTaDdObzV1Z2ExQW8tYmllbk5hMDd3WU9qWUlwREZIV09ka1ZzVkhUcC0wQTFaUkFGeEp0OWlWUVUyUWxnNDZaT2pUa2JSQlRRN2c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPY2lWQ1JMQzNNQkdKaTJxNVFLM0NkbVI4czB5SUxWZ1pKLXo5YkxONktJYjM0enNVdjFyamo1Z3NDVHl3YUlTdl8yWWE2OTNmckRKcDRpVi0xbC1xb0NHTlF6Vnl4Smc0Tm1VYlpjcXdVWVowZzFlbHRzNS01YnBqczI5SUpFVVJQWnVjU1NQQ1ZuR3JJLXQwTHg2VTBxeEF2LWRjellzdWtCMWQwc05JSW9uNjc2Q2JEQnZ4NjUzaTRxdENHa2hxU29OVjBYRzRmeHh0NXdhX1FUUDF0MURZMGZybTZhVmE1eTcyczBMLXphY19OUVdodmpsTWJ1QjgyWi1pT05JZEMyOFgwMkxUZk9IQ3FRNXdMSmlzcUx3cDdGX0hiLXN1bmRxekZNMmJzZ2c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-20",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQQktkcVczenFybEhvVGdVRVN2RFRpZVVSdUhUZmc0NElNZXNyUHpGS1VBd0haa3Y2aUgtOEhkVU9PMi1maUU3UFlidmFNZ1ViNUxLcWMyTVY3N2xiM3dfM1RUZVNJUW5CcDI0bmtJa0FhbEFOQ18tVDRocHJrRU5XcE84R2RxQWhVMEIxWjRfOERhRW1zUUZIdkFOSVpULVI4SEZJMXB0cEhobWdJU2hsc05OM1lSQ3RDYUxnMHBxb0dGU2x6cEwzZGtuYl91UGtGY3JSaHVGS21CZGs3QWMwRnhUejlDX2N2ZEtfRjAwQW5qRzQyRTVLSmh1R0pkSUxrSUdIVWE5b0F4NGFmRWI1RTNWaUJLVmVTaDhwZjNFXzhLaUIzbGduT3FBaVpKcjVzN1E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPSXJrekJocVRmcm5zOXNoWlZ1bFJvRlVaNmpVX3czSExfQjBqdDVJX2h2WFRYbDEtQWNIcWU2OTN5UXBSeDRUVUI2Z2lJNUVOQWxUVWRTTms4OER0MTIyaXFyaHJpU0xHaEZjU3Uzd2xOb1FWVVFSanNkb1VyYkd6SlMzVUMtU19leUtESGdKQlA5ck5SUkctWDZKeVF1UE1jSDZDOXo0U2c3dzU0UEVkb1NtZmUwUk4xQVN2czNSdWdWMFo4TjU3aGRuVlN3VXBHcXNNUEJaTDNFUWhIVGxtYWgxRUx5ay1kWnBaYlZYcHpMQWhxQWxtaVROVUhJSEpSYi05d3lDWDQ3eGwxdTY2Um15aXVTd0VjSl9sSzJvMzl4UjBXM3BqUk5mRnZIVGZEb1E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNZ29sek5Sd2hqXzA3eTVUMkFUbTR3ekQ0cXpkcG12RE94Sm9rR052TEZJMHAwX056cTRGTkNPcnRwWlBGWnZSN1hFa1lUVDVYeVlPRDU5NE4yNEpNNUFKcW1FTkZCSXFoYXV2VG1yQkVJcEdFU2ZFRXpNV3AzNFVFWkQ4ODdrRjlPUnpXYUVTR1J6QjhpUmhGUGZBSnBrMFB4TEVPTTlTZEpQY3V1cFp2eTlBcDFEWnM0ZjVMeXZJUkJVNE1WdkJtbVlaSzlDN3k2WWJJT3NmM00yOXZuazZwTlJtQ0JWSUxCbWo4OG00dmdTU181S0N2aDE1RXVaTlJIRTNEVDJZalQ5TDJrQUVyYW50SzhXQjkxSlFjdDZITEFtSElaNVZkRGp5bmFFeG5JbGc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNLUVvUTQ3VUotN0ZyVEdZSkVSaHRzUkJady1oaHBLQ29HZDU4SzIwTUxhdjNQVVlnWWdfRHZETUZtbHMtejJYVEVDOXh1MW1yRGlsdTdFQ0g3dVJ4ZEl4NlFDaW40dzRvR3JaZTJNTHFZYmJOQ0NJMGpFWWJTWHhZZUdHX3REOUdQVVlud2lHVEhST29RNWJaNkRKZ3NUdE5KZ20xSUZfdTM1OFQwakpXQ3lfbFhkS1haR3hEN3BjNHFpRk4ydE5uVHVRbDNFOFJOaVZob2prUmlZd0JxS2ZBeXlqWnJNY2NLdFM3Tm9mZlhwSWtIMUllVDl1OGVyWFgzS1R5VC1wUjVYaXJtNjExb2w2bDFLby0zaWhWNjZ1MWN4Y2IyY3lnelkwd0JYSnNpTVE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPcFBlR0JlNV9qaVUwOWROOXhJbldheHhjZDFPQUxVV2pBQVJEdXR5R3ItM1JVWmFHUGRrTnl0X2JsalE3QXRfMERYWWVncG5fSWJaWnhNNlg4cHhxcS1DZDN1NkdvS0hKYXdwcS1oakgzNVROYnQwbGZCb3VjTWhhOWliLTNGaU44U2FNMFZJQkJwTVRwLXJMLXFJa09aSDc2T0x5azFkVnh6WEVkMURrYXVYSEUxckpJRVhNSFdNenBDTXA5SE5DLTNITHY5Q2VrN0ZweFhaeEpHdWE2dG1tajBLRDhDbmdJRWRDTVZKSkVNcEpXbExwYkYtcDFtQnhpdll4UUZsemFZWDlob2pJRHNfNld4bzRWN3ZqMzhKcnBQNmxub1FjU2YyUUQ2Y0JKTHc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-08-31",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbnN4SVZ6ejJxRThQQVFMX2FEODkyM2FlUFVEM0VPVEJHVWxneTRvdFFaa2NLdnc2R3VCQ2N4UVFTYmNkWXhlZTJITlBpcldzOENMcExIZXZTaTduTHhINlJBanR3M2VsVVVrcVppOUpFaFJlSWtMZGQ4R3prZGM1RmVXNl8yVzk4NGdCVXdDVktoRDJxX0xCOEEtYW5RNjkzNzFtRjZ6WVpQRW05NjVIc2FnbWs2bG1oWEstLXN6WjBJbmFFel9HMWtVSG1nY0VZM2ZfdFJfNVJONGVaMHlIM3lFWTUzcGhYREJLS01SbGdidVE4RGpVNy12LXRJOWRBWi1ZTWo1SmdJUTZjZUx4Ulp5RTlYZjlsNHlKT0gwN1ZBLXZYVmhoTzRROGpiVHBRcWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOcUx0TW5GTWtWUXRsS3k4SjhuLU1vcVN1VmdOeGVZNV8zYTVDYW5zMlNCNUc1Nk1MSWpRQVhXNlJPbmI1cFhJQXpCbzBrWnRVdjNmRzV6Y2NjTlVtdFVUbDM2cERLaG40UGhvMWktZzU4MnpNWDZ4ZW83MnNIaFJmNHNpVlpsTW5WNmZQU0ExMjFDNktNYnJTZ3htNTZfX3hSUENBcVVTZVVSY3o0b2U5amJPVEtZSnI2ZUZIT1JNamQ3WEQ3cFdTN2dFaS0td2VON3cySm04R3VvcFVxeUN1c25FWkxvWnp5RnJLVEVmNWQxZmdsdTRLZlc3bnJxSFM2VDQwa25Pa0VYQzJFWnB5ZnVwTmhsZ2dHVU9XaFk5Yk5zR1o3WmZ2Vm5Ibk5fMXR5R3c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-02",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOT2FJVFVrMGpfa0NwZURmdEFIUDBHWm9DbFl1a2tvNUZGMUt0TlRVNEl2VTB2WXctUHVGaHBoMU5FV2J0YjI4RWN1aWlMOUZNTlBEU2U3VzczM2hjOWRVSGNoejNJMXJraElDb0Q4SmJBRDZwQU5TY3h6bHlyME94NkpSZkZ3NzdlMmhNVldOSUxFYXU1X05YTGJNUW55TzhBNkYyVzRCTkE1TTdVTDFKcVUzWExOMEMwWUk1dmxWQks1YTNxR2pxRWlTSC1BZFgyU0lsLUtlbW9ENUoxbGNzc29UQ3d4eld0VFZ0QTYzcDZTVGNzUVk5SWNFcHZmdmZwUmlwbzZMMk44ZmE2ZlVIZURwS1lWYUxPb25ja21vZi1RWHRvU1VTbUdfaEFaVFhLU1E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPUDdlV0pQd2J0NTlHclNLVWVRSmladm1yazJuODlpclZRajNyRU5lNWJKNGpHLUJVdDEyRGt0aVBKcEdPYWpMaXE5QmF0cHpVem52YUdUeEVOZnhqQTVMWEx6b2dUb1E5MmhxbGN4TXNYM1Q5MkxDNkNkMmZwNVc5WFlVaDd0WU82UHF4U2JxbGE0Vk02b29fQmhwZ0d2d3M5ekg0YXA5ZTNaM0d6UUlVUXdPa3Z5aWhrTFI1M1N4WXdLM1VSRjhTLTUtenVTN3kzSHlOdWg1Q3dvYmltN3QtYlJfcjVNN0FVbUFkaVJXNldQWUw5Y3JuYmh0bGRMMlpjZ3RZUWY4LS11dzZXck5GWDF0YkhNTWotaHZEdEx6OUtEQjZaSnVXdmh1MExMcE5nb2c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-03",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNQnlFX1JNYVU1N0p4cXd2LWRiRndCOS1VWTAzSnRsZmI4cHdNbUZ5anlUbVdQQ2EtNEVfVk5abEpnaXRZTlZ6Ymh0TDZvRmYwOThHZzEzTmVnQl9ZdTRGa050STlOYi1XaHI5ZXFjS0R2akRxV0VSYm1BaFFLWk9DNzNBaWR1clI5TXp3ZFh5YmdCb1h0S21zYVhDSllEYmMyYnBxQUdsc3A4amRqWF8wT1NPYmRFZzJfVFFqYWh2RDlxX21EQk1HTm1UMDlzTElZVVpNdHMxMXRuMzlvNVFqZnJMTzhfS1RnbkxOZWJGNERJV1lQSlFCZGMtUWd1bjFxeUk1d3Zfc1puRWNsalBST0F4cjNoeGtucUdBUF9EZ0tMYm1lMEdJRUdVUFVyUTIyRnc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOT3dITng4azRSb0prWmR1YjgxMm5fS3VaNUlnb3RqMGlLUFdqT3BLbmdpZnFiOE03S0NQYTFDd3hwRUwyWW9vSmFDNUgwOVlpR1RqUFVrTk5WRzRCOWxkVTc1X2M1SHR6cVduVUpRLThVdUN5TVhQeHJGTGV1WHk0cnJPdVBMWTJzV01TUnctRDVRaGRwMUgwcnZFN3V3YXZpZl9jaTI5anYtY3Z0aURpTnN3aWllbFB5SXNIZHhPM21HZmVYNTlkSjFpOWJ1Z215MFA3QlhTQkN3a3JCTlRpOU03LWV6TWpxWklZWlc3dGhxQjJEUFpkWU1QX0ZmT3ZfRWFTTVZaOElTQ1VmWEZrUTd1aUd4elZQTXpMSlNtX212bTgxeEo5bUZlNjl4cWVfdlE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQV0dsbjdmU3NXdXVYN25PNy1PRkp0cU56R3hoUHg3aExmMWR2bjNTODVXVWFFSmVxTDFMdDJXY3lacUVjeXRTVU44djFVbHVJX3ZHbXVXOVFHSDZ4TDdXMEhPOWZXMHVHOWREZ1YwczNJX2tMUkZXc0E1Q3Yzcm1XU3VwNHVYT05GLXE0MTZIQWdFNHRiS3VncUFRVEtiUGFhZlJPaWJ0VzVmWE1hVk83WVpoQlk3NlRYWThsakRmVU9CdEpYTkZ1Y3I0WTFQczd3dGpUVUw5bWFGS0R4RG9oR3JySFhnMkw3eWZ5RFJPRGdSajEtRWNBSDVfRFAtT2tWTWsyNzB3ekVsVXFyWmJGWFk3YzJQcWstU2FWcHdHN2x2LWpPYXlORk5YOC1vZ0N3REE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNRnpZT3hMUjhIWGlWa2UxV2ZiTURMcmdoa213RFJUbWJKNGZaeEpRdVN5UGFjV2d3Ukp4Y1k5ZFU3TkUtNTB2bmo2NVZLNDhHZUF1Mzk3RkdNWWlBSWk0ZUZyYzlQTjdIaU02VnBzN3NINFBpTWdsdGE2NWJMM3VmaEY5eTFOVHItam9tZkxkZzNhTk14RDRFd3BVblZKaV9HR0pDQm44UjJhc1NDd0gwVzJ2WmhQWWNYRlkzQ0ZQcTM0Z1VVY09qamlkeFpzUk9UUmRyZzZxd3NRSnlQdmVzLUxWU1BOWFVJN2hXal82eGJrd3czTzRXcldYalZqSlJWUVgxaTcwVDd2d3hDLW42ZVJ0RXY4SzJlRG9oOVhGS3owaHh2eW02S2VFQU1kbGxHamc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-05",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOV1Rjb2FUeVVuTFlfY3lmTWE4a1ZMNkJxNThUaTF3NWFGM0Mzdzd0VVJpbDhkVndDQWNJOE1JX3BCQUo4VUhYdEc3cmg3czBEOEVuNE1uc3RwWUZPMEJHNVRzbENkUm90SjdWZEplbF9semhiTVY1OGJfQ2tTbTRndmhyYldwdkstUFJVbHB6UXpCd3BmVzVCZS1EZUdhWU1BdlZlcC1ORFpiaHJSRXVHQ2FWSVkxRVBya29sNkY4NFJveHhWQW9DRmthazgwOTR5a3lqU2t5NWFDMkhyYmZKMmphMGpJTVlQMXVVaFhEWFBPbkhtMGVmamFpUnVpeVliUXRhcFhOWl9PdzRMQVFZVk1qN0djZk8yX09feFVuNXJFeVkzRXR6YXVORDJoalhiMXc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOMzM2U25vSUtvM1JQbmtFZWNlN2g5TU5CZG56d3BJTURlSkVvZWxvblJucXdRZFJaZXIycDItUDRlTk1lYWZ1cndDcm5sdmt6QlFRYlB6Ymg5ajZ5ZG1aSGlyM0lOajJ0aVFCRmFIcXNPZUNvQkZNTnpBT1NkUDFzRHNiY0JMVFBtOXBvVGl6NVN5Wkt0YUxPU1NSTTUtY05GYkZyalR0elZPMG5TV0ZMUGcyYUtOMk0wS3V3Mk9jTFpONDJhcWNsbkRJblhHVFR5Ykp3RTRTQVBsQXJ2Q2h1SklGSWo1QU5kcFlJV2dpWVU0dWQ3bDUwcjVrdkpLQzVGakpJOS03SmtfaDhadTI2TWhFRVBuczB0SEV3aDVKUVZ4ZmdTNWRQYVd3V2dRNnNRVFE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-04",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVVRQdGluS19FV1BpU252ank4WWMzWmxkb2lSZzdLRFQxV1ZYQ1ZBQmhlaDNhRXZvSHhFaUJBc2p2TV9PZ0FNeDRja293YnJCb3lmbDllS2xrT3k2MjJWMVR5azlVZmhIQW1JY0xxNHNYLVdIb2NnZmZJSGpKUzdtNDZWaENueVM3Nl91WEVyaXE4N0RmNl9OVWxpLU9VRmVSb0s2dEJaeDMzMG9FRFZUMHBPMU53YWlITmJCS3RDXzQwdHE1S3BpRHc4WXd0ZVp1WVBJUWdFMjhqUGpKT282THlsZ1JfbGdYOGZMUk1YZVBCbzFLWllFc0ZPLXBPN2FDRDdTVmcwc2RyRXhOTkoxMUt0UjdhWVRjdFEyV0JvZjBHSEhUV1FmTTNmNC0tX3Z5V2c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNMUdkTkpmRFJFTDNxMU9IeWpxNUtRbTlZLUdzT3Z4SElfZUhwLVBBeUMySHdWVlhhMVBlRDVEcnJZVE9TMUlad0F1dm1RSVNWZ2g3QlM1MlVsTnlYWUpPclpKVXpyb0xLZWs5bkozT3hQQ2ZYVnp5RUdjcFQ1b2dlOTRGRllzbGliUXYwNnZxVGlrSXEybUFCV0hmTmRkOElFN2dWRE5FbzI5OVRDV3gxa05aUzRaLW9aLVlHQVBGSzVkTEtrYXk2Zm9hY3pkZW5zb2tOZEd0eEtCbE1VV0x3N3VmUHAyZV9NcVRQSUEwZXRLSURoZlZzbEtITkZqb3JhMi1RSjJMckFsdjJoRmdvOVVwa01hR2RTSTU4YkJCclBfcVE0aUZ5Q1hOWnJBRVNRMEE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQaWlVLTgxOXpwSjJGQktaSWZmVUJucExFMWF0dkJscHJnc2Q4WmRzM0pDYUxMbm9YZ0F2bXJQZ0sxOEpZdXN6Uk9IdUlwZm5yb21mTlRNZ0xEUUNxTWJRQzdxbV9PeVR6V05HRmljX0ZxZzRCSmFuMVBQQlBsOXEyOWRjbEpJQ1g4X3VRcG1ONDBqRE5LN2luc3BMOWg4SzJVdU5GZ1J4YWJpMkRzV3ZFV3BLUWRsYXdCb0lxdTNQVFVkenpDREhjbEhNM2ZQNTlWeWNSbUNBekNpSXJkLWdwRXpfaEdHWUZkY1B2bnV3bkpYeExvSUtzamRqLWNKYzJUUHFaMDd2NVZ3a1NPX08tRk5yZnNUQl9KalJZLVJMZzJDMlpGOG5hSVJwcnU3Tnk0REE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNQm41a3l0WnpldU1rZ3RwMl90d2JFUWVHNUJydHJiTmxva2Vvc1Y3cWxLbW9RQjZUcXFrcFBfSEt0cHpNS3ZsMXJZbHdlVXh3aDdMR2pFX2lIQW45NlJJSGY1Y3N6RVZQRUVLM0YyWnh4enpZSGtETlJoZEZ1bkk3VVUxdVFnbUk5NDJPNHFpU25oS1NNRkVLMnpqNnR3NTQ5Z01pVlZZNGRpRHhnalBWM0pWdFY5dU9MNWtkNGQxX29BdTFzbWFsTVpRTmlEcmtDaEdHSXRpN0d1WTBMMlVfZWY2RXhqN2JaVVBUTzJHMUJIdVlCUV9NTEJzUFZXQks5a1Z2azJmbGd1WjVJXzRVSndod2k0QlN1TzdBMUJaMTZ5YlJGdHZ2TWNfZ1F5YTV4YWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNQXFLT1Jad1BnOFpybnBsVWMzeVJULUdwdThwR254dXVkWm9hTm9WaDZaazNRREZQd3NtRkIyWjZnTG5BUFE3ZWlFNTUwWHMyRTh1M2VHTVlIeEpYSnB4UG5FaU5CQWtwb3JuSy01NHpOeUtBY1JVQ1laaFpTWjRSNVdjaUpKdmJhTkdJYTRrY0V2NHZGa1ZqcnNJQjM3cEE5UkhyRDQwWnhoRkNHZFlLelB3NDA2bFE2a0xuVTljWGx6Y1JWVGdrb05qMkc4VS1uOEtCUlVrTE11N0p4Y3JrN0RkendGY0JtbGlDbE50MHdxTEZHZmI2emFyLU1ueDFhWFJlXzJPVFE3endITURYcFBoaDAwbzFNUWY0aUIyQkdBOVgxam80bjRGZ2UzN3NsVVE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQOTAwMm10QW04cUp1TFd1MVdWTVJKRVNDYzR4ZEd3U0w2b0tZSFphMjhOSjZJVm1IZWEtcGRNRXNoek5nWFU4ZTJqbE1JT1NQUERKVUU3VDAxZ2xHdUdOcVdzTWsyTnpIM3RPbTYtWWFjM2psOFNDZDl3NFp4ams5RXhoRzdubFRpc1Q4WWdjUW5SamdZdERWLURKelA4M2gxcS1GUEF4RmRNWmRnMURPUmMwU20zOU5TRnZSeGZlMjlsb1lTcEdWWmwxeGpickgxWXdOaG56bmp6UDBSTDRXNHJ2aTdFWTdpWW9feXpjNDJ1LUljdXBsMEdmMU9yaVNZTi1sM1dzbE5teTZGamprNGF2TUJGaV9mOER6Z2VkcTNRUmxlNVRyN0hsSDVyamVWZmc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-10",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPYUZGSjZFUHZUYlVQQmZMUFlmMmlxb2VrY3dDUlJHTFc5eDF2QWdBemw5WkpvQTRqSnFqZEc0YXFJSHNTQkZzeUNhWUZVTS16c0JIYjVzTDhZQzgyZURuX0dsMmhKSnFRSWkzMFBCTERiMmNCUE5JMm9fLWtxVXBmQktlQmdQLXAtc05Wa2RiSlBFVU5TeEVMczQ4MVBhNmpyb3RCdzlSa3M5N1JVd3lGQUxSUU5jMjAxNG82VGh0Yjk0YTI1cFV5Q0xnbFlpOXJ2SnA4SjJjb2IyVmEtOEpROEhPZzRuZV92NTJ0OENWXzA5T2JWOHcwem8yUGdaZzh3NXRHQ3dWdlRwRHdGWXVaN09NbE9pVGw0WHNPS0toY0ttS18zLUcxUUJzaUNNZWlzT0E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQUkg5RDZGdGwySEVjMVJ1ZGZGUjY0eFo2bDJHandBVkY4UXppWHVIZWF6Nk4zbjJEc0pUTUxDY1JXNFlKcm9xeHhNVThocFR6VjJMV21SOFpCQ3Z5SXJPcV93Zl9LZFAtMjNqRnIya1Y3VHI5djM4Ylh6RmFrRFlUTG1IVDVTZVVKdlozcW1SVlNOWElTcDJmUmY1bVVlQ01ZOVk5dl9jOUFjR01ZQnhmRVN4RTV2cmxzLW1oTWlsQmR0YW91bG1qVzhpZkNNWGd1eGI1R0p5LUJUNFFaSzJYZjZTMTdpcTFUVHgxVHpnbVhJekhRR0hPcnVOajhnSFo1ZWdDMTJUTWcyTEhkMGRQZ3RKMTZuejRPRVNPQl95TmNMaXdrZVJMTDc5RXl2bXAzQlE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOTHZEZnRZY2o3NnJFckRLdTVZb1NxNGtuTG9iaU0wdVBhVVFPNU4zV1R6aVFaS242WmJzbGpvZVdRN2ZVV3R5MldBSDlaNGF0UGtNQXMtamhsSzQzYlNVOFFYb19keWxEdG1VbVFMajJFb2oySjgtTlZiUWE5Mm9NdVZnSWRsem5NUlZkWWdlOGxUV2ZZNEJsQzlpZXBsOGgtbXRlN0RGZ2RtZVduek5kR3FEMFdpdS0yWG5ROEJGSlhBbEVQMWc4RDI5c3V0YndpczNlTXQ5VHY5S2NXV3llUk9vSkNTMWJ0STZTM0JCSi1oQ2ZCa2c4TmJrMUF0dC1NeHRMTnZjRTNNWmFhNWVKdnJrcGZZNUV6TFVmNTh4ckY2S0k5c1NXNFNSdFhaQ0JyVmc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQeERHOFFORUxESWFHZHZRVHJEenlhNDZfOFVfcXNzdFBiVWZGN3F1dW4ydnlEaGJGS3hmRHdtZnVTWUNHVjg1M3dvR1JReFdXdFFMY2w1cHJ3aTcxT0E1S3ZtTmpNZFBwZnA1c3FaaTdPXy1rT0ZMRndfMlNZSUtXQ2VNUVF5YWxzUWhVeXE0MlJyMXpieklnVWRzT0h2aUtBTlZ0cEhxZFZ1bEZKNVE3bk1aUnY0ZEtlX3BqbVBjMDFFVHBtUjB2dXRXUHNrTk9Ed0xFV1JuLTZ2NExncl91OWJKS1NZeW1TS09pSU9jNXpfcDhRWmtlaGxxT29JZE15X3Iwb3doaF84MTh3V1J2eVIxNk9yNXF6X3prTEE4djFOdlZnNi1xSWNBR0prZ2M0LWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOWV9mQVNOYldsODhEVjJleXVYYlhTYUZlaWMwRmQ2LXdYSkdfY0dVY0ZZeE5lU2VuTHpXZ0w4RFJmcXpTMFBCamdiNHl6Tmp1ajdJYlNRWUN4VGF6RjQ3SENkVWUxdVR3SHB1dWgxRHZlOTZpVGRmVDRxWnNRU25hYV9tUnB1Y2R4M1NFc1dMcGtQMnZKeXVwQUhzaHhpM2pTd0pHOEN0VGxrNHp4elJJLVpIcXpHVm1GMXV3TWE4UnFvUTNQTDVJbW1FNWJkbXBHT0dfb1lYaUVrZ0NuUk5KZFJJc2pKeFhXSWZyZ25Pb0tWS1RSTmFYVnJIVHJfb0JfeWN0RjZWWV9wTUhvSzdLUHpVMS1pM2hOY21QS0FQQXRYMEkyVXBfZkgtX1U1Ym0xOUE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQdFZQQ3JuREQ2UWhhSTNrVHBOSS1vUGpGUFBJYk04WGxCMFhnLXptbE1uMEFRU2EzWldqQ3UtZlV0ZEhBdUtfUlJGakNMWkRJc1N4MzU0OUtBNnFLMTNQUGRUbzJ5dUZ5NlJldVJtRGRvbThHR1JNeTNiZzF6YXRhUHo3NzdNSXptazJfSkVnZTFMUERjRV9BOWprcWgyVmltNVBPTVBoLTZCV3hhSG1BdmJfbWIyUUJHYmpaNEp6SVhwdFdoc2lmSVlVX1ZDMDBoQ3FZSWpZZTc2dmJXRWtDcU5oRFp6OGhmMVRqdUZfbnN6MHJVTjZEVkV4b204bE8zUG9TT2g5Ylo1YjRab0kxa01uRjVPZWc5dmRWTXU0RXVSZzYtTmdlaDB0aXVValFnS3c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQY2VRVnhVTUo0eWxQVjZoXzVNbTdVYzFDUDRXSUkwUHFvNWI1bHZFNFRDekh6TjBpaDE3UUFlS0NxeHJLd2xISmJHRE9lSjdHM0tWMEZLN3VTbGZFN2JWeU9zMFBiUUJrYkJZby1mNWxWNC1UN3Q5TjVFaUxEX1g1eUl4THdxVXlZOXU1OXA3QmVwUzFHbjFaT3VSUEVBRkhyN29YaEZpeW15enFRd2M3WUg0aFdyVjR1ZmtXYnR2NEhNMk03aWFrTVBFN1VNX05qVi1rcllNRmdJVC0wSzZZeTBMWWliM2tfQzRaVDhvSUVaU0xQLWd4RnBBb1VuYW1JdjcwUGs1YkR4Q0hEV3RIbW5NZnZFbVBXN283VE9Oc280dDNlMlFWRFRFalVVSTR4a0E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-21",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRl9CajNTb05CNTNGUmc1TkthNE9HdmRBQzFhMXktLWJrTDlGcVBtazBYbDllMG1wcTZpRWpSUV9nVGoxYlZFcmxiaG51UGlIV0hKdmVuSzQ0TFJadHJheGtHbnYzOUhjbjhEd2VfR19McDJHMVNqRmNpR0VoUVZGSnB4OExyb2djT2g5dTk3dDJ4Y1RNVmxjQzZpRFZPZVhSTWx4UzI2Z3BDU3VadS0wY0dZRkxjVWdtb3pFTnNQTldIMmstN2N3Y0hGMnZQbkJfSWFCSERxS2V1Yk5LVlFvbGJVV2c2Yk1OUG52ajcwdEJpZlFfeFV1b29WZTJNa01RTUFlR1JvejNFaWk3QlhpWkJtMEpITVR4UUdSTGpWTDJzUUlkT2lwbzVJRGJHUUJURVE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPRnQ2R1lENDUwQlUwLTdrN1V3ZGFOQzdEWVdrb2F5aEVaa2Y5eVZZZWpwYkNWcDkzVmJEd2RwWUxVbUlkMGljSkZqOTI5NHNYZkRpSVZzaXA0VnZsaFpPdHlLTEY5NGRFMkFKemxLQ09aQ2EtLXFoWGIzZko2TUxFX01EVktpV2s4RHBwdkRVQWl5OWFybUZVT2U3bGZ6Si01TGthZEl3ZGNOMEhNcGo2d3RranBNSkRPR0pOay1mT0FWc0hYaTJrdk82VjZSNkZMV21qRDI2bGNIY21mOXF0QjhhS3NfYnhhenRGZjNTYjUyRlotemx3NnZRTjRJOUlCSzZ2T0RyLTltR0NLYnE0dXpQVFVyWjB0cG5qaG1kdlJNMko4blRmNkgyeldaLWQ2bHc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-09-28",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOVTFJbUx4V2hzaENSa2hMeVJST29uenBDbmtiRDNwMzNZR3lKVEU2NWRlcGdYaEtkS3JPRVp5SDlSNC1sMUI5UXJfeXpxby1pc1lteHduM2Zma2Fobmg4eU14bmpKOW00ZDlkZWtCNFBoTWV5S0cxVjNQOTBkSjhScG03bWlNRXhKWHZLd056UF91WUs3TlhDLVkwZmpxV2lpRk5iNFlTNS1XdXBCZ3R5T1pzRHgwdW1DU0dMN3JudlZPTWlKc2Q4NzFWcXRaSmY5c3Jyalo4Z1JfRUR0SEtCNlFiMlZfZlpPQ2VUWFJsR2V2WDhGM3ZzU2ZFSjBJRTZETndQbE1xajNTSzFUM1VEalFOVlB3eGU3c1RRV01yM1VEbVhpcDFyRE1NZEhQLWpGa2c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWWZlZURYOExaZU1va24zSnZqdzhIRUVxTVAzNkZEc2NZaG9UUUZJSTVXaFhLLWJucEc4VzBlYlMtQnAzQlh5d1VqdXg3eVZKWnFmUGpXanhqLUpHXzZ2NFluWDQ0SE92V245VGhvaDFscDY2Z2dFTTFwdHc1Q3J2QktEb3E0cEtXaF91NVJ0N2YwQTFKdnlfVk51cEswdk9WWUtQS3ppMkF0anpTdGNMTURCeU94QmtDNnZ5RG14SEFlalc3anFVdGozbnhDN3dURm13c1hST2Nfb0VTdTA0cXRaODNXSVg3MHZKeUZId1NEQS02cnNVYjh3cndZU0JnblNJMVFyX3FKZ3JyeG5qdU0wOGh5akRMbENESnpvUktlMVVpUDlybGlEWHlLTlF3ZWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOX0RkalhTTnN4OWJfYlVoQmhmNkEyX2J5eTM5cHF3cEZNd3JKUzlLN1lkOUVSQy1SQ2dsSDlFbERJRnRUdHNSMktZRVloVmNIYk13ZE5UZWVnVkFLay1teENKZndCVGlsZk9vejlrVjNJM2h3N0Rlb1A5ZmdsdlN6bk9hQS0xZW94Mi1JWFlJcGxZeTU3TmdadGhfZXgzeDdqUXBoWG8wQkFUSGZuMWY2ZzZxeEppcThOZmxMcmdLekNwYjc5M29PVDVqbmRGVFozRHZJSGRfRUdXMWViNllxYzZtUER0dU0zdmo5Nm85dDhDM3BibEZYTUVkODB4bC1fV1F6bFdoRWUxLVBCMWJMeE0tTEQ1THNZXy1oblN2cnY3TGlLbmZnQTFfOV9sOTBnUFE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-01",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQZmlhUUYtWGdJUWItUjRFU0lzaVZ2MlctMHZXdmVYQmVmSTBRVURxc1g2eGJkSFJqRnUzZHNTX2R2ZHRFS1ZkTWFYcDB0czBLVFM2d1pJWG5XWnY4YzVOVXFYWk9nN2ZaVjNEdEhKSVhmZXEzTDh4M25fV0l0dGJtSjlubk5NM3lIZ1cwTlU0NmthUXpONVVfS1daRGkybk04UVZlbGhaNGZWQ092Mm5jb0U3M2JHbXBodWV1LXpfOUZQZWhZczN2RG5qd1lYRGZ0cEg0T2tIWWk3VkI0WUJSWTF0XzNqT2RyakNfT2V6QVFTemZxSlJ3YTQzOEQweHJzVzhNVEctMVcxNkZfTUVJTTRfcFNOdGZCbldPRG9iWFNvYWliV3Y3UnAwRnJ0SE9Ra3c?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-02",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNVDdRWlJxejdhM0p6YkltU0k0cFRxY3FKVkNSZHpsT1lkQWtFcWM1b0VQVFZWYTBUYVM5dFFIZElTNWE0YTFFMHdIVlo2cHU4SUxRcnZKZ29heGtUVlNtZ1dVSlZ0aENySHZDYUVJa080ZmVUbnJDRm1RRWFHYlYwc1M0ZGR6OS1XVmxkSk9fdDlJS1NQOVhETFpxc2lOR0VQaUxpS1hGMk9oWFFuTzBvN2VMN0lLWmlzV2lfa3VmZHA0MGFETVVvWkZGZmdKdjB4bDJQN3d4aHp0YjhBM1gxbzIzRXMxcENyWUJqbl81MmFlOTdMT1NZcWsxYWdPMVkwRTdEam9oVjB1dEl5LW5sQ0w2SUhIb2RMWjAxYnRnMVVsSUJpYmFiQkJ5OFhOeDRWeEE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQTnZXS0tsMkhxR0xsZHlQVmk2NVZObHhiY1VadEZlVHdEcXFqRi1YaWxaR3lXd0RiZk80SW5xaXl6aGJwN1haVjFNc3JaX0xDdnVIcDRRT29zVy1SQ1BUX1lkSDRvUmhsUDhzWDZDcXNHREdJekZFTHBLNEM1ZzkzOXhCMDFscmNMUEZ1eHZWQVhnMWZuWi1JcGFmYmZJdkZRWGpIRFlYNlhiczdxYjdLZE9Zblp5aWNjM3ZDVzZydE9DVFdxeUo4TU9WUG1yWkNIRGVSY3dXSlZ0NWVxWHNpbGYxQWw0RS1pQjBzUU9LdExEOExlUWpMbmxZTl9tUEg0TmtnVlNqbEJVTmFXQlB3ZHdkWFNUU05KLUhfU1lQSldsN2gxcUNXdWU2NUhVNGp4RVE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-14",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOd3pWQk1vSXdGemhQRnh0N1Eta3JwQXhyTlBQbzNJT2RmSnkxbDZaRDBlVkVtM2JibzFYWmo5ckVaLVdIS09XQ29ycWpKTFptdFBnQ29YXzVOSVByM2NCZ05SclpaVlpCV3hKUmpIZmg5aGNQazR4S3dILXRZYnRPNVJCcEloemtpUk1ncjBoQlE0Y2tkRlh2c25YdGY2VGJXT2dGMllobkpoS3lBYXI1RlM0YnlSX1ZUMFhZbVBTQmJSRFAxZDFiYXQzY1VkU20xS1pCbU00UzJXaGp3X25aRlIwbm5ROFdnaVI2am5EUW82UFIycVVXd3RxWlFXZ3ZoUkdKYmZnWU9jWmU3Y0pxV0w1aVZlcW5uNVVNbEVRQkFHX3FVS0JBeUdPWUNwTVFBYUE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-19",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNSUJveG1CcnN4WnFSR203Mks3eExjRUlmZE4xS2pfMnBOcGk4dkplZC1HUEVMUUZZMW9uc2FBZ3MxU3dEY3lRbkc1U3l0UjM0RWFQcHJ4bnd1a3lLcVo5TUI5S3Brb010aWJKZmtlX24wYTVnMUhDVXNwdkpSLXlXN3otNFg5M3BMZDVUbmUwTGo0SXQxRmVuT1E0VG5rR2VRWjVWMlItZU42U1hZT0NTQUl1RXZ4dUlrdmxzVmxQSXNtSWVtZXZMUWlobXBlRDREZWxtbHl0OW4xaGFfUUlFMGNwb2YtZHhvREZBT1R2ZEZMUng1NElkaXBMcUdjekNvajBITUNVdllZc3lsdWh3Yi1iWDZSMUYtUk9zNnRiLUwzYmhZaHNxWU9kVDZBb1NreGc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSmlrdS1EbHRpaVdPYWFHU2ZiOGJvSndiakVUTlJObHI5QmgwbHluWkVkUDJQZWdYcFF3d1pSUGJtaUNIZDBxc3R4MURsODNRM1AwZDU4MGZXR3F2V2U4NlloQkloNk9fWGhoRDJJSnAwclF6T09WSnFpdEc1SG9MdzYzanlnU2lxV3U3YkgyeVpla3dYeXNfazJpWkV4bDkwYWt4c0RCSHVIeC1oMExUVEZiTVcxbzBmLTN0VUVZSE5hbVFULVhRZTBWWGh2ZGRGRlVOaXI2bmZmX0l3OGRlMElTQXZCVk1raUtHYi1qclprblRKd05hTDdYWkNWUk5aenFzRE1kaF9JczIxcC1xckNJQnJVTWpiRTF0MzhqLWIzXzctVmR3UERwRFY1MEpPWUE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-23",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNa0k2QlNjelg2RURhczFYZHBQQmJPUTVyT3BCSk9XdklOT2RJMnBqbVcwX1FvV2dDUUpvZUtHS1VZbk14YUMtTllqdGhTZ2tXLWxXaE8zVVhBOUFxTlhXSTd1TUxSYjVPanY5OHFZUVZ2em45THU3aXRDMktxT3Y0ckVjZnRNQmNaV3lEcHdxMmFLNkFPekJxLUFoSWlWMW8wTjFOTVlzLXFWUktyM2J6Z1N4Ni1FZlVteW9KLThtczNIRjlNamhFcDBJMV9MUlk2SFIyQzByQWlXNTBaVXFrNnVEdUtENkxUOW9fUHlfMUlwV1FpYTltUnVlbDloVWozOWhFcWNzNDNsejB4SFdzVjJpSjVZbklmd2ZGQTB0QndGcXlmMy1waVhhdjJMS3dBVFE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-27",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPWTFJSS1fX1hET1NaLVB2NFpnNTJoSEstWEVHQ1lhWW1LeDVfM2hydHJnTkFKcjNmdlNZWUlYMVpUX3NxVzZnd3ZYb1dQbG15SGg0REdMZ3RmRlV6b2xMMFJYUjhHazJkNTd3VHNLRFZiYkJzOVhWWkpkaEdYRUtoZXRacXFzVFh5X19DZHN4X3FVQ0JDamtFVzROOGdUTmx1QTVMUEpLREpOUll3V2dNWGV1NFl3TUxORHk0c0VzV1RRZmlfb0pNLW5nQm41YWJZeHpzNXR0UGFFN19RUlRxSnZtZGVxQ0tEeGhDNDFvcDR4TE9VaUlIZFNhaFk1Y3MxTDRxbmozeUtaUlIxUG4tM2FKYTdyd3RMYkhPdGlFNW9WeDJZWUlhSnN5WmRsMFM1NWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQclFMdmgwMTgwNzJYbUFwdE5XSVFONUtvWXhxRGNQbkNhZG9scGFtRGNzTkxnZFAwY2NVM25NREMwZGFGYUdUbE9hUkxDOTF4RTBnb1drVHZKcFl3Yl9zWmVjTTBaNFFoWW41Z29SUlQwZnVLQ3VEcWZLV1pvVlN0NFNPWF84QUZ0d2VIUG5KY0VRdldJQ3JGLUxWM3VQWXd2Y0VfQ1hqM2FORUlISFBlRUdOb3dnUlY2NkFZUzlIRk5jTzI5U1V2VWcwTHBaMVU0SjZVVXNvZVRzYkdSa0t6Vm16dmw4dWJDWm5SalVkc3hESkxYNkFjemRnZFluXy1wRGpsRGhYNmI0WVpxN1FCU0s4VjJDNkNaUDRvN2tDdFBOMDdzNThqaV90UG5pQURsZnc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-28",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNFItZ1BxdXNnc084Z1UwR2RBN3BhTGVXVm1ZbGNSQ3ZUdWVWa25nNnQxRjRXdDdnenlGMFBKLU5FR0ZuZ0JHaG8wNFgzWDJZN1dWTlZPNmJ2MHN3U2xlX2ZjMmE0NGVKbVFFLWRYZGwzb2s5R3ZSRF8xNllBdzJTbTJaa1dkV1hDUHc2dVR2OFQ2Ri0zcnRjR2x5OXlYME9acERNTnE3Um15NjFKNVJMZFJmTi15Snp6cU15Y3VmR2EtM0dkc2RkaTc2MkRBeFNTNlZ6cXdNT1M3RVp0czM4SUY5TU13YXRUbzRwczdCOVRlR1JhWkRFbFNCZjFBMXM3djlyeE9JNUtZR2ltNlUyNThrVHNzNjBwMFppMkl1dzlRSnFBbTY3XzNQUWJtb25tQWc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPdHl5Vm9Fb3h2TVN1eHlVY3JSUEpzQUZRWnpGZnJUeXF5aTNRWDkyQzBZdXBYbVVkMDFCMzgyb2hTRHNOeV9MYWZNZXNFVElaOTRYN2lpclBvM1otZlI1Zmh3WWRzaW15N1dSWmtLVllSb1dLWk13dE1tcE54MkxDUkpmM182ZlVOV1FsNzBRTUljc2VnODNNVlI5Yjd5ZVBnSW55OFhhT0dIb3B1X3lyTEtibWxvZ2FNcDJyaE9LRDZUdG9rMDZ4b2U1akQwNDZObnQ3dW1EMk9nMGF6V3dVZ2xsWUx0amFoZEp0MFNwNGc2dmlKcEg1M3RybGxBeW9wMjlsbXdSRDl3SVk2UmJ5SXBCdk1rc2dsOE9uWG9PVUZ5NkJVcnVCbm1UaG4wOW9lN1E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-11-03",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQM1BiLWdwYVhNQ05PdndXejJ4R3BoM3g4QzFFb1k4NHBlcmFodldXRDFXX09yV2FldUpvWjZqc08tWEhjVWVZMmpVbk4zcHBCY3BUbVhuZnlkZ0c4Zlo3M1ZsYllvM3FOVlZOeVBVczRJVHkyNU1oN2NFYWxGR2NET1RoeGx1N2tUb3J5bjJtT2hBeG9VZFY4Q1k2QkpKdy1uNl9UT3dUR0p2enFjVWtRdkl6VGRxbzlQdG82VS14aldyVjFKZ3QzU2Jwd0d6d2ltRExmRWw2UWp4ZERWWl9wd3FwZFpYaVkxcEtHeWM3YW1FR0NsYTQ1SGI0SFNnQ3dWb0tuSUU4NjhMbE1wZV83amVwLVhzblVhMDZRMjZtNjJXOXZiVGFMVDF5MnpEWmFIdlE?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 법원",
-          "title": "전국법원 주요판결 - 대한민국 법원",
-          "date": "2026-11-03",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQMzktVy1mSnpteVQ0YW9raWtjREtGaUhmaWxER29ZNjJ0ZFVMTWF3RjNrYkpyQjhra1dKRHhGaDZDeG9XdVl4WUpfTXh3WUxGX3lmV2hLbF85UkpYcFZ4Z05NN0hxOVRld0ZaeGJQX2llWFF3b2JKUTlPOHV1cUpjeFlJc3BPS3VpUXdObWVXemg4dFVnZ0pPVjhldkZIbjhmMTB5Z0tER2hKdXlvMGxKVnViTHoxb2x0Sm5YeTV5aUNUVGNmS040d2JMLWo5MFdFd2JydWVCbWthTEhJejRTajd4cHloWVZvMmVsV2t3ZnNHUkhuXzltQVVDOXNfWDRvbV8xUTZncnBRWGtfbW9lWnBHTkthREpBQmoyNzRSTjRGN1I5aVJYSGFWMHprbl85clE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-11T13:08:03+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-12T18:43:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-18T14:05:37+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-08-18T15:00:32+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-08-18T23:07:09+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-08-21T02:15:12+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        },
-        {
-          "updatedAt": "2026-08-21T08:54:54+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 7
-        },
-        {
-          "updatedAt": "2026-08-24T12:33:34+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 8
-        },
-        {
-          "updatedAt": "2026-08-24T17:09:23+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 9
-        },
-        {
-          "updatedAt": "2026-08-25T14:18:08+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 10
-        },
-        {
-          "updatedAt": "2026-08-31T14:59:52+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 11
-        },
-        {
-          "updatedAt": "2026-09-02T13:57:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 12
-        },
-        {
-          "updatedAt": "2026-09-02T18:26:59+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 13
-        },
-        {
-          "updatedAt": "2026-09-03T15:23:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 14
-        },
-        {
-          "updatedAt": "2026-09-03T20:38:08+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 15
-        },
-        {
-          "updatedAt": "2026-09-04T13:17:05+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 16
-        },
-        {
-          "updatedAt": "2026-09-04T18:00:14+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 17
-        },
-        {
-          "updatedAt": "2026-09-05T08:54:56+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 18
-        },
-        {
-          "updatedAt": "2026-09-05T17:32:05+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 19
-        },
-        {
-          "updatedAt": "2026-09-06T04:21:17+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 20
-        },
-        {
-          "updatedAt": "2026-09-06T20:16:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 21
-        },
-        {
-          "updatedAt": "2026-09-09T02:23:30+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 22
-        },
-        {
-          "updatedAt": "2026-09-09T15:34:42+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 23
-        },
-        {
-          "updatedAt": "2026-09-10T13:25:27+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 24
-        },
-        {
-          "updatedAt": "2026-09-10T18:05:37+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 25
-        },
-        {
-          "updatedAt": "2026-09-12T18:10:36+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 26
-        },
-        {
-          "updatedAt": "2026-09-13T06:21:27+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 27
-        },
-        {
-          "updatedAt": "2026-09-15T15:36:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 28
-        },
-        {
-          "updatedAt": "2026-09-16T15:37:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 29
-        },
-        {
-          "updatedAt": "2026-09-16T20:59:20+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 30
-        },
-        {
-          "updatedAt": "2026-09-18T10:12:26+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 31
-        },
-        {
-          "updatedAt": "2026-09-19T09:07:57+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 32
-        },
-        {
-          "updatedAt": "2026-09-21T14:20:35+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 33
-        },
-        {
-          "updatedAt": "2026-09-21T20:01:25+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 34
-        },
-        {
-          "updatedAt": "2026-09-28T14:10:18+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 35
-        },
-        {
-          "updatedAt": "2026-09-28T20:55:57+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 36
-        },
-        {
-          "updatedAt": "2026-10-01T16:40:37+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 37
-        },
-        {
-          "updatedAt": "2026-10-02T00:21:56+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 38
-        },
-        {
-          "updatedAt": "2026-10-02T05:27:12+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 39
-        },
-        {
-          "updatedAt": "2026-10-02T14:26:20+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 40
-        },
-        {
-          "updatedAt": "2026-10-14T15:01:42+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 41
-        },
-        {
-          "updatedAt": "2026-10-15T16:17:19+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 42
-        },
-        {
-          "updatedAt": "2026-10-19T14:10:52+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 43
-        },
-        {
-          "updatedAt": "2026-10-21T16:25:55+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 44
-        },
-        {
-          "updatedAt": "2026-10-23T15:25:40+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 45
-        },
-        {
-          "updatedAt": "2026-10-27T15:09:09+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 46
-        },
-        {
-          "updatedAt": "2026-10-28T16:19:55+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 47
-        },
-        {
-          "updatedAt": "2026-10-30T11:30:16+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 48
-        },
-        {
-          "updatedAt": "2026-10-30T17:54:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 49
-        },
-        {
-          "updatedAt": "2026-11-03T11:34:35+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 50
-        },
-        {
-          "updatedAt": "2026-11-03T18:57:31+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 51
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "56ab35e46dfd89a5cfc56be3f41206d7410cc58c5e2938d30fd3193fccdad9df"
     },
     {
       "id": "20261102-FR-9C24F88D-2685",
@@ -12755,120 +13943,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b0b0cdb6a28538c28d18a35648cf282f6e8fc0448f7422117e0e5378030c31b8"
-    },
-    {
-      "id": "20260811-FR-6AD80037-254",
-      "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "외교부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-11T21:22:30+09:00",
-      "publishedAt": "2026-08-11T21:22:30+09:00",
-      "firstCollectedAt": "2026-08-11T23:47:29+09:00",
-      "updatedAt": "2026-10-29T20:41:08+09:00",
-      "summary": "외교부 대변인 정례브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDNVAyTHdLa3AyUE5ObnN5a2E2SkltSmlMYTMwX1VfNnJVQ09uUTdUMXpyTWZTU3lmVTM1R3B6dnVrQlJEbXE3UGVuMnJGVTRuOTVPV0U4d1J0RW5FV0lDUjZ6ZDFLaXBodWpjUG9fNjBUd20wSUww?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-14",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SQjFpMTJFMkJHSDBDamE1M056cVRRdU41MW5NWTR0eC1NZTZJNEVHT0RQWFBxUUp1WUpvaEhQU2kyLUZvT3Y0ZnN6XzRoendWX2lqSlZWS0FKOXJpejRhTzI2b1NocG5wRUJxYjh3RVNTUTZtTHdn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-27",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GNjcyOVp5SXB6aUFqT1NiUVlUX2xSUXF6andKMFYwLW5zMm51aWNubms1RjdyY3VJTGswTk12Z25rTmlSRVExSGFKQlg1ZEppd25scW9YZ2wwWWlJdlZBLWVWd2xkcEo3SXFxQWNmUFFFTDlMRjhn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UQjFhVU14dm9lZ0U5Q2xsekVvdU5kZEp0Q1UwUHJTdG1HRDFLMmxYR0piekJySGpuVnZId29pSlh2TDhXbnZPazZ4SUVXOFhIYTVDU0lZQkdiaEtheGxVTmljZXFYcGRzZndXc1JNTUV6d0w4X1lj?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51cnUzbk5oYzhmcVF3Tl8yNmtnWkpiNmtYWEZSTm1ITVdDSDBob050YWdKOXRwaExHcGd4cl9rLWhDSW1PelkwTURJenpDVmhqUFhDNkVEMDNTenhmczNlOFB4R3NRMmxTQmEyQTAzSktKR2EzTUVz?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wR0xxcE9rVWkxUDd6OFl5ZTBJQTBFLXJoR1dKTi1lX21yYzd1ZXJBR2UxMVJRZnVvLTZFbkNpOHVSemY5VlZDbUZQbTVwVGtyMmJPWkc1WXUzQzBqM1ctS2RFRklGb242RmE4Q2Z2TU1INllsX3pR?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 대변인 정례브리핑 - 대한민국 정책브리핑",
-          "date": "2026-10-29",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBadlozUmhySnVUT2hwdC1uX1VBY0pGa0FtcmVoQUQtS3NNdFRrRGxlWnJZM3MxSWliajVVZHJJazJCZXNsUnpYb0JtaUxTNGhkVWl3X2JjeHV5TFdycW9PTzJmYWtRY2o2TGpkN0pGanVsbHZfX1B3?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-14T04:44:30+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-28T09:57:57+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-09-04T01:19:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-08T18:01:12+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-22T18:49:46+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-10-29T20:41:08+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6ad80037ae7738d6d47b41d19e065cfacea935878d51ca7a18bcd6ec9fcdb106"
     },
     {
       "id": "20261029-FR-E87BECFC-2569",
