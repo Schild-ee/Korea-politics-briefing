@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-06T18:45:32+09:00",
-    "nextScheduledUpdate": "2026-11-06T19:15:32+09:00",
+    "lastSuccessfulUpdate": "2026-11-07T02:21:50+09:00",
+    "nextScheduledUpdate": "2026-11-07T02:51:50+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-06T18:45:19+09:00",
-      "finishedAt": "2026-11-06T18:45:32+09:00",
+      "startedAt": "2026-11-07T02:21:39+09:00",
+      "finishedAt": "2026-11-07T02:21:50+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 168,
-      "acceptedCandidates": 76,
-      "duplicates": 60,
-      "rejected": 83,
-      "rejectedByDate": 73,
-      "rejectedByRelevance": 10,
+      "fetchedCandidates": 166,
+      "acceptedCandidates": 78,
+      "duplicates": 72,
+      "rejected": 74,
+      "rejectedByDate": 66,
+      "rejectedByRelevance": 8,
       "rejectedAsCommentary": 0,
-      "newIssues": 21,
+      "newIssues": 16,
       "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 33,
           "error": ""
         },
         {
@@ -64,6 +64,866 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261106-FR-60F8FE3A-2861",
+      "title": "한·동티모르 정상회담 소인수회담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T17:32:15+09:00",
+      "publishedAt": "2026-11-06T17:32:15+09:00",
+      "firstCollectedAt": "2026-11-06T18:45:21+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "한·동티모르 정상회담 소인수회담 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·동티모르 정상회담 소인수회담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Q5b2dkbThTa1JDcEdVOVY3cjl6dVVBME9ZZFRNQnV0Q2RYQ3czYUxmVjMxMlFEV1VhX2hieFFjZ2ljWG9CaGpNVWtCanpjLXJlZTdGZUxhcnZ4TTRRdExuRzgwbXEtMDJQeWYxUnJTVXV6YVRRUVZTTFpIQmNuRmxHbFI4QQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·동티모르 정상회담 확대 회담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXNGVTk3TEYzeUxGbFRJSUNxMUR6azQ5QklTdmR4MTdMVmh5Q0xsTG4weFZpNzNta0hRV2IxLS00Z0RKaFhtZFlvZnFXZ0FkVUo0MzJFekZWQlBHOGZRNlJCbDN3Rm9pX3VBeXY3V18xZnBPU2lLaXg5MElkT25fMWVUUXBGUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-07T02:21:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "60f8fe3ac11cf5393c82ead34c6d97cd990b1ee4cd004134068b55d48bb9b914"
+    },
+    {
+      "id": "20261106-FR-619A315A-2863",
+      "title": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T18:14:36+09:00",
+      "publishedAt": "2026-11-06T18:14:36+09:00",
+      "firstCollectedAt": "2026-11-06T18:45:21+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQjZZZUFnMXFVUmlXU3Jkd3FybGxJWTVFUk4xajJqWlpBUnpibW0wTnZhdmhadEt4di1VUmU2UVZTYnBNMXdPZ1Z4cnl5aTR4b1FtUE9vb3puZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSExsMHBpM1F1bG56TklmMmludzlHRWRnMk5iSTE0ekc0eU1FNk93XzB0cHA4TzNvQ0htVjJLUG03RDVYYU1mSm44dko3NXhNaXRMcExWVWMxc29zTlV1QkZsYm9GWl9rVE01OVNyMWtQTnVWaWtKWmhXdkhSU3dmSnljU1hvT3dxSnhicXlB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-07T02:21:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "619a315a8ca4697212ee8ebcae6d3f45652653ca7abb485de7facd2a6ed4ad0b"
+    },
+    {
+      "id": "20261105-FR-1E6E7795-2833",
+      "title": "스트리밍의 미래는? '국제 OTT포럼' 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-05T11:35:00+09:00",
+      "publishedAt": "2026-11-05T11:35:00+09:00",
+      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "'국제 OTT포럼' 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "스트리밍의 미래는? '국제 OTT포럼' 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN19nZlZXTlRUMmlRM1BoVmdoY3RaLXEzWUY3ZjNvNmdVNmx2eWJzakFaZnR0RWplRld4WkhJclUycGZzdURLQ3MxbHJ2bFhYWmhjMXFlQ2ZoSXV5anZpMEZNcTc4T3lPMzlrcEVzSEdoSGZQWlJFVnJIZUVsT0NNRkVndksxMldWSC1N?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "스트리밍의 미래는? '국제 OTT포럼' 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-05",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaSkRJRGJiOGl2WXBMRlJCRldJNENLbURLUVkyb09EcVJlRHV4X19FQzg1WUFSbEMxTVJFTE9rZ2xrdE9vbmc0OGZ3bzJnc1lORTYwZEtZaUZMZGZsT2R5LWRla2ZHYjU1Z1d5b191YjBhblN2?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-07T02:21:41+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1e6e7795e2b110e625dea8a1e036653d1a43c119ad128cac1951e0b003f3a4b1"
+    },
+    {
+      "id": "20261106-FR-920F7AA3-2882",
+      "title": "한·동티모르 공동언론발표 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T17:33:20+09:00",
+      "publishedAt": "2026-11-06T17:33:20+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "한·동티모르 공동언론발표 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·동티모르 공동언론발표 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMGZuSjJKN0ZZU2ZXYmpaZF9ncUhJQjYyTXRndU1yQ0NINW1NaFZpT055UFJkS2xxYjdqcDVHSzRuMU1QaWo4UW5NaUFHbXRfcXZpVk1YUjR2VmdjSkREV2ZiMGxWTnBjLXNQZ2p3U1dUdk5xOGdNa2ZDM3lVTV9LdnMyZ0JZTmM?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "920f7aa3d5508e839c5f92775d2c092e40bd9cf702a483973730f486a5daa4de"
+    },
+    {
+      "id": "20261106-FR-D398848A-2883",
+      "title": "한·동티모르 양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T23:25:59+09:00",
+      "publishedAt": "2026-11-06T23:25:59+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "한·동티모르 양해각서 체결식 - 사진 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한·동티모르 양해각서 체결식 - 사진 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12X2ZXLVNZbDJtbm5lZWZ4TmM2NFF6RTI5b2RmamtwYThQcjczMEZZcUZuOEg0YXp5V2RZMThjRWZuR09LV3NzS1cycDREQzRlT054Y2J1RmFNa2dIMlduY3ppRzRoSk43Y0tDUjVReFBta29VYktEa29n?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d398848adb170c8b69d368b48f094284cf53adfc74d4db6622aae71a5be32166"
+    },
+    {
+      "id": "20261106-FR-2FCF0042-2884",
+      "title": "나에게 꼭 맞는 보조금 안내부터 신청까지 농업e지로 한 번에 해결! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T18:23:00+09:00",
+      "publishedAt": "2026-11-06T18:23:00+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "나에게 꼭 맞는 보조금 안내부터 신청까지 농업e지로 한 번에 해결! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "나에게 꼭 맞는 보조금 안내부터 신청까지 농업e지로 한 번에 해결! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbC1LSHE1enlvd2lHT08wMVRhU0w1bDd4X01qN09TeVM3RTg0VU1Yc292X1czX0NKMUMwc1B5WkhzQV83OXcxWkZVNGlnSnY3bjZFSmpNdklzQU82NDdrMjNhV0RTRnlOZ2dhSktLUWdfM2h4bjdsMEQzZFpsLVk1RTk4VWxUNUNYVmc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2fcf0042e4821486e4069248e6a9992c38f13fbc37b13cfac4e198742e541e67"
+    },
+    {
+      "id": "20261106-FR-EAE57E89-2885",
+      "title": "위조지폐 잡던 기술이 짝퉁 K-브랜드까지 잡는다고?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T18:13:40+09:00",
+      "publishedAt": "2026-11-06T18:13:40+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "위조지폐 잡던 기술이 짝퉁 K-브랜드까지 잡는다고?! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "위조지폐 잡던 기술이 짝퉁 K-브랜드까지 잡는다고?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KeUNYWG1qRjI3MHhhYTRyOThFLVZ0MVJCVjhCZF9oalozdzQ1UDBXbmNxSENOZHB5clpvSU50cTcyUDhUS3VRdGpuVlBLenZwY1ZUVVFYX1dVb3A3RFExWWVNWnJiSVhIQkhQYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eae57e89b6dc0f99b7cca27b22ae438a013558cf1a1716d4a07ce01ec4427170"
+    },
+    {
+      "id": "20261104-DP-CACB367C-2886",
+      "title": "가장 가까운 위협으로부터 국민이 안심할 수 있도록... 경찰청, 관계성 범죄 전수점검 결과 발표 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "경찰청",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T14:26:34+09:00",
+      "publishedAt": "2026-11-04T14:26:34+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "가장 가까운 위협으로부터 국민이 안심할 수 있도록... 경찰청, 관계성 범죄 전수점검 결과 발표 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "가장 가까운 위협으로부터 국민이 안심할 수 있도록... 경찰청, 관계성 범죄 전수점검 결과 발표 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1SMERWLVRSQkZOd19hWGpEOHVOZ0k3RUlRaEpDWW1lbGxfcXJSZDExOWJZV1FpamdZOGUzeWs0Q1M2VnRJNkkzc09QMVBpVnFWZUFxVFluYlNfMFJhWFlPSW5Od0kyc1hqc2NjZDRUNURwaW5n?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cacb367cb3e2056934d8a83aff19590f463b86f224e99de80ed03aaa174a5c34"
+    },
+    {
+      "id": "20261106-FR-7840C919-2887",
+      "title": "소방의 날이 11월 9일인 이유? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T19:01:54+09:00",
+      "publishedAt": "2026-11-06T19:01:54+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "소방의 날이 11월 9일인 이유? - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "소방의 날이 11월 9일인 이유? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vYU11NFZsbEFrNWQ5aFRZRWU2dkNBT1FsUks5dm1tcVVoQnlqUHRXWHdmUzJpQ2Z1cno3WDlIaEZpWllXTm9nWG15T2J4R01rZ3ZTS21mSkVVQkphNV9vWkpLbzhBV2FldVBfSw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7840c919275590493f0869687b421ad790eda8366b433951df656f0e67faae63"
+    },
+    {
+      "id": "20261106-FR-BA5F0E44-2888",
+      "title": "[보도설명자료][11.6.금 한국일보 등] 흉기 들고 진료실 '직행' 못 막았다...임세원법 7년에도 병원은 무방비 관련 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T22:42:46+09:00",
+      "publishedAt": "2026-11-06T22:42:46+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "[보도설명자료][11.6.금 한국일보 등] 흉기 들고 진료실 '직행' 못 막았다...임세원법 7년에도 병원은 무방비 관련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도설명자료][11.6.금 한국일보 등] 흉기 들고 진료실 '직행' 못 막았다...임세원법 7년에도 병원은 무방비 관련 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUdUNuY2RUREprSmU3cHhabVhsVlJ0S1VJUU5RR1B6U0JIZjZVdFNnSElQYkhQRkpUVTZLa2U1SktlNkdYVW5SLUJRREVtTDZQRXFPb0VNRHJ4S0FCUWUzV2UzRTU3aVEtY01iaGloQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ba5f0e443b843692930fe7a6bc2d8bb7db126005853dd6c77c3d84ccff691801"
+    },
+    {
+      "id": "20261104-FR-9331AFFB-2889",
+      "title": "지식재산처, 「지식재산과 혁신」 지식재산처 제1호 발간 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T09:26:58+09:00",
+      "publishedAt": "2026-11-04T09:26:58+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "지식재산처, 「지식재산과 혁신」 지식재산처 제1호 발간 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지식재산처, 「지식재산과 혁신」 지식재산처 제1호 발간 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGc3c3TGxtQXhUZU9uclVLZDQ3WXFkcHZXYm16MEJuRmp3SkFBMnNra0JhNzFJWE16SUN1eVRSckVwT1FwWkdGb1ktLWZWVkFwT3JUV0J6Xzh2dzV0a1RiRktUMmI3WWdkWVhGV1pZbUZER1pY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9331affbcd9f22192d101dd0fb31ae47445ab0b529afeb99eeeca61c2e54367f"
+    },
+    {
+      "id": "20261106-DP-3C27E9EE-2890",
+      "title": "조작기소 특검법, 與 주도 국회 통과... 장동혁 \"이재명만 살고 대한민국이 죽었다\" - 한국일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "한국일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-06T17:24:00+09:00",
+      "publishedAt": "2026-11-06T17:24:00+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "조작기소 특검법, 與 주도 국회 통과... 장동혁 \"이재명만 살고 대한민국이 죽었다\" 한국일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "조작기소 특검법, 與 주도 국회 통과... 장동혁 \"이재명만 살고 대한민국이 죽었다\" - 한국일보",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YQVBxMWJJamdCd1RLbk1zQkdFcFhocHhYLWUyY2RZOGtNVXJBZ0hPVWlBZ2QtRjV1WkpBNmM4Tzg4bno0TW9nMFkzZUpQVTJVam5UQTZkVE95Y05CWm1mQWo1Vk04WnVRVGVNek530gFzQVVfeXFMUHZUb1NHMTBuZ180VlNqcTR1RnRmVDlDdUhmWG5BQmNRSEktd2h2NFhaVDN6dmNjTEo4QnBaUkZxMjUzUFhxb2JEVEhubll3LUV1YU1FZEszSkthYjlUZXBFV3VwWTlsVnE4RkVpQ0puTE1pNA?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3c27e9eecf248b0b361678d534a6d702eb6d255b33e2fa6ca1f3bd67de1e36d6"
+    },
+    {
+      "id": "20261106-DP-B615757C-2891",
+      "title": "'조작기소 특검법' 국회 통과...\"정치검찰 엄벌\" vs \"대통령 죄 지우기\" - YTN",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "검찰",
+        "YTN"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-06T21:37:00+09:00",
+      "publishedAt": "2026-11-06T21:37:00+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "'조작기소 특검법' 국회 통과...\"정치검찰 엄벌\" vs \"대통령 죄 지우기\" YTN",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "YTN",
+          "title": "'조작기소 특검법' 국회 통과...\"정치검찰 엄벌\" vs \"대통령 죄 지우기\" - YTN",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PSF9GTjJqcS1hUmVuMnRKcW02T0RTeEprV2ZuQ1E3eFp0M0cwZXV2Nzllekl1U1pWZ01vZTF1U0NUNVBLN0E1OWVHZUJXbkNjTk1TZi0tcndOd19MTkJEaU9qdFVrSzVmXy1NeUFRaw?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b615757c0a3f6370d4bb1db7d7491fa0f6d560416660014b3a26887fe5392271"
+    },
+    {
+      "id": "20261106-DP-9B78A307-2892",
+      "title": "‘조작기소 특검법안’, 與 주도로 국회 통과…국힘 “이재명 재판 취소 악법” - 경기신문",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "경기신문"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-06T22:22:12+09:00",
+      "publishedAt": "2026-11-06T22:22:12+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "‘조작기소 특검법안’, 與 주도로 국회 통과…국힘 “이재명 재판 취소 악법” 경기신문",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "경기신문",
+          "title": "‘조작기소 특검법안’, 與 주도로 국회 통과…국힘 “이재명 재판 취소 악법” - 경기신문",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mVHQ1SjdOWmNsWjc4ZFdWY3hlc19GVXRtaVQxcm04S0JjeURyd0puUGZyNFZqaEJDbHVmSk5DMVRMeko2SEllQnBxbVBPV1ZwUlRISnpIbU1YcUxTbFE5bnhB?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9b78a307d51a1f5f23f2642df417a288c44e91323082e4159882ef5e34622c91"
+    },
+    {
+      "id": "20261106-DP-507FD309-2893",
+      "title": "조작기소 특검법안 與주도 국회 통과…李 정부 7번째 특검 - 경북도민일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "경북도민일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-06T17:36:30+09:00",
+      "publishedAt": "2026-11-06T17:36:30+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "조작기소 특검법안 與주도 국회 통과…李 정부 7번째 특검 경북도민일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "경북도민일보",
+          "title": "조작기소 특검법안 與주도 국회 통과…李 정부 7번째 특검 - 경북도민일보",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hSUNqZ3RkT2FrblFnLWhYRlVBbHJ6LUNMSU1RQnI1VkVJZ296RWtyWWc5SjV2WjRUaHhGS3RiOFdYTUV0ODRTcXF4YVVnN0VDRzFPQnZPejhwVUp3OTJqekhPclIyWlVaeVE?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "507fd309a1afdac7c60679e2e65219ad61b9c9eda797babbd70bf47aae8a9f7f"
+    },
+    {
+      "id": "20261106-DP-A4B2C450-2894",
+      "title": "'조작기소 특검법' 국회 본회의 통과…국힘 반발 - 신아일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "신아일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-06T17:58:40+09:00",
+      "publishedAt": "2026-11-06T17:58:40+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "'조작기소 특검법' 국회 본회의 통과…국힘 반발 신아일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "신아일보",
+          "title": "'조작기소 특검법' 국회 본회의 통과…국힘 반발 - 신아일보",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlbkRxWmNrTktoeUEya2lRTnNRVGNqZzgzV2FRcjR0Sll1LVBpcHFSa2RwTGliV2N4dlZjZ3dITGFBbFBkT2tJRHZCZ1NYSDNlYzhLcGpjUHB4RF95LU9VblJJeDdtNVVIYW03ZTFCeEk?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a4b2c4503914cefcba6fc7a7f2ef728ddd4fbf9df3f4ae546c3fdf78fa0e582a"
+    },
+    {
+      "id": "20261106-DP-0EE6C623-2895",
+      "title": "[정치사냥꾼] 조작기소 특검법 · 5천피로 요동친 국회 - SBS 뉴스",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "SBS 뉴스"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-06T19:58:28+09:00",
+      "publishedAt": "2026-11-06T19:58:28+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:41+09:00",
+      "updatedAt": "2026-11-07T02:21:41+09:00",
+      "summary": "[정치사냥꾼] 조작기소 특검법 · 5천피로 요동친 국회 SBS 뉴스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "SBS 뉴스",
+          "title": "[정치사냥꾼] 조작기소 특검법 · 5천피로 요동친 국회 - SBS 뉴스",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1peUZxeUtFU0J1SlkyZGM5cjE5N3FqZXFOaVNSa0E3VWdnOGQ3SEtFM25ZR1JVcHUxYzJKZWR2T2ZLMmNoWW5Da1Q1VHgzRVAxZFQxWEt4VlZ5VWVUZFlMWGZSVlJiTXVPYnfSAWZBVV95cUxNYUtSaFJWWkM4eUM4Y2h0SnRBTjVlSUdZVUhzSC1oSzlsUUdpM3RrVHhJUUF6VHFVLXZDRkxVbUlfaVJ6dFhxXzM5UmVxLWE0TEp2R3hWdkZVMDBUaDJzWjFDUkhWMUE?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0ee6c623aafc9991e578c1478fdf046ac04874a2f6d715cc517ce5d580d1a5aa"
+    },
+    {
+      "id": "20261104-DP-E716143E-2727",
+      "title": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행! - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-04T09:44:15+09:00",
+      "publishedAt": "2026-11-04T09:44:15+09:00",
+      "firstCollectedAt": "2026-11-04T12:08:45+09:00",
+      "updatedAt": "2026-11-07T02:21:40+09:00",
+      "summary": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행!",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행! - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeS12N1R6QUNYWlVkNmtCQUpSUFVDdzBwS2JhRkZlS0lPY05WNjZmbGdmclJLems5dTNGb3BwX0FwTWhiUTZJTkFTNFl5UC1NWlEtcjA1ZG9SVnBEOEVyQUgyLU5FUTE2YnhnTmUxLVJWYlJrYjZ1VjZWQ3E0TXVaaDVSWjFic3IxM08tdFhHbEVJQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행! - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rajRDS1RZWUhQR2RxbTdxOHRWSzc0cG96eG9pTDVXNnpTWkltWTAxbkd1cTlTQVB1NVRWOHAtWEZNRG5CMmNxRHRsR1RkMzVSd2x6X3lWSy1FY1N2MlRlNjBLYkV3UFZRSnBSQXBMMUNZX2lP?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-07T02:21:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e716143e7b133aef9c12f4f4278b868cff2ce9bae014157193dfdde980305619"
+    },
+    {
+      "id": "20261106-DP-80014048-2880",
+      "title": "이형일 부총리 \"미 중간선거 이후 시장 변동성에 선제 대응\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T16:46:24+09:00",
+      "publishedAt": "2026-11-06T16:46:24+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:40+09:00",
+      "updatedAt": "2026-11-07T02:21:40+09:00",
+      "summary": "이형일 부총리 \"미 중간선거 이후 시장 변동성에 선제 대응\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이형일 부총리 \"미 중간선거 이후 시장 변동성에 선제 대응\" - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uU3RJT2F2VU9ob1V3R1pTeG95WDVLT2FROXdzYUlQcF9ja3hYdl95eGc0T2ZBUFpjLWZsWGstZ1phMVRfUkFEdjZpdjhTYWtMb2E5elJVeVdUbElIWm44RVVYaE0ycXFzWFdhWg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8001404837d39c3d454db5671c39fdc842b7c350ca1b687c580e2462d6515aa0"
+    },
+    {
+      "id": "20261106-DP-3F02198C-2881",
+      "title": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 미래 전략기술 사업(7대 시드(SEED) 프로젝트) 뒷받침 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T06:37:04+09:00",
+      "publishedAt": "2026-11-06T06:37:04+09:00",
+      "firstCollectedAt": "2026-11-07T02:21:40+09:00",
+      "updatedAt": "2026-11-07T02:21:40+09:00",
+      "summary": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 미래 전략기술 사업(7대 시드(SEED) 프로젝트) 뒷받침 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "핵융합, 해양용 용융염원자로 등 예타 통과로 7대 미래 전략기술 사업(7대 시드(SEED) 프로젝트) 뒷받침 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQVnFuYUNFR3NVNWhIUlprams3TkxSX2NKYUh1eFYtX290M2pYS2hFTHhlYTJ6alJUNWNkWlBmTG5CNS1MdUJmbkkzOGdrNEZCNjJKb3ViZ3VDeHNsNnBjQVVUS1NuU3Zpb3lQOVNBbDZramI5?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3f02198ca9ea8426cfdc5ed588a94274afea26b98ccdfa8cbd7645cfb6e26670"
+    },
     {
       "id": "20261106-DP-1EA84BF0-2872",
       "title": "[속보]또 특검? 조작기소 특검, 본회의 통과…李 정부 들어 7번째 - 문화일보",
@@ -444,46 +1304,6 @@
       "contentHash": "73988bd8fa667e938a7148ca9068252faf8b909ab057be3faa757bbcf2418c9d"
     },
     {
-      "id": "20261106-FR-60F8FE3A-2861",
-      "title": "한·동티모르 정상회담 소인수회담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-06T17:32:15+09:00",
-      "publishedAt": "2026-11-06T17:32:15+09:00",
-      "firstCollectedAt": "2026-11-06T18:45:21+09:00",
-      "updatedAt": "2026-11-06T18:45:21+09:00",
-      "summary": "한·동티모르 정상회담 소인수회담 - 포토 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한·동티모르 정상회담 소인수회담 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-06",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1Q5b2dkbThTa1JDcEdVOVY3cjl6dVVBME9ZZFRNQnV0Q2RYQ3czYUxmVjMxMlFEV1VhX2hieFFjZ2ljWG9CaGpNVWtCanpjLXJlZTdGZUxhcnZ4TTRRdExuRzgwbXEtMDJQeWYxUnJTVXV6YVRRUVZTTFpIQmNuRmxHbFI4QQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "60f8fe3ac11cf5393c82ead34c6d97cd990b1ee4cd004134068b55d48bb9b914"
-    },
-    {
       "id": "20261106-FR-00DAA584-2862",
       "title": "농촌진흥청, 다자간 '업무합의'로 '노지 스마트 농업' 현장 확산 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -522,46 +1342,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "00daa5840b0657f9678fd299d28fb9af2cb24787e6f243d2b4fccdb93ec9c828"
-    },
-    {
-      "id": "20261106-FR-619A315A-2863",
-      "title": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 청와대",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 청와대"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-06T18:14:36+09:00",
-      "publishedAt": "2026-11-06T18:14:36+09:00",
-      "firstCollectedAt": "2026-11-06T18:45:21+09:00",
-      "updatedAt": "2026-11-06T18:45:21+09:00",
-      "summary": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 대한민국 청와대",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 청와대",
-          "title": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-11-06",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9EQjZZZUFnMXFVUmlXU3Jkd3FybGxJWTVFUk4xajJqWlpBUnpibW0wTnZhdmhadEt4di1VUmU2UVZTYnBNMXdPZ1Z4cnl5aTR4b1FtUE9vb3puZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "619a315a8ca4697212ee8ebcae6d3f45652653ca7abb485de7facd2a6ed4ad0b"
     },
     {
       "id": "20261106-DP-B1099463-2864",
@@ -4128,46 +4908,6 @@
       "contentHash": "b26183258f1f5a37c08b8e0de206fe8a91d8bc3c2d192c643cc2631706674ad4"
     },
     {
-      "id": "20261105-FR-1E6E7795-2833",
-      "title": "스트리밍의 미래는? '국제 OTT포럼' 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-05T11:35:00+09:00",
-      "publishedAt": "2026-11-05T11:35:00+09:00",
-      "firstCollectedAt": "2026-11-06T00:44:15+09:00",
-      "updatedAt": "2026-11-06T00:44:15+09:00",
-      "summary": "'국제 OTT포럼' 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "스트리밍의 미래는? '국제 OTT포럼' 개최 - 대한민국 정책브리핑",
-          "date": "2026-11-05",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN19nZlZXTlRUMmlRM1BoVmdoY3RaLXEzWUY3ZjNvNmdVNmx2eWJzakFaZnR0RWplRld4WkhJclUycGZzdURLQ3MxbHJ2bFhYWmhjMXFlQ2ZoSXV5anZpMEZNcTc4T3lPMzlrcEVzSEdoSGZQWlJFVnJIZUVsT0NNRkVndksxMldWSC1N?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1e6e7795e2b110e625dea8a1e036653d1a43c119ad128cac1951e0b003f3a4b1"
-    },
-    {
       "id": "20261105-FR-8F4BCF5A-2834",
       "title": "\"영구임대주택 임차인의 권익 보호는 현재 진행 중\"… 이번에는 여수로 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -7383,46 +8123,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
-    },
-    {
-      "id": "20261104-DP-E716143E-2727",
-      "title": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행! - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-04T09:44:15+09:00",
-      "publishedAt": "2026-11-04T09:44:15+09:00",
-      "firstCollectedAt": "2026-11-04T12:08:45+09:00",
-      "updatedAt": "2026-11-04T12:08:45+09:00",
-      "summary": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행!",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "네이버와 중소 IT 기업, 공동으로 재취업지원서비스 시행! - 대한민국 정책브리핑",
-          "date": "2026-11-04",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeS12N1R6QUNYWlVkNmtCQUpSUFVDdzBwS2JhRkZlS0lPY05WNjZmbGdmclJLems5dTNGb3BwX0FwTWhiUTZJTkFTNFl5UC1NWlEtcjA1ZG9SVnBEOEVyQUgyLU5FUTE2YnhnTmUxLVJWYlJrYjZ1VjZWQ3E0TXVaaDVSWjFic3IxM08tdFhHbEVJQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "e716143e7b133aef9c12f4f4278b868cff2ce9bae014157193dfdde980305619"
     },
     {
       "id": "20261104-DP-F31DA8B6-2729",
