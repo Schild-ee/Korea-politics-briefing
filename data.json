@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-09T03:27:23+09:00",
-    "nextScheduledUpdate": "2026-11-09T03:57:23+09:00",
+    "lastSuccessfulUpdate": "2026-11-09T07:23:07+09:00",
+    "nextScheduledUpdate": "2026-11-09T07:53:07+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-09T03:27:21+09:00",
-      "finishedAt": "2026-11-09T03:27:23+09:00",
+      "startedAt": "2026-11-09T07:23:05+09:00",
+      "finishedAt": "2026-11-09T07:23:07+09:00",
       "activeSources": 4,
       "fetchedCandidates": 165,
-      "acceptedCandidates": 47,
-      "duplicates": 46,
-      "rejected": 116,
-      "rejectedByDate": 110,
-      "rejectedByRelevance": 6,
+      "acceptedCandidates": 45,
+      "duplicates": 45,
+      "rejected": 119,
+      "rejectedByDate": 114,
+      "rejectedByRelevance": 5,
       "rejectedAsCommentary": 0,
-      "newIssues": 2,
-      "updatedIssues": 1,
+      "newIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261106-FR-5D625A63-2934",
+      "title": "이 대통령 동티모르와 정상회담…외교·개발 협력 확대 : 정치 - 재경일보",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "재경일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-06T17:07:15+09:00",
+      "publishedAt": "2026-11-06T17:07:15+09:00",
+      "firstCollectedAt": "2026-11-09T07:23:07+09:00",
+      "updatedAt": "2026-11-09T07:23:07+09:00",
+      "summary": "이 대통령 동티모르와 정상회담…외교·개발 협력 확대 : 정치 재경일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "재경일보",
+          "title": "이 대통령 동티모르와 정상회담…외교·개발 협력 확대 : 정치 - 재경일보",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5KamNnU3NhT1J6LUFmc0s2TDY2VG0zeEZ5WXVGZlloQ2hCdTlaTHBOay1BWmtJU2hxV2xjNTVIb0NfTXZtNS0zZmdVVQ?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5d625a635907f3d6f2e05544f4021c0ea64fa4aa69e38b019244d335759276ef"
+    },
     {
       "id": "20261106-FR-619A315A-2863",
       "title": "한-동티모르 정상회담 결과 관련 김성완 대변인 서면 브리핑 - 대한민국 청와대",
