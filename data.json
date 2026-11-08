@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-08T08:51:50+09:00",
-    "nextScheduledUpdate": "2026-11-08T09:21:50+09:00",
-    "collectionStatus": "정상·신규 없음",
-    "notice": "수집은 정상 완료됐으나 이번 실행에서는 신규 이슈가 없었습니다.",
+    "lastSuccessfulUpdate": "2026-11-08T14:47:57+09:00",
+    "nextScheduledUpdate": "2026-11-08T15:17:57+09:00",
+    "collectionStatus": "정상",
+    "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-08T08:51:48+09:00",
-      "finishedAt": "2026-11-08T08:51:50+09:00",
+      "startedAt": "2026-11-08T14:47:54+09:00",
+      "finishedAt": "2026-11-08T14:47:57+09:00",
       "activeSources": 4,
       "fetchedCandidates": 166,
-      "acceptedCandidates": 54,
-      "duplicates": 58,
-      "rejected": 108,
-      "rejectedByDate": 99,
-      "rejectedByRelevance": 9,
+      "acceptedCandidates": 51,
+      "duplicates": 49,
+      "rejected": 110,
+      "rejectedByDate": 104,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 0,
+      "newIssues": 7,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,289 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261108-FR-0A421446-2922",
+      "title": "대한민국, 글로벌 해양 디지털 전환의 핵심 거점으로 도약한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-08T11:00:00+09:00",
+      "publishedAt": "2026-11-08T11:00:00+09:00",
+      "firstCollectedAt": "2026-11-08T14:47:55+09:00",
+      "updatedAt": "2026-11-08T14:47:55+09:00",
+      "summary": "대한민국, 글로벌 해양 디지털 전환의 핵심 거점으로 도약한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "대한민국, 글로벌 해양 디지털 전환의 핵심 거점으로 도약한다 - 대한민국 정책브리핑",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDlPTk9DY0JKY3RIMWR1MXByc1dTZnd2RjdaRFV6WTFWeDk3XzVhU3lNaGM1TUo5QkxSd1JlZ0QxbWI2VUxoRHlVYnhIT0NtZ25jdk5jTTI0Q0VIT25RRFloNXZjc0pVaWRWTzFNZ1FRdTZEVkxsZUtKU2dvWlBReXZUS080WEZJTEZZQXYzc0Jldw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0a4214465facb1d6c5d3af7ae6fa6d6472c1ef08c63c3201745816cf9a3d7da8"
+    },
+    {
+      "id": "20261106-FR-2AABD8CA-2923",
+      "title": "'단원고 4.16 아카이브' 유네스코 아태목록 등재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T15:06:47+09:00",
+      "publishedAt": "2026-11-06T15:06:47+09:00",
+      "firstCollectedAt": "2026-11-08T14:47:55+09:00",
+      "updatedAt": "2026-11-08T14:47:55+09:00",
+      "summary": "'단원고 4.16 아카이브' 유네스코 아태목록 등재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'단원고 4.16 아카이브' 유네스코 아태목록 등재 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUUW54VlZvNzV1NWw2X3dXTlRJSlRBNGtQVlRna0NUdnQ3MXJqSDUzNFV0bEZwd3l0aHJXdHhZRWMzazB5UVdLTEdlcTVlMV8zLUQtRi1MXzdoc2RVSjVsaVlfd2tOdHVUZHd0cw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2aabd8caa1665e45195e5410a100ceef61a94821a4c5791f7c9dea8c4e89e456"
+    },
+    {
+      "id": "20261108-DP-078AB7FB-2924",
+      "title": "장동혁 \"조작기소 특검이 이 대통령 죄 지우기 전 재판 재개해야\" - 한국일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "한국일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-08T14:10:00+09:00",
+      "publishedAt": "2026-11-08T14:10:00+09:00",
+      "firstCollectedAt": "2026-11-08T14:47:55+09:00",
+      "updatedAt": "2026-11-08T14:47:55+09:00",
+      "summary": "장동혁 \"조작기소 특검이 이 대통령 죄 지우기 전 재판 재개해야\" 한국일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "장동혁 \"조작기소 특검이 이 대통령 죄 지우기 전 재판 재개해야\" - 한국일보",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Fd2VSZkprbndqTDBCdzM5Mm9HM0Q2UmlvSE9uSXV1QVMzXzZZMlpKZldCZDh5LXJCaGFVNUlTSUc4OGZmdHFtNTZuTFlpZlJfVTlpdkFsVmhldHFtNUtTMlRxdUp6N0NteEJMTFBR0gFzQVVfeXFMTWFKNWY2SFhiYnF0emVsYTVsLWF5cVkyVl9sU0s2NVJpcU5IMmJ4S0lqUllEN3NoMjNVNk9ENzV2T1M4U1dYam1KZDM3OGpWb29EX0FBbXFTNHVnU2Z1TTdjZk9sazFrSEg1VHpQSDAtNnphMA?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "078ab7fb058782873b1325267c3e2503487caca914c1a835109d5f53342b815c"
+    },
+    {
+      "id": "20261108-DP-1D1C2BC7-2925",
+      "title": "여야, '조작기소 특검법' 공방…\"정치검찰 방탄 시위\"·\"李대통령 방탄 특검\" - 뉴시스",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "검찰",
+        "뉴시스"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-08T12:14:39+09:00",
+      "publishedAt": "2026-11-08T12:14:39+09:00",
+      "firstCollectedAt": "2026-11-08T14:47:55+09:00",
+      "updatedAt": "2026-11-08T14:47:55+09:00",
+      "summary": "여야, '조작기소 특검법' 공방…\"정치검찰 방탄 시위\"·\"李대통령 방탄 특검\" 뉴시스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "여야, '조작기소 특검법' 공방…\"정치검찰 방탄 시위\"·\"李대통령 방탄 특검\" - 뉴시스",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15WmZteU9CcTU4enRrcVZnRFNNN2lhVzNvc0xQb1RlM1pHOEJuWlMyaUc1MklJNnd4YnV2Z20wQWhsN2hOMWNaVUx1TUdRckFkdVZjNXZ0MHdCU3ItVnN4VNIBeEFVX3lxTE92WTN6cmV1cmZ1NGhQWjJYVl95alRTX2lWYXUzMFdXcnZvR2FsQy03ZVN4WjdXTllMaFVhMFhrLUZOZ3dxN2doLTRlWkZIUklUeWJnbGRFSzV1U0x0cm1FN0JWY2x3WjBZcEhwMWhBR3VSTjNvaU10WA?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1d1c2bc7561f0387942679bff4d841c8450829f75e7d599b03e1f8b5dd6315cc"
+    },
+    {
+      "id": "20261108-DP-31B15CAC-2926",
+      "title": "野, 조작기소 특검 반발 장외투쟁 확대…與 \"정치검찰 방탄 시위\" - 매일일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "수사·재판",
+      "countries": [],
+      "institutions": [
+        "검찰",
+        "매일일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-08T14:07:49+09:00",
+      "publishedAt": "2026-11-08T14:07:49+09:00",
+      "firstCollectedAt": "2026-11-08T14:47:55+09:00",
+      "updatedAt": "2026-11-08T14:47:55+09:00",
+      "summary": "野, 조작기소 특검 반발 장외투쟁 확대…與 \"정치검찰 방탄 시위\" 매일일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "매일일보",
+          "title": "野, 조작기소 특검 반발 장외투쟁 확대…與 \"정치검찰 방탄 시위\" - 매일일보",
+          "date": "2026-11-08",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YUFlMek53SXFaYjlkWVFOY0dCaHhGWGF3Q3RrSjBNX0FOd19nbWlaRUdMMDB1dXpnVF9LQUgxcWJ1LW0wa01JdEVvWFpBTUgzRzZ1dHNObjQ0TW05T2RVVlo3S24?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "31b15cac1719d5b6070286e792eae4ab976254c0b6118b5917225349158903e3"
+    },
+    {
+      "id": "20261107-DP-53CD8FD3-2927",
+      "title": "野 '조작기소특검' 장외투쟁 돌입… 與 \"정치검찰 방탄 위한 억지\" - 경북도민일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "수사·재판",
+      "countries": [],
+      "institutions": [
+        "검찰",
+        "경북도민일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-07T16:57:00+09:00",
+      "publishedAt": "2026-11-07T16:57:00+09:00",
+      "firstCollectedAt": "2026-11-08T14:47:55+09:00",
+      "updatedAt": "2026-11-08T14:47:55+09:00",
+      "summary": "野 '조작기소특검' 장외투쟁 돌입… 與 \"정치검찰 방탄 위한 억지\" 경북도민일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "경북도민일보",
+          "title": "野 '조작기소특검' 장외투쟁 돌입… 與 \"정치검찰 방탄 위한 억지\" - 경북도민일보",
+          "date": "2026-11-07",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iLVF3V1p3N29CRUFKOUNGZjJXQVkzVUh4RS1xdGZqbkd5NFQ0TzBKaDJaOE1ELW5qNnNPN1pUeVRrR25BRmhfWXN2VEdwMnE1dVdUdkRPNU5hWElCUGJzX1dVbS1iazRUa2c?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "53cd8fd3a60fa6294abbde008f192e1ae4c621f6af80ea06d421f7f67e56769b"
+    },
+    {
+      "id": "20261106-DP-AD59238E-2921",
+      "title": "농식품부, 제4차 농식품규제 합리화 전략회의 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T18:33:00+09:00",
+      "publishedAt": "2026-11-06T18:33:00+09:00",
+      "firstCollectedAt": "2026-11-08T14:47:54+09:00",
+      "updatedAt": "2026-11-08T14:47:54+09:00",
+      "summary": "농식품부, 제4차 농식품규제 합리화 전략회의 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농식품부, 제4차 농식품규제 합리화 전략회의 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3FTdG50SU9HbnVGb1ZtUmQ1emRvWGtROW1zOWZTaWo0cUs1S25Fbm5JSnRGaDkwQVI3RllUd2dOR2hZV2dsMXd0bGo0S01fdkpQNU1YMTVJZTZEaGgwT2d5NVo3SERGVWlneFpOWkxVNXFFM1dfTmNveE51YmEzR3pqZ2NyVmt2d1Rr?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ad59238e91c884235a975b514cc8661a06bc779b3a9e4958d23d6b6253b7e776"
+    },
     {
       "id": "20261106-DP-43ECD3C8-2920",
       "title": "'조작기소 특검법' 오늘 표결…국힘 \"대통령 죄 지우기 특검\" - 뉴스웍스",
