@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-09T18:35:58+09:00",
-    "nextScheduledUpdate": "2026-11-09T19:05:58+09:00",
+    "lastSuccessfulUpdate": "2026-11-10T04:59:43+09:00",
+    "nextScheduledUpdate": "2026-11-10T05:29:43+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-09T18:35:52+09:00",
-      "finishedAt": "2026-11-09T18:35:58+09:00",
+      "startedAt": "2026-11-10T04:59:39+09:00",
+      "finishedAt": "2026-11-10T04:59:43+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 167,
-      "acceptedCandidates": 30,
-      "duplicates": 20,
-      "rejected": 132,
-      "rejectedByDate": 123,
-      "rejectedByRelevance": 9,
+      "fetchedCandidates": 166,
+      "acceptedCandidates": 25,
+      "duplicates": 23,
+      "rejected": 138,
+      "rejectedByDate": 130,
+      "rejectedByRelevance": 8,
       "rejectedAsCommentary": 0,
-      "newIssues": 12,
-      "updatedIssues": 3,
+      "newIssues": 4,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 33,
+          "count": 32,
           "error": ""
         },
         {
@@ -64,6 +64,221 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261109-DP-1D29984D-2953",
+      "title": "[퇴근길 정치 픽] 조작기소 특검법 강행에 정국 급랭…821조 예산안 처리 난항 - 뉴스핌",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "예산",
+      "countries": [],
+      "institutions": [
+        "뉴스핌"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-09T17:30:00+09:00",
+      "publishedAt": "2026-11-09T17:30:00+09:00",
+      "firstCollectedAt": "2026-11-10T04:59:41+09:00",
+      "updatedAt": "2026-11-10T04:59:41+09:00",
+      "summary": "[퇴근길 정치 픽] 조작기소 특검법 강행에 정국 급랭…821조 예산안 처리 난항 뉴스핌",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "뉴스핌",
+          "title": "[퇴근길 정치 픽] 조작기소 특검법 강행에 정국 급랭…821조 예산안 처리 난항 - 뉴스핌",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LYkNUSFBPMGN0eFh2RTZCZmljY2huSDVvaUZpVjV2UEQ2YWx1YW5KTHgxLWZTb3VvNU90eWJNUVQzbDQwelg0RGRxS21pZlppSGhRTHA2WWQwU2dJ?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1d29984dafb6dd267acf8a5700c7f01b7f3d24129ab0903792e0522a1036e06d"
+    },
+    {
+      "id": "20261109-FR-68209404-2954",
+      "title": "[외교안보 프리즘]미국, 동맹 향한 압박 ‘불변’…한국 핵잠·원자력 협정 개정은 ‘불확실’ - 경향신문",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "경향신문"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-09T21:25:00+09:00",
+      "publishedAt": "2026-11-09T21:25:00+09:00",
+      "firstCollectedAt": "2026-11-10T04:59:41+09:00",
+      "updatedAt": "2026-11-10T04:59:41+09:00",
+      "summary": "[외교안보 프리즘]미국, 동맹 향한 압박 ‘불변’…한국 핵잠·원자력 협정 개정은 ‘불확실’ 경향신문",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "경향신문",
+          "title": "[외교안보 프리즘]미국, 동맹 향한 압박 ‘불변’…한국 핵잠·원자력 협정 개정은 ‘불확실’ - 경향신문",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zTkZBZFZXdlpMWk03WHVQcDVldEQ4dHo0cHNLTDV6WDlRYXJJWGxieFcyelVJaUFucDBIYmRvdWE5Y2o3bmxlSWxaZ21LYVR3WktLelNIb1dyUdIBX0FVX3lxTFBiQzJreUM3N0hXaUNQX1RtUzlqR1Y3UmlHZTdGQ3ZzUm9FM3dTT1FHODBkR1lOejZCa0tjb1VHelFNWklpMTlaRDhseDQ0WVlXS2tuZld6NXVOdi1PeWNz?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "682094046a31df768f6ff80a55995ec65d4aab3fe3d519c57730c37df4c629dc"
+    },
+    {
+      "id": "20261109-FR-55CC0EC8-2944",
+      "title": "배달앱 불공정행위 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T15:13:06+09:00",
+      "publishedAt": "2026-11-09T15:13:06+09:00",
+      "firstCollectedAt": "2026-11-09T18:35:53+09:00",
+      "updatedAt": "2026-11-10T04:59:40+09:00",
+      "summary": "배달앱 불공정행위 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "배달앱 불공정행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94R3QyRXlZWjlhV3lLTEx2M2I1bjdxSFFnNHlPek1jd283U3BjR1dOUDZGUm9RQnNJd1Y4WDZaaGwweTU4eVpKeDVSYzhpLXlockwtalFMbXRSOGdYcFJVTjlpZi1DVnphak92Q0dTLUk4RnNtUS1J?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "배달앱 불공정행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYzR4Zk5vUFBqbVRDb3ZwNG1TdGIxeUt4dnN0Wno5YmdfZlpUWkFxeExiajN4RjZaUzlHamFjRzVuRENSa2JYZlJRZmxwaFVUOXdzSU40THdjbmFQU01qTGQyTlNlOUttQWJsejdpbGM5Q29wdlE5SHJCSlFNN0VBQ3dxMGJDczFEWU80dFhFalU2UQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-10T04:59:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "55cc0ec819d8bfaddbbc87c3c409661d21033ea5bdbf08ff3d06d4088b932484"
+    },
+    {
+      "id": "20261107-FR-AB03E52F-2951",
+      "title": "[정책 바로보기] 기본소득 확대로 지방재정 부담 가중? - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-07T07:57:29+09:00",
+      "publishedAt": "2026-11-07T07:57:29+09:00",
+      "firstCollectedAt": "2026-11-10T04:59:40+09:00",
+      "updatedAt": "2026-11-10T04:59:40+09:00",
+      "summary": "[정책 바로보기] 기본소득 확대로 지방재정 부담 가중? - 정책뉴스 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[정책 바로보기] 기본소득 확대로 지방재정 부담 가중? - 정책뉴스 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-11-07",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UYmExMDFuazdjaWVocFh6b1F0Y3ZmVHZtMlJtaGJ6dDlqUUNUclAwS0xaRGFnTUpreUk4Q29qdlVUcUJYbzZZelNRd2xiNXFpeVNIMTRlcXVMUjFCVUdfb1lHUUM1LW5ndTZBRQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ab03e52f25c5351d135bf0fba6ebd51b0d0548c8a83cb24c00dc0bf27f4007cd"
+    },
+    {
+      "id": "20261109-FR-9A0AAA6F-2952",
+      "title": "AI가 흔드는 지식재산의 경계, 새로운 질서를 논의한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T10:02:00+09:00",
+      "publishedAt": "2026-11-09T10:02:00+09:00",
+      "firstCollectedAt": "2026-11-10T04:59:40+09:00",
+      "updatedAt": "2026-11-10T04:59:40+09:00",
+      "summary": "AI가 흔드는 지식재산의 경계, 새로운 질서를 논의한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "AI가 흔드는 지식재산의 경계, 새로운 질서를 논의한다 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLUk4NGhIY01faVBvWXE2bWhBUjk2LWNMNTFtX2tsSnlTUHlrS2ZPenJJazZVbTZWR1N5SmFvOEUwb0FERkJiZ19kaU1hSUhKRkYtZW5ZcG1mX2ZYQ2JWZHpWallXV3FpR2k2NEstb2YtSFJ1RlBQZ1poYnFPWkstcFJjNHh4M05qWXJJVWwzZ0x1QUFP?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9a0aaa6fdd1eea21507f8fbb9830bf3c1ec220b57346d1702b3bb0b049dd4a70"
+    },
     {
       "id": "20261106-DP-B615757C-2891",
       "title": "'조작기소 특검법' 국회 통과...\"정치검찰 엄벌\" vs \"대통령 죄 지우기\" - YTN",
@@ -118,46 +333,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b615757c0a3f6370d4bb1db7d7491fa0f6d560416660014b3a26887fe5392271"
-    },
-    {
-      "id": "20261109-FR-55CC0EC8-2944",
-      "title": "배달앱 불공정행위 제재 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-09T15:13:06+09:00",
-      "publishedAt": "2026-11-09T15:13:06+09:00",
-      "firstCollectedAt": "2026-11-09T18:35:53+09:00",
-      "updatedAt": "2026-11-09T18:35:53+09:00",
-      "summary": "배달앱 불공정행위 제재 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "배달앱 불공정행위 제재 - 대한민국 정책브리핑",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94R3QyRXlZWjlhV3lLTEx2M2I1bjdxSFFnNHlPek1jd283U3BjR1dOUDZGUm9RQnNJd1Y4WDZaaGwweTU4eVpKeDVSYzhpLXlockwtalFMbXRSOGdYcFJVTjlpZi1DVnphak92Q0dTLUk4RnNtUS1J?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "55cc0ec819d8bfaddbbc87c3c409661d21033ea5bdbf08ff3d06d4088b932484"
     },
     {
       "id": "20261109-FR-835F1B6A-2945",
