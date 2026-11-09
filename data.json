@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-09T07:23:07+09:00",
-    "nextScheduledUpdate": "2026-11-09T07:53:07+09:00",
+    "lastSuccessfulUpdate": "2026-11-09T10:53:37+09:00",
+    "nextScheduledUpdate": "2026-11-09T11:23:37+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-09T07:23:05+09:00",
-      "finishedAt": "2026-11-09T07:23:07+09:00",
+      "startedAt": "2026-11-09T10:53:34+09:00",
+      "finishedAt": "2026-11-09T10:53:37+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 165,
-      "acceptedCandidates": 45,
-      "duplicates": 45,
-      "rejected": 119,
-      "rejectedByDate": 114,
-      "rejectedByRelevance": 5,
+      "fetchedCandidates": 166,
+      "acceptedCandidates": 36,
+      "duplicates": 33,
+      "rejected": 128,
+      "rejectedByDate": 121,
+      "rejectedByRelevance": 7,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 4,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 32,
+          "count": 33,
           "error": ""
         },
         {
@@ -64,6 +64,352 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260731-FR-5B63EBA8-019",
+      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-07-31T13:25:12+09:00",
+      "publishedAt": "2026-07-31T13:25:12+09:00",
+      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
+      "updatedAt": "2026-11-09T10:53:35+09:00",
+      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-07-31",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNpZWhNM0dDaHE1N3hPY3NqMUtsNWZQS3JRQ3JTQlBSLUZFRDQza2lOWFVaRnQ1cUZCVU0ySmt3VDdWU3hRcUc5aWEyaUpVelJWdjVaZ3lTejc1b2N0RHFBclYtZ2pZUllXSkNJUkFXbGhhSGVxN3JndzFOWXhkbmpLMEZUYUJLd2tr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 카드뉴스 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-01",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWThvV1NRRDU4anN1b096SE0wdVJ5Z2xNVG50MFM1NjBRSGdmLV9rZ1k4cmJNQkhwUjZZQUUzU2xkdDR3TThlS0EzQ1FiQVRoYVROcUUydEZoMUlGX3htQkhZUHdDZHlieGl2QlFwMUpJQ3JONTlTNEpVZUljZlJxcHo1ZmVVRERBbUZGRDc5YVJYdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-아르헨티나 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-03",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzk4QU81eUdXdWtqMkM1TWpObmlsYlExMWVKdFZoenI4SU5MalZleTdvX19manp3Snc4MkQ2TWdCTFlicTdCaGZOY3ZHdmpDdzFESUNuUUphRVZtUEVydWZuYW9WU3VDTFY5QkRaNXlHYl9uY0ppMWI5YjBYdG1MRWlTYmY3b0FkbS1F?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-브라질 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-08-18",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlQ4dXdLdUFENVlPNWloS3VQNlQ5WUp2RnZfWlVLTUY0SGF5QnRFd1dfM05lZmYtNVlqSE9Pa2kxcXNRc3BxWllyQlZPLUt2NTZfUGVEbk5mX1l4VlFxb1A2bFhfdi1acC1jV252X3FzQTA4VWFMeWdQWmMxZlNUcHVJbUpzNy1Sa1E?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWk1FZ2hPOFNHMnNmZ01MN2g5TkJMdkUwWjJfLV9XNUh5cmZCcnN0QWJLc2NVeHBuR1hublBvaFdtbXhETi15cDYxeVVVd0dGWnJHWHlXQWw1dDdSa3Q1dWFWaHBBQmR3Q25FUE5tRldkNWhiR3BmMTQ3NVZvaHViV3JsLVlzbmJLb2h3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZIQXh0dWpOYVRycnBnN2hWbTloVHlUQUxPZXdHQXk2SkpQaWNzcHJYdW1KMEUxMjQwUjBYSmVIY0x1OFZWRmxfRTg4Y0d0N3FVWTlWRklPTFExVXBsSzhfcUhTSjJ5aVhQb2VBQWRiT0JCcFFMTEsza0Y4UzlPYkl4T2x3Smp6YU1R?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-카자흐스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pc3ItdFZLMUNydHB0a1A4YlhaRDVfR2RaOVowWVoxdDIyaHlrYVE4VTBtRjhWaHkwdGlPOERvb182M3BnNnN1bTB5Z0hKemUwV1pTQ0VqSlZjRWFlSWVhR2lxOWNJeVNKSHp3TUpB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVFaOEw5MUpUQmtkU1BBLWlkSmdtanRNaE4xZEN1VGgwWktJRXhocnpXZ3ZEbzNaWk85ajFYTWdfZzFHZFFsYlNVRjBoVTFwMWozZzYxN0tza0tSVHRBbjRzRm5GbFA0TVBpLTkwcWJqcmFwaGpmRE92YXVwX0k1RGF2Ui1mc3J1c0J3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjZFQ1otOGFkbVVjVVhTQmFhOUpKVGVfenRIM0Q4NC04X1pqSXFIMFVHUDBPRjMwYkhoaVpVVmpudU84ajJESVVoRHdtOVJYNjNTbjFmZjFOYkpMOXNiRHpXanVvSS1pZnktTlJQcEM3dVkwdjREMDFrZXVIMzBSZ2hqWHR2eld6OVJv?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-30",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFVNclFTTXlGMXNMN0dZUVFFdVlEd1k5REZOTERvVlo0aUNtQnlJSEl3b215TjlUcERaeE9mWld3UG81Unc4YWF6aUVSdHpVVHh3czBpMmM4UjJlM2ljWHV3TXo1REdPWkZTMFJhZm12MURETmFmLUEtM3FCVXBqdjJSWXNYcUZ0Y3kw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42dWFVWXVvYlAwNDY0UEM3MFc2aVc2akFEMDhnS3BxTE9EaVFDS3hEOFl1YXQ3OFJEdHpCMWdES0d3SXVKZS1yUGJNWTJ5SnRZX3ZLaUM2endIN1dnUWNCOE1HZTl6X2lYVTAwR053?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-튀르키예 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-04",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CeWZNbXhhaFFSeVFSenE0c0xMa09oOUEtdTU2S041Q3RhOG5rVXZGdW91bnJiamJKN3RXSHlsMXN5Q0QtZlVKT3A3YnFzcThsZmxzdFZVSl9oOC1pV0htYndlWUZSZUtPc0JwR21n?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-동티모르 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FVXZNeXdWUWxrbU94NlQ1OXpCeTJEVHE5dDNWc3A2dElZcE9DOU9zSmRPMzlNSGJlSVVuNzJKektFcUtrNzJWRF92U1BJNjMtamI0MEFoTUpkYVhSVVpLMjRXeEZhUmpMUmN3Q0xn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-01T20:49:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-03T21:41:20+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-19T14:05:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-16T15:37:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-17T15:35:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-09-19T04:08:08+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-10-30T17:54:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        },
+        {
+          "updatedAt": "2026-10-31T00:47:24+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 8
+        },
+        {
+          "updatedAt": "2026-10-31T05:38:53+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 9
+        },
+        {
+          "updatedAt": "2026-11-01T02:52:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 10
+        },
+        {
+          "updatedAt": "2026-11-04T12:08:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 11
+        },
+        {
+          "updatedAt": "2026-11-09T10:53:35+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 12
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
+    },
+    {
+      "id": "20261109-FR-FA802724-2936",
+      "title": "조달청, 부적격 건설업체 입찰보증금 제재 지방공사까지 확대 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T09:09:41+09:00",
+      "publishedAt": "2026-11-09T09:09:41+09:00",
+      "firstCollectedAt": "2026-11-09T10:53:35+09:00",
+      "updatedAt": "2026-11-09T10:53:35+09:00",
+      "summary": "조달청, 부적격 건설업체 입찰보증금 제재 지방공사까지 확대 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "조달청, 부적격 건설업체 입찰보증금 제재 지방공사까지 확대 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRW5mVmlyYktSMEJoYUo4UWFraS1HMDc1Vzl4UW5PS045d3FnUThFTU11NEJQeVlmenBkemQtNzVjbnNPb1Q5aVRQTThmMG0yVGRmQXdibENUS2xBMjJFOWJsRWYzSDhQZkdVSXdMdm5HeWdaQWtsNEtoajFieFRTMnlHQU9SaHpCeURzeXIwOElvQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fa80272438315cd505b02bd67fce67cc2c2966a5f1fe997c8f4d458f01bb54a5"
+    },
+    {
+      "id": "20261106-FR-EEF94B47-2937",
+      "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-06T17:11:29+09:00",
+      "publishedAt": "2026-11-06T17:11:29+09:00",
+      "firstCollectedAt": "2026-11-09T10:53:35+09:00",
+      "updatedAt": "2026-11-09T10:53:35+09:00",
+      "summary": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "독감 입원환자 2배 이상 늘어…예방접종·신속 진료 당부 - 대한민국 정책브리핑",
+          "date": "2026-11-06",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03aG54MWdTWjhidUI1Mjd2M1hVemJFQUtJYW5lNmloUGZvMDZ2ODV1U3hvTmZtWkJ0ZW9sMjNKREdiWjU5WHhiX2JhQ0dVM0ZWbWpBRmNZVXdSMUNydXAzZHNGcGI4R08tSGZMbg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eef94b4785eb6fb476a12fca050ffdd9911e68bbc964f3f91ee76c9fd408fb00"
+    },
+    {
+      "id": "20261107-DP-1BA6F458-2938",
+      "title": "조작기소 특검법 여당 주도 국회 통과...국민의힘, 대규모 규탄 집회 - BBS불교방송",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "BBS불교방송"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-07T09:34:58+09:00",
+      "publishedAt": "2026-11-07T09:34:58+09:00",
+      "firstCollectedAt": "2026-11-09T10:53:35+09:00",
+      "updatedAt": "2026-11-09T10:53:35+09:00",
+      "summary": "조작기소 특검법 여당 주도 국회 통과...국민의힘, 대규모 규탄 집회 BBS불교방송",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "BBS불교방송",
+          "title": "조작기소 특검법 여당 주도 국회 통과...국민의힘, 대규모 규탄 집회 - BBS불교방송",
+          "date": "2026-11-07",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FTEk2U3dMN09adzlnN29Ca2hzSXVhRHpIUXFGd1RKVXFsMG05Mlo4RDVJbGlRckZ0VTRvc2tyaTZvQVhqVUFqYXVHSlQwSFRUNkY1YndMS21VYWM5VHU2eUJ0b0ZicktTa2Uw?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1ba6f45816977fc43534394b531a3f2b33dedd7c6d39289ed8b171b2590b48d9"
+    },
+    {
+      "id": "20261109-DP-1AA63A7D-2935",
+      "title": "'산재보상 대리인 제도' 정부 예산안 확정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T08:45:14+09:00",
+      "publishedAt": "2026-11-09T08:45:14+09:00",
+      "firstCollectedAt": "2026-11-09T10:53:34+09:00",
+      "updatedAt": "2026-11-09T10:53:34+09:00",
+      "summary": "'산재보상 대리인 제도' 정부 예산안 확정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'산재보상 대리인 제도' 정부 예산안 확정 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeFdKTk1BT1lkaTBla0V1YnJpMVQ1UXozRzVLYldYcFZaWVNrSUl6MnF2SXBtbDhHOF83Tkl6U3Q2OEFPbFoxQk5HRmtqakpQRmNoaERqQjAzcjlrUl9fbXIyYnFxVHFJLTdyYktIZGoxSzgtVlFOT1JyWEhFT3pJa21xOC05ZFY4eW1BQWlwd05Gdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1aa63a7db6031d35832959fbd22a688abe7aefcb620bfc6613da722aef20b636"
+    },
     {
       "id": "20261106-FR-5D625A63-2934",
       "title": "이 대통령 동티모르와 정상회담…외교·개발 협력 확대 : 정치 - 재경일보",
@@ -9634,179 +9980,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "034b6bca1ce346ee115c6780cb9c1236b93a86d9be1a1feedb92e9761485cb92"
-    },
-    {
-      "id": "20260731-FR-5B63EBA8-019",
-      "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-07-31T13:25:12+09:00",
-      "publishedAt": "2026-07-31T13:25:12+09:00",
-      "firstCollectedAt": "2026-07-31T16:19:10+09:00",
-      "updatedAt": "2026-11-04T12:08:45+09:00",
-      "summary": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-07-31",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGNpZWhNM0dDaHE1N3hPY3NqMUtsNWZQS3JRQ3JTQlBSLUZFRDQza2lOWFVaRnQ1cUZCVU0ySmt3VDdWU3hRcUc5aWEyaUpVelJWdjVaZ3lTejc1b2N0RHFBclYtZ2pZUllXSkNJUkFXbGhhSGVxN3JndzFOWXhkbmpLMEZUYUJLd2tr?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-칠레 정상회담 결과, 국민께 보고드립니다 - 카드뉴스 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-01",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWThvV1NRRDU4anN1b096SE0wdVJ5Z2xNVG50MFM1NjBRSGdmLV9rZ1k4cmJNQkhwUjZZQUUzU2xkdDR3TThlS0EzQ1FiQVRoYVROcUUydEZoMUlGX3htQkhZUHdDZHlieGl2QlFwMUpJQ3JONTlTNEpVZUljZlJxcHo1ZmVVRERBbUZGRDc5YVJYdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-아르헨티나 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-03",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMzk4QU81eUdXdWtqMkM1TWpObmlsYlExMWVKdFZoenI4SU5MalZleTdvX19manp3Snc4MkQ2TWdCTFlicTdCaGZOY3ZHdmpDdzFESUNuUUphRVZtUEVydWZuYW9WU3VDTFY5QkRaNXlHYl9uY0ppMWI5YjBYdG1MRWlTYmY3b0FkbS1F?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-브라질 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-08-18",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlQ4dXdLdUFENVlPNWloS3VQNlQ5WUp2RnZfWlVLTUY0SGF5QnRFd1dfM05lZmYtNVlqSE9Pa2kxcXNRc3BxWllyQlZPLUt2NTZfUGVEbk5mX1l4VlFxb1A2bFhfdi1acC1jV252X3FzQTA4VWFMeWdQWmMxZlNUcHVJbUpzNy1Sa1E?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-카자흐스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWk1FZ2hPOFNHMnNmZ01MN2g5TkJMdkUwWjJfLV9XNUh5cmZCcnN0QWJLc2NVeHBuR1hublBvaFdtbXhETi15cDYxeVVVd0dGWnJHWHlXQWw1dDdSa3Q1dWFWaHBBQmR3Q25FUE5tRldkNWhiR3BmMTQ3NVZvaHViV3JsLVlzbmJLb2h3?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-카자흐스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbXZIQXh0dWpOYVRycnBnN2hWbTloVHlUQUxPZXdHQXk2SkpQaWNzcHJYdW1KMEUxMjQwUjBYSmVIY0x1OFZWRmxfRTg4Y0d0N3FVWTlWRklPTFExVXBsSzhfcUhTSjJ5aVhQb2VBQWRiT0JCcFFMTEsza0Y4UzlPYkl4T2x3Smp6YU1R?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-카자흐스탄 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pc3ItdFZLMUNydHB0a1A4YlhaRDVfR2RaOVowWVoxdDIyaHlrYVE4VTBtRjhWaHkwdGlPOERvb182M3BnNnN1bTB5Z0hKemUwV1pTQ0VqSlZjRWFlSWVhR2lxOWNJeVNKSHp3TUpB?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVFaOEw5MUpUQmtkU1BBLWlkSmdtanRNaE4xZEN1VGgwWktJRXhocnpXZ3ZEbzNaWk85ajFYTWdfZzFHZFFsYlNVRjBoVTFwMWozZzYxN0tza0tSVHRBbjRzRm5GbFA0TVBpLTkwcWJqcmFwaGpmRE92YXVwX0k1RGF2Ui1mc3J1c0J3?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjZFQ1otOGFkbVVjVVhTQmFhOUpKVGVfenRIM0Q4NC04X1pqSXFIMFVHUDBPRjMwYkhoaVpVVmpudU84ajJESVVoRHdtOVJYNjNTbjFmZjFOYkpMOXNiRHpXanVvSS1pZnktTlJQcEM3dVkwdjREMDFrZXVIMzBSZ2hqWHR2eld6OVJv?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-30",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFVNclFTTXlGMXNMN0dZUVFFdVlEd1k5REZOTERvVlo0aUNtQnlJSEl3b215TjlUcERaeE9mWld3UG81Unc4YWF6aUVSdHpVVHh3czBpMmM4UjJlM2ljWHV3TXo1REdPWkZTMFJhZm12MURETmFmLUEtM3FCVXBqdjJSWXNYcUZ0Y3kw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-독일 정상회담 결과, 국민께 보고드립니다 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-31",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42dWFVWXVvYlAwNDY0UEM3MFc2aVc2akFEMDhnS3BxTE9EaVFDS3hEOFl1YXQ3OFJEdHpCMWdES0d3SXVKZS1yUGJNWTJ5SnRZX3ZLaUM2endIN1dnUWNCOE1HZTl6X2lYVTAwR053?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-튀르키예 정상회담 결과, 국민께 보고드립니다 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-04",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CeWZNbXhhaFFSeVFSenE0c0xMa09oOUEtdTU2S041Q3RhOG5rVXZGdW91bnJiamJKN3RXSHlsMXN5Q0QtZlVKT3A3YnFzcThsZmxzdFZVSl9oOC1pV0htYndlWUZSZUtPc0JwR21n?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-01T20:49:07+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-03T21:41:20+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-19T14:05:55+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-16T15:37:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-17T15:35:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-09-19T04:08:08+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        },
-        {
-          "updatedAt": "2026-10-30T17:54:10+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 7
-        },
-        {
-          "updatedAt": "2026-10-31T00:47:24+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 8
-        },
-        {
-          "updatedAt": "2026-10-31T05:38:53+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 9
-        },
-        {
-          "updatedAt": "2026-11-01T02:52:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 10
-        },
-        {
-          "updatedAt": "2026-11-04T12:08:45+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 11
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "5b63eba8d521ee5d8aa4874ca8a54e120f62a52c62e6075f248aa3aa5b762aea"
     },
     {
       "id": "20261104-DP-F31DA8B6-2729",
