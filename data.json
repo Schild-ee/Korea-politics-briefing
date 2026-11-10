@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-11T03:34:33+09:00",
-    "nextScheduledUpdate": "2026-11-11T04:04:33+09:00",
+    "lastSuccessfulUpdate": "2026-11-11T08:40:13+09:00",
+    "nextScheduledUpdate": "2026-11-11T09:10:13+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-11T03:34:28+09:00",
-      "finishedAt": "2026-11-11T03:34:33+09:00",
+      "startedAt": "2026-11-11T08:40:09+09:00",
+      "finishedAt": "2026-11-11T08:40:13+09:00",
       "activeSources": 4,
       "fetchedCandidates": 165,
-      "acceptedCandidates": 49,
-      "duplicates": 45,
-      "rejected": 106,
-      "rejectedByDate": 97,
-      "rejectedByRelevance": 9,
+      "acceptedCandidates": 50,
+      "duplicates": 54,
+      "rejected": 105,
+      "rejectedByDate": 95,
+      "rejectedByRelevance": 10,
       "rejectedAsCommentary": 0,
-      "newIssues": 11,
-      "updatedIssues": 3,
+      "newIssues": 4,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,394 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261110-FR-7C539DD2-2988",
+      "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T21:30:00+09:00",
+      "publishedAt": "2026-11-10T21:30:00+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T08:40:10+09:00",
+      "summary": "한미 외교장관 환담(11.10.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0Jja09VZEpuSGNXMkF4STZ6alFpR01EUjl4ZTBhWnJfVGNJakc4dUEwNkhWTDZWUWlBRGdlb3otNW03Qll0dUVwYXdGVVBzU3NjOHZNcXRxc3hPRFpjSG9KVEw5TnFHbklhQ3ZCQjVObTRxaGxCdVNPdFNPM0xyOFhvQVBiMXdVVjNxTVFSWFBtdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV25UTGxXMV9ydXpQTHdhdTNRaUFmVlNwdmtWUUMzYng5bGo0QW54bkhaMG9FM0k3ZFA3ZmZkV0U3REhtdEpldWNaRkN0TW0xdUNTcjJSbjRELWUtVkZMTnVRMzAzbm1FTm4yMGNmUFdfSTE3VkdEMS1oYWZjc3dyTU9ic0x2MmZGalZmd0Z5Sy1rTU1P?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T08:40:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7c539dd2f59f2f44b0f1150bcbfa72ccfa29e21b033fa6d6d6bec78355ece116"
+    },
+    {
+      "id": "20260804-DP-27838018-124",
+      "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-04T16:24:00+09:00",
+      "publishedAt": "2026-08-04T16:24:00+09:00",
+      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
+      "updatedAt": "2026-11-11T08:40:10+09:00",
+      "summary": "제34회 국무회의 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-04",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNW5ad1Z1eHYybDdUbmpmeGZvV0Z1ejM1R21yc2ZvazF1aGdRdFlvVEdudWJiM0ZSSWFQYXdHVGRIRFBwdi1vS1pwU3ZHTDlSU3BQd1ZiT2pkVDgtTWUtcUV4aHYybkY4ZlNaUlBoc0hGcDdh?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제35회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-11",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDhqdUJfaEFZX3RqX2dTcWV3ZWEwZWxDNEh0OXo2UWFROFBVeWd3OUlfX3VlS0RjMGNBNGRSR25sc0R1TW0yX1AweTNQSDBNZUxiS255UzZmWllkYVBxMjRvSDFCRGVZek5DczJRMm9ZcVg0?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제37회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-08-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTB5T1M4UGlwbnByZ3ZNOS11MTYwV3B6RUdmemdFLUFEUlcwSnUwWWpmME9TV0VkSEMtSXNobERXTl8zU1ZFZ0F6bmp0dmhFZWJ3bXJEZmFMVGxadExfWlJWX1NnLTlicElSZkxIV2g4QkQ0Nm9jLWRDRlNhZ05QaVp6NGFheUJIUk5tb2VTb19Pdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제38회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-01",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93UlZ6TDBxNFRzRkJ6b2UtMmExbVFEb1N0RHhES3ZDWkRGXzVOczFvZlRqRTF4U2tEWmUxdHNjemVoRlhxSWZaQmc5azBiN3pzeVM5d3VCQTFxUzNMc2JMcThtZk4ySFQ4eGRhTjdsLXlqcHVR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제39회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-08",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LbVR3ekZiZVFrLUg2Vm95VFFZRnZKVFYxWjFLZF90cWNUOW5BWWNjX3psZEN5Ul9jdlpUQTVIN3ZjS0Y5UmJ5RzlmeWY4ZUxLRW9oTGVXbWw1ek5JOU1QdXVvOUNFYVV6em5PMHVleXd1c1Vv?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제39회 국무회의 결과 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-09",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CbFpmSWdTMGV0WE80eXBJcFQzalB3ZlB5R0ZyVE53Snh1alUtdE0zYi1lTDBsRUZHMklNVW5GdEEzaWQxbUlMVXJLenhsVlVXYmo1Wm9xa3paZEFrUUFNeVg0b3ZuclhPVTM1dFRNXzQ4Wk9Kczhj?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제40회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02RklxN0J4TWdCVTFwLU9HcmdPVVIyNnNQUWhCT0xjOTVOeW1UUE5hMmtwTmIwQ3RKYTdiOVBaWWJvWTdDMUhnby1aaTBmOEpXMnFpbVZNdmgxYnhVTkszM29OSUxGcVZOMXpUV0s2UHZGNFR3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제40회 국무회의 결과 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-15",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rWDVWbXp3U3N5Q3FqbUxPWl9ZOTNxOEloX002dE55R1RSLVA2dmRfSzRhVUdOaEZjR1VTWi1GT1lqWDJsZWhmRXg5NjdseTEwMDVQQkU5QWRkaUxsWGx5dFFvWTVabFBBRUR4bDF3NkpBc282?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제40회 국무회의 결과 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-16",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OR2ZWRVlMdDQ3Vmo0S3c5SUxKWlk5ZXpmZEtLbHo5V1RCN09Oa2oyX1YyclVIX0ZoVU1PTmUyY3gtd0dWeVp4eGFkaFNiM1ZCVDYtdEV1RktYMlBNNHhrRUk2Q3cxbXlFek5NWnZ1MDEwRndLNllr?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제41회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-09-22",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PZ3FKbW9IbzR4SmhvS1ZjTEpXV3JDT185aEdIV1hzSzZmdDZxa1VzX3NXU3dMLXdrQ3lrV3FEQjZRN0p4SmxmTFYtano4eGo3bzVwa0FJLTF5SWgxTDRGbGNuc3JDeDRCZjNKY0dZZV9pZi1R?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제47회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-03",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDcxQkxWYmRPNXVOQURQTnBMNzlzVmp4cUtRLWkzRkJ1RkFFdTdYU3pCWEdMcVl1TkFXUEJIUVNncklyUTE1VEdTX1BlWW9nVlFjTGNMNFRvRHMwYkhKVEFOTjB4QmthamM0SUxpcFVobEowT0lWTjJUbm5qM2dYU082OURLenBlSWN0WEhELTZBQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제48회 국무회의 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUYjZodWxMMVh6YjlvSmZxdjFhbmpuYTBOZzh1UUYxS0VQeTFkVnJXdmlPcEptMFFPSWF6em1PdG9xX282dDhNejJZdldBTW8xQm11engwTl94R3ZvTnM5ZzYzZ1E2MG43dFBZWFpHQmUyVV9B?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-11T17:15:19+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-26T04:46:27+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-09-01T22:26:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-09-08T18:01:11+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-09-11T18:03:59+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        },
+        {
+          "updatedAt": "2026-09-15T15:36:48+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 6
+        },
+        {
+          "updatedAt": "2026-09-17T15:35:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 7
+        },
+        {
+          "updatedAt": "2026-09-19T01:17:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 8
+        },
+        {
+          "updatedAt": "2026-09-22T18:49:45+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 9
+        },
+        {
+          "updatedAt": "2026-11-03T18:57:31+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 10
+        },
+        {
+          "updatedAt": "2026-11-11T08:40:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 11
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "278380188e956ca19c9675fbd90abad5f4a73d87a05b18743c51f4a09875eb7e"
+    },
+    {
+      "id": "20261109-FR-33676F58-2996",
+      "title": "'Team Korea' - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T17:42:22+09:00",
+      "publishedAt": "2026-11-09T17:42:22+09:00",
+      "firstCollectedAt": "2026-11-11T08:40:10+09:00",
+      "updatedAt": "2026-11-11T08:40:10+09:00",
+      "summary": "'Team Korea' - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'Team Korea' - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBEcjBYanJra0p2TmpJQU93NlpGc1o0VVFTSlJBSU9EWWVZR1BNTUhaaU0tUWdPQTlsR052ZVYzZnlDUW5QcE5SNU9lbEt1bDNDTV9jLWgwSFQyWFhXYklfTEZzX21GWk9WaU5ybA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "33676f58748d90962c736e38a721a90ed54fe196073a7eecd4bee8c384482f79"
+    },
+    {
+      "id": "20261111-FR-C3B317B4-2997",
+      "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T06:00:00+09:00",
+      "publishedAt": "2026-11-11T06:00:00+09:00",
+      "firstCollectedAt": "2026-11-11T08:40:10+09:00",
+      "updatedAt": "2026-11-11T08:40:10+09:00",
+      "summary": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「제11회 부동산산업의 날」 \"국민 신뢰와 산업 혁신 다짐\" - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUkhadmxQNVhWWTljVDVDUTRsRi1feXNIekVPMDlsSE1fbG1WWUUzOVc4YzAzRFNKSVZoWEdDdWppNGV4N3ZoVnFGM2phZ19DaERoNjdpNWFnM09lY0FsMFp4RmpDMDNLT29vLXJXMFhnd2I3RUVFdVBZNHNxc3FBUkhRV0hmX2RDM1cxNGNDV1pGZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c3b317b47aca45b68cfebfb641640e71fd2ecc360b5e6cc33aea49f925daf009"
+    },
+    {
+      "id": "20261109-FR-C4F212F3-2998",
+      "title": "식약처, 김장철 수입식품 안전관리 강화…배추·고춧가루 등 집중 검사 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T15:39:25+09:00",
+      "publishedAt": "2026-11-09T15:39:25+09:00",
+      "firstCollectedAt": "2026-11-11T08:40:10+09:00",
+      "updatedAt": "2026-11-11T08:40:10+09:00",
+      "summary": "식약처, 김장철 수입식품 안전관리 강화…배추·고춧가루 등 집중 검사 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "식약처, 김장철 수입식품 안전관리 강화…배추·고춧가루 등 집중 검사 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42OFRIb3N0STB4YURFOV9oanNFWmpOOUU3RWtScjV0cEZlbVJIbmpSNnlyaFhYY2RkZFBLUlNscGtuV0JnTE9HekZNekZNZV9Eck1LVEJhVGxWZ1RoSmlLeDNraXZvOGdTV2VIYg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c4f212f3d311a978e373e064091b4fd697c4082b39ace3d3fb1fdd66d0f1b472"
+    },
+    {
+      "id": "20261110-FR-F3599D1A-2999",
+      "title": "현존 최고(最古) 궁궐 정문 '창덕궁 돈화문' 보수공사…본격 해체 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T15:30:50+09:00",
+      "publishedAt": "2026-11-10T15:30:50+09:00",
+      "firstCollectedAt": "2026-11-11T08:40:10+09:00",
+      "updatedAt": "2026-11-11T08:40:10+09:00",
+      "summary": "현존 최고(最古) 궁궐 정문 '창덕궁 돈화문' 보수공사…본격 해체 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "현존 최고(最古) 궁궐 정문 '창덕궁 돈화문' 보수공사…본격 해체 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5POVc2ekJpdjJYS0Jid2JleUV3b0ZkYmNORUV2dHlydWU1cHozcU1lRjFFZTRoaVU1WkFWeWhKaERRWWVVekUzbEtDUEJFSXZZZnd0SnY4UGVZZVhfNFNWb2FFNnQ0Qy1UTlBGVw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f3599d1a88f2b858c592055fcadcbfca339955c39acf342abc0f4a61efe1377c"
+    },
     {
       "id": "20261110-DP-0A8D32CF-2966",
       "title": "「유아교육법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
@@ -344,48 +732,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "8bf8663ed74e31290ba5f4cac62053981f0624d942be06a59a6e140e1f1bfef8"
-    },
-    {
-      "id": "20261110-FR-7C539DD2-2988",
-      "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-10T21:30:00+09:00",
-      "publishedAt": "2026-11-10T21:30:00+09:00",
-      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
-      "updatedAt": "2026-11-11T03:34:29+09:00",
-      "summary": "한미 외교장관 환담(11.10.) 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0Jja09VZEpuSGNXMkF4STZ6alFpR01EUjl4ZTBhWnJfVGNJakc4dUEwNkhWTDZWUWlBRGdlb3otNW03Qll0dUVwYXdGVVBzU3NjOHZNcXRxc3hPRFpjSG9KVEw5TnFHbklhQ3ZCQjVObTRxaGxCdVNPdFNPM0xyOFhvQVBiMXdVVjNxTVFSWFBtdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "7c539dd2f59f2f44b0f1150bcbfa72ccfa29e21b033fa6d6d6bec78355ece116"
     },
     {
       "id": "20261110-FR-C68D185C-2989",
@@ -14023,167 +14369,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "100c572b7d3ff00ad9be515a723102e0f93108c8e7dfea9be031dd6d8639d75a"
-    },
-    {
-      "id": "20260804-DP-27838018-124",
-      "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-04T16:24:00+09:00",
-      "publishedAt": "2026-08-04T16:24:00+09:00",
-      "firstCollectedAt": "2026-08-05T15:14:55+09:00",
-      "updatedAt": "2026-11-03T18:57:31+09:00",
-      "summary": "제34회 국무회의 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제34회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-04",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wNW5ad1Z1eHYybDdUbmpmeGZvV0Z1ejM1R21yc2ZvazF1aGdRdFlvVEdudWJiM0ZSSWFQYXdHVGRIRFBwdi1vS1pwU3ZHTDlSU3BQd1ZiT2pkVDgtTWUtcUV4aHYybkY4ZlNaUlBoc0hGcDdh?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제35회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-11",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KeDhqdUJfaEFZX3RqX2dTcWV3ZWEwZWxDNEh0OXo2UWFROFBVeWd3OUlfX3VlS0RjMGNBNGRSR25sc0R1TW0yX1AweTNQSDBNZUxiS255UzZmWllkYVBxMjRvSDFCRGVZek5DczJRMm9ZcVg0?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제37회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-08-25",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTB5T1M4UGlwbnByZ3ZNOS11MTYwV3B6RUdmemdFLUFEUlcwSnUwWWpmME9TV0VkSEMtSXNobERXTl8zU1ZFZ0F6bmp0dmhFZWJ3bXJEZmFMVGxadExfWlJWX1NnLTlicElSZkxIV2g4QkQ0Nm9jLWRDRlNhZ05QaVp6NGFheUJIUk5tb2VTb19Pdw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제38회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-01",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93UlZ6TDBxNFRzRkJ6b2UtMmExbVFEb1N0RHhES3ZDWkRGXzVOczFvZlRqRTF4U2tEWmUxdHNjemVoRlhxSWZaQmc5azBiN3pzeVM5d3VCQTFxUzNMc2JMcThtZk4ySFQ4eGRhTjdsLXlqcHVR?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제39회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-08",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LbVR3ekZiZVFrLUg2Vm95VFFZRnZKVFYxWjFLZF90cWNUOW5BWWNjX3psZEN5Ul9jdlpUQTVIN3ZjS0Y5UmJ5RzlmeWY4ZUxLRW9oTGVXbWw1ek5JOU1QdXVvOUNFYVV6em5PMHVleXd1c1Vv?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제39회 국무회의 결과 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-09",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CbFpmSWdTMGV0WE80eXBJcFQzalB3ZlB5R0ZyVE53Snh1alUtdE0zYi1lTDBsRUZHMklNVW5GdEEzaWQxbUlMVXJLenhsVlVXYmo1Wm9xa3paZEFrUUFNeVg0b3ZuclhPVTM1dFRNXzQ4Wk9Kczhj?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제40회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02RklxN0J4TWdCVTFwLU9HcmdPVVIyNnNQUWhCT0xjOTVOeW1UUE5hMmtwTmIwQ3RKYTdiOVBaWWJvWTdDMUhnby1aaTBmOEpXMnFpbVZNdmgxYnhVTkszM29OSUxGcVZOMXpUV0s2UHZGNFR3?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제40회 국무회의 결과 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-15",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rWDVWbXp3U3N5Q3FqbUxPWl9ZOTNxOEloX002dE55R1RSLVA2dmRfSzRhVUdOaEZjR1VTWi1GT1lqWDJsZWhmRXg5NjdseTEwMDVQQkU5QWRkaUxsWGx5dFFvWTVabFBBRUR4bDF3NkpBc282?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제40회 국무회의 결과 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-16",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OR2ZWRVlMdDQ3Vmo0S3c5SUxKWlk5ZXpmZEtLbHo5V1RCN09Oa2oyX1YyclVIX0ZoVU1PTmUyY3gtd0dWeVp4eGFkaFNiM1ZCVDYtdEV1RktYMlBNNHhrRUk2Q3cxbXlFek5NWnZ1MDEwRndLNllr?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제41회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-09-22",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1PZ3FKbW9IbzR4SmhvS1ZjTEpXV3JDT185aEdIV1hzSzZmdDZxa1VzX3NXU3dMLXdrQ3lrV3FEQjZRN0p4SmxmTFYtano4eGo3bzVwa0FJLTF5SWgxTDRGbGNuc3JDeDRCZjNKY0dZZV9pZi1R?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "제47회 국무회의 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-11-03",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRDcxQkxWYmRPNXVOQURQTnBMNzlzVmp4cUtRLWkzRkJ1RkFFdTdYU3pCWEdMcVl1TkFXUEJIUVNncklyUTE1VEdTX1BlWW9nVlFjTGNMNFRvRHMwYkhKVEFOTjB4QmthamM0SUxpcFVobEowT0lWTjJUbm5qM2dYU082OURLenBlSWN0WEhELTZBQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-11T17:15:19+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-26T04:46:27+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-09-01T22:26:14+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-09-08T18:01:11+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        },
-        {
-          "updatedAt": "2026-09-11T18:03:59+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 5
-        },
-        {
-          "updatedAt": "2026-09-15T15:36:48+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 6
-        },
-        {
-          "updatedAt": "2026-09-17T15:35:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 7
-        },
-        {
-          "updatedAt": "2026-09-19T01:17:45+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 8
-        },
-        {
-          "updatedAt": "2026-09-22T18:49:45+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 9
-        },
-        {
-          "updatedAt": "2026-11-03T18:57:31+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 10
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "278380188e956ca19c9675fbd90abad5f4a73d87a05b18743c51f4a09875eb7e"
     },
     {
       "id": "20261103-DP-99EEE1F1-2701",
