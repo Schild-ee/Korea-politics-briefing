@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-10T19:58:14+09:00",
-    "nextScheduledUpdate": "2026-11-10T20:28:14+09:00",
+    "lastSuccessfulUpdate": "2026-11-11T03:34:33+09:00",
+    "nextScheduledUpdate": "2026-11-11T04:04:33+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-10T19:58:07+09:00",
-      "finishedAt": "2026-11-10T19:58:14+09:00",
+      "startedAt": "2026-11-11T03:34:28+09:00",
+      "finishedAt": "2026-11-11T03:34:33+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 166,
-      "acceptedCandidates": 42,
-      "duplicates": 27,
-      "rejected": 117,
-      "rejectedByDate": 108,
+      "fetchedCandidates": 165,
+      "acceptedCandidates": 49,
+      "duplicates": 45,
+      "rejected": 106,
+      "rejectedByDate": 97,
       "rejectedByRelevance": 9,
       "rejectedAsCommentary": 0,
-      "newIssues": 19,
+      "newIssues": 11,
       "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 34,
+          "count": 33,
           "error": ""
         },
         {
@@ -64,6 +64,611 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261110-DP-0A8D32CF-2966",
+      "title": "「유아교육법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T13:30:00+09:00",
+      "publishedAt": "2026-11-10T13:30:00+09:00",
+      "firstCollectedAt": "2026-11-10T19:58:08+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "「유아교육법 시행령」 일부개정령안 국무회의 통과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「유아교육법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVhxU1BtQzBRVU45Y0l4UWdIaEJSaExsUmFDRWlIQ2hFT01jT0luYTE5dnFlWEkxRy1VdmJiaEYxQkpqMDR6TG5La0RSa0JxaFhHeDRPSE9mWFgzX2pHUDFKRHlKeFVudndJMWh3RHRwbXVQQUVld1lqVHMxalQ3b2ZIX01NdWZ6YXRudnRBNG1Zdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「유아교육법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4YnlBQ2czRUxlQmlGcUp1NEdTUk9ZSDNWaFB1RVpZNXZLWU1tekJlVXM3U3FsWGRmcUFVbEpSN1dwa1Vsd3BNamp5WHdiYklVYjlHTGVPTmhRUThvQnJmX200Y2tPcnlldjN2eGNvNGZ2cjdi?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T03:34:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0a8d32cfafd9fd84d3542ac5b953c6c8c74ba76d7ca1a71afc1eed472b985b57"
+    },
+    {
+      "id": "20261110-DP-4C821998-2971",
+      "title": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T16:43:21+09:00",
+      "publishedAt": "2026-11-10T16:43:21+09:00",
+      "firstCollectedAt": "2026-11-10T19:58:08+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1dBNENuVUJyYldMMURCQTNyUktycHFOMUZQaG5QdzE3YzdrcHREdVBjRnd2S3QtYnBHZy05Rk02SlExZkdySEZYbXRhSHB6Q2s4aF9kNzExYms1MTRyRmpoN0pNM2o0NG9DVWJVRElnVGZucVhhbGtIWkZsM1dqNU9tM3gwWW5fbFE?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRmdCb2twSFpaQVIydmh4cFdMcWZkYjlodGxWQTZtRjk4NVk0WGVSTHd5Um5Wc3BlOXpmdkR2WDlJV1pNaXlBUTNjSlpJNlV6Yzk4V3A1MU5ESzRkTzQwQ2hjWmtCQ2pxRy11bVVmQzgtZF9lNDczUDU2SjZRTFd2UkV0NE8yMmkwVlE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T03:34:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4c8219986c650101e552c6458033bcca7526a527ed95ac900083d6400657822d"
+    },
+    {
+      "id": "20261109-FR-835F1B6A-2945",
+      "title": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T16:26:18+09:00",
+      "publishedAt": "2026-11-09T16:26:18+09:00",
+      "firstCollectedAt": "2026-11-09T18:35:53+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3ZPZXctbXRjY0hpXzRONU1yelVKLUhsdG91ZXB0RFpqZ2tUdEhIX0U2ZkNNLWIwWVdzQUlad1YybFdMMElDOE83Q01HRER6eHZsb0RhMnltdVQ5dkdrWGZBalFmekFQaHlPc094U0RQd2ZwVmJtSDNJYlpmUXhyMUF2Y2xXVFg4SFFzdUl6NEtHZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkWU9XeDcxaV82OUU2dzJvejRIdC1lRGVxMkdDQ1lDRWpBUElheHRXaDBKUVdTZUltRERWYTl4NklUSVlxdWpQbzcwUVNaTjFhbFlZaXh1eFBIdHpUX1Z0RkVDQWZPS1YtUUwwVnk5aUZFSzhi?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T03:34:29+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "835f1b6a585951fd19ecdb3104730bbdd5e4177e1c95063cb8dc443d7513e0e8"
+    },
+    {
+      "id": "20261110-DP-595F6E0C-2985",
+      "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T23:26:15+09:00",
+      "publishedAt": "2026-11-10T23:26:15+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjlnSDBsNlN3U2xob2cyTkw0YjA4b3BiX1N4ZnBsQkJVVXZzV1NLN1N4X0g1dXZGZjFheUk0ZU92N3NCZVJRSmpaVTZKcnRBNXdWeHRrQWF2TzRxM2sxTFE5d1dvWFdqRHBIb0Q2OEZHYXN6VmFWdU1qVC1zUXNhVkdWNklZZERrcUc5SQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "595f6e0c3cd49680d47ada901b99b90b65bdc1a4b5f4bed99f2017c2de9bad54"
+    },
+    {
+      "id": "20261110-DP-F9680013-2986",
+      "title": "[해명] 「제5차 국가철도망 구축계획('26~'35)」은 아직 확정되지 않았습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T23:27:03+09:00",
+      "publishedAt": "2026-11-10T23:27:03+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "[해명] 「제5차 국가철도망 구축계획('26~'35)」은 아직 확정되지 않았습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[해명] 「제5차 국가철도망 구축계획('26~'35)」은 아직 확정되지 않았습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONXNaemhNMlB2RVBtdW5PRkxwX2FLYUJoYUdWcmYyQ0tUcGRnd1Bva1UzOUJyeHZhUFgtTXljaGZJbndoWkZ6WTk0cGE5WlJTRGIxanpuTkJJUm9Ca09Ha3RCRG1OSVpTSkdUZEM2LXN4bWE3LVk2OXRaRnJSTGo1cjVGNWgyRy1Kamw2NA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f968001389453e4efb9cfd105759f49a8494b952ad76cc5971448c11c9d4bd17"
+    },
+    {
+      "id": "20261110-DP-8BF8663E-2987",
+      "title": "에너지바우처 끊긴 2만 5000가구, 정부가 찾아 재신청 돕는다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T23:15:00+09:00",
+      "publishedAt": "2026-11-10T23:15:00+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "에너지바우처 끊긴 2만 5000가구, 정부가 찾아 재신청 돕는다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "에너지바우처 끊긴 2만 5000가구, 정부가 찾아 재신청 돕는다 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRWttaEdxUGFsT2hPZ2RTN1c3bU9uUjdsUGVIdGgzbFFWWFZHcGZCbC1JN0xuckptVURZUVBWbTB0YVJySlFKN25PVU1GZFBka096dmU4U3FLVThMTHdueWlvdVk0S0FPU25iYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8bf8663ed74e31290ba5f4cac62053981f0624d942be06a59a6e140e1f1bfef8"
+    },
+    {
+      "id": "20261110-FR-7C539DD2-2988",
+      "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T21:30:00+09:00",
+      "publishedAt": "2026-11-10T21:30:00+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "한미 외교장관 환담(11.10.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb0Jja09VZEpuSGNXMkF4STZ6alFpR01EUjl4ZTBhWnJfVGNJakc4dUEwNkhWTDZWUWlBRGdlb3otNW03Qll0dUVwYXdGVVBzU3NjOHZNcXRxc3hPRFpjSG9KVEw5TnFHbklhQ3ZCQjVObTRxaGxCdVNPdFNPM0xyOFhvQVBiMXdVVjNxTVFSWFBtdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7c539dd2f59f2f44b0f1150bcbfa72ccfa29e21b033fa6d6d6bec78355ece116"
+    },
+    {
+      "id": "20261110-FR-C68D185C-2989",
+      "title": "G7 외교장관회의 계기 한-캐 외교장관회담(11.10) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T22:06:55+09:00",
+      "publishedAt": "2026-11-10T22:06:55+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "G7 외교장관회의 계기 한-캐 외교장관회담(11.10) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "G7 외교장관회의 계기 한-캐 외교장관회담(11.10) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzFaVFoyWTFQSE9ITWE5b0xpY3NvSlgzeHl2NjdrT0hzbHdmcWhCSklEYnF2VEhzRHJCbHhrRmJfbXNwck1BNmo4MzB3Yy12LVZRUTJ4RWVVQnBZLWdZakE3NU5tZUQwV0dGb1N6VGhuRFR1UXhNUW1mTjVwRi1IbVBnajh1OWU1RGIwRkpPRlZPR252?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c68d185c17f8582df5b9d1901b433ab21d50eb1c65703918bed1e98ffe6c3a7d"
+    },
+    {
+      "id": "20261110-FR-9D10180E-2990",
+      "title": "한일 에너지 파트너십의 미래 - 탄소중립과 에너지 공급망 회복력 강화를 위한 한일 민관 협력 강화 방안 논의 - - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "경제안보",
+      "countries": [
+        "일본"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T20:09:07+09:00",
+      "publishedAt": "2026-11-10T20:09:07+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "한일 에너지 파트너십의 미래 - 탄소중립과 에너지 공급망 회복력 강화를 위한 한일 민관 협력 강화 방안 논의 - 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한일 에너지 파트너십의 미래 - 탄소중립과 에너지 공급망 회복력 강화를 위한 한일 민관 협력 강화 방안 논의 - - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNXlRRzlaNzl1QWNrUDBjd1pmRUNfcnhwQkR3SGhSa0xwMWFsbEVpMF9MSFNfdkJLR0JRMzhHWXJhLWVRaXhYbG53dEFkY0J3aUxuYnFtSHdEMk9qVUpxYkNEZG5TdjN0ZWJLa0NWNWU3NHV5S0RpQVdPZHNHZHE3UnlyZkpnb2c0bGlvQkwtVzF0Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9d10180eeed8871219713c3676e22b3997037199ae9b0612d8737a846488ab33"
+    },
+    {
+      "id": "20261110-FR-1F343090-2991",
+      "title": "쌀값은 어떻게 결정되나요? 쌀의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T19:45:13+09:00",
+      "publishedAt": "2026-11-10T19:45:13+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "쌀의 모든 것 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "쌀값은 어떻게 결정되나요? 쌀의 모든 것 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUFnSlgtNHp0Nmo2V1JOS0l3RmhMVGh4Y0VBU3F0azFYb1paNWlIdWhQM2F1a05WNG1tSEhLWld4T09VYnJfcVNybWVoRFFlLXIzbGEzODhjWVdYRm1ySUJGVW1rdlhNdEQyN0xyZkpvSHdFenJ2RWItQWN3Wi1nOXZ5dHYxWGdabEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1f343090e2bd3e8344da1f68ea007f2ef2ee96ff3c7d030f80c94e6d1b9a935a"
+    },
+    {
+      "id": "20261110-FR-66EDEF25-2992",
+      "title": "LG디스플레이, 2026년 특허기술상 1등 영예 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T16:31:28+09:00",
+      "publishedAt": "2026-11-10T16:31:28+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "LG디스플레이, 2026년 특허기술상 1등 영예 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "LG디스플레이, 2026년 특허기술상 1등 영예 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWNRcVlzWjFRaW9jOFEyaWNQN21GYVhDWERocEFvWDhlLXQzTWUyU1FoVE9rcnZ4S2F6eVoxdDZDdXVhcktwR29sTTJWYzlvOWhLdW1NNjVfREt3R2NjNTlMTGFyTS1YQ0QwUm9aZTZGdTRiZU10MW5vMnM5REZuYlFtODZ6Y3NZT05WbHJTUU9xUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "66edef25925e67f711cfb408bc9c1e6edf89cbb1964cf8c6d5f791bd59506544"
+    },
+    {
+      "id": "20261110-FR-F8997327-2993",
+      "title": "2026년 3분기 기업특성별 무역통계(잠정) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T12:00:00+09:00",
+      "publishedAt": "2026-11-10T12:00:00+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "2026년 3분기 기업특성별 무역통계(잠정) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026년 3분기 기업특성별 무역통계(잠정) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhTMWZGbHBWNnhEYy1tVHpTTllMWHF2SGd3dHVVdWtTU3FlckFwQnVYNDRDQk5ub1N0Ri1VNnZKM2dicEZsVEZsRm9iVU5LbXJEUFc4dmxEVHNEY09sdVN4Zk5mMTc4SzEyZEd5cDVTNEJwZkNvdEU3NTIybl9vOXZocG9jTlRsZHpmMWhidldxNk16?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f899732726e9df622858c2b199320551458721e8ff54e34d805472074a8ee584"
+    },
+    {
+      "id": "20261109-FR-7249528A-2994",
+      "title": "순직 소방공무원 추모 이름표(명패) 헌정식 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-09T18:00:00+09:00",
+      "publishedAt": "2026-11-09T18:00:00+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "순직 소방공무원 추모 이름표(명패) 헌정식 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "순직 소방공무원 추모 이름표(명패) 헌정식 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-09",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QSWVhSkgyek53Y3dHWFFYV1lTUXVGcW5sQnRXR1QwQmZKLVI0WlpzS2ZDTm5rWTJ6S0dLREx5bEFNRHNXRFlXbXQ4WlBsRk8tNndmNHpYa21aNUt5Y0NndWNMZWl4TnVPY0VmOHBLUUpHTDZH?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7249528af9d5a2d58fbfec17f023380e22afd93a3ef22b55738dcab514ae12dd"
+    },
+    {
+      "id": "20261110-DP-24D07213-2995",
+      "title": "(참고) \"공공부문이 선도하여 '모두를 위한 더 나은 일터'를 만들겠습니다.\" 정부, 공무직委 6개 분야별협의회 발족 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T10:52:21+09:00",
+      "publishedAt": "2026-11-10T10:52:21+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T03:34:29+09:00",
+      "summary": "(참고) \"공공부문이 선도하여 '모두를 위한 더 나은 일터'를 만들겠습니다.\" 정부, 공무직委 6개 분야별협의회 발족 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(참고) \"공공부문이 선도하여 '모두를 위한 더 나은 일터'를 만들겠습니다.\" 정부, 공무직委 6개 분야별협의회 발족 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZzl0ZU90SWxxZU1tNzB6N0UzNU9HREhCME9idDVyREUtUG9BTkRVMDY0SFNVcjB4Q3VuQnlsT0dveWhPaWlCYXdxckNFRjItS1Y4RkU3RHp3bUw1cXBaLS0yT21wQXFBMHRDbEZDaGdfYTlrdHhOYTFfTm5iVERqdV9BVWZYM1haTmJjbVRIMVlHdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "24d07213e00ce555bc8c4cd5196ab284ce2c18c6d3b1bd5dbc82641a3ab4b143"
+    },
     {
       "id": "20261109-DP-867E3EA1-2981",
       "title": "靑 \"조작기소 특검법, 다음 주 국무회의 상정 예정\" - 한국일보",
@@ -1117,46 +1722,6 @@
       "contentHash": "6ad80037ae7738d6d47b41d19e065cfacea935878d51ca7a18bcd6ec9fcdb106"
     },
     {
-      "id": "20261110-DP-0A8D32CF-2966",
-      "title": "「유아교육법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-10T13:30:00+09:00",
-      "publishedAt": "2026-11-10T13:30:00+09:00",
-      "firstCollectedAt": "2026-11-10T19:58:08+09:00",
-      "updatedAt": "2026-11-10T19:58:08+09:00",
-      "summary": "「유아교육법 시행령」 일부개정령안 국무회의 통과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "「유아교육법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONVhxU1BtQzBRVU45Y0l4UWdIaEJSaExsUmFDRWlIQ2hFT01jT0luYTE5dnFlWEkxRy1VdmJiaEYxQkpqMDR6TG5La0RSa0JxaFhHeDRPSE9mWFgzX2pHUDFKRHlKeFVudndJMWh3RHRwbXVQQUVld1lqVHMxalQ3b2ZIX01NdWZ6YXRudnRBNG1Zdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0a8d32cfafd9fd84d3542ac5b953c6c8c74ba76d7ca1a71afc1eed472b985b57"
-    },
-    {
       "id": "20261110-DP-F493179A-2967",
       "title": "이 대통령 \"미 중간선거 후 대외환경 변화…신속 대응체계 갖춰야\" - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -1315,46 +1880,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6b27a4d9a197d08e70d27def7ab204e01bd778e966b596929fa9c57f40398f1d"
-    },
-    {
-      "id": "20261110-DP-4C821998-2971",
-      "title": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-10T16:43:21+09:00",
-      "publishedAt": "2026-11-10T16:43:21+09:00",
-      "firstCollectedAt": "2026-11-10T19:58:08+09:00",
-      "updatedAt": "2026-11-10T19:58:08+09:00",
-      "summary": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "국공립어린이집 의무 설치 기준, 지역 여건 따라 조정 - 대한민국 정책브리핑",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX1dBNENuVUJyYldMMURCQTNyUktycHFOMUZQaG5QdzE3YzdrcHREdVBjRnd2S3QtYnBHZy05Rk02SlExZkdySEZYbXRhSHB6Q2s4aF9kNzExYms1MTRyRmpoN0pNM2o0NG9DVWJVRElnVGZucVhhbGtIWkZsM1dqNU9tM3gwWW5fbFE?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "4c8219986c650101e552c6458033bcca7526a527ed95ac900083d6400657822d"
     },
     {
       "id": "20261110-DP-8B7281D8-2972",
@@ -2390,48 +2915,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b615757c0a3f6370d4bb1db7d7491fa0f6d560416660014b3a26887fe5392271"
-    },
-    {
-      "id": "20261109-FR-835F1B6A-2945",
-      "title": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "양자외교",
-      "countries": [
-        "유엔"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-09T16:26:18+09:00",
-      "publishedAt": "2026-11-09T16:26:18+09:00",
-      "firstCollectedAt": "2026-11-09T18:35:53+09:00",
-      "updatedAt": "2026-11-09T18:35:53+09:00",
-      "summary": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "강금실 글로벌기후환경대사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의에 대통령 특사로 참석 - 대한민국 정책브리핑",
-          "date": "2026-11-09",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3ZPZXctbXRjY0hpXzRONU1yelVKLUhsdG91ZXB0RFpqZ2tUdEhIX0U2ZkNNLWIwWVdzQUlad1YybFdMMElDOE83Q01HRER6eHZsb0RhMnltdVQ5dkdrWGZBalFmekFQaHlPc094U0RQd2ZwVmJtSDNJYlpmUXhyMUF2Y2xXVFg4SFFzdUl6NEtHZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "835f1b6a585951fd19ecdb3104730bbdd5e4177e1c95063cb8dc443d7513e0e8"
     },
     {
       "id": "20261109-FR-023E6214-2946",
