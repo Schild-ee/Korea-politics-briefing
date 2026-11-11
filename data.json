@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-11T08:40:13+09:00",
-    "nextScheduledUpdate": "2026-11-11T09:10:13+09:00",
+    "lastSuccessfulUpdate": "2026-11-11T14:53:59+09:00",
+    "nextScheduledUpdate": "2026-11-11T15:23:59+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-11T08:40:09+09:00",
-      "finishedAt": "2026-11-11T08:40:13+09:00",
+      "startedAt": "2026-11-11T14:53:53+09:00",
+      "finishedAt": "2026-11-11T14:53:59+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 165,
-      "acceptedCandidates": 50,
-      "duplicates": 54,
-      "rejected": 105,
-      "rejectedByDate": 95,
-      "rejectedByRelevance": 10,
+      "fetchedCandidates": 166,
+      "acceptedCandidates": 55,
+      "duplicates": 53,
+      "rejected": 99,
+      "rejectedByDate": 88,
+      "rejectedByRelevance": 11,
       "rejectedAsCommentary": 0,
-      "newIssues": 4,
-      "updatedIssues": 2,
+      "newIssues": 10,
+      "updatedIssues": 4,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 33,
+          "count": 34,
           "error": ""
         },
         {
@@ -65,6 +65,47 @@
   },
   "issues": [
     {
+      "id": "20261111-DP-B1EB6AEE-3009",
+      "title": "김민석 \"특검으로 조작기소 행태 드러내야…정치검찰 '정적 죽이기' 혈안\" - 뉴시스",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "수사·재판",
+      "countries": [],
+      "institutions": [
+        "검찰",
+        "뉴시스"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-11T10:38:13+09:00",
+      "publishedAt": "2026-11-11T10:38:13+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:55+09:00",
+      "updatedAt": "2026-11-11T14:53:55+09:00",
+      "summary": "김민석 \"특검으로 조작기소 행태 드러내야…정치검찰 '정적 죽이기' 혈안\" 뉴시스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "뉴시스",
+          "title": "김민석 \"특검으로 조작기소 행태 드러내야…정치검찰 '정적 죽이기' 혈안\" - 뉴시스",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FWGR3WUpOSFI3Ny1wS2xCa19JYU1IQ1llaGNBWjRzenBza0ZlVzRJc0IwUGx0SnZRYk8wNmRsTFNOWWI4ajBTMnZ2ZVpuczhsM3IwY0loX0hlOXpKa2htVtIBeEFVX3lxTE1TVzRPa2Rxa1lRbm5qeXVRUW1yd0ZUVktNazZmalZUUnh1X1RpLXhMajhWWDFPckhKRXZlTDZhSjU0RlJ2aE1vRlhRcVBQN3BFUm56VWg0VkVfQ2hJeFJ1UGphQTRMNVprMzktS0lhcXVRN1FNVkVYag?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b1eb6aee4f39cd3f20fddc35cd758ed1194286f43ce44761fcc74f5388bf726c"
+    },
+    {
       "id": "20261110-FR-7C539DD2-2988",
       "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -83,7 +124,7 @@
       "occurredAt": "2026-11-10T21:30:00+09:00",
       "publishedAt": "2026-11-10T21:30:00+09:00",
       "firstCollectedAt": "2026-11-11T03:34:29+09:00",
-      "updatedAt": "2026-11-11T08:40:10+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
       "summary": "한미 외교장관 환담(11.10.) 결과 대한민국 정책브리핑",
       "background": "",
       "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
@@ -104,11 +145,76 @@
           "date": "2026-11-10",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV25UTGxXMV9ydXpQTHdhdTNRaUFmVlNwdmtWUUMzYng5bGo0QW54bkhaMG9FM0k3ZFA3ZmZkV0U3REhtdEpldWNaRkN0TW0xdUNTcjJSbjRELWUtVkZMTnVRMzAzbm1FTm4yMGNmUFdfSTE3VkdEMS1oYWZjc3dyTU9ic0x2MmZGalZmd0Z5Sy1rTU1P?oc=5",
           "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미 외교장관 환담(11.10.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUndYUWFFSFMwMFItRDgtX1EwV0NoTjBsaFJua2hCWmpRcFVNeTI0MlBiYzJoSzU3OUJkNVVpRjk5c3RFS1VvU3FjN3o2THdFbDdWTzktUk1RV2EyT3lBR1FtR2NKZktiSEE3c2ZrX0hUaTdYRkFzY3NpUkpocUZ6MDkyN045Z3RzelhrX0ZFT1FSdw?oc=5",
+          "official": true
         }
       ],
       "revisionHistory": [
         {
           "updatedAt": "2026-11-11T08:40:10+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-11T14:53:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7c539dd2f59f2f44b0f1150bcbfa72ccfa29e21b033fa6d6d6bec78355ece116"
+    },
+    {
+      "id": "20261110-DP-595F6E0C-2985",
+      "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T23:26:15+09:00",
+      "publishedAt": "2026-11-10T23:26:15+09:00",
+      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjlnSDBsNlN3U2xob2cyTkw0YjA4b3BiX1N4ZnBsQkJVVXZzV1NLN1N4X0g1dXZGZjFheUk0ZU92N3NCZVJRSmpaVTZKcnRBNXdWeHRrQWF2TzRxM2sxTFE5d1dvWFdqRHBIb0Q2OEZHYXN6VmFWdU1qVC1zUXNhVkdWNklZZERrcUc5SQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13cTRqc0dILVotSS1HX3o5YVo4akRHRU5KX1RuTTlxTzdOZFViT3lPaWRiYzFLVGUwcDNkeVdlY25FMDBTMC1JSXRDb1l4T1hMWUJtU1lPX0VJVW1JdUhra3lyanhDUmtmTVk2VlFxWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T14:53:54+09:00",
           "reason": "새로운 관련 출처 추가",
           "previousSourceCount": 1
         }
@@ -117,7 +223,473 @@
       "correctionReason": "",
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
-      "contentHash": "7c539dd2f59f2f44b0f1150bcbfa72ccfa29e21b033fa6d6d6bec78355ece116"
+      "contentHash": "595f6e0c3cd49680d47ada901b99b90b65bdc1a4b5f4bed99f2017c2de9bad54"
+    },
+    {
+      "id": "20261110-FR-885197BC-2961",
+      "title": "식약처, 겨울철 다소비 수산물 집중 수거.검사 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T08:12:16+09:00",
+      "publishedAt": "2026-11-10T08:12:16+09:00",
+      "firstCollectedAt": "2026-11-10T11:38:26+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "식약처, 겨울철 다소비 수산물 집중 수거.검사 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "식약처, 겨울철 다소비 수산물 집중 수거.검사 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUV6RE9vcThiS0EwYWh6Rll1cnFGZ2pweDdLOWt5aFVTR2lDSE9rWmpJY2hZT3A5eU5oNkhGQW82cHQ3MTNGU2VpZTAza3VmLTU4N1AxNm5Eak9OcmhqWnVwb0lGeDdGSGp6Y0o1RkRGSzRhWmVEYUo2RmJCSXE1VmRLbi1GYUI4X3U5NUJMby1FQ3Va?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "식약처, 겨울철 다소비 수산물 집중 수거.검사 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTVKN1B4am5BUVdlUm5zV29PUnlHamdxU2p2aVdzQVE3b1hNRFdaRHVMWXkzYnY0RGRHM3ZzYnNrZ2QwSm5ZbzVQMkxrSEVGekdHVnNMNFFNekFhSDFXejdoSi1SSnFOREM3TVdfZm9IUE1IYnk1RHNibGRXSE01THlsOXh2enNzVUR0NFlYMmJRUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T14:53:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "885197bcee945755f9c2e89866139c1e880696e6edb4185e9cd51ac8c25731ce"
+    },
+    {
+      "id": "20261021-DP-2A01CEB2-2318",
+      "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T17:32:39+09:00",
+      "publishedAt": "2026-10-21T17:32:39+09:00",
+      "firstCollectedAt": "2026-10-21T22:08:10+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGJycE00MjczTnBvOHg3ekEyM19yZWgwMTFnaG50RU1jTzNWbWs2Z2dIaTlldDFweV9LNmRJbXhhVkZTWUluTjFZNlB0ZloxSTJUSC1QaG5IenVTOUFBN01UR1VOaDYzSnNpemJMT3JyYzZrM01nR3JBTFllRkpQS0hzNzFqZ0Z1c19z?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "교육부 소관 법령 국무회의 통과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkdOTFdIZzMtWmQzRXJTLTNsX1dISFI4cVVtNkhyMXQwZm1wSkJwcnZyalRwOHlJTWxJS21yRXFoZUJ1MnBleGRkR0JRNlpUWDBvYUNaX3pmaVN3YURnbFBBRktlNWF3RURkbHZVQzd6U01xWDFoWWVfWUFLckJOMEJKYnhuVEpKT25R?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T14:53:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2a01ceb26633a2597ea27d19edf94ab582cf71e4b3fc7d5074ad57fd32bfab73"
+    },
+    {
+      "id": "20261111-DP-9DA244A6-3000",
+      "title": "공소시효 만료 D-1 기소된 피의자 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T10:40:11+09:00",
+      "publishedAt": "2026-11-11T10:40:11+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "공소시효 만료 D-1 기소된 피의자 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "공소시효 만료 D-1 기소된 피의자 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SMEpnQmdzQ2dwS3hSLWtlLXBlb19hUHFHZUIwekwzVU1ESTViUE50S1RSUTZudzkyZHpQU3JqY3BUNFV0MElIenpkRmstNkY5TFhUSjhqdXBRVnBKUWpvQnZ3bDI?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9da244a6638105628bb2dd48844b3040ff5f6fcad1b64a46df8724dc71b73cea"
+    },
+    {
+      "id": "20261110-DP-7DAFE3E3-3001",
+      "title": "위험직무 순직공무원 예우 확대·재활 통계 신설 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T12:00:00+09:00",
+      "publishedAt": "2026-11-10T12:00:00+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "위험직무 순직공무원 예우 확대·재활 통계 신설 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "위험직무 순직공무원 예우 확대·재활 통계 신설 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM05wMzZLY3VwSmNDcHlzRlg2bElyX2dUTHNIdTRPYk1ud3UyWmlIcTRwdDdmQThnOEFFN3BnN0JrX1RXRUNvZWdIWlVWdjByUUpFeGkzSlJJODY4TnBtZ19YQU5fX2Zkam5BTkhOVVdLdGY5dE9IZnN6aW1xelpSLUlqZXZQeEpsY2RfU2I0UFBNQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7dafe3e31c048e5d07ed71a6a0785c4716497a072d8794b09807596c3641ded2"
+    },
+    {
+      "id": "20261110-DP-12CF5D23-3002",
+      "title": "경찰, 멈춤 없는 단속, 예외 없는 엄단 「부동산범죄 3차 특별단속」 추진 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-10T14:09:47+09:00",
+      "publishedAt": "2026-11-10T14:09:47+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "경찰, 멈춤 없는 단속, 예외 없는 엄단 「부동산범죄 3차 특별단속」 추진 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "경찰, 멈춤 없는 단속, 예외 없는 엄단 「부동산범죄 3차 특별단속」 추진 - 대한민국 정책브리핑",
+          "date": "2026-11-10",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mYjFQNGxtblhtSFlyejluQ20tOVBveEw3SDIxMVU2WXZrd1V1UEZjaVUyN1pWYUxoQmJXazVlRnc0UGhRRGc1S0RqYXRzYzVqSkVzbk9NdFFNa3ZZVWlKbENwVWpGMFFjZ05faFZiOXNYdXk2?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "12cf5d2386864c4f06c9305b770a980355bc198ff79c79115a77f303f3653d9b"
+    },
+    {
+      "id": "20261111-FR-9EEC7A47-3003",
+      "title": "CPTPP 협정, 알기 쉽게 설명해 드립니다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T11:05:06+09:00",
+      "publishedAt": "2026-11-11T11:05:06+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "CPTPP 협정, 알기 쉽게 설명해 드립니다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "CPTPP 협정, 알기 쉽게 설명해 드립니다 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkw1QTNvRVpSMElmUU1TLXB1cktLUEs1djdPVWFpejVnajNkcExBdENfdjg4RW05RjdsV3pjWGs1b2xMWDdPTVR0RWtKX29yelBaamR3bG1oaUpLSVhQMWctY3lsd2dlNUw5eFp5OGJxTGJYcVFtQktDaHcwb1UxMWpMWDA3SHlyVDNsYUZPcWhRUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9eec7a47f2ca75876a723f1653a53a4face828ce6cb9eaf8ef3681a6844344cf"
+    },
+    {
+      "id": "20261111-FR-6598BE85-3004",
+      "title": "2026 ｢한-OSCE(유럽안보협력기구) 사이버안보 컨퍼런스｣ 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T10:29:53+09:00",
+      "publishedAt": "2026-11-11T10:29:53+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "2026 ｢한-OSCE(유럽안보협력기구) 사이버안보 컨퍼런스｣ 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2026 ｢한-OSCE(유럽안보협력기구) 사이버안보 컨퍼런스｣ 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGVmQlN5UlNpeWxCcng0LVU2d3hnWkkwQnB6OTg2eDZxZjJKeGdGM1VLMjM5Zm1zcVZHV1ZZUkNkYXUzNWNLdEw0dUlfWjlWaWdjellJMlFQZ3RrQXNOdkN3amVRNThKdlJwN05EVXFyNWFZVXViR2pJeU1FdDdZYmQ3V3RUeFMtRTNELVdZWXFodHF0b2xfVkxNNEhsZmJ5M1NlQW5WOFdQdEJyZ2FfVlpPcFlCNmZVNTEySVlucVNxOEhPQUJqenBlWXNBOFhrcURJYWxnNjhjVHE3V3MtMWIzMjVVYnFTTWc3eDMtUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6598be8574d98a95c85fcf93a40eaf1549983903ecef33ada00ebfd0b3cb4310"
+    },
+    {
+      "id": "20261111-FR-F2AB8BF9-3005",
+      "title": "국고채 입찰 관련 15개 사업자의 부당한 공동행위 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T12:00:00+09:00",
+      "publishedAt": "2026-11-11T12:00:00+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "국고채 입찰 관련 15개 사업자의 부당한 공동행위 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국고채 입찰 관련 15개 사업자의 부당한 공동행위 제재 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWk1VZi00TC1JRDdRaFVLN2M1cEF4YWFnVGlJeUkwcVlxMDg1c1o5TlVfRHB4M2xEX0prbV9sdDBDRHVkQTJISEo3RU1RMVlxZFBtNmZjZEpLZktZYzRiUllMdzJqdV81OWhtUlNBN1B2aHJoUnZmd19NQ0w1dFB0RWpZQ0NMQXNETmlqd1ZQRXBtREF0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f2ab8bf976c99e70f492b2738ae70b82bdc43653c02b8c1ab308da6150109f50"
+    },
+    {
+      "id": "20261111-FR-DACD2A85-3006",
+      "title": "배민·쿠팡에 과징금 6319억 원 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T10:52:12+09:00",
+      "publishedAt": "2026-11-11T10:52:12+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "배민·쿠팡에 과징금 6319억 원 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "배민·쿠팡에 과징금 6319억 원 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3NhcWVCa0FDQmZQR2h6OHBoeG1OOWlhTkFOaG5IM0p4VTZ5Rl81M0pXQUVIa0tQM0VxX29sWlRhWUJUWTQtQ1BRMk02ZGw2RGJjazJ5aFl5YzRFM1VFejhiT0dEd2E1YjZfV1V0bUhjeTAtLWVhZEpZNWloSEZ1YkxzdkRwUUdqRF9r?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dacd2a850705f899b33376262c56bb7fe470269e2e6ef0d41bf1a9cd9508ce26"
+    },
+    {
+      "id": "20261111-FR-9FF99354-3007",
+      "title": "\"사용이 끝난 배터리, 남아 있는 에너지에 주의해야\" 국립소방연구원, 폐리튬이온배터리 열폭주 실험으로 화재위험 확인 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T07:00:00+09:00",
+      "publishedAt": "2026-11-11T07:00:00+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "\"사용이 끝난 배터리, 남아 있는 에너지에 주의해야\" 국립소방연구원, 폐리튬이온배터리 열폭주 실험으로 화재위험 확인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"사용이 끝난 배터리, 남아 있는 에너지에 주의해야\" 국립소방연구원, 폐리튬이온배터리 열폭주 실험으로 화재위험 확인 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbTNLNXpFMlg0cWJHREFRakxFa2FMcTNTM1U3bHV1ZGZWd0kya09zUl9PRGNsQjF1SF9wSkp4a1Bub1k0LS1DZlFwc3VpOUZmRjk5NXlubktoQk0xeHctRHd0eXI5VFZkNno5djJNc0JUWjJJTklld2xmekxWNUxianQzTGFtQ1JXTVVUWFpEZnUtZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9ff99354d15ba14224ddc006e57d34ae835cce0f3cd8dfb24d356213c82da90b"
+    },
+    {
+      "id": "20261111-FR-1C7F107D-3008",
+      "title": "인공지능 콘텐츠 페스티벌 2026 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-11T09:56:15+09:00",
+      "publishedAt": "2026-11-11T09:56:15+09:00",
+      "firstCollectedAt": "2026-11-11T14:53:54+09:00",
+      "updatedAt": "2026-11-11T14:53:54+09:00",
+      "summary": "인공지능 콘텐츠 페스티벌 2026 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "인공지능 콘텐츠 페스티벌 2026 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PcWRiZ1VPM2JONHZhaTc0aFh4Snc4MktCS1JlSDVlMXBBNTA3N2ltaGwySGowRF81Rjd3NXN1Y2EtWEU5NDFVV1JSVFV4Zk9LNFowa0RUUkRjdnZjeEpFUXY2TTZ2OEFNSHFlRFdn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1c7f107d19e8b9b7579f659e7563a6c7d9845c72d73c0d464499152ff55ea6e6"
     },
     {
       "id": "20260804-DP-27838018-124",
@@ -612,46 +1184,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "835f1b6a585951fd19ecdb3104730bbdd5e4177e1c95063cb8dc443d7513e0e8"
-    },
-    {
-      "id": "20261110-DP-595F6E0C-2985",
-      "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-10T23:26:15+09:00",
-      "publishedAt": "2026-11-10T23:26:15+09:00",
-      "firstCollectedAt": "2026-11-11T03:34:29+09:00",
-      "updatedAt": "2026-11-11T03:34:29+09:00",
-      "summary": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[설명] 민간 정비사업 용적률 특례의 추진 여부와 적용 방식 등은 확정된 바 없습니다. - 대한민국 정책브리핑",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjlnSDBsNlN3U2xob2cyTkw0YjA4b3BiX1N4ZnBsQkJVVXZzV1NLN1N4X0g1dXZGZjFheUk0ZU92N3NCZVJRSmpaVTZKcnRBNXdWeHRrQWF2TzRxM2sxTFE5d1dvWFdqRHBIb0Q2OEZHYXN6VmFWdU1qVC1zUXNhVkdWNklZZERrcUc5SQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "595f6e0c3cd49680d47ada901b99b90b65bdc1a4b5f4bed99f2017c2de9bad54"
     },
     {
       "id": "20261110-DP-F9680013-2986",
@@ -2871,46 +3403,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "6bed0aab0ab964b044588d832e0a6bb4823ae84a739a52e548755d8b20925c0d"
-    },
-    {
-      "id": "20261110-FR-885197BC-2961",
-      "title": "식약처, 겨울철 다소비 수산물 집중 수거.검사 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-10T08:12:16+09:00",
-      "publishedAt": "2026-11-10T08:12:16+09:00",
-      "firstCollectedAt": "2026-11-10T11:38:26+09:00",
-      "updatedAt": "2026-11-10T11:38:26+09:00",
-      "summary": "식약처, 겨울철 다소비 수산물 집중 수거.검사 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "식약처, 겨울철 다소비 수산물 집중 수거.검사 - 대한민국 정책브리핑",
-          "date": "2026-11-10",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYUV6RE9vcThiS0EwYWh6Rll1cnFGZ2pweDdLOWt5aFVTR2lDSE9rWmpJY2hZT3A5eU5oNkhGQW82cHQ3MTNGU2VpZTAza3VmLTU4N1AxNm5Eak9OcmhqWnVwb0lGeDdGSGp6Y0o1RkRGSzRhWmVEYUo2RmJCSXE1VmRLbi1GYUI4X3U5NUJMby1FQ3Va?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "885197bcee945755f9c2e89866139c1e880696e6edb4185e9cd51ac8c25731ce"
     },
     {
       "id": "20261110-FR-1C1F242B-2962",
@@ -32133,46 +32625,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3172117d1d344e2df82b8ef7b31150046823e297c3d9f4bbaef1254f5e925824"
-    },
-    {
-      "id": "20261021-DP-2A01CEB2-2318",
-      "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-21T17:32:39+09:00",
-      "publishedAt": "2026-10-21T17:32:39+09:00",
-      "firstCollectedAt": "2026-10-21T22:08:10+09:00",
-      "updatedAt": "2026-10-21T22:08:10+09:00",
-      "summary": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGJycE00MjczTnBvOHg3ekEyM19yZWgwMTFnaG50RU1jTzNWbWs2Z2dIaTlldDFweV9LNmRJbXhhVkZTWUluTjFZNlB0ZloxSTJUSC1QaG5IenVTOUFBN01UR1VOaDYzSnNpemJMT3JyYzZrM01nR3JBTFllRkpQS0hzNzFqZ0Z1c19z?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2a01ceb26633a2597ea27d19edf94ab582cf71e4b3fc7d5074ad57fd32bfab73"
     },
     {
       "id": "20261021-DP-8A016BB9-2319",
