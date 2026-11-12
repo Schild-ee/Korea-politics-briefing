@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-12T19:09:51+09:00",
-    "nextScheduledUpdate": "2026-11-12T19:39:51+09:00",
+    "lastSuccessfulUpdate": "2026-11-13T03:32:21+09:00",
+    "nextScheduledUpdate": "2026-11-13T04:02:21+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-12T19:09:42+09:00",
-      "finishedAt": "2026-11-12T19:09:51+09:00",
+      "startedAt": "2026-11-13T03:32:15+09:00",
+      "finishedAt": "2026-11-13T03:32:21+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 165,
-      "acceptedCandidates": 70,
-      "duplicates": 54,
-      "rejected": 85,
-      "rejectedByDate": 74,
-      "rejectedByRelevance": 11,
+      "fetchedCandidates": 166,
+      "acceptedCandidates": 69,
+      "duplicates": 71,
+      "rejected": 88,
+      "rejectedByDate": 73,
+      "rejectedByRelevance": 15,
       "rejectedAsCommentary": 0,
-      "newIssues": 22,
-      "updatedIssues": 4,
+      "newIssues": 5,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 33,
+          "count": 34,
           "error": ""
         },
         {
@@ -64,6 +64,312 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261112-FR-6AA0DD8B-3053",
+      "title": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-12T10:00:00+09:00",
+      "publishedAt": "2026-11-12T10:00:00+09:00",
+      "firstCollectedAt": "2026-11-12T19:09:44+09:00",
+      "updatedAt": "2026-11-13T03:32:17+09:00",
+      "summary": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbzhrdTdBZ2pacVFGQVd4QXpRdjhzYlZsT3JXQ0NkWXBrZGF2T2NGNzVDLUNjV19QcXZrbEpYNTZtTnE1MVFXREtDXzh6RXdsNHpjYUdRUTB5ZC11NmZZN1VtZFlOV29obzJIb2x4aThyV0taRFFpMXhpRENOM29lTi1OV2d0OUh6eXo4RUhPNzhkSmVtVkNtMktLYTVqa1RIcUpESWQ1V3BrdzNFOUJXMktVc3VSb0ZfaHItQzZsbG11bGU3eUxCYkk3Vk9SUkRZWUlOdEJndWcxOUd5UzU4a3NzSC1wRkRSNk81Tk9oWThVc1pGWTR1aFpVLUxjYWRqamZOSFRNUmRwTjhiVkxtbEZ3?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObHBaQkRjRDVCT1FORjRzc0VmS0huUzZIZktudFZ1VS1QeHVhd1dTTF96Y0ZWRDJETUlSb2JvRl8zeGxqZDhaQ0x5NkttQnVKUXFfWDJ5QUNYbU4wcHhBNDN5M1hPaFRUeGNPb2pZZzhRTmJ5YW1WWWVPak5jcGVhN29fU2U0RkdBaHVub3BlOHlnVXZTejFWOXRfMFN3bmxlSE9kRDBTYUhId212aDRqU3FieDhFTnpMWFAzWWFLNjhpSzRBUW9FUmEzTUVRNXVCbEdWRjgxaTFQUWI3WUJaZ1l3TVJ4amw1bU9iMjJzSlpwa2NYOVpIdFBFSjN0SVIyQTBtdG1yc2tidVNCVFJpaVdn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-13T03:32:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6aa0dd8b526897bbc9343bbf678d8d329350bae421325e95ccad0dcc98b4271a"
+    },
+    {
+      "id": "20261112-FR-F59EF5DA-3055",
+      "title": "김장 재료 최대 50% 할인? '2026 코리아 수산 페스타'로 장바구니 부담 줄이기 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-12T15:56:15+09:00",
+      "publishedAt": "2026-11-12T15:56:15+09:00",
+      "firstCollectedAt": "2026-11-12T19:09:44+09:00",
+      "updatedAt": "2026-11-13T03:32:17+09:00",
+      "summary": "김장 재료 최대 50% 할인? '2026 코리아 수산 페스타'로 장바구니 부담 줄이기 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "김장 재료 최대 50% 할인? '2026 코리아 수산 페스타'로 장바구니 부담 줄이기 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXRBYzl5Nk9qSnNkY0dXbUEtNzVtYjdSV1IyV2pTTHB5QnNRZ2VTSGVEYU5LODhNNERPM2tScHBjdG9VeGd6eVJHR2JGdHA5VGN1dW5KVDRib0lDOE9zcXFoQnNzTXAzWEhvdW1jRUhobU5fcDFYTnhTemVSSDUwZ0FONEI4QjQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "김장 재료 최대 50% 할인? '2026 코리아 수산 페스타'로 장바구니 부담 줄이기 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZlZlaV9MamdUX2lONE5VSXVDWEZJN0piMlUyLU1fN3ZyWFdTVGNPQjAzY0x6czA1Q042N3dkZW5Tb3FidmdfNnZGQ2lHaHkyUEhjT2phc1FQUUloOEJ3QmUwQmtrS0pXRkRXcTVNbTE1aU9KNV9DQ2VTQTRIQkhGMHM0c2h5OU0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-13T03:32:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f59ef5da3f67d3a0cbe52dfddd909a0e662f184148b62a509218f075e518cd11"
+    },
+    {
+      "id": "20261112-FR-70A09C0B-3063",
+      "title": "아세안 및 APEC 정상회의 참석 관련 위성락 국가안보실장 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-12T17:23:01+09:00",
+      "publishedAt": "2026-11-12T17:23:01+09:00",
+      "firstCollectedAt": "2026-11-13T03:32:17+09:00",
+      "updatedAt": "2026-11-13T03:32:17+09:00",
+      "summary": "아세안 및 APEC 정상회의 참석 관련 위성락 국가안보실장 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "아세안 및 APEC 정상회의 참석 관련 위성락 국가안보실장 브리핑 - 대한민국 청와대",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yR0kzSm1vZWJTcUhmajJ3TDUxaDlDZXhfNkV4SFNXV0dmcEhoTUJvbjZlYWptLU9abnc2c19YeHdST1IyNGlNOFhybWFia1h1eEt4T3lUeEFwZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "70a09c0b77b8a30b7993ce5ec3868e139f2870050622c9d00497efb8db630c68"
+    },
+    {
+      "id": "20261112-FR-CBEF73F0-3064",
+      "title": "양극화 대응 TF 총괄반 1차 회의 개최 모두의 성장으로 대전환을 위해 전 부처 역량 결집 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-12T09:02:44+09:00",
+      "publishedAt": "2026-11-12T09:02:44+09:00",
+      "firstCollectedAt": "2026-11-13T03:32:17+09:00",
+      "updatedAt": "2026-11-13T03:32:17+09:00",
+      "summary": "양극화 대응 TF 총괄반 1차 회의 개최 모두의 성장으로 대전환을 위해 전 부처 역량 결집 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "양극화 대응 TF 총괄반 1차 회의 개최 모두의 성장으로 대전환을 위해 전 부처 역량 결집 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbko5V1VFeHFERzlhdm1BVFFRWXRuOFk4RF9hY2paRVNzQ0dKZ3VPUUtJam5Kb1ctZW54TkxpMmFCNnhNcHplU2UxLVR3SVhONG1VaGk3WGtNbEIzak1XbEZaRW1CdUdlc3AxTkVreUNwdk5ialpBcmFGS2I2TVI2MXlacnFXbUh1M1ltLW1QNWVaZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cbef73f0b2449a4e38373321e55972c6b3e1c40442207db298e33b0b4762a501"
+    },
+    {
+      "id": "20261112-FR-942BCEEE-3065",
+      "title": "국내외 전문가 모여 농약 안전성평가 미래 논한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-12T17:39:58+09:00",
+      "publishedAt": "2026-11-12T17:39:58+09:00",
+      "firstCollectedAt": "2026-11-13T03:32:17+09:00",
+      "updatedAt": "2026-11-13T03:32:17+09:00",
+      "summary": "국내외 전문가 모여 농약 안전성평가 미래 논한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국내외 전문가 모여 농약 안전성평가 미래 논한다 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQVExdm5rcTJiRF9GQ1hDOC1WOV8ySHp1YzdJYmtKVEltQlZ0NzN6SWFEM2wyd3V2bVMteGRfcU9HTnNzZ3VZRzhNamY5UFpYNFo2cW5MSFlHMlphN04zWVhnb0FUWTJ0dEZwR1p0b0RXenNkMV8zajhoQ19aajdBUjhuQmEydUZPUmRDZk00SzdhaEpKQ1BBQ0QwS2xSREY1d3R6WW9kc3ExRUdKcDQzOEs2Z3lOMmF2a0xyZWp5SGpvUC1YM2ItWlhfQ2NsOFFjcjZGc2ROTUpTeG1fY3QzaTBlUnJBWGJSOXY0ZVg5Yw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "942bceee078bba9a9fc240ed203fd388d4fce9e24abe5b07105ec473a04899bf"
+    },
+    {
+      "id": "20261112-FR-77BF0C3A-3066",
+      "title": "금융업계와 함께하는 기후행동, 현금처럼 쓰는 포인트 혜택까지 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-12T14:00:00+09:00",
+      "publishedAt": "2026-11-12T14:00:00+09:00",
+      "firstCollectedAt": "2026-11-13T03:32:17+09:00",
+      "updatedAt": "2026-11-13T03:32:17+09:00",
+      "summary": "금융업계와 함께하는 기후행동, 현금처럼 쓰는 포인트 혜택까지 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "금융업계와 함께하는 기후행동, 현금처럼 쓰는 포인트 혜택까지 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTBYRnVOVWE0bE05NGF0TGpDTTZ5dG51d28yNVlLeUgtX1ZWeVlJeUVpNkZ2Q1ZKQUhKanVBM2lhLWxlOHFvMEUwdFd3cTQ4QWlmZ3BWXzJIaW1zTHFKcUhMREY4ZE9pVGVuazN2enEtMVRBeFVwNWE2d1NnSE92XzA1eGE5dFMwRUZYd0xndXRtUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "77bf0c3a07f2a95bab62d9b6bb314ea731d8ec9e39a557feb216279c360c246e"
+    },
+    {
+      "id": "20261112-FR-F5F90B4E-3067",
+      "title": "방한객 사상 첫 2000만 돌파…\"14년 만에 두 배\" 관광 새 역사 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-12T18:51:22+09:00",
+      "publishedAt": "2026-11-12T18:51:22+09:00",
+      "firstCollectedAt": "2026-11-13T03:32:17+09:00",
+      "updatedAt": "2026-11-13T03:32:17+09:00",
+      "summary": "방한객 사상 첫 2000만 돌파…\"14년 만에 두 배\" 관광 새 역사 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "방한객 사상 첫 2000만 돌파…\"14년 만에 두 배\" 관광 새 역사 - 대한민국 정책브리핑",
+          "date": "2026-11-12",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa2pmZTU2YWN3cl9ZbWZxTlEtUi1UVlpoQVdvN0hSMFR5MmF4M0pOdU1jRzVITnFwaVIyc3QwNUpyNVNHTVowMmRiSGR4TnhZb2xaRVlsMWhBTDEzUjI5dTRublR2SjFoT0ZRYzZfVHg5Q3ZJZWVrX3hIdm1wWTlUZWRZLUY4bnUxY1E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f5f90b4e146bbd759a106623cecf30a347729eacd7955430ccc3b877a3597912"
+    },
     {
       "id": "20261111-FR-DF92F265-3020",
       "title": "북한에서 SNS 업로드 될까? - 영상 | 멀티미디어 - 대한민국 정책브리핑",
@@ -120,46 +426,6 @@
       "contentHash": "df92f2657a730b8a255e129672d308c614ac258b061a32ddaae67bc95778c350"
     },
     {
-      "id": "20261112-FR-6AA0DD8B-3053",
-      "title": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-12T10:00:00+09:00",
-      "publishedAt": "2026-11-12T10:00:00+09:00",
-      "firstCollectedAt": "2026-11-12T19:09:44+09:00",
-      "updatedAt": "2026-11-12T19:09:44+09:00",
-      "summary": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "개인정보위, 안전조치 의무 위반한삼양그룹 소속 4개사 제재 - 대한민국 정책브리핑",
-          "date": "2026-11-12",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbzhrdTdBZ2pacVFGQVd4QXpRdjhzYlZsT3JXQ0NkWXBrZGF2T2NGNzVDLUNjV19QcXZrbEpYNTZtTnE1MVFXREtDXzh6RXdsNHpjYUdRUTB5ZC11NmZZN1VtZFlOV29obzJIb2x4aThyV0taRFFpMXhpRENOM29lTi1OV2d0OUh6eXo4RUhPNzhkSmVtVkNtMktLYTVqa1RIcUpESWQ1V3BrdzNFOUJXMktVc3VSb0ZfaHItQzZsbG11bGU3eUxCYkk3Vk9SUkRZWUlOdEJndWcxOUd5UzU4a3NzSC1wRkRSNk81Tk9oWThVc1pGWTR1aFpVLUxjYWRqamZOSFRNUmRwTjhiVkxtbEZ3?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6aa0dd8b526897bbc9343bbf678d8d329350bae421325e95ccad0dcc98b4271a"
-    },
-    {
       "id": "20261112-FR-151B9574-3054",
       "title": "제25차 한-유엔 군축·비확산회의 개최 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -200,46 +466,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "151b957416db267b626eb15064c8b331d5e9cb9d6ac848274ffb1d3fe729f5ba"
-    },
-    {
-      "id": "20261112-FR-F59EF5DA-3055",
-      "title": "김장 재료 최대 50% 할인? '2026 코리아 수산 페스타'로 장바구니 부담 줄이기 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-12T15:56:15+09:00",
-      "publishedAt": "2026-11-12T15:56:15+09:00",
-      "firstCollectedAt": "2026-11-12T19:09:44+09:00",
-      "updatedAt": "2026-11-12T19:09:44+09:00",
-      "summary": "김장 재료 최대 50% 할인? '2026 코리아 수산 페스타'로 장바구니 부담 줄이기 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "김장 재료 최대 50% 할인? '2026 코리아 수산 페스타'로 장바구니 부담 줄이기 - 대한민국 정책브리핑",
-          "date": "2026-11-12",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdXRBYzl5Nk9qSnNkY0dXbUEtNzVtYjdSV1IyV2pTTHB5QnNRZ2VTSGVEYU5LODhNNERPM2tScHBjdG9VeGd6eVJHR2JGdHA5VGN1dW5KVDRib0lDOE9zcXFoQnNzTXAzWEhvdW1jRUhobU5fcDFYTnhTemVSSDUwZ0FONEI4QjQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "f59ef5da3f67d3a0cbe52dfddd909a0e662f184148b62a509218f075e518cd11"
     },
     {
       "id": "20261112-FR-8275891B-3056",
