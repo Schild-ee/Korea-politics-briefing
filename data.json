@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-14T10:39:59+09:00",
-    "nextScheduledUpdate": "2026-11-14T11:09:59+09:00",
+    "lastSuccessfulUpdate": "2026-11-14T17:52:09+09:00",
+    "nextScheduledUpdate": "2026-11-14T18:22:09+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-14T10:39:57+09:00",
-      "finishedAt": "2026-11-14T10:39:59+09:00",
+      "startedAt": "2026-11-14T17:52:06+09:00",
+      "finishedAt": "2026-11-14T17:52:09+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 168,
-      "acceptedCandidates": 55,
-      "duplicates": 57,
-      "rejected": 109,
-      "rejectedByDate": 95,
-      "rejectedByRelevance": 14,
+      "fetchedCandidates": 167,
+      "acceptedCandidates": 43,
+      "duplicates": 44,
+      "rejected": 119,
+      "rejectedByDate": 108,
+      "rejectedByRelevance": 11,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
+      "newIssues": 3,
       "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 34,
           "error": ""
         },
         {
@@ -64,6 +64,227 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20260824-FR-81515FA1-620",
+      "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-24T17:31:14+09:00",
+      "publishedAt": "2026-08-24T17:31:14+09:00",
+      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
+      "updatedAt": "2026-11-14T17:52:07+09:00",
+      "summary": "한멕 외교장관 회담 및 오찬 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzZXcXd5aklGODdhd2pEWlc5WE5aRmRhWTcwbExvOXZWeEtNRERNWFFxX3JOeXZRQWlOTUMtaWpmcS02RWp1cDVCN0pCcGhoVEdFb3pfdG5tWUk3R2pRbU9DZUZ0WmdVbHJpOU0zdFFJUG1PVGJfSnd5ckpYOHh4UkVoNDl4ZlRCTE5ZSHFmNVJMZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDc2NnpKUE44UlVSVTdFTGRnUUxtWmJadEtrQm9Ga0haTHVxaHhobmI5MDlRQ3Y2ZXJlLVI2Y1pZY05Qb0RlWnFqYzFEQnBpZ0JNUWlGNFN0Yy10WnpoQXV2X0x6NnBKdFZ0VHdVSWtISm1wV0MzTW1kbnlTVENvM3FTTjd2R0tRSDU0dw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanQzYkZ2T0xfLWdoYm9vM251V2RZMEJwQ1hVUWM4cFY1YWpkYUYtb1lPWHdPVUZsN0tqR2pDZTloRm9FU1dLTnF0YUJLbGg1bWZnQWV4blo3dUdWNEg1RXUwN2VxUVlKQ25jQ0ZZdm9HVFpSMVdTR252czNycnhfS1VaNFYxTjg5bVZObmZaeHNSQ0Ff?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-08-24",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VU1YxdjFzQXdOUFdiMVctME5LUUpZckVvMzZJTVB3TzJoV2lvZkpiM2ZGNnBnYkxXQm5KMmRnRVctcWRZZnpyWnR1SEFVdTVnRkN0MDFIRDQyU3JfZW9tdmIxcWd1TUVabDZNMzVIaThndnhV?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한중 외교장관 회담 및 만찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2k2emp1VXRVQWdzdWNMX3MydUFRZlBIOU5WcXRPUEZyQjVQQzhHMDRyektDUFI0OEhVU3hMMjlQVXBOYW1pRlE1RnQzMlJvUERFcTdEaWpCdndxUjhkR1JDbG95dDFmQXdrR1lBUFBKQ0RaNXhSazM5ZDgxQkw3NENmUEFLSTlrSm1TMG5wS1B1QTlx?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한중 외교장관 회담 및 만찬 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2w4cWNUOUxkR3pIX2lwb3BWUWI4NmxIWGpWdjVfSlhKenlFMlpxNWQzVUNIWWJQZTZNNGVRbU1rRERpQWJyZ0MzdWdmU0JfcERseEpPTjJCQUR5OEtZdzBadk5PUzVQSFpUTEpoQU5tbEVmdHJHU19mZFFLckRSWHFfanFDZW1QWTlUMmZGRDdjQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-08-25T04:44:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-08-25T06:14:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-08-25T14:18:09+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-11-13T23:50:40+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        },
+        {
+          "updatedAt": "2026-11-14T17:52:07+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 5
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "81515fa16dfe9d33a6a98b33b9f316c5661e677826e3c0229d246331b746030c"
+    },
+    {
+      "id": "20261114-FR-8131A316-3111",
+      "title": "한-네팔, 기후변화 공동 대응과 국제감축사업 활성화의 길을 열다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-14T07:00:00+09:00",
+      "publishedAt": "2026-11-14T07:00:00+09:00",
+      "firstCollectedAt": "2026-11-14T17:52:07+09:00",
+      "updatedAt": "2026-11-14T17:52:07+09:00",
+      "summary": "한-네팔, 기후변화 공동 대응과 국제감축사업 활성화의 길을 열다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-네팔, 기후변화 공동 대응과 국제감축사업 활성화의 길을 열다 - 대한민국 정책브리핑",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTWpSVHNvd1d1QVdfTDhUWl9jQm82VWZOcVlfQ1NFNkFoc3hEZGxCVjNwWmFEMnh2dmxNLXVwVi1DS0lZMXVtUDFQLVVCNE8xeE9NaG8zZXZnaFBFZkM2UHhzX1drNmVva1lWVXN1Mk9JQmRMelBUcjdUYU91VUhjWXZ4SWIzbXF6R3hVZTZDSG5DZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8131a316f9fff6a897d105f5fb5a9c5661ff86dadae47c3667649e41fe65746d"
+    },
+    {
+      "id": "20261114-DP-0A6DC373-3112",
+      "title": "한동훈 “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” - 문화일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "문화일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-14T14:15:44+09:00",
+      "publishedAt": "2026-11-14T14:15:44+09:00",
+      "firstCollectedAt": "2026-11-14T17:52:07+09:00",
+      "updatedAt": "2026-11-14T17:52:07+09:00",
+      "summary": "한동훈 “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” 문화일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "문화일보",
+          "title": "한동훈 “李대통령, 조작기소특검법 직접 할 배짱 없으면 접어야” - 문화일보",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wcmJTZG00bWg0ZGpSMzhMaHZwajgyaTIzMjhYUkFLeE5kM1hkR0hfN2ljTWVTeTJoemxFNTdCMEF3YVFscVFPLVIycDM4QTFz?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0a6dc373c784701ff1befd29bc38c90c72687f0751b5d4d2a28d24851f7adfc3"
+    },
+    {
+      "id": "20261114-DP-240C9A9B-3113",
+      "title": "국민의힘, 오늘 부산서 조작 기소 특검 반대집회…민주당 \"대통령 조롱 장외투쟁\" - 한국일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "한국일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-14T10:24:00+09:00",
+      "publishedAt": "2026-11-14T10:24:00+09:00",
+      "firstCollectedAt": "2026-11-14T17:52:07+09:00",
+      "updatedAt": "2026-11-14T17:52:07+09:00",
+      "summary": "국민의힘, 오늘 부산서 조작 기소 특검 반대집회…민주당 \"대통령 조롱 장외투쟁\" 한국일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "한국일보",
+          "title": "국민의힘, 오늘 부산서 조작 기소 특검 반대집회…민주당 \"대통령 조롱 장외투쟁\" - 한국일보",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5fdzJOQXY3MG84WlVFWENkSV9aUFhVbEhYeGZSUmxXdkJ6NG5DSm56Y0ZBR0k3NnNuZFZDaXRPbTVKQXlnRS04bDVYUTVVV1poTS1ndlJKMXVqWXpxWl9TeXFuXy1UdmR1NDFNMDVB0gFzQVVfeXFMTmFGQmZfSHNfWk8wbENCanpFNXh0Y2hEYTFuT2Mzd3EyUFoyM0hxMnVHRGEtMTRmQzRjeXhOVWxXQUVRWjlZSG5ZNmwzSnhTSkpuU3RRUjhIc0Q3azB5ZjRZa2ZQeGNYYjI1SEt6X2NlZ3V3SQ?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "240c9a9b5a8a79fc183408a1e68cd0841a0f2051cd9de7e75481b106f48d47c4"
+    },
     {
       "id": "20260810-DP-56AB35E4-225",
       "title": "전국법원 주요판결 - 대한민국 법원",
@@ -1292,95 +1513,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "e5186e5605895bb378d6e7fefbcd65fb89988c57abf0fbdfafcb6a271ab4118d"
-    },
-    {
-      "id": "20260824-FR-81515FA1-620",
-      "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-24T17:31:14+09:00",
-      "publishedAt": "2026-08-24T17:31:14+09:00",
-      "firstCollectedAt": "2026-08-24T19:23:28+09:00",
-      "updatedAt": "2026-11-13T23:50:40+09:00",
-      "summary": "한멕 외교장관 회담 및 오찬 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNzZXcXd5aklGODdhd2pEWlc5WE5aRmRhWTcwbExvOXZWeEtNRERNWFFxX3JOeXZRQWlOTUMtaWpmcS02RWp1cDVCN0pCcGhoVEdFb3pfdG5tWUk3R2pRbU9DZUZ0WmdVbHJpOU0zdFFJUG1PVGJfSnd5ckpYOHh4UkVoNDl4ZlRCTE5ZSHFmNVJMZw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDc2NnpKUE44UlVSVTdFTGRnUUxtWmJadEtrQm9Ga0haTHVxaHhobmI5MDlRQ3Y2ZXJlLVI2Y1pZY05Qb0RlWnFqYzFEQnBpZ0JNUWlGNFN0Yy10WnpoQXV2X0x6NnBKdFZ0VHdVSWtISm1wV0MzTW1kbnlTVENvM3FTTjd2R0tRSDU0dw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPanQzYkZ2T0xfLWdoYm9vM251V2RZMEJwQ1hVUWM4cFY1YWpkYUYtb1lPWHdPVUZsN0tqR2pDZTloRm9FU1dLTnF0YUJLbGg1bWZnQWV4blo3dUdWNEg1RXUwN2VxUVlKQ25jQ0ZZdm9HVFpSMVdTR252czNycnhfS1VaNFYxTjg5bVZObmZaeHNSQ0Ff?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한멕 외교장관 회담 및 오찬 결과 - 대한민국 정책브리핑",
-          "date": "2026-08-24",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VU1YxdjFzQXdOUFdiMVctME5LUUpZckVvMzZJTVB3TzJoV2lvZkpiM2ZGNnBnYkxXQm5KMmRnRVctcWRZZnpyWnR1SEFVdTVnRkN0MDFIRDQyU3JfZW9tdmIxcWd1TUVabDZNMzVIaThndnhV?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한중 외교장관 회담 및 만찬 결과 - 대한민국 정책브리핑",
-          "date": "2026-11-13",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2k2emp1VXRVQWdzdWNMX3MydUFRZlBIOU5WcXRPUEZyQjVQQzhHMDRyektDUFI0OEhVU3hMMjlQVXBOYW1pRlE1RnQzMlJvUERFcTdEaWpCdndxUjhkR1JDbG95dDFmQXdrR1lBUFBKQ0RaNXhSazM5ZDgxQkw3NENmUEFLSTlrSm1TMG5wS1B1QTlx?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-08-25T04:44:44+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-08-25T06:14:44+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-08-25T14:18:09+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        },
-        {
-          "updatedAt": "2026-11-13T23:50:40+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 4
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "81515fa16dfe9d33a6a98b33b9f316c5661e677826e3c0229d246331b746030c"
     },
     {
       "id": "20261113-DP-C44065CF-3092",
