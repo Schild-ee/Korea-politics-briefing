@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-15T23:39:53+09:00",
-    "nextScheduledUpdate": "2026-11-16T00:09:53+09:00",
+    "lastSuccessfulUpdate": "2026-11-16T05:17:07+09:00",
+    "nextScheduledUpdate": "2026-11-16T05:47:07+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-15T23:39:49+09:00",
-      "finishedAt": "2026-11-15T23:39:53+09:00",
+      "startedAt": "2026-11-16T05:17:04+09:00",
+      "finishedAt": "2026-11-16T05:17:07+09:00",
       "activeSources": 4,
       "fetchedCandidates": 168,
-      "acceptedCandidates": 34,
-      "duplicates": 31,
-      "rejected": 131,
-      "rejectedByDate": 123,
-      "rejectedByRelevance": 8,
+      "acceptedCandidates": 37,
+      "duplicates": 35,
+      "rejected": 128,
+      "rejectedByDate": 122,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
       "newIssues": 5,
-      "updatedIssues": 1,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,208 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261116-FR-77B5DE9B-3141",
+      "title": "미중러 첫 정상회담 예고…한반도 안보 거래외교 우려 : 국제 - 재경일보",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "재경일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-16T02:30:00+09:00",
+      "publishedAt": "2026-11-16T02:30:00+09:00",
+      "firstCollectedAt": "2026-11-16T05:17:06+09:00",
+      "updatedAt": "2026-11-16T05:17:06+09:00",
+      "summary": "미중러 첫 정상회담 예고…한반도 안보 거래외교 우려 : 국제 재경일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "재경일보",
+          "title": "미중러 첫 정상회담 예고…한반도 안보 거래외교 우려 : 국제 - 재경일보",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vUWRsNmhlNG9LbVFYQUl4MDZIVC1oRXhuUDg0cm1ycVpsY0tNZE5XbDRjeS1KZG8tSEFOUENjRmplemtQUk40c2JfSQ?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "77b5de9b1963d170330c684003ef903566509b06e2b603ce6631e4ac7edacd7d"
+    },
+    {
+      "id": "20261113-FR-06BA3272-3137",
+      "title": "통상교섭본부장, 민관 원팀으로 EU 고위급 통상외교 총력전 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "통상·경제외교",
+      "countries": [
+        "유럽연합"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-13T10:04:17+09:00",
+      "publishedAt": "2026-11-13T10:04:17+09:00",
+      "firstCollectedAt": "2026-11-16T05:17:05+09:00",
+      "updatedAt": "2026-11-16T05:17:05+09:00",
+      "summary": "통상교섭본부장, 민관 원팀으로 EU 고위급 통상외교 총력전 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "통상교섭본부장, 민관 원팀으로 EU 고위급 통상외교 총력전 - 대한민국 정책브리핑",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxanhMY1p5OTJEX1BmY0xzeC1mS1NBQTFMcGNENHpzQTYwWkI5c3Q0QmNxWlpadFMyS25KS0VFMWpHNWFTdV82UERxdHlzeE93TTRmYzBMb3lpbXprYnMzbWk2cnI1VEpkT2ZQY3FVTTIzcWx5?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "06ba3272099b0ea3b5283cc96847c0677fb532e51e43a116f1e1ca4305d9caf0"
+    },
+    {
+      "id": "20261115-FR-A98E0F1E-3138",
+      "title": "생활화학제품 정보, 큰 글씨로 보고 휴대폰 카메라로 확인하세요 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-15T12:00:00+09:00",
+      "publishedAt": "2026-11-15T12:00:00+09:00",
+      "firstCollectedAt": "2026-11-16T05:17:05+09:00",
+      "updatedAt": "2026-11-16T05:17:05+09:00",
+      "summary": "생활화학제품 정보, 큰 글씨로 보고 휴대폰 카메라로 확인하세요 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "생활화학제품 정보, 큰 글씨로 보고 휴대폰 카메라로 확인하세요 - 대한민국 정책브리핑",
+          "date": "2026-11-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUE9Gby1BVmpTVEZ5VS02a1BzemxXa3JIMnBTUDQtYWtXZEZtUmdTVHpkbnQ4amtXRjVQSEl4c21rQWRmLXl0aWtFVmhlQzR2ZWUycjd4bUx3cTVUMUs1RS1rZzMwRjN2NGdGUURtWnF6Q0h6Yno0alZ0TDU3VU4yVkI0MkhtUWJVNHd2bkZVR3dCZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a98e0f1e89fae40e6931a049d843b18054b820577cfcc1448cf7f338c11ac5dd"
+    },
+    {
+      "id": "20261114-DP-D3F48863-3139",
+      "title": "與, ‘조작기소특검법’ 규탄집회 국힘에 “대통령 조롱 장외투쟁” - 문화일보",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "문화일보"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-14T15:51:42+09:00",
+      "publishedAt": "2026-11-14T15:51:42+09:00",
+      "firstCollectedAt": "2026-11-16T05:17:05+09:00",
+      "updatedAt": "2026-11-16T05:17:05+09:00",
+      "summary": "與, ‘조작기소특검법’ 규탄집회 국힘에 “대통령 조롱 장외투쟁” 문화일보",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "문화일보",
+          "title": "與, ‘조작기소특검법’ 규탄집회 국힘에 “대통령 조롱 장외투쟁” - 문화일보",
+          "date": "2026-11-14",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5lNXlKLXVhNlRPY1F1OXJKU3hSWWUwaWRiWUJvci1HYmRqcEpQVVhVVDBOWE9leXdkNFJmVmdPU2RleFE3UEZwc3VqeThicnc0?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d3f48863587f3c24b07a0fbdd6ba43090e4e0bb989c41e33af1d542bd859e1f5"
+    },
+    {
+      "id": "20261115-DP-BF786619-3140",
+      "title": "국민의힘 내부 폭발 위기, 징계 조작 의혹과 법원 판결 임박 - 공감신문",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "공감신문"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-15T19:17:13+09:00",
+      "publishedAt": "2026-11-15T19:17:13+09:00",
+      "firstCollectedAt": "2026-11-16T05:17:05+09:00",
+      "updatedAt": "2026-11-16T05:17:05+09:00",
+      "summary": "국민의힘 내부 폭발 위기, 징계 조작 의혹과 법원 판결 임박 공감신문",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "공감신문",
+          "title": "국민의힘 내부 폭발 위기, 징계 조작 의혹과 법원 판결 임박 - 공감신문",
+          "date": "2026-11-15",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Vbl9SU2NsVHNXazA0RTJLMVRLMlRIc05tZFNkRW4zcjFFSXkzd1RnM0todFEwcjVWS0xpOVBackFGLVhPcGVCcWpuMjR2clVKQm5pakhaWXR2NUEwTWhfQmdkMnc1aUt2?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bf7866192ed9d51a3d280fc37a4fb61b976d55b6a96cbfe8d6b4aba7ec4e3804"
+    },
     {
       "id": "20261115-FR-7925636B-3130",
       "title": "EDA 소프트웨어 관련 9개 사업자의 부당한 공동행위 제재 - 대한민국 정책브리핑",
