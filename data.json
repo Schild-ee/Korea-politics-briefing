@@ -1,25 +1,25 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-15T05:34:37+09:00",
-    "nextScheduledUpdate": "2026-11-15T06:04:37+09:00",
+    "lastSuccessfulUpdate": "2026-11-15T09:10:37+09:00",
+    "nextScheduledUpdate": "2026-11-15T09:40:37+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-15T05:34:33+09:00",
-      "finishedAt": "2026-11-15T05:34:37+09:00",
+      "startedAt": "2026-11-15T09:10:35+09:00",
+      "finishedAt": "2026-11-15T09:10:37+09:00",
       "activeSources": 4,
       "fetchedCandidates": 167,
-      "acceptedCandidates": 49,
-      "duplicates": 46,
-      "rejected": 116,
-      "rejectedByDate": 105,
-      "rejectedByRelevance": 11,
+      "acceptedCandidates": 44,
+      "duplicates": 44,
+      "rejected": 122,
+      "rejectedByDate": 110,
+      "rejectedByRelevance": 12,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
+      "newIssues": 1,
       "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
@@ -64,6 +64,46 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261113-DP-1293980A-3127",
+      "title": "오세훈 \"'조작기소 특검법', 총리가 의결할 가능성 높아\" - 아이뉴스24",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "수사·재판",
+      "countries": [],
+      "institutions": [
+        "아이뉴스24"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-13T15:11:42+09:00",
+      "publishedAt": "2026-11-13T15:11:42+09:00",
+      "firstCollectedAt": "2026-11-15T09:10:36+09:00",
+      "updatedAt": "2026-11-15T09:10:36+09:00",
+      "summary": "오세훈 \"'조작기소 특검법', 총리가 의결할 가능성 높아\" 아이뉴스24",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "아이뉴스24",
+          "title": "오세훈 \"'조작기소 특검법', 총리가 의결할 가능성 높아\" - 아이뉴스24",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnZkEwQmxPQXFoT0tULWdXQ1lKcVZFVGdRcVZuQzFib0RCWTd5LTBZRjluM1BVYmY2cWphWjBFeWZQUC1BeHFFeUoxbw?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1293980a0e4ad8a748268ee6070f29ba92506ce4e40138636e3bb2979c016d35"
+    },
     {
       "id": "20261114-DP-DB87A789-3126",
       "title": "“수학여행 가고 싶어요”…교사 ‘기소 제한’ 카드 꺼낸 국회 - 매일경제",
