@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-16T05:17:07+09:00",
-    "nextScheduledUpdate": "2026-11-16T05:47:07+09:00",
+    "lastSuccessfulUpdate": "2026-11-16T09:16:16+09:00",
+    "nextScheduledUpdate": "2026-11-16T09:46:16+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-16T05:17:04+09:00",
-      "finishedAt": "2026-11-16T05:17:07+09:00",
+      "startedAt": "2026-11-16T09:16:12+09:00",
+      "finishedAt": "2026-11-16T09:16:16+09:00",
       "activeSources": 4,
       "fetchedCandidates": 168,
-      "acceptedCandidates": 37,
-      "duplicates": 35,
-      "rejected": 128,
-      "rejectedByDate": 122,
+      "acceptedCandidates": 36,
+      "duplicates": 33,
+      "rejected": 129,
+      "rejectedByDate": 123,
       "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
-      "updatedIssues": 0,
+      "newIssues": 3,
+      "updatedIssues": 3,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,290 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261115-FR-D56784C0-3129",
+      "title": "한-투르크메니스탄 세관상호지원협정 발효 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-15T09:02:25+09:00",
+      "publishedAt": "2026-11-15T09:02:25+09:00",
+      "firstCollectedAt": "2026-11-15T16:03:06+09:00",
+      "updatedAt": "2026-11-16T09:16:14+09:00",
+      "summary": "한-투르크메니스탄 세관상호지원협정 발효 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-투르크메니스탄 세관상호지원협정 발효 - 대한민국 정책브리핑",
+          "date": "2026-11-15",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb192TUpuNmplem5uM2Zvbnl1cUI3SFE1TkFMUjJ3LW9PR1VJZHNiS1laZFhrZDJxRW95cDd1MlBla0g3cWRMSF9DS1pFMHRTRnMtdkQzNXZVNXk5bWprR3ZDajRoa1hnNUxSNDg1aER1WG0zSnhDd1BFMWNvaWVyYmZHSHpxSFBQd1UyYzhKV0RtZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-투르크메니스탄 세관상호지원협정 발효 - 대한민국 정책브리핑",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmRZRmpoTE5jeFVmaTEyMVRLY0d5bk9wYXJZQTQ3MXFIbmEzRVB0Y2RYT21VcUR6NmxWN3FGZm9hQTU5X2N4RzFnTl85NWFMWVpDNHI1d0tXWVpFcnZ5QTZCamVLMHFOWDhnLTFKakJSc1BlNnZ2NlRFVUJhMm9VNGdaMUEwTFozN2tPbGxwUEt2VjRV?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-16T09:16:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d56784c0772de8028fe489528d9ce5d71025e10deb3dd2302d3445fd574e69b1"
+    },
+    {
+      "id": "20261113-FR-192177F6-3070",
+      "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국제기구",
+      "countries": [
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-13T05:57:27+09:00",
+      "publishedAt": "2026-11-13T05:57:27+09:00",
+      "firstCollectedAt": "2026-11-13T08:48:51+09:00",
+      "updatedAt": "2026-11-16T09:16:14+09:00",
+      "summary": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설 - 대한민국 정책브리핑",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFhqbWlEWWMweWtLQ1h6WlBWV1FvQ2s4aENDb1U1and0cEpyNVd4M0F2RmI1STdNTEpsOHdFczhsM0dwXy1WZ1JIOXlCRTB6TXdaRVNBY05vWl9ndXFtekNlY1FGMlhESVFjemlNektwZkc3SEIxcmZSdUFfN0ItUEZTVlR1a0xnalVwZ05TclVPQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 활동 성료 - 대한민국 정책브리핑",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdHBtemtxdnhJbmlBamVORGNIakpUMGJneTVNTDhNczFMOWNmLUlweFcyRDJ0ZXdaVHRXWVczUG1yX19ZT1ZvTTh0WGpLSEZHX2o0UkZOY2tqUkxuVFUxc0ZhV2tKVFZTYUdwdXpGLS1xa1RSVHg5R1k5M1ZpZkJtR010dGhfOUZuR1Rv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-16T09:16:14+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "192177f63325987f5cdc921e721f0f066abfa2fc1affa8fa13a7879e0c92edb2"
+    },
+    {
+      "id": "20261113-FR-284A8B4A-3143",
+      "title": "아세안에서 APEC까지…국익 넓히는 실용외교 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-13T10:03:01+09:00",
+      "publishedAt": "2026-11-13T10:03:01+09:00",
+      "firstCollectedAt": "2026-11-16T09:16:14+09:00",
+      "updatedAt": "2026-11-16T09:16:14+09:00",
+      "summary": "아세안에서 APEC까지…국익 넓히는 실용외교 - 오피니언 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아세안에서 APEC까지…국익 넓히는 실용외교 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BVmxsckY3WkxBNi1iTmI3eVV5eXZ5eG5BU3dwWWFMSC1TUVZxUjBYd0pIdEE5cjdKVzBuZWJPeC1GbVRsXzBtV3l3RmpzaFVTZXZnNE12eGJTZlNxSjJzUGtRYWZDalZTWGk3YUpNUkgwaVJB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "284a8b4ad484129864e0263776904db4ccd26f206181974ae4e73db9020dacaa"
+    },
+    {
+      "id": "20261116-FR-76F6810C-3144",
+      "title": "북한은 중·러와 밀착, 한국은 한미동맹 흔들리나…‘제2의 얄타회담’ 경계령 - 독립신문",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국",
+        "북한"
+      ],
+      "institutions": [
+        "독립신문"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-16T09:07:49+09:00",
+      "publishedAt": "2026-11-16T09:07:49+09:00",
+      "firstCollectedAt": "2026-11-16T09:16:14+09:00",
+      "updatedAt": "2026-11-16T09:16:14+09:00",
+      "summary": "북한은 중·러와 밀착, 한국은 한미동맹 흔들리나…‘제2의 얄타회담’ 경계령 독립신문",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "독립신문",
+          "title": "북한은 중·러와 밀착, 한국은 한미동맹 흔들리나…‘제2의 얄타회담’ 경계령 - 독립신문",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xZEN4blZRODdKMUpEeG8wd2pSQ3JjWUZYaGN5Q3d0OFZOUEdXRnNYVEcwNW5CRUExRkZPWndYT2ZTaDVrWUVlMjhkVVQ5WC1oalBzeVZ5OGxxQzBkcHJXVWlFTjB4Mmh2cjdN?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "76f6810c7765b3689632aeed4de79169b14e1fd3ac45940cd0f34ef065191c78"
+    },
+    {
+      "id": "20261113-DP-D7DE62CA-3095",
+      "title": "- 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-13T19:11:13+09:00",
+      "publishedAt": "2026-11-13T19:11:13+09:00",
+      "firstCollectedAt": "2026-11-13T23:50:40+09:00",
+      "updatedAt": "2026-11-16T09:16:13+09:00",
+      "summary": "- 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "- 대한민국 법원",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPMERCb2wxa2R4Qk5WdmFENkxZQXZBU1FIbkoyTlhwWTZqSEJwN3Rqc3ktdVpYUjNVNHlkZVh6UHRyTlZRYVQ5ZXFzQXhHU0pQNXFndVlvRFFIY0pKTHNTYjFobTZKRFRINlhLTTAzVVZQZWtCQkJKZHpnZHAyWnpIaVI1azEyMUVhRW5FeWZpRDVtZ2dRTlVMUEJVT1BMYmkwUmdSdUJzUjEtSXZmWTRYZEg1S09zRkNueHdDZDc4QzNZMDNCREdEeU51dkFSdzFKQjJBcEZXV3NRdkpXZlBpUEIzbkhscXktZnU4V3JJVXpod1d1eGM0MmN1YUU4S0JQRUsxNEd6dE51S2lLSEJTTkJKR1pJQlN2RmpaUzdkNXlhOXA5VENFWXlBUG82S0loNlljSmJVOEo?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 법원",
+          "title": "- 대한민국 법원",
+          "date": "2026-11-13",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOaDYtR2pRaFZKRnlIR1hSSENiWnhLUEhlLVZYd2t6d2VGeDJWYVVkMENqMHpnb1hLcDNQWFVBX1hUMzZ5ekg3YkIzWmxDR3ZHYlc2NGpLQlNSdi1VSW5DRmxNcko0NnF0SXNJSm4xZ2JtZS1ubmFlVEg0SXl0WTFrTUNKMGRYbHNURnhLWlBTVWtqYlVTQjF6MHJHMFd3cUZHRFc4eFRyWXNRT2ZLSG5SNU0wem05Sy1rd2s0LW5TS2I3MDBuS1c5aHlQMVJRU2R2VGo5NnUzOE0wRTA0bkwxb0h1d1Q1dlpvWHRXSGtWRmw2bC1RRnltTS1fbkU2NHM2dW0xMW11aGc2VWRwYUlhX0ZvaktrVjVkV1F6c2M5dWY0QVFXYVF3ajZMTVRFckpCeE92VmV4TXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-16T09:16:13+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "d7de62cab0661d64bbe5e91d8dfabc76541c88509044d14576ac2b36f3836058"
+    },
+    {
+      "id": "20261116-DP-AE6DCA1F-3142",
+      "title": "[보도참고] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-16T07:59:36+09:00",
+      "publishedAt": "2026-11-16T07:59:36+09:00",
+      "firstCollectedAt": "2026-11-16T09:16:13+09:00",
+      "updatedAt": "2026-11-16T09:16:13+09:00",
+      "summary": "[보도참고] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도참고] 식약처, GMO 완전표시제 시행 앞두고 업계 설명회 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFRRUF9Nd29KTFFUYnJwa0xuTFQxYUxCa1B3TG5XaS1WNzR6RHVBY2ZwR1ZXbTQ0eGgwdHZHSlZtZlVXNjJKQVd0TWViWFZ5WDdGMTY5dWlodmlDWGp6NHNVM3pnQmppeExDeVlWRU9IX0RMM2Z2UGVjRUs2YldkX1poaXNUdjBNZndpajlvWTdtZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ae6dca1f0b5a1b6af2cbe3886108f3c96d044403d110b27c26e02bca71b7c0d2"
+    },
     {
       "id": "20261116-FR-77B5DE9B-3141",
       "title": "미중러 첫 정상회담 예고…한반도 안보 거래외교 우려 : 국제 - 재경일보",
@@ -521,46 +805,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "b18f4eb88b495fa9bfcc81d80d2bca4f868e682c1cc86b9aeef46aaa7eff0fdd"
-    },
-    {
-      "id": "20261115-FR-D56784C0-3129",
-      "title": "한-투르크메니스탄 세관상호지원협정 발효 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-15T09:02:25+09:00",
-      "publishedAt": "2026-11-15T09:02:25+09:00",
-      "firstCollectedAt": "2026-11-15T16:03:06+09:00",
-      "updatedAt": "2026-11-15T16:03:06+09:00",
-      "summary": "한-투르크메니스탄 세관상호지원협정 발효 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-투르크메니스탄 세관상호지원협정 발효 - 대한민국 정책브리핑",
-          "date": "2026-11-15",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPb192TUpuNmplem5uM2Zvbnl1cUI3SFE1TkFMUjJ3LW9PR1VJZHNiS1laZFhrZDJxRW95cDd1MlBla0g3cWRMSF9DS1pFMHRTRnMtdkQzNXZVNXk5bWprR3ZDajRoa1hnNUxSNDg1aER1WG0zSnhDd1BFMWNvaWVyYmZHSHpxSFBQd1UyYzhKV0RtZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d56784c0772de8028fe489528d9ce5d71025e10deb3dd2302d3445fd574e69b1"
     },
     {
       "id": "20261115-FR-20F50662-3131",
@@ -2919,46 +3163,6 @@
       "contentHash": "c44065cf3b813cf7c63cbc8cb6c18ec734958b973ba98f8aa5ad0930c5bad79b"
     },
     {
-      "id": "20261113-DP-D7DE62CA-3095",
-      "title": "- 대한민국 법원",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "기타 국내 정치",
-      "countries": [],
-      "institutions": [
-        "대한민국 법원"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-13T19:11:13+09:00",
-      "publishedAt": "2026-11-13T19:11:13+09:00",
-      "firstCollectedAt": "2026-11-13T23:50:40+09:00",
-      "updatedAt": "2026-11-13T23:50:40+09:00",
-      "summary": "- 대한민국 법원",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 법원",
-          "title": "- 대한민국 법원",
-          "date": "2026-11-13",
-          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPMERCb2wxa2R4Qk5WdmFENkxZQXZBU1FIbkoyTlhwWTZqSEJwN3Rqc3ktdVpYUjNVNHlkZVh6UHRyTlZRYVQ5ZXFzQXhHU0pQNXFndVlvRFFIY0pKTHNTYjFobTZKRFRINlhLTTAzVVZQZWtCQkJKZHpnZHAyWnpIaVI1azEyMUVhRW5FeWZpRDVtZ2dRTlVMUEJVT1BMYmkwUmdSdUJzUjEtSXZmWTRYZEg1S09zRkNueHdDZDc4QzNZMDNCREdEeU51dkFSdzFKQjJBcEZXV3NRdkpXZlBpUEIzbkhscXktZnU4V3JJVXpod1d1eGM0MmN1YUU4S0JQRUsxNEd6dE51S2lLSEJTTkJKR1pJQlN2RmpaUzdkNXlhOXA5VENFWXlBUG82S0loNlljSmJVOEo?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "d7de62cab0661d64bbe5e91d8dfabc76541c88509044d14576ac2b36f3836058"
-    },
-    {
       "id": "20261113-DP-F585997F-3096",
       "title": "인도양 해저지형 4곳에 조선시대 지리학자들의 이름을 붙인다 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -4346,48 +4550,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "9568018daca15bc9f57db4b18b74895160e2737063d81d58fa03f84bf9d4a368"
-    },
-    {
-      "id": "20261113-FR-192177F6-3070",
-      "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "국제기구",
-      "countries": [
-        "유엔"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-13T05:57:27+09:00",
-      "publishedAt": "2026-11-13T05:57:27+09:00",
-      "firstCollectedAt": "2026-11-13T08:48:51+09:00",
-      "updatedAt": "2026-11-13T08:48:51+09:00",
-      "summary": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "강금실 대통령 특사, 제31차 유엔기후변화협약 당사국총회(COP31) 정상회의 연설 - 대한민국 정책브리핑",
-          "date": "2026-11-13",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFhqbWlEWWMweWtLQ1h6WlBWV1FvQ2s4aENDb1U1and0cEpyNVd4M0F2RmI1STdNTEpsOHdFczhsM0dwXy1WZ1JIOXlCRTB6TXdaRVNBY05vWl9ndXFtekNlY1FGMlhESVFjemlNektwZkc3SEIxcmZSdUFfN0ItUEZTVlR1a0xnalVwZ05TclVPQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "192177f63325987f5cdc921e721f0f066abfa2fc1affa8fa13a7879e0c92edb2"
     },
     {
       "id": "20261112-FR-D554E854-3072",
