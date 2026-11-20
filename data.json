@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-20T15:57:43+09:00",
-    "nextScheduledUpdate": "2026-11-20T16:27:43+09:00",
+    "lastSuccessfulUpdate": "2026-11-21T01:00:28+09:00",
+    "nextScheduledUpdate": "2026-11-21T01:30:28+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-20T15:57:36+09:00",
-      "finishedAt": "2026-11-20T15:57:43+09:00",
+      "startedAt": "2026-11-21T01:00:20+09:00",
+      "finishedAt": "2026-11-21T01:00:28+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 163,
-      "acceptedCandidates": 64,
-      "duplicates": 53,
-      "rejected": 95,
-      "rejectedByDate": 77,
-      "rejectedByRelevance": 18,
-      "rejectedAsCommentary": 0,
-      "newIssues": 10,
-      "updatedIssues": 5,
+      "fetchedCandidates": 166,
+      "acceptedCandidates": 56,
+      "duplicates": 36,
+      "rejected": 106,
+      "rejectedByDate": 89,
+      "rejectedByRelevance": 16,
+      "rejectedAsCommentary": 1,
+      "newIssues": 17,
+      "updatedIssues": 7,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 28,
+          "count": 31,
           "error": ""
         },
         {
@@ -64,6 +64,1157 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261119-FR-0F5C98A9-3297",
+      "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-19T18:51:00+09:00",
+      "publishedAt": "2026-11-19T18:51:00+09:00",
+      "firstCollectedAt": "2026-11-20T02:15:24+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFg3ci1KVWUtUUE1VTJfdlBQZGlIbXJ3a3hqVVZJeDBEZFFwR0tvQWNFMFNXYnhVanhkMWs1X3kydVlyaFRuaUJoYXI1N3hWS0pteVNtenhpZEdwb3A3WFhhZGU4MFVRRFF2ZVdGdTlzNVRzSnpjMkxRbFpKZTh1bEFvalg2eURfMGJwbXlhVTZUZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmw5V0s3aWh3akpiX0VZSVJ1MHZyQmxIb1JwU192T1l6bE9XLW1WVFdodUhESHNUREgzTUhZRDhoQ09sVl9ZZGhESmg0RHptcVc4QTNtbEhLaUxVdS1QLUN1QWZ3WkRnUWRhN09mTUlrci11SWE2NmtjekVieE5VREIxTTRicGZ2Nk1MeWJCUjNmZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IT3d0TkM4MzQ5QnJjNXNYTWtXcUZHR0NkbmhyaE1yUGdrWWdpcVJsS2s0NFB5cVlObzAxcW9XYUtORFUyNFg1YzdOMUV1TTZVcmcxaE9qWDBycmFaOS1MYWZGeUhRRTU1U1B3LVJVbDJoczNt?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-20T08:44:28+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-21T01:00:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0f5c98a9e44a666decd6024effbf5d9cbade8bce59bdcf9f0b2ca1db8255bf2f"
+    },
+    {
+      "id": "20261119-DP-2BBD1257-3285",
+      "title": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-19T14:04:19+09:00",
+      "publishedAt": "2026-11-19T14:04:19+09:00",
+      "firstCollectedAt": "2026-11-19T16:48:44+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcmdHWmFEckZvY251RjR6LUd1M1pvaHBOdktWczItbTZHb3VaN1d2aHV2SEhNV0l5RWRhZjFTQWI5cm1EcE1HeEdDS1dZUW9CNF9xZGFYT3VEc3h1aVp5MVRyOXBzenFDLVI4ZFJDYzFnOWJYS0ZYYXpsdkl6UkVaaUgtbmxEN3lTQlhSamFPRGI?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MWkZNU295UmZHTk9nbTI4UkxwRUJLWklhR1E0cUp4UVU2Y05SZmN0SFVtald0dHUwdy1HWWd6ekJrUDRLU093eXZXMkJFU1ZzejJyRldtSl83QQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ycU9CaTZzdmNhM3UwRW5PLTd3SE1kVmV2a2IwQnZVZFhJRjNrcldzMW9PQld3cXpYR2Rwb3RIQ1FpbUVUTDdFVWpKLWU5TV9YazNEWWZpeVo1dS1iVWdpUUowR0tBZ2hDSUJWRVg4eW4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-20T02:15:24+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-21T01:00:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2bbd125764c3818bf4afb4139d4d301cf83a990553e4a6a44c3614ed0e099a8c"
+    },
+    {
+      "id": "20261118-FR-B9178B56-3252",
+      "title": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T15:49:18+09:00",
+      "publishedAt": "2026-11-18T15:49:18+09:00",
+      "firstCollectedAt": "2026-11-18T18:00:50+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnFna1djMFFIZVh1MkxjR1lCSWxPdWdnN1ViWjVZVk8tNVU5S0s2NWxpaUNoMDNQMXdkUV90SU5tUDktUm9KRFdMaE8zMTdyVGV4YnVCbG50Y0g2NlIzWGVXLWVCMnlodmxMeEJWdW11dnJUdzE0T3VlUUpKaUZNaml3bDBNaUpWSzZJZ3BB?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43S1R2cG9BbURCWS03ZDdXT0MzaHh2NXg4Zk8yRUJFVkt4QTk3dWxZbkk4X0hOQzVxTkVZMDlmRGpWa1VuTVVERG1LQlM3SkRSb1djRUNKc0hYQmYwOGNQcmtzTjRkMHlxTFFIVndocVQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRU1fWnQ0NUZXNXFGeUVlUmlIM0lvaXZvU1R4Qk5yTFBjbHIwbFFsTTVtV0s5RVlVQV9wdWRKSkxhVmpmamlMTzQ5U1dpWDNVRVZENmlxZGJtWVdWbS0xNDBpd0dDM2VNSTJtZ0RRLWp2aXhwRTMyNTdKVGVPUXRCaTVYdTJDRzhTZzg0LVJ3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-19T09:11:11+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-21T01:00:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b9178b567577b9c173dd61ae0472b052c8f5e834a724571e3276a0bf1d6cd101"
+    },
+    {
+      "id": "20261116-FR-C4AF0059-3165",
+      "title": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-16T20:34:16+09:00",
+      "publishedAt": "2026-11-16T20:34:16+09:00",
+      "firstCollectedAt": "2026-11-17T02:20:32+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95UUlhNEFzNEU5ODNwbG9EMDhtTEFzczRubEloM0xGRlc2WnJ6bm92dzR4UGktb0tkeUFENVhLcFFEb2c5blpQcXpZenRrdlAzWE9zTzNzNS1vOXAzdnl5WXlFUU0zcU9MZy1KcG5aRlc?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSldKOC1XQzRDby05QTNDM1dXSFpWQXlmQlhYMFNEbnZWd0xtQVY1ckJtUXhDMGxReHd0ZHZmT0NoM29uLUhNRjhGTm8xRWZqclNmTThWNHlBSzNMMG5XMHUzenNKcTZ5RHZsUy0zemZjbnRGdDhqOXgwZkszb3c4Y2pZMnYwQmZYY0JERA?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 - 대한민국 청와대",
+          "date": "2026-11-16",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYUpJcFA2S1VmODZJQkF1UTBNMzhia09ITlBHdlk3ZHRLOXdZME1tMHVCZDBodjVLdTZfakF4Nnh1dzIxNmhHMGUxX2VjanVETmVTSDFwU0RUZw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5R0hlQ0VZSUZlWXdYbzJ5bF9OZzRuTjBUYm1BMWRlNmZSZloxT2d4X1Z1R0kxYnY2Mlppa0dlLVctRElMZHAyT1BwV0NlajM3VWI0TS1DYXhSdkFrLV9SM2pvbTU3dWM3SlByd0xQdjk?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92LUd6ZDNSbVFaQl9la0pkbHBIT3c2NWR2UmlLZzVjdFo4eGd1RzN6YkhhZ0FNdHM2ZjFqY0l1dWNqeFljRjZoWXgtQldGM3NnclZMaXNhWVN5MEZ3MFFmN1BRODJFbzc3MDQzbg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-18T18:00:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-18T18:00:50+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-11-19T02:55:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        },
+        {
+          "updatedAt": "2026-11-21T01:00:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 4
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "c4af005910ed8bedd0c1fdf29333882876b2a93cbec0570849ffb4f99a92d1a0"
+    },
+    {
+      "id": "20261118-FR-9B160AF1-3253",
+      "title": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "북한"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T16:36:05+09:00",
+      "publishedAt": "2026-11-18T16:36:05+09:00",
+      "firstCollectedAt": "2026-11-18T18:00:50+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLXdvWVpvbE1wZUgtc3BBTVloeFdkeGpQS0FjSDhvSXRoc3dTYTNZV3MyVFV4bUtORmtLbkl2QW9ZanR6OUE4MzJSdk1MUUZtcGpmVXlRdGlGV2Z6TDJKb2ozNzFtVzV2U2R2UkF6bEZhSk93OVZYaVh3cFVFUncwOXExQnRWaWNCMDlN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWklUMUNVaXkzRWdQaFBxeERFME1hRDR5aFU1Q1FzcHlvMm93d3diS0RCUkVKOGJxMS01SnFtdzNwcy1NNVYtLUdNTkx6LW9WQlhZODBNYWpwOHliVU1WbXJ6UWRnMV9RdlVlNHdETm5pTnZDWHhlc2FoME5MTi1Wc3VGYmJIeTI3V2FFYXR5TS15QQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zR2Y0SUx4QWFWLXVBbDdRdGRaLWU5S3ZwSHlfWmtLYTVCQlAwT1VTNkM0bHJLX21Dek4zU3VxclJzWDdLMExPTXBZbk16Mk1jZ1hFcF9WWF9XZHpWcHMzdTVRazgxUUFtYzdTcDEwNFVYdjht?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-19T02:55:55+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-21T01:00:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9b160af17724877e2869700f5318182281910b5814aa15ecd6e9c4d69d18c357"
+    },
+    {
+      "id": "20261118-FR-9CF8F776-3255",
+      "title": "지방세, 지방행정제재·부과금 고액·상습 체납자 명단 공개 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제제재",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T10:00:00+09:00",
+      "publishedAt": "2026-11-18T10:00:00+09:00",
+      "firstCollectedAt": "2026-11-18T18:00:50+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "지방세, 지방행정제재·부과금 고액·상습 체납자 명단 공개 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방세, 지방행정제재·부과금 고액·상습 체납자 명단 공개 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2l4VFdQdHlITnhiMDVDOUlPZm0xVW45MnB1Y2tSV0JucDVkalU4WU5XOGFIaGs3MWVBVFRDTlBuejl1a01fekNjcUZqOU5pZlZpaVhEc1JVamZzOXNIbkxZeWV4NkwybERDU19kTUlHS0cxZVBEeExyT3hndGhtRDFtQUEyTzhkck1kOXNpNlc5QQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방세, 지방행정제재·부과금 고액·상습 체납자 명단 공개 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SaGVhTzlhZThTWUltY0licE1EZHFiZ0VIc093WS0xbkFpSFRNWFVuVjYwakJHX1FoWmMzZlU1UHBMazFsOXlBczg0dktkVjRMcEl6bnVWRVQ4Q09OU3BWM3JiMU5oSUZ0dk9tcHlpMEdmX2FK?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-21T01:00:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9cf8f77687e722fb5c2010dcf135226db1085e4ad554fd2f84d34d24fbcfc6ab"
+    },
+    {
+      "id": "20261031-FR-6D2BBB90-2644",
+      "title": "한미일 외교장관회의(10.30.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [
+        "미국"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-31T09:00:00+09:00",
+      "publishedAt": "2026-10-31T09:00:00+09:00",
+      "firstCollectedAt": "2026-10-31T09:37:59+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "한미일 외교장관회의(10.30.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미일 외교장관회의(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-10-31",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTFuNHlPZnhDZjVXZHY1dndiUzdFcHp4OW8yZ1NDTWd3TGhEa0MwX1ViYnVzT29pWFhIYk5lZjF6T1ZVeTJ1VEl0TFlPdXl2QmpvQWR0X3Uycm91RVhzd1hvd19ZY3NSd1VYZzNxaVhzN0RIc0EyOUhFZl9XQlpjTTJuZC1ObVloT3hCWVhEQ1dLQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한미일 외교장관회의(10.30.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcDdsUUI2cW45VGtUTlkxVlNheWJYR01kdnVHVmhCNndEbWxFdTA3QmtoRVlsaEFfSHQtSzBNMTMxNG1lcjgzdzRsc2psYjh5NGZISFY2Z2ZicUViTGpjNGFNYWRXT2tFMVBBTV93VkxHNG5Gal8zZ25kTzBFVnkxckIxWDlFa0JCQ24tVHY4NHA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-21T01:00:22+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6d2bbb906822f7ce27d35b5da3805bdc9e0edb4dabf55797a292ec30e8651dbb"
+    },
+    {
+      "id": "20261120-FR-7B741644-3329",
+      "title": "한일 6개월 만의 정상회담… 이 대통령 “내년 1월 일본 방문” - K-공감",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [
+        "일본"
+      ],
+      "institutions": [
+        "K-공감"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T02:45:25+09:00",
+      "publishedAt": "2026-11-20T02:45:25+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:22+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "한일 6개월 만의 정상회담… 이 대통령 “내년 1월 일본 방문” K-공감",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "K-공감",
+          "title": "한일 6개월 만의 정상회담… 이 대통령 “내년 1월 일본 방문” - K-공감",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaExsOEdIYnhLZWJpU2M3WW5BLXdBY2dIS3NNXzlJaGpRRUJEYjM0Sm8xdFVGTU5IdHRYZTN0MFVwRlpRQXY5SW15bjh4dHJneGo4blBzN1ZBZklkXzc2Z3pjUlJoUXgzY3M1WVNqaVZ4UWUyY2dpYTJtdXNFaXVDeldPZXZLX2NXUEUxUXRRZHdwYkJRbjd4RExTdjFMNmZVM2EtZkVpdTFsTEszcHhJSG1Mc2ZYQWdzRzlhSlRjNHBqNEFqc1RzMF9DYy03UE1OeU9SS0dkTHNzRk43aFE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7b74164481729b333864fec6641b919ef85cf497f03721c7e80f23cc57bb242b"
+    },
+    {
+      "id": "20261119-FR-094803A6-3330",
+      "title": "제81차 유엔총회 3위원회 북한인권결의 채택 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국제기구",
+      "countries": [
+        "북한",
+        "유엔"
+      ],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-19T07:00:00+09:00",
+      "publishedAt": "2026-11-19T07:00:00+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:22+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "제81차 유엔총회 3위원회 북한인권결의 채택 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "제81차 유엔총회 3위원회 북한인권결의 채택 - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2QwM05FUlpDQlk3LWN3QS03YTlIRnEySFRmYjNEaUlZNEczdEMyLTVoTnVMdm9HUktRWXF2dkt1bTF6QTRFbFpOa2N2Rm1oRl9rQkpZV2VBZjBBQjdtV2pka1V0NTJ0bTdJZVZCQzlMMlNSMFloNWx2bG1uNEhkVFhhcFUyUXBIaXVfbU9ZbjBfZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "094803a6fb3496ff27f6332255fad58355f6b56e5c9a37a5ba9d19e3c6760d93"
+    },
+    {
+      "id": "20261119-FR-FF76BAFD-3331",
+      "title": "한·중국 정상회담 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [
+        "중국"
+      ],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-19T05:11:20+09:00",
+      "publishedAt": "2026-11-19T05:11:20+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:22+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "한·중국 정상회담 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "한·중국 정상회담 - 대한민국 청와대",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aZ3pBZnp4Q2pGcHNsRmVFU2ZHY0Jtc3RvQWZwdk1FQUxrQjk1RnBrMHA0OVRhdXBYNHNJbm1ZSDU1cnNiQ2ljNldrN21WME05TzhjV1ZkX282UGdxblctVEdYaw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ff76bafda5fe9c1383000cefdc8aeeeb514e1ade745dc830fbdd90201d8072c0"
+    },
+    {
+      "id": "20261118-FR-EC1427EF-3332",
+      "title": "11/18(수) 국가안보실, 민관군 사이버안보 긴급대책 회의 개최 | 알립니다 | 뉴스룸 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T21:11:55+09:00",
+      "publishedAt": "2026-11-18T21:11:55+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:22+09:00",
+      "updatedAt": "2026-11-21T01:00:22+09:00",
+      "summary": "11/18(수) 국가안보실, 민관군 사이버안보 긴급대책 회의 개최 | 알립니다 | 뉴스룸 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "11/18(수) 국가안보실, 민관군 사이버안보 긴급대책 회의 개최 | 알립니다 | 뉴스룸 - 대한민국 청와대",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxZS1PU0k1NjZseUhvRXpLSURBQUpmRS1XWkliakU4dVpZdUNIbTJyQ1g3VXRFU3JZaVAzR1BrZWFSMjN2ZEJpSVZvUzRnWTdaYXpxTGlHY04?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ec1427ef1c91db4ee79a7111ed23ef8fee75464a709e2f61e06082761d82d28c"
+    },
+    {
+      "id": "20261120-DP-471FBD28-3316",
+      "title": "'민주유공자법 제정안' 26년 만에 국회 통과…내년 6월 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T22:40:36+09:00",
+      "publishedAt": "2026-11-20T22:40:36+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "'민주유공자법 제정안' 26년 만에 국회 통과…내년 6월 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'민주유공자법 제정안' 26년 만에 국회 통과…내년 6월 시행 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YUTFfR1hLZ0FKTDdlZTBxMWxGQTYzSWpDajNYRktPUkQ0YS1HTGU5OHJ1S3RXZzdqd01MLXpGalFWSFg5LWY2XzRBM2NweXR4YmR6SHZ3NEoxYmpqREctZklBY2ZmYjZrR3ZUWQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "471fbd28a2a6e2dc1d3faf934d6677f76af73cbb93f841da83e233785bc90260"
+    },
+    {
+      "id": "20261120-DP-F844564C-3317",
+      "title": "민주유공자법 국회 본회의 통과, 보훈부 후속조치 만전 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "국회",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T17:00:00+09:00",
+      "publishedAt": "2026-11-20T17:00:00+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "민주유공자법 국회 본회의 통과, 보훈부 후속조치 만전 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "민주유공자법 국회 본회의 통과, 보훈부 후속조치 만전 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeDJ2dnZPY0FKQ2ZOMTdwOXdVMlJ6YVh3YXpJSDJtaGY0OVc1R2c3QThHNmZEZjBlV0JIUlZqaUc5TDE3dEhDR1hzTE9zSU4tRXNJU3RHVzdndjBzNXBVYjdibUhsSE5paGxFZldVQVotQ0dDdC1uYmI0MHNBdEZEdk91YlliNXZ2V2hMdEhhMDdaRS1KUXZrQlNHeDBQN3BLZmlGT2FVeEtNQUY4ZzhmVFNZUnlRVzhsTUJ6UGRJeFN5VDREZGxyMkpOMHJ3c3dBdUlvU2x4UEo0WWVGbmdyb2pSQjZob3FTS3BnQmZ2aw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f844564c36fa98a688844ff12abe4ffb96639b7ec37362bad367561b887f51a1"
+    },
+    {
+      "id": "20261120-DP-ECA35AF6-3318",
+      "title": "채권자가 집행에 지출한 비용 및 이에 대한 지연손해금의 지급을 구한 사건[대법원 2026. 11. 19. 선고 전원합의체 판결] - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T16:28:51+09:00",
+      "publishedAt": "2026-11-20T16:28:51+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "채권자가 집행에 지출한 비용 및 이에 대한 지연손해금의 지급을 구한 사건[대법원 2026. 선고 전원합의체 판결] 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "채권자가 집행에 지출한 비용 및 이에 대한 지연손해금의 지급을 구한 사건[대법원 2026. 11. 19. 선고 전원합의체 판결] - 대한민국 법원",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOcjZ0dnp6XzV4My12UWJocUxwcmY1OUxYRV90UGNBZ0twTFllQVUzQk1PWTJrQjJ6eGxVZWJ6QjJuTnFsZF9fTVpzckpXVHVydjJVTjROd3E0OUFwcE93ZWNMVkhuMDVHX0gzTFZPQ2kyTFFyZGtRdG1wMnVmd2hpcEMtQjQzczh6NXcwUHZoWHR2ZHRQeVhDVEFibTZzSHVORFZXOHU0M09TTGlfWWk0cFM4OWhzR1BHSmpGS3JZWUhVLXhRdXE1SURvMzJkRjc5WUh1aWQwY2d0ZGcyczgxZ2xtR0dYOUlqb2JoTzJzbmVsLTU5MGQwbWU1U2EtMDFRN0U1bE9FeUZQazJQbm0zcHl5Q01rdU1fQWR4NkZjQVJ2XzdCaXRNM3N5LUJCZGU2ZTBlOV9WMWNWalY3ekxkOXJkMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eca35af64f7f094be2b3abc787e9dff281d380f1da10cc6357fcff4631cf1473"
+    },
+    {
+      "id": "20261120-DP-5981D366-3319",
+      "title": "비상계엄 당시 국무총리인 피고인이 내란중요임무종사죄로 기소된 사건에서, 비상계엄 선포 전ㆍ후로 피고인이 한 각 행위에 대하여 국헌문란 목적 인정 여부가 문제 된 사건[대법원 2026. 11. 19. 선고 전원합의체 판결] - 판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "수사·재판",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T16:28:51+09:00",
+      "publishedAt": "2026-11-20T16:28:51+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "비상계엄 당시 국무총리인 피고인이 내란중요임무종사죄로 기소된 사건에서, 비상계엄 선포 전ㆍ후로 피고인이 한 각 행위에 대하여 국헌문란 목적 인정 여부가 문제 된 사건[대법원 2026. 선고 전원합의체 판결] - 판례속보 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "비상계엄 당시 국무총리인 피고인이 내란중요임무종사죄로 기소된 사건에서, 비상계엄 선포 전ㆍ후로 피고인이 한 각 행위에 대하여 국헌문란 목적 인정 여부가 문제 된 사건[대법원 2026. 11. 19. 선고 전원합의체 판결] - 판례속보 - 대한민국 법원",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcHdoSXNqNjd5cFViMV9aMWthOXBmX19GWDBQTnFGNkwzaDhyUkZzSlg5S1o0QnpmbWJScDAwUWJsMHgybmtNN2dBYXhjbkNON3Zsa1FBMFU0S2hWcmxJNnJLeFFOaHUyN21GYXNYdlFPdG93MWhzYWRxelRBWmtkdmRIczk3MU15RHlCc3plR2tIMG5pdXF2cDlLZTdkSWZaZTBIUVZ4UmgzX0pBY1FKZERHdWZnc3ZZa1EzUUZISmFVbXhtV0tobmtwNk9aZzVtWGxjTG9MUVQxV2VUSnNJVXB5R0hZZ3RDSVQ3amp5NDRYOFhmdU91YndHd1pROTAtMkdVdVdxaFJ2MkFwOE1Md01DS3lDNnRJNFYxRU1Oa25fWFJOdlJ0Tm1WV0tzU1l1M2tfYWwyb3N4RHJVX0tuR05fVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5981d366bdfb9deaebe9dea78e93ef9b7a5555ff9bffc69899396d5d33ba0283"
+    },
+    {
+      "id": "20261120-DP-28CC587B-3320",
+      "title": "피고인이 정치활동을 하는 사람과 공모하여 여론조사의 실시나 결과의 제공을 정치자금으로 기부받은 사실 등으로 기소 된 사안[대법원 2026. 11. 19. 선고 전원합의체 판결] - 판례속보 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "수사·재판",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T16:28:51+09:00",
+      "publishedAt": "2026-11-20T16:28:51+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "피고인이 정치활동을 하는 사람과 공모하여 여론조사의 실시나 결과의 제공을 정치자금으로 기부받은 사실 등으로 기소 된 사안[대법원 2026. 선고 전원합의체 판결] - 판례속보 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "피고인이 정치활동을 하는 사람과 공모하여 여론조사의 실시나 결과의 제공을 정치자금으로 기부받은 사실 등으로 기소 된 사안[대법원 2026. 11. 19. 선고 전원합의체 판결] - 판례속보 - 대한민국 법원",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOU1VCSG1BZFJEUXpUc0hWcUhzanR1UHBqcjUyRVJDcVhYelRjMHhFMG5fQmk1OWFqbnZOUnJZVExUWHYyS2xvYkRGTTIwS0hYcURnQ3JOSjJJTUJ6MTNMR2ZjajB0bVRPb3NVMXY0T2pHT01NVmZENjFQMzJuVUN3eGlqZHpyX0lEdno3R19xalpwX0RvOVotNnlKMy11dmJWUk5tb3RvTU40WUpuYVpPeXpadTh5Qjg5eVlrWk95NG1HbC1HOGFGdlJQaWFWVlV4QlFqU1BiTHB1aG0teTA5ckYzcS12M1daRXNJLXVPcnJlSmJhUmE0cXJtRkhBQnhGYWtXdG9YSEZhSVdfU1RJNmZFNE9ZdEpGeE5BNDNKRTRrX1I4QTIzaTg2cWQxNjBFMkhTTWE1Z3FaV3hONm5fNHBvbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "28cc587b329d59d57c272019b53e80b7ba5129a56d5433c475fa754d36575cee"
+    },
+    {
+      "id": "20261120-DP-6630399B-3321",
+      "title": "「소년보호처분 집행기관 운영 실질화를 위한 협의체」 제1차 회의 개최 - 보도자료 - 대한민국 법원",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "기타 국내 정치",
+      "countries": [],
+      "institutions": [
+        "대한민국 법원"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T18:01:02+09:00",
+      "publishedAt": "2026-11-20T18:01:02+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "「소년보호처분 집행기관 운영 실질화를 위한 협의체」 제1차 회의 개최 - 보도자료 대한민국 법원",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 법원",
+          "title": "「소년보호처분 집행기관 운영 실질화를 위한 협의체」 제1차 회의 개최 - 보도자료 - 대한민국 법원",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZzJzakt5RUpsbDdLNF9vdWIxSVZLUUNHcUtiSHRfNlcyWkpWMTBHTmlYbGMxb20yM0NuOHNleVhTTGk4RlVCNWlNdC1yaU5leXVka0hGVHFzZS01NzZNU0s5OWdKWkJFVjVRdzN5NExuUW5zeDg3NWZ3YVNJREZXeGRtc1R2akd4RWRLNHVwTmZ6ZHFhclVWc2E1c3RVWFNGb0RJdHptX1ZxUmdrckd2dFZDLUtlZ2tMU01fVk80TjNUaDNhcTU5cENlbk9kUnE5T1p6Q1Nubm9mUEhmcnMtbDI4T0U2ckpJZ1Bmc1JkWXM4M0dkTThMelNnbXJKT192TjI2aWhWVFhfdkRndlZWOElwTUFBZFZBY0FsZFFUTTlEZlRaLU14Ykkzc2F3WE5tNjU2R0ppZHE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "6630399b29932c6fdc89688e9d1d797af1b57911433853bcbd4d7e217664c706"
+    },
+    {
+      "id": "20261120-DP-CE4C4DBC-3322",
+      "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T17:44:53+09:00",
+      "publishedAt": "2026-11-20T17:44:53+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "AI 데이터센터 구축 빨라진다…인허가 일괄처리·평가 특례 마련 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JallUQmlaUGd4bXVKRS1mMVVmaTlQcWxGMmsxeG8wWHhoQUxENkViUFJxZXhzcnRyOHBUcWFrM2o5bUpvSmJBclJDdW1Fb2RveGlnNVdkYmhtMVk0WHlKbUVKVXd4SHlGN1phUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ce4c4dbcaff526cd10e14046aa49a80d64dac209482af616665ece09cf85f238"
+    },
+    {
+      "id": "20261118-DP-4A697AD9-3323",
+      "title": "'송이 감염묘 기술'로 인공 재배 송이버섯 10년 연속 수확 성공 - 국립산림과학원, 송이 감염묘 기술 안정성 입증...고성 산불피해지도 4년 연속 결실 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T13:22:29+09:00",
+      "publishedAt": "2026-11-18T13:22:29+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "'송이 감염묘 기술'로 인공 재배 송이버섯 10년 연속 수확 성공 - 국립산림과학원, 송이 감염묘 기술 안정성 입증...고성 산불피해지도 4년 연속 결실 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'송이 감염묘 기술'로 인공 재배 송이버섯 10년 연속 수확 성공 - 국립산림과학원, 송이 감염묘 기술 안정성 입증...고성 산불피해지도 4년 연속 결실 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fcVlqb1BvcEJ1Qy1jaDdRUk5nTTd1SnNaRkQxVFI5OUpwLTUtMmUyQmZtY0ZrUktaNzVEdE1RdTgtU3lFREJ3OWI0dDFLOGdmb25FLVRIWmRLMWdJWS1jbkxUakxIVl9HWFU0aGRLdUZpUTJ0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4a697ad9524886458315281eb5671083e0876c2a0ebe0ac0911178123226bfaa"
+    },
+    {
+      "id": "20261120-DP-1F0D4797-3324",
+      "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T17:41:00+09:00",
+      "publishedAt": "2026-11-20T17:41:00+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVFiWDlGUGFMRkRPczJPblpkRTRXSV93YWlQQmI3Nlo1UDhpc3JmYVN6OUZ4ck5uS2luZ05IVjhqWHNxbWtLWXg3OWhlUmtsTHpsdXlvYUlfZDVUQjVPRkJiYnpYTEpDb29HcE8wd2RIUWRZc1dWVXBCNGhBeTJlRlVKcUVKM2VSc0R1b0VNUktiSjdN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1f0d4797b04acc2638c75ebc1e1c03d3a653adeffb9b2cbed78f9f2121761e0a"
+    },
+    {
+      "id": "20261118-DP-65945046-3325",
+      "title": "'토마토갈색주름과실바이러스'는 식물 바이러스이기 때문에 사람에게는 영향이 없습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T23:03:58+09:00",
+      "publishedAt": "2026-11-18T23:03:58+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "'토마토갈색주름과실바이러스'는 식물 바이러스이기 때문에 사람에게는 영향이 없습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "'토마토갈색주름과실바이러스'는 식물 바이러스이기 때문에 사람에게는 영향이 없습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB6UmdyWFBzOUgtVGRBM1h3WGdxc0dpN1FHSlpEbENwU2V3WWczUmJtTEN6QVhZV0VvS0VDMEdfUGU5MG55NmFBaUs3X1BMUlJnU2phck9ZNWVXTmtOWXUwZXpmUTFnNk1fOUZMckRjVQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "659450466a6b2ed1d7a25e5b00f243228d2e7d1343c4fadbd8d8b1e3db689375"
+    },
+    {
+      "id": "20261120-DP-CC98798A-3326",
+      "title": "국방홍보원-매일경제, 국방·안보 협력 위해 맞손 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T16:25:02+09:00",
+      "publishedAt": "2026-11-20T16:25:02+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "국방홍보원-매일경제, 국방·안보 협력 위해 맞손 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국방홍보원-매일경제, 국방·안보 협력 위해 맞손 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUFNIRkVNSDYzazRjZzUzZzhIbGQ1Rlg4MEc2WXZRaVJQNTdmcUp6bG9SRi1MeC1GUkQzT3Q4bktHYXR3cW1MMm8zSkFuOXBXclNPeEtWZVhHclhhTVBEVWppZ1FuMlNzaXV4REY4RzhpX3BtdE85OTI0b1U5ZXE2anYwMVROVFF6RVFBbmZMM01RaGdBeTd4V0dhT2RuTWc3Zk04dVRFUjQxSHNVWEZZWFlQLU1vcnB3U3ZOSWx6ZHdScHlfVHRCWGFreC1paUZQNWx4eFhRMU84dXhwRlBTdkM5amNtaHdIcjh6RmRLOA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "cc98798a584913da5eaf4a07f428ef90c7d62aba1c7e7e3f47fa6a09961aef70"
+    },
+    {
+      "id": "20261120-DP-E36B9BA9-3327",
+      "title": "한 총리 \"모든 부정행위자 엄정 조치…수능 후에도 끝까지 적발\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T22:40:36+09:00",
+      "publishedAt": "2026-11-20T22:40:36+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "한 총리 \"모든 부정행위자 엄정 조치…수능 후에도 끝까지 적발\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한 총리 \"모든 부정행위자 엄정 조치…수능 후에도 끝까지 적발\" - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12Vm55YmhaVVVuWWozZDI2OVFwTEZyTkZfYjdTTHRpRkRzS0Exc3F1SVBBMXh3WVVXajZNY2NMR1c4TE5sbDFkNG9PYTN3NXVvV0xnR2I2QU9yS0ZLV2FpYm4xZXI4bUVuNjZQeQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e36b9ba9771c69b283c1eaea6a207da83ea4a76b6e66723a4aeec186de70b5be"
+    },
+    {
+      "id": "20261120-DP-3460D2B5-3328",
+      "title": "특허, 기술을 넘어 제품으로! 돈이 되는 특허전략 한자리에 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T11:52:49+09:00",
+      "publishedAt": "2026-11-20T11:52:49+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T01:00:21+09:00",
+      "summary": "특허, 기술을 넘어 제품으로! 돈이 되는 특허전략 한자리에 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "특허, 기술을 넘어 제품으로! 돈이 되는 특허전략 한자리에 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2xacEk3TkZCWnNTU003YW1KR3NXMU82UnE0SUdFRkNRRk83S3I2Zk9VUmdhZGNXeU4zSnVQZ2lmTVZ2MlRqejZEX1QxODFCeHdVM000YzB3b3Zlbi02QU9iWUNxNjRqMlEtYmZHNEE3OUhyUGpnZUJKaDlfR2dnNnpmY2pNcVN6ZDhBd3BWeVd6QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3460d2b5d741e13726e3417c56b1ebdc6a55c8526c617f41a93a243aa6700dce"
+    },
     {
       "id": "20261120-FR-A84B5AF3-3310",
       "title": "재외동포청, 한상 연결망 활용해 국내 AI 스타트업 미국시장 진출 지원 - 대한민국 정책브리핑",
@@ -1142,59 +2293,6 @@
       "contentHash": "6b8f40548fa5657748544714a42e8f8ba9f4bc1189723697be37f5dffb68fdc0"
     },
     {
-      "id": "20261119-FR-0F5C98A9-3297",
-      "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-19T18:51:00+09:00",
-      "publishedAt": "2026-11-19T18:51:00+09:00",
-      "firstCollectedAt": "2026-11-20T02:15:24+09:00",
-      "updatedAt": "2026-11-20T08:44:28+09:00",
-      "summary": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" - 대한민국 정책브리핑",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaFg3ci1KVWUtUUE1VTJfdlBQZGlIbXJ3a3hqVVZJeDBEZFFwR0tvQWNFMFNXYnhVanhkMWs1X3kydVlyaFRuaUJoYXI1N3hWS0pteVNtenhpZEdwb3A3WFhhZGU4MFVRRFF2ZVdGdTlzNVRzSnpjMkxRbFpKZTh1bEFvalg2eURfMGJwbXlhVTZUZw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[차관동정] 정의경 제2차관, \"국민 불편이 없도록 신속한 노사합의와 철저한 대비 필요\" - 대한민국 정책브리핑",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmw5V0s3aWh3akpiX0VZSVJ1MHZyQmxIb1JwU192T1l6bE9XLW1WVFdodUhESHNUREgzTUhZRDhoQ09sVl9ZZGhESmg0RHptcVc4QTNtbEhLaUxVdS1QLUN1QWZ3WkRnUWRhN09mTUlrci11SWE2NmtjekVieE5VREIxTTRicGZ2Nk1MeWJCUjNmZw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-20T08:44:28+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "0f5c98a9e44a666decd6024effbf5d9cbade8bce59bdcf9f0b2ca1db8255bf2f"
-    },
-    {
       "id": "20261118-FR-99737816-3275",
       "title": "2035년까지 전 세계 전기화 35% 목표, 라이즈 아시아로 이행 협력 본격화 - 대한민국 정책브리핑",
       "primaryCategory": "외교·대외관계",
@@ -1620,59 +2718,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "3eb595008a68dcda2808bc4c9e58afc15cf4d00abb8b0969deeab7e509784be8"
-    },
-    {
-      "id": "20261119-DP-2BBD1257-3285",
-      "title": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "대통령실",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-19T14:04:19+09:00",
-      "publishedAt": "2026-11-19T14:04:19+09:00",
-      "firstCollectedAt": "2026-11-19T16:48:44+09:00",
-      "updatedAt": "2026-11-20T02:15:24+09:00",
-      "summary": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcmdHWmFEckZvY251RjR6LUd1M1pvaHBOdktWczItbTZHb3VaN1d2aHV2SEhNV0l5RWRhZjFTQWI5cm1EcE1HeEdDS1dZUW9CNF9xZGFYT3VEc3h1aVp5MVRyOXBzenFDLVI4ZFJDYzFnOWJYS0ZYYXpsdkl6UkVaaUgtbmxEN3lTQlhSamFPRGI?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 청와대",
-          "title": "이재명 대통령, 2026 APEC 정상회의 참석 관련 김성완 대변인 서면 브리핑 - 대한민국 청와대",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MWkZNU295UmZHTk9nbTI4UkxwRUJLWklhR1E0cUp4UVU2Y05SZmN0SFVtald0dHUwdy1HWWd6ekJrUDRLU093eXZXMkJFU1ZzejJyRldtSl83QQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-20T02:15:24+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2bbd125764c3818bf4afb4139d4d301cf83a990553e4a6a44c3614ed0e099a8c"
     },
     {
       "id": "20260820-DP-44D45057-481",
@@ -3245,59 +4290,6 @@
       "contentHash": "07d973cd29485b8507f1a275e3a473637f7ea29a3125d33efeff747f0daab7e3"
     },
     {
-      "id": "20261118-FR-B9178B56-3252",
-      "title": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-18T15:49:18+09:00",
-      "publishedAt": "2026-11-18T15:49:18+09:00",
-      "firstCollectedAt": "2026-11-18T18:00:50+09:00",
-      "updatedAt": "2026-11-19T09:11:11+09:00",
-      "summary": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNnFna1djMFFIZVh1MkxjR1lCSWxPdWdnN1ViWjVZVk8tNVU5S0s2NWxpaUNoMDNQMXdkUV90SU5tUDktUm9KRFdMaE8zMTdyVGV4YnVCbG50Y0g2NlIzWGVXLWVCMnlodmxMeEJWdW11dnJUdzE0T3VlUUpKaUZNaml3bDBNaUpWSzZJZ3BB?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령, 한-중 정상회담 관련 위성락 국가안보실장 서면브리핑 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43S1R2cG9BbURCWS03ZDdXT0MzaHh2NXg4Zk8yRUJFVkt4QTk3dWxZbkk4X0hOQzVxTkVZMDlmRGpWa1VuTVVERG1LQlM3SkRSb1djRUNKc0hYQmYwOGNQcmtzTjRkMHlxTFFIVndocVQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-19T09:11:11+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "b9178b567577b9c173dd61ae0472b052c8f5e834a724571e3276a0bf1d6cd101"
-    },
-    {
       "id": "20260729-DP-90BDBD99-001",
       "title": "제26차 방송미디어통신위원회 전체회의 브리핑 - 대한민국 정책브리핑",
       "primaryCategory": "국내 정치",
@@ -3859,138 +4851,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "cb0be0e6fca07dc4abf90771797d1aff9a82335e75e242d7f017c84daa79ae98"
-    },
-    {
-      "id": "20261116-FR-C4AF0059-3165",
-      "title": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "정상외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "핵심",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-16T20:34:16+09:00",
-      "publishedAt": "2026-11-16T20:34:16+09:00",
-      "firstCollectedAt": "2026-11-17T02:20:32+09:00",
-      "updatedAt": "2026-11-19T02:55:55+09:00",
-      "summary": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 - 대한민국 정책브리핑",
-          "date": "2026-11-16",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95UUlhNEFzNEU5ODNwbG9EMDhtTEFzczRubEloM0xGRlc2WnJ6bm92dzR4UGktb0tkeUFENVhLcFFEb2c5blpQcXpZenRrdlAzWE9zTzNzNS1vOXAzdnl5WXlFUU0zcU9MZy1KcG5aRlc?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSldKOC1XQzRDby05QTNDM1dXSFpWQXlmQlhYMFNEbnZWd0xtQVY1ckJtUXhDMGxReHd0ZHZmT0NoM29uLUhNRjhGTm8xRWZqclNmTThWNHlBSzNMMG5XMHUzenNKcTZ5RHZsUy0zemZjbnRGdDhqOXgwZkszb3c4Y2pZMnYwQmZYY0JERA?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 청와대",
-          "title": "이재명 대통령, 한-필리핀 정상회담 관련 김성완 대변인 서면브리핑 - 대한민국 청와대",
-          "date": "2026-11-16",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wYUpJcFA2S1VmODZJQkF1UTBNMzhia09ITlBHdlk3ZHRLOXdZME1tMHVCZDBodjVLdTZfakF4Nnh1dzIxNmhHMGUxX2VjanVETmVTSDFwU0RUZw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5R0hlQ0VZSUZlWXdYbzJ5bF9OZzRuTjBUYm1BMWRlNmZSZloxT2d4X1Z1R0kxYnY2Mlppa0dlLVctRElMZHAyT1BwV0NlajM3VWI0TS1DYXhSdkFrLV9SM2pvbTU3dWM3SlByd0xQdjk?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-18T18:00:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-11-18T18:00:50+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        },
-        {
-          "updatedAt": "2026-11-19T02:55:55+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 3
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "c4af005910ed8bedd0c1fdf29333882876b2a93cbec0570849ffb4f99a92d1a0"
-    },
-    {
-      "id": "20261118-FR-9B160AF1-3253",
-      "title": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [
-        "북한"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-18T16:36:05+09:00",
-      "publishedAt": "2026-11-18T16:36:05+09:00",
-      "firstCollectedAt": "2026-11-18T18:00:50+09:00",
-      "updatedAt": "2026-11-19T02:55:55+09:00",
-      "summary": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLXdvWVpvbE1wZUgtc3BBTVloeFdkeGpQS0FjSDhvSXRoc3dTYTNZV3MyVFV4bUtORmtLbkl2QW9ZanR6OUE4MzJSdk1MUUZtcGpmVXlRdGlGV2Z6TDJKb2ozNzFtVzV2U2R2UkF6bEZhSk93OVZYaVh3cFVFUncwOXExQnRWaWNCMDlN?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "'북한 억류자 가족들이 호소할 수 있는 부서조차 없다'는 내용 관련 보도설명자료 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWklUMUNVaXkzRWdQaFBxeERFME1hRDR5aFU1Q1FzcHlvMm93d3diS0RCUkVKOGJxMS01SnFtdzNwcy1NNVYtLUdNTkx6LW9WQlhZODBNYWpwOHliVU1WbXJ6UWRnMV9RdlVlNHdETm5pTnZDWHhlc2FoME5MTi1Wc3VGYmJIeTI3V2FFYXR5TS15QQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-19T02:55:55+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9b160af17724877e2869700f5318182281910b5814aa15ecd6e9c4d69d18c357"
     },
     {
       "id": "20261118-FR-CC7AFA88-3257",
@@ -5489,46 +6349,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "8f0126603076ae232d4795416153f8ac0fdbcc434c0019b7006e5bcd7c1d2376"
-    },
-    {
-      "id": "20261118-FR-9CF8F776-3255",
-      "title": "지방세, 지방행정제재·부과금 고액·상습 체납자 명단 공개 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "국제제재",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-18T10:00:00+09:00",
-      "publishedAt": "2026-11-18T10:00:00+09:00",
-      "firstCollectedAt": "2026-11-18T18:00:50+09:00",
-      "updatedAt": "2026-11-18T18:00:50+09:00",
-      "summary": "지방세, 지방행정제재·부과금 고액·상습 체납자 명단 공개 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "지방세, 지방행정제재·부과금 고액·상습 체납자 명단 공개 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2l4VFdQdHlITnhiMDVDOUlPZm0xVW45MnB1Y2tSV0JucDVkalU4WU5XOGFIaGs3MWVBVFRDTlBuejl1a01fekNjcUZqOU5pZlZpaVhEc1JVamZzOXNIbkxZeWV4NkwybERDU19kTUlHS0cxZVBEeExyT3hndGhtRDFtQUEyTzhkck1kOXNpNlc5QQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9cf8f77687e722fb5c2010dcf135226db1085e4ad554fd2f84d34d24fbcfc6ab"
     },
     {
       "id": "20261116-FR-395FEF26-3256",
@@ -32993,48 +33813,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "977cb593bcee4eef2e9fd0f1dc2c47a4619d4005add66f8aa01e7522646c6835"
-    },
-    {
-      "id": "20261031-FR-6D2BBB90-2644",
-      "title": "한미일 외교장관회의(10.30.) 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "기타 대외관계",
-      "countries": [
-        "미국"
-      ],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-31T09:00:00+09:00",
-      "publishedAt": "2026-10-31T09:00:00+09:00",
-      "firstCollectedAt": "2026-10-31T09:37:59+09:00",
-      "updatedAt": "2026-10-31T09:37:59+09:00",
-      "summary": "한미일 외교장관회의(10.30.) 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한미일 외교장관회의(10.30.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-10-31",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTFuNHlPZnhDZjVXZHY1dndiUzdFcHp4OW8yZ1NDTWd3TGhEa0MwX1ViYnVzT29pWFhIYk5lZjF6T1ZVeTJ1VEl0TFlPdXl2QmpvQWR0X3Uycm91RVhzd1hvd19ZY3NSd1VYZzNxaVhzN0RIc0EyOUhFZl9XQlpjTTJuZC1ObVloT3hCWVhEQ1dLQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "6d2bbb906822f7ce27d35b5da3805bdc9e0edb4dabf55797a292ec30e8651dbb"
     },
     {
       "id": "20261031-DP-B3E106CC-2645",
