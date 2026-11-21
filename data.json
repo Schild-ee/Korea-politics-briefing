@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-21T07:35:11+09:00",
-    "nextScheduledUpdate": "2026-11-21T08:05:11+09:00",
+    "lastSuccessfulUpdate": "2026-11-21T12:24:59+09:00",
+    "nextScheduledUpdate": "2026-11-21T12:54:59+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-21T07:35:06+09:00",
-      "finishedAt": "2026-11-21T07:35:11+09:00",
+      "startedAt": "2026-11-21T12:24:55+09:00",
+      "finishedAt": "2026-11-21T12:24:59+09:00",
       "activeSources": 4,
       "fetchedCandidates": 167,
-      "acceptedCandidates": 58,
-      "duplicates": 50,
-      "rejected": 107,
-      "rejectedByDate": 87,
-      "rejectedByRelevance": 19,
-      "rejectedAsCommentary": 1,
+      "acceptedCandidates": 57,
+      "duplicates": 52,
+      "rejected": 109,
+      "rejectedByDate": 95,
+      "rejectedByRelevance": 14,
+      "rejectedAsCommentary": 0,
       "newIssues": 5,
-      "updatedIssues": 5,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,261 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261120-DP-1F0D4797-3324",
+      "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T17:41:00+09:00",
+      "publishedAt": "2026-11-20T17:41:00+09:00",
+      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
+      "updatedAt": "2026-11-21T12:24:56+09:00",
+      "summary": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVFiWDlGUGFMRkRPczJPblpkRTRXSV93YWlQQmI3Nlo1UDhpc3JmYVN6OUZ4ck5uS2luZ05IVjhqWHNxbWtLWXg3OWhlUmtsTHpsdXlvYUlfZDVUQjVPRkJiYnpYTEpDb29HcE8wd2RIUWRZc1dWVXBCNGhBeTJlRlVKcUVKM2VSc0R1b0VNUktiSjdN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa05JRDlMUzFVaGFFN3NpYWZ5WVVTRVUzNmVzMjk1UTRvRWZtMDJpellOVkVadEdob1dJbklUSHhFS2I4aXh5VHpROFhsdGVZWkhKbDVOMVhjMG9STFFEeVdGZWlQcHprV0RlMmVkcXp3TFA5cVMyTGh0TVV4VXgyalREN1Z5bjNOMk4zYzZUT3dBUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-21T12:24:56+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1f0d4797b04acc2638c75ebc1e1c03d3a653adeffb9b2cbed78f9f2121761e0a"
+    },
+    {
+      "id": "20261121-DP-79DA398E-3338",
+      "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-21T09:56:15+09:00",
+      "publishedAt": "2026-11-21T09:56:15+09:00",
+      "firstCollectedAt": "2026-11-21T12:24:56+09:00",
+      "updatedAt": "2026-11-21T12:24:56+09:00",
+      "summary": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이 대통령 \"수능 부정행위 철저 추적…국가시험 A부터 Z까지 개편\" - 대한민국 정책브리핑",
+          "date": "2026-11-21",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYdjNUaDNhT2dhYWpQYlFkNHhGMmIzMlFyem1mdXluMU1VY25ZN0ZzMWw4UGJWWGFJTjBVX1dDaUY4eUlaSUhPNkYxS3E2bWpaMXJXTkVhVUVBVjJsc25rT19JZmhEUXdXMWloMA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "79da398e758ad35b9570f7999f2c582d03cd8e5823ac6cf07448678fa863693c"
+    },
+    {
+      "id": "20261120-DP-77ED9E6A-3339",
+      "title": "독감 입원환자 1000명 육박…\"고위험군 신속히 예방 접종\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T22:40:36+09:00",
+      "publishedAt": "2026-11-20T22:40:36+09:00",
+      "firstCollectedAt": "2026-11-21T12:24:56+09:00",
+      "updatedAt": "2026-11-21T12:24:56+09:00",
+      "summary": "독감 입원환자 1000명 육박…\"고위험군 신속히 예방 접종\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "독감 입원환자 1000명 육박…\"고위험군 신속히 예방 접종\" - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nb1hYVmZIRzFyR1RBWVhwa05makNHdTNVbkp6Z0M4dUlrTHU4YmZRV1h2SG1Wb2V2dEw4eDJCU3c5VWkxWFRGT2lpWTF6blhFN1c1b3J1VU1GRzZISHM2VUFfT2k3MUdmb2RfcA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "77ed9e6a8783d4628d755a6952835b127f47567291fa0d7d66595e024de10cb7"
+    },
+    {
+      "id": "20261120-DP-18E8BE11-3340",
+      "title": "사이버도박 집중단속 6310명 검거…범죄수익 1548억 원 동결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T18:00:10+09:00",
+      "publishedAt": "2026-11-20T18:00:10+09:00",
+      "firstCollectedAt": "2026-11-21T12:24:56+09:00",
+      "updatedAt": "2026-11-21T12:24:56+09:00",
+      "summary": "사이버도박 집중단속 6310명 검거…범죄수익 1548억 원 동결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "사이버도박 집중단속 6310명 검거…범죄수익 1548억 원 동결 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKQWJIZlBJNXNKT3NtdzFPMDRMdjJ6eWZjdHpDSnhtOGUxMjQ3Q2JMZ1FVVEVyQ25NMXRfYXZEQ3pLNngyRmJndzh5ZFc0a0drUG4zV3I0WjhlM0EtNkVqR2picVY2SklWREMyMQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "18e8be111367b200065777b28c188bff872eea0e154b4a1b87c9aeb308cd9544"
+    },
+    {
+      "id": "20261120-DP-65FC6CDC-3341",
+      "title": "한-폴란드, 우주정책·기술 공유하고 산업협력 기회 모색 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T12:00:00+09:00",
+      "publishedAt": "2026-11-20T12:00:00+09:00",
+      "firstCollectedAt": "2026-11-21T12:24:56+09:00",
+      "updatedAt": "2026-11-21T12:24:56+09:00",
+      "summary": "한-폴란드, 우주정책·기술 공유하고 산업협력 기회 모색 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-폴란드, 우주정책·기술 공유하고 산업협력 기회 모색 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGNJTENydXBXOWVkZWlwRVVOeUFDTzlwbEJYZzNqTnRWcUJmWHJvVmVlTnhKMzc0cGgwajhCRlVWZ3dHY193eFI3NXMyMDJFRndVbUtmUEZEdkJPR1ZnQzdaM2JuUDZoZ0dVSlJ1bkhnM0xnR1c3T1hRXzNneFhWNEJ5cTZtcTJWb0w0MTJGYTJJZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "65fc6cdcf06b73a2a06c41516464303b335358f9eca160c0ff584bff344eb1dc"
+    },
+    {
+      "id": "20261118-FR-0D52EDC7-3342",
+      "title": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 - 대한민국 청와대",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [
+        "중국"
+      ],
+      "institutions": [
+        "대한민국 청와대"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T12:43:06+09:00",
+      "publishedAt": "2026-11-18T12:43:06+09:00",
+      "firstCollectedAt": "2026-11-21T12:24:56+09:00",
+      "updatedAt": "2026-11-21T12:24:56+09:00",
+      "summary": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 대한민국 청와대",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 청와대",
+          "title": "이재명 대통령, 한-중국 정상회담 관련 김성완 대변인 사전 서면 브리핑 - 대한민국 청와대",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RMjRLQVpCcVBCWUlGUmdidzYtRENaZTZpSDVDLVZFSWRGaWczZy16QXNxbjRoRi1jckgxeGtBVVlrSkpSYTBEd0xlNXBybkRWTE5NTXUtNkM3Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0d52edc7d9c727e4235cbe2b73d4679a497399de7065dc9f449551d3bfc093d3"
+    },
     {
       "id": "20261119-FR-C758051B-3337",
       "title": "장동혁 미중러 정상회담 한국 패싱…李, 매국 외교 일삼아 - 아주경제",
@@ -1648,46 +1903,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "4a697ad9524886458315281eb5671083e0876c2a0ebe0ac0911178123226bfaa"
-    },
-    {
-      "id": "20261120-DP-1F0D4797-3324",
-      "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-20T17:41:00+09:00",
-      "publishedAt": "2026-11-20T17:41:00+09:00",
-      "firstCollectedAt": "2026-11-21T01:00:21+09:00",
-      "updatedAt": "2026-11-21T01:00:21+09:00",
-      "summary": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
-          "date": "2026-11-20",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVFiWDlGUGFMRkRPczJPblpkRTRXSV93YWlQQmI3Nlo1UDhpc3JmYVN6OUZ4ck5uS2luZ05IVjhqWHNxbWtLWXg3OWhlUmtsTHpsdXlvYUlfZDVUQjVPRkJiYnpYTEpDb29HcE8wd2RIUWRZc1dWVXBCNGhBeTJlRlVKcUVKM2VSc0R1b0VNUktiSjdN?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "1f0d4797b04acc2638c75ebc1e1c03d3a653adeffb9b2cbed78f9f2121761e0a"
     },
     {
       "id": "20261118-DP-65945046-3325",
