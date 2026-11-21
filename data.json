@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-21T12:24:59+09:00",
-    "nextScheduledUpdate": "2026-11-21T12:54:59+09:00",
+    "lastSuccessfulUpdate": "2026-11-21T20:39:06+09:00",
+    "nextScheduledUpdate": "2026-11-21T21:09:06+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-21T12:24:55+09:00",
-      "finishedAt": "2026-11-21T12:24:59+09:00",
+      "startedAt": "2026-11-21T20:38:59+09:00",
+      "finishedAt": "2026-11-21T20:39:06+09:00",
       "activeSources": 4,
       "fetchedCandidates": 167,
-      "acceptedCandidates": 57,
-      "duplicates": 52,
-      "rejected": 109,
-      "rejectedByDate": 95,
+      "acceptedCandidates": 53,
+      "duplicates": 43,
+      "rejected": 112,
+      "rejectedByDate": 98,
       "rejectedByRelevance": 14,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
-      "updatedIssues": 1,
+      "newIssues": 10,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,14 +41,14 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 34,
           "error": ""
         },
         {
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 32,
+          "count": 33,
           "error": ""
         },
         {
@@ -64,6 +64,548 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261118-FR-9007EED1-3268",
+      "title": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-18T23:02:05+09:00",
+      "publishedAt": "2026-11-18T23:02:05+09:00",
+      "firstCollectedAt": "2026-11-19T02:55:55+09:00",
+      "updatedAt": "2026-11-21T20:39:00+09:00",
+      "summary": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-18",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtREJwTHlyaHNuWDZsb2NNOW5oaC1OSkFtSFhyR1l6SFhtdWtYLVE2bmpzR1BFNjF1TTNlMXUzdDJjMEk2T3kzNE92bGtBUmxwMzlxT1pzN3J5cXBWSS1uMHJQSDV0U2c2eTRSZlRn?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-아세안 관련 정상회의 주요 성과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFg2Q1RBOTAzSjdZd1RLT3Bmb0s0ZzE4WVBwRjFFdWVsTnRmS2xsM01WOVdPeUdteWNKTmtHOXJyb0lxR01Zb1pxc3g2cm42TldnZmE0MDJ6NnpxblZRM1E4VS1TQU5saXo3Qk8yUjRBNUhwVkFibW9xV1FsTVJMVnJRMUlxZjJ2UHNR?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fZm5hcGdpMEpZN2RpZjFwNElYMUlCMnliVVEtQTd4d0lWdTdNakFhY1ozM2RpVzBVUlRWT3NkRzFWTVpsREhPZTMxdVpjZWtPQ19wQ1k2SzRiQnRfMWRxS1V5dy1iMDlXRl9qdHpB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-19T16:48:44+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-21T20:39:00+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9007eed11ea127f37d2dc296862a13759b77223366c6a2b57356a1ce7d19f364"
+    },
+    {
+      "id": "20261120-FR-FF3F4396-3351",
+      "title": "\"한반도 평화와 안정은 아태지역 공동 번영 위한 필수 조건\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T07:23:58+09:00",
+      "publishedAt": "2026-11-20T07:23:58+09:00",
+      "firstCollectedAt": "2026-11-21T20:39:00+09:00",
+      "updatedAt": "2026-11-21T20:39:00+09:00",
+      "summary": "\"한반도 평화와 안정은 아태지역 공동 번영 위한 필수 조건\" - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"한반도 평화와 안정은 아태지역 공동 번영 위한 필수 조건\" - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kZ0RRTG1CSl91ZDNqbDgwM2NFSmJXZXdPU3Fxd0prcFdoTVhMdFM0d2N6S2NJOE45dkxJRWtGUE5sR0lUSTN1TWFONTNkVDFzR1BKdEdxREQxTmR4dHpxMGFQRGhrZWlkcUkzeTN3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ff3f43969129e8b3d071f86f12113ab609a81af424ea1e0e3d362bf0b687b888"
+    },
+    {
+      "id": "20261121-FR-80168D8F-3352",
+      "title": "이 대통령 “한반도 운명은 우리가 주도”…미·중·러 정상회담에 자주외교 강조 - 코리아포스트 한글판",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "정상외교",
+      "countries": [],
+      "institutions": [
+        "코리아포스트 한글판"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-21T12:05:00+09:00",
+      "publishedAt": "2026-11-21T12:05:00+09:00",
+      "firstCollectedAt": "2026-11-21T20:39:00+09:00",
+      "updatedAt": "2026-11-21T20:39:00+09:00",
+      "summary": "이 대통령 “한반도 운명은 우리가 주도”…미·중·러 정상회담에 자주외교 강조 코리아포스트 한글판",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "코리아포스트 한글판",
+          "title": "이 대통령 “한반도 운명은 우리가 주도”…미·중·러 정상회담에 자주외교 강조 - 코리아포스트 한글판",
+          "date": "2026-11-21",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PUDNUbTBObmNnWWtZNVFRelpZVVVLSzJucWxveHUxOExOUm9GazlrY2pISFJ0Wkg1UEljamlLc0lCNmlpaDRTRUptNHBMTHNQWXZMUGJDZ09tbDVOR0ZhWS1kcHNrUUg0N19tZHBn?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "80168d8f33b16bf4791747d65063aba16b104f6d4543be2cab744ac8238d71de"
+    },
+    {
+      "id": "20261021-DP-2A01CEB2-2318",
+      "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-10-21T17:32:39+09:00",
+      "publishedAt": "2026-10-21T17:32:39+09:00",
+      "firstCollectedAt": "2026-10-21T22:08:10+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-10-21",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGJycE00MjczTnBvOHg3ekEyM19yZWgwMTFnaG50RU1jTzNWbWs2Z2dIaTlldDFweV9LNmRJbXhhVkZTWUluTjFZNlB0ZloxSTJUSC1QaG5IenVTOUFBN01UR1VOaDYzSnNpemJMT3JyYzZrM01nR3JBTFllRkpQS0hzNzFqZ0Z1c19z?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "교육부 소관 법령 국무회의 통과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkdOTFdIZzMtWmQzRXJTLTNsX1dISFI4cVVtNkhyMXQwZm1wSkJwcnZyalRwOHlJTWxJS21yRXFoZUJ1MnBleGRkR0JRNlpUWDBvYUNaX3pmaVN3YURnbFBBRktlNWF3RURkbHZVQzd6U01xWDFoWWVfWUFLckJOMEJKYnhuVEpKT25R?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "교육부 소관 법령 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-11",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWNKcDVOalg5ak1DdkxMRXJ1ZGhTbjc4bmZuNU5YRlBTMTloZVZuc3M3Q1ZTVnJ3RGdUWnUtOGJrckJvY0pTaktPREhXeVkzX0RXM3JrLUxDcS04TnRPMTJoNVc5andlUXdqTDNyOGZNM0JPWVVXejlOeGI1eW1DZTJNSGQyNjlrRWNN?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "교육부 소관 법령 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-19",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnOHdyWnZWRFZMN2I0dTU4Z01NTG5seXBYM2dBSVBYaEFpaDNaMG5Mc2hWZTRPN0wtY01PREJzR0lvY3dPTzFzTVlRVlVPSG9RNWJQT3lDb0xVLWpoM1Y0QUxjY3JURGJSYWdZRi13?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-11T14:53:54+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-12T19:09:43+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        },
+        {
+          "updatedAt": "2026-11-21T20:38:59+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 3
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2a01ceb26633a2597ea27d19edf94ab582cf71e4b3fc7d5074ad57fd32bfab73"
+    },
+    {
+      "id": "20261120-DP-3AAA3B72-3343",
+      "title": "올겨울 '대설 재난문자' 전국으로 확대 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T11:27:33+09:00",
+      "publishedAt": "2026-11-20T11:27:33+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "올겨울 '대설 재난문자' 전국으로 확대 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "올겨울 '대설 재난문자' 전국으로 확대 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rUVlVR3dtdEtDNkREcDB5X3VXNTl5WHdXaHFsdl9TN3RuVXIzS0xVRE1fM2E5V0I4eFkyaVdiWEUwS3k3MDJjcVpWWHNxSHNrUjhUNlNwdnh6UktpWXFyV3JJbkMybVdMdUhDMVJ3?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3aaa3b7239ae1afe8bf1bda370f56b2087df2cd168d1c9a6e34d0ce1c75b3233"
+    },
+    {
+      "id": "20261120-DP-A1C24947-3344",
+      "title": "북부지방산림청, 산림교육과 산림치유를 통한 대국민 서비스 제공 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T13:51:19+09:00",
+      "publishedAt": "2026-11-20T13:51:19+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "북부지방산림청, 산림교육과 산림치유를 통한 대국민 서비스 제공 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "북부지방산림청, 산림교육과 산림치유를 통한 대국민 서비스 제공 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQS1WNmloZklwX2JKakRoYl9CaGEzVnJ1UnRsTmlBdVg4d09IZzlxRWtyYjdLckNZSVhKTXFmdmtXZGRPY0oxRXc2TDhaajdKcS1qNkZLWTVwaHlOSnZMNVV2aWpQVmNfamJ6U3dodndHNzZrdFRNT1V3NXFQMTU4dVJuTlpqVV9hclUtUFdzUFZLQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a1c24947e72055d5dc4bfb011b37412ff9febc5757c98a3e7463cd2449da913d"
+    },
+    {
+      "id": "20261120-DP-67729A20-3345",
+      "title": "돈 되는 특허, '소통형 특허심사'로 민관이 함께한다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T11:51:15+09:00",
+      "publishedAt": "2026-11-20T11:51:15+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "돈 되는 특허, '소통형 특허심사'로 민관이 함께한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "돈 되는 특허, '소통형 특허심사'로 민관이 함께한다 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYjZwVFNrM19uc2dyZlR0dElfR2ZMZ2tVMmtDa0ZjelROSndJZjJoSjFxU0dYTTAxSEdGOEd2NVBnY3hFU3lRMTJvOEtvNUh3X3FDLXlzeDN1WW1WM2h0TzkyVW5XRmdfT3hsN1RaRkdxbVJzeGhnSHZtTU10aGVQYXNyNi1QWGtkOVo2SkhFdWJXeU9l?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "67729a20c831a52d2cfdff4dd51bc860b05b1ed3db746d073ae7bf7477b52ef5"
+    },
+    {
+      "id": "20261120-DP-AC4A6E61-3346",
+      "title": "박윤주 제1차관, 우루과이 외교차관 면담(11.20.) - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T15:40:27+09:00",
+      "publishedAt": "2026-11-20T15:40:27+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "박윤주 제1차관, 우루과이 외교차관 면담(11.20.) 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "박윤주 제1차관, 우루과이 외교차관 면담(11.20.) - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNSV9fV0xRLVJmQjZMaVJlaVRNZ1JVVmI0eXROWWNIUzhqRjlTcUUxQ0ZnTUZoczZ6eVNtcndQcHlBLXROYUNuWkdTU0p1aGF5bGpaU1dEQ2hxYXo2bnhMTUdaNHQ1YVQwSkU3Q0dxQmE0NzNhMzEwcGxjTmNYVW9sU2ZjeTM0Vl9Ua1hrZzNiM0k5QlJ6el9yZE5hM01uTGhNSDRVWU5vLVdyT3BIN0NjMXV5Q05hMDIwTlNDS3pfYXZCOThWVG1UTndWcFNZUTJWTkNRMXRiVGpBZU1BNUltcEFJNTl0aGtDcXg1MHRrdWVJZnBuUTRYZUR6TjN3N2loRlBTT0RhclZVSHNLWFJ2OQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ac4a6e61a7b9e8f3163d95e3f23f6ce2735b64a49dad6d0380f9dfbc4b1dedd4"
+    },
+    {
+      "id": "20261120-DP-0780EE3D-3347",
+      "title": "근로복지공단, 아이의 성장과 상생을 담은 직장어린이집 우수사례 33건 시상 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T15:11:25+09:00",
+      "publishedAt": "2026-11-20T15:11:25+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "근로복지공단, 아이의 성장과 상생을 담은 직장어린이집 우수사례 33건 시상 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "근로복지공단, 아이의 성장과 상생을 담은 직장어린이집 우수사례 33건 시상 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZHlyLXV3TUwyUnE0TkgwZk1RVmh5RW1wSENYRXFjSTd2UlZXOEwxSGsyMHZ4NjRpTWtmRUpkZk9EU3RnckdnUEd0dWRpVzhfR3BjN2dEbGRGcTc5ekdGVlZVSzYxb2dhNklfdWpFb3dMVHJucVdqYURKTE9OSFNfaWpFZnBSN0FKamF5SGZhRDc2Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0780ee3d8db10cf7e3e68502bfd1a6fd5cf834d3e0afc167354275b3462fc288"
+    },
+    {
+      "id": "20261120-DP-87CFD92F-3348",
+      "title": "전통시장에 법이 숨어 있다고?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T16:19:45+09:00",
+      "publishedAt": "2026-11-20T16:19:45+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "전통시장에 법이 숨어 있다고?! - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "전통시장에 법이 숨어 있다고?! - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXU0w5enVGaUUzNEJnV1dlUjFKZGNSZ1gtbjdzdlMtNThRM0NhU1lsYWQzMkFoTmFLQUlUSl94NnVST3JyQ2Z3UnREZDhYZHpGTHhWNm9TS1BWZ2lLbk85SWU3MDQ0NE5QdTV3OA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "87cfd92f08d6292426f9c8265d89cea311eba8144ace0b61ff6b81a4d1b32bfb"
+    },
+    {
+      "id": "20261120-DP-FA046BF1-3349",
+      "title": "퇴직금 체불 걱정 줄이려면? 회사 밖 적립부터 기금형 퇴직연금까지 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T09:41:48+09:00",
+      "publishedAt": "2026-11-20T09:41:48+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "퇴직금 체불 걱정 줄이려면? 회사 밖 적립부터 기금형 퇴직연금까지 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "퇴직금 체불 걱정 줄이려면? 회사 밖 적립부터 기금형 퇴직연금까지 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zUGtrMTJGQThKSlEwSnIzcW51YTI5WC1EbER5SkpkQkdjQkFvb1ZUT0VtSU5faUZvOEdWRTJMTFNGYXY1ZnJPalU4a2txUDVuZUUwSzllMk5MTUc1eFF3bjFmN0gwRzR4VDJfSA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "fa046bf1cdf761f91348ab92614eea89b3b1f635e32acb82f49bd7cc5673f51b"
+    },
+    {
+      "id": "20261120-DP-F8C7DA3D-3350",
+      "title": "\"국민의 작은 한마디가 우리나라를 바꿀 수 있을까요?\" - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T17:42:07+09:00",
+      "publishedAt": "2026-11-20T17:42:07+09:00",
+      "firstCollectedAt": "2026-11-21T20:38:59+09:00",
+      "updatedAt": "2026-11-21T20:38:59+09:00",
+      "summary": "\"국민의 작은 한마디가 우리나라를 바꿀 수 있을까요?\" - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"국민의 작은 한마디가 우리나라를 바꿀 수 있을까요?\" - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mZ2lwMGhlUWlHRUhJb3F2OG40T3p5aktIVV9GQ0VxLUVhMkNTSHEwVF8yVFhXOW1kaGNnMkQ5V1ZhZFlhWFF3SXl0VEd2R0J2bmtXbG9KaThYNVg0NTFOTkFRZjFqbDlET3RUbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f8c7da3dcca32c93f98d95f49edee2d4279b2eff1b1ec9a1bdd5bb74685bb279"
+    },
     {
       "id": "20261120-DP-1F0D4797-3324",
       "title": "[보도자료] 사회대개혁위원회, 대한민국 대전환 제3차 국민토론회 개최 - 대한민국 정책브리핑",
@@ -4073,59 +4615,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "40c45797c1dcfdd17f06d3eb08fde9e9ca9e49176dd4f2295e1ccf1cd26e189f"
-    },
-    {
-      "id": "20261118-FR-9007EED1-3268",
-      "title": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "다자외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-18T23:02:05+09:00",
-      "publishedAt": "2026-11-18T23:02:05+09:00",
-      "firstCollectedAt": "2026-11-19T02:55:55+09:00",
-      "updatedAt": "2026-11-19T16:48:44+09:00",
-      "summary": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-18",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtREJwTHlyaHNuWDZsb2NNOW5oaC1OSkFtSFhyR1l6SFhtdWtYLVE2bmpzR1BFNjF1TTNlMXUzdDJjMEk2T3kzNE92bGtBUmxwMzlxT1pzN3J5cXBWSS1uMHJQSDV0U2c2eTRSZlRn?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-아세안 관련 정상회의 주요 성과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-19",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFg2Q1RBOTAzSjdZd1RLT3Bmb0s0ZzE4WVBwRjFFdWVsTnRmS2xsM01WOVdPeUdteWNKTmtHOXJyb0lxR01Zb1pxc3g2cm42TldnZmE0MDJ6NnpxblZRM1E4VS1TQU5saXo3Qk8yUjRBNUhwVkFibW9xV1FsTVJMVnJRMUlxZjJ2UHNR?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-19T16:48:44+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9007eed11ea127f37d2dc296862a13759b77223366c6a2b57356a1ce7d19f364"
     },
     {
       "id": "20261118-FR-765868EA-3251",
@@ -16289,71 +16778,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "1b5cfcae8228c323abc41ba389deb3c9f2d34b93502661a8cb617136fc864a55"
-    },
-    {
-      "id": "20261021-DP-2A01CEB2-2318",
-      "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-10-21T17:32:39+09:00",
-      "publishedAt": "2026-10-21T17:32:39+09:00",
-      "firstCollectedAt": "2026-10-21T22:08:10+09:00",
-      "updatedAt": "2026-11-12T19:09:43+09:00",
-      "summary": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "교육부 소관 법령 3건 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-10-21",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGJycE00MjczTnBvOHg3ekEyM19yZWgwMTFnaG50RU1jTzNWbWs2Z2dIaTlldDFweV9LNmRJbXhhVkZTWUluTjFZNlB0ZloxSTJUSC1QaG5IenVTOUFBN01UR1VOaDYzSnNpemJMT3JyYzZrM01nR3JBTFllRkpQS0hzNzFqZ0Z1c19z?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "교육부 소관 법령 국무회의 통과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbkdOTFdIZzMtWmQzRXJTLTNsX1dISFI4cVVtNkhyMXQwZm1wSkJwcnZyalRwOHlJTWxJS21yRXFoZUJ1MnBleGRkR0JRNlpUWDBvYUNaX3pmaVN3YURnbFBBRktlNWF3RURkbHZVQzd6U01xWDFoWWVfWUFLckJOMEJKYnhuVEpKT25R?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "교육부 소관 법령 국무회의 통과 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
-          "date": "2026-11-11",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYWNKcDVOalg5ak1DdkxMRXJ1ZGhTbjc4bmZuNU5YRlBTMTloZVZuc3M3Q1ZTVnJ3RGdUWnUtOGJrckJvY0pTaktPREhXeVkzX0RXM3JrLUxDcS04TnRPMTJoNVc5andlUXdqTDNyOGZNM0JPWVVXejlOeGI1eW1DZTJNSGQyNjlrRWNN?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-11T14:53:54+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        },
-        {
-          "updatedAt": "2026-11-12T19:09:43+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 2
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "2a01ceb26633a2597ea27d19edf94ab582cf71e4b3fc7d5074ad57fd32bfab73"
     },
     {
       "id": "20261001-DP-BA3920AA-1772",
