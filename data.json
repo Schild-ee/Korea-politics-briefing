@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-21T20:39:06+09:00",
-    "nextScheduledUpdate": "2026-11-21T21:09:06+09:00",
+    "lastSuccessfulUpdate": "2026-11-22T04:02:56+09:00",
+    "nextScheduledUpdate": "2026-11-22T04:32:56+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-21T20:38:59+09:00",
-      "finishedAt": "2026-11-21T20:39:06+09:00",
+      "startedAt": "2026-11-22T04:02:52+09:00",
+      "finishedAt": "2026-11-22T04:02:56+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 167,
-      "acceptedCandidates": 53,
-      "duplicates": 43,
-      "rejected": 112,
-      "rejectedByDate": 98,
-      "rejectedByRelevance": 14,
+      "fetchedCandidates": 165,
+      "acceptedCandidates": 48,
+      "duplicates": 47,
+      "rejected": 116,
+      "rejectedByDate": 99,
+      "rejectedByRelevance": 17,
       "rejectedAsCommentary": 0,
-      "newIssues": 10,
-      "updatedIssues": 2,
+      "newIssues": 2,
+      "updatedIssues": 0,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -48,7 +48,7 @@
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 33,
+          "count": 31,
           "error": ""
         },
         {
@@ -64,6 +64,86 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261121-DP-DCF73BEA-3353",
+      "title": "[차관동정] 정의경 제2차관, \"안전을 최우선으로 탈선 현장 복구 및 이용객 불편 최소화할 것\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-21T15:54:00+09:00",
+      "publishedAt": "2026-11-21T15:54:00+09:00",
+      "firstCollectedAt": "2026-11-22T04:02:53+09:00",
+      "updatedAt": "2026-11-22T04:02:53+09:00",
+      "summary": "[차관동정] 정의경 제2차관, \"안전을 최우선으로 탈선 현장 복구 및 이용객 불편 최소화할 것\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[차관동정] 정의경 제2차관, \"안전을 최우선으로 탈선 현장 복구 및 이용객 불편 최소화할 것\" - 대한민국 정책브리핑",
+          "date": "2026-11-21",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUjM2SzFDUWxuc2VsbW5FdHdtdFZFTXYyWnF6UjFUdzUxaTladm9ZYzM2TUZBNkNWQ3RBeWw0U3hUSE53cTJqVFlveDR1UTJ3Qm1jNW9saFJPcmlndkQxdi1SVzVQc0swdDI4RTNuTHkxbXdJYlhtM2dJeDlEQ1BMMkFzUFZubktYMjFLOVQwLWQ3Zw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "dcf73beab98cb210576cd6ff725f2eab2d2e12ddb25d408102937ffd66b59e0e"
+    },
+    {
+      "id": "20261120-DP-755E9ADD-3354",
+      "title": "어린이 교통안전 수칙을 지켜라 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T14:24:53+09:00",
+      "publishedAt": "2026-11-20T14:24:53+09:00",
+      "firstCollectedAt": "2026-11-22T04:02:53+09:00",
+      "updatedAt": "2026-11-22T04:02:53+09:00",
+      "summary": "어린이 교통안전 수칙을 지켜라 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "어린이 교통안전 수칙을 지켜라 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZSHcxLVk3ODYtNWNTNm1Wa1VUOUZYTUU4dEgycG5Ibi1COHJ6SVRhaEJiVWxoaFhjcEw0WE9VR2Z6VlctS1pEZjduMkNtWFlfTFZpSG8zQWdXWkY5YThRWnZnTC03QkxCNEYyUw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "755e9addf231b102c0c4da766f37fbcb1103de7c35cb4890c81710417347e29f"
+    },
     {
       "id": "20261118-FR-9007EED1-3268",
       "title": "한-아세안 관련 정상회의 주요 성과 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
