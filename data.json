@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-22T08:44:33+09:00",
-    "nextScheduledUpdate": "2026-11-22T09:14:33+09:00",
+    "lastSuccessfulUpdate": "2026-11-22T15:27:20+09:00",
+    "nextScheduledUpdate": "2026-11-22T15:57:20+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-22T08:44:31+09:00",
-      "finishedAt": "2026-11-22T08:44:33+09:00",
+      "startedAt": "2026-11-22T15:27:14+09:00",
+      "finishedAt": "2026-11-22T15:27:20+09:00",
       "activeSources": 4,
       "fetchedCandidates": 166,
-      "acceptedCandidates": 41,
-      "duplicates": 41,
-      "rejected": 124,
-      "rejectedByDate": 108,
-      "rejectedByRelevance": 16,
+      "acceptedCandidates": 35,
+      "duplicates": 26,
+      "rejected": 130,
+      "rejectedByDate": 113,
+      "rejectedByRelevance": 17,
       "rejectedAsCommentary": 0,
-      "newIssues": 1,
-      "updatedIssues": 0,
+      "newIssues": 9,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -64,6 +64,422 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261120-DP-01D536C7-3364",
+      "title": "한덕수 판결 후폭풍…민주당, 조희대 대법원장 탄핵 추진 본격화 - 미디어인뉴스",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "미디어인뉴스"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-20T13:52:49+09:00",
+      "publishedAt": "2026-11-20T13:52:49+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:16+09:00",
+      "updatedAt": "2026-11-22T15:27:16+09:00",
+      "summary": "한덕수 판결 후폭풍…민주당, 조희대 대법원장 탄핵 추진 본격화 미디어인뉴스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "미디어인뉴스",
+          "title": "한덕수 판결 후폭풍…민주당, 조희대 대법원장 탄핵 추진 본격화 - 미디어인뉴스",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CQlVyMmlqdTctUXJOcmVPdDdsU1FlVERmaEtDU3haV3JaUlFXcG5fdEdnb2FsbkNDWlBBdHJNeWFhNkd1RHRUUHpCeG5yeFMtSElXVDI0ZEdQUzRKNG9pdnhQemVvWGxqcWhHMU1B?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "01d536c76aee3b0b1d51f06d2d4bb1406f575c54a6d14f3ebd2eeb8b87e68cd7"
+    },
+    {
+      "id": "20260918-DP-EEC4CAE2-1462",
+      "title": "외교부 공관장 인사 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-09-18T07:59:00+09:00",
+      "publishedAt": "2026-09-18T07:59:00+09:00",
+      "firstCollectedAt": "2026-09-18T10:12:26+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "외교부 공관장 인사 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 공관장 인사 - 대한민국 정책브리핑",
+          "date": "2026-09-18",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVF6MmV6emp1cVRJX3F3aWxfb0g3eEFlY2x2LUxNbGR2TTRyRFNtQk9ZVUZOUWx3WVp5cGFLT3NGendDWkxaY2x6RDJnVWZGbEpJb1ZhcTVVcGFES1ptSmhEeTc3V082a3VxTnpfaEFDWklfUVpTTk94UlpDamFRN0hrN3pfNldxTHlkb1FxNnU2Zw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부 공관장 인사 - 대한민국 정책브리핑",
+          "date": "2026-11-21",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObFR2THVkOGlxUWpnbkl2dnBwTXZMNFNNT19GMVpWSkV6NTh1VU44NzE2VFR3RkdPYUptdTcwZEQxbFV5TEZnRmJBY09OU0NPeGw0eGVkX2dNLTk4aFMtWEpReWJUMEpZeUpFMnBYZzlDaktJd0paOHVTMFo0bjVjdU1CcUhJdXdienJydmhB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-22T15:27:15+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "eec4cae2c0afe54cb8b8f35198823e1ab2e81e4ff63e4b3c2bea42e564408f63"
+    },
+    {
+      "id": "20261122-DP-F2236BF1-3356",
+      "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-22T09:10:00+09:00",
+      "publishedAt": "2026-11-22T09:10:00+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "영유아보육 분야 규제 개선을 위한 「영유아보육법 시행규칙 」 개정 공포 - 대한민국 정책브리핑",
+          "date": "2026-11-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlpkZ3N0cHVyVTZ1N2J4V2VXM09ab0d4UEEwSFcyaVBSbnk0SFphZWN3Y1VDdnFBQVdxcHl0dHk2R1JpbjVmenRGLUxfUFFFYlBtNVQ5WDlOek91Z09nQy1hMUtMd3Rsa0NzcFJtSGdLWkF2d0xhZDlBQ3NKbG5HbHdod2wwaXE5RHFDYmtNclVvQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "f2236bf1c5ec9c541fd5ad485560fa1cc51d6e0e1e03b5dabdb4d87f1d0a95ee"
+    },
+    {
+      "id": "20261120-DP-BF99632C-3357",
+      "title": "군인 헌법교육 강화 위한 국방부-법제처 업무협약 체결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "국방부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T16:30:11+09:00",
+      "publishedAt": "2026-11-20T16:30:11+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "군인 헌법교육 강화 위한 국방부-법제처 업무협약 체결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "군인 헌법교육 강화 위한 국방부-법제처 업무협약 체결 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVm9GSWFoa25UYWJBQThsSHBTWDdac29SZENSOWVpcVpjV2tSTGpSYm8yNldlN3VhSkVsUTBfcllONldhTVU5YXlvcEt6UmJZMTNMYlQyVnFTRkdhQmZWQWtzbEpYb2pOeEpTN1pxSGotQjVqbGkwU0F0MVlqLXoyS0VzWjNSRGRXUV83dlYtS2x6M0lWb2c0enBuWHEyQV9kMFFFc3RYZWZaWWpwVlhTdnBabzBSN2t2aFRsTFdvRU8xZ2xWbW9HQkV4Q1g3dXdKM3JyUWRhT19wMklwRHAzT3VkRzlnaVhmVERRblI3SQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "bf99632c966033bcd92495bb3f46b96fd886b28ab1abe951de7d1d2175a2aaae"
+    },
+    {
+      "id": "20261122-DP-4A0EF1BC-3358",
+      "title": "기후 위기 대응 '더위에 강한 뒤영벌' 계통 육성 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-22T13:19:06+09:00",
+      "publishedAt": "2026-11-22T13:19:06+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "기후 위기 대응 '더위에 강한 뒤영벌' 계통 육성 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "기후 위기 대응 '더위에 강한 뒤영벌' 계통 육성 - 대한민국 정책브리핑",
+          "date": "2026-11-22",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQTZpM0lXY01JWXB5NFY1aDlJdnQ3dmY1M255R1k5aXFhb28tTFhTbnhjYUd4NlVfYkY5OVo4T1NGdm5SZEM3a1JkREM1M1l1RU9tM2lJN0pVbGJ6Z1FDTVJBU3BaNmpTTmkxRWc5Mm9JcVlGRE15Q1RIekFGWXdnaFVtNlhZaVljZWcwVUlSUWZ0aUpMeEpWMEdmMlE3bjNJUlJ4WDloTWlTR1kwZ2RJTUdsalpPOU9NM3psOWprSG5tU0lhb2k1cUwzNU11MTA3WG1IMkdEaHNQRDVIOXF1YV9vbmpWX21OV1BZMXd2NA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "4a0ef1bc986365fe296dca5b9439e368981b86f18aac1414a63b9c84006195a1"
+    },
+    {
+      "id": "20261122-DP-256F8A5D-3359",
+      "title": "국립축산과학원–성운대학교, 국산 열풍건초 이용 확대 업무협약 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-22T13:23:25+09:00",
+      "publishedAt": "2026-11-22T13:23:25+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "국립축산과학원–성운대학교, 국산 열풍건초 이용 확대 업무협약 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국립축산과학원–성운대학교, 국산 열풍건초 이용 확대 업무협약 - 대한민국 정책브리핑",
+          "date": "2026-11-22",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRTF0bjlwS1VaazlnZElFNjVnSEIxZEJLZ2NIanRHVG9aMlNBWlVxblNuZWpnQlJWMGdhcFFocUQxY2pmTFRYbGxmLURpUHRsMWo1Mnc3NmxfMVlzcXdlT1c0cDl3Q1hQaHJUek5rY1lBVDJUc1lza1BkYWxyVHZqeHNsRUtoZEtHdGVISmxOdjVUaUVvY2lsQTZXT1h5bTZhQ0NVWVBKZU9rOXFNRkJGNkV4T3hTeW41SHo5SndocFhnYnE3aVg2aEF1Y2puQlQ1eTE5M082dHAzUWxXNDZRdHo3eGRFUFR0Yy0xaTJXbw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "256f8a5d3e70e470917ecfce29a5b1f5e1bb6d6b907892e96b01e56a79fdf6a9"
+    },
+    {
+      "id": "20261122-DP-276B8530-3360",
+      "title": "105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-22T10:00:00+09:00",
+      "publishedAt": "2026-11-22T10:00:00+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "105병상 규모 대구보훈병원 서관동 증축 공사 23일 착공 - 대한민국 정책브리핑",
+          "date": "2026-11-22",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVDZXTmFUdXk4YWE3SEhuWWdYWnVKV1lfcnFmU2tvbnpiZ1J6SGxtVHBEWWJwTzFWV1pEaE0xSFdzUWNkMUl4dzVYVW44Rm1fSE12cEVGYjlnV3Q3OHRUZkQ4WHI1cnRvbjQtNHlGR29nM2UzeGtjMG8tRVBuako5M3RkSGR4Yi1LYVhDV1loRzBNUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "276b85306c7d9ee09c358a8a3f71c9cc6f2936bfe5435d88922ac8bbdcf8c417"
+    },
+    {
+      "id": "20261120-DP-39DA41B2-3361",
+      "title": "지방세제 혁신 아이디어 발굴·확산을 위한 '2026년 지방세 발전 포럼' 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-20T10:00:00+09:00",
+      "publishedAt": "2026-11-20T10:00:00+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "지방세제 혁신 아이디어 발굴·확산을 위한 '2026년 지방세 발전 포럼' 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방세제 혁신 아이디어 발굴·확산을 위한 '2026년 지방세 발전 포럼' 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-20",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44eVJkWk5vNlVRMjkzeGVZaGwzQ0Q2bGlhMWNFTjFBWDI3a0VwdXA4eThETHE3QVZMaWY1NkRWR3Y5YlhCNnRkd2RIcHBpT3RnUW5nejhZRjFySTdLalFuZER2b25MazR5Q1kxb0tnREwtT3BN?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "39da41b287d4d38e4803081219d4509e5c66bcebe747554a2bb24a8258fa47cc"
+    },
+    {
+      "id": "20261122-DP-401A474D-3362",
+      "title": "국산 감귤·차 품종 확산, 제주 농업 경쟁력 높인다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-22T13:27:49+09:00",
+      "publishedAt": "2026-11-22T13:27:49+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "국산 감귤·차 품종 확산, 제주 농업 경쟁력 높인다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국산 감귤·차 품종 확산, 제주 농업 경쟁력 높인다 - 대한민국 정책브리핑",
+          "date": "2026-11-22",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTVJNQzJKNjF1b1RPODlHT0hhQmlFZVg0eXVtc0dkNTdPVDAyWC1HYjAwX1hjMWlBNDFiTzlmWXA2dUoyM0lydlJKZVh3YUNfT0lPVFBMajZFNTczQjJyNWxpOFozRWZfRDRKT3A3MlZ6al9zVzBjMl9KOHRrVXVGVnhsckxLT3NPcVhUUlU4TVBXWWttWmJyRm9heUFxWjl6S3NxdmFMRTVLQWNIMUh0MXVjSWNYSlJEd3Y4U2JJUlZqQzZWV2t4UjFkS29wXzRZTWZ1TUtFNW9UeVhYaV9RNVFNMFBWRUc2OFZkYzNvUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "401a474d5f76318d2314c606fa15fbcea79e8b98ebcf222a60257a38ad96d5f9"
+    },
+    {
+      "id": "20261122-DP-23B644F5-3363",
+      "title": "쫄깃함 살린 '버섯 기반 단백질 식품 소재' 시장 경쟁력 확인 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-22T13:25:49+09:00",
+      "publishedAt": "2026-11-22T13:25:49+09:00",
+      "firstCollectedAt": "2026-11-22T15:27:15+09:00",
+      "updatedAt": "2026-11-22T15:27:15+09:00",
+      "summary": "쫄깃함 살린 '버섯 기반 단백질 식품 소재' 시장 경쟁력 확인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "쫄깃함 살린 '버섯 기반 단백질 식품 소재' 시장 경쟁력 확인 - 대한민국 정책브리핑",
+          "date": "2026-11-22",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSzFKOFJsYXBGeVNKX2xiNkY1VDZweFluQnNWMWV5U3ZpQmQycVhMd25Tc0FrMGRUVm1xdy1PTjI3VjlRbi1pNG5HQ0Z5MlhvMDVjVVlwN0hKZ1NJam9JdkR1TmNUT0dzckppdm5IT1VKRWpIS0ZZQWhBVDN3cXFfWl9NaUI3T0xUemg0ZmRKZENmekZaTWpReG1qcmtjRkJtQThwVm5mRDMzT21TSFB0YWE0Nno1bkdnQUFKNVZac2kxay02U0Uxb3hFMTg3WnVFV0NockFIY2p3ZWpWRjdPVTFOb0dieGdCT0ZvUzBjTQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "23b644f5b32e633adfa8ecb918a143cc0484ec2c128ed2465099cb3b508faa57"
+    },
     {
       "id": "20261120-DP-F12E8A09-3355",
       "title": "\"법관이 정치인 원하는 판결해주는 사람인가\"… 조희대 탄핵 추진에 술렁이는 법원 - 한국일보",
@@ -86080,47 +86496,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "04a8e5bf9f583cc7158b065d331c13df916f3a4e1de4a2024d046a846148de28"
-    },
-    {
-      "id": "20260918-DP-EEC4CAE2-1462",
-      "title": "외교부 공관장 인사 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "외교부",
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-09-18T07:59:00+09:00",
-      "publishedAt": "2026-09-18T07:59:00+09:00",
-      "firstCollectedAt": "2026-09-18T10:12:26+09:00",
-      "updatedAt": "2026-09-18T10:12:26+09:00",
-      "summary": "외교부 공관장 인사 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "외교부 공관장 인사 - 대한민국 정책브리핑",
-          "date": "2026-09-18",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVF6MmV6emp1cVRJX3F3aWxfb0g3eEFlY2x2LUxNbGR2TTRyRFNtQk9ZVUZOUWx3WVp5cGFLT3NGendDWkxaY2x6RDJnVWZGbEpJb1ZhcTVVcGFES1ptSmhEeTc3V082a3VxTnpfaEFDWklfUVpTTk94UlpDamFRN0hrN3pfNldxTHlkb1FxNnU2Zw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "eec4cae2c0afe54cb8b8f35198823e1ab2e81e4ff63e4b3c2bea42e564408f63"
     },
     {
       "id": "20260917-FR-199689D3-1459",
