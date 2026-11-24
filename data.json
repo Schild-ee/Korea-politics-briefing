@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-24T06:58:31+09:00",
-    "nextScheduledUpdate": "2026-11-24T07:28:31+09:00",
+    "lastSuccessfulUpdate": "2026-11-24T14:52:19+09:00",
+    "nextScheduledUpdate": "2026-11-24T15:22:19+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-24T06:58:27+09:00",
-      "finishedAt": "2026-11-24T06:58:31+09:00",
+      "startedAt": "2026-11-24T14:52:12+09:00",
+      "finishedAt": "2026-11-24T14:52:19+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 180,
-      "acceptedCandidates": 22,
-      "duplicates": 17,
-      "rejected": 155,
-      "rejectedByDate": 147,
-      "rejectedByRelevance": 8,
+      "fetchedCandidates": 161,
+      "acceptedCandidates": 41,
+      "duplicates": 24,
+      "rejected": 118,
+      "rejectedByDate": 104,
+      "rejectedByRelevance": 14,
       "rejectedAsCommentary": 0,
-      "newIssues": 5,
-      "updatedIssues": 3,
+      "newIssues": 18,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,14 +41,14 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 50,
+          "count": 32,
           "error": ""
         },
         {
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 30,
+          "count": 29,
           "error": ""
         },
         {
@@ -64,6 +64,794 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261123-FR-2CB91643-3399",
+      "title": "[보도자료] 한성숙 국무총리, 바트체첵 몽골 외교장관 접견 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T20:28:58+09:00",
+      "publishedAt": "2026-11-23T20:28:58+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "[보도자료] 한성숙 국무총리, 바트체첵 몽골 외교장관 접견 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "[보도자료] 한성숙 국무총리, 바트체첵 몽골 외교장관 접견 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWJZMzhNS2tlYWY5ektUSWlMSkZLeFd6S0g2MGZqU3c1al9GY2lvSDhLeHhyZ2EtNjdSVXdSTjN0UVctX3pocUZ2eWZGdHBGY0VKb1VfanlwLU10SExHUkpJYXFscE9URnlJS3B3eGNhampQenFyV3pGamVIa096S1UwdE82VGtrMVV4b0ZvN3lUZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2cb91643d16a30f602b38a9743dadb7e4269dee159379b8b1b637e691e82d411"
+    },
+    {
+      "id": "20261124-FR-7543D0C0-3400",
+      "title": "아·태 AI다자외교 전략, 한국형 힘의 투사 시작 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "다자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T10:24:49+09:00",
+      "publishedAt": "2026-11-24T10:24:49+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "아·태 AI다자외교 전략, 한국형 힘의 투사 시작 - 오피니언 | 뉴스 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "아·태 AI다자외교 전략, 한국형 힘의 투사 시작 - 오피니언 | 뉴스 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mMlE1MlhycWdYY09ibnZhalZqQ19qdmo0SUxEb2E1aFZRZHJsZVE0Y2c2YmZJeHBsSlJKVkQtS1lYX3VQbHF3T0V4TFFqRVlQR1NwVVVYTzNDbVFHRXFzSjE2anFVdkZoR3cwcXYtQ0lQRUVF?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7543d0c0ac4eac3612d2b2594fb895a2218d2a3746cf3d1aa71c04f6d6269784"
+    },
+    {
+      "id": "20261123-FR-8E6750EB-3401",
+      "title": "외교부-해외건설협회, 우리 기업의 해외건설 수주 및 진출 지원 협력 강화 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "외교부",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T16:04:50+09:00",
+      "publishedAt": "2026-11-23T16:04:50+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "외교부-해외건설협회, 우리 기업의 해외건설 수주 및 진출 지원 협력 강화 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "외교부-해외건설협회, 우리 기업의 해외건설 수주 및 진출 지원 협력 강화 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObFpZMWhKbHJJSTFkYTJVeWVMalp3RXozM3Eyd0tqQnVLMFAwbXJ6cUZXX0tSaHBVQ1dJMHZnaGlBMks2aXhJVTVmTlo4VUg2SkNiVjhWUHctOEVET0pYd1k2VzRrMkN6TG0yazdUR0ZPaDFTNnFtUG5PM3UwX3NlTEt2a0Y3TzM5S1VQcnNNWlFVQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8e6750ebd3f8c29a9950276361527cde5d4e20024a09eda982506321dd695637"
+    },
+    {
+      "id": "20261123-FR-B554F983-3402",
+      "title": "SK AI데이터센터 현장 방문 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T09:05:23+09:00",
+      "publishedAt": "2026-11-23T09:05:23+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "SK AI데이터센터 현장 방문 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "SK AI데이터센터 현장 방문 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02TUlPZXdSWlpCeXJ4QlFRVkdPMDg1VmZLMGwyN1dBc2kxWjlWQlhoN3E5S1Znd09IUW55UXZqS1dXMWRBVjBNaWFwZndzNG83dHhtOFlVNUVsc3VCUFlRUGZ2NzhITlZXRUotQjlNTkJDTy1LVkJCU0ln?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b554f9831e82b11c3e683c7c41b80d89b01d51f9c7e9adb06416e1410b2dbc85"
+    },
+    {
+      "id": "20261123-FR-7FA754AD-3403",
+      "title": "인선 관련 임광현 비서실장 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T16:04:17+09:00",
+      "publishedAt": "2026-11-23T16:04:17+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "인선 관련 임광현 비서실장 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "인선 관련 임광현 비서실장 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGFpUUN2UzRBQWVQQk9FbTdXRUMyTGVlSkZfUkxXYVRNR3plTk9Xbl9DT00yald0VTl1Nlp2azVlcFh6REtta00zTThjYlRTTkFlVlNVZVllb2RleUlWRnoyRk1vRzl3MDRsTFpTVUxTV2xKdEtTWXhGbjBBbGM5Rzl3WmpMbEwwRTZDdjlB?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7fa754ad32756428d9b175141d8257e1c77e3d756620e21ec7b5c9d103073929"
+    },
+    {
+      "id": "20261123-FR-8FACEBD6-3404",
+      "title": "2027 코리아그랜드세일 사전 홍보 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T23:47:01+09:00",
+      "publishedAt": "2026-11-23T23:47:01+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "2027 코리아그랜드세일 사전 홍보 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "2027 코리아그랜드세일 사전 홍보 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OcXV3WmQ1dnRlc3VsN3dYaTlsUDlHUnFpM3VEY3AxT3FCbVVsY2FHWGwyY3BVNXVKb285NTVHclo0cjJQellSRFlmeUVmWGRJNnhxQXRETEFwNGIzSEJ3aHBGWlJuWmF6Q0E?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "8facebd6de7eb817cf8a42a1f7bbee2a2918d98d07307acaabb50fe3f7bf03fb"
+    },
+    {
+      "id": "20261124-FR-B94B9AA4-3405",
+      "title": "책 읽는 가정·학교·마을을 잇는 우리 동네 도서관 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T02:25:43+09:00",
+      "publishedAt": "2026-11-24T02:25:43+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "책 읽는 가정·학교·마을을 잇는 우리 동네 도서관 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "책 읽는 가정·학교·마을을 잇는 우리 동네 도서관 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lamEzODRfdFNqWi05Y0l0VnlEWDRoRE9GSlR2NjR4WlV4TGZzWmRSaVJMV2VoSjZscGxyNF9SSFVubjVDM3hiUzMwMzhPVUJpQUdmb1VkMUs0WHBNWTY3U1gwRUNzcGwtUEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b94b9aa431e5c3106ccc2b8482aa759f0de03260071287bd7c3f386b627f720e"
+    },
+    {
+      "id": "20261124-FR-AEAD4DA8-3406",
+      "title": "내가 지켜야 할 디지털윤리는? '서울 디지털윤리체험관'에서 확인 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T09:47:28+09:00",
+      "publishedAt": "2026-11-24T09:47:28+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "내가 지켜야 할 디지털윤리는? '서울 디지털윤리체험관'에서 확인 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내가 지켜야 할 디지털윤리는? '서울 디지털윤리체험관'에서 확인 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTN080dHVYYWdlNncyN016Q2xxWm9sbFVRT2RKeE14VXhURFVmaDdsTkkzdmxDaUk5UTV6R0MxNFA3ZDZBbDkwckg2U0FITmFmSG1KOG1Rd0JqUlJUUzYxYWd2Q2hsSWNQMEE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "aead4da8f07180fb0883bff8fc6157d843f4e16baf66993115429b42e5d73a39"
+    },
+    {
+      "id": "20261123-FR-E30A355B-3407",
+      "title": "산림청, 산불현장에 전기차 기술을 더하다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T16:35:01+09:00",
+      "publishedAt": "2026-11-23T16:35:01+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "산림청, 산불현장에 전기차 기술을 더하다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "산림청, 산불현장에 전기차 기술을 더하다 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQkwzckZOSFdqMWV4a2ljTERGUzdxYWVmMVEySjljMlQ5UXBaQ3hkMVFXSlRfSkowMFZnb25BWHRJSDNJLXRmWVh3YW9fUzR0US1IV1haRGh0Sk9GTFZKaVZhZnVYcEYxWGdsX3BHT2ZuUTR2c2x4ZlRuYW8xNnlUcEZtTHh4QVgtS1FhbGNnUkJWQQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e30a355bb83c8239fd4e622f12714a1775f28c1651add8a72a20652d437ef3e9"
+    },
+    {
+      "id": "20261123-FR-ECD6387F-3408",
+      "title": "굴·딸기 등 K-푸드 수출 유망 현장 찾아 민관 원팀으로 지원한다 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T09:23:38+09:00",
+      "publishedAt": "2026-11-23T09:23:38+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "굴·딸기 등 K-푸드 수출 유망 현장 찾아 민관 원팀으로 지원한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "굴·딸기 등 K-푸드 수출 유망 현장 찾아 민관 원팀으로 지원한다 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ3hWbnFkNmNXcTlGTVQ4Um9XdUVfWkZsQWd3UDdYRFREYWE5dEg0VklDbFI0OG1PNnl4N3laX3Ric2VPcHFiNDhpS2xuWDlsRU5PaDNPOXR1U3Q0bVpfcERlZmFTT2tjTVJwX3RTWVBCQ3VkS1F3ZFc0SnVyS3Faa0xxczhuNVJLLUE2dnFVLVpZUURs?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "ecd6387fbb4bf58dc492bdc2fa8d9e8658c64bd82508697c2bc89f29a69b3859"
+    },
+    {
+      "id": "20261124-DP-5571336F-3409",
+      "title": "민주당, ‘한덕수 대법원 판결 긴급토론회’ 개최 - 매일경제",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "헌법·사법",
+      "countries": [],
+      "institutions": [
+        "대법원",
+        "매일경제"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-24T14:33:16+09:00",
+      "publishedAt": "2026-11-24T14:33:16+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "민주당, ‘한덕수 대법원 판결 긴급토론회’ 개최 매일경제",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "매일경제",
+          "title": "민주당, ‘한덕수 대법원 판결 긴급토론회’ 개최 - 매일경제",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtTG9wQXRXRU92ZGhpQTAyVlFQWFIyRWx4bk15ZGNxckJ1a2pJYkFmWkx0VnpQTnVaUHV1S3JIcFlQT2VLdGFwZ19UZVFKSUNNeGV1cjlR?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5571336febefd7ab95b4342cb0f82218225e9edab86305136debd9ee65eaa85a"
+    },
+    {
+      "id": "20261124-FR-1CD0C72D-3410",
+      "title": "국회 글로벌외교안보포럼·세계한인네트워크, 재외동포정책포럼 개최 - 뉴스웍스",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "국방·안보",
+      "countries": [],
+      "institutions": [
+        "대한민국 국회",
+        "뉴스웍스"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "발생",
+      "verificationLevel": "단일 신뢰 출처",
+      "occurredAt": "2026-11-24T11:56:38+09:00",
+      "publishedAt": "2026-11-24T11:56:38+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:13+09:00",
+      "updatedAt": "2026-11-24T14:52:13+09:00",
+      "summary": "국회 글로벌외교안보포럼·세계한인네트워크, 재외동포정책포럼 개최 뉴스웍스",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "뉴스웍스",
+          "title": "국회 글로벌외교안보포럼·세계한인네트워크, 재외동포정책포럼 개최 - 뉴스웍스",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45cERoYVpKdXdpTjh0Y1VILV90ZjI1aEZKc1VtWmVyRlV5TTRRaWhEcjNLYnBYNnpiZ19hNmxoVU1xMHgzOFdaOU9iRnA5QXN0WjVsX1FudWxaeEVNTXlob09QcVpkakhnUEJic1dGY9IBc0FVX3lxTFBuWkwwS2o3RWZPOS1GaWxFeTBUYkY1c1NZLTZDcm1nX09pOW5lSjhDbVN6aDR2WXRtWXpGaVF6bk9vc0g0MkVzS3RXeWVvdk1feFV0MnU2ZnhIc1lDOE83eGxseUEtUmtqWFJDSkY1Q1RqM0U?oc=5",
+          "official": false
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1cd0c72d8f360433aac87c0c11cccfa39e0dd13baa325d2825e7500a8dc5099b"
+    },
+    {
+      "id": "20261123-DP-9387E040-3372",
+      "title": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T10:10:48+09:00",
+      "publishedAt": "2026-11-23T10:10:48+09:00",
+      "firstCollectedAt": "2026-11-23T10:30:56+09:00",
+      "updatedAt": "2026-11-24T14:52:12+09:00",
+      "summary": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYTJqUjVvRkF0alVXNUkxbUoxbUM0cGppT1NnOUduNndncFFHNHFHSmx1UE1YYzMxM01HTk5rMm9DUV8xNG9Xck1JMHEzaUdZTXNxUTVWWk0tanh4YzF4TjFoNE9yNldzMjJkWVIwMU1YWC1ETC1iSHNhSG5aMk5OTkZIMmxSaVRXWmN3aGJMU2ZSb0JWdVpodFpoM2IwLUd3dU5uOUxYMFZuT1Q5SF9yUW43U185MmtPZFktMGFaN3hTQmpIZmZlUDVSZ3pKV1A2enI5YWJJbEdKRkRySlRpWjE3OXhneHNZX3NIdDVMbw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3Jlc3B6UkcxUHl0eHZuTGZVcnNjeFVBTTVBcTlteXdiZVBwSnJFT1R0Qm0tcU9MdXJucmFQUnk4Tk5NY1dxOG5Rei12dGZpSldCaHZqMmlLbFllekhHU0JwVGVqWFRDX0VVU2xWSDFvVGJqTzg2RlF5b2hLY1RZLTZsbFN1NmM4elg3STVmM2tBQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX056RWZBYXl2MkVUbUlXVlV2amRnTnY3N2ljdU9fUVFDRHZJQXEtUHJDbFIxWFpScWhpNWJ4VEo0VER6cDVkakszMkQxZkNvbmJRVHNhbzAtM3NHd19NQ21PZEZaMk5lZW4zZGtZYk9VM1djMGFXRElQTml1RktVQURDYnZLbWp1NHY4?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-23T18:40:05+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-24T14:52:12+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9387e040283aa278f845e027fbc9008c79c133fc2c59e01d99ed39088c2afdce"
+    },
+    {
+      "id": "20261124-DP-B4EA4233-3393",
+      "title": "「학술진흥법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T13:00:00+09:00",
+      "publishedAt": "2026-11-24T13:00:00+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:12+09:00",
+      "updatedAt": "2026-11-24T14:52:12+09:00",
+      "summary": "「학술진흥법 시행령」 일부개정령안 국무회의 통과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「학술진흥법 시행령」 일부개정령안 국무회의 통과 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWFSTFZXZ0xUdms3Nl9LYmpMWVB4anFPLWVRNmdaVC1fbkhtV3R1bnBEbVVfSFRCd1NKWEFEcHp3ejd2LVdLaHM4c2l3Vm53Ti1DaTE5Q0NxSHliTWZncVN1M3pjYzhYWGVmb0piZE1McmxXN0YxVFZaWFpmMkI0ZlZNMUhVazM5MGlFdjNuUUtlZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "b4ea423382670b6da2169ed7464be2f3936dadda90dc5be47d31cd3fbc2b0f86"
+    },
+    {
+      "id": "20261124-DP-2F0C4F9C-3394",
+      "title": "학생 선발부터 학비 지원까지... 국립의전원 설립·운영 세부 기준 마련 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T13:20:47+09:00",
+      "publishedAt": "2026-11-24T13:20:47+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:12+09:00",
+      "updatedAt": "2026-11-24T14:52:12+09:00",
+      "summary": "학생 선발부터 학비 지원까지... 국립의전원 설립·운영 세부 기준 마련 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "학생 선발부터 학비 지원까지... 국립의전원 설립·운영 세부 기준 마련 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQX09UUlZaUEw4XzM2YWN3Y1AwZmFGdVY0TWItV2VqUFl1aGFWcWdRYnNkY0pMYmpOdkRjSjMwM3FyNFo5eEh2dXRjbUZiMzhtc3ZRX2puWmZxM0xWclFOalNfREF1OXJERURNNXJ4SkZwY1RpZFlOVFAyOS1FOXIzRjE1b1NpZDZsVGJtQjNlNE9xZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2f0c4f9cf4a585a1936afdb5b24a07d8d182e34a1952c34e7c59ba54c46c133f"
+    },
+    {
+      "id": "20261124-DP-35A6CC5B-3395",
+      "title": "\"내달 3일부터 질병휴직 대신 '난임휴직' 쓴다\" - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T12:53:00+09:00",
+      "publishedAt": "2026-11-24T12:53:00+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:12+09:00",
+      "updatedAt": "2026-11-24T14:52:12+09:00",
+      "summary": "\"내달 3일부터 질병휴직 대신 '난임휴직' 쓴다\" 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "\"내달 3일부터 질병휴직 대신 '난임휴직' 쓴다\" - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNVNYNDNtX09PQWItTVNQeXg1YUh5TUJqZFFsX1RkNUppNUl0MHpiNzNydW52MDJVa1J1R05DSERTODFvM1QzNzQ2SllQbEFldHJmSXFud1pNZlljazgtc2JNbTBBZWhDUlUzMmxBQkJuSFN6ZUpXdUJGXzVKYVZhOUdMZFQyYzBmYXBPQlNkUjhFcW1v?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "35a6cc5b731c4277c57cbc21aa23df633ad3896abf8cbe87945f044aff7da7d3"
+    },
+    {
+      "id": "20261124-DP-9164BE08-3396",
+      "title": "국제지도자 자격 보유자 대상 체육지도자 자격검정 일부 면제 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T14:16:49+09:00",
+      "publishedAt": "2026-11-24T14:16:49+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:12+09:00",
+      "updatedAt": "2026-11-24T14:52:12+09:00",
+      "summary": "국제지도자 자격 보유자 대상 체육지도자 자격검정 일부 면제 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국제지도자 자격 보유자 대상 체육지도자 자격검정 일부 면제 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSU8zcjRIUUMzVGg1anFOUUxxaHlOZ3NMSGQ3NXpYV3Q2SU5oclYzcFBQOVdMSHFWVG1CLXBELTVxdmJtTDVHM0JEckhRVndsZEZLcUJFZTZrVzVVQVJ0Z1UtRVBGRW1tRUFGWHJDZXBjdGpCNTFaR2NvcE9UUTRpMlBFRUVrbkdiMmtEMjVkVHVVdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9164be0864b084033a6137ce43c5e2c8b6b1489213a4b343859698b6b831e47e"
+    },
+    {
+      "id": "20261124-DP-5CB2AC9D-3397",
+      "title": "국가자격시험, 인공지능(AI) 활용 부정행위를 철저히 대비하고 범죄는 끝까지 추적한다 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T13:21:44+09:00",
+      "publishedAt": "2026-11-24T13:21:44+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:12+09:00",
+      "updatedAt": "2026-11-24T14:52:12+09:00",
+      "summary": "국가자격시험, 인공지능(AI) 활용 부정행위를 철저히 대비하고 범죄는 끝까지 추적한다 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "국가자격시험, 인공지능(AI) 활용 부정행위를 철저히 대비하고 범죄는 끝까지 추적한다 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDkxYXBxTktOLWw2WTFkVmdZc0NYbElORkhUeWdDMHN1UkJYRFlLWDJfaGJKc1d5WHhwQmpXNTJ5Rl9CSXVVeWhqd1JaZEF6Qk9GRmxsbFQ2RzJCWnhCT2lYa1hrQlVzZlZIQUtfQkxud2pmeXJTOERvbmFUSFI1c1dyVUhDdXJkQTROUEZULXJaZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "5cb2ac9db54154ae6a7426f048e3eafa936a0c1285a7321721817c6501764a1f"
+    },
+    {
+      "id": "20261124-DP-565EA015-3398",
+      "title": "농어촌 기본소득 시범사업은 국가 균형발전이라는 국가적 과제에 대응하기 위한 사업입니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T04:31:41+09:00",
+      "publishedAt": "2026-11-24T04:31:41+09:00",
+      "firstCollectedAt": "2026-11-24T14:52:12+09:00",
+      "updatedAt": "2026-11-24T14:52:12+09:00",
+      "summary": "농어촌 기본소득 시범사업은 국가 균형발전이라는 국가적 과제에 대응하기 위한 사업입니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농어촌 기본소득 시범사업은 국가 균형발전이라는 국가적 과제에 대응하기 위한 사업입니다. - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MN2Q4Zld3VmdtLXhtTzBnU0ZIeUJCTGw4TENqRVBGSUdEQXF2YmJJWUluSTVEeDB1NGxrZUFKYnlHdnk5VmtrRHlhVTg4VWxoc05zZW16UnotYTBtV3plWVhuWm1Qb01vSEVHUkQ0dw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "565ea015a4ee0d23d29fe32c82e32b478edc00df1be5f3c05ffa17ac4cb5f5fc"
+    },
     {
       "id": "20261123-FR-922CD988-3392",
       "title": "한국 정부가 내각을 개편하고 주요 안보 관련 직책 3곳을 교체했다. - Vietnam.vn",
@@ -876,59 +1664,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "a0132b19bab6de2cf7ec50abd3a73980e1ef420e610cec3d272458d4142da670"
-    },
-    {
-      "id": "20261123-DP-9387E040-3372",
-      "title": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-23T10:10:48+09:00",
-      "publishedAt": "2026-11-23T10:10:48+09:00",
-      "firstCollectedAt": "2026-11-23T10:30:56+09:00",
-      "updatedAt": "2026-11-23T18:40:05+09:00",
-      "summary": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 - 대한민국 정책브리핑",
-          "date": "2026-11-23",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYTJqUjVvRkF0alVXNUkxbUoxbUM0cGppT1NnOUduNndncFFHNHFHSmx1UE1YYzMxM01HTk5rMm9DUV8xNG9Xck1JMHEzaUdZTXNxUTVWWk0tanh4YzF4TjFoNE9yNldzMjJkWVIwMU1YWC1ETC1iSHNhSG5aMk5OTkZIMmxSaVRXWmN3aGJMU2ZSb0JWdVpodFpoM2IwLUd3dU5uOUxYMFZuT1Q5SF9yUW43U185MmtPZFktMGFaN3hTQmpIZmZlUDVSZ3pKV1A2enI5YWJJbEdKRkRySlRpWjE3OXhneHNZX3NIdDVMbw?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "\"개인정보 보호법 인공지능 특례\" 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고 - 대한민국 정책브리핑",
-          "date": "2026-11-23",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPT3Jlc3B6UkcxUHl0eHZuTGZVcnNjeFVBTTVBcTlteXdiZVBwSnJFT1R0Qm0tcU9MdXJucmFQUnk4Tk5NY1dxOG5Rei12dGZpSldCaHZqMmlLbFllekhHU0JwVGVqWFRDX0VVU2xWSDFvVGJqTzg2RlF5b2hLY1RZLTZsbFN1NmM4elg3STVmM2tBQQ?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-23T18:40:05+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "9387e040283aa278f845e027fbc9008c79c133fc2c59e01d99ed39088c2afdce"
     },
     {
       "id": "20261123-DP-7416B380-3377",
