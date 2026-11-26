@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-26T05:05:24+09:00",
-    "nextScheduledUpdate": "2026-11-26T05:35:24+09:00",
+    "lastSuccessfulUpdate": "2026-11-26T11:44:59+09:00",
+    "nextScheduledUpdate": "2026-11-26T12:14:59+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-26T05:05:16+09:00",
-      "finishedAt": "2026-11-26T05:05:24+09:00",
+      "startedAt": "2026-11-26T11:44:50+09:00",
+      "finishedAt": "2026-11-26T11:44:59+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 184,
-      "acceptedCandidates": 69,
-      "duplicates": 62,
-      "rejected": 104,
-      "rejectedByDate": 95,
-      "rejectedByRelevance": 9,
+      "fetchedCandidates": 182,
+      "acceptedCandidates": 73,
+      "duplicates": 67,
+      "rejected": 100,
+      "rejectedByDate": 94,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 11,
-      "updatedIssues": 7,
+      "newIssues": 14,
+      "updatedIssues": 1,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,7 +41,7 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 34,
+          "count": 32,
           "error": ""
         },
         {
@@ -64,6 +64,632 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261123-FR-63FF1C49-3383",
+      "title": "한-몽골 외교장관회담(11.23.) 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "국내 정치",
+      "subcategory": "양자외교",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T15:14:27+09:00",
+      "publishedAt": "2026-11-23T15:14:27+09:00",
+      "firstCollectedAt": "2026-11-23T18:40:06+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "한-몽골 외교장관회담(11.23.) 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-몽골 외교장관회담(11.23.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3JraGJSVkZzRHVzYjJSU0RQWXhIWXh6RTJ6SG5TcG9qdVZyVFJDOTJ3dDh2LWFiUERoejlfQ3lQdS1HMGp2ZTliZ3ZBZHY2THg4UkxBdzhyM3VkdmtSekdKQmZEaWVaT3VqOVY2eUMzakZMZU0teGp3WTFhVE9HTWp3SWxZRVEwbmV5LTBLelRiQQ?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-오만 외교장관회담(11.25.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU01BZ2pQNG9BRG1WSlFqa2thWkNDLUdqN0VfSHU3LVN1Q1hVOW9XUE9tZURJRHc4Z3M2X1dtM3JiSVdnRXk1dHNYaTYxVTE5X1JxTWpwemxOaWV2eXllcWNPbzdPc09nYnVLQ1RUOHJ3OEVZWVhUTk9BNXVMcVMyTEtMNTJzRzJROFR5QVdSd2JYdw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "한-오만 외교장관회담(11.25.) 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd0hWRVIxUy1qLXhwc29rVFBMV1BHcmFHYXhwc3hFRUtNMmVpaXJaUXdKUzdBektkdGdBd1JqcjRkNFJiS0ZoLURfalRJUDN3Tk5VQ0kzNFBORWp5Q24xNExFbEpJR29nSlA4VEdNaFQwWjJiTzdxM0w5aTRkOHlGM2poaDZEM3lPUUJuc2RkV0pvdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-26T05:05:17+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        },
+        {
+          "updatedAt": "2026-11-26T11:44:51+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 2
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "63ff1c49656bd6bb8fbe7448dc39209a383a6b40e2a29014ce05a7260f12d2af"
+    },
+    {
+      "id": "20261126-DP-1FAAFEA4-3461",
+      "title": "AI 가짜 의사 추천 광고행위 금지 본격 시행 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-26T08:24:28+09:00",
+      "publishedAt": "2026-11-26T08:24:28+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "AI 가짜 의사 추천 광고행위 금지 본격 시행 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "AI 가짜 의사 추천 광고행위 금지 본격 시행 - 대한민국 정책브리핑",
+          "date": "2026-11-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNmc1OHNINkJBRnpJcFQ3czVXaVNIXzBaVFN6S005MVhOMkFyVWVkZ2NxYlJSRW9UbEk3R1h2T3VGZlpoeDBoOXF4Z2NlUi1Mc2p3dmJoeGpqSVJ4aWN6OUFSTDkyeWc1alpKVTJlOUl2WVdKZjFfN3FhNEdNcVlEcENqV2EtUnY2VXp2T2d4dG5WZw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "1faafea457c53e896a98e4e4e6f96cbfbef0a16294eb4e706763aab10caf5d27"
+    },
+    {
+      "id": "20261125-DP-08072AD8-3462",
+      "title": "위급 응급환자에 대한 응급의료 동의절차 개선으로 더 신속하게 진료 가능 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-25T10:08:01+09:00",
+      "publishedAt": "2026-11-25T10:08:01+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "위급 응급환자에 대한 응급의료 동의절차 개선으로 더 신속하게 진료 가능 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "위급 응급환자에 대한 응급의료 동의절차 개선으로 더 신속하게 진료 가능 - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTUJlZU5fVDZJYU1PVktpRkc2U25lY0kyOXV4S2JYWl9ua21CU3BTRDY3bjN4RmhMVFRkelIxUkhtSFdibDJfN2FhMGZvMThteEdCRnp4d0VOQmU5WlRtbkFRMGtmUkdXZlk4UWI1eWh1TUZSdVF4c1ZCbHptWEFlaDFEckF3bUlpdzZLTWxlX19CZWgtNHhpQnRlMHRZWmNUcHB2aExVbXloZ2JOVF9sMFk4b0s3V3RNZmxfOXpFVHNyTHZnM2c3UG0xSFB4b0NZME8tMGJVYk1zU2RfS1JOSS01TkpiMjhwZ1ZWZUphYzZxdWpDaW5WQllaaFBFa0d4Q1l3ZC0tYXVTajJQc21HUA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "08072ad8bd25003232dfddebd326d80b2c34b8b88a5fdeee2a4c8b5abc2b0c11"
+    },
+    {
+      "id": "20261126-DP-0CF0C39F-3463",
+      "title": "「주식회사 등의 외부감사에 관한 법률」위반 혐의에 대한 감리결과 조치 - 제21차 증권선물위원회(11.25.) 조치 의결 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-26T00:00:00+09:00",
+      "publishedAt": "2026-11-26T00:00:00+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "「주식회사 등의 외부감사에 관한 법률」위반 혐의에 대한 감리결과 조치 - 제21차 증권선물위원회(11.25.) 조치 의결 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "「주식회사 등의 외부감사에 관한 법률」위반 혐의에 대한 감리결과 조치 - 제21차 증권선물위원회(11.25.) 조치 의결 - 대한민국 정책브리핑",
+          "date": "2026-11-26",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUnFaTDVwZlY0T185a2pfVHVDM0tockZ4bTBmWHZwMkx6UGo0ZXhWRURLTjhpanpXamszY1F6SC1qY1FnQzVpbmQ1d3ZNU0xsRk1YbVhQamM0eE1hZ20yaWZkbGZSREVVLTBySGhMSFpTYzVZNm1zc2o5WU9Zc2VNSEhUNXc3Q0I3c3pqb3BKcXpEOEVUUkRTNjE1TEtaSmZyQ2RmRGJDeUtnVHVOUG02Mnp3Mk8ybmMwUThjM1RiZ3k1MGdSMkNQM2tSNXEzX1haOU1ta0ZiRDBCNUF0bGdHV0N0TVdCVkxGSW9vZHZBRQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "0cf0c39f39d0a5415c2096954d6e855444b8115f2ad9efe19b5f0ab5d60846a4"
+    },
+    {
+      "id": "20261126-FR-3B050E21-3464",
+      "title": "중·소 건설현장 일제 패트롤 점검 실시 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-26T08:26:15+09:00",
+      "publishedAt": "2026-11-26T08:26:15+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "중·소 건설현장 일제 패트롤 점검 실시 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "중·소 건설현장 일제 패트롤 점검 실시 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-26",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80RHVTUE9zTzJGUTdQdjNRYUdKVFhGZTVJRG44bXRpTDN4ZW1FR0h1dl92ZTZsQk45NU9pbGNwZ2RaZmE1XzhaTXNrbVU5U0J2YThyRVh0NmRnZzc5NGFqUjFtbUpNb1NWZ2c?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3b050e2166cd3889afcf95149cba1d0b85f417c56a458a030bfd5cc89dadd3e8"
+    },
+    {
+      "id": "20261126-FR-32B67E5E-3465",
+      "title": "인천공항 수출통관 현장 방문 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-26T08:26:15+09:00",
+      "publishedAt": "2026-11-26T08:26:15+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "인천공항 수출통관 현장 방문 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "인천공항 수출통관 현장 방문 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-26",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xM2hTWm1PY044WTNxNk95SDBmMWRCTmkya3puUlh4WThyVTliUUFTOEVLNU9SWjlKWHp1RG1VOF95MWJqMGx6b0JoMzU5UURMZ243UVZDeWhKQmNTSjNYRV8yQjFpaVRpbFE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "32b67e5ebc8abcf6bab27ac0ec0b6ef9d7519bdc382f2e281825eeaecb6fc7a2"
+    },
+    {
+      "id": "20261123-FR-549A3A30-3466",
+      "title": "산업·기업 간 격차 줄인다…국가 프로젝트 중소기업 참여 확대 검토 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-23T17:00:00+09:00",
+      "publishedAt": "2026-11-23T17:00:00+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "산업·기업 간 격차 줄인다…국가 프로젝트 중소기업 참여 확대 검토 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "산업·기업 간 격차 줄인다…국가 프로젝트 중소기업 참여 확대 검토 - 대한민국 정책브리핑",
+          "date": "2026-11-23",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsQXZMUVBKWEFydTl5a0x5aFJ6Rk5BdzZTNDB1SmNqdnNtZWl0Y1pKZmRwMlhWeDNqdTNGekVMT3VhRXE0TWstbDBhUkh3STNDdFNCbUdCal9aaUY0RU9VSHBQbFZDZTRrSXNQcw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "549a3a304f4af5f5cccc1e6c703e681e9c770fd0657d47ab4fc2e2543bfbfb47"
+    },
+    {
+      "id": "20261125-FR-7AE7D56E-3467",
+      "title": "김혜경 여사, 사회복지공동모금회 명예회장 추대식 및 나눔실천 기부자 간담회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-25T16:36:33+09:00",
+      "publishedAt": "2026-11-25T16:36:33+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "김혜경 여사, 사회복지공동모금회 명예회장 추대식 및 나눔실천 기부자 간담회 - 포토 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "김혜경 여사, 사회복지공동모금회 명예회장 추대식 및 나눔실천 기부자 간담회 - 포토 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mV2J2ZHdrbkpHbk9CbUZ3U1YwUGtDUWJPMXFLMGZPWG5iZ1RadXZhay15WklzQ0hPOTgxRWtPSW5WYmd6Sk91Yksyb2xuRUJkVUZRZ1NCSGlVeVI0WDVNTG1mN2h4M1RtTkE?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7ae7d56e4981c4bfb1f1a5a38f2b2d8a27f4c9f6c5f02c9743a0b89e9498e10d"
+    },
+    {
+      "id": "20261126-FR-10503AD4-3468",
+      "title": "응암동 ㄹㅏ우럴 대림골목시장 재명로그 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-26T09:36:42+09:00",
+      "publishedAt": "2026-11-26T09:36:42+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "응암동 ㄹㅏ우럴 대림골목시장 재명로그 - 영상 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "응암동 ㄹㅏ우럴 대림골목시장 재명로그 - 영상 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-26",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XV3pSZGRQcHk1M3lWbk9rNkUwWEhjekVfWW8yLUJFdFpwREpBZjBMS3UwT2MtY2pZTWJMTTBEeHZkZHM0YzdyVjlaS0lGM21penBBMjZMT05Pa3dkVnpRczE5b3VFY0dvY3gySA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "10503ad4cfd8f331595a60591c852dfd6f60a8ace6c584d12f70efd6d3749db4"
+    },
+    {
+      "id": "20261126-DP-A612570A-3469",
+      "title": "지식재산처-경찰청 수사협력 간담회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "경찰청",
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-26T10:12:02+09:00",
+      "publishedAt": "2026-11-26T10:12:02+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "지식재산처-경찰청 수사협력 간담회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지식재산처-경찰청 수사협력 간담회 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-26",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWNFclF3bHNtX19XNy01MWZXWjVHa2R2NlE3WWNINWxXTzc0aVVaRnRsb0xVMXlQRGY4aWstOGc4ZnFJVTlCQW1acGpyM3dtVWNxUnZBTTVtWGhva054ZGFvR2tzSjg5SmVJZEdfSDVWY21RWG9wczNScDh4V0NGMk1HcXk2OUhiTHhlTFd3bWVQdw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "a612570a40bebec74efc9c16f77efe381276b77dcf7144e4bfea6646421dfc85"
+    },
+    {
+      "id": "20261125-DP-7E7E4AA1-3470",
+      "title": "이재명 대통령, 공적주택 제대로 알리기 현장 방문 및 소통 간담회 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "대통령실",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "핵심",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-25T17:49:56+09:00",
+      "publishedAt": "2026-11-25T17:49:56+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "이재명 대통령, 공적주택 제대로 알리기 현장 방문 및 소통 간담회 관련 안귀령 부대변인 서면 브리핑 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "이재명 대통령, 공적주택 제대로 알리기 현장 방문 및 소통 간담회 관련 안귀령 부대변인 서면 브리핑 - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmS055cFZhbVRRY202Y2xhem8zTmpka29veGlzM21xM2ZzUEhLenh5VkVaUG1Fd1RzN0VNQWw3RDRtMjByaXVUWFcya2lBaXNaeWdmcVdPenNYSnRBblRBay01U0ZfNjQwcXhncUxBblY?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "7e7e4aa19b14a2ec0b8b043866cb488811e5a808a1f89a4a87d0aa779642cbcc"
+    },
+    {
+      "id": "20261125-FR-DE8610A4-3471",
+      "title": "온투업은 법률에 따라 등록제로 운영되고 있습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-25T04:37:58+09:00",
+      "publishedAt": "2026-11-25T04:37:58+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "온투업은 법률에 따라 등록제로 운영되고 있습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "온투업은 법률에 따라 등록제로 운영되고 있습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzaUJwQ2tJVkt1VU14Wm5IM0p3bWpaYS1VSFNPOFZHSHdwci1RU2dXZmJRUDJCbnBFRUV1TXM1Zm9RbFF4SkxZMXZlN1RCczU5Y0pfRE4xVXhTSUQwSXNBRGFyQkJaeVRkUkJlTWFHYw?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "de8610a42e476f780e57adf2c8f2c896cb61735740b8719c42462d980b27e5df"
+    },
+    {
+      "id": "20261124-FR-AA904AE2-3472",
+      "title": "증가하는 유류 방화 잡는 첨단 '기체포집장치' 활용한 합동 공동 연수(워크숍) 및 참여 잇기(챌린지) 대회 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-24T07:00:00+09:00",
+      "publishedAt": "2026-11-24T07:00:00+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "증가하는 유류 방화 잡는 첨단 '기체포집장치' 활용한 합동 공동 연수(워크숍) 및 참여 잇기(챌린지) 대회 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "증가하는 유류 방화 잡는 첨단 '기체포집장치' 활용한 합동 공동 연수(워크숍) 및 참여 잇기(챌린지) 대회 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-24",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MUZIcC1icWU4VjRwVlVJOWhmaHM1X2RpMmVnRTBsUTdjR01wY0RrejFXR1Z6bDUwd1d1dlhVRXh5UFktQkhTRUlLbjJ1WFRPX2ZISktCTUs0cGZjV1NrMDBjRksyTzB2dExJVkFTU2ZpeVFG?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "aa904ae2d6b21429e543f9df0af11a3fc8c4377f87bdd515cc59daff23e5bc03"
+    },
+    {
+      "id": "20261125-FR-93494AC5-3473",
+      "title": "휴대폰 개통 전, 딱 5개만 물으세요 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-25T11:29:42+09:00",
+      "publishedAt": "2026-11-25T11:29:42+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "휴대폰 개통 전, 딱 5개만 물으세요 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "휴대폰 개통 전, 딱 5개만 물으세요 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SWEdLbVl6VlljbTd5Z0NDMFN1UzdqdDBxSGwybHRWc1dyM3dHMjl3MVJ5VWp3WkYtbEZvbXZpaU9EUmdQdy1ueUwyQWZGdk1fTUNtQjdzQkQ4WTlWdmlZd2ZSbG9OY1pYYVBvbkJn?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "93494ac5d6eb17e5ce3a82669c0ae4cfd4dd2254d08caf4ee2adfbcc76f63887"
+    },
+    {
+      "id": "20261125-FR-E1C92285-3474",
+      "title": "지방국립대 전액 장학금도, 예비 신입생도! 내년 국가장학금 신청 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-25T10:59:30+09:00",
+      "publishedAt": "2026-11-25T10:59:30+09:00",
+      "firstCollectedAt": "2026-11-26T11:44:51+09:00",
+      "updatedAt": "2026-11-26T11:44:51+09:00",
+      "summary": "지방국립대 전액 장학금도, 예비 신입생도! 내년 국가장학금 신청 - 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "지방국립대 전액 장학금도, 예비 신입생도! 내년 국가장학금 신청 - 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+          "date": "2026-11-25",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXo0a0E2aUhSMEcycEpfX2ZNNGRZTjQ1TzVSYzgtSWJQdmNxSk0xdGd0Q05tdnp3Q2dCN3hHdVU1ZUJQSWFQbkNQOGtIc3VFb0RwLXZxVEEwZWp4cWFUZmZnWlI1MXRrMDZZdmF4MXlycnhCV05YaUcydFZwd29ZaHJJVTN1OHcxanZv?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e1c9228577e5df41ebf84511102bb22656471f2033d30441caad660eba6d4808"
+    },
     {
       "id": "20260824-FR-102EDF20-622",
       "title": "2026년 제30차 위원회 결과 - 대한민국 정책브리핑",
@@ -475,59 +1101,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "2cb91643d16a30f602b38a9743dadb7e4269dee159379b8b1b637e691e82d411"
-    },
-    {
-      "id": "20261123-FR-63FF1C49-3383",
-      "title": "한-몽골 외교장관회담(11.23.) 결과 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "국내 정치",
-      "subcategory": "양자외교",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "주요",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-23T15:14:27+09:00",
-      "publishedAt": "2026-11-23T15:14:27+09:00",
-      "firstCollectedAt": "2026-11-23T18:40:06+09:00",
-      "updatedAt": "2026-11-26T05:05:17+09:00",
-      "summary": "한-몽골 외교장관회담(11.23.) 결과 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-몽골 외교장관회담(11.23.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-11-23",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS3JraGJSVkZzRHVzYjJSU0RQWXhIWXh6RTJ6SG5TcG9qdVZyVFJDOTJ3dDh2LWFiUERoejlfQ3lQdS1HMGp2ZTliZ3ZBZHY2THg4UkxBdzhyM3VkdmtSekdKQmZEaWVaT3VqOVY2eUMzakZMZU0teGp3WTFhVE9HTWp3SWxZRVEwbmV5LTBLelRiQQ?oc=5",
-          "official": true
-        },
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "한-오만 외교장관회담(11.25.) 결과 - 대한민국 정책브리핑",
-          "date": "2026-11-25",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU01BZ2pQNG9BRG1WSlFqa2thWkNDLUdqN0VfSHU3LVN1Q1hVOW9XUE9tZURJRHc4Z3M2X1dtM3JiSVdnRXk1dHNYaTYxVTE5X1JxTWpwemxOaWV2eXllcWNPbzdPc09nYnVLQ1RUOHJ3OEVZWVhUTk9BNXVMcVMyTEtMNTJzRzJROFR5QVdSd2JYdw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [
-        {
-          "updatedAt": "2026-11-26T05:05:17+09:00",
-          "reason": "새로운 관련 출처 추가",
-          "previousSourceCount": 1
-        }
-      ],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "63ff1c49656bd6bb8fbe7448dc39209a383a6b40e2a29014ce05a7260f12d2af"
     },
     {
       "id": "20260803-DP-EE39582B-087",
