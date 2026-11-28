@@ -1,26 +1,26 @@
 {
   "meta": {
     "mode": "live",
-    "lastSuccessfulUpdate": "2026-11-28T07:36:46+09:00",
-    "nextScheduledUpdate": "2026-11-28T08:06:46+09:00",
+    "lastSuccessfulUpdate": "2026-11-28T22:29:29+09:00",
+    "nextScheduledUpdate": "2026-11-28T22:59:29+09:00",
     "collectionStatus": "정상",
     "notice": "공식자료와 신뢰도 높은 보도를 기준으로 자동 갱신됩니다.",
     "lastDailyFinalizedAt": null,
     "sourceCount": 4,
     "failedSources": [],
     "lastRun": {
-      "startedAt": "2026-11-28T07:36:39+09:00",
-      "finishedAt": "2026-11-28T07:36:46+09:00",
+      "startedAt": "2026-11-28T22:29:25+09:00",
+      "finishedAt": "2026-11-28T22:29:29+09:00",
       "activeSources": 4,
-      "fetchedCandidates": 167,
-      "acceptedCandidates": 57,
-      "duplicates": 49,
-      "rejected": 103,
-      "rejectedByDate": 83,
-      "rejectedByRelevance": 20,
+      "fetchedCandidates": 200,
+      "acceptedCandidates": 42,
+      "duplicates": 38,
+      "rejected": 154,
+      "rejectedByDate": 148,
+      "rejectedByRelevance": 6,
       "rejectedAsCommentary": 0,
-      "newIssues": 12,
-      "updatedIssues": 3,
+      "newIssues": 6,
+      "updatedIssues": 2,
       "failedSourceCount": 0,
       "sourceResults": [
         {
@@ -41,14 +41,14 @@
           "id": "reliable_domestic_news",
           "name": "국내 정치 주요 보도 검색 피드",
           "status": "success",
-          "count": 35,
+          "count": 50,
           "error": ""
         },
         {
           "id": "reliable_foreign_news",
           "name": "외교·안보 주요 보도 검색 피드",
           "status": "success",
-          "count": 32,
+          "count": 50,
           "error": ""
         },
         {
@@ -64,6 +64,352 @@
     "monthlySummaries": {}
   },
   "issues": [
+    {
+      "id": "20261127-FR-65D1F9DC-3514",
+      "title": "프리랜서의 돈 관리, '청년 경제·금융 소통 강연회'에서 공부했어요 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-27T18:17:09+09:00",
+      "publishedAt": "2026-11-27T18:17:09+09:00",
+      "firstCollectedAt": "2026-11-27T22:42:12+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "프리랜서의 돈 관리, '청년 경제·금융 소통 강연회'에서 공부했어요 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "프리랜서의 돈 관리, '청년 경제·금융 소통 강연회'에서 공부했어요 - 대한민국 정책브리핑",
+          "date": "2026-11-27",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYS1RVG9QdTNSc3NoQVpvcjFFOVFXbVpHSHdpdTlmTXhIaHFTLTZ3UUF4dFU0d1NVUm04aExlbGE4RHlVM0JnS3JQU3ctYk1VeUpLd01oTGlFSWpVZkg5MGpTQml4UWo4d0tDU0Z1NUk2bUx0b3VrM3pyNFd3LUNvNE5wejlfVm9CUUd1Q3JYQmJSdnYzemVJV053?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "프리랜서의 돈 관리, '청년 경제·금융 소통 강연회'에서 공부했어요 - 대한민국 정책브리핑",
+          "date": "2026-11-27",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTWoyaGlCT3IwZHJoaVJUT3YwUU9kZU9LWDV6aGpmUEtjX1hlZmhwVGl2VWNTTnNXaHNQSjhoR1lXaFJiYUNmOC1xX0hJT1U2VXk0R01EelpVYktRSVpIQ3htQ0FKTTdqVjFROFFTQnI2WXc2amVBcWtnYlJUOW5FaVZyZHQ0LXc?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-28T22:29:26+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "65d1f9dcd429848fc6f37fad6348de2f44146463febbb856b4ec082e0713ae23"
+    },
+    {
+      "id": "20260821-DP-559F27E3-597",
+      "title": "(설명) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다. - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "외교·대외관계",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-08-21T16:00:00+09:00",
+      "publishedAt": "2026-08-21T16:00:00+09:00",
+      "firstCollectedAt": "2026-08-24T12:33:34+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "(설명) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다.",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(설명) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다. - 대한민국 정책브리핑",
+          "date": "2026-08-21",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BWFNMcWhoMm9vc0l3VUdiNUxRYUZvMGFxMi1PVnVoWGU4Z3VDbWVyMERHT0p3MmFlQ1ktWGtBVGJhcFUzbDVsNjJuMkZ0alVXZzBxVENHMUhSamxldlBfZnllbm8wZzVTLWlONGF3Zw?oc=5",
+          "official": true
+        },
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "(보도설명) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다. - 대한민국 정책브리핑",
+          "date": "2026-11-26",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FcGs1V1k1MU9wc1d5OXZtVE5wM1JvNmdxR0k2YXlRdHRyQXBuaEdxS1NrbmV2Z01UQWpWalUzTmlXVE1McTFRVk04WHJITXA2VmRBZ1FhcDlVTEVFYXd2Zm42MlJDa2xGZnVpeno3WQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [
+        {
+          "updatedAt": "2026-11-28T22:29:26+09:00",
+          "reason": "새로운 관련 출처 추가",
+          "previousSourceCount": 1
+        }
+      ],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "559f27e3ca053b1abd154b3f32314175526a57798a83ee38a2bc307f8e84ec51"
+    },
+    {
+      "id": "20261128-DP-DA619AB1-3536",
+      "title": "내년부터 국가자격시험에 전파탐지기…첨단기기 부정행위 차단 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-28T04:39:12+09:00",
+      "publishedAt": "2026-11-28T04:39:12+09:00",
+      "firstCollectedAt": "2026-11-28T22:29:26+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "내년부터 국가자격시험에 전파탐지기…첨단기기 부정행위 차단 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년부터 국가자격시험에 전파탐지기…첨단기기 부정행위 차단 - 대한민국 정책브리핑",
+          "date": "2026-11-28",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13Wk82LUk0MHRVSm9TbFlZcUd0TTVkdDBUVEN5VGVEX3JXMEx6b0JXa2pJS1BuZFd2dXgtZ2NhM3U5YjlZczBwdkNLdmlmSGZwa21CS3pTSE16WlhuUTllX0VrMFBrMC1xcUY0RA?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "da619ab14962680009b62390a2c24e52cf20bd47de1c56b9d096d7f4da873a20"
+    },
+    {
+      "id": "20261127-DP-E6AFD4F2-3537",
+      "title": "농식품부 김정욱 농산업혁신정책실장, 겨울철 재해복구 및 대비상황 현장점검 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-27T16:30:00+09:00",
+      "publishedAt": "2026-11-27T16:30:00+09:00",
+      "firstCollectedAt": "2026-11-28T22:29:26+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "농식품부 김정욱 농산업혁신정책실장, 겨울철 재해복구 및 대비상황 현장점검 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "농식품부 김정욱 농산업혁신정책실장, 겨울철 재해복구 및 대비상황 현장점검 - 대한민국 정책브리핑",
+          "date": "2026-11-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGExa2EzeTUweHFRVy1Bcy1iY1Q1S0VZLVFMZE1kWVpvTE85b19wY1NUZU5sTVJjeFlXblJnSGJqcjBCQWZtOWFSYmE2TzE3SGczYkk5NWI2bDFnZFBKaE1vaVdBdG9rWnpZV3MtY2lXWjRDTWVwTGtpeUF5STNaVURRZ2tIdjBYcUZUVjZSakJQUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "e6afd4f2c972b2bed9d7df523a796a190b7d39692c19455137cb0e2a2abbed86"
+    },
+    {
+      "id": "20261127-DP-3C4FA0EC-3538",
+      "title": "하반기 지식 공공외교 실무위원회 회의 개최 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "주요",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-27T17:00:10+09:00",
+      "publishedAt": "2026-11-27T17:00:10+09:00",
+      "firstCollectedAt": "2026-11-28T22:29:26+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "하반기 지식 공공외교 실무위원회 회의 개최 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "하반기 지식 공공외교 실무위원회 회의 개최 - 대한민국 정책브리핑",
+          "date": "2026-11-27",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0NITk9YbUNobHNUaW84UzJiYVhTUnpRdlM5ZzhxSnBtc1V2V0Q1dzhtUWdTUVlnY1JWUlJmbTZ2N2tVc2ZMcWNGRjVjaldObjRxLUYwWTQ5djk1MVdNMEs2eXBhS29LNDZ1THhibXN3QzhKLWIxT1czdzR5TExlUDRHRFoyWkt3Z1g0NVhYVW52QQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "3c4fa0ec2b000c227690a5664f13c2a6a8b190ad442e26495c0aeccd30348e3a"
+    },
+    {
+      "id": "20261127-DP-9427BB1C-3539",
+      "title": "내년 수도권 공공주택 5만 6000호 모집…최근 5년 평균의 2배 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-27T04:36:26+09:00",
+      "publishedAt": "2026-11-27T04:36:26+09:00",
+      "firstCollectedAt": "2026-11-28T22:29:26+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "내년 수도권 공공주택 5만 6000호 모집…최근 5년 평균의 2배 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "내년 수도권 공공주택 5만 6000호 모집…최근 5년 평균의 2배 - 대한민국 정책브리핑",
+          "date": "2026-11-27",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Ya2pYMUFpbUZKa3Z0Y0ZqMVdGdExHRk9ld01kRDlITU1lZFVLS2hSQmNrd2F5LVhpal9PYVNnbGNuS1FqZklrTGg0QzNWajJiQlZTUnZ5RWtjWVFGV2laRlRYTTE2WER1QmxyTg?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "9427bb1c79f7921973c4288776a39c662c8542982d4594707c83f49bba1ec9a7"
+    },
+    {
+      "id": "20261128-DP-2A9EF428-3540",
+      "title": "정은경 장관, 국가시험 현장 점검, 첨단기기 부정행위 빈틈없이 차단 강조 - 대한민국 정책브리핑",
+      "primaryCategory": "국내 정치",
+      "relatedCategory": "",
+      "subcategory": "정부·정책",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-28T10:59:36+09:00",
+      "publishedAt": "2026-11-28T10:59:36+09:00",
+      "firstCollectedAt": "2026-11-28T22:29:26+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "정은경 장관, 국가시험 현장 점검, 첨단기기 부정행위 빈틈없이 차단 강조 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "정은경 장관, 국가시험 현장 점검, 첨단기기 부정행위 빈틈없이 차단 강조 - 대한민국 정책브리핑",
+          "date": "2026-11-28",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUxKZDRMY2RSTy1GeHpRLWc1UHF3Z1NQOC1ia1BuZVhXZldLUkw4WDhJbkRBdk5fMEd3QVQ5bFJhZkZLRzBfS3FZN3Q2Y2UxS2ZvWWdVSVhSU2dRTDgtZHVwU0RKUGlyVnJTOGk2UDByRGZKUkJYVDJaWlMySTlTRHBvV0lQV1VRc0c0?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "2a9ef428c4a5ab9a19ec7a0749525c0578b140fa654942250d5b100dafcff9b4"
+    },
+    {
+      "id": "20261128-FR-112401E1-3541",
+      "title": "유럽국장, 독일 방문 결과 - 대한민국 정책브리핑",
+      "primaryCategory": "외교·대외관계",
+      "relatedCategory": "",
+      "subcategory": "기타 대외관계",
+      "countries": [],
+      "institutions": [
+        "대한민국 정책브리핑"
+      ],
+      "people": [],
+      "importance": "참고",
+      "status": "공식 발표 확인",
+      "verificationLevel": "공식 자료 확인",
+      "occurredAt": "2026-11-28T07:22:26+09:00",
+      "publishedAt": "2026-11-28T07:22:26+09:00",
+      "firstCollectedAt": "2026-11-28T22:29:26+09:00",
+      "updatedAt": "2026-11-28T22:29:26+09:00",
+      "summary": "유럽국장, 독일 방문 결과 대한민국 정책브리핑",
+      "background": "",
+      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
+      "positions": [],
+      "unverifiedDetails": [],
+      "nextSchedule": "",
+      "sources": [
+        {
+          "name": "대한민국 정책브리핑",
+          "title": "유럽국장, 독일 방문 결과 - 대한민국 정책브리핑",
+          "date": "2026-11-28",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckFFQS1EQjZDZWJqRDdtSHlsUWRUMjNMZy1jY3FyVlF1SnFZZ1JZR3hsSFpkRV9WVmZtalBRZDVhNVJnTmZyRldMSFBuNzJiakMtZHhoRE5iWnhqbF9PQTdBa0xicjZaTlFfamh5clFkRzczZnhyN3kwdkVZa1VMYlhIUHdYMTRLODFEaEk0X2JqUQ?oc=5",
+          "official": true
+        }
+      ],
+      "revisionHistory": [],
+      "corrected": false,
+      "correctionReason": "",
+      "relatedIssueIds": [],
+      "includedInDailyBrief": false,
+      "contentHash": "112401e1bebcc2a44c5f4af2dd00bd29c8dd44af2dbc4a83a13a03fa75002451"
+    },
     {
       "id": "20261127-DP-BF69F5F6-3513",
       "title": "[보도자료] 한성숙 국무총리, 응이 베트남 당 중앙정책전략위원장 접견 - 대한민국 정책브리핑",
@@ -1316,46 +1662,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "ed212a612d86c6aa3a653bc08bdd4c88a87279bc02751a9beed3c33e5aa1affd"
-    },
-    {
-      "id": "20261127-FR-65D1F9DC-3514",
-      "title": "프리랜서의 돈 관리, '청년 경제·금융 소통 강연회'에서 공부했어요 - 대한민국 정책브리핑",
-      "primaryCategory": "외교·대외관계",
-      "relatedCategory": "",
-      "subcategory": "기타 대외관계",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-11-27T18:17:09+09:00",
-      "publishedAt": "2026-11-27T18:17:09+09:00",
-      "firstCollectedAt": "2026-11-27T22:42:12+09:00",
-      "updatedAt": "2026-11-27T22:42:12+09:00",
-      "summary": "프리랜서의 돈 관리, '청년 경제·금융 소통 강연회'에서 공부했어요 대한민국 정책브리핑",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "프리랜서의 돈 관리, '청년 경제·금융 소통 강연회'에서 공부했어요 - 대한민국 정책브리핑",
-          "date": "2026-11-27",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYS1RVG9QdTNSc3NoQVpvcjFFOVFXbVpHSHdpdTlmTXhIaHFTLTZ3UUF4dFU0d1NVUm04aExlbGE4RHlVM0JnS3JQU3ctYk1VeUpLd01oTGlFSWpVZkg5MGpTQml4UWo4d0tDU0Z1NUk2bUx0b3VrM3pyNFd3LUNvNE5wejlfVm9CUUd1Q3JYQmJSdnYzemVJV053?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "65d1f9dcd429848fc6f37fad6348de2f44146463febbb856b4ec082e0713ae23"
     },
     {
       "id": "20261127-FR-1094BA07-3516",
@@ -130852,46 +131158,6 @@
       "relatedIssueIds": [],
       "includedInDailyBrief": false,
       "contentHash": "bd1af5b50e725cbb16fa163788c8a414ae8916f525d9f912000d4e160a3512ec"
-    },
-    {
-      "id": "20260821-DP-559F27E3-597",
-      "title": "(설명) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다. - 대한민국 정책브리핑",
-      "primaryCategory": "국내 정치",
-      "relatedCategory": "외교·대외관계",
-      "subcategory": "정부·정책",
-      "countries": [],
-      "institutions": [
-        "대한민국 정책브리핑"
-      ],
-      "people": [],
-      "importance": "참고",
-      "status": "공식 발표 확인",
-      "verificationLevel": "공식 자료 확인",
-      "occurredAt": "2026-08-21T16:00:00+09:00",
-      "publishedAt": "2026-08-21T16:00:00+09:00",
-      "firstCollectedAt": "2026-08-24T12:33:34+09:00",
-      "updatedAt": "2026-08-24T12:33:34+09:00",
-      "summary": "(설명) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다.",
-      "background": "",
-      "significance": "공식 발표 또는 신뢰도 높은 보도의 핵심 조치와 후속 절차를 기준으로 지속 확인이 필요한 사안이다.",
-      "positions": [],
-      "unverifiedDetails": [],
-      "nextSchedule": "",
-      "sources": [
-        {
-          "name": "대한민국 정책브리핑",
-          "title": "(설명) 친환경차 개별소비세 감면을 재정(예산) 지원방식으로 전환하여 국내 친환경차 생태계 육성을 적극 지원하겠습니다. - 대한민국 정책브리핑",
-          "date": "2026-08-21",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BWFNMcWhoMm9vc0l3VUdiNUxRYUZvMGFxMi1PVnVoWGU4Z3VDbWVyMERHT0p3MmFlQ1ktWGtBVGJhcFUzbDVsNjJuMkZ0alVXZzBxVENHMUhSamxldlBfZnllbm8wZzVTLWlONGF3Zw?oc=5",
-          "official": true
-        }
-      ],
-      "revisionHistory": [],
-      "corrected": false,
-      "correctionReason": "",
-      "relatedIssueIds": [],
-      "includedInDailyBrief": false,
-      "contentHash": "559f27e3ca053b1abd154b3f32314175526a57798a83ee38a2bc307f8e84ec51"
     },
     {
       "id": "20260824-FR-130C7113-598",
